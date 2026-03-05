@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Astrée 1621, II, 1 - Deux visages de L'Astrée</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               
+            </authority>
+         </publicationStmt>
+         <sourceDesc>
+            <p>translated from HTML to TEI</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>
+            <anchor xml:id="livre_2_1"/>
+            <graphic url="../../../images/bandeau_page1.jpg" rend="img" mimeType="image/jpeg"/>
+         </head>
+         <head rend="alignCenter">LA SECONDE<lb/>
+            <lb/> PARTIE D'ASTREE.<lb/>
+            <hi rend="italic">De Messire Honoré d'Urfé.</hi><!-- Metamark ? pb ? Si on suit l'édition papier, c'est un pb -->
+            <lb/>LIVRE PREMIER</head>
+         <p>Édition de 1610, 1. <lb/>Édition de Vaganay, p. 7.</p>
+         <pb n="1"/>
+         <p>
+            <graphic url="../../../images/l_page1.jpg" rend="img" mimeType="image/jpeg"/><!-- lettrine avec une image, intérêt de mettre l'image ET de répéter la lettrine ? (Le cas se présente plusieurs fois) -->
+            <hi rend="lettrine">L</hi>A LUNE<note target="note_2.html#2_chronologie"/> estoit desja
+            pour la <app type="modification">
+               <lem wit="#var21">deuxiéme</lem>
+               <rdg wit="#varp">deuxiesme</rdg>
+            </app> fois sur le milieu de son cours, depuis que <persName
+               ref="personnage_cc.html#2_celadon">Celadon</persName> eschapé des mains de <persName
+               ref="personnage_gg.html#2_galathee">Galathee</persName>, et n'osant se presenter
+            devant les yeux de la Bergere <persName ref="personnage_aa.html#2_astree"
+               >Astree</persName>, pour obeïr au commandement<note target="note_2.html#2_commande"/>
+            qu'elle luy en avoit fait, s'estoit renfermé dans sa caverne. Et quoy que trois
+               mois<note target="note_2.html#2_chronologie"/> fussent desja presque <app
+               type="modification">
+               <lem wit="#var21">écoulez</lem>
+               <rdg wit="#varp">escoulez</rdg>
+            </app> depuis le jour de sa perte, <term ref="glossaire.html#si">si</term> est-ce que
+            le <app type="modification">
+               <lem wit="#var21">déplaisir</lem>
+               <rdg wit="#varp">desplaisir</rdg>
+            </app> que sa Bergere en ressentoit, estoit encore si vif en son ame, que quelque <term
+               ref="glossaire.html#prudence">prudence</term> qui <app type="modification">
+               <lem wit="#var21">fut</lem>
+               <rdg wit="#varp">fust</rdg>
+            </app> en elle, elle ne pouvoit <app type="modification">
+               <lem wit="#var21">toutesfois</lem>
+               <rdg wit="#varp">toutefois</rdg>
+            </app> le cacher à ceux qui vouloient y <term ref="glossaire.html#prendre_garde"
+               >prendre garde</term>. Et sembloit que le Ciel, par une juste punition, refusast à sa
+            douleur le remede <pb n="2"/> que le temps a de coustume de rapporter à tous ceux qui
+            ont plus de sujet de se <term ref="glossaire.html#douloir">douloir</term> : car au
+            lieu d'adoucir les aigreurs de ses ennuis, tous les jours elle <app type="modification">
+               <lem wit="#var21">découvroit</lem>
+               <rdg wit="#varp">descouvroit</rdg>
+            </app> de nouvelles occasions de regret. Et quand sa memoire, divertie ailleurs par les
+            compagnies qui la venoient visiter, cessoit <app type="modification">
+               <lem wit="#var21">quelquesfois</lem>
+               <rdg wit="#varp">quelquefois</rdg>
+            </app> de luy representer les causes de ses <app type="modification">
+               <lem wit="#var21">deplaisirs</lem>
+               <rdg wit="#varp">desplaisirs</rdg>
+            </app>, ses yeux en eschange, par tout où ils s'<app type="modification">
+               <lem wit="#var21">addressoient</lem>
+               <rdg wit="#varp">adressoient</rdg>
+            </app>, ne voyoient que des objets tellement <term ref="glossaire.html#ennuyer"
+               >ennuieux</term>, que pour ne les voir elle demeuroit le plus souvent dans sa <term
+               ref="glossaire.html#cabane">cabane</term>. Mais ce qui l'affligeoit davantage,
+            c'estoit qu'elle estoit privee de cette consolation, qui se trouve encore <term
+               ref="glossaire.html#parmi">parmy</term> les plus grandes infortunes. Je<note
+               target="note_2.html#2_intervention"/> veux dire, qu'elle ne pouvoit rejetter le sujet
+            de sa faute que sur elle mesme, ny trouver les moyens de s'en excuser de quelque biays
+            qu'elle peut<note target="note_2.html#2_pouvoir_peut"/> tourner <app type="modification">
+               <lem wit="#var21">cet</lem>
+               <rdg wit="#varp">cest</rdg>
+            </app> accident. Et ne faut douter qu'il luy <app type="addition">
+               <lem wit="#var21">en</lem>
+               <rdg wit="#varp"/>
+            </app> eut esté entierement impossible de continuer sa vie surchargee de tant d'<app
+               type="modification">
+               <lem wit="#var21">
+                  <term ref="glossaire.html#ennui">ennuis</term>
+               </lem>
+               <rdg wit="#varp">
+                  <term ref="glossaire.html#ennui">ennuys</term></rdg>
+            </app>, si l'amitié de <persName ref="personnage_dd.html#2_diane">Diane</persName> et de
+               <persName ref="personnage_pp.html#2_phillis">Phylis</persName> ne luy <app
+               type="modification">
+               <lem wit="#var21">eut</lem>
+               <rdg wit="#varp">eust</rdg>
+            </app> aydé à les supporter ; la presence de la personne aymee estant l'un des plus
+            souverains remedes que la tristesse puisse recevoir. Aussi ces cheres amies n'en estant
+            pas ignorantes, avoient un si grand soin de <app type="modification">
+               <lem wit="#var21">ceste</lem>
+               <rdg wit="#varp">cette</rdg>
+            </app> Bergere, que des la pointe du jour l'une ou l'autre, et bien souvent toutes deux
+            la venoient trouver, et comme par force l'arrachoient de sa <term
+               ref="glossaire.html#cabane">cabane</term>, et la conduisoient par les endroits les
+            plus reculez, de peur que la veuë de ceux où elle <term ref="glossaire.html#souloir"
+               >souloit</term> voir <persName ref="personnage_cc.html#2_celadon">Celadon</persName>
+            ne luy renouvellast <pb n="3"/> la <term ref="glossaire.html#memoire">memoire</term>
+            de sa fascheuse perte. Et puis à l'<term ref="glossaire.html#envy">envy</term>
+            s'estudioient à qui, pour la divertir, luy feroit un meilleur conte, ou proposeroit
+            quelque agreable jeu pour passer plus doucement le reste de la journee : de sorte qu'en
+            despit de la <term ref="glossaire.html#fortune">fortune</term> ces <app
+               type="modification">
+               <lem wit="#var21">
+                  <term ref="glossaire.html#gentil">gentilles</term>
+               </lem>
+               <rdg wit="#varp">
+                  <term ref="glossaire.html#gentil">gentiles</term></rdg>
+            </app> Bergeres desroboient tousjours quelques heures au desplaisir d'<persName
+               ref="personnage_aa.html#2_astree">Astree</persName>, pour les metre en un meilleur
+            usage.</p>
+         <p>  <persName ref="personnage_ss.html#2_silvandre">Silvandre</persName> d'autre costé
+            feignant de rechercher <persName ref="personnage_dd.html#2_diane">Diane</persName> par
+            gageure, en devint de telle sorte amoureux, qu'il servit longuement<note
+               target="note_2.html#2_intervention"/> d'exemple à tous ceux de sa contree, et leur
+            enseigna à ses despens, qu'<rs type="repertoire" ref="repertoire.html#amour_2"
+               >Amour</rs> ne <term ref="glossaire.html#souffrir">souffre</term> guere qu'on se
+            mocque de luy : car il rencontra en ceste Bergere tant de causes d'amour, qu'il estoit
+            tout <term ref="glossaire.html#estonner">estonné</term> de l'avoir veuë si long temps
+            sans l'avoir aymee. Et quoy que la gageure, qui estoit cause de la naissance de son
+            affection, fut le commencement de son mal, <term ref="glossaire.html#si">si</term> ne
+            s'en plaignoit-il point, puis que sans offenser <persName
+               ref="personnage_dd.html#2_diane">Diane</persName> elle luy donnoit la liberté de luy
+            raconter ses passions, la violence de son amour estant telle, que s'il eust esté forcé
+            de la cacher, il luy eust esté impossible de vivre. Et toutesfois quand il se <app
+               type="modification">
+               <lem wit="#var21">
+                  <term ref="glossaire.html#rappeler">r'appelloit</term>
+               </lem>
+               <rdg wit="#varp">
+                  <term ref="glossaire.html#rappeler">rappelloit</term></rdg>
+            </app> en soy-mesme, il cognoissoit bien qu'il avoit fait un changement fort
+            desadvantageux : se souvenant de quel-<term ref="glossaire.html#heur">heur</term> il
+            estoit accompagné, lors que maistre absolu de ses pensees il disposoit tout seul de sa
+            vie et de ses desseins. Combien de fois voulut-il avec la raison défaire les premiers
+            nœuds dont </p>
+         <pb n="4"/>
+         <p>il se sentoit lier en ce nouveau servage ? Combien de fois, voyant que la raison y
+            estoit inutile, voulut-il les rompre avec la force d'une violente resolution ? Mais
+            autant de fois qu'il s'y <app type="modification">
+               <lem wit="#var21">esseya</lem>
+               <rdg wit="#varp">essaya</rdg>
+            </app>, autant de fois reconneut-il que c'est en vain que l'homme s'efforce contre les
+            ordonnances du Ciel, et que <term ref="glossaire.html#celuy">celuy</term> est le plus
+            avisé qui sçait mieux y ployer et conformer sa volonté. Ces considerations estoient
+            cause que quand il ne pouvoit estre aupres de sa <persName
+               ref="personnage_dd.html#2_diane">Diane</persName>, comme le matin et le soir, il
+            estoit bien ayse de se retirer de toute compagnie, tant parce qu'il jugeoit toute autre
+               <term ref="glossaire.html#ennuyer">ennuieuse</term>, ne pouvant jouyr de celle
+            qu'il desiroit, que pour avoir plus de loisir de consulter en soy-mesme librement, et
+            juger <app type="modification">
+               <lem wit="#var21">qu'elle</lem>
+               <rdg wit="#varp">quelle</rdg>
+            </app> estoit la volonté du Ciel, et par quelle voye il <app type="omission">
+               <lem wit="#var21"/>
+               <rdg wit="#varp">y</rdg>
+            </app>
+            <note target="note_2.html#2_il_pourroit"/> pourroit mieux parvenir. Et <term
+               ref="glossaire.html#combien_que">combien qu</term>'il recogneut plus
+            d'impossibilité à la poursuitte de son affection que d'apparence de la pouvoir
+            continuer, <term ref="glossaire.html#si">si</term> ne pouvoit-il jamais <term
+               ref="glossaire.html#prendre">prendre</term> aucune conclusion qu'à l'avantage de
+            son Amour. Que s'il faisoit dessein de s'en retirer, ô que son cœur se faisoit
+            promptement paroistre desobeissant ! Que s'il estoit d'advis de le continuer, quelles
+            peines et quels martyres ne prevoyoit-il point ? - Que ferons-nous donc en fin,
+            disoit-il, <persName ref="personnage_ss.html#2_silvandre">Silvandre</persName>, puis que
+            la poursuitte et la retraitte nous sont egalement impossibles ? Faisons, disoit-il, en
+            se respondant, ce que le Ciel veut que nous fassions. Pourquoy peut-on juger que les
+            Dieux l'ayent <app type="modification">
+               <lem wit="#var21">faicte</lem>
+               <rdg wit="#varp">faitte</rdg>
+            </app> si belle<note target="note_2.html#2_belle"/>, <pb n="5"/> sinon pour estre aymee
+            de ceux qui la verront ? Et puis que de poursuivre et de nous retirer il nous est
+            egallement impossible, elisons pour le moins des deux celuy qui est plus selon la
+            volonté du Ciel et selon la <app type="modification">
+               <lem wit="#var21">vostre</lem>
+               <rdg wit="#varp">nostre</rdg>
+            </app>
+            <note target="note_2.html#2_vostre"/>. Estant si belle il ordonne qu'elle soit aymee, et
+            quant à moy je consentiray plustost à me retirer de la vie que de son service. Que
+            faut-il donc que nous consultions davantage, puis que le Ciel et nostre volonté
+            appreuvent une si bonne resolution ?</p>
+         <p>  De <term ref="glossaire.html#fortune">fortune</term> quand il tenoit ces discours
+            en soy mesme il se trouva sur le bord de la <term ref="glossaire.html#delectable"
+               >delectable</term> riviere de <rs type="repertoire" ref="repertoire.html#lignon_2"
+               >Lignon</rs> vis à vis de ce rocher, qui estant frappé de la voix, respond si
+            intelligiblement aux derniers <app type="modification">
+               <lem wit="#var21">accents</lem>
+               <rdg wit="#varp">accens</rdg>
+            </app>. Cela fut cause qu'apres que ces pensees luy eurent longuement roulé par
+            l'esprit, presque comme revenant d'un profond sommeil : - Mais pourquoy, dit-il, nous
+            allons nous consommant et embroüillant en ces contrarietez ? <rs type="repertoire"
+               ref="repertoire.html#echo_2">Echo</rs> qui habite en ce rocher, si nous l'en
+            enquerons, nous en dira bien ce qu'elle en a ouy de la bouche mesme de ma Bergere, qui
+            est l'Oracle<note target="note_2.html#2_oracle_echo"/> le plus certain que je puisse
+            consulter. Et lors relevant la voix il luy parla de <app type="modification">
+               <lem wit="#var21">cette</lem>
+               <rdg wit="#varp">ceste</rdg>
+            </app> sorte.</p>
+
+      </body>
+   </text>
+</TEI>

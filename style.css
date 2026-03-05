@@ -1,0 +1,174 @@
+.collapsible {
+    background-color: rgb(254, 230, 238);
+    color: #333;
+    cursor: pointer;
+    padding: 1%;
+    width: 70%;
+    margin: 2% 15% 0% 15%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 14pt;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.collapsible:hover {
+    background-color: rgb(222, 192, 202);
+}
+.collapsible:after {
+    content: '+';
+    font-size: 18px;
+    transition: transform 0.3s;
+}
+.collapsible.active:after {
+    content: '-';
+}
+.content {
+    padding: 0 12px;
+    max-height: 0;
+    width: 68%;
+    margin: 2% 15% 0% 15%;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    background-color: rgb(254, 230, 238);
+    border-radius: 0 0 4px 4px;
+}
+
+header{
+    padding: -1.5%;
+    margin: -1.5%;
+    text-align: center;
+    /*background: rgb(254, 230, 238);**/
+    background: rgb(71, 145, 205);
+    font-size: 20pt;
+    z-index: 100;    
+    display: flow-root;
+}
+
+.button{
+    padding: 2%;
+    text-align: center;
+    margin: 2% 25% 2% 25%;
+}
+
+button{
+    text-align: center;
+    font-family: Calibri, sans-serif;
+    font-size: 15pt;
+    padding: 1%;
+    margin: 4px 12px;
+    background-color: rgb(254, 230, 238);
+    border: navajowhite;
+    border-radius: 0 0 4px 4px;
+}
+
+button:hover{
+    background-color: rgb(222, 192, 202);
+}
+
+h2, h3, h4{
+    text-align: center;
+    font-family: Calibri, serif;
+}
+
+p{
+    font-family: Calibri, sans-serif;
+    font-size: 14pt;
+    text-align: justify;
+    margin: 2% 5% 2% 5%;
+}
+
+ul{
+    font-family: Calibri, sans-serif;
+    font-size: 14pt;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 30%;
+}
+
+.page_num{
+    font-size: 12pt;
+    float: right;
+    color: Gray;
+}
+
+.stage{
+    font-family: Calibri, sans-serif;
+    font-style: italic;
+    margin-left: 35%;
+}
+
+.verse{
+    font-family: Calibri, sans-serif;
+    margin-left: 25%;
+}
+
+.variant {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  cursor: pointer;
+}
+
+.varp {
+  visibility: hidden;
+  background-color: rgb(150, 150, 150);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  width: 130px;
+  bottom: 100%;
+  left: 65%;
+  margin-left: -65px;
+}
+
+.variant:hover .varp {
+  visibility: visible;
+}
+
+div.edition{
+  width: 60%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+  display: block;
+}
+
+div.apparat{
+  top: 0;
+  position: sticky;
+  width: 35%;
+  padding-right: 15px;
+  margin-right: 15px;
+  float: right;
+  font-style: italic;
+  display: block;
+  background-color: rgba(177, 140, 193, 0.271);
+}
+
+div.edition, div.apparat{
+    height: auto;
+    overflow-y: auto;
+}
+
+#glossaire{
+  width: 60%;
+  padding: auto;
+  margin: auto;
+  margin-top: 5%;
+  float: center;
+  display: block;
+}
+
+#glossaire{
+  background-color: rgba(190, 63, 249, 0.58);
+}
+
+#repertoire{
+  background-color: rgba(85, 251, 104, 0.58);
+}

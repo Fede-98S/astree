@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Astrée 1621, II, 1 - Deux visages de L'Astrée</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               
+            </authority>
+         </publicationStmt>
+         <sourceDesc>
+            <p>translated from HTML to TEI</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+         <noteGrp>
+            <note xml:id="amour_2" ana="2">
+               <label>Amour</label>
+
+                  <hi rend="italic">Mentionné dans :</hi> <ref target="#amour">I</ref>, <ref target="#2_amour">II</ref>, <ref target="#3_amour">III</ref>, <ref target="#4_amour">IV</ref>
+               <p>
+                  Dans la deuxième partie, <ref target="repertoire_cc.html#cupidon">Cupidon</ref> disparaît : il est remplacé par deux <ref target="glossaire_aa.html#amours">amours</ref> dépeints dans le tableau de la Réciproque amitié (<ref target="../_roman/reference/21_2/21_2_livre_5.html#279">II, 5, 279</ref>). Voir Amour et amitié<hi rend="cache"> </hi>
+                  <ref target="note_2.html#2_amour_amitie">η</ref>.
+               </p>
+               <p>
+               <list>
+                  <item>
+                     La conception platonicienne<ref target="note_analyses.html#neo_platonisme">η</ref> (telle qu'on la trouve par exemple dans <ref target="bibliographie.html#equicola">Equicola</ref>, livre 2, ch. V) s'affirme :<lb/>
+                     Amour,  « le premier, et le plus vieil  de tous les Dieux » (<ref target="../_roman/reference/21_2/21_2_livre_5.html#320">II, 5, 320</ref>), « remplit l'univers, dispose et gouverne » (<ref target="../_roman/reference/21_2/21_2_livre_2.html#75">II, 2, 75</ref>). « Le plus grand et le plus sainct de tous les Dieux » (<ref target="../_roman/reference/21_2/21_2_livre_2.html#119">II, 2, 119</ref>) « est un si grand Dieu, qu'il ne peut rien desirer hors
+                     de soy-mesme : il est son propre centre : et n'a jamais dessein qui ne commence et finisse en luy » (<ref target="../_roman/reference/21_2/21_2_livre_6.html#415">II, 6, 415</ref>) (voir Rond<hi rend="cache"> </hi>
+                     <ref target="note_2.html#2_rond">η</ref>). « Ce sage Amour » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#621">II, 10, 621</ref>), « le plus grand de tous les Dieux, et qui est la
+                     chose du monde la plus forte » (<ref target="../_roman/reference/21_2/21_2_livre_9.html#586">II, 9, 586</ref>)  donne peines et contentements (<ref target="../_roman/reference/21_2/21_2_livre_10.html#619">II, 10, 619</ref>).<lb/>
+                   </item>
+                  <item>
+                     Pourtant Amour est aussi « celuy qui n'est que deffaut », manque (<ref target="../_roman/reference/21_2/21_2_livre_2.html#84">II, 2, 84</ref>).
+                  </item>
+                  <item>
+                     Amour reste un enfant  parce qu'il aime la jeunesse (<ref target="../_roman/reference/21_2/21_2_livre_1.html#42">II, 1, 42</ref>), et parce qu'il est susceptible (<ref target="../_roman/reference/21_2/21_2_livre_6.html#361">II, 6, 361</ref>).
+                  </item>
+                  <item>
+                     La métaphore de l'aveuglement perdure :<lb/>
+                     Amour est aveugle,  il « vise  aux yeux atteint au cœur » (<ref target="../_roman/reference/21_2/21_2_livre_5.html#320">II, 5, 320</ref>). Cependant « les yeux des Amants percent les murailles » (<ref target="../_roman/reference/21_2/21_2_livre_6.html#336">II, 6, 336</ref>). <ref target="personnage_cc.html#2_celadon">Céladon</ref> déclare plutôt : « Je n'ay des yeux que pour celle à qui je suis » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#501">II, 8, 501</ref>).
+                  </item>
+                  <item>
+                     Amour sévit  dans les hameaux et les cours (<ref target="../_roman/reference/21_2/21_2_livre_6.html#326">II, 6, 326</ref>), mais il est aveugle quand il permet qu'on aime au-dessus de son rang (<ref target="../_roman/reference/21_2/21_2_livre_6.html#348">II, 6, 348</ref>).
+                  </item>
+                  <item>
+                     Amour étant « un desir de Beauté », seuls l'œil, l'oreille et la raison, parce qu'ils peuvent discerner la beauté, doivent « avoir part
+                     en l'Amour » (<ref target="../_roman/reference/21_2/21_2_livre_2.html#119">II, 2, 119</ref>). À noter : exclusion du toucher.
+                  </item>
+                  <item>
+                     Il est encore question de novice et d'apprenti en amour, mais <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> déclare :  « L'Amour  estant un instinct de la nature, il n'a besoin d'apprentissage : et c'est pourquoy en quelque aage que nous soyons nous aymons tousjours quelque chose » (<ref target="../_roman/reference/21_2/21_2_livre_11.html#733">II, 11, 733</ref>).
+                  </item>
+                  <item>Les liens d'Amour avec <ref target="repertoire_ff.html#2_fortune_dieu">Fortune</ref> et Espérance se font un peu plus rares que dans la première partie.<lb/>
+                     « Toutes mes fortunes [sont] entre
+                     les mains d'Amour », dit <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#485">II, 7, 485</ref>).
+                     Amour « nourri[t] d'esperance ceux qu'il ne peut contenter », dit <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#478">II, 7, 478</ref>).
+                  </item>
+                  <item>
+                     Les rapports d'Amour avec Justice et Raison sont contestés par certains (<ref target="../_roman/reference/21_2/21_2_livre_4.html#231">II, 4, 231</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#554">II, 8, 554</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_9.html#584">II, 9, 584</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_10.html#621">II, 10, 621</ref>). Amour enlève la puissance que la raison a sur la volonté (<ref target="../_roman/reference/21_2/21_2_livre_2.html#67">II, 2, 67</ref>). Il enlève même volonté et entendement (<ref target="../_roman/reference/21_2/21_2_livre_8.html#502">II, 8, 502</ref>), volonté et jugement (<ref target="../_roman/reference/21_2/21_2_livre_7.html#447">II, 7, 447</ref>) (Voir Amour et justice<hi rend="cache"> </hi>
+                     <ref target="note_2.html#2_amour_justice">η</ref>).
+                  </item>
+                  <item>
+                     Amour est souvent personnifié. On lui adresse harangue et poèmes (<ref target="../_roman/reference/21_2/21_2_livre_2.html#67">II, 2, 67</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#474">II, 7, 474</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#476">II, 7, 476</ref>).  On lui attribue certains actes : le don d'un portrait (<ref target="../_roman/reference/21_2/21_2_livre_5.html#293">II, 5, 293</ref>), la composition d'une lettre (<ref target="../_roman/reference/21_2/21_2_livre_5.html#319">II, 5, 319</ref>) et l'adoption d'un déguisement pastoral (<ref target="../_roman/reference/21_2/21_2_livre_6.html#326">II, 6, 326</ref>). Prudent, Amour  aide <ref target="personnage_ll.html#2_leonide">Léonide</ref> à trouver <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#442">II, 7, 442</ref>). Par pitié, Amour   endort <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#430">II, 6, 430</ref>) et pleure sur la tombe de <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#552">II, 8, 552</ref>).
+                  </item>
+                  <item>
+                     « Ruzé et cauteleux » (<ref target="../_roman/reference/21_2/21_2_livre_1.html#12">II, 1, 12</ref>), « fin et ruzé » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#217">II, 4, 217</ref>),  Amour fait « des miracles » (<ref target="../_roman/reference/21_2/21_2_livre_6.html#353">II, 6, 353</ref>) et transforme celui qui aime (<ref target="../_roman/reference/21_2/21_2_livre_6.html#332">II, 6, 332</ref>). « Il porte les esprits les plus abaissez à des temeritez incroyables, et d'autres fois fait trembler les courages plus relevez en des occasions que les moindres personnes ne redouteroient point » (<ref target="../_roman/reference/21_2/21_2_livre_6.html#335">II, 6, 335</ref>). Amour reconnaît l'intérieur des âmes (<ref target="../_roman/reference/21_2/21_2_livre_3.html#139">II, 3, 139</ref>). Il faut craindre sa puissance (<ref target="../_roman/reference/21_2/21_2_livre_2.html#68">II, 2, 68</ref>)
+                  </item>
+                  <note type="boite_remarque">Les  « esprit abaissez » ont été supprimés de la première <ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">préface</ref>, peut-être parce que l'expression s'appliquait alors aux bergers uniquement.</note>
+                  <item>
+                     Les débats sur l'amour portent sur l'effet positif ou négatif de l'absence (<ref target="../_roman/reference/21_2/21_2_livre_1.html#12">II, 1, 12</ref>) (Voir Amour et absence<hi rend="cache"> </hi>
+                     <ref target="note_2.html#2_amour_absence">η</ref>), sur les effets dévastateurs de l'amour (<ref target="../_roman/reference/21_2/21_2_livre_7.html#445">II, 7, 445</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#500">II, 8, 500</ref>), sur l'amour qu'éprouveraient les morts (<ref target="../_roman/reference/21_2/21_2_livre_5.html#302">II, 5, 302</ref>) et sur la nature du bien qu'Amour donne (<ref target="../_roman/reference/21_2/21_2_livre_9.html#613">II, 9, 613</ref>).
+                  </item>
+                  <item>
+                     Amour se transforme  en législateur dans les <hi rend="italics">Douze Tables des loix d'Amour</hi> (<ref target="../_roman/reference/21_2/21_2_livre_5.html#283">II, 5, 283</ref>) (Voir Douze tables<hi rend="cache"> </hi>
+                     <ref target="note_2.html#2_douze_tables">η</ref>).
+                     « Juge severe » (<ref target="../_roman/reference/21_2/21_2_livre_2.html#120">II, 2, 120</ref>), Amour donne des coups (<ref target="../_roman/reference/21_2/21_2_livre_4.html#226">II, 4, 226</ref>),  châtie (<ref target="../_roman/reference/21_2/21_2_livre_2.html#119">II, 2, 119</ref>),
+                     se venge (<ref target="../_roman/reference/21_2/21_2_livre_4.html#244">II, 4, 244</ref>), et même emprunte la foudre de <ref target="repertoire_tt.html#2_taramis">Taramis</ref> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#68">II, 2, 68</ref>).
+                  </item>
+                  <item>
+                     Le châtiment qu'envoie Amour est de ne pas être aimé. L'inconstant <ref target="personnage_hh.html#2_hylas">Hylas</ref>, par conséquent, ne craint pas le dieu : « Il ne luy pouvoit faire pis, que luy
+                     faire perdre sa Maistresse,  à quoy il sçavoit de tres-bons remedes » (<ref target="../_roman/reference/21_2/21_2_livre_5.html#305">II, 5, 305</ref>).
+                  </item>
+                  <item>
+                     Les chagrins d'Amour gagnent à être racontés (<ref target="../_roman/reference/21_2/21_2_livre_8.html#506">II, 8, 506</ref>).
+                  </item>
+               </list>
+               </p>
+            </note>
+            <note xml:id="echo_2" ana="2">
+               <label>Echo</label>
+               <hi rend="italic">Mentionnée dans :</hi> <ref target="#echo">I</ref>, <ref target="#2_echo">II</ref>
+               <p>
+                  Mythologie.
+                  D'Urfé ne rappelle pas l'histoire de cette nymphe qui a aimé en vain Narcisse, qui se trouve aussi dans le <hi rend="italics">Roman de la Rose</hi>
+                  <hi rend="cache"> </hi>
+                  <ref target="note_analyses.html#roman_rose">η</ref>.
+               </p>
+               <p>
+                  <list>
+                     <item>
+                        D'Urfé ne retient dans <hi rend="italics">L'Astrée</hi> que la propriété d'<ref target="#2_echo">Écho</ref> qui est devenue un nom commun, et  qui est un <hi rend="italics">topos</hi> du genre pastoral. Il  en fait même un substantif pluriel (<ref target="../_roman/reference/21_2/21_2_livre_7.html#468">II, 7, 468</ref>).
+                     </item>
+                  </list>
+                  <ref target="bibliographie.html#furetiere">Furetière</ref> définit ainsi l'écho : « Une certaine sorte de Poësie, dont les derniers mots ou syllabes ont un sens qui répond à la demande qui est contenuë dans les vers, &amp; qui semble être faite par un écho. L'écho en vers a été inventé par Joannes Secundus [Jean Second, 1511 - 1536] en son Bocage, comme témoigne Pasquier, qui rapporte plusieurs exemples de ces échos, tant de luy, que de Joachim du Bellay, &amp; autres » (Voir Fille de l'air<hi rend="cache"> </hi>
+                  <ref target="note_2.html#2_fille_de_air">η</ref>). <lb/>
+                  Sorel et Richelet apprécient les « échos » de <hi rend="italic">L'Astrée</hi>.
+                  <list>
+                     <item>
+                        <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> compose un « Écho » (<ref target="../_roman/reference/21_2/21_2_livre_1.html#5">II, 1, 6</ref>).
+                     </item>
+                     <item>
+                        <ref target="personnage_cc.html#2_celadon">Céladon</ref>, dans un poème, fait de <ref target="#2_echo">Écho</ref> l'âme du bois d'<ref target="repertoire_ik.html#2_isoure">Isoure</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#619">II, 10, 619</ref> et <ref target="../_roman/reference/21_2/21_2_livre_10.html#620">II, 10, 620</ref>).
+                     </item>
+                  </list>
+                  <note type="boite_remarque">Le traitement des mythes d'Écho, de <ref target="repertoire_pp.html#pan">Pan</ref> et de <ref target="repertoire_dd.html#diane_m">Diane</ref> dans la deuxième partie de <hi rend="italics">L'Astrée</hi> prouve que le romancier, en 1610,  ne fait plus appel de la même manière aux ressources de la mythologie classique.</note>
+               </p>
+            </note>
+            <note xml:id="lignon_2" ana="2">
+               <label>Lignon</label>
+               <hi rend="italic">Mentionné dans :</hi> <ref target="#lignon">I</ref>, <ref target="#2_lignon">II</ref>, <ref target="#3_lignon">III</ref>, <ref target="#4_lignon">IV</ref>
+               <p>
+                  Écrit aussi <hi rend="italics">Lygnon</hi>.
+                  Le Lignon « a eu la gloire d'avoir pour son Illustrateur le grand Honoré d'Urfé » (<ref target="bibliographie.html#la_mure">La Mure</ref>. I, p. 82). Le Lignon coule également dans <ref target="bibliographie.html#sylvanire">
+                     <hi rend="italics">La Sylvanire</hi>
+                  </ref>. On y lit ce curieux serment : « Je jure de Lignon l'un et l'autre rivage » (vers 2082). <lb/>
+                  <lb/>
+                  La rivière est nommée une quarantaine de fois dans la deuxième partie de <hi rend="italic">L'Astrée</hi>, moins que dans la première et la troisième partie.
+               </p>
+               <p>
+                  <list>
+                     <item>
+                        Impétueux (<ref target="../_roman/reference/21_2/21_2_livre_10.html#619">II, 10, 619</ref>) ou malheureux (<ref target="../_roman/reference/21_2/21_2_livre_5.html#299">II, 5, 299</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#483">II, 7, 483</ref>), délectable (<ref target="../_roman/reference/21_2/21_2_livre_3.html#160">II, 3, 160</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_10.html#628">II, 10, 628</ref>) ou agréable (<ref target="../_roman/reference/21_2/21_2_livre_3.html#167">II, 3, 167</ref>), le Lignon est une rivière douce (<ref target="../_roman/reference/21_2/21_2_livre_7.html#434">II, 7, 434</ref>) et <ref target="glossaire_ff.html#fatal">fatale</ref> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#65">II, 2, 65</ref>).
+                     </item>
+                     <item>
+                        Aussi connu que le <ref target="repertoire_ff.html#2_forez">Forez</ref> (<ref target="../_roman/reference/21_2/21_2_livre_3.html#167">II, 3, 167</ref>), il sort de deux sources (<ref target="../_roman/reference/21_2/21_2_livre_8.html#497">II, 8, 497</ref>) et se jette dans la <ref target="#2_loire">Loire</ref> à la hauteur de <ref target="repertoire_ff.html#2_feurs">Feurs</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#629">II, 10, 629</ref>).
+                     </item>
+                     <item>
+                        Il sert d'adresse (<ref target="../_roman/reference/21_2/21_2_livre_3.html#131">II, 3, 131</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#468">II, 7, 468</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#490">II, 8, 490</ref>) et de nom de famille aux « Bergers de Lignon » (<ref target="../_roman/reference/21_2/21_2_livre_1.html#24">II, 1, 24</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_3.html#162">II, 3, 162</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_4.html#184">II, 4, 184</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#483">II, 7, 483</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#552">II, 8, 552</ref>).<lb/>
+                        Quitter le Lignon, c'est quitter les hameaux (<ref target="../_roman/reference/21_2/21_2_livre_7.html#483">II, 7, 483</ref>). <lb/>
+                        Des Bergers habitent  sur les deux rives   (<ref target="../_roman/reference/21_2/21_2_livre_1.html#31">II, 1, 31</ref>) et traversent la rivière (<ref target="../_roman/reference/21_2/21_2_livre_2.html#64">II, 2, 64</ref>) sur le pont de la <ref target="repertoire_bb.html#bouteresse">Bouteresse</ref>.
+                     </item>
+                     <item>
+                        Le Lignon est un point de repère : <ref target="repertoire_mm.html#montverdun">Montverdun</ref> se trouve entre la rivière et <ref target="repertoire_ik.html#2_isoure">Isoure</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>). On  voit le Lignon à partir de la demeure d'<ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#628">II, 10, 628</ref>). Le fils et la nièce du druide  traversent   ce cours d'eau pour se rendre dans le  hameau des Bergers (<ref target="../_roman/reference/21_2/21_2_livre_7.html#471">II, 7, 471</ref>).
+                     </item>
+                     <item>
+                        <ref target="personnage_ll.html#2_leonide">Léonide</ref> contemple les beautés de cette rivière (<ref target="../_roman/reference/21_2/21_2_livre_7.html#468">II, 7, 468</ref>) qui abrite des poissons (<ref target="../_roman/reference/21_2/21_2_livre_7.html#469">II, 7, 469</ref>),  qui fait  des détours (<ref target="../_roman/reference/21_2/21_2_livre_7.html#471">II, 7, 471</ref>), et qui a des replis (<ref target="../_roman/reference/21_2/21_2_livre_10.html#629">II, 10, 629</ref>).<lb/>
+                        Les rives sont embellies de prés (<ref target="../_roman/reference/21_2/21_2_livre_3.html#152">II, 3, 152</ref>) où l'on déambule avec plaisir (<ref target="../_roman/reference/21_2/21_2_livre_3.html#160">II, 3, 160</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#434">II, 7, 434</ref>). On rencontre des lieux sauvages (<ref target="../_roman/reference/21_2/21_2_livre_5.html#319">II, 5, 319</ref>),  des îles auxquelles on parvient en sautant sur des cailloux (<ref target="../_roman/reference/21_2/21_2_livre_10.html#630">II, 10, 630</ref>), et « des merveilles » fabriquées par <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_5.html#311">II, 5, 311</ref>).
+                     </item>
+                     <item>
+                        Il y a près du Lignon un rocher qui renvoie un écho (<ref target="../_roman/reference/21_2/21_2_livre_1.html#5">II, 1, 5</ref>), la rivière a donc ses nymphes (<ref target="../_roman/reference/21_2/21_2_livre_1.html#8">II, 1, 8</ref>).
+                     </item>
+                     <item>
+                        Le romancier rappelle que <ref target="personnage_cc.html#2_celadon">Céladon</ref> s'est noyé dans le Lignon (<ref target="../_roman/reference/21_2/21_2_livre_5.html#300">II, 5, 300</ref>). C'est là qu'on l'a cherché (<ref target="../_roman/reference/21_2/21_2_livre_10.html#671">II, 10, 671</ref>) et que les Nymphes l'ont trouvé (<ref target="../_roman/reference/21_2/21_2_livre_7.html#442">II, 7, 442</ref>), car Lignon n'a pas voulu  tuer le Berger (<ref target="../_roman/reference/21_2/21_2_livre_7.html#450">II, 7, 450</ref>). L'âme de <ref target="personnage_cc.html#2_celadon">Céladon</ref> erre le long des rives (<ref target="../_roman/reference/21_2/21_2_livre_5.html#301">II, 5, 301</ref>). Il faut d'ailleurs prendre le chemin de Lignon pour arriver jusqu'au Berger (<ref target="../_roman/reference/21_2/21_2_livre_8.html#496">II, 8, 496</ref>).<lb/>
+                        <ref target="personnage_cc.html#2_celadon">Céladon</ref> dit adieu à la rivière avant de se rendre chez <ref target="personnage_aa.html#2_adamas">Adamas</ref> pour commencer une nouvelle vie (<ref target="../_roman/reference/21_2/21_2_livre_10.html#626">II, 10, 626</ref>).
+                     </item>
+                     <item>
+                        La rhétorique de la pastorale accorde une large place au Lignon. <ref target="personnage_cc.html#2_celadon">Céladon</ref>, dans  un poème, se compare au <ref target="#2_lignon">Lignon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#497">II, 8, 497</ref>), et plus loin lui adresse des stances  (<ref target="../_roman/reference/21_2/21_2_livre_10.html#619">II, 10, 619</ref>). Dans une comparaison, le cours irréversible de la rivière illustre ce qui ne peut pas changer de direction (<ref target="../_roman/reference/21_2/21_2_livre_2.html#93">II, 2, 93</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_10.html#620">II, 10, 620</ref>). <lb/>
+                        Le <ref target="#2_lignon">Lignon</ref> survient dans le songe de <ref target="personnage_cc.html#2_celidee">Célidée</ref> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#65">II, 2, 65</ref>). Comme la traversée d'un fleuve symbolise un obstacle à franchir (<ref target="bibliographie.html#chevalier_dico">Chevalier</ref>), on comprend que la Bergère n'est pas au bout de ses peines.
+                     </item>
+                     <item>
+                        Carte et description du <ref target="#2_lignon">Lignon</ref> moderne se trouvent dans ce <ref target="http://lagauche.free.fr/lignon.htm">site</ref> (30 septembre 2010). Des photos sont dans ce <ref target="photos_forez.html">site</ref>.
+                     </item>
+                  </list>
+               </p>
+            </note>
+         </noteGrp>       
+                  
+         </div>
+      </body>
+    </text>
+</TEI>    
