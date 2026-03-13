@@ -137,23 +137,21 @@ div.edition{
   margin-left: 15px;
   float: left;
   display: block;
+  height: auto;
+  overflow-y: auto;
 }
 
 div.apparat{
+  position: relative !important;
   top: 0;
-  position: sticky;
   width: 35%;
   padding-right: 15px;
   margin-right: 15px;
   float: right;
   font-style: italic;
-  display: block;
   background-color: rgba(177, 140, 193, 0.271);
-}
-
-div.edition, div.apparat{
-    height: auto;
-    overflow-y: auto;
+  height: auto;
+  overflow-y: auto;
 }
 
 #glossaire{

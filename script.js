@@ -1,6 +1,6 @@
 function showDiv(divId) {
      // List all your div IDs here
-     var allDivs = ['edition', 'editorial', 'edition', 'biblio'];
+     var allDivs = ['edition', 'editorial', 'edition', 'biblio', 'apparat'];
      // Hide all divs
      allDivs.forEach(function(id) {
         document.getElementById(id).style.display = 'none';
