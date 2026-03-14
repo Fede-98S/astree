@@ -29,10 +29,9 @@
                 </h1>
             </header>
             <div class="button">
-            <button onclick="showDiv('edition')">Édition</button>
-            <button onclick="showDiv('editorial')">Fonctionelle</button>
-                <!-- <button onclick="showDiv('edition')">Edition</button> -->
-                <!-- <button onclick="showDiv('biblio')">Bibliographie</button> -->
+            <button onclick="showDiv('edition')">Référence</button>
+            <button onclick="showDiv('pre')">Préliminaire</button>
+            <button onclick="showDiv('fonctionnelle')">Fonctionnelle</button>
             </div>
             
             <div id="edition" class="edition" style="display: block;">             
@@ -91,6 +90,7 @@
             <xsl:apply-templates/>
         </h3>
     </xsl:template>
+    
     <xsl:template match="tei:lb">
         <br/><xsl:apply-templates/>
     </xsl:template>
@@ -132,5 +132,36 @@
         </a>
     </xsl:template>
     
+    <xsl:template match="tei:persName">
+        <a href="#" class="personnage">            
+            <xsl:attribute name="data-url">
+                <xsl:value-of select="@ref"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@subtype='stance']">
+        <div class="stance">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="tei:head">
+    <h3>
+        <xsl:apply-templates/>
+    </h3>
+    </xsl:template>
+    
+    <xsl:template match="tei:lg">
+        <div type="strophe">
+            <xsl:apply-templates/>
+        </div><br/>
+    </xsl:template>
  
+    <xsl:template match="tei:l">
+        <span>
+            <xsl:apply-templates/>
+        </span><br/>
+    </xsl:template>
 </xsl:stylesheet>

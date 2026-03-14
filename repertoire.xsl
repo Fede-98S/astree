@@ -96,13 +96,13 @@
         <br/><xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="tei:ref">
-        <span><a href="#">            
+    <xsl:template match="tei:rs">
+        <a href="#" class="repertoire">            
             <xsl:attribute name="data-url">
-                <xsl:value-of select="@target"/>
+                <xsl:value-of select="@ref"/>
             </xsl:attribute>
             <xsl:apply-templates/>
-        </a></span>
+        </a>
     </xsl:template>
     
     
