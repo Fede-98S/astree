@@ -2,15 +2,19 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math" xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs math tei"
-    version="3.0">
+    exclude-result-prefixes="xs math tei"
+    version="1.0">
 
     <xsl:output method="html" indent="yes" encoding="UTF-8"/>
     
     
-    <xsl:strip-space elements="*"/>
+    <!-- Whitespace preserved to prevent text concatenation around inline elements -->
 
-    <xsl:mode on-no-match="shallow-copy"/>
+    <xsl:template match="@* | node()">
+        <xsl:copy>
+            <xsl:apply-templates select="@* | node()"/>
+        </xsl:copy>
+    </xsl:template>
 
     <xsl:template match="tei:TEI">
         
@@ -18,7 +22,7 @@
         <head>
             <meta charset="UTF-8"/>
             <title>
-                <xsl:value-of select="//titleStmt/title"/>
+                <xsl:value-of select="//tei:titleStmt/tei:title"/>
             </title>
             <link rel="stylesheet" href="style.css"/>
         </head>
@@ -35,7 +39,7 @@
             </div>
             
             <div id="edition" class="edition" style="display: block;">             
-                <xsl:apply-templates select="tei:text/body/node()"/>
+                <xsl:apply-templates select="tei:text/tei:body/node()"/>
             </div>
             <div id="apparat" class="apparat" style="display: block;">             
 
@@ -74,7 +78,7 @@
     
     </xsl:template>
        
-    <xsl:template match="p">
+    <xsl:template match="tei:p">
         <p>
             <xsl:apply-templates/>
         </p>
@@ -163,5 +167,9 @@
         <span>
             <xsl:apply-templates/>
         </span><br/>
+    </xsl:template>
+
+    <xsl:template match="tei:graphic">
+        <img src="{@url}" class="{@rend}" alt="{@rend}"/>
     </xsl:template>
 </xsl:stylesheet>
