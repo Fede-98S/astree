@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"?>
 <?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
    <teiHeader>
@@ -19,7 +20,7 @@
       <body>
          <head>
             <anchor xml:id="livre_2_1"/>
-            <graphic url="../../../images/bandeau_page1.jpg" rend="img" mimeType="image/jpeg"/>
+            <graphic url="images/bandeau_page1.jpg" rend="bandeau" mimeType="image/jpeg"/>
          </head>
          <head rend="alignCenter">LA SECONDE<lb/>
             <lb/> PARTIE D'ASTREE.<lb/>
@@ -28,7 +29,7 @@
          <p>Édition de 1610, 1. <lb/>Édition de Vaganay, p. 7.</p>
          <pb n="1"/>
          <p>
-            <graphic url="../../../images/l_page1.jpg" rend="img" mimeType="image/jpeg"/><!-- lettrine avec une image, intérêt de mettre l'image ET de répéter la lettrine ? (Le cas se présente plusieurs fois) -->
+            <graphic url="images/l_page1.jpg" rend="lettrine_img" mimeType="image/jpeg"/><!-- lettrine avec une image, intérêt de mettre l'image ET de répéter la lettrine ? (Le cas se présente plusieurs fois) -->
             <hi rend="lettrine">L</hi>A LUNE<note target="note_2.html#2_chronologie"/> estoit desja
             pour la <app type="modification">
                <lem wit="#var21">deuxiéme</lem>
@@ -208,7 +209,7 @@
          <div type="poem" subtype="stance">
             <head><rs type="repertoire" ref="repertoire.html#echo_2">Echo</rs><lb/>Stances.</head>
             <lg>
-               <!-- <graphic url="../../../images/f_6.jpg" rend="img" mimeType="image/jpeg"/> -->
+               <graphic url="images/f_6.jpg" rend="stance_img" mimeType="image/jpeg"/>
                <l>Fille de l'air qui ne <term ref="glossaire.html#scavoir">saurais</term> rien
                   taire,</l>
                <l>De ces rochers hôtesse solitaire,</l>

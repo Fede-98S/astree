@@ -1,19 +1,19 @@
 /* proposta.css */
 
 :root {
-    --bg-main: #f8fafc;
-    --bg-paper: #ffffff;
-    --text-main: #334155;
-    --text-muted: #64748b;
-    --primary-color: rgb(71, 145, 205);
-    --secondary-color: #0f172a;
-    --accent-color: #3b82f6;
-    --accent-hover: #2563eb;
-    --border-color: #e2e8f0;
-    --border-radius: 12px;
-    --shadow-sm: 0 1px 3px rgba(0,0,0,0.1);
-    --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
-    --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05);
+    --bg-main: #f5f1e7;
+    --bg-paper: #fdfbf7;
+    --text-main: #2b2825;
+    --text-muted: #6b625b;
+    --primary-color: #8c2a1b;
+    --secondary-color: #2b2825;
+    --accent-color: #b04632;
+    --accent-hover: #732215;
+    --border-color: #e3dec9;
+    --border-radius: 6px;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+    --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.08), 0 2px 4px -1px rgba(0,0,0,0.05);
+    --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.08), 0 4px 6px -2px rgba(0,0,0,0.04);
     
     --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     --font-serif: 'Georgia', 'Times New Roman', serif;
@@ -433,13 +433,38 @@ a.glossaire:hover, a.repertoire:hover, a.personnage:hover, a[data-url]:hover {
     border-bottom: 1px solid var(--accent-hover);
 }
 
-/* Lettrine */
-.lettrine {
-    font-size: 4rem;
+/* Lettrine and Images */
+.bandeau {
+    width: 100%;
+    max-width: 510px;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+    box-shadow: var(--shadow-sm);
+    border-radius: 2px;
+}
+
+.lettrine_img {
     float: left;
-    line-height: 0.8;
-    padding-right: 0.75rem;
-    padding-top: 0.4rem;
+    height: 136px;
+    width: auto;
+    margin: 0.5rem 1rem 0.5rem 0;
+    border-radius: 2px;
+}
+
+.stance_img {
+    height: 78px;
+    width: auto;
+    display: block;
+    margin: 0 auto 1rem auto;
+}
+
+.lettrine {
+    font-size: 2.5rem;
+    float: left;
+    line-height: 1;
+    padding-right: 0.25rem;
+    padding-top: 0.1rem;
     color: var(--primary-color);
     font-family: var(--font-serif);
     font-weight: bold;
