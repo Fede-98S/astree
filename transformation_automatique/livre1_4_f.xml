@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Astrée fonctionnelle, I, 4 - Deux visages de L'Astrée</title>
+        <author/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>translated from HTML to TEI</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!--<nav>-->
+      <ref target="https://www.univ-rouen.fr/">
+        <graphic url="images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+      </ref>
+      <hi rend="bold">Tableaux analytiques</hi>
+      <ref target="../../../_analyse/index_noms_propres.html">Index des noms propres</ref>
+      <ref target="../../../_analyse/personnage.html">Tableaux des personnages</ref>
+      <ref target="../../../_analyse/repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref>
+      <ref target="../../../_analyse/glossaire.html">Glossaire</ref>
+      <ref target="../../../_analyse/dictionnaire_orientation.html">Dictionnaire des fréquences</ref>
+      <ref target="../../../_analyse/notes.html">Notes</ref>
+      <hi rend="bold">Topographie du site</hi>
+      <ref target="../../../_analyse/plan_du_site.html">Plan du site</ref>
+      <ref target="../../../_analyse/plan_du_site.html#alpha">Index de l'apparat critique</ref>
+      <ref target="../../../_analyse/bibliographie.html">Bibliographie</ref>
+      <ref target="../../../_analyse/liens.html">Liens externes</ref>
+      <ref target="../../../_analyse/liens_gallica.html">Liens vers Gallica</ref>
+      <hi rend="bold">Support</hi>
+      <ref target="../../../_analyse/guide.html">Guide de la navigation</ref>
+      <ref target="../../../_analyse/faq.html">FAQ</ref>
+      <ref target="../../../_analyse/nouveautes.html">Nouveautés</ref>
+      <ref target="../../../_analyse/remerciements.html">Remerciements</ref>
+      <ref target="../../../_analyse/cv.html">Auteur du site</ref>
+      <hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi>
+      <!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">-->
+      <hi style=" color:red; font-size:14px; font-weight:bold"> X </hi>
+      <!--</button>-->
+      <!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">-->
+      <!--</input>-->
+      <hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+        <hi rend="bold">Introductions</hi>
+      </hi>
+      <ref target="../../../_analyse/accueil.html">Accueil</ref>
+      <ref target="../../../_analyse/preface.html">Préface</ref>
+      <ref target="../../../_analyse/choix.html">Choix éditoriaux</ref>
+      <ref target="../../../_analyse/quatriemes.html">Les Quatrièmes parties</ref>
+      <ref target="../../../_analyse/astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref>
+      <ref target="../../../_analyse/vaganay.html">L'Édition de Vaganay</ref>
+      <ref target="../../../_analyse/texte.html">Présentation des textes</ref>
+      <ref target="../../../_analyse/feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref>
+      <!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">-->
+      <!--</input>-->
+      <hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+        <hi rend="bold">Lecture de</hi>
+      </hi>
+      <hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+        <hi rend="visageslivre">L'Astrée</hi>
+      </hi>
+      <ref target="../../reference/21_1/21_1_liminaires.html">
+        <hi rend="small">
+          <hi rend="bold">Éd. de référence</hi>
+        </hi>
+      </ref>
+      <ref target="../../reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref>
+      <ref target="../../reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref>
+      <ref target="../../reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref>
+      <ref target="../../reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref>
+      <ref target="../../preliminaire/07_1/07_1_liminaires.html">
+        <hi rend="small">
+          <hi rend="bold">Éd. préliminaire</hi>
+        </hi>
+      </ref>
+      <ref target="../../preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref>
+      <ref target="../../preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref>
+      <ref target="../../preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref>
+      <ref target="fonctionnelle_1_liminaires.html">
+        <hi rend="small">
+          <hi rend="bold">Éd. fonctionnelle</hi>
+        </hi>
+        <lb/>
+        <hi rend="small">avec gravures</hi>
+      </ref>
+      <ref target="fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref>
+      <ref target="../fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref>
+      <ref target="../fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref>
+      <ref target="../fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref>
+      <ref target="../../../_analyse/fonctionnelle_word.html">
+        <hi rend="small"><hi rend="bold">Éd. téléchargeable</hi><lb/>
+en Word</hi>
+      </ref>
+      <ref target="../../../_analyse/resume.html">
+        <hi rend="small"><hi rend="bold">Résumé</hi> des intrigues</hi>
+      </ref>
+      <ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref>
+      <ref target="../../../_analyse/plan_du_site.html#apparat">
+        <hi rend="white">
+          <hi rend="bold">APPARAT CRITIQUE</hi>
+        </hi>
+      </ref>
+      <!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">-->
+      <!--</input>-->
+      <hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+        <hi rend="bold">Le roman</hi>
+      </hi>
+      <ref target="../../../_analyse/evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref>
+      <ref target="../../../_analyse/variantes_confrontees.html">Variantes confrontées</ref>
+      <ref target="../../../_analyse/variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref>
+      <ref target="../../../_analyse/variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref>
+      <ref target="../../../_analyse/variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref>
+      <ref target="../../../_analyse/illustrations.html">Analyse des illustrations</ref>
+      <ref target="../../../_analyse/paralleles.html">Parallèles suggérés</ref>
+      <ref target="../../../_analyse/resume.html">Résumé des intrigues</ref>
+      <ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref>
+      <ref target="../../../_analyse/temoignages.html">Témoignages</ref>
+      <ref target="../../../_analyse/temoignages.html#ducrozet">Du Crozet</ref>
+      <ref target="../../../_analyse/temoignages.html#sorel">Sorel</ref>
+      <ref target="../../../_analyse/temoignages.html#gueret">Guéret</ref>
+      <ref target="../../../_analyse/lingendes_poemes.html">Poèmes de Lingendes</ref>
+      <!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">-->
+      <!--</input>-->
+      <hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+        <hi rend="bold">Le romancier</hi>
+      </hi>
+      <ref target="../../../_analyse/urfe.html">Biographie</ref>
+      <ref target="../../../_analyse/biographes.html">Biographes, critiques</ref>
+      <ref target="../../../_analyse/evenements.html">Événements</ref>
+      <ref target="../../../_analyse/genealogie.html">Généalogie</ref>
+      <ref target="../../../_analyse/testament.html">Testament</ref>
+      <ref target="../../../_analyse/inventaire.html">Inventaire</ref>
+      <ref target="../../../_analyse/heritages.html">Héritages</ref>
+      <ref target="../../../_analyse/poemes.html">Poèmes</ref>
+      <ref target="../../../_analyse/epitres.html">Épîtres</ref>
+      <ref target="../../../_analyse/lettres.html">Lettres</ref>
+      <ref target="../../../_analyse/malherbe.html">Remarques<lb/>
+  sur Malherbe</ref>
+      <!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">-->
+      <!--</input>-->
+      <hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+        <hi rend="bold">Ressources</hi>
+      </hi>
+      <ref target="../../../_analyse/bibliographie.html">Bibliographie</ref>
+      <ref target="../../../_analyse/liens.html">Liens externes</ref>
+      <ref target="../../../_analyse/liens_gallica.html">Liens vers Gallica</ref>
+      <ref target="../../../_analyse/cartotheque.html">Cartothèque</ref>
+      <ref target="../../../_analyse/galerie.html">Galerie de portraits</ref>
+      <ref target="../../../_analyse/rohmer.html">Film d'Eric Rohmer</ref>
+      <ref target="../../../_analyse/partitions.html">Partitions d'A. Naigeon</ref>
+      <ref target="../../../_analyse/photos_forez.html">Photos du Forez</ref>
+      <p>
+        <graphic url="images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/>
+      </p>
+      <ref target="#citation">
+        <hi style="font-size:18px">«</hi>
+        <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+        <hi style="font-size:18px">»</hi>
+      </ref>
+      <!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">-->
+      <hi style=" color:red; font-size:14px; font-weight:bold"> X </hi>
+      <!--</button>-->
+      <p>
+        <graphic url="images/annotation_a.gif" rend="img" mimeType="image/gif"/>
+      </p>
+      <!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">-->
+      <!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">-->
+      <!--</input>-->
+      <!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">-->
+      <!--</input>-->
+      <!--<input
+  type="hidden"
+  name="q"
+  value="">-->
+      <!--</input>-->
+      <!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../../../images/loupe.gif">-->
+      <!--</input>-->
+      <!--</form>-->
+      <!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">-->
+      <!--</input>-->
+      <hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi>
+      <ref target="../../../_analyse/recherche.html#recherche_ciblee">Recherche ciblée</ref>
+      <ref target="../../../_analyse/recherche.html">Fils d'Arianne</ref>
+      <ref target="../../../_analyse/hyperbase_orientation.html">Hyperbase (É. Brunet)</ref>
+      <ref target="../../../_analyse/recherche.html#acces">Accès aux pages/folios</ref>
+      <ref target="../../../_analyse/concordance.html">Concordances-Vaganay</ref>
+      <hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi>
+      <hi rend="italic">L'Astrée </hi>
+      <!--<script>-->
+      <!--</script>-->
+      <ref target="../../../_analyse/resume.html">Résumé du roman</ref>
+      <ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref>
+      <ref target="../../../_analyse/choix.html">Choix éditoriaux</ref>
+      <ref target="../../../_analyse/texte.html">Présentation des textes</ref>
+      <ref target="../../../_analyse/evolution.html">Évolution</ref>
+      <ref target="../../../_analyse/illustrations.html">Illustrations</ref>
+      <table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;"><graphic url="images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table>
+      <!--</nav>-->
+      <!--<header>-->
+      <p>
+        <graphic url="images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/>
+      </p>
+      <hi rend="italic">L'Astrée</hi>
+      <!--</header>-->
+      <!--<script>-->
+      <!--</script>-->
+      <hi rend="italic">L'Astrée fonctionnelle</hi>
+      <hi rend="italic">L'Astrée</hi>
+      <ref target="fonctionnelle_1_livre_3.html">
+        <graphic url="images/fleche_g.gif" rend="img" mimeType="image/gif"/>
+        <hi style="float:left; margin-top:6px">Livre 3</hi>
+      </ref>
+      <ref target="fonctionnelle_1_livre_5.html">
+        <graphic url="images/fleche_d.gif" rend="img" mimeType="image/gif"/>
+        <hi style="float:right; margin-top:6px">Livre 5</hi>
+      </ref>
+      <!--<header>-->
+      <div>
+        <div>
+          <head><hi rend="italic">L'Astrée</hi>
+	    d'Honoré d'Urfé<lb/>
+    Première partie </head>
+          <!--</header>-->
+          <!--<header>-->
+        </div>
+      </div>
+      <div>
+        <head>Livre 4</head>
+        <!--</header>-->
+        <lb/>
+        <p>
+          <graphic url="images/gravures_vaganay/premiere/1-4-1.jpg" rend="img" mimeType="image/jpeg"/>
+        </p>
+        <lb/>
+        <hi rend="titre9"><hi rend="italic">L'Astrée</hi> I, 4.
+Édition <ref target="../../../_analyse/bibliographie.html#vaganay**">Vaganay**</ref>, 1925<lb/>
+Dans le temple, le Jugement de <ref target="../../../_analyse/repertoire_pp.html#paris_m">Pâris</ref> : <ref target="../../../_analyse/personnage_mm.html#malthee">Malthée</ref>, <ref target="../../../_analyse/personnage_ss.html#stelle">Stelle</ref> et  <ref target="../../../_analyse/personnage_aa.html#astree">Astrée</ref> devant <ref target="../../../_analyse/personnage_no.html#orithie">Orithie<lb/>
+</ref> (<ref target="../../reference/21_1/21_1_livre_4.html#89_verso">I, 4, 89 verso</ref>) <lb/>
+À l'extérieur, <ref target="../../../_analyse/personnage_no.html#orithie">Orithie</ref> embrassant <ref target="../../../_analyse/personnage_aa.html#astree">Astrée</ref> devant un druide (<ref target="../../reference/21_1/21_1_livre_4.html#91_recto">I, 4, 91 recto</ref>) <lb/>
+Plus loin <ref target="../../../_analyse/personnage_aa.html#astree">Astrée</ref> portée en triomphe dans une chaire (<ref target="../../reference/21_1/21_1_livre_4.html#91_recto">I, 4, 91 recto</ref>)<lb/>
+Au fond, peut-être, <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref> demandant pardon à <ref target="../../../_analyse/personnage_aa.html#astree">Astrée</ref> (<ref target="../../reference/21_1/21_1_livre_4.html#93_recto">I, 4, 93 recto</ref>)</hi>
+        <lb/>
+        <hi rend="titre9">(Voir <ref target="../../../_analyse/illustrations.html#gravures_ajoutees">Illustrations</ref>)</hi>
+        <lb/>
+        <lb/>
+        <lb/>
+        <p>
+          <graphic url="images/gravures_vaganay/premiere/1-4-2.jpg" rend="img" mimeType="image/jpeg"/>
+        </p>
+        <lb/>
+        <hi rend="titre9"><hi rend="italic">L'Astrée</hi> I, 4.
+Édition <ref target="../../../_analyse/bibliographie.html#vaganay**">Vaganay**</ref>, 1925<lb/>
+<ref target="../../../_analyse/personnage_no.html#orithie">Orithie</ref> et <ref target="../../../_analyse/personnage_aa.html#astree">Astrée</ref> devant une statue de <ref target="../../../_analyse/repertoire_uz.html#venus">Vénus</ref> qui n'est pas dans le roman <ref target="../../reference/21_1/21_1_livre_4.html#90_verso">(I, 4, 90 verso)</ref>
+            </hi>
+        <ref target="../../reference/21_1/21_1_livre_4.html">
+          <lb/>
+        </ref>
+        <hi rend="titre9">(Voir <ref target="../../../_analyse/illustrations.html#gravures_ajoutees">Illustrations</ref>)</hi>
+        <lb/>
+        <lb/>
+        <p>Édition de 1607, 77 recto.<lb/>Édition de Vaganay,  p. 101.</p>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p> plaire que pour être courte,
+        et s'étant toutes trois assises en rond, elle
+        reprit la parole de cette sorte :</p>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p rend="center_t titres"><hi rend="first"><hi rend="italics">
+                
+              </hi></hi>CHANSON </p>
+        <p/>
+        <p rend="center_t italics">* Encore que pleins de feintises,<lb/>
+Veulent-ils bien se parjurer ?<lb/>Ils m'ont dit souvent que son cœur<lb/>
+Quitterait enfin sa rigueur,<lb/>
+Accordant à ce faux langage <lb/>
+Le reste de son beau visage.<lb/>
+<lb/>
+Mais quoi ?  Les beaux yeux des Bergères<lb/> * Se trouveront aussi trompeurs<lb/>
+Que des cours les attraits <ref target="../../../_analyse/glossaire_pp.html#pipeur">pipeurs</ref> ?<lb/>
+Donc ces beautés bocagères,<lb/>
+Quoique sans fard dessus le front,<lb/>
+Dedans le cœur se farderont,<lb/>
+Et n'apprendront en leurs écoles,<lb/>
+Qu'à ne donner que des paroles ? <lb/>
+            <lb/> * C'est assez, il est temps, la Belle,<lb/>
+De finir cette cruauté,<lb/>
+Et croyez que toute beauté<lb/>
+Qui n'a la douceur avec elle,<lb/>
+C'est un œil qui n'a point de jour,<lb/>
+Et qu'une belle sans Amour,<lb/>
+Comme indigne de cette flamme,<lb/>
+Ressemble un corps qui n'a point d'âme. </p>
+        <p>  Ma sœur, interrompit <ref target="../../../_analyse/personnage_pp.html#phillis">Phillis</ref>, je me ressouviens fort
+        bien de ce que vous dites, et faut que je vous fasse
+        rire de la façon dont il parlait à moi, car le plus
+        souvent ce n'étaient que des mots tant interrompus
+        qu'il eût fallu deviner pour les entendre, et
+        d'ordinaire
+        quand il me voulait nommer, il avait tant accoutumé        </p>
+        <p/>
+        <p/>
+        <p/>
+        <p rend="center_t"><hi rend="titres">
+              STANCES</hi><lb/>
+Sur une résolution de ne plus aimer</p>
+        <p rend="center_t italics">*<hi rend="first"> Q</hi>uand je vis ces beaux yeux, nos superbes vainqueurs,<lb/>
+  <ref target="../../../_analyse/glossaire_ss.html#soudain">Soudain</ref> je m'y soumis comme aux Rois de nos cœurs,<lb/>
+Pensant que la rigueur en dût être bannie ;<lb/>
+Mais depuis éprouvant leur dure cruauté,<lb/>
+Je crus qu'éterniser en nous leur Tyrannie,<lb/>
+Ce n'était pas Amour, mais plutôt lâcheté.<lb/>
+            <lb/> * Il est vrai que c'est d'eux, dont naissent tous les jours<lb/>
+Aux moindres de leurs traits quelques nouveaux Amours,</p>
+        <p/>
+        <p rend="center_t italics">* Mais à quoi sert cela si comme de sa source <lb/>
+L'eau soudain qu'elle y naît incontinent s'enfuit ?<lb/>
+De même aussi l'Amour, d'une soudaine course,<lb/>
+S'enfuit loin de ces yeux, quoiqu'il en soit produit. <lb/>
+À son exemple aussi fuyons-les ces beaux yeux,<lb/>
+Fuyons-les, et croyons que c'est pour notre mieux.<lb/>
+Et quand ils nous voudraient faire quelque poursuite,<lb/>
+N'attendons point leurs coups n'y pouvant résister,<lb/>
+Car il vaut beaucoup mieux se sauver à la fuite,<lb/>
+Que d'attendre la mort qu'on peut bien éviter.</p>
+        <p/>
+        <p rend="center_t titres">
+          <ref target="../../../_analyse/glossaire_aa.html#allechement"><hi rend="italics"/>MADRIGAL</ref>
+        </p>
+        <p rend="center_t"> QU'IL NE DOIT POINT <lb/>
+  espérer d'être aimé      </p>
+        <p/>
+        <p/>
+        <p/>
+        <p> avec moi, lui
+    donna une lettre que son frère lui écrivait par mon
+    conseil. </p>
+        <p rend="italics">  <hi rend="first">S</hi>i je ne vous ai toujours aimée, que jamais ne sois-je
+  aimé de personne, et si mon affection a jamais changé,
+  que jamais le malheur où je suis ne se change. Il
+  est vrai que depuis quelque temps j'ai plus caché
+  d'Amour dans le cœur que je n'en ai laissé
+  paraître en mes yeux ni en mes paroles. Si j'ai <ref target="../../../_analyse/glossaire_ff.html#faillir">failli</ref> en cela, accusez-en le respect que je vous
+  porte qui m'a ordonné d'en user ainsi. Que si vous
+  ne croyez le serment que je vous en fais, tirez-en
+  telle preuve que vous voudrez de moi, et vous
+  connaîtrez que vous m'avez mieux acquis que je ne
+  sais vous en assurer par mes véritables, mais trop
+  impuissantes paroles.</p>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p>  <hi rend="italics"><hi rend="first">H</hi>ier nous allâmes au Temple, où nous fûmes
+      assemblés pour assister aux honneurs qu'on fait à
+      <ref target="../../../_analyse/repertoire_pp.html#pan">Pan</ref> et à   <ref target="../../../_analyse/repertoire_ss.html#syringue">Syrinx</ref> en leur <ref target="../../../_analyse/glossaire_cc.html#chomer">chômant</ref> ce jour :
+      j'eusse dit festoyant si vous y eussiez été, mais
+      l'amitié que je vous porte est telle que ni même
+      les choses divines, s'il m'est permis de le dire
+      ainsi, sans vous ne me peuvent plaire. Je me trouve
+      tant incommodée de nos communs importuns que sans la
+      promesse que j'ai faite  de vous écrire tous les
+      jours, je ne sais si aujourd'hui vous eussiez eu de
+      mes nouvelles. Recevez-les donc pour ce <ref target="../../../_analyse/glossaire_cc.html#coup">coup</ref> de ma
+      promesse. </hi>
+          </p>
+        <p> Quand <ref target="../../../_analyse/personnage_aa.html#alcippe">Alcippe</ref> eut lu cette lettre, il la remit au
+même lieu, et se cachant pour voir la réponse, son
+fils ne tarda pas d'y venir, et ne se trouvant point
+de papier récrivit sur le dos de ma lettre, et m'a
+dit depuis que la sienne était telle :</p>
+        <p/>
+        <p rend="italics">  <hi rend="first">V</hi>ous m'obligez et désobligez en même temps ;   pardon,
+      si ce mot vous offense. Quand vous me dites que vous
+      m'aimez, puis-je avoir quelque plus grande obligation
+à tous les Dieux ?  Mais l'offense n'est pas petite
+      quand cette fois vous ne m'écrivez que pour me l'avoir promis, car je dois ce bien à votre promesse
+      et non pas à votre amitié. Ressouvenez-vous, je vous
+      supplie, que je ne suis pas à vous parce que je le
+      vous ai promis, mais parce que véritablement je suis
+      vôtre, et que de même je ne veux pas des lettres
+      pour les conditions qui sont entre nous ;   mais pour
+      le seul témoignage de votre bonne volonté, ne les
+      chérissant pas pour être marchandées, mais * pour m'être envoyées d'une entière et parfaite affection.</p>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p rend="center_t italics">Que la vôtre m'aille vengeant :<lb/>
+        Qu'elle feigne de vous aimer,<lb/>
+				Seulement pour vous enflammer.<lb/>
+            <lb/>
+				Ainsi pressé de sa tristesse,<lb/>
+        Un Amant trahi se plaignait,<lb/>
+        Quand on lui dit que sa Maîtresse <lb/>
+				Pour un autre le dédaignait.<lb/>
+				Et le Ciel tonnant<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#114_verso">η</ref> par pitié<lb/>
+				Promit venger son amitié.</p>
+        <p/>
+        <p rend="center_t italics"> Ou tu devais <ref target="../../../_analyse/glossaire_ss.html#soudain">soudain</ref> mourir,<lb/>
+      Ou bien incontinent guérir.</p>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p>  lui  mettre, en
+        courant après quelque loup qui était venu passer
+        auprès de nos troupeaux, je la laissai tomber si
+        malheureusement pour moi, que <ref target="../../../_analyse/personnage_ss.html#semire">Semire</ref>, qui  venait
+        après, la releva, et vit qu'elle était telle :</p>
+        <p>  Depuis qu'il eût trouvé cette lettre, il fit dessein
+  de ne me parler plus d'Amour qu'il ne m'eût mise mal
+  avec <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>, et commença de cette sorte. En premier
+  lieu il me supplia</p>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+        <p rend="center_t"><hi rend="titres"><ref target="../../../_analyse/glossaire_ss.html#sonnet"><hi rend="italics"/>Sonnet</ref></hi><lb/>
+QU'IL CONNAÎT <lb/>
+QU'ON FEINT DE<lb/> * l'aimer</p>
+        <p/>
+        <p rend="center_t"><hi rend="titres"><ref target="../../../_analyse/glossaire_mm.html#madrigal">Madrigal</ref></hi><lb/>
+SUR LA RESSEMBLANCE<lb/>
+DE SA DAME <lb/>
+et de lui  </p>
+        <p rend="center_t italics">*<hi rend="first"> J</hi>e puis bien dire que nos cœurs<lb/>
+    Sont tous deux faits de roche dure,<lb/>
+    Le mien résistant aux rigueurs,<lb/>
+    Et le vôtre, puisqu'il endure
+    <lb/>Les coups d'amour et de mes pleurs.<lb/>
+    Mais considérant les douleurs<lb/>
+    Dont j'éternise ma <ref target="../../../_analyse/glossaire_ss.html#souffrir">souffrance</ref>,<lb/>
+    Je dis en cette extrémité :<lb/>
+    Je suis un rocher en constance,<lb/>
+    Et vous l'êtes en cruauté. </p>
+        <p/>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <!--<script>-->
+        <!--</script>-->
+        <!--<script>-->
+        <!--</script>-->
+        <!--<script>-->
+        <!--</script>-->
+        <ref target="fonctionnelle_1_livre_3.html">
+          <graphic url="images/fleche_g.gif" rend="img" mimeType="image/gif"/>
+          <hi style="float:left; margin-top:6px">Livre 3</hi>
+        </ref>
+        <ref target="fonctionnelle_1_livre_5.html">
+          <graphic url="images/fleche_d.gif" rend="img" mimeType="image/gif"/>
+          <hi style="float:right; margin-top:6px">Livre 5</hi>
+        </ref>
+        <lb/>
+        <lb/>
+        <p rend="center_t titre9"><hi rend="bold">Référence électronique :</hi><lb/><!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--><lb/><hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p>
+        <p> </p>
+        <p rend="center_t titre9"><!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p>
+        <p rend="center_t italics"><!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>--></p>
+        <!--<script
+  type="text/javascript">-->
+        <!--</script>-->
+        <!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">-->
+        <!--</script>-->
+        <!--<noscript>-->
+        <ref target="https://statcounter.com/">
+          <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+        </ref>
+        <!--</noscript>-->
+      </div>
+    </body>
+  </text>
+</TEI>

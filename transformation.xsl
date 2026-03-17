@@ -27,6 +27,17 @@
             <link rel="stylesheet" href="style.css"/>
         </head>
         <body>
+            <nav class="sidebar">
+                <h3>L'Astrée</h3>
+                <a href="index.html" class="nav-link">Accueil / Index</a>
+                <a href="glossaire.html" class="nav-link">Glossaire</a>
+                <a href="notes_2.html" class="nav-link">Notes</a>
+                <a href="personnages.html" class="nav-link">Personnages</a>
+                <a href="repertoire.html" class="nav-link">Répertoire</a>
+                
+                <h3 style="margin-top:2rem">Navigation</h3>
+                <a href="#" onclick="history.back()" class="nav-link">← Retour</a>
+            </nav>
             <header>
                 <h1>
                     <xsl:value-of select="//tei:titleStmt/tei:title"/>

@@ -1,0 +1,560 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Astrée fonctionnelle, III, 3 - Deux visages de L'Astrée</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="sidebar"><h3>L'Astrée</h3>
+<a href="index.html" class="nav-link">Accueil / Index</a><a href="glossaire.html" class="nav-link">Glossaire</a><a href="notes_2.html" class="nav-link">Notes</a><a href="personnages.html" class="nav-link">Personnages</a><a href="repertoire.html" class="nav-link">Répertoire</a><h3 style="margin-top:2rem">Navigation</h3>
+<a href="#" onclick="history.back()" class="nav-link">← Retour</a></nav><header><h1>Astrée fonctionnelle, III, 3 - Deux visages de L'Astrée</h1></header><div class="button">
+<button onclick="showDiv('edition')">Référence</button><button onclick="showDiv('pre')">Préliminaire</button><button onclick="showDiv('fonctionnelle')">Fonctionnelle</button>
+</div>
+<div id="edition" class="edition" style="display: block;">
+      <!--<nav>-->
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="https://www.univ-rouen.fr/">
+        <img xmlns="" src="images/logo-univ-rouen.png" class="img" alt="img">
+      </ref>
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Tableaux analytiques</hi>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/index_noms_propres.html">Index des noms propres</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/personnage.html">Tableaux des personnages</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/glossaire.html">Glossaire</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/dictionnaire_orientation.html">Dictionnaire des fréquences</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/notes.html">Notes</ref>
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Topographie du site</hi>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/plan_du_site.html">Plan du site</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/plan_du_site.html#alpha">Index de l'apparat critique</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/bibliographie.html">Bibliographie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/liens.html">Liens externes</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/liens_gallica.html">Liens vers Gallica</ref>
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Support</hi>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/guide.html">Guide de la navigation</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/faq.html">FAQ</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/nouveautes.html">Nouveautés</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/remerciements.html">Remerciements</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/cv.html">Auteur du site</ref>
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="nav5" onclick="clearcookies()">Effacer les témoins<br xmlns="">
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi>
+      <!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">-->
+      <hi xmlns="http://www.tei-c.org/ns/1.0" style=" color:red; font-size:14px; font-weight:bold"> X </hi>
+      <!--</button>-->
+      <!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">-->
+      <!--</input>-->
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+        <hi rend="bold">Introductions</hi>
+      </hi>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/accueil.html">Accueil</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/preface.html">Préface</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/choix.html">Choix éditoriaux</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/quatriemes.html">Les Quatrièmes parties</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/vaganay.html">L'Édition de Vaganay</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/texte.html">Présentation des textes</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref>
+      <!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">-->
+      <!--</input>-->
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+        <hi rend="bold">Lecture de</hi>
+      </hi>
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+        <hi rend="visageslivre">L'Astrée</hi>
+      </hi>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../reference/21_1/21_1_liminaires.html">
+        <hi rend="small">
+          <hi rend="bold">Éd. de référence</hi>
+        </hi>
+      </ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../preliminaire/07_1/07_1_liminaires.html">
+        <hi rend="small">
+          <hi rend="bold">Éd. préliminaire</hi>
+        </hi>
+      </ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../fonctionnelle_1/fonctionnelle_1_liminaires.html">
+        <hi rend="small">
+          <hi rend="bold">Éd. fonctionnelle</hi>
+        </hi>
+        <br xmlns="">
+        <hi rend="small">avec gravures</hi>
+      </ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/fonctionnelle_word.html">
+        <hi rend="small"><hi rend="bold">Éd. téléchargeable</hi><br xmlns="">
+en Word</hi>
+      </ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/resume.html">
+        <hi rend="small"><hi rend="bold">Résumé</hi> des intrigues</hi>
+      </ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/plan_du_site.html#apparat">
+        <hi rend="white">
+          <hi rend="bold">APPARAT CRITIQUE</hi>
+        </hi>
+      </ref>
+      <!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">-->
+      <!--</input>-->
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+        <hi rend="bold">Le roman</hi>
+      </hi>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/variantes_confrontees.html">Variantes confrontées</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/illustrations.html">Analyse des illustrations</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/paralleles.html">Parallèles suggérés</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/resume.html">Résumé des intrigues</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/temoignages.html">Témoignages</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/temoignages.html#ducrozet">Du Crozet</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/temoignages.html#sorel">Sorel</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/temoignages.html#gueret">Guéret</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/lingendes_poemes.html">Poèmes de Lingendes</ref>
+      <!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">-->
+      <!--</input>-->
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+        <hi rend="bold">Le romancier</hi>
+      </hi>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/urfe.html">Biographie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/biographes.html">Biographes, critiques</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/evenements.html">Événements</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/genealogie.html">Généalogie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/testament.html">Testament</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/inventaire.html">Inventaire</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/heritages.html">Héritages</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/poemes.html">Poèmes</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/epitres.html">Épîtres</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/lettres.html">Lettres</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/malherbe.html">Remarques<br xmlns="">
+  sur Malherbe</ref>
+      <!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">-->
+      <!--</input>-->
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+        <hi rend="bold">Ressources</hi>
+      </hi>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/bibliographie.html">Bibliographie</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/liens.html">Liens externes</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/liens_gallica.html">Liens vers Gallica</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/cartotheque.html">Cartothèque</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/galerie.html">Galerie de portraits</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/rohmer.html">Film d'Eric Rohmer</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/partitions.html">Partitions d'A. Naigeon</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/photos_forez.html">Photos du Forez</ref>
+      <p>
+        <img src="images/color_palette.gif" class="img hover_show" alt="img hover_show">
+      </p>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="#citation">
+        <hi style="font-size:18px">«</hi>
+        <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+        <hi style="font-size:18px">»</hi>
+      </ref>
+      <!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">-->
+      <hi xmlns="http://www.tei-c.org/ns/1.0" style=" color:red; font-size:14px; font-weight:bold"> X </hi>
+      <!--</button>-->
+      <p>
+        <img src="images/annotation_a.gif" class="img" alt="img">
+      </p>
+      <!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">-->
+      <!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">-->
+      <!--</input>-->
+      <!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">-->
+      <!--</input>-->
+      <!--<input
+  type="hidden"
+  name="q"
+  value="">-->
+      <!--</input>-->
+      <!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../../../images/loupe.gif">-->
+      <!--</input>-->
+      <!--</form>-->
+      <!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">-->
+      <!--</input>-->
+      <hi xmlns="http://www.tei-c.org/ns/1.0" style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/recherche.html#recherche_ciblee">Recherche ciblée</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/recherche.html">Fils d'Arianne</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/hyperbase_orientation.html">Hyperbase (É. Brunet)</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/recherche.html#acces">Accès aux pages/folios</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/concordance.html">Concordances-Vaganay</ref>
+      <hi xmlns="http://www.tei-c.org/ns/1.0" xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi>
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">L'Astrée </hi>
+      <!--<script>-->
+      <!--</script>-->
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/resume.html">Résumé du roman</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/choix.html">Choix éditoriaux</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/texte.html">Présentation des textes</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/evolution.html">Évolution</ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/illustrations.html">Illustrations</ref>
+      <table xmlns="http://www.tei-c.org/ns/1.0" rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;"><img xmlns="" src="images/fleche_gr.gif" class="img" alt="img">  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"></cell>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table>
+      <!--</nav>-->
+      <!--<header>-->
+      <p>
+        <img src="images/2visages_parchemin.gif" class="img" alt="img">
+      </p>
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">L'Astrée</hi>
+      <!--</header>-->
+      <!--<script>-->
+      <!--</script>-->
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">L'Astrée fonctionnelle</hi>
+      <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">L'Astrée</hi>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="fonctionnelle_3_livre_2.html">
+        <img xmlns="" src="images/fleche_g.gif" class="img" alt="img">
+        <hi style="float:left; margin-top:6px">Livre 2</hi>
+      </ref>
+      <ref xmlns="http://www.tei-c.org/ns/1.0" target="fonctionnelle_3_livre_4.html">
+        <img xmlns="" src="images/fleche_d.gif" class="img" alt="img">
+        <hi style="float:right; margin-top:6px">Livre 4</hi>
+      </ref>
+      <p>
+        <img src="images/21_bandeau_l3.jpg" class="img" alt="img">
+      </p>
+      <!--<header>-->
+      <div xmlns="http://www.tei-c.org/ns/1.0">
+        <div>
+          <h3 xmlns="">
+<hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">L'Astrée</hi>
+	    d'Honoré d'Urfé<br>
+    Troisième partie </h3>
+          <!--</header>-->
+          <!--<header>-->
+        </div>
+      </div>
+      <div xmlns="http://www.tei-c.org/ns/1.0">
+        <h3 xmlns="">Livre 3</h3>
+        <!--</header>-->
+        <br xmlns="">
+        <p xmlns="">
+          <img src="images/gravures_vaganay/troisieme/3-3-1.jpg" class="img" alt="img">
+        </p>
+        <br xmlns="">
+        <hi rend="titre9"><hi rend="italic">L'Astrée</hi> III, 3.
+Édition <ref target="../../../_analyse/bibliographie.html#vaganay**">Vaganay**</ref>, 1925<br xmlns="">
+Gravure signée Rabel
+     <br xmlns="">
+    La vision d'<ref target="../../../_analyse/personnage_aa.html#3_alcidon">Alcidon</ref> : à côté la rivière de <ref target="../../../_analyse/repertoire_ss.html#3_sorgues">Sorgues</ref>,<br xmlns=""> on voit les <ref target="../../../_analyse/repertoire_no.html#3_nayades">Naïades</ref> et le Démon de <ref target="../../../_analyse/repertoire_ss.html#3_sorgues">Sorgues</ref> (<ref target="fonctionnelle_3_livre_3.html#101_recto">III, 3, 101 recto</ref>)</hi>
+        <br xmlns="">
+        <hi rend="titre9">(Voir <ref target="../../../_analyse/illustrations.html#gravures_ajoutees">Illustrations</ref>)</hi>
+        <br xmlns="">
+        <br xmlns="">
+        <br xmlns="">
+        <p xmlns="">
+          <img src="images/gravures_vaganay/troisieme/3-3-2.jpg" class="img" alt="img">
+        </p>
+        <br xmlns="">
+        <hi rend="titre9"><hi rend="italic">L'Astrée</hi> III, 3.
+Édition <ref target="../../../_analyse/bibliographie.html#vaganay**">Vaganay**</ref>, 1925<br xmlns="">
+Gravure signée par Gravelot et Guélard<br xmlns="">
+<ref target="../../../_analyse/personnage_dd.html#3_daphnide">Daphnide</ref> au lit reçoit <ref target="../../../_analyse/personnage_aa.html#3_alcidon">Alcidon</ref> introduit par <ref target="../../../_analyse/personnage_dd.html#3_delie">Délie</ref> vêtue en nymphe (<ref target="../../reference/21_3/21_3_livre_3.html#82_recto">III, 3, 82 recto</ref>)</hi>
+        <br xmlns="">
+        <hi rend="titre9">(Voir <ref target="../../../_analyse/illustrations.html#gravures_ajoutees">Illustrations</ref>)</hi>
+        <br xmlns="">
+        <br xmlns="">
+        <p xmlns="">Éd. de 1619, 55 verso.<br>
+    Éd. <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/bibliographie.html#vaganay">Vaganay</ref>, III, p. 81.<br>
+  </p>
+        <p xmlns=""><img src="images/21_i_63.jpg" class="img" alt="img"><hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">J</hi>E ne sais, Madame, si vous ne reconnaîtrez plus  cette  écriture, ou si vous aurez encore mémoire du nom d'<ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/personnage_aa.html#3_alcidon">Alcidon</ref>  tant mes</p>
+        <p xmlns="">sa faute, si de <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/glossaire_ff.html#fortune">fortune</ref> je le voyais bien embarqué à m'aimer. En cette résolution je lui écrivis telles paroles :</p>
+        <p xmlns="">
+          <img src="images/21_c_66.jpg" class="img" alt="img">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">C</hi>
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">E n'est pas l'amour mais la curiosité  qui me conseille de vous permettre de me voir ; ne prenez donc point le <ref target="../../../_analyse/glossaire_cc.html#conge">congé</ref> que je vous en donne à votre avantage ! Mais soyez meilleur <ref target="../../../_analyse/glossaire_mm.html#mesnager">ménager</ref>  de la faveur que vous recevez d'elle que vous n'avez été de celles que votre</hi>
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">enfance vous a fait<hi rend="italic"></hi> avoir de moi. Et Adieu.</hi>
+        </p>
+        <p xmlns="">
+        I.<br>
+         <img src="images/21_m_77.jpg" class="img" alt="img">
+            <hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">M</hi>
+            <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">Ortels, je ne suis pas ce <ref target="../../../_analyse/glossaire_ff.html#foudre">foudre</ref> épouvantable <br xmlns="">
+        Dont s'arme <ref target="../../../_analyse/repertoire_ik.html#3_jupiter">Jupiter</ref>,
+        et se rend redoutable, <br xmlns="">
+         Lorsque tout en colère il <ref target="../../../_analyse/glossaire_tt.html#tonne">tonne</ref>  dans les Cieux,  <br xmlns="">
+        Mais ce <ref target="../../../_analyse/glossaire_ff.html#foudre">foudre</ref> d'Amour, plein d'éclairs et de flammes, <br xmlns="">
+        Qui ne suis <ref target="../../../_analyse/glossaire_ee.html#eslancer">élancé</ref> que par le clin<hi rend="cache"> </hi>
+              <ref target="../../../_analyse/note_3.html#3_clein">η</ref>
+        des yeux, <br xmlns="">
+        Dont <ref target="../../../_analyse/repertoire_aa.html#3_amour">Amour</ref>
+        va brûlant les généreuses  âmes.<br xmlns="">
+        <br xmlns="">
+        II.<br xmlns="">
+        Je ne fais mes <ref target="../../../_analyse/glossaire_ee.html#effort">efforts</ref> sur un <hi rend="-mineral">rocher</hi> sauvage, <br xmlns="">
+        Ni dessus un écueil, l'horreur de quelque <hi rend="-eau">plage</hi>, <br xmlns="">
+        Ni sur un corps humain, acte plein de rigueur. <br xmlns="">
+        La <ref target="../../../_analyse/glossaire_bb.html#butte">butte</ref> de mes coups n'est chose si petite ; <br xmlns="">
+        Sans point toucher le corps, je sais blesser le cœur, <br xmlns="">
+        Et parmi tous les cœurs, celui qui le mérite.</hi> </p>
+        <p xmlns="">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">III.
+       <br xmlns="">
+       Et voyez, ô Mortels ! de combien je devance<hi rend="cache"> </hi>
+              <ref target="../../../_analyse/note_3.html#3_devancer">η</ref>
+              <br xmlns="">
+    Du <ref target="../../../_analyse/glossaire_ff.html#foudre">foudre</ref> accoutumé l'ordinaire puissance : <br xmlns="">
+    Il ne s'ose approcher des <ref target="../../../_analyse/glossaire_ss.html#superbe">superbes</ref>  Lauriers.<br xmlns="">
+    Et moi, tout au <ref target="../../../_analyse/glossaire_qr.html#rebours">rebours</ref>, je ne frappe personne <br xmlns="">
+    Qui n'ait dessus le front par ses <ref target="../../../_analyse/glossaire_ee.html#effect">effets</ref>  guerriers, <br xmlns="">
+    Des Lauriers mérité<hi rend="cache"> </hi>
+              <ref target="../../../_analyse/note_3.html#3_meritez">η</ref>
+
+    la <ref target="../../../_analyse/glossaire_ss.html#superbe">superbe</ref> couronne.</hi>
+        </p>
+        <p xmlns="">Les <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/glossaire_cc.html#contentement">Contentements</ref> d'Amour <br>
+    peu assurés.</p>
+        <p xmlns="">I. <br>
+    <img src="images/21_h_104.jpg" class="img" alt="img">
+            <hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">H</hi>é pourquoi, ma Mémoire, <br>
+	   Maintenant de ma gloire <br>
+	   Te veux-tu souvenir,<br>
+	   Puisque par cette absence<br>
+	   J'ai perdu l'espérance<br>
+    D'y pouvoir revenir ?</p>
+        <p xmlns="">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italics">
+	   II.<br xmlns="">
+	   Dis-tu pas que Madame<br xmlns="">
+	   Conserve dans son âme<br xmlns="">
+	   L'espoir de mon retour,<br xmlns="">
+	   Et qu'il faut que de même <br xmlns="">
+	   J'espère, si je l'aime,<br xmlns="">
+	   De la revoir un jour ?
+	   <br xmlns="">
+	   <br xmlns="">
+	   III.<br xmlns="">
+	   Que comme la pensée <br xmlns="">
+	   D'une peine passée <br xmlns="">
+
+       Plaît<hi rend="cache"> </hi>
+              <ref target="../../../_analyse/note_3.html#3_plaist">η</ref>
+
+      quand elle revient,<br xmlns="">
+	   Une gloire obtenue<br xmlns="">
+	   De même continue, <br xmlns="">
+	   Quand on s'en ressouvient.</hi>
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italics"><br xmlns=""><br xmlns="">
+	   IV. <br xmlns="">
+       Tais-toi, tais-toi, flatteuse. <br xmlns="">
+       En ma <ref target="../../../_analyse/repertoire_ff.html#fortune_dieu">fortune</ref> heureuse, <br xmlns="">
+       Autrefois je me plus.<br xmlns="">
+       Mais <ref target="../../../_analyse/glossaire_no.html#ores">ores</ref> l'ayant eue,<br xmlns="">
+       Le souvenir me tue<br xmlns="">
+       Du bien que je n'ai plus. <br xmlns="">
+       <br xmlns="">
+       V. <br xmlns="">
+Et que l'espoir encore<br xmlns="">
+    De voir ce que j'adore</hi>
+        </p>
+        <p xmlns=""><img src="images/21_i_112.jpg" class="img" alt="img"><hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">J</hi>'<hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">Ai bien à <ref target="../../../_analyse/glossaire_cc.html#coup">ce coup</ref>  occasion de me plaindre de ma <ref target="../../../_analyse/repertoire_ff.html#3_fortune_dieu">fortune</ref>, me voyant délaissé en même temps de mon maître et de ma maîtresse
+      (je ne sais, Madame, </hi></p>
+        <p xmlns="">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic"> s'il m'est encore permis de vous nommer ainsi). Mais aussi me dois-je bien louer d'elle, qui jugeant que c'est à tort que l'un et l'autre me traite<hi rend="cache"> </hi>
+              <ref target="../../../_analyse/note_3.html#3_accord">η</ref> de cette sorte, ne me veut laisser plus longtemps en vie pour ne  me faire souffrir cet injuste supplice plus longuement. </hi>
+        </p>
+        <p xmlns="">
+          <img src="images/21_c_113.jpg" class="img" alt="img">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">C</hi>
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">E porteur qui vous est allé chercher bien loin vous trouvera plus près, à</hi>
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">mon grand regret.  Que je  sache
+
+    l'état de votre santé,  si la mienne vous est chère. </hi>
+        </p>
+        <p xmlns="">
+          <img src="images/21_c_114.jpg" class="img" alt="img">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">C</hi>
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">'est à vous, Madame, à qui il faut demander des nouvelles de la santé d'<ref target="../../../_analyse/personnage_aa.html#3_alcidon">Alcidon</ref>, puisqu'elle sera toujours toute telle qu'il vous plaira : si vous lui continuez l'honneur de vos bonnes grâces, il se porte bien ; autrement il n'est pas seulement</hi>
+        </p>
+        <p xmlns="">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic"> mort, mais il ne veut pas même avoir vécu.</hi>
+        </p>
+        <p xmlns="">
+          <img src="images/21_s_114.jpg" class="img" alt="img">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">S</hi>
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">'il est vrai qu'on juge autrui par soi-même, j'ai grande occasion de douter de la <ref target="../../../_analyse/glossaire_ff.html#foi">foi</ref> que vous m'avez promise, puisque vous faites un si mauvais jugement de la mienne.  N'est-ce point que si vous étiez en ma place, l'ambition l'emporterait par-dessus l'Amour ? Ah ! non, je ne veux point même avoir</hi>
+        </p>
+        <p xmlns="">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">cette opinion de vous,  car j'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref>,  <ref target="../../../_analyse/personnage_aa.html#3_alcidon">Alcidon</ref>, que si je l'avais, je ne vous aimerais point tant que je fais. Ne me faites <ref target="../../../_analyse/glossaire_no.html#non">non plus</ref> ce tort, si vous ne voulez que je croie que, de votre côté, vous commencez de diminuer l'affection que vous m'avez jurée.</hi>
+        </p>
+        <p xmlns="">
+          <img src="images/21_n_114.jpg" class="img" alt="img">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">N</hi>
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">ous commençons de faire la guerre, j'envoie deux coureurs<hi rend="cache"> </hi>
+              <ref target="../../../_analyse/note_3.html#3_coureurs">η</ref>
+
+     en vos prisons,</hi>
+        </p>
+        <p xmlns="">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">personne n'a encore parlé à eux, ils sont prisonniers à <ref target="../../../_analyse/glossaire_dd.html#discretion">discrétion</ref>, traitez-les comme il vous plaira, je les vous
+
+     donne, comme je ferai tous les autres qui me tomberont entre les mains. </hi>
+        </p>
+        <p xmlns=""><img src="images/21_n_119.jpg" class="img" alt="img"><hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">N</hi><hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">'Aurai-je jamais autre nouvelle sinon qu'<ref target="../../../_analyse/personnage_aa.html#3_alcidon">Alcidon</ref> se porte mal ? Ne le reverrai-je jamais tel qu'il était quand il entra dans l'aventure<hi rend="cache"> </hi>
+              <ref target="../../../_analyse/note_3.html#3_aventure_de_la_parfaite_amour">η</ref> de la parfaite Amour ?
+
+    Et mes vœux ne seront-ils jamais exaucés, <ref target="../../../_analyse/glossaire_no.html#ou_si">ou si</ref> les Dieux veulent éternellement demeurer sourds aux supplications que je leur fais pour sa santé ? Ô Dieux ! s'il doit être ainsi, abrégez mes jours pour abréger ma peine, ou changez-moi le cœur, afin qu'il ne soit pas si sensible pour lui. Et vous, <ref target="../../../_analyse/personnage_aa.html#3_alcidon">Alcidon</ref>, ou résolvez</hi>-</p>
+        <p xmlns="">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">vous à vous guérir, ou à me faire mourir de douleur.</hi>
+        </p>
+        <p xmlns="">  Voilà pas, ô mon père ! la plus cruelle lettre que je <ref xmlns="http://www.tei-c.org/ns/1.0" target="../../../_analyse/glossaire_pp.html#peusse">pusse</ref>  recevoir, après avoir découvert la trahison dont elle usait envers moi. Tout transporté de colère, je lui fis cette réponse : </p>
+        <p xmlns="">
+          <img src="images/21_l_119.jpg" class="img" alt="img">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="micro">L</hi>
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">A guérison d'<ref target="../../../_analyse/personnage_aa.html#3_alcidon">Alcidon</ref> ne dépend plus que de la mort, aussi n'ayant trouvé fidélité ni en son maître, ni en sa maîtresse, <ref target="../../../_analyse/glossaire_aa.html#a_quoy">à quoi</ref>  voudrait-il vivre plus longuement parmi les perfidies ? Et ne vous plaignez plus que les Dieux soient sourds : Ils ont enfin exaucé vos supplications, puisque ne voulant redonner la santé à celui de qui la vie ne vous pouvait plus servir que de regret d'avoir manqué à tant de serments inutiles, ils vous ont changé le cœur comme vous désiriez,</hi>
+        </p>
+        <p xmlns="">
+          <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">le rendant insensible pour moi, mais trop sensible pour un autre qui peut-être  fera un jour la vengeance de tant de perfidies et de trahisons. Et tenez cet  augure pour véritable,  car les Dieux sont trop justes pour ne me venger et vous punir.</hi>
+        </p>
+        <p xmlns=""> </p>
+        <p xmlns="">Fin du troisième livre.</p>
+        <p xmlns=""> </p>
+        <p xmlns=""> </p>
+        <!--<script>-->
+        <!--</script>-->
+        <!--<script>-->
+        <!--</script>-->
+        <!--<script>-->
+        <!--</script>-->
+        <ref target="fonctionnelle_3_livre_2.html">
+          <img xmlns="" src="images/fleche_g.gif" class="img" alt="img">
+          <hi style="float:left; margin-top:6px">Livre 2</hi>
+        </ref>
+        <ref target="fonctionnelle_3_livre_4.html">
+          <img xmlns="" src="images/fleche_d.gif" class="img" alt="img">
+          <hi style="float:right; margin-top:6px">Livre 4</hi>
+        </ref>
+        <br xmlns="">
+        <br xmlns="">
+        <p xmlns=""><hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Référence électronique :</hi><br><!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--><br><hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<br>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p>
+        <p xmlns=""> </p>
+        <p xmlns=""><!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <img src="images/by-nc-nd.jpg" class="img" alt="img">
+            <br>
+Édition critique de la première partie de <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">L'Astrée</hi> (1607, 1621)<br>
+mise en ligne le 9 avril 2007<br>
+Édition critique de la deuxième partie de <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">L'Astrée</hi> (1610, 1621)<br>
+mise en ligne le 10 octobre 2010 <br>
+Édition critique de la troisième partie de <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">L'Astrée</hi> (1619, 1621)<br>
+mise en ligne le 1er novembre 2014<br>
+
+Édition critique de la quatrième partie de <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">L'Astrée</hi> (1624)<br>
+mise en ligne le 15 janvier 2019<br>
+</p>
+        <p xmlns=""><!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>--></p>
+        <!--<script
+  type="text/javascript">-->
+        <!--</script>-->
+        <!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">-->
+        <!--</script>-->
+        <!--<noscript>-->
+        <ref target="https://statcounter.com/">
+          <img xmlns="" src="https://c.statcounter.com/3653842/0/ff07cacf/1/" class="img statcounter" alt="img statcounter">
+        </ref>
+        <!--</noscript>-->
+      </div>
+    </div>
+<div id="apparat" class="apparat" style="display: block;"></div>
+<script src="script.js"></script>
+</body>
+</html>
