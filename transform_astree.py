@@ -298,29 +298,55 @@ def clean_tei_roman(tree, is_functional=False):
     
     if is_functional:
         body = tree.xpath("//tei:body", namespaces={'tei': TEI_NS})[0]
-        # Remove everything at the start of body until the real content starts (usually a div or head)
-        for child in list(body):
-            # Check if this element is part of the redundant menu
-            if child.xpath(".//tei:ref[contains(@target, '_analyse/')]", namespaces={'tei': TEI_NS}) or \
-               child.tag == f"{{{TEI_NS}}}lb" or \
-               (child.tag == f"{{{TEI_NS}}}p" and not child.text and not list(child)) or \
-               (child.tag == f"{{{TEI_NS}}}p" and child.xpath(".//tei:graphic[contains(@url, '3-bar')]", namespaces={'tei': TEI_NS})) or \
-               (child.tag == f"{{{TEI_NS}}}hi" and "white" in child.get("rend", "")) or \
-               (child.tag == f"{{{TEI_NS}}}table" and child.get("rend") == "small8 nocellborder"):
-                body.remove(child)
-            elif child.tag == f"{{{TEI_NS}}}div":
-                # First div found, we can stop removing header stuff? 
-                # Actually some divs might be part of the header. 
-                # Let's check if it contains actual text content or just more nav.
-                if child.xpath(".//tei:head", namespaces={'tei': TEI_NS}):
-                    # Keep it if it looks like a book title
+        
+        # Remove everything before the first div that starts with a head (usually the book/part title)
+        # OR the first p that contains a pb/graphic lettrine.
+        # But looking at livre2_1_f.xml model, it has <head> elements for title first.
+        
+        children = list(body)
+        keep_from_index = -1
+        
+        # Look for the real content start
+        for i, child in enumerate(children):
+            # The real content usually starts with a <div> containing a <head> 
+            # OR a <head> directly in body (like livre2_1_f.xml model)
+            if child.tag == f"{{{TEI_NS}}}head" or child.tag == f"{{{TEI_NS}}}div":
+                # Check if it's not a nav div (one that contains many refs)
+                if not child.xpath(".//tei:ref[contains(@target, '_analyse/')]", namespaces={'tei': TEI_NS}):
+                    keep_from_index = i
                     break
-                else:
-                    body.remove(child)
+            # Or it might start with a <p> containing a <pb> or a lettrine <graphic>
+            if child.tag == f"{{{TEI_NS}}}p" and (child.xpath(".//tei:pb", namespaces={'tei': TEI_NS}) or child.xpath(".//tei:graphic[contains(@url, 'page1')]", namespaces={'tei': TEI_NS})):
+                keep_from_index = i
+                break
+
+        if keep_from_index != -1:
+            # Remove everything before the identified start index
+            for child in children[:keep_from_index]:
+                body.remove(child)
+        
+        # Also remove everything after the main content
+        # Usually trails off into Référence électronique or Google Analytics
+        # In the model livre2_1_f.xml, it ends after the body.
+        # Let's find common footer elements and remove them and everything after.
+        children_after = list(body)
+        remove_from_index = -1
+        for i, child in enumerate(children_after):
+            if (child.tag == f"{{{TEI_NS}}}p" and child.get("rend") == "center_t titre9" and "Référence électronique" in "".join(child.itertext())) or \
+               (child.tag == f"{{{TEI_NS}}}ref" and "statcounter.com" in (child.get("target") or "")):
+                remove_from_index = i
+                break
+        
+        if remove_from_index != -1:
+            for child in children_after[remove_from_index:]:
+                body.remove(child)
+        
+        # Final cleanup: remove residual empty paragraphs or line breaks at the very beginning of body
+        for child in list(body):
+            if child.tag == f"{{{TEI_NS}}}lb" or (child.tag == f"{{{TEI_NS}}}p" and not child.text and not list(child)):
+                body.remove(child)
             else:
-                # If we encounter something that doesn't look like menu but isn't a div, we might want to stop
-                # But for now, let's keep it simple.
-                pass
+                break
 
     # Remove signet graphics and their hi containers
     for graphic in tree.xpath("//tei:graphic[contains(@url, 'signet')]", namespaces={'tei': TEI_NS}):
