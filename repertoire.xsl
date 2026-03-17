@@ -105,6 +105,15 @@
         </a>
     </xsl:template>
     
+    <xsl:template match="tei:ref">
+        <span><a href="#">            
+            <xsl:attribute name="data-url">
+                <xsl:value-of select="@target"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a></span>
+    </xsl:template>
+    
     
     
 </xsl:stylesheet>

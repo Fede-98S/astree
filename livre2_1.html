@@ -1,4 +1,4 @@
-<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"><!DOCTYPE HTML>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"><?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"><!DOCTYPE HTML>
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,49 +11,113 @@
       </header>
       <div class="button"><button onclick="showDiv('edition')">Référence</button><button onclick="showDiv('pre')">Préliminaire</button><button onclick="showDiv('fonctionnelle')">Fonctionnelle</button></div>
       <div id="edition" class="edition" style="display: block;">
+         
          <h3>
+            
             <anchor xmlns="http://www.tei-c.org/ns/1.0" xml:id="livre_2_1"/>
-            <graphic xmlns="http://www.tei-c.org/ns/1.0" url="../../../images/bandeau_page1.jpg" rend="img" mimeType="image/jpeg"/>
-         </h3>
-         <h3>LA SECONDE<br><br> PARTIE D'ASTREE.<br><hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">De Messire Honoré d'Urfé.</hi>
-            <!-- Metamark ? pb ? Si on suit l'édition papier, c'est un pb --><br>LIVRE PREMIER</h3>
-         <p>Édition de 1610, 1. <br>Édition de Vaganay, p.&nbsp;7.</p><br><span class="page_num">p. 1</span><br><p>
-            <graphic xmlns="http://www.tei-c.org/ns/1.0" url="../../../images/l_page1.jpg" rend="img" mimeType="image/jpeg"/>
+            <img src="images/bandeau_page1.jpg" class="bandeau" alt="bandeau">
+            </h3>
+         
+         <h3>LA SECONDE<br>
+            <br> PARTIE D'ASTREE.<br>
+            
+            <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">De Messire Honoré d'Urfé.</hi>
+            <!-- Metamark ? pb ? Si on suit l'édition papier, c'est un pb -->
+            <br>LIVRE PREMIER</h3>
+         
+         <p>Édition de 1610, 1. <br>Édition de Vaganay, p.&nbsp;7.</p>
+         <br><span class="page_num">p. 1</span><br>
+         
+         <p>
+            <img src="images/l_page1.jpg" class="lettrine_img" alt="lettrine_img">
             <!-- lettrine avec une image, intérêt de mettre l'image ET de répéter la lettrine ? (Le cas se présente plusieurs fois) -->
-            <hi xmlns="http://www.tei-c.org/ns/1.0" rend="lettrine">L</hi>A LUNE
-            <note xmlns="http://www.tei-c.org/ns/1.0" target="note_2.html#2_chronologie" anchored="true"/> estoit desja
-            pour la <span class="variant"><span class="var21">deuxiéme</span><span class="varp" id="varp">deuxiesme</span></span> fois sur le milieu de son cours, depuis que <a href="#" class="personnage" data-url="personnages.html#celadon_2">Celadon</a> eschapé des mains de <a href="#" class="personnage" data-url="personnages.html#galathee_2">Galathee</a>, et n'osant se presenter devant
+            
+            <hi xmlns="http://www.tei-c.org/ns/1.0" rend="lettrine">L</hi>A LUNE<sup><a href="#" class="note" data-url="notes_2.html#chronologie">η
+                  </a></sup> estoit desja
+            pour la <span class="variant">
+               <span class="var21">deuxiéme</span>
+               <span class="varp" id="varp">deuxiesme</span>
+               </span> fois sur le milieu de son cours, depuis que <a href="#" class="personnage" data-url="personnages.html#celadon_2">Celadon</a> eschapé des mains de <a href="#" class="personnage" data-url="personnages.html#galathee_2">Galathee</a>, et n'osant se presenter devant
             les yeux de la Bergere <a href="#" class="personnage" data-url="personnages.html#astree_2">Astree</a>, pour
-            obeïr au commandement
-            <note xmlns="http://www.tei-c.org/ns/1.0" target="note_2.html#2_commande" anchored="true"/> qu'elle luy en avoit fait,
-            s'estoit renfermé dans sa caverne. Et quoy que trois mois
-            <note xmlns="http://www.tei-c.org/ns/1.0" target="note_2.html#2_chronologie" anchored="true"/> fussent desja presque <span class="variant"><span class="var21">écoulez</span><span class="varp" id="varp">escoulez</span></span> depuis le jour de sa perte, <a href="#" class="glossaire" data-url="glossaire.html#si">si</a> est-ce que le
-            <span class="variant"><span class="var21">déplaisir</span><span class="varp" id="varp">desplaisir</span></span> que sa Bergere en ressentoit, estoit encore si vif en son ame, que quelque <a href="#" class="glossaire" data-url="glossaire.html#prudence">prudence</a> qui <span class="variant"><span class="var21">fut</span><span class="varp" id="varp">fust</span></span> en elle, elle ne pouvoit <span class="variant"><span class="var21">toutesfois</span><span class="varp" id="varp">toutefois</span></span> le cacher à ceux qui vouloient y <a href="#" class="glossaire" data-url="glossaire.html#prendre_garde">prendre
+            obeïr au commandement<sup><a href="#" class="note" data-url="notes_2.html#commande">η
+                  </a></sup> qu'elle luy en avoit fait,
+            s'estoit renfermé dans sa caverne. Et quoy que trois mois<sup><a href="#" class="note" data-url="notes_2.html#chronologie">η
+                  </a></sup> fussent desja presque <span class="variant">
+               <span class="var21">écoulez</span>
+               <span class="varp" id="varp">escoulez</span>
+               </span> depuis le jour de sa perte, <a href="#" class="glossaire" data-url="glossaire.html#si">si</a> est-ce que le
+            <span class="variant">
+               <span class="var21">déplaisir</span>
+               <span class="varp" id="varp">desplaisir</span>
+               </span> que sa Bergere en ressentoit, estoit encore si vif en son ame, que quelque <a href="#" class="glossaire" data-url="glossaire.html#prudence">prudence</a> qui <span class="variant">
+               <span class="var21">fut</span>
+               <span class="varp" id="varp">fust</span>
+               </span> en elle, elle ne pouvoit <span class="variant">
+               <span class="var21">toutesfois</span>
+               <span class="varp" id="varp">toutefois</span>
+               </span> le cacher à ceux qui vouloient y <a href="#" class="glossaire" data-url="glossaire.html#prendre_garde">prendre
                garde</a>. Et sembloit que le Ciel, par une juste punition, refusast à sa douleur
             le remede <br><span class="page_num">p. 2</span><br> que le temps a de coustume de rapporter à tous ceux qui ont plus
             de sujet de se <a href="#" class="glossaire" data-url="glossaire.html#douloir">douloir</a>&nbsp;: car au lieu d'adoucir
-            les aigreurs de ses ennuis, tous les jours elle <span class="variant"><span class="var21">découvroit</span><span class="varp" id="varp">descouvroit</span></span> de nouvelles occasions de regret. Et quand sa memoire, divertie ailleurs par les
-            compagnies qui la venoient visiter, cessoit <span class="variant"><span class="var21">quelquesfois</span><span class="varp" id="varp">quelquefois</span></span> de luy representer les causes de ses <span class="variant"><span class="var21">deplaisirs</span><span class="varp" id="varp">desplaisirs</span></span>, ses yeux en eschange, par tout où ils s'<span class="variant"><span class="var21">addressoient</span><span class="varp" id="varp">adressoient</span></span>, ne voyoient que des objets tellement <a href="#" class="glossaire" data-url="glossaire.html#ennuyer">ennuieux</a>, que pour ne les voir elle demeuroit le plus souvent dans sa <a href="#" class="glossaire" data-url="glossaire.html#cabane">cabane</a>. Mais ce qui l'affligeoit davantage,
-            c'estoit qu'elle estoit privee de cette consolation, qui se trouve encore <a href="#" class="glossaire" data-url="glossaire.html#parmi">parmy</a> les plus grandes infortunes. Je
-            <note xmlns="http://www.tei-c.org/ns/1.0" target="note_2.html#2_intervention" anchored="true"/> veux dire, qu'elle ne pouvoit rejetter le sujet
+            les aigreurs de ses ennuis, tous les jours elle <span class="variant">
+               <span class="var21">découvroit</span>
+               <span class="varp" id="varp">descouvroit</span>
+               </span> de nouvelles occasions de regret. Et quand sa memoire, divertie ailleurs par les
+            compagnies qui la venoient visiter, cessoit <span class="variant">
+               <span class="var21">quelquesfois</span>
+               <span class="varp" id="varp">quelquefois</span>
+               </span> de luy representer les causes de ses <span class="variant">
+               <span class="var21">deplaisirs</span>
+               <span class="varp" id="varp">desplaisirs</span>
+               </span>, ses yeux en eschange, par tout où ils s'<span class="variant">
+               <span class="var21">addressoient</span>
+               <span class="varp" id="varp">adressoient</span>
+               </span>, ne voyoient que des objets tellement <a href="#" class="glossaire" data-url="glossaire.html#ennuyer">ennuieux</a>, que pour ne les voir elle demeuroit le plus souvent dans sa <a href="#" class="glossaire" data-url="glossaire.html#cabane">cabane</a>. Mais ce qui l'affligeoit davantage,
+            c'estoit qu'elle estoit privee de cette consolation, qui se trouve encore <a href="#" class="glossaire" data-url="glossaire.html#parmi">parmy</a> les plus grandes infortunes. Je<sup><a href="#" class="note" data-url="notes_2.html#intervention">η
+                  </a></sup> veux dire, qu'elle ne pouvoit rejetter le sujet
             de sa faute que sur elle mesme, ny trouver les moyens de s'en excuser de quelque biays
-            qu'elle peut
-            <note xmlns="http://www.tei-c.org/ns/1.0" target="note_2.html#2_pouvoir_peut" anchored="true"/> tourner <span class="variant"><span class="var21">cet</span><span class="varp" id="varp">cest</span></span> accident. Et ne faut douter qu'il luy <span class="variant"><span class="var21">en</span><span class="varp" id="varp"></span></span> eut esté entierement impossible de continuer sa vie surchargee de tant d'<span class="variant"><span class="var21"><a href="#" class="glossaire" data-url="glossaire.html#ennui">ennuis</a></span><span class="varp" id="varp"><a href="#" class="glossaire" data-url="glossaire.html#ennui">ennuys</a></span></span>, si l'amitié de <a href="#" class="personnage" data-url="personnages.html#diane_2">Diane</a> et de
-            <a href="#" class="personnage" data-url="personnages.html#phillis_2">Phylis</a> ne luy <span class="variant"><span class="var21">eut</span><span class="varp" id="varp">eust</span></span> aydé à les supporter&nbsp;; la presence de la personne aymee estant l'un des plus
+            qu'elle peut<sup><a href="#" class="note" data-url="notes_2.html#pouvoir_peut">η
+                  </a></sup> tourner <span class="variant">
+               <span class="var21">cet</span>
+               <span class="varp" id="varp">cest</span>
+               </span> accident. Et ne faut douter qu'il luy <span class="variant">
+               <span class="var21">en</span>
+               <span class="varp" id="varp"></span>
+               </span> eut esté entierement impossible de continuer sa vie surchargee de tant d'<span class="variant">
+               <span class="var21">
+                  <a href="#" class="glossaire" data-url="glossaire.html#ennui">ennuis</a>
+                  </span>
+               <span class="varp" id="varp">
+                  <a href="#" class="glossaire" data-url="glossaire.html#ennui">ennuys</a></span>
+               </span>, si l'amitié de <a href="#" class="personnage" data-url="personnages.html#diane_2">Diane</a> et de
+            <a href="#" class="personnage" data-url="personnages.html#phillis_2">Phylis</a> ne luy <span class="variant">
+               <span class="var21">eut</span>
+               <span class="varp" id="varp">eust</span>
+               </span> aydé à les supporter&nbsp;; la presence de la personne aymee estant l'un des plus
             souverains remedes que la tristesse puisse recevoir. Aussi ces cheres amies n'en estant
-            pas ignorantes, avoient un si grand soin de <span class="variant"><span class="var21">ceste</span><span class="varp" id="varp">cette</span></span> Bergere, que des la pointe du jour l'une ou l'autre, et bien souvent toutes deux
+            pas ignorantes, avoient un si grand soin de <span class="variant">
+               <span class="var21">ceste</span>
+               <span class="varp" id="varp">cette</span>
+               </span> Bergere, que des la pointe du jour l'une ou l'autre, et bien souvent toutes deux
             la venoient trouver, et comme par force l'arrachoient de sa <a href="#" class="glossaire" data-url="glossaire.html#cabane">cabane</a>, et la conduisoient par les endroits les
             plus reculez, de peur que la veuë de ceux où elle <a href="#" class="glossaire" data-url="glossaire.html#souloir">souloit</a> voir <a href="#" class="personnage" data-url="personnages.html#celadon_2">Celadon</a> ne
             luy renouvellast <br><span class="page_num">p. 3</span><br> la <a href="#" class="glossaire" data-url="glossaire.html#memoire">memoire</a> de sa
             fascheuse perte. Et puis à l'<a href="#" class="glossaire" data-url="glossaire.html#envy">envy</a> s'estudioient à
             qui, pour la divertir, luy feroit un meilleur conte, ou proposeroit quelque agreable
             jeu
-            pour passer plus doucement le reste de la journee&nbsp;: de sorte qu'en despit de la <a href="#" class="glossaire" data-url="glossaire.html#fortune">fortune</a> ces <span class="variant"><span class="var21"><a href="#" class="glossaire" data-url="glossaire.html#gentil">gentilles</a></span><span class="varp" id="varp"><a href="#" class="glossaire" data-url="glossaire.html#gentil">gentiles</a></span></span> Bergeres desroboient tousjours quelques heures au desplaisir d'<a href="#" class="personnage" data-url="personnages.html#astree_2">Astree</a>, pour les metre en un meilleur
+            pour passer plus doucement le reste de la journee&nbsp;: de sorte qu'en despit de la <a href="#" class="glossaire" data-url="glossaire.html#fortune">fortune</a> ces <span class="variant">
+               <span class="var21">
+                  <a href="#" class="glossaire" data-url="glossaire.html#gentil">gentilles</a>
+                  </span>
+               <span class="varp" id="varp">
+                  <a href="#" class="glossaire" data-url="glossaire.html#gentil">gentiles</a></span>
+               </span> Bergeres desroboient tousjours quelques heures au desplaisir d'<a href="#" class="personnage" data-url="personnages.html#astree_2">Astree</a>, pour les metre en un meilleur
             usage.</p>
+         
          <p>&nbsp;&nbsp;<a href="#" class="personnage" data-url="personnages.html#silvandre_2">Silvandre</a> d'autre costé
             feignant de rechercher <a href="#" class="personnage" data-url="personnages.html#diane_2">Diane</a> par
-            gageure, en devint de telle sorte amoureux, qu'il servit longuement
-            <note xmlns="http://www.tei-c.org/ns/1.0" target="note_2.html#2_intervention" anchored="true"/> d'exemple à tous ceux de sa contree, et leur
+            gageure, en devint de telle sorte amoureux, qu'il servit longuement<sup><a href="#" class="note" data-url="notes_2.html#intervention">η
+                  </a></sup> d'exemple à tous ceux de sa contree, et leur
             enseigna à ses despens, qu'<a href="#" class="repertoire" data-url="repertoire.html#amour_2">Amour</a> ne <a href="#" class="glossaire" data-url="glossaire.html#souffrir">souffre</a> guere qu'on se
             mocque de luy&nbsp;: car il rencontra en ceste Bergere tant de causes d'amour, qu'il estoit
             tout <a href="#" class="glossaire" data-url="glossaire.html#estonner">estonné</a> de l'avoir veuë si long temps
@@ -62,19 +126,39 @@
             s'en plaignoit-il point, puis que sans offenser <a href="#" class="personnage" data-url="personnages.html#diane_2">Diane</a> elle luy donnoit la liberté de luy raconter ses passions, la
             violence de son amour estant telle, que s'il eust esté forcé de la cacher, il luy
             eust
-            esté impossible de vivre. Et toutesfois quand il se <span class="variant"><span class="var21"><a href="#" class="glossaire" data-url="glossaire.html#rappeler">r'appelloit</a></span><span class="varp" id="varp"><a href="#" class="glossaire" data-url="glossaire.html#rappeler">rappelloit</a></span></span> en soy-mesme, il cognoissoit bien qu'il avoit fait un changement fort
+            esté impossible de vivre. Et toutesfois quand il se <span class="variant">
+               <span class="var21">
+                  <a href="#" class="glossaire" data-url="glossaire.html#rappeler">r'appelloit</a>
+                  </span>
+               <span class="varp" id="varp">
+                  <a href="#" class="glossaire" data-url="glossaire.html#rappeler">rappelloit</a></span>
+               </span> en soy-mesme, il cognoissoit bien qu'il avoit fait un changement fort
             desadvantageux&nbsp;: se souvenant de quel-<a href="#" class="glossaire" data-url="glossaire.html#heur">heur</a> il
             estoit accompagné, lors que maistre absolu de ses pensees il disposoit tout seul de
             sa
             vie et de ses desseins. Combien de fois voulut-il avec la raison défaire les premiers
-            nœuds dont </p><br><span class="page_num">p. 4</span><br><p>il se sentoit lier en ce nouveau servage&nbsp;? Combien de fois, voyant que la raison y
+            nœuds dont </p>
+         <br><span class="page_num">p. 4</span><br>
+         
+         <p>il se sentoit lier en ce nouveau servage&nbsp;? Combien de fois, voyant que la raison y
             estoit inutile, voulut-il les rompre avec la force d'une violente resolution&nbsp;? Mais
-            autant de fois qu'il s'y <span class="variant"><span class="var21">esseya</span><span class="varp" id="varp">essaya</span></span>, autant de fois reconneut-il que c'est en vain que l'homme s'efforce contre les
+            autant de fois qu'il s'y <span class="variant">
+               <span class="var21">esseya</span>
+               <span class="varp" id="varp">essaya</span>
+               </span>, autant de fois reconneut-il que c'est en vain que l'homme s'efforce contre les
             ordonnances du Ciel, et que <a href="#" class="glossaire" data-url="glossaire.html#celuy">celuy</a> est le plus
             avisé qui sçait mieux y ployer et conformer sa volonté. Ces considerations estoient
             cause que quand il ne pouvoit estre aupres de sa <a href="#" class="personnage" data-url="personnages.html#diane_2">Diane</a>, comme le matin et le soir, il estoit bien ayse de se retirer de
             toute compagnie, tant parce qu'il jugeoit toute autre <a href="#" class="glossaire" data-url="glossaire.html#ennuyer">ennuieuse</a>, ne pouvant jouyr de celle qu'il desiroit, que pour avoir plus de
-            loisir de consulter en soy-mesme librement, et juger <span class="variant"><span class="var21">qu'elle</span><span class="varp" id="varp">quelle</span></span> estoit la volonté du Ciel, et par quelle voye il <span class="variant"><span class="var21"></span><span class="varp" id="varp">y</span></span><note xmlns="http://www.tei-c.org/ns/1.0" target="note_2.html#2_il_pourroit" anchored="true"/> pourroit mieux parvenir. Et <a href="#" class="glossaire" data-url="glossaire.html#combien_que">combien qu</a>'il recogneut plus d'impossibilité
+            loisir de consulter en soy-mesme librement, et juger <span class="variant">
+               <span class="var21">qu'elle</span>
+               <span class="varp" id="varp">quelle</span>
+               </span> estoit la volonté du Ciel, et par quelle voye il <span class="variant">
+               <span class="var21"></span>
+               <span class="varp" id="varp">y</span>
+               </span>
+            <sup><a href="#" class="note" data-url="notes_2.html#il_pourroit">η
+                  </a></sup> pourroit mieux parvenir. Et <a href="#" class="glossaire" data-url="glossaire.html#combien_que">combien qu</a>'il recogneut plus d'impossibilité
             à la poursuitte de son affection que d'apparence de la pouvoir continuer, <a href="#" class="glossaire" data-url="glossaire.html#si">si</a> ne pouvoit-il jamais <a href="#" class="glossaire" data-url="glossaire.html#prendre">prendre</a> aucune conclusion qu'à l'avantage de son
             Amour. Que s'il faisoit dessein de s'en retirer, ô que son cœur se faisoit promptement
             paroistre desobeissant&nbsp;! Que s'il estoit d'advis de le continuer, quelles peines et
@@ -84,41 +168,123 @@
             se
             respondant, ce que le Ciel veut que nous fassions. Pourquoy peut-on juger que les
             Dieux
-            l'ayent <span class="variant"><span class="var21">faicte</span><span class="varp" id="varp">faitte</span></span> si belle
-            <note xmlns="http://www.tei-c.org/ns/1.0" target="note_2.html#2_belle" anchored="true"/>, <br><span class="page_num">p. 5</span><br> sinon pour estre aymee
+            l'ayent <span class="variant">
+               <span class="var21">faicte</span>
+               <span class="varp" id="varp">faitte</span>
+               </span> si belle<sup><a href="#" class="note" data-url="notes_2.html#belle">η
+                  </a></sup>, <br><span class="page_num">p. 5</span><br> sinon pour estre aymee
             de ceux qui la verront&nbsp;? Et puis que de poursuivre et de nous retirer il nous est
             egallement impossible, elisons pour le moins des deux celuy qui est plus selon la
-            volonté du Ciel et selon la <span class="variant"><span class="var21">vostre</span><span class="varp" id="varp">nostre</span></span><note xmlns="http://www.tei-c.org/ns/1.0" target="note_2.html#2_vostre" anchored="true"/>. Estant si belle il ordonne qu'elle soit aymee, et
+            volonté du Ciel et selon la <span class="variant">
+               <span class="var21">vostre</span>
+               <span class="varp" id="varp">nostre</span>
+               </span>
+            <sup><a href="#" class="note" data-url="notes_2.html#vostre">η
+                  </a></sup>. Estant si belle il ordonne qu'elle soit aymee, et
             quant à moy je consentiray plustost à me retirer de la vie que de son service. Que
             faut-il donc que nous consultions davantage, puis que le Ciel et nostre volonté
             appreuvent une si bonne resolution&nbsp;?</p>
+         
          <p>&nbsp;&nbsp;De <a href="#" class="glossaire" data-url="glossaire.html#fortune">fortune</a> quand il tenoit ces discours en
             soy mesme il se trouva sur le bord de la <a href="#" class="glossaire" data-url="glossaire.html#delectable">delectable</a> riviere de <a href="#" class="repertoire" data-url="repertoire.html#lignon_2">Lignon</a> vis à vis de ce rocher, qui estant frappé de la voix, respond si
-            intelligiblement aux derniers <span class="variant"><span class="var21">accents</span><span class="varp" id="varp">accens</span></span>. Cela fut cause qu'apres que ces pensees luy eurent longuement roulé par
+            intelligiblement aux derniers <span class="variant">
+               <span class="var21">accents</span>
+               <span class="varp" id="varp">accens</span>
+               </span>. Cela fut cause qu'apres que ces pensees luy eurent longuement roulé par
             l'esprit, presque comme revenant d'un profond sommeil&nbsp;: -&nbsp;Mais pourquoy, dit-il, nous
             allons nous consommant et embroüillant en ces contrarietez&nbsp;? <a href="#" class="repertoire" data-url="repertoire.html#echo_2">Echo</a> qui habite en ce rocher, si nous l'en
             enquerons, nous en dira bien ce qu'elle en a ouy de la bouche mesme de ma Bergere,
             qui
-            est l'Oracle
-            <note xmlns="http://www.tei-c.org/ns/1.0" target="note_2.html#2_oracle_echo" anchored="true"/> le plus certain que je puisse
-            consulter. Et lors relevant la voix il luy parla de <span class="variant"><span class="var21">cette</span><span class="varp" id="varp">ceste</span></span> sorte.</p><br><span class="page_num">p. 6</span><br><div class="stance">
+            est l'Oracle<sup><a href="#" class="note" data-url="notes_2.html#oracle_echo">η
+                  </a></sup> le plus certain que je puisse
+            consulter. Et lors relevant la voix il luy parla de <span class="variant">
+               <span class="var21">cette</span>
+               <span class="varp" id="varp">ceste</span>
+               </span> sorte.</p>
+         <br><span class="page_num">p. 6</span><br>
+         
+         <div class="stance">
+            
             <h3><a href="#" class="repertoire" data-url="repertoire.html#echo_2">Echo</a><br>Stances.</h3>
-            <div type="strophe"><!-- <graphic url="../../../images/f_6.jpg" rend="img" mimeType="image/jpeg"/> --><span>Fille de l'air qui ne <a href="#" class="glossaire" data-url="glossaire.html#scavoir">saurais</a> rien
-                  taire,</span><br><span>De ces rochers hôtesse solitaire,</span><br><span>Où vont les cris que je <span class="variant"><span class="var21">vais </span><span class="varp" id="varp">vas </span></span><a href="#" class="glossaire" data-url="glossaire.html#esmouvoir">émouvant</a>&nbsp;? - 
+            
+            <div type="strophe">
+               <span>
+                  <figure xmlns="http://www.tei-c.org/ns/1.0">
+                     <img xmlns="" src="images/f_6.jpg" class="stance_img" alt="stance_img">
+                     </figure>Fille de l'air qui ne <a href="#" class="glossaire" data-url="glossaire.html#scavoir">sçaurois</a> rien
+                  taire,</span><br>
+               <span>De ces rochers hôtesse solitaire,</span><br>
+               <span>Où vont les cris que je <span class="variant">
+                     <span class="var21">vais </span>
+                     <span class="varp" id="varp">vas </span>
+                     </span>
+                  <a href="#" class="glossaire" data-url="glossaire.html#esmouvoir">esmouvant</a>&nbsp;? - 
                   <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Au
-                     vent</hi>.</span><br><span>Et <a href="#" class="glossaire" data-url="glossaire.html#quel">quel</a> crois-tu que ce cruel <span class="variant"><span class="var21">martyre</span><span class="varp" id="varp">martire </span></span> ,</span><br><span>Que plein d'amour mon cœur va concevant,</span><br><span>Devienne enfin aux maux que je soupire&nbsp;? - 
-                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Pire</hi>.</span><br></div><br><div type="strophe">
-               <h3>II.</h3><span> Que ferait donc cet œil qui me désarme</span><br><span>Par sa douceur de toute <a href="#" class="glossaire" data-url="glossaire.html#sorte">sorte</a> d'arme,</span><br><span>Et qui promet m'aimer infiniment&nbsp;? - 
-                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Il ment</hi>.</span><br><span>Mais s'il est vrai qu'il mente, quel remède</span><br><span>Nous faudra-t-il pour sortir promptement</span><br><span>De cet abus qui, trompeur, nous possède&nbsp;? - 
-                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Cède</hi>.</span><br></div><br><div type="strophe">
-               <h3>III.</h3><span>Comment&nbsp;? céder un tel bien à quelque autre</span><br><span>Qu'<a href="#" class="repertoire" data-url="repertoire.html#amour_2">Amour</a> ordonne en <span class="variant"><span class="var21"><a href="#" class="glossaire" data-url="glossaire_ee.html#effect">effect</a></span><span class="varp" id="varp"><a href="#" class="glossaire" data-url="glossaire_ee.html#effect">effet</a></span></span><span class="variant"><span class="var21">qu'il</span><span class="varp" id="varp">qui</span></span> soit nôtre&nbsp;!</span><br><span>Qui plus que moi voit-elle volontiers&nbsp;? 
-                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">- Un <a xmlns="" href="#" class="glossaire" data-url="glossaire.html#tiers">tiers</a></hi>.</span><br><span>Un <a href="#" class="glossaire" data-url="glossaire.html#tiers">tiers</a>&nbsp;? <a href="#" class="repertoire" data-url="repertoire.html#echo_2">Echo</a>, c'est un cruel langage&nbsp;;</span><br><span>Mais s'il est vrai qu'elle aime mieux un <a href="#" class="glossaire" data-url="glossaire.html#tiers">tiers</a>,</span><br><span>Au lieu d'amour, qu'aurait un grand <a href="#" class="glossaire" data-url="glossaire.html#courage">courage</a>&nbsp;? - 
-                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Rage</hi>.</span><br></div><br><div type="strophe">
-               <h3>IV.</h3><span><a href="#" class="glossaire" data-url="glossaire.html#nymphe">Nymphe</a>, qui sens dedans ces roches
-                  creuses</span><br><span>Quel est le mal des peines amoureuses,</span><br><span>N'aurai-je donc jamais <span class="variant"><span class="var21">allegement</span><span class="varp" id="varp">alegements </span></span> &nbsp;? 
-                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">- Je mens</hi>.</span><br><span>Comment, <a href="#" class="repertoire" data-url="repertoire.html#echo_2">Echo</a>, n'est-ce
-                  point un blasphème</span><br><span>De t'accuser et dire que tu mens&nbsp;?</span><br><span>Ce que j'entends est-ce bien ta voix même&nbsp;? 
-                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">- Ayme</hi>.</span><br></div><br></div>
-      </div>
+                     vent</hi>.</span><br>
+               <span>Et <a href="#" class="glossaire" data-url="glossaire.html#quel">quel</a> crois-tu que ce cruel <span class="variant">
+                     <span class="var21">martyre</span>
+                     <span class="varp" id="varp">martire </span>
+                     </span>,</span><br>
+               <span>Que plein d'amour mon cœur va concevant,</span><br>
+               <span>Devienne en fin aux maux que je soupire&nbsp;? - 
+                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Pire</hi>.</span><br>
+               </div><br>
+            
+            <div type="strophe">
+               
+               <h3>II.</h3>
+               <span>Que feroit donc cet œil qui me désarme</span><br>
+               <span>Par sa douceur de toute <a href="#" class="glossaire" data-url="glossaire.html#sorte">sorte</a> d'arme,</span><br>
+               <span>Et qui promet m'aymer infiniment&nbsp;? - 
+                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Il ment</hi>.</span><br>
+               <span>Mais s'il est vray qu'il mente, quel remede</span><br>
+               <span>Nous faudra-t'il pour sortir promptement</span><br>
+               <span>De cet abus qui trompeur nous possède&nbsp;? - 
+                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Cede</hi>.</span><br>
+               </div><br>
+            
+            <div type="strophe">
+               
+               <h3>III.</h3>
+               <span>Comment&nbsp;? ceder un tel bien à quelque autre</span><br>
+               <span>Qu'<a href="#" class="repertoire" data-url="repertoire.html#amour_2">Amour</a> ordonne en <span class="variant">
+                     <span class="var21">
+                        <a href="#" class="glossaire" data-url="glossaire_ee.html#effect">effect</a>
+                        </span>
+                     <span class="varp" id="varp">
+                        <a href="#" class="glossaire" data-url="glossaire_ee.html#effect">effet</a>
+                        </span>
+                     </span>
+                  <span class="variant">
+                     <span class="var21">qu'il</span>
+                     <span class="varp" id="varp">qui</span>
+                     </span> soit nostre&nbsp;!</span><br>
+               <span>Qui plus que moy voit-elle volontiers&nbsp;? 
+                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">- Un <a xmlns="" href="#" class="glossaire" data-url="glossaire.html#tiers">tiers</a></hi>.</span><br>
+               <span>Un <a href="#" class="glossaire" data-url="glossaire.html#tiers">tiers</a>&nbsp;? <a href="#" class="repertoire" data-url="repertoire.html#echo_2">Echo</a>, c'est un cruel langage&nbsp;;</span><br>
+               <span>Mais s'il est vray qu'elle ayme mieux un <a href="#" class="glossaire" data-url="glossaire.html#tiers">tiers</a>,</span><br>
+               <span>Au lieu d'amour, qu'auroit un grand <a href="#" class="glossaire" data-url="glossaire.html#courage">courage</a>&nbsp;? - 
+                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">Rage</hi>.</span><br>
+               </div><br>
+            
+            <div type="strophe">
+               
+               <h3>IV.</h3>
+               <span><a href="#" class="glossaire" data-url="glossaire.html#nymphe">Nimphe</a> qui sents dedans ces roches
+                  creuses</span><br>
+               <span>Quel est le mal des peines amoureuses,</span><br>
+               <span>N'auray-je donc jamais <span class="variant">
+                     <span class="var21">allegement</span>
+                     <span class="varp" id="varp">alegements </span>
+                     </span> &nbsp;? 
+                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">- Je ments</hi>.</span><br>
+               <span>Comment, <a href="#" class="repertoire" data-url="repertoire.html#echo_2">Echo</a>, n'est-ce
+                  point un blaspheme</span><br>
+               <span>De t'accuser et dire que tu ments&nbsp;?</span><br>
+               <span>Ce que j'entends est-ce bien ta voix même&nbsp;? 
+                  <hi xmlns="http://www.tei-c.org/ns/1.0" rend="bold">- Ayme</hi>.</span><br>
+               </div><br>
+            </div>
+         </div>
       <div id="apparat" class="apparat" style="display: block;"></div><script src="script.js"></script></body>
 </html>

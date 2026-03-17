@@ -5,10 +5,10 @@
     --bg-paper: #fdfbf7;
     --text-main: #2b2825;
     --text-muted: #6b625b;
-    --primary-color: #8c2a1b;
+    --primary-color: #4791cd;
     --secondary-color: #2b2825;
-    --accent-color: #b04632;
-    --accent-hover: #732215;
+    --accent-color: #3b82f6;
+    --accent-hover: #2563eb;
     --border-color: #e3dec9;
     --border-radius: 6px;
     --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
@@ -456,7 +456,12 @@ a.glossaire:hover, a.repertoire:hover, a.personnage:hover, a[data-url]:hover {
     height: 78px;
     width: auto;
     display: block;
-    margin: 0 auto 1rem auto;
+    margin: 0.25rem 0.6rem 0.2rem 0;
+}
+
+div.stance figure {
+    margin: 0;
+    float: left;
 }
 
 .lettrine {
@@ -482,4 +487,9 @@ a.glossaire:hover, a.repertoire:hover, a.personnage:hover, a[data-url]:hover {
 
 div.stance {
     text-align: center;
+}
+
+div.stance div[type="strophe"] {
+    display: inline-block;
+    text-align: left;
 }

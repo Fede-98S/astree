@@ -17,7 +17,7 @@
     </xsl:template>
 
     <xsl:template match="tei:TEI">
-        
+       
     <html>
         <head>
             <meta charset="UTF-8"/>
@@ -167,6 +167,15 @@
         <span>
             <xsl:apply-templates/>
         </span><br/>
+    </xsl:template>
+    
+    <xsl:template match="tei:note">
+        <sup><a href="#" class="note">            
+            <xsl:attribute name="data-url">
+                <xsl:value-of select="@target"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>η
+        </a></sup>
     </xsl:template>
 
     <xsl:template match="tei:graphic">

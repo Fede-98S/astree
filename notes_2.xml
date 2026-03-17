@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Astrée 1621, II, 1 - Deux visages de L'Astrée</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               
+            </authority>
+         </publicationStmt>
+         <sourceDesc>
+            <p>translated from HTML to TEI</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+         <noteGrp>
+            <note xml:id="belle">
+               <label>Belle</label>
+               <p>
+                  <ref target="../_roman/reference/21_2/21_2_livre_1.html#4">II, 1, 4</ref> et <ref target="../_roman/reference/21_2/21_2_livre_4.html#202">II, 4, 202</ref>. Même remarque dans la première partie<hi rend="cache"> </hi>
+                  <note target="note_1.html#99_recto"/>.</p>
+            </note>
+            
+            <note xml:id="chronologie">
+               <label>Chronologie du roman</label>
+               <p>Trois mois séparent le début de la deuxième partie du début de la première  partie<hi rend="cache"> </hi>
+                  <note target="note_1.html#chronologie"/> : <persName ref="#2_astree">Astrée</persName> pleure encore « quoy que trois mois fussent desja presque écoulez depuis le jour de [la] perte » de <persName ref="#2_celadon">Céladon</persName> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#1">II, 1, 1</ref>). Honoré d'Urfé multiplie ensuite les rappels et indications chronologiques. <lb/>
+                  « Le temps de la nature », marqué par le changement des saisons ou les phases de la lune, a peu d'importance ici, bien que des personnages se plaignent de  « la
+                  grande chaleur » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#191">II, 4, 191</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_5.html#271">II, 5, 271</ref>). <lb/>
+                  « Le temps de la culture » repose sur les dates de l'histoire de <rs type="repertoire" ref="#2_rome">Rome</rs> et des <rs type="repertoire" ref="#2_gaule">Gaules</rs>. Comme dans la première partie<hi rend="cache"> </hi>
+                  <note target="note_1.html#culture"/>, la chute de l'<rs type="repertoire" ref="#2_empire_romain">Empire romain</rs> sert  de repère.<lb/>
+                  « Le temps de l'aventure »  requiert un véritable exercice mental à cause de la profusion des renseignements. Sans aucun doute,   le romancier suit un plan précis et se dirige vers un but. <lb/>
+                  Les informations renvoient à des   moments forts dans la vie de <persName ref="#2_celadon">Céladon</persName> et dans celle de <persName ref="#2_silvandre">Silvandre</persName>. Les événements se situent par rapport au passé dans le cas du premier (noyade du Berger, fuite d'<rs type="repertoire" ref="#2_isoure">Isoure</rs>) ; ils se situent surtout par rapport au  futur dans le cas du second (début  de la gageure et fin assignée). <lb/>
+                  <lb/>
+                          Temps romanesque et temps historique<lb/>
+                  La première partie  nommait  la bataille des <rs type="repertoire" ref="#champs_catalauniques">Champs Catalauniques</rs> (<ref target="../_roman/reference/21_1/21_1_livre_3.html#64_recto">I, 3, 64 recto</ref>), en <hi rend="gras">451</hi>. <persName ref="#2_thierry">Thierry</persName>, roi des <rs type="repertoire" ref="#2_visigoths">Wisigoths</rs>, est tué,  on  nous le dira plus tard (<ref target="../_roman/reference/21_2/21_2_livre_6.html#328">II, 6, 328</ref>).  La deuxième partie  présente deux événements historiques, la mort de chefs d'État. Le premier  appartient à un passé proche, mort<hi rend="cache"> </hi>
+                  <note target="note_analyses.html#mort_merovee"/> de <persName ref="#2_merovee">Mérovée</persName> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#484">II, 7, 484</ref>) en <hi rend="gras">458</hi> (<bibl source="#fauchet">Fauchet</bibl>, p. 100) ; le second  à un passé un peu plus lointain, assassinat de <persName ref="#2_valentinien">Valentinien</persName> en <hi rend="gras">455</hi> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#847">II, 12, 847</ref>). Voir <ref target="chronologie_historique.html">Chronologie historique</ref>. <lb/>
+                  <lb/>
+                  •      L'histoire de l'<rs type="repertoire" ref="#2_empire_romain">Empire romain</rs> et des invasions barbares s'articule évidemment autour de dates connues qui permettent de fixer les aventures. Le romanesque s'appuie sur l'historique : <persName ref="#2_celadon">Céladon</persName> a fait le voyage d'<rs type="repertoire" ref="#2_italie">Italie</rs> peu après la mort de <persName ref="#2_maxime">Maxime</persName>, tué par <persName ref="#2_ursace">Ursace</persName> en juin <hi rend="gras">455</hi> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#639">II, 10, 639</ref>). À ce moment, <persName ref="#2_silvandre">Silvandre</persName> étudie  à Marseille et y rencontre les deux <rs type="repertoire" ref="#2_romains">Romains</rs> que <persName ref="#2_celadon">Céladon</persName> a secourus (<ref target="../_roman/reference/21_2/21_2_livre_12.html#766">II, 12, 766</ref>, voir plus bas). Cependant, <persName ref="#2_adamas">Adamas</persName> affirme qu'<emph>une demie lune<hi rend="cache"> </hi>
+                     <note target="#2_lune_de_siecles"/> de siècles</emph> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#509">II, 8, 509</ref>) de domination romaine se termine en <rs type="repertoire" ref="#2_gaule">Gaule</rs>, c'est-à dire 450 ans sont passés. En fait, les Francs prendront la place des Romains sous Clovis, en 486 à la bataille de <rs type="repertoire" ref="#3_soissons">Soissons</rs> : victoire sur Syagrius, « le dernier des Romains » (titre donné à <persName ref="#2_aetius">Ætius</persName> aussi, mais pour des raisons différentes). <lb/>
+                  <lb/>
+                  • Principales indications chronologiques :<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_1.html#1">II, 1, 1</ref>. <emph>La lune estoit desja pour la deuxiéme fois sur le milieu de son cours</emph>.<lb/>
+                  • Par conséquent, il y a deux  mois que <persName ref="#2_celadon">Céladon</persName> a quitté <rs type="repertoire" ref="#2_isoure">Isoure</rs>.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_1.html#1">II, 1, 1</ref>. <emph>Trois mois</emph> [sont] <emph>desja presque écoulez depuis le jour de sa perte</emph>.<lb/>
+                  • Par conséquent, il y a trois mois  que <persName ref="#2_celadon">Céladon</persName> s'est noyé et que le roman a commencé.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_5.html#300">II, 5, 300</ref>. Au moment de la rencontre de <persName ref="#2_tircis">Tircis</persName>, il y a quatre ou cinq lunes que <persName ref="#2_celadon">Céladon</persName> s'est noyé. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_10.html#624">II, 10, 624</ref>. Il y a plus de deux lunes que <persName ref="#2_celadon">Céladon</persName> s'est exilé après avoir quitté <rs type="repertoire" ref="#2_isoure">Isoure</rs>. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_11.html#682">II, 11, 682</ref>.  Douze ou quinze nuits depuis l'acte de <persName ref="#2_celidee">Célidée</persName>.<lb/>
+                  Or la Bergère s'est mutilée dix ou douze nuits après le jugement qui se déroule dans le livre 2 (<ref target="../_roman/reference/21_2/21_2_livre_2.html#107">II, 2, 107</ref>).<lb/>
+                  •      Par conséquent, il y a  un peu plus d'un mois que la deuxième partie a commencé.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_11.html#731">II, 11, 731</ref>. <emph>Huict ou dix jours que les trois lunes sont ecoulees</emph>. La date de la fin de la gageure<hi rend="cache"> </hi>
+                  <note target="#2_gageure"/> est passée depuis une semaine. <lb/>
+                  • Par conséquent, trois mois et une semaine séparent la deuxième partie du milieu de la première partie (<ref target="../_roman/reference/21_1/21_1_livre_7.html#198_verso">I, 7, 198 verso</ref>). <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_12.html#766">II, 12, 766</ref>.  En été, après <persName ref="#2_celadon">Céladon</persName>, <persName ref="#2_silvandre">Silvandre</persName> fait la connaissance d'<persName ref="#2_ursace">Ursace</persName> et d'<persName ref="#2_olimbre">Olimbre</persName>. <persName ref="#2_genseric">Genséric</persName> vient d'enlever <persName ref="#2_eudoxe">Eudoxe</persName>, en <hi rend="gras">455</hi> (Voir Chronologie<hi rend="cache"> </hi>
+                  <note target="note_1.html#chronologie"/> de la première partie). <lb/>
+                  <lb/>
+                  •                                     <hi rend="bold">MAIS</hi>, la mort de <persName ref="#2_merovee">Mérovée</persName>, qui a eu lieu en 458<hi rend="cache"> </hi>
+                  <note target="note_analyses.html#mort_merovee"/>, est annoncée au milieu de la deuxième partie (<ref target="../_roman/reference/21_2/21_2_livre_7.html#484">II, 7, 484</ref>) ... <lb/>
+                  La troisième partie, en développant l'histoire des <rs type="repertoire" ref="#2_francs">Francs</rs>,  pendant de l'histoire de l'<rs type="repertoire" ref="#2_empire_romain">Empire romain</rs>, va apporter de nouveaux points de repère (Voir Chronologie<hi rend="cache"> </hi>
+                  <note target="note_3.html#3_chronologie"/> de la troisième partie).<lb/>
+                  <lb/>
+                  • Pléthore d'indications notables :<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_3.html#134">II, 3, 134</ref>. La gageure va se terminer dans douze ou quinze jours. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_3.html#137">II, 3, 137</ref>. La gageure va se terminer dans peu de jours. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_3.html#163">II, 3, 163</ref>.  La gageure va se terminer dans peu de jours. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_5.html#297">II, 5, 297</ref>. Il y a plus de trois ans, <persName ref="#2_celadon">Céladon</persName> a fait des vers sur le portrait de sa bergère. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_7.html#431">II, 7, 431</ref>. Il y a quinze ou seize jours que <persName ref="#2_celadon">Céladon</persName> a quitté <rs type="repertoire" ref="#2_isoure">Isoure</rs> et vit  dans une caverne.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_7.html#433">II, 7, 433</ref>. <persName ref="#2_leonide">Léonide</persName>,  renvoyée par <persName ref="#galathee">Galathée</persName> pour avoir aidé <persName ref="#2_celadon">Céladon</persName> à fuir, va chez son oncle, et deux jours après se rend dans les hameaux. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_7.html#451">II, 7, 451</ref>. Il y a quinze ou seize nuits que <persName ref="#2_celadon">Céladon</persName> a quitté <rs type="repertoire" ref="#2_isoure">Isoure</rs>. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_7.html#463">II, 7, 463</ref>. Il y a trois ou quatre lunes que <persName ref="#2_celadon">Céladon</persName> s'est noyé. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_7.html#464">II, 7, 464</ref>. Dans trois mois, la gageure finira.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_7.html#483">II, 7, 483</ref>. Répétition : il y a trois ou quatre lunes que <persName ref="#2_celadon">Céladon</persName> s'est noyé.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_8.html#524">II, 8, 524</ref>. <persName ref="#2_celadon">Céladon</persName> rencontre <persName ref="#2_silvandre">Silvandre</persName>. Un jour et une nuit plus tard, la troupe de Bergers trouve le temple. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_9.html#611">II, 9, 611</ref>. <emph>Hier au soir</emph>. Renvoi à la discussion précédente. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_9.html#615">II, 9, 615</ref>. <emph>Le jour est passé</emph>, c'est-à-dire la matinée, avant le <term ref="#disner">dîner</term>. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_10.html#618">II, 10, 618</ref>. Deux jours ont passé depuis la première visite d'<persName ref="#2_adamas">Adamas</persName> à <persName ref="#2_celadon">Céladon</persName>.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_10.html#618">II, 10, 618</ref>. Le jour précédent, <persName ref="#2_celadon">Céladon</persName> a vu <persName ref="#2_astree">Astrée</persName>. Les Bergers dormaient alors à la belle étoile. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_10.html#623">II, 10, 623</ref>. Il y a huit ans qu'<persName ref="#2_alexis">Alexis</persName> est chez les <rs type="repertoire" ref="#2_carnutes">Carnutes</rs>. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_10.html#624">II, 10, 624</ref>. L'assemblée de druides commencera dans une <term ref="#lune">lune</term> et demi et durera plus de deux <term ref="#lune">lunes</term>.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_10.html#637">II, 10, 637</ref>. <persName ref="#celadon">Céladon</persName> a passé trois ans en <rs type="repertoire" ref="#2_italie">Italie</rs> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#94_recto">I, 4, 94 recto</ref>). <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_10.html#667">II, 10, 667</ref>. <persName ref="#2_lindamor">Lindamor</persName> sera chez <persName ref="#2_adamas">Adamas</persName> « dans le dixiesme de la <term ref="#lune">lune</term> suivante ». Il enverra un chevalier à sa place (<ref target="../_roman/reference/21_3/21_3_livre_12.html#506_recto">III, 12, 506 recto</ref>).<lb/>                                  - <ref target="../_roman/reference/21_2/21_2_livre_10.html#668">II, 10, 668</ref>. Dans une <term ref="#lune">lune</term> environ,  l'assemblée des druides commencera. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_11.html#673">II, 11, 673</ref>. Il y a douze ou quinze jours qu'<persName ref="#2_alexis">Alexis</persName> est chez <persName ref="#2_adamas">Adamas</persName>.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_11.html#674">II, 11, 674</ref>. Il y a trois ou quatre mois que <persName ref="#2_tircis">Tircis</persName> et <persName ref="#2_hylas">Hylas</persName> sont dans le hameau ; ils sont arrivés le jour de la  noyade de <persName ref="#2_celadon">Céladon</persName> (<ref target="../_roman/reference/21_1/21_1_livre_1.html#14_verso">I, 1, 14 verso</ref>).<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_11.html#676">II, 11, 676</ref>. Le gui sacré a  été découvert en juin, une <term ref="#lune">lune</term> avant le sixième de celle de
+                  juillet.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_11.html#677">II, 11, 677</ref>. <persName ref="#2_astree">Astrée</persName> va plus mal depuis dix ou douze nuits. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_11.html#681">II, 11, 681</ref>. Répétition : Environ quatre <term ref="#lune">lunes</term>, depuis la noyade de <persName ref="#2_celadon">Céladon</persName>.<lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_11.html#712">II, 11, 712</ref>. Dix ou douze nuits depuis l'acte de <persName ref="#2_celidee">Célidée</persName>.<lb/>
+                  <lb/>
+                  Au milieu de la deuxième partie, <persName ref="#4_leonide">Léonide</persName> découvre  <persName ref="#2_celadon">Céladon</persName> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#434">II, 7, 434</ref>). Le berger  a quitté <rs type="repertoire" ref="#2_isoure">Isoure</rs> « depuis quinze ou seize nuicts » (<ref target="../_roman/reference/21_2/21_2_livre_7.html#451">II, 7, 451</ref>). Quelques jours après, la nymphe appelle à la rescousse <persName ref="#2_adamas">Adamas</persName> qui lui aussi rend visite à <persName ref="#2_celadon">Céladon</persName> et l'engage à bâtir un temple. Faire agrandir le portrait d'<persName ref="#2_astree">Astrée</persName>  requiert « cinq ou six jours »   (<ref target="../_roman/reference/21_2/21_2_livre_8.html#520">II, 8, 520</ref>). <persName ref="#2_adamas">Adamas</persName> propose au berger de devenir <persName ref="#4_alexis">Alexis</persName> et de se dire malade parce que la vie qu'il mène « depuis plus de deux <term ref="#lune">Lunes</term> » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#624">II, 10, 624</ref>) l'a transformé.  <persName ref="#2_celadon">Céladon</persName> est depuis quinze jours chez <persName ref="#2_adamas">Adamas</persName> lorsque les bergers rendent visite au druide (<ref target="../_roman/reference/21_2/21_2_livre_11.html#673">II, 11, 673</ref>).  Les bergères, elles, ont « fait resolution d'aller le troisiesme jour visiter <persName ref="#2_adamas">Adamas</persName> et la belle <persName ref="#2_alexis">Alexis</persName> » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#892">II, 12, 892</ref>). Elles s'y rendent au début de la troisième partie (<ref target="../_roman/reference/21_3/21_3_livre_1.html#2_verso">III, 1, 2 verso</ref>).<lb/>
+                  <lb/>
+                  La deuxième partie commence un mois après la fin de la première. <lb/>
+                     Elle dure environ trois mois et  se rattache à l'histoire des <rs type="repertoire" ref="#2_francs">Francs</rs>. <lb/>
+                     <lb/>
+                     La gageure de <persName ref="#4_silvandre">Silvandre</persName> donne des dates supplémentaires : <lb/>
+                     - Elle a commencé le jour de la première visite de <persName ref="#leonide">Léonide</persName> dans les hameaux  (<ref target="../_roman/reference/21_1/21_1_livre_7.html#198_verso">I, 7, 198 verso</ref>), c'est-à-dire quinze jours après la noyade de <persName ref="#celadon">Céladon</persName>
+                     (<ref target="../_roman/reference/21_1/21_1_livre_5.html#140_recto">I, 5, 140 recto</ref>).<lb/>
+                     - Elle continue pendant un peu plus de trois mois :
+                     « Il y a plus de huict ou dix jours que les trois lunes sont ecoulees »
+                     (<ref target="../_roman/reference/21_2/21_2_livre_11.html#731">II, 11, 731</ref>).
+                  <lb/>
+               </p>
+            </note>
+            <note xml:id="commande">
+               <label>Commandé</label>
+               <p>
+                  <ref target="../_roman/reference/21_2/21_2_livre_1.html#1">II, 1, 1</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#485">II, 7, 485 </ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#523">II, 8, 523</ref>. <emph>
+                     <lb/>
+                     Va t'en déloyal, et garde toy bien de te faire jamais voir à moy que je ne te le commande</emph> (<ref target="../_roman/reference/21_1/21_1_livre_1.html#4_recto">I, 1, 4 recto</ref>).</p>
+            </note>
+            <note xml:id="intervention">
+               <label>Intervention de l'auteur</label>
+               <p>Pour attirer l'attention du lecteur, rappeler un passé généralement proche ou, plus rarement, annoncer l'avenir (<ref target="../_roman/reference/21_2/21_2_livre_5.html#273">II, 5, 273</ref>), d'Urfé s'interpose au cœur des récits.<lb/>
+                  <lb/>
+                  • L'intervention prend  souvent une forme qu'utilisent aussi les narrateurs d'histoires intercalées. <lb/>
+                  - Verbe <emph>Dire</emph> au passé composé à la première personne du singulier : <emph>Comme j'ai dit. </emph>
+                  <ref target="../_roman/reference/21_2/21_2_livre_2.html#115">II, 2, 115</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_3.html#161">II, 3, 161</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_3.html#164">II, 3, 164</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_3.html#181">II, 3, 181</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_5.html#279">II, 5, 279</ref>, <ref target="../_roman/reference/21_2/21_2_livre_5.html#321">321</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#505">II, 8, 505</ref>
+                  <emph>.</emph>
+                  <lb/>
+                  - Le verbe <emph>Dire</emph> peut être à l'imparfait : <ref target="../_roman/reference/21_2/21_2_livre_6.html#419">II, 6, 419</ref>. <lb/>
+                  - Le verbe <emph>Dire</emph> peut être au futur dans une prolepse : <lb/>
+                  <ref target="../_roman/reference/21_2/21_2_livre_1.html#3">II, 1, 3</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_3.html#161">II, 3, 161</ref>.<lb/>
+                  - Le sujet peut être  un pluriel de majesté : <ref target="../_roman/reference/21_2/21_2_livre_3.html#135">II, 3, 135</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#431">II, 7, 431</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#525">II, 8, 525</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_10.html#627">II, 10, 627</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_11.html#735">II, 11, 735</ref>. <lb/>
+                  -
+                  Le sujet, plus rarement,  est un <emph>on</emph> qui semble inclure le lecteur : <emph>On le peut penser</emph> : <ref target="../_roman/reference/21_2/21_2_livre_8.html#557">II, 8, 557</ref>.<lb/>
+                  <lb/>
+                  • L'intervention peut s'adresser au lecteur : <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_6.html#419">II, 6, 419</ref>. <emph>Ainsi que  je vous disois.</emph>
+                  <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_10.html#661">II, 10, 661</ref>. <emph>Ce que <emph>vous</emph> avez sceu</emph>. C'est bien l'auteur qui intervient ici,  car le récit de <persName ref="#2_silvie">Silvie</persName> s'est terminé au moment où la jeune Nymphe est passée à l'action.<lb/>
+                  <lb/>
+                  •  Le verbe déclaratif peut exprimer une feinte hésitation : <lb/>
+                  <emph> Je croy.</emph>
+                  <ref target="../_roman/reference/21_2/21_2_livre_12.html#885">II, 12, 885</ref>. <lb/>
+                  <emph>Je ne sçay</emph>. <ref target="../_roman/reference/21_2/21_2_livre_3.html#163">II, 3, 163</ref>. <lb/>
+                  <emph>Je ne scay quoy ; je ne scay comment</emph>. <ref target="../_roman/reference/21_2/21_2_livre_5.html#280">II, 5, 280</ref>. Les Précieuses rendront célèbre le <emph>je ne sais quoi</emph>,  formule que l'on rencontre déjà sous la plume de Montaigne. <lb/>
+                  <lb/>
+                  • Le verbe peut annoncer une explication :<lb/>
+                  <emph>Je veux dire</emph>. <ref target="../_roman/reference/21_2/21_2_livre_1.html#2">II, 1, 2</ref>. <lb/>
+                  <lb/>
+                  • Un mot peut annoncer le futur :<lb/>
+                  <emph>Il servit longuement</emph>. <ref target="../_roman/reference/21_2/21_2_livre_1.html#2">II, 1, 2</ref>.<lb/>
+                  <lb/>• L'intervention peut renfermer une  négation :<lb/>
+                  <emph>Il seroit mal-aisé de raconter</emph>. <ref target="../_roman/reference/21_2/21_2_livre_3.html#137">II, 3, 137</ref>.<lb/>
+                  <emph>Il seroit ennuyeux  de raconter</emph>. <ref target="../_roman/reference/21_2/21_2_livre_7.html#486">II, 7, 486</ref>. <lb/>
+                  <emph>Pour ne redire  icy toutes leurs paroles</emph>. <ref target="../_roman/reference/21_2/21_2_livre_8.html#504">II, 8, 504</ref>. <lb/>
+                  <lb/>
+                  • L'intervention appelle quelquefois une ponctuation affective. L'auteur s'adresse au héros qu'il tutoie en exprimant son émotion en même temps que celle de son personnage.<lb/>
+                  <emph>O ! perdu Berger, quel fut alors le transport qui en te relevant te porta jusques à sa bouche ?</emph>
+                  <ref target="../_roman/reference/21_2/21_2_livre_8.html#526">II, 8, 526</ref>.<lb/>
+                  - L'intervention exclamative remplace une description. <lb/>
+                  <emph>O Dieu !</emph>
+                  <emph>quel devint-il</emph>. <ref target="../_roman/reference/21_2/21_2_livre_10.html#621">II, 10, 621-622</ref>.<lb/>
+                  <lb/>
+                  • L'intervention peut souligner une invraisemblance, introduire une distance. Lorsque d'Urfé décrit l'herbe de <term ref="#fourvoiement">fourvoiement</term>, il note :<lb/>
+                  <emph>Que cela soit ou ne soit pas vray, je m'en remets à ce qui en est</emph>. <ref target="../_roman/reference/21_2/21_2_livre_5.html#321">II, 5, 321-322</ref>.<lb/>
+                  L'auteur nous avertit de « tenir en bride nostre créance », dirait <bibl source="#montaigne">Montaigne</bibl> (II, p. 384).<lb/>
+                  <lb/>
+                  • L'intervention peut prendre la forme d'un adverbe d'affirmation ou de doute : <lb/>
+                  <emph>Elle
+                     jugea, et certes fort à propos</emph>. <ref target="../_roman/reference/21_2/21_2_livre_7.html#443">II, 7, 443</ref>.<lb/>
+                  <emph>Peut-estre</emph>. (<ref target="../_roman/reference/21_2/21_2_livre_8.html#541">II, 8, 541</ref>). <lb/>
+                  <lb/>• L'intervention sentencieuse est une maxime à la première personne du pluriel.<lb/>
+                  <emph>Voila comme quelquesfois nos desseins ont des effects tous contraires à nos intentions</emph>. <ref target="../_roman/reference/21_2/21_2_livre_1.html#26">II, 1, 26</ref>. <lb/>
+                  <emph>Et voila comme nostre  jugement est deceu bien souvent par l'apparence !</emph>
+                  <ref target="../_roman/reference/21_2/21_2_livre_5.html#271">II, 5, 271</ref>. <lb/>
+                  Se tromper sur les apparences est un thème traité par Honoré d'Urfé dès la première des <bibl source="#epistres">
+                     <hi rend="italic">Epistres morales</hi>
+                  </bibl> : « La prudence est abusee de l'artifice : et quelquesfois l'or faux a plus d'esclat que le bon » (I, 1, p. 1).</p>
+            </note>
+            <note xml:id="oracle_echo">
+               <label>Oracle</label>
+               <p>- <ref target="../_roman/reference/21_2/21_2_livre_1.html#5">II, 1, 5</ref>. Si le plus savant des Bergers peut considérer un écho qu'il modèle à son gré comme le plus sûr des oracles, c'est que l'homme est en mesure de faire son avenir. <lb/>
+                  - <ref target="../_roman/reference/21_2/21_2_livre_3.html#153">II, 3, 153</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_3.html#155">II, 3, 155</ref>. Il s'agit de l'oracle d'<rs type="repertoire" ref="#2_echo">Écho</rs> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#6">II, 1, 6</ref>).</p>
+            </note>
+            
+            <note xml:id="il_pourroit">
+               <label>Il pourroit</label>
+               <p>
+                  <ref target="../_roman/reference/21_2/21_2_livre_1.html#4">II, 1, 4</ref>. Il faut ici lire <emph>il y pourroit</emph>, comme dans l'édition  de 1610.</p>
+            </note>
+            
+            <note xml:id="pouvoir_peut">
+               <label>Pouvoir</label>
+               <p>Le verbe <emph>pouvoir</emph> est très souvent mal conjugué en 1610 comme en 1621. Par exemple <ref target="../_roman/reference/21_2/21_2_livre_1.html#31">II, 1, 31</ref> ou <ref target="../_roman/reference/21_2/21_2_livre_4.html#264">II, 4, 264</ref>. <emph>Peut</emph> est ici mis pour <emph>pust</emph>. <lb/>
+                  <lb/>
+                  • Les diverses formes que prend ce verbe ne seront pas signalées dans les notes. La version fonctionnelle de <emph>L'Astrée </emph>donne au verbe le mode et le temps corrects.</p>
+            </note>
+            <note xml:id="vostre">
+               <label>Vostre</label>
+               <p>
+                  <ref target="../_roman/reference/21_2/21_2_livre_1.html#5">II, 1, 5</ref>. Il faut ici lire <emph>nostre</emph>, comme dans l'édition de 1610.</p>
+            </note>
+            
+         </noteGrp>
+         </div>
+      </body>
+    </text>
+</TEI>    
