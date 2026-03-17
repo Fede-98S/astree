@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Glossaire I-J-K - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><ref target="glossaire.html">
+              <hi rend="bold">GLOSSAIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="glossaire_aa.html">A</ref><ref target="glossaire_bb.html">B</ref><ref target="glossaire_cc.html">C</ref><ref target="glossaire_dd.html">D</ref><ref target="glossaire_ee.html">E</ref><lb/><ref target="glossaire_ff.html">F</ref><ref target="glossaire_gg.html">G</ref><ref target="glossaire_hh.html">H</ref><ref target="glossaire_ik.html">I</ref><ref target="glossaire_ik.html#j">J</ref><lb/><ref target="glossaire_ik.html#k">K</ref><ref target="glossaire_ll.html">L</ref><ref target="glossaire_mm.html">M</ref><ref target="glossaire_no.html">N</ref><ref target="glossaire_no.html#o">O</ref><lb/><ref target="glossaire_pp.html">P</ref><ref target="glossaire_qr.html">Q</ref><ref target="glossaire_qr.html#r">R</ref><ref target="glossaire_ss.html">S</ref><ref target="glossaire_tt.html">T</ref><lb/><ref target="glossaire_uz.html">U</ref><ref target="glossaire_uz.html#v">V</ref><ref target="glossaire_uz.html#w">W</ref><ref target="glossaire_uz.html#x">X</ref><ref target="glossaire_uz.html#y">Y</ref><ref target="glossaire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>GLOSSAIRE - I, J, K</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Icy</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">D'icy à quelque temps</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#187">IV, 2, 187</ref>).<lb/>
+        <ref target="bibliographie.html#furetiere">Furetière</ref> donne « d'icy à cent ans, à cent ans d'icy ». <ref target="bibliographie.html#huguet">Huguet</ref> explique : « D'icy en avant, de là en avant, A partir de ce temps, dorénavant, désormais ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Idée</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Dont la seule idée leur estoit [...] récente</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#7">IV, 1, 7</ref>). <lb/>
+        « Representation qui se fait à l'esprit de quelque chose qui a passé autrefois par les sens » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ides</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italics">Aux ides de <ref target="#julius">Julius</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#353_recto">III, 8, 353 recto</ref>). « IDES. s. m. plur. Terme du Comput Ecclesiastique dont se servoient les Romains dans leur Calendrier pour distinguer certains jours du mois. Les Ides sont d'ordinaire le 13. de chaque mois, excepté aux mois de Mars, May, Juillet &amp; Octobre, où elles sont le 15. On se sert encore de cette façon de compter les jours en la Chancellerie Romaine &amp; dans le Breviaire. Ce mot vient du Latin <hi rend="italic">Idus</hi>, de l'ancien mot Toscan <hi rend="italic">iduare</hi>, qui signifioit diviser » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Idole</cell>
+              <cell colspan="1" rowspan="1">- « Image, statue. Apparence vaine, fantôme.   Idole est souvent masculin »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+        Il est aussi au masculin dans la première partie de <hi rend="italics">L'Astrée</hi> et dans <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italics">La Sylvanire</hi>
+                </ref> (p. 89). <lb/>
+        « Quelques uns font ce mot masculin mais tous ceux qui parlent et qui écrivent le mieux le font toujours féminin » (<ref target="bibliographie.html#richelet">Richelet</ref>, Article <hi rend="italics">Idolâtre</hi>). Le substantif est féminin dans <ref target="bibliographie.html#furetiere">Furetière</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Idole</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">Idole</hi> est au féminin dans la deuxième partie. <lb/>
+        - « Se dit poëtiquement d'une vaine image, comme celles qui paroissent en songe. Orphée croyoit ramener Euridice, &amp; il ne trouva qu'une vaine idole » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Il</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Il s'emploie très souvent dans le sens de cela » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Il y a long temps</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Elle le possede il y a si long temps</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#79_verso">III, 3, 79 verso</ref>). Depuis longtemps.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Imagination(s)</cell>
+              <cell colspan="1" rowspan="1"> Au pluriel, ce mot signifie  les pensées, ce qu'on imagine (<ref target="../_roman/reference/21_1/21_1_livre_6.html#174_recto">I, 6, 174 recto</ref>). Le substantif n'a pas ce sens dans <ref target="bibliographie.html#huguet">Huguet</ref>. <ref target="bibliographie.html#furetiere">Furetière</ref> en revanche donne : « Se dit aussi des effets que produit cette faculté ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Imaginé</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Mespris imaginé de la personne aymee</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#488_recto">III, 11, 488 recto</ref>).<lb/>
+        Imaginaire, ce qu'on a conçu.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Imaginer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Imaginez-vous un peu</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#6">IV, 1, 6</ref>). <lb/>
+        « Imaginer. Concevoir. Se former l'image, ou l'idée d'une chose » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Immédiat</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le <ref target="glossaire_uz.html#vivre">vivre</ref> est une action immediate  de l'ame</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#33_verso">III, 2, 33 verso</ref>). « Qui agit sans moyen, sans milieu » (<hi rend="italic">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>
+                </hi>,  1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Impatiences</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Demeurer dans ces impatiences</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#431_verso">III, 10, 431 verso</ref>).
+        « Par métonymie. Vieilli. Manifestation de l'impatience, irritation nerveuse qu'elle produit » (<ref target="http://www.atilf.fr/">Trésor</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Importer de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Importer à, concerner » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Impourveuë (à l')</cell>
+              <cell colspan="1" rowspan="1">  <ref target="bibliographie.html#huguet">Huguet</ref> donne aussi <hi rend="italic">Improuveu</hi>, <hi rend="italic">Impourveu</hi> et <hi rend="italic">à l'improviste</hi> pour signifier « D'une manière imprévue, inattendue ». <ref target="bibliographie.html#vaugelas">Vaugelas</ref> explique : « <hi rend="italics">À l'improviste, à l'impourveu</hi>. Tous deux sont bons, &amp; signifient la mesme chose, mais à<hi rend="italics"> l'improviste</hi>, quoy que pris de l'Italien, est tellement naturalisé François, qu'il est plus elegant qu'<hi rend="italics">à l'impourveu</hi> » (p. 192). <hi rend="italic">À l'impourveu</hi> « se conserve jusqu'à la fin du siècle, et même au delà » (<ref target="bibliographie.html#brunot">Brunot</ref>, III, p. 352).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Imprécation</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il ne falloit point [...] que vostre parole fust confirmée [...] par ceste imprecation</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#296_recto">III, 7, 296 recto</ref>). « Souhait qu'on fait contre quelqu'un, afin qu'il luy arrive quelque mal [...] On en fait quelquefois par maniere de jurement, &amp; pour confirmation de ce qu'on dit » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Imputer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">On ne doit pas le luy imputer à quelque faute</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#397_verso">III, 9, 397 verso</ref>). « IMPUTER, signifie aussi, Attribuer à quelqu'un quelque faute qu'un autre a faite [...] Les supplices honteux qu'on a fait souffrir aux Martyrs, leur sont imputez à gloire » (<ref target="bibliographie.html#furetiere">Furetière</ref>). « Imputer à. suivi d'un substantif sans article, attribuer ce qui est exprimé par ce substantif » (<ref target="bibliographie.html#littre">Littré</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Incapable</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi, Indigne » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Incapable</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Vous vous rendez incapable du secours</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#170">IV, 2, 170</ref>).<lb/>
+        Le <ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref> explique : « Capable [D'une chose] "Qui peut contenir, recevoir" ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Incommodité</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Les incommoditez de nostre maison</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#306_recto">III, 7, 306 recto</ref>). « INCOMMODITÉ, signifie aussi, Pauvreté » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Incompatible</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Insociable, de caractère difficile, avec qui l'on ne peut s'accorder » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Inconnu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Une personne incogneuë</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#188_verso">III, 5, 188 verso</ref>). « Qui n'est pas connu [...] Qui n'a point de réputation dans le monde » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Inconvénient</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Malheur, suitte, consequence fascheuse » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Indignité</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Cette indignité estoit trop grande pour la <ref target="glossaire_ss.html#souffrir">souffrir</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#474_verso">III, 11, 474 verso</ref>). « Affront, injure, outrage &amp; excés faits à quelqu'un » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Indiscret</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ce Chevalier, qui encores qu'indiscret estoit toutesfois vaillant et courageux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#226_verso">III, 6, 226 verso</ref>). « Celuy qui agit par passion, sans considerer ce qu'il dit ni ce qu'il fait » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Indiscrétion</cell>
+              <cell colspan="1" rowspan="1">« Imprudence, Action d'estourdi » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Industrie</cell>
+              <cell colspan="1" rowspan="1">« Adresse de faire reüssir quelque chose, quelque dessein, quelque travail [...] Ce mot est tiré du Latin industria, d'industrieux, qui est dit, selon Festus, <hi rend="italics">ab intrò struendo</hi>, selon cet Auteur celuy-là proprement est industrieux, <hi rend="italics">qui intrò struit</hi>, qui travaille pour le dedans, c'est à dire, pour sa famille, &amp; qui ne perd aucune occasion pour cela » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - « <hi rend="italics">Indeavour</hi> » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Industrieusement</cell>
+              <cell colspan="1" rowspan="1">Avec adresse.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Inespéré</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Ce qui surprend, &amp; à quoy on ne s'attendoit point » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:53px;">
+                Infaillible</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se dit aussi de ce qui est certain, demonstratif. [...] Il n'y a que la Geometrie qui soit infaillible entre les sciences humaines » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        À l'article <hi rend="italics">Infaillibilité</hi>, on lit : « L'infaillibilité ne se doit attribuer proprement qu'à Dieu, &amp; à l'Eglise Universelle. on a escrit pour &amp; contre l'infaillibilité du Pape » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Infection</cell>
+              <cell colspan="1" rowspan="1">« Puanteur » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Ce mot n'est pas dans <ref target="bibliographie.html#huguet">Huguet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Influence</cell>
+              <cell colspan="1" rowspan="1">« Action du fluide astral »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> précise : « Qualité qu'on dit s'escouler du corps des astres, ou l'effet de leur chaleur &amp; de leur lumiere, à qui les astrologues attribuent tous les évenements qui arrivent sur la terre ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ingrat</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">N'estre point ingrate du bon office</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#655">IV, 4, 655</ref>).<lb/>
+        « Non reconnaissant de, oublieux de » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ingratement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le temps et le soin qu'ingratement ils y employent</hi> (<ref target="../_roman/reference/21_3/21_3_liminaires.html#3_autheur_lignon">III, <hi rend="italic">L'Autheur à la rivière</hi>
+                </ref>). En ne trouvant qu'ingratitude. « INGRAT, se dit aussi figurément des terres steriles, des travaux qui n'apportent point de profit [...] Les Mathematiques sont de tres-belles sciences, mais elles sont ingrates, &amp; n'apportent point de profit à leur maistre » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Injuste</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Injustes douleurs</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#16_verso">III, 1, 16 verso</ref>). Illégitime, non-mérité. <ref target="bibliographie.html#huguet">Huguet</ref> donne : « Juste. Légitime ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Innocent</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Vous estiez innocents de son desplaisir</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#555">IV, 3, 555</ref>).<lb/>
+        « Innocent de qqc. Qui n'est pas coupable » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Insigne (adj.)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Insignes trahisons</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#232">IV, 2, 232</ref>).<lb/>
+        « Ce mot signifie qui est fort remarquable &amp; se prend en bonne &amp; mauvaise part, mais plus en mauvaise »        (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Insolence</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Les insolences qu'elle prevoyoit lors qu'il seroit maistre absolu</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#534_verso">III, 12, 534 verso</ref>). « Action extraordinaire, excès, abus » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Instance</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Apres l'en avoir requis avec tant d'instance</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#478_verso">III, 11, 478 verso</ref>). « Priere, sollicitation, empressement avec lequel on poursuit quelqu'un de faire quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Instituteur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Celuy qui establit une societé avec une certaine regle &amp; maniere de vie » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Institution</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Par l'institution des Druydes avoit laissé la religion et les loix de ses peres à ses futurs neveux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>). « Establissement » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Instruire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Pour mieux instruire mon Juge</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#217_verso">III, 5, 217 verso</ref>). « INSTRUIRE, en termes de Palais, se dit de toutes les formalitez qu'il faut faire pour éclaircir une affaire, &amp; la mettre en estat d'estre jugée » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Intelligence</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Connoissance, Comprehension » (<hi rend="italics">
+                  <ref target="bibliographie.html#academie">Dictionnaire de l'Académie</ref>,</hi> 1694). <lb/>
+        - « Se dit aussi de la correspondance qu'on a avec des associez en des pays estrangers pour faire un commerce. [...] se dit aussi en matiere de negociations » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Intelligence</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Ceste pure intelligence de la Planette</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#203_recto">III, 5, 203 recto</ref>).
+        « Rapports, relations »         (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italic">Immortelles intelligences</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#401_verso">III, 9, 401 verso</ref>). Les anges<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_intelligences">η</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Intelligence</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Tres-grandes intelligences qu'il a avec Gondebaut</hi> (<ref target="../_roman/reference/24_4/24_4_livre_5.html#930">IV, 5, 930</ref>).<lb/>
+        « INTELLIGENCE, se dit aussi en mauvaise part, d'une cabale secrette, d'une collusion de parties qui tend à nuire à autruy » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Interdit</cell>
+              <cell colspan="1" rowspan="1">« Se dit aussi de ceux qui se troublent, qui s'estonnent, &amp; qui ne sçauroient parler raisonnablement » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Dans <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#275_recto">I, 9, 275 recto</ref>), l'adjectif signifie <hi rend="italics">surpris</hi>, sens que ne donne pas <ref target="bibliographie.html#huguet">Huguet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Intéressé</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - « Offensé » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - « Qui a un intérêt personnel » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:116px;">
+                Intéresser</cell>
+              <cell colspan="1" rowspan="1">« Porter quelque avantage ou quelque prejudice à quelqu'un » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <hi rend="italics">Interesser</hi> est noté comme mot à la mode dans <ref target="bibliographie.html#huguet">Huguet</ref> : « Je lui appris encores à dire souvent maxime d'Estat, maladie d'Estat, periode d'affaires, <hi rend="italics">interesser</hi> [...] et mille termes en cette façon, à quoy on conoist aujourd'huy une belle ame. AUBIGNÉ, <hi rend="italics">Sancy</hi>, II, 1 ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:38px;">Intéresser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - <hi rend="italics">Intéresser en</hi> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#870">II, 12, 870</ref>). Intéresser par. L'expression n'est pas dans les dictionnaires.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Intéresser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Il n'avoit point creu d'interesser Merindor</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#339">IV, 2, 339</ref>).<lb/>
+        « INTERESSER, signifie aussi, Porter quelque avantage ou quelque prejudice à quelqu'un » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Intermission</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Quelque intermission ayant esté faite des armes</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#141_verso">III, 4, 141 verso</ref>). « Cessation de travail, ou de douleur » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Interrompu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Discours interrompus</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#171_recto">III, 5, 171 recto</ref>). Propos interrompus, sans suite. Voir <ref target="glossaire_pp.html#parler_a_mots">Parler à mots interrompus</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Inventer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Sexe <ref target="glossaire_aa.html#a">au</ref> monde inventé pour nous faire du  mal</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#40">IV, 1, 40</ref>). <lb/>
+        « Empl. trans. "Trouver ou créer qqc. de nouveau" » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Invention</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Si je n'avois pas plus d'invention que vous</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#92_recto">III, 3, 92 recto</ref>). « Subilité d'esprit, certain genie particulier qui donne la facilité de trouver quelque chose de nouveau » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Investir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Tout le peuple le tient investy</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#543_verso">III, 12, 543 verso</ref>). « Signifie aussi, Environner une personne, empêcher que d'autres ne l'approchent » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« L'un des sept pechés capitaux, Mouvement de l'ame qui la porte à nuire à son prochain, à se venger de luy, quand il a fait quelque chose qui offense, ou qui ne plaist pas. Il n'est guere en usage que dans le Catechisme, ou en parlant de la colere de Dieu excitée par les pechés des hommes » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Irondelle</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Estre plustost Amans, que non pas irondelles</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#178_recto">III, 5, 178 recto</ref>). <lb/>
+        - <hi rend="italic">Faictes comme aux irondelles,  Qu'il me soit donné des aisles</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#531_verso">III, 12, 531 verso</ref>). <lb/>
+        « Au XVII<hi rend="supn">e</hi> siècle, on hésitait entre arondelle, herondelle et hirondelle » (<ref target="bibliographie.html#la_curne">La Curne</ref>). <hi rend="italic">Arondelle</hi> est « le vrai mot », affirme <ref target="bibliographie.html#patru">Patru</ref>, mais <hi rend="italic">hirondelle</hi> l'emporte (II, pp. 665-666). <ref target="bibliographie.html#menage">Ménage</ref> explique que le nom ancien, <hi rend="italic">aronde</hi>,  vient d'<hi rend="italic">hirundo</hi>. C'est un oiseau qui symbolise  voyage et changement. « On dit aussi, Il viendra avec les hirondelles, ou il s'en retournera avec les hirondelles, pour signifier le printemps ou l'automne »  (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Irrémissible</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Cette faute luy seroit irremissible</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#428_recto">III, 10, 428 recto</ref>). « Qui ne se peut remettre ni pardonner » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                
+                Jaloux</cell>
+              <cell colspan="1" rowspan="1">Jaloux a son sens moderne dans le roman. Parfois cependant il s'y ajoute une nuance intéressante illustrée par cette expression que donne <ref target="bibliographie.html#furetiere">Furetière</ref> : « Il en est jaloux comme un gueux de sa besace ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Jamais</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Perdre pour jamais</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#455_verso">III, 11, 455 verso</ref>). « À jamais, pour jamais, adv. C'est à dire, pour toujours » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Jambe</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« La jambe s'estend depuis le genou jusqu'à la cheville du pied » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Janclide</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Janclides, et autres tels instruments</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#70_recto">III, 3, 70 recto</ref>).<lb/>
+        « s. f. Instrument de guerre qui servait à lancer des pierres » (<ref target="bibliographie.html#godefroy">Godefroy</ref>, qui cite Fauchet). « <hi rend="italic">CLIDE, or Janclide, a long piece of  timber withheld by a counterpoise [bascule], which,  upon the latter being let loose, would  throw a heavy load of stones into a fortress : the clide was still in use under  Charlemagne</hi> » (<ref target="bibliographie.html#james">James</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Jarretière</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je ratachay de tant de sorte mes jarretieres, que le jarret m'en faisoit mal</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#275_recto">III, 7, 275 recto</ref>). « Ruban, ou morceau de cuir façonné, embéli et large d'environ deux doigts dont se lie la jambe lorsqu'on a chaussé son bas » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Javelot</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Un petit javelot à la main gauche </hi>(<ref target="../_roman/reference/24_4/24_4_livre_3.html#366">IV, 3, 366</ref>).<lb/>
+        « JAVELOT. s. m. Petite javeline ou flesche qu'on lance sans le secours de l'arc contre l'ennemi » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        « JAVELINE. s. f. Arme-d'hast, ou demie-pique, dont les Anciens se servoient tant à pied qu'à cheval. Elle avoit cinq pieds &amp; demi de long, &amp; son fer avoit trois faces aboutissantes en pointe » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Jeter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Dans l'expression <hi rend="italics">Jeter la <ref target="glossaire_ff.html#figure">figure</ref>
+                </hi> :  « Jeter. Compter, calculer » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Jeter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Nous jettions la veuë</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#886">IV, 4, 886</ref>).<lb/>
+        Regarder. Le <ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref> donne : « Jeter sa vue qq. part ».<lb/>
+        - <hi rend="italic">Avoir jetté dehors le mal qui le travaille</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#904">IV, 4, 904</ref>).<lb/>
+        « En Medecine, Jetter se dit des playes, des ulceres qui suppurent, qui font sortir de mauvaises humeurs » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Jeunesse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Retirez vous de cette jeunesse</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#110_verso">III, 3, 110 verso</ref>). « Signifie figur[ément]. Folie de jeune homme » (<hi rend="italics">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>,</hi> 1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Joindre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Le grand pré qui le joignoit</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#21_recto">III, 1, 21 recto</ref>). « Être tout à fait contigu à » (<ref target="bibliographie.html#godefroy">Godefroy</ref>, <hi rend="italic">Complément</hi>). Mais le verbe est transitif direct dans <hi rend="italic">L'Astrée</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Joindre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Nos robes [...] jointes au corps</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#714">IV, 4, 714</ref>).<lb/>
+        « Serré, vêtu d'une robe ou d'une armure collante » (<ref target="bibliographie.html#la_curne">La Curne</ref>, Article <hi rend="italic">Joint</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Joli</cell>
+              <cell colspan="1" rowspan="1">« On le dit aussi en plusieurs autres choses qu'on veut mespriser. Voilà un <hi rend="italics">joli</hi> entretien, un <hi rend="italics">joli</hi> compliment à me faire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).   <ref target="bibliographie.html#huguet">Huguet</ref> ne donne pas ce sens à l'adjectif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Jouer (se)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se jouer, v. réfl. Se livrer à un divertissement (ici se jouer est un verbe neutre à forme réfléchie, comme s'enfuir, s'écrier, se taire) » (<ref target="bibliographie.html#littre">Littré</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:102px;">
+                Jouir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi, Avoir la compagnie charnelle d'une femme. Aimer &amp; jouïr est la grande felicité de ce monde » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        • Ce verbe étonne dans la bouche de <ref target="personnage_ss.html#silvandre">Silvandre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#7">II, 1, 7</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_2.html#113">II, 2, 113</ref>). Le mot garde probablement son sens archaïque : <lb/>
+        « Avoir de bons rapports avec » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Jour</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « De jour à autre, ou de jour en jour » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Jour</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme"> <hi rend="italic">- Finir mes jours</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#364_recto">III, 8 364 recto</ref>). <lb/>
+        - « JOUR, se dit figurément de la vie » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+- Les jours, la vie. « On revient sage des jours » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>). </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Journée</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Un espace de chemin qu'on peut faire facilement en un jour » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        -
+        « On dit, Marcher à grandes, &amp; à petites journées, pour dire, Aller diligemment, ou lentement » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Journée</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italics">
+                  <ref target="repertoire_pp.html#3_penelope">Penelope</ref> de nuict deffaisoit sa journee</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#3_recto">III, 1, 3 recto</ref>). « Travail d'un jour » (<ref target="bibliographie.html#la_curne">La Curne</ref>). <lb/>
+        - <hi rend="italic">Dedans les cieux [...] / Ceste bonne journée,  / Où doivent s'accomplir les serments</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#300_verso">III, 7, 300 verso</ref>).<lb/>
+        « Cour de justice » (<ref target="bibliographie.html#huguet">Huguet</ref>). « Jour assigné pour la comparution en justice » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Jouste</cell>
+              <cell colspan="1" rowspan="1">« La difference des <hi rend="italics">joustes</hi> &amp; des tournois est celle d'un genre à l'espece. On appelloit tournois, toutes sortes de courses &amp; combats militaires qui se faisoient par divertissement &amp; galanterie ; &amp; les <hi rend="italics">joustes</hi> estoient des combats qui se faisoient de prés avec la lance &amp; l'espée. Le tournoy se faisoit entre plusieurs Chevaliers qui combattoient en trouppe ; &amp; la <hi rend="italics">jouste</hi> estoit un combat singulier d'homme à homme » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Jugement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Puissance de l'ame qui connoist, qui discerne le bon d'avec le mauvais, le vray d'avec le faux » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Jugement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Le jugement est  offencé</hi> (blessé) par les passions (<ref target="../_roman/reference/21_3/21_3_livre_4.html#123_recto">III, 4, 123 recto</ref>).<lb/>
+        - <hi rend="italics">Être de mauvais jugement</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#180_recto">III, 5, 180 recto</ref>). <hi rend="italic">Être de</hi> « exprime la manière d'être » (<ref target="bibliographie.html#littre">Littré</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Jugement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Joignant les forces de nostre esprit avec nostre jugement</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#637">IV, 4, 637</ref>).<lb/>
+        « Le jugement regarde la chose considérée en elle-même pour en pénétrer le vrai ; c'est une connaissance qui prononce » (<ref target="bibliographie.html#guizot">Guizot</ref>, Article <hi rend="italic">Jugement</hi>). « La bêtise est l'opposé de l'esprit, [...] l'étourderie l'est du jugement » (<ref target="bibliographie.html#guizot">Guizot</ref>, Article <hi rend="italic">Esprit</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Juger de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Juger de. Croire » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Julius</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Aux ides de Julius</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>). 15 juillet. <lb/>
+        Juillet « vient du Latin <hi rend="italic">Julius</hi>, surnom de C. Cesar Dictateur, qui donna son nom à ce mois qui s'appelloit auparavant <hi rend="italic">Quintilis</hi> » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Juppe</cell>
+              <cell colspan="1" rowspan="1">« Vêtement descendant des épaules aux cuisses »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Juré</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Nos ennemis jurez</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#231">IV, 2, 231</ref>).<lb/>
+        « Ennemy Juré, C'est à dire, ennemy mortel » (<ref target="bibliographie.html#furetiere">Furetière</ref>). En revanche,
+        « Frere juré, i. "bon amy" » (<ref target="bibliographie.html#oudin">Oudin</ref>).<lb/>
+        <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Jurer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je jure le cie</hi>l (<ref target="../_roman/reference/21_3/21_3_livre_10.html#420_verso">III, 10, 420 verso</ref>). Verbe transitif direct. « Il a juré son grand Dieu » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Juste</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Avoir juste raison</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#405_verso">III, 9, 405 verso</ref>). « Juste raison, grande raison. Bonne raison » (<hi rend="italics">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>,</hi> 1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Juste</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- Il <hi rend="italic">luy estoit si juste qu'il sembloit avoir esté faict sur son corps</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#540_recto">III, 12, 540 recto</ref>). « Étroit » (<ref target="bibliographie.html#la_curne">La Curne</ref>). Nous dirions <hi rend="italic">ajusté</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Justement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Les plaintes justement luy peuvent bien estre permises</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#13_verso">III, 1, 13 verso</ref>). « Avec justice » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Justesse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Précision, exactitude, régularité » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Justice</cell>
+              <cell colspan="1" rowspan="1">- « Se dit aussi du corps des Officiers commis pour rendre la justice » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Le substantif n'a pas  ce sens dans <ref target="bibliographie.html#huguet">Huguet</ref>. <lb/>
+        - <hi rend="italics">Justice</hi> précédé par un adjectif possessif signifie
+        mon bon droit (<ref target="../_roman/reference/21_1/21_1_livre_11.html#363_recto">I, 11, 363 recto</ref>).<lb/>
+        - La <hi rend="italics">justice de ma cause</hi> signifie aussi mon bon droit (<ref target="../_roman/reference/21_1/21_1_livre_4.html#91_verso">I, 4, 91 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                K</cell>
+              <cell colspan="1" rowspan="1">Aucune entrée ne  commence par <hi rend="bold">K.</hi>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+          </table><p> </p><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

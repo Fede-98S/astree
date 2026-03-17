@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Répertoire B - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_rep"
+  onclick="SetDisplay('legende_rep')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_rep')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p>Catégories</p><table rend="center_o center_t" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" style="width:auto; height:20px; background-color:#FFCCFF">Actualité</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Géographie </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px">Histoire</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue" style="width:auto; height:20px">Littérature</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue_hashed" style="width:auto; height:20px">Mythologie</cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px"> Remarque </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+            </table><p> </p><ref target="repertoire.html">
+              <hi rend="bold">RÉPERTOIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="repertoire_aa.html">A</ref><ref target="repertoire_bb.html">B</ref><ref target="repertoire_cc.html">C</ref><ref target="repertoire_dd.html">D</ref><ref target="repertoire_ee.html">E</ref><lb/><ref target="repertoire_ff.html">F</ref><ref target="repertoire_gg.html">G</ref><ref target="repertoire_hh.html">H</ref><ref target="repertoire_ik.html">I</ref><ref target="repertoire_ik.html#j">J</ref><lb/><ref target="repertoire_ik.html#k">K</ref><ref target="repertoire_ll.html">L</ref><ref target="repertoire_mm.html">M</ref><ref target="repertoire_no.html">N</ref><ref target="repertoire_no.html#o">O</ref><lb/><ref target="repertoire_pp.html">P</ref><ref target="repertoire_qr.html">Q</ref><ref target="repertoire_qr.html#r">R</ref><ref target="repertoire_ss.html">S</ref><ref target="repertoire_tt.html">T</ref><lb/><ref target="repertoire_uz.html">U</ref><ref target="repertoire_uz.html#v">V</ref><ref target="repertoire_uz.html#w">W</ref><ref target="repertoire_uz.html#x">X</ref><ref target="repertoire_uz.html#y">Y</ref><ref target="repertoire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>
+              <ref target="repertoire.html">RÉPERTOIRE - B</ref>
+            </head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Bacchanales</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#bacchanales">I</ref>, <ref target="#2_bacchanales">II</ref>, <ref target="#3_bacchanales">III</ref>, <ref target="#4_bacchanales">IV</ref>
+              
+            Mythologie. Écrit aussi <hi rend="italics">Baccanales</hi>. <lb/>
+            Ce sont les fêtes de <ref target="#bacchus">Bacchus</ref>, le dieu du vin. <ref target="bibliographie.html#furetiere">Furetière</ref> précise que « c'est une rejouïssance ou mascarade qu'on fait au Carnaval, où on se couronne de lierre, et où on imite ces anciennes Festes » (Article <hi rend="italics">Bacchanales</hi>). Les <ref target="#bacchanales">Bacchanales</ref> autorisent de grandes libertés. À l'origine ce sont les femmes qui fêtaient seules pendant deux jours en mars. Les <ref target="#bacchanales">Bacchanales</ref> sont ensuite devenues des journées consacrées au théâtre trois fois par an, puis des jours et des nuits de débauche. Interdites au II<hi rend="supn">e</hi> siècle avant J.-C., elles recommencent sous Jules César. Dans la culture chrétienne, le carnaval et les déguisements du Mardi gras se substituent aux <ref target="#bacchanales">Bacchanales</ref>. Le carnaval va de Noël à Pâques : il commence à l'Épiphanie, à la fin des fêtes de Noël, et se termine le Mardi gras, avant le carême qui précède Pâques. Dans <hi rend="italics">L'Astrée</hi>, les  <ref target="#bacchanales">Bacchanales</ref> sont sans doute les fêtes du Carnaval.<lb/>
+            <lb/>
+            • C'est à <ref target="repertoire_mm.html#marcilly">Marcilly</ref> que les gens du château célèbrent des <ref target="#bacchanales">Bacchanales</ref> rappelées deux fois. <lb/>
+            • Le dernier jour des <ref target="#bacchanales">Bacchanales</ref>, les chevaliers foréziens partent rejoindre <ref target="personnage_cc.html#clidaman">Clidaman</ref> près de <ref target="personnage_mm.html#merovee">Mérovée</ref> (<ref target="../_roman/reference/21_1/21_1_livre_5.html#134_recto">I, 5, 134 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_5.html#135_recto">135 recto</ref>). <lb/>
+            • Deux ou trois ans avant, c'était aussi le dernier jour des <ref target="#bacchanales">Bacchanales</ref> que <ref target="personnage_cc.html#clidaman">Clidaman</ref> avait organisé un tournoi pour soutenir la beauté de <ref target="personnage_ss.html#silvie">Silvie</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#269_recto">I, 9, 269 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Bacchanales</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#bacchanales">I</ref>, <ref target="#2_bacchanales">II</ref>, <ref target="#3_bacchanales">III</ref>, <ref target="#4_bacchanales">IV</ref>
+            
+            • À <ref target="repertoire_ll.html#2_lyon">Lyon</ref>, pendant les <ref target="#2_bacchanales">Bacchanales</ref>, <ref target="personnage_hh.html#2_hylas">Hylas</ref> et <ref target="personnage_cc.html#2_clorian">Clorian</ref> participent à un tournoi et représentent <ref target="personnage_cc.html#2_circene">Circène</ref> sur leurs armes (<ref target="../_roman/reference/21_2/21_2_livre_4.html#201">II, 4, 201</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Bacchanales</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#bacchanales">I</ref>, <ref target="#2_bacchanales">II</ref>, <ref target="#3_bacchanales">III</ref>, <ref target="#4_bacchanales">IV</ref>
+            
+            La coutume romaine veut qu'on se déguise aux Bacchanales.<lb/>
+            <lb/>
+            • <ref target="personnage_hh.html#3_hylas">Hylas</ref> rappelle qu'il a célébré les Bacchanales à <ref target="repertoire_ll.html#3_lyon">Lyon</ref>. Il a dansé déguisé en vent (<ref target="../_roman/reference/21_3/21_3_livre_2.html#47_verso">III, 2, 47 verso</ref>).<lb/>
+            <lb/>
+            •  Quand <ref target="personnage_ss.html#3_silviane">Silviane</ref> se déguise, <ref target="personnage_cc.html#3_childeric">Childéric</ref> tombe amoureux d'elle (<ref target="../_roman/reference/21_3/21_3_livre_12.html#516_verso">III, 12, 516 verso</ref>).<lb/>
+            <lb/>
+            • On peut voir les Bacchanales de Poussin dans ce <ref target="http://mythologica.fr/grec/pic/bacchanales_poussin.jpg">site</ref> (10 février 2014).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Bacchanales</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#bacchanales">I</ref>, <ref target="#2_bacchanales">II</ref>, <ref target="#3_bacchanales">III</ref>, <ref target="#4_bacchanales">IV</ref>
+            
+            Écrit aussi <hi rend="italic">Bachanales</hi>.<lb/>
+            <lb/>
+            • <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref>, à <ref target="repertoire_ll.html#4_lyon">Lyon</ref>, organise  tournois et spectacles pendant les Bacchanales (<ref target="../_roman/reference/24_4/24_4_livre_4.html#643">IV, 4, 643</ref>). <lb/>
+            <lb/>
+            S'agit-il des Bacchanales auxquelles <ref target="personnage_hh.html#3_hylas">Hylas</ref> a participé déguisé en conducteur de vents <lb/>
+              (<ref target="../_roman/reference/21_3/21_3_livre_2.html#47_verso">III, 2, 47 verso</ref>), <lb/>
+              ou plutôt des Bacchanales où il a participé en se présentant à un tournoi (<ref target="../_roman/reference/21_2/21_2_livre_4.html#201">II, 4, 201)</ref> ?<lb/>
+            
+            <lb/>
+            • Durant les Bacchanales, <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> se promène dans les jardins de <ref target="repertoire_aa.html#4_athenee">l'Athénée</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#649">IV, 4, 649</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> attend la fin des Bacchanales pour révéler à <ref target="personnage_cc.html#4_clotilde">Clotilde</ref> les déclarations de <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#668">IV, 4, 668</ref>).<lb/>
+            <lb/>
+            • Durant les Bacchanales, trois chevaliers participent à un tournoi habillés en sauvages. Il s'agit de <ref target="personnage_bb.html#4_bellimarte">Bellimarte</ref>, <ref target="personnage_mm.html#4_merindor">Mérindor</ref> et <ref target="personnage_pp.html#4_periandre">Périandre</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#711">IV, 4, 711</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> répète qu'elle attend la fin des Bacchanales pour parler à <ref target="personnage_cc.html#4_clotilde">Clotilde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#721">IV, 4, 721</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#4_ardilan">Ardilan</ref> prétend que  ce qui se fait pendant les Bacchanales est un jeu qu'il ne faut pas prendre au sérieux (<ref target="../_roman/reference/24_4/24_4_livre_4.html#834">IV, 4, 834</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Bacchus</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#bacchus">I</ref>
+            
+            Mythologie. Fils de <ref target="repertoire_ik.html#jupiter">Jupiter</ref> et de <ref target="repertoire_ss.html#semele">Sémélé</ref>.<lb/>
+            <lb/>
+            • Sa naissance merveilleuse est rappelée dans les « peintures esclatantes » (<ref target="../_roman/reference/21_1/21_1_livre_2.html#27_recto">I, 2, 27 recto</ref>). Voir <ref target="repertoire_ss.html#semele">Sémélé</ref>.<lb/>
+            <lb/>
+            • Son pouvoir est suggéré dans la description des <ref target="#bacchanales">Bacchanales</ref>, bien qu'il ne soit pas nommé (<ref target="../_roman/reference/21_1/21_1_livre_5.html#134_recto">I, 5, 134 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFCCFF;">
+                Baro, B.</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_baro">III</ref>
+            
+            Balthazar Baro (1596 ? - 1650).  Baro n'a  parlé de sa vie privée que pour se dire l'obligé d'Honoré d'Urfé qui l'aurait formé et complimenté (<ref target="bibliographie.html#1627">1627</ref>, <hi rend="italic">Advertissement</hi>, n.p.). Les renseignements que je rapporte, glanés dans diverses sources,  se recoupent  et parfois se complètent.<lb/>
+            <lb/>
+            • Le <ref target="http://www.academie-francaise.fr/les-immortels/balthazar-baro">site</ref> de l'Académie française (22 juillet 2012) résume ce que les académiciens savaient de leur collègue : « Né à Valence (Dauphiné) vers 1600 [sic].
+            Secrétaire<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#secretaire">η</ref> de d'Urfé, l'auteur du fameux roman de <hi rend="italic">l'Astrée</hi>, dont il   fit imprimer la quatrième partie à sa mort et composa la cinquième sur   ses mémoires. Il a laissé en outre trois tragédies, deux odes, une   pastorale, un poème héroïque et quatre poèmes dramatiques. Il fut   procureur à Valence et trésorier à Montpellier.
+            Élu à l'Académie  au mois de mai 1636 en remplacement de [Auger de Moléon] Granier [fauteuil 38], il fut un des examinateurs des vers du <hi rend="italic">Cid</hi> ». <lb/>
+
+            Dans cette rubrique, la date de naissance de Baro est contestable, et le traitement des suites de <hi rend="italic">L'Astrée</hi> est superficiel.<lb/>
+            <lb/>
+                • Baro « a certainement connu [d'Urfé] à Tournon<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#tournon">η</ref> où ils fréquentaient le même collège » (<ref target="https://fr.wikipedia.org/wiki/Balthazar_Baro">Wikipédia</ref>, 2 août 2016).  <lb/>
+            Comme  vingt à trente ans séparent les deux hommes, cette rencontre chez les Jésuites est tout à fait improbable.<lb/>
+            <lb/>
+            • Baro est entré à l'Académie, probablement soutenu par Richelieu (<ref target="bibliographie.html#pellisson">Pellisson</ref>, I, p. 237, note 2) qui avait expulsé son  prédécesseur. <hi rend="italic">
+                  <lb/>
+              L'Histoire de l'Académie française</hi> nous apprend que Baro a travaillé avec trois autres académiciens pour présenter « les Observations sur le Cid » à l'assemblée (<ref target="bibliographie.html#pellisson">
+                  <hi rend="italic">Ibid.</hi>
+                </ref>, I, p. 89).
+            Ce pamphlet de 96 pages attribué au seul Scudéry a été publié en 1637 « Au [sic] despens de l'Auteur ». Écrit à la première personne du singulier, il n'est pas signé. Baro n'y est pas mentionné. <lb/>
+Baro a  composé un sonnet sur l'église de la Sorbonne (<ref target="bibliographie.html#pellisson">Pellisson</ref>, I, p. 131). Partisan des modernes, il a crié haro sur le mot « car » (<ref target="bibliographie.html#pellisson">
+                  <hi rend="italic">Ibid.</hi>
+                </ref>, I, p. 480) ... que l'on retrouve 538 fois dans sa <hi rend="italic">Conclusion</hi> de <hi rend="italic">L'Astrée</hi> (Éd. <ref target="bibliographie.html#vaganay">Vaganay</ref>, V). <lb/>
+            <lb/>
+            • D'après Daniel <ref target="bibliographie.html#huet">Huet</ref>, « suivant l'ordre que l'Auteur laissa en mourant et le commandement que Mme la Princesse de Piémont en fit à <ref target="#3_baro">Baro</ref> », Gabrielle d'Urfé<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#gabrielle_u">η</ref> aurait remis à ce <ref target="#3_baro">Baro</ref> une quatrième partie de <hi rend="italic">L'Astrée</hi> dont le manuscrit aurait appartenu au duc de Savoie<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#duc-urfe">η</ref> (p. 857). Voir <ref target="quatriemes.html#arguments">Les Quatrièmes parties</ref>. <lb/>
+            <lb/>
+            Les informations réunies par Huet ne sont pas  fiables<lb/>
+              parce qu'elles viennent de Charles-Emmanuel d'Urfé<hi rend="cache"> </hi>
+                  <ref target="note_analyses.html#charles_emmanuel_urfe">η</ref> <lb/>
+              et parce qu'elles reprennent, sans le dire, l'<hi rend="italic">Advertissement</hi> écrit par Baro en <ref target="bibliographie.html#1627">1627</ref>
+                  <lb/>
+              (Voir <ref target="biographes.html#huet">Biographes</ref>).<lb/>
+              <lb/>
+              <ref target="testament.html">Le Testament</ref> d'Honoré d'Urfé ne fait aucune référence à <hi rend="italic">L'Astrée</hi> ou à des manuscrits.<lb/>
+              <lb/>
+              <hi rend="bold">C'est après le décès du
+              romancier que Baro se présente comme « secrétaire ».</hi>
+                
+            <lb/>
+            • Le <hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi> siècle</hi> ajoute que Baro est devenu à Paris « gentilhomme de Mademoiselle de Montpensier ».<lb/>
+            Dans sa <hi rend="italic">Description</hi> du Dauphiné, <ref target="bibliographie.html#piganiol">Piganiol de La Force</ref> corrige la formule : il faut dire  « gentilhomme servant » de Mademoiselle. Il signale aussi que Baro a épousé une veuve qui lui a donné des enfants. Il précise que « la part que [Baro] avoit eue au Roman de <hi rend="italic">l'Astrée</hi> lui fut un titre pour obtenir une place dans l'Académie Françoise » (IV, pp. 380-381).<lb/>
+            <lb/>
+            • En 1856, A. <ref target="bibliographie.html#rochas">Rochas</ref>, dans le premier volume de sa <hi rend="italic">Biographie du Dauphiné</hi> (pp. 78-80), consacre à Balthasar [sic] Baro un article extrêmement élogieux suivi par une bibliographie commentée. Dans sa jeunesse, Baro aurait été secrétaire d'Honoré d'Urfé et il aurait composé la quatrième partie d'après les notes que la famille lui aurait confiées. <hi rend="italic">La conclusion et derniere partie d'Astrée</hi> aurait été « ensuite insérée dans les éd. complètes de l'Astrée ». « Sur la fin de sa vie », Baro a obtenu  le titre de « procureur du roi au présidial de Valence ».  « L'ancien Dict. de l'Académie [ayant] souvent invoqué son autorité »,  sa réhabilitation
+            serait « plus facile et aussi juste que celle de Ronsard<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#ronsard">η</ref> ». Ce souhait est évidemment tout à fait utopique. D'ailleurs, le nom de Baro ne figure  dans le <hi rend="italic">Dictionnaire de l'Académie</hi> ni en 1694 ni en 1762. Ronsard<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#ronsard">η</ref> lui-même survient deux fois seulement, Honoré d'Urfé n'est pas nommé, mais <hi rend="italic">L'Astrée</hi> apparaît deux fois (Articles <hi rend="italic">Roman</hi> et <hi rend="italic">Suite</hi>).<lb/>
+            <lb/>
+            • En 1620, douze poèmes de Baro sont publiés à côté de ceux de plusieurs poètes (dont Honoré d'Urfé)  dans le <ref target="bibliographie.html#second">
+                  <hi rend="italic">Second livre des Delices de la poesie françoise</hi>
+                </ref> (pp. 361-376). Les Stances dédiées au duc de Savoie<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#altesse">η</ref> et à sa « valeur invincible » (p. 375) sont banales. En revanche, trois sonnets se démarquent. L'un est un songe presque érotique (p. 372), l'autre  raconte le viol de Margoton (p. 373). Dans le troisième, le poète décrit une Dame qui lui permet tout « sinon que de monter dessus » (p. 374). Ces vers ont dû choquer bien des lecteurs.<lb/>
+            <lb/>
+            • En 1620 et en 1621, l'<hi rend="italic">
+                  <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_ode">Ode à la rivière de Lignon</ref>
+                </hi> qui figure  au début de la troisième partie de <hi rend="italic">L'Astrée</hi> est de Balthazar  Baro<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_ode">η</ref>.<lb/>
+            <lb/>
+            <p> Cette ode  ne figure pas dans tous les états de l'édition de 1619.</p>
+            <lb/>
+            • En 1624, Baro participe aux festivités du Carnaval à Toulouse et les met par écrit pour le duc d'Angoulême dans <hi rend="italic">
+                  <ref target="bibliographie.html#cleosandre">Le Cléosandre</ref>
+                </hi>. Ballets et cartels se succèdent sous le signe des <hi rend="italic">Amadis<hi rend="cache"> </hi>
+                  <ref target="note_analyses.html#amadis">η</ref>
+                </hi>. Baro reprend alors une description de la fête publiée dans le <hi rend="italic">Mercure françois</hi> en lui ajoutant quelques commentaires souvent fort gais (<hi rend="italic">
+                  <ref target="bibliographie.html#cleosandre_1875">Cléosandre</ref>
+                </hi>, éd. de 1875, p. 38). Parmi les nombreux danseurs nommés se trouve « Le François fol, Amoureux de soy-mesme, Monsieur Baro » (<hi rend="italic">
+                  <ref target="bibliographie.html#cleosandre">Ibid.</ref>
+                </hi>, p. 127). On note avec amusement la présence d'« un Anglois hypocondriaque  dont la folie consistoit en ce que pour avoir trop pensé à sa maistresse, il s'imaginoit d'estre devenu sa maistresse mesme » (<hi rend="italic">
+                  <ref target="bibliographie.html#cleosandre">Ibid.</ref>
+                </hi>, p. 13). L'une des dernières entrées introduit une loterie organisée par un Magicien qui présente des prix :  « le portrait de Medor et de Celadon » ou une statue de Don Quichotte (<hi rend="italic">
+                  <ref target="bibliographie.html#cleosandre">Ibid.</ref>
+                </hi>, p. 123).<lb/>
+            <lb/>
+            
+            • Après la mort d'Honoré d'Urfé en 1625, Baro s'affiche comme secrétaire du romancier. Il  modifie le destin de <hi rend="italic">L'Astrée</hi> en lui ajoutant une quatrième partie hétéroclite et une conclusion insolite avec un dénouement aberrant (Voir  <ref target="bibliographie.html#heneinv">Henein</ref>, <ref target="astrees_posthumes.html">
+                  <hi rend="italic">Astrées</hi> posthumes</ref> et <ref target="quatriemes.html">Les Quatrièmes parties</ref>).<lb/>
+            <lb/>
+            Cependant, dans <ref target="testament.html">le Testament</ref> d'Honoré d'Urfé, le secrétaire du romancier est La Rosière<hi rend="cache"> </hi>
+                  <ref target="note_analyses.html#la_rosiere">η</ref>, <lb/>
+              Abraham Roux, <lb/>
+              son serviteur Balthazar,<lb/>
+              Balthazar Dessay<hi rend="cache"> </hi>
+                  <ref target="note_analyses.html#balthazar">η</ref>,<lb/>
+              et son agent Lafont.<lb/>
+            
+            <lb/>
+            • Baro évoque sa ville natale dans la <hi rend="italic">Conclusion</hi> qu'il donne à <hi rend="italic">L'Astrée</hi> :  « Dans le pays des <ref target="repertoire_aa.html#allobroges">Allobroges</ref>, nous vismes <ref target="repertoire_uz.html#3_valence">Vallence</ref>, où la beauté du lieu  nous ayant conviez de sejourner un jour, outre  quantité de merveilles, nous fusmes curieux de voir le  tombeau de Tullia fille de Ciceron » (Éd. <ref target="bibliographie.html#vaganay">Vaganay</ref>, V, 10, p. 446).<lb/>
+            <lb/>
+            • Baro a l'audace d'ajouter son portrait au début de la <hi rend="italic">Conclusion</hi> (Voir <ref target="astrees_posthumes.html#portrait_baro">Astrées posthumes</ref>). Les  vers sont signés « L'Estoile » :<lb/>
+     « Cher Baro bien que ton visage<lb/>
+     Paroisse en ce fameux ouvrage<lb/>
+     Aussi bien peint que ton Esprit,<lb/>
+     Ton livre a des graces si belles<lb/>
+     Qu'il semble qu'amour l'ait escrit<lb/>
+     D'une des plumes de ses aisles ».<lb/>
+            Il ne s'agit pas du célèbre Pierre de L'Estoile, décédé en 1611, mais plutôt de son fils, Claude de L'Estoile, académicien (1602 - 1652). Voir <ref target="https://fr.wikipedia.org/wiki/Claude_de_L'Estoile">Wikipédia</ref>, 10 octobre 2015.<lb/>
+            <lb/>
+            •          Edmond Rostand se moque de <hi rend="italic">La Clorise</hi> de Baro dans son <hi rend="italic">Cyrano de Bergerac</hi> : <lb/>
+     « Les vers du vieux Baro valant moins que zéro » <lb/>
+            (Voir ce <ref target="http://www.cyranodebergerac.fr/siecle_cyrano_contenu.php?contenu_id=11">site</ref>, 22 juillet 2012).<lb/>
+            <lb/>
+            •  Valence a une rue Balthazar Baro, mais aussi une « <hi rend="italic">Impasse</hi> Balthazar Baro ».  <lb/>
+            Est-ce que Baro vient de <hi rend="italic">baron</hi> ? « Ce mot a même servi pour signifier un voleur, en italien <hi rend="italic">barone</hi> (Dict. d'Oudin) » (<ref target="bibliographie.html#la_curne">La Curne</ref>, Article <hi rend="italic">Baron</hi>).<lb/>
+            <lb/>
+            •            En 2002, un colloque a été consacré à Baro à l'Université de Montpellier III. Les actes n'ont malheureusement pas encore paru.<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Basileens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_basileens">III</ref>
+            
+            Les habitants de Bâle, en Suisse, se nomment aujourd'hui les <hi rend="italic">Bâlois</hi>. <ref target="http://www.hls-dhs-dss.ch/index.php">
+                  <hi rend="italic">Le Dictionnaire historique de la Suisse</hi>
+                </ref> en ligne indique que la région est gallo-romaine avant la guerre des Gaules et qu'elle subit des invasions au IV<hi rend="supn">e</hi> siècle.<lb/>
+            <lb/>
+            • Les Basiléens font partie des peuples gouvernés par <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Beauvais</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_beauvais">III</ref>
+            
+            Commune dans l'Oise, à 78 km de <ref target="repertoire_pp.html#3_paris_ville">Paris</ref>, et à 168 km de <ref target="repertoire_pp.html#3_provins">Provins</ref>.
+            La ville de
+            Beauvais fait partie de la Gaule Belgique qui appartient aux <ref target="repertoire_ff.html#3_francs">Francs</ref> depuis <ref target="personnage_cc.html#3_clodion">Clodion</ref> (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p. 92). Ni <ref target="bibliographie.html#fauchet">Fauchet</ref> (p. 102) ni <ref target="bibliographie.html#du_haillan">Du Haillan</ref> (I, p. 23) ne nomment Beauvais (ou <ref target="repertoire_pp.html#3_provins">Provins</ref> et <ref target="repertoire_ss.html#3_soissons">Soissons</ref>) en racontant l'exil forcé de <ref target="personnage_cc.html#3_childeric">Childéric</ref>. <lb/>
+            Pendant les guerres de religion,
+            Beauvais, ville ligueuse, fait sa reddition en 1594.<lb/>
+            <lb/>
+            •           Les <ref target="repertoire_ff.html#3_francs">Francs</ref> se réunissent dans cette ville et à <ref target="repertoire_pp.html#3_provins">Provins</ref> quand ils décident de renvoyer <ref target="personnage_cc.html#3_childeric">Childéric</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#535_verso">III, 12, 535 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#546_verso">III, 12, 546 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Belenus</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref>
+            
+            Mythologie.<lb/>
+            <lb/>
+            <p>L'une des divinités gauloises qui n'apparaissent pas dans l'édition anonyme de 1607.</p>
+            <lb/>
+            • Dans les éditions ultérieures, Bélénus figure, associé à <ref target="repertoire_tt.html#tautates">Tautatès</ref>, dans l'<ref target="../_roman/reference/21_1/21_1_livre_6.html#histoire_de_diane">Histoire de Diane</ref>, où il prend la place du dieu <ref target="repertoire_hh.html#hymen">Hymen</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#158_verso">I, 6, 158 verso</ref>). <lb/>
+            <lb/>
+            C'est dans la deuxième partie de <hi rend="italics">L'Astrée </hi>(livre 8), en 1610 donc, que d'Urfé fait expliquer par le druide <ref target="personnage_aa.html#adamas">Adamas</ref> le système d'équivalences sur lequel repose la théologie astréenne. <lb/>
+            <lb/>
+            « <ref target="repertoire_aa.html#apollon">Apollon</ref> est le Bélénus gaulois, le Dieu homme, le Fils. <ref target="repertoire_mm.html#2_mars">Mars</ref> est le <ref target="repertoire_hh.html#hesus">Hésus</ref> gaulois, le Dieu fort, le Père. <ref target="repertoire_ik.html#jupiter">Jupiter</ref> est le <ref target="repertoire_tt.html#taramis">Taramis</ref> gaulois, le Dieu 'répurgeant' (de <hi rend="italics">repurger, nettoyer</hi>), le Saint-Esprit. <ref target="repertoire_tt.html#tautates">Tautatès</ref>, le Dieu unique, porte donc trois surnoms » (<ref target="bibliographie.html#heneinp">Henein</ref>, p. 54). <lb/>
+              Au nom du Père, du Fils et du Saint-Esprit ...
+            <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Belenus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref>
+            
+            Écrit aussi <hi rend="italics">Belenos</hi> et <hi rend="italics">Beelenos</hi>. <lb/>
+            <lb/>
+            • Nommé seize fois dans la deuxième partie, ce dieu gaulois est le plus souvent
+            enfermé dans le quatuor divin : « <ref target="repertoire_tt.html#2_tautates">Tautates</ref>, <ref target="repertoire_hh.html#2_hesus">Hesus</ref>, <ref target="repertoire_tt.html#2_taramis">Taramis</ref>, Belenus » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>). Dans le chêne qui symbolise <ref target="repertoire_tt.html#2_tautates">Tautatès</ref>,  la branche de  gauche représente Bélénus (<ref target="../_roman/reference/21_2/21_2_livre_5.html#290">II, 5, 290</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#517">II, 8, 517</ref>).<lb/>
+            <lb/>
+            • Dans le temple de <ref target="repertoire_mm.html#2_montverdun">Montverdun</ref>, ceux qui aiment lui adressent « sacrifices et supplications » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#494">II, 8, 494</ref>).<lb/>
+            <lb/>
+            •            Le nom de Bélénus signifie Dieu homme, explique <ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#510">II, 8, 510</ref>). <lb/>
+            <lb/>
+            • Parce que les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> interrogent ce dieu au sujet de la santé ou pour avoir des enfants, l'homologue de Bélénus est <ref target="repertoire_aa.html#2_apollon">Apollon</ref> ou même le Soleil (<ref target="../_roman/reference/21_2/21_2_livre_8.html#512">II, 8, 512</ref>). <lb/>
+            <lb/>
+            • Les usurpateurs ont voulu forcer les druides à représenter leurs divinités avec les figures et les noms des dieux païens  (<ref target="../_roman/reference/21_2/21_2_livre_8.html#514">II, 8, 514</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Belenus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref>
+            
+            Écrit aussi <hi rend="italic">Bellenus</hi>. Ce dieu peut avoir donné son nom à Saint-Bonnet-près-Riom (Puy-de-Dôme) (<ref target="bibliographie.html#longnon">Longnon</ref>, p. 113). <lb/>
+            <lb/>
+            Nommé quinze fois dans la troisième partie, Bélénus est d'abord un élément du groupe divin gaulois : un quatuor,  « <ref target="repertoire_tt.html#3_tautates">Thautates</ref>, <ref target="repertoire_hh.html#3_hesus">Hesus</ref>, <ref target="repertoire_tt.html#3_taramis">Tharamis</ref>, et Bellenus » (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_verso">III, 2, 27 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_6.html#239_recto">III, 6, 239 recto</ref>), ou un trio (<ref target="../_roman/reference/21_3/21_3_livre_5.html#174_recto">III, 5, 174 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_9.html#372_recto">III, 9, 372 recto</ref>).
+            Ses caractéristiques ne changent pas : Bélénus  se soucie en particulier des problèmes amoureux.<lb/>
+            <lb/>
+            • Bélénus est le Dieu des hommes ; il  s'assure de leur conservation (<ref target="../_roman/reference/21_3/21_3_livre_9.html#372_recto">III, 9, 372 recto</ref>). <lb/>
+            <lb/>
+            Bélénus est appelé le « dieu-homme » après l'édition de 1619<lb/>
+              (<ref target="../_roman/reference/21_3/21_3_livre_9.html#373_verso">III, 9, 373 verso</ref>).
+            <lb/>
+            • Bélénus est un « dieu debonnaire » (<ref target="../_roman/reference/21_3/21_3_livre_11.html#459_verso">III, 11, 459 verso</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#3_astree">Astrée</ref> se demande si Bélénus lui accorderait la faveur de changer de place avec la jeune druide qu'<ref target="personnage_aa.html#3_alexis">Alexis</ref> prétend avoir aimée (<ref target="../_roman/reference/21_3/21_3_livre_5.html#212_recto">III, 5, 212 recto</ref>).<lb/>
+            <lb/>
+            • À <ref target="repertoire_mm.html#3_montverdun">Montverdun</ref>, Bélénus rend un oracle que transmet <ref target="personnage_cc.html#3_cleontine">Cléontine</ref> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#457_verso">III, 11, 457 verso</ref>), et qu'un vacie explique (<ref target="../_roman/reference/21_3/21_3_livre_11.html#458_verso">III, 11, 458 verso</ref>).<lb/>
+            <lb/>
+            • Cet oracle   annonce le futur à <ref target="personnage_gg.html#3_galathee">Galathée</ref> sous forme de mise en garde, alors que le futur de <ref target="personnage_dd.html#3_damon_a">Damon</ref> s'annonce comme une  résurrection (<ref target="../_roman/reference/21_3/21_3_livre_11.html#458_recto">III, 11, 458 recto</ref>). <lb/>
+            <lb/>
+            • <ref target="personnage_pp.html#3_paris">Paris</ref> s'adresse à Bélénus avant de demander à <ref target="personnage_dd.html#3_diane">Diane</ref> la permission de parler à sa mère (<ref target="../_roman/reference/21_3/21_3_livre_11.html#487_recto">III, 11, 487 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_mythe">
+                Belenus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref>
+            
+            Écrit <hi rend="italic">Bellenus</hi>.<lb/>
+            <lb/>
+            • <ref target="personnage_mm.html#4_merindor">Mérindor</ref>, après avoir juré par <ref target="repertoire_hh.html#4_hesus">Hésus</ref>, jure que Bélénus le châtiera s'il abandonne <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#354">IV, 2, 354</ref>).<lb/>
+            <lb/>
+             Il l'abandonnera puis lui reviendra sans qu'il soit question de châtiment.<lb/>
+            
+            <lb/>
+            • <ref target="personnage_aa.html#4_alexis">Alexis</ref> prête serment en énumérant  les quatre noms du dieu unique ; ils sont sujets d'un verbe au singulier (<ref target="../_roman/reference/24_4/24_4_livre_3.html#574">IV, 3, 574</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Belgique</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#3_belgique">III</ref>
+            
+            Tout au début de sa description des Gaules, <ref target="bibliographie.html#cesar">César</ref> affirme (et Astérix nous le rappelle) que « les Belges sont les plus braves de tous ces peuples » (I, 3). Leur territoire est au Nord de la Gaule. Après la conquête, <ref target="personnage_aa.html#2_auguste">Auguste</ref> divise l'ancienne Belgique et lui ajoute des régions qui faisaient partie de la Germanie. La <hi rend="italic">Belgica prima</hi> (Trèves) correspond en gros au Luxembourg d'aujourd'hui. La <hi rend="italic">Belgica secunda</hi>, bien plus étendue, avait Reims pour capitale.<lb/>
+            <ref target="bibliographie.html#du_haillan">Du Haillan</ref> signale la présence de rois <ref target="repertoire_ff.html#3_francs">Francs</ref> dans la Gaule Belgique lorsqu'<ref target="personnage_aa.html#3_attila">Attila</ref> saccage les <ref target="repertoire_gg.html#3_gaule">Gaules</ref> (I, p. XX). Mais c'est <ref target="bibliographie.html#fauchet">Fauchet</ref> qui précise qu'ils s'agit alors de la seconde Belgique (p. 100).<lb/>
+            <lb/>
+            • Dans la demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref> se trouve une carte de la seconde Belgique, lieu de séjour des premiers rois <ref target="repertoire_ff.html#3_francs">Francs</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#59_recto">III, 3, 59 recto</ref>).<lb/>
+            <lb/>
+            <p>Renseignement ajouté après l'édition de 1619</p>
+            <lb/>
+            • <ref target="personnage_mm.html#3_merovee">Mérovée</ref> conquiert la seconde Belgique (<ref target="../_roman/reference/21_3/21_3_livre_12.html#523_verso">III, 12, 523 verso</ref>) grâce à la valeur d'<ref target="personnage_aa.html#3_andrimarte">Andrimarte</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#532_verso">III, 12, 532 verso</ref>).<lb/>
+            <lb/>
+            • Voir la carte des peuples dans ce <ref target="http://www.deomercurio.be/BelgicaII.png">site</ref> (20 février 2014).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Bellonne</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#bellone">I</ref>
+            
+            Mythologie. <hi rend="italics">Bellum</hi> signifie <hi rend="italic">guerre</hi> en latin, d'où l'adjectif « belliqueux » et le nom de <hi rend="italic">Bellone</hi>. Cette divinité romaine de la guerre est l'épouse ou la sœur du dieu <ref target="repertoire_mm.html#2_mars">Mars</ref>. <lb/>
+            <lb/>
+            • D'Urfé associe Bellone avec la <ref target="repertoire_gg.html#gorgonne">Gorgone</ref> aux traits effrayants.<lb/>
+            <lb/>
+            Dans l'édition de 1607 seulement, « les horreurs de la guerre » sont dites « les horreurs de Bellonne »<lb/>
+              (<ref target="../_roman/reference/21_1/21_1_livre_11.html#352_verso">I, 11, 352 verso</ref>).<lb/>
+            
+            <lb/>
+            Bellone reste « l'effroyable » dans les  éditions suivantes (<ref target="../_roman/reference/21_1/21_1_livre_11.html#356_recto">I, 11, 356 recto</ref>). <lb/>
+            <lb/>
+            • Voir la Bellone de Rembrandt dans ce <ref target="http://upload.wikimedia.org/wikipedia/commons/5/5e/Bellona,_by_Rembrandt_van_Rijn.jpg">site</ref> (5 janvier 2011).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bergame</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_bergame">II</ref>
+            
+            Ville du Nord de l'<ref target="repertoire_ik.html#2_italie">Italie</ref>. C'est au XV<hi rend="supn">e</hi> siècle seulement qu'elle rejoint la république de <ref target="repertoire_uz.html#2_venise">Venise</ref> (voir ce <ref target="http://www.bellitalie.org/bergame-histoire.php">site</ref>, 5 mai 2015).<lb/>
+            <lb/>
+            • Les habitants s'enfuient à l'arrivée d'<ref target="personnage_aa.html#2_attila">Attila</ref> et, en se réunissant avec d'autres réfugiés, forment la république de <ref target="repertoire_uz.html#2_venise">Venise</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#841">II, 12, 841</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:103px;">
+                Bétique</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_betique">II</ref>
+            
+            Province romaine au Sud de l'<ref target="repertoire_ee.html#espagne">Espagne</ref>.<lb/>
+            <lb/>
+            • Au V<hi rend="supn">e</hi> siècle, les <ref target="repertoire_uz.html#vandales">Vandales</ref> s'emparent de la <ref target="#2_betique">Bétique</ref> et l'appellent <ref target="repertoire_uz.html#2_vandalousie">Vandalousie</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#747">II, 11, 747</ref>). Ils deviennent puissants sous la conduite de <ref target="personnage_gg.html#2_genseric">Genséric</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#750">II, 11, 750</ref>). Quand les <ref target="repertoire_gg.html#2_goths">Goths</ref> attaquent la <ref target="#2_betique">Bétique</ref>, <ref target="personnage_gg.html#2_genseric">Genséric</ref> se rend en <ref target="repertoire_aa.html#2_afrique">Afrique</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#760">II, 11, 760</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bizance</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#bisance">I</ref>
+            
+            Écrit <hi rend="italics">Bisance</hi>. On écrit aujourd'hui <hi rend="italics">Byzance</hi>. La capitale de l'Empire d'<ref target="repertoire_no.html#2_orient">Orient</ref> après le partage de l'<ref target="repertoire_ee.html#2_empire_romain">Empire romain</ref> porte le nom de <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref> au IV<hi rend="supn">e</hi> siècle et d'Istanboul au XV<hi rend="supn">e</hi> siècle. D'Urfé choisit le nom antique.<lb/>
+            <lb/>
+            • C'est à « Bizance » qu'<ref target="personnage_aa.html#alcippe">Alcippe</ref> entre au service de l'Empereur (<ref target="../_roman/reference/21_1/21_1_livre_2.html#43_recto">I, 2, 43 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFCCFF;">
+                Bobrun, L.</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#bobrun">I</ref>
+            
+            Ludovic[us] Bobrun (Louis Beaubrun), mort en 1627, appartient à une famille  de peintres valets de chambre du Roi. Son père et ses deux frères ont servi <ref target="repertoire_hh.html#henri">Henri IV</ref>. Lui-même a peint Anne d'Autriche et <ref target="repertoire_ll.html#3_louis">Louis XIII</ref>. Il a formé ses deux  neveux, peintres de Louis XIV enfant. (D. <ref target="bibliographie.html#breme">Brême</ref>, « Les Beaubrun », avril 2006). <ref target="bibliographie.html#tallemant">Tallemant</ref> mentionne « les Beaubruns, peintres » (I, p. 564).<lb/>
+            Je remercie Jean-Marc Chatelain   qui m'a appris que Beaubrun était Forézien : « D'après la  notice de l'<hi rend="italic">Allgemeine Künstler-Lexikon</hi>, t. 8 (Munich et Leipzig,  1994), p. 57, d'où je tire les renseignements que je vous communique ici,  la famille de Beaubrun était liée à celle d'Urfé ». <lb/>
+            <lb/>
+            Henri Beaubrun apprend à <ref target="repertoire_ll.html#3_louis">Louis XIII</ref> à dessiner au pastel (<ref target="bibliographie.html#batiffol_louis">Batiffol</ref>, p. 117, note 5).<lb/>
+            <lb/>
+            •          Le <ref target="../_roman/reference/21_1/21_1_liminaires.html#portraithonore_1">portrait</ref> d'Honoré d'Urfé dessiné par Louis Beaubrun, d'une grande originalité,  figure dans <hi rend="italic">L'Astrée</hi> à partir de 1619 en même temps que le <ref target="../_roman/reference/21_1/21_1_liminaires.html#portrait_dame">portrait</ref> d'une dame qui pourrait être  Diane de Châteaumorand<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#diane">η</ref>. Les gravures sont encore reproduites, après la mort du couple, dans <hi rend="italics">La Sylvanire </hi>(1627). Les deux portraits ne sont pas toujours face à face (Voir <ref target="illustrations.html#couple">Illustrations</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:183px;">
+                Boën</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#boing">I</ref>, <ref target="#2_boen">II</ref>, <ref target="#3_boen">III</ref>
+            
+            Écrit <hi rend="italics">
+                  <ref target="#boing">Boing</ref>
+                </hi> dans la première partie et <ref target="#2_boen">
+                  <hi rend="italic">Boën</hi>
+                </ref> dans la suite.       « De là, comme nous aujourd'hui, <ref target="personnage_ll.html#2_leonide">Léonide</ref> et <ref target="personnage_aa.html#2_alexis">Alexis</ref> ont une magnifique vue sur la plaine », écrit Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> (p. 211)<lb/>
+            <lb/>
+            • De la résidence d'<ref target="personnage_aa.html#2_adamas">Adamas</ref>, la vue s'étend de Boën à <ref target="repertoire_ff.html#2_feurs">Feurs</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#628">II, 10, 628</ref>). <ref target="personnage_ll.html#2_leonide">Léonide</ref> et <ref target="personnage_aa.html#2_alexis">Alexis</ref> contemplent le <ref target="repertoire_ll.html#2_lignon">Lignon</ref> qu'elles aperçoivent entre ces deux petites villes (<ref target="../_roman/reference/21_2/21_2_livre_10.html#629">II, 10, 629</ref>). <lb/>
+            <lb/>
+            •  On trouve des photos anciennes de Boën dans ce <ref target="http://forezhistoire.free.fr/images/img_0492-boen.jpg">site</ref> (30 septembre 2010).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Boën</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#boing">I</ref>, <ref target="#2_boen">II</ref>, <ref target="#3_boen">III</ref>
+            
+            Écrit <hi rend="italics">
+                  <ref target="#boing">Boing</ref>
+                </hi> dans la première partie  et <ref target="#2_boen">
+                  <hi rend="italic">Boën</hi>
+                </ref> dans la suite. <lb/>
+            • De la demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref>, <ref target="personnage_aa.html#3_astree">Astrée</ref> et <ref target="personnage_aa.html#3_alexis">Alexis</ref> voient le <ref target="repertoire_ll.html#3_lignon">Lignon</ref> passer au milieu des murs de la ville de Boën (<ref target="../_roman/reference/21_3/21_3_livre_5.html#172_recto">III, 5, 172 recto</ref>).<lb/>
+            <lb/>
+            • Les chevaux effrayés par le lion de la fontaine s'enfuient, et courent de <ref target="#3_bonlieu">Bonlieu</ref> jusqu'à Boën (<ref target="../_roman/reference/21_3/21_3_livre_6.html#225_recto">III, 6, 225 recto</ref>), 3 km environ (<ref target="bibliographie.html#gaumei">Gaume</ref>, p. 195).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Boën</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#4_boen">IV</ref>
+                <lb/>
+            
+            •
+            Avec son bâton, le <ref target="personnage_uz.html#4_vieux_homme">Vieil homme</ref> montre à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> que Boën se trouve entre deux collines, et que le <ref target="repertoire_ll.html#4_lignon">Lignon</ref> longe ses murs (<ref target="../_roman/reference/24_4/24_4_livre_4.html#912">IV, 4, 912</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Boing</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#boing">I</ref>, <ref target="#2_boen">II</ref>, <ref target="#3_boen">III</ref>
+            
+            Écrit <ref target="#2_boen">
+                  <hi rend="italics">Boën</hi>
+                </ref> dans les autres parties. Boën-sur-Lignon, ville où se rejoignent les deux rivières qui forment le <ref target="repertoire_ll.html#lignon">Lignon</ref>. Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> a dessiné une excellente carte de la région (p. 191). Voir aussi la carte de Christophe Mathevot de « la Diana » (<hi rend="italics">Les Gravures de L'Astrée</hi>, publiées par la <ref target="bibliographie.html#communaute">Communauté</ref> de Communes du Pays d'Astrée, p. 131) reproduite dans ce <ref target="cartotheque.html#carte_forez">site</ref>.<lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#adamas">Adamas</ref> nomme cette ville en décrivant les tableaux qui constituent l'<ref target="../_roman/reference/21_1/21_1_livre_11.html#histoire_de_damon_et_de_fortune">Histoire de Damon et de Fortune</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#372_recto">I, 11, 372 recto</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bois noir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_bois_noir">III</ref>
+            
+            Forêt des monts <ref target="repertoire_cc.html#3_cemene">Cemènes</ref>.<lb/>
+            Cet « itinéraire demeure pour le moins surprenant. La descente des Bois Noirs à <ref target="repertoire_uz.html#3_viveros">Viverols</ref> ne peut s'expliquer que par une recherche de la vallée, afin de gagner plus facilement <ref target="repertoire_mm.html#3_montbrison">Montbrison</ref> » (<ref target="bibliographie.html#gaumei">Gaume</ref>, p. 189). <lb/>
+            <lb/>
+            • <ref target="personnage_cc.html#3_criseide">Criséide</ref>, <ref target="personnage_aa.html#3_arimant">Arimant</ref> et leurs compagnons traversent le Bois noir avant de parvenir à <ref target="repertoire_uz.html#3_viveros">Viveros</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#350_verso">III, 8, 350 verso</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bonlieu</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#bonlieu">I</ref>, <ref target="#2_bonlieu">II</ref>, <ref target="#3_bonlieu">III</ref>
+            
+            Écrit aussi <hi rend="italics">Bon-lieu</hi>. Auguste <ref target="bibliographie.html#bernard_h">Bernard</ref> rapporte que Guy II, comte de Forez, fonda le monastère de Bonlieu au XII<hi rend="supn">e</hi> siècle (p. 188). Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> explique les liens de la famille d'Urfé avec les deux abbayes (ordre de Cîiteaux) qui se trouvaient dans cette localité au XVI<hi rend="supn">e</hi> siècle (p. 195 et p. 197).
+            Frank <ref target="bibliographie.html#greiner_religion">Greiner</ref> voit dans le temple de Bonlieu « l'un des centres axiologiques du roman » (p. 182).<lb/>
+            <lb/>
+            Au XVII<hi rend="supn">e</hi> siècle, un traducteur allemand est tellement sensible à l'heureuse signification de ce nom qu'il le traduit par « <hi rend="italics">Gutsort</hi> » (<ref target="bibliographie.html#jurgensen">Jürgensen</ref>, p. 318). <ref target="repertoire_mm.html#mont_d_or">Mont-d'or</ref> subit le même sort, alors que les autres noms de lieu gardent la graphie française. <lb/>
+            <lb/>
+            Une variante installe des druides près des vestales à Bonlieu<lb/>
+              (<ref target="../_roman/reference/21_1/21_1_livre_4.html#84_verso">I, 4, 84 verso</ref>). 
+            <lb/>
+            • Le « séjour de druides et de vestales » (<ref target="../_roman/reference/21_1/21_1_livre_4.html#84_verso">I, 4, 84 verso</ref>) est aussi l'endroit où se croisent des Nymphes et des Bergères (<ref target="../_roman/reference/21_1/21_1_livre_4.html#84_recto">I, 4, 84 recto</ref>), l'endroit où <ref target="personnage_no.html#olimpe">Olimpe</ref> déclare ses sentiments à <ref target="personnage_ll.html#lycidas">Lycidas</ref> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#106_verso">I, 4, 106 verso</ref>), et l'endroit où <ref target="personnage_cc.html#celadon">Céladon</ref> note qu'il se rapproche trop du hameau et d'<ref target="personnage_aa.html#astree">Astrée</ref> (<ref target="../_roman/reference/21_1/21_1_livre_12.html#403_recto">I, 12, 403 recto</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:215px;">
+                Bonlieu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#bonlieu">I</ref>, <ref target="#2_bonlieu">II</ref>, <ref target="#3_bonlieu">III</ref>
+            
+            • Dans la deuxième partie de <hi rend="italics">L'Astrée</hi>, il faut traverser le bois de Bonlieu pour se rendre des hameaux à la résidence d'<ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#110">II, 2, 110</ref>). <lb/>
+            <lb/>
+            •            Le temple qui se trouve dans ce bois, « dedié à la <ref target="#2_bonne_deesse">bonne Deesse</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_2.html#111">II, 2, 111</ref>), abrite Vestales et druides. <lb/>
+            <lb/>
+            • Grâce à Marc Delacroix que je remercie de nouveau ici, des photos de ce qui reste de <ref target="#2_bonlieu">Bonlieu</ref> sont dans ce site (<ref target="photos_forez.html">Photos du Forez</ref>). On trouvera dans ce <ref target="http://www.asep33.fr/Documentsphotos/AbbayedeBonlieu.jpg">site-là</ref> une photo de l'ancienne abbaye de <ref target="#2_bonlieu">Bonlieu</ref> ainsi que son histoire. L'abbaye se trouve  aujourd'hui dans la paroisse de Sainte-Eulalie (30 septembre 2010). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:27px;">
+                Bonlieu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#bonlieu">I</ref>, <ref target="#2_bonlieu">II</ref>, <ref target="#3_bonlieu">III</ref>
+            
+            Savoir bien son <hi rend="italic">Astrée</hi>, selon <ref target="bibliographie.html#tallemant">Tallemant des Réaux</ref>, c'est être capable de dire « à quelle main estoit Bonlieu, au sortir du pont de la <ref target="#3_bouteresse">Bouteresse</ref> » (II, p. 305). « À un kilomètre au Sud-est de la Bouteresse », répond l'éditeur, Antoine Adam (II, p. 1163, note 5). Voir aussi <ref target="bibliographie.html#gaumei">Gaume</ref>, p. 195. <lb/>
+            <lb/>
+             « Il n'y avoit qu'un demy jour de plus » (<ref target="../_roman/reference/21_3/21_3_livre_11.html#461_recto">III, 11, 461 recto</ref>). <lb/>
+              Passer par Bonlieu est  un détour pour qui va de <ref target="repertoire_mm.html#3_montverdun">Montverdun</ref> à <ref target="repertoire_mm.html#3_marcilly">Marcilly</ref>. 
+            <lb/>
+            Bonlieu, dans la troisième partie du roman, est un point de rencontre et sur le plan dramatique et sur le plan théologique <lb/>
+              D'une part, les gens du château projettent d'y retrouver les gens du hameau sous l'égide du clergé.  D'autre part, la religion païenne et la religion chrétienne y cohabitent.<lb/>
+              Cette tolérance extraordinaire rend impossibles conversion et prosélytisme.
+            <lb/>
+            • Les <ref target="repertoire_qr.html#3_romains">Romains</ref> soumettent les <ref target="repertoire_gg.html#3_gaule">Gaules</ref> mais respectent leur religion. Ils le prouvent en donnant le nom de <hi rend="italic">Bonlieu</hi> au lieu qui abrite le temple dédié également à la <ref target="#3_bonne_deesse">Bonne Déesse</ref> des Gaulois et à la <ref target="repertoire_uz.html#3_vesta">Vesta</ref> des <ref target="repertoire_qr.html#3_romains">Romains</ref>. Druides et Vestales y logent sous l'autorité de <ref target="personnage_cc.html#3_chrisante">Chrisante</ref>, une druide (<ref target="../_roman/reference/21_3/21_3_livre_2.html#28_recto">III, 2, 28 recto</ref>).  Voir <ref target="note_images.html#temple">Temple</ref>.<lb/>
+            <lb/>
+            • <ref target="personnage_cc.html#3_chrisante">Chrisante</ref> attend à Bonlieu les bergers qui vont chez <ref target="personnage_aa.html#3_adamas">Adamas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#11_recto">III, 1, 11 recto</ref>). Dans les bois de Bonlieu, les bergers rencontrent le malheureux <ref target="personnage_aa.html#3_adraste">Adraste</ref> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#24_verso">III, 1, 24 verso</ref>).<lb/>
+            <lb/>
+            • À <ref target="repertoire_mm.html#3_montverdun">Montverdun</ref>, <ref target="personnage_cc.html#3_cleontine">Cléontine</ref> apprend à <ref target="personnage_gg.html#3_galathee">Galathée</ref> que les bergers se sont arrêtés à Bonlieu (<ref target="../_roman/reference/21_3/21_3_livre_6.html#230_recto">III, 6, 230 recto</ref>). <ref target="personnage_gg.html#3_galathee">Galathée</ref> lui dit qu'elle pensait elle-même s'y  rendre pour faire des sacrifices (<ref target="../_roman/reference/21_3/21_3_livre_6.html#230_verso">III, 6, 230 verso</ref>). Elle envoie demander à <ref target="personnage_cc.html#3_chrisante">Chrisante</ref> de l'attendre avant d'aller chez <ref target="personnage_aa.html#3_adamas">Adamas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#259_recto">III, 6, 259 recto</ref>). La nymphe retarde son voyage pour donner à <ref target="personnage_dd.html#3_damon_a">Damon</ref> le temps de se remettre de ses blessures (<ref target="../_roman/reference/21_3/21_3_livre_6.html#260_recto">III, 6, 260 recto</ref>). <lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#3_adamas">Adamas</ref>, craignant la confrontation de <ref target="personnage_gg.html#3_galathee">Galathée</ref> et d'<ref target="personnage_aa.html#3_alexis">Alexis</ref>, prie <ref target="personnage_cc.html#3_chrisante">Chrisante</ref> de rester à Bonlieu avec la nymphe (<ref target="../_roman/reference/21_3/21_3_livre_9.html#370_verso">III, 9, 370 verso</ref>).<lb/>
+            <lb/>
+            • Mais l'oracle interprété par un vacie a recommandé à <ref target="personnage_gg.html#3_galathee">Galathée</ref> d'aller à Bonlieu (<ref target="../_roman/reference/21_3/21_3_livre_11.html#460_verso">III, 11, 460 verso</ref>). Elle s'y rend donc et convoque <ref target="personnage_aa.html#3_adamas">Adamas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#462_recto">III, 11, 462 recto</ref>). Le druide obtempère (<ref target="../_roman/reference/21_3/21_3_livre_11.html#490_recto">III, 11, 490 recto</ref>). <lb/>
+            <lb/>
+            • Entre temps, à la demande d'<ref target="personnage_aa.html#3_amasis">Amasis</ref>, <ref target="personnage_gg.html#3_galathee">Galathée</ref> et <ref target="personnage_dd.html#3_damon_a">Damon</ref> quittent Bonlieu et se rendent à <ref target="repertoire_mm.html#3_marcilly">Marcilly</ref> sans attendre le druide (<ref target="../_roman/reference/21_3/21_3_livre_12.html#490_verso">III, 12, 490 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#93E8E3; background-image:url('../images/bluehashed.jpg')">
+                Bonne Deesse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_bonne_deesse">II</ref>, <ref target="#3_bonne_deesse">III</ref>
+            
+            Mythologie. « Les  Romains ont une divinité qu'ils nomment la Bonne-Déesse, comme les Grecs ont  leur Gynécéa […] Tant que durent les mystères, il n'est permis à aucun homme  d'entrer dans la maison où on les célèbre » (<ref target="bibliographie.html#plutarque_vies">Plutarque</ref>, <ref target="http://remacle.org/bloodwolf/historiens/Plutarque/cesarpierron.htm">
+                  <hi rend="italic">Vie de César</hi>
+                </ref>). « Il ne [faut]  jamais parler des sacrifices de la bonne Deesse », est une expression qui recommande le secret (<ref target="bibliographie.html#alexis">Camus</ref>, <hi rend="italic">L'Alexis</hi>, VI, p. 51).<lb/>
+            <lb/>
+            • Nommée treize fois dans la deuxième partie, cette déesse n'est pas encore « la Vierge qui enfantera ».<lb/>
+            <lb/>
+            • L'autel de cette Bonne déesse que chrétiens et <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> vénèrent (<ref target="../_roman/reference/21_2/21_2_livre_11.html#761">II, 11, 761</ref>) se trouve dans les antres des <ref target="repertoire_cc.html#2_carnutes">Carnutes</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#517">II, 8, 517</ref>), affirme <ref target="personnage_aa.html#2_adamas">Adamas</ref>. Le druide  cependant choisit,  dans sa leçon de théologie, de ne pas assimiler la <ref target="#2_bonne_deesse">Bonne Déesse</ref> à la Vierge des <ref target="repertoire_cc.html#2_carnutes">Carnutes</ref>. <lb/>
+            C'est dans la troisième partie de <hi rend="italics">L'Astrée</hi> que le romancier, en veine de syncrétisme religieux, décrira le  <ref target="note_images.html#temple">temple</ref> de <ref target="#2_bonlieu">Bonlieu</ref> et superposera  Bonne Déesse,    Vierge qui enfantera, <ref target="repertoire_uz.html#3_vesta">Vesta</ref> et déesse <ref target="repertoire_dd.html#3_diane_m">Diane</ref> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#28_recto">III, 2, 28 recto</ref>). <lb/>
+            <lb/>
+            • Dans la deuxième partie, le temple de la Bonne Déesse est essentiellement un point de repère non loin du pont de la <ref target="#2_bouteresse">Bouteresse</ref> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#110">II, 2, 110</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_5.html#318">II, 5, 318</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#471">II, 7, 471</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#490">II, 8, 490</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#537">II, 8, 537</ref>). Y demeurent <ref target="personnage_cc.html#2_chrisante">Chrisante</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#211">II, 4, 211</ref>),  et ses Druides et Vestales (<ref target="../_roman/reference/21_2/21_2_livre_8.html#537">II, 8, 537</ref>). <lb/>
+            Le temple est plein de ressources : les Bergers y trouvent les objets nécessaires pour la cérémonie du vain tombeau (<ref target="../_roman/reference/21_2/21_2_livre_8.html#537">II, 8, 537</ref> sq.). <lb/>
+            <lb/>
+            • Un seul Berger prie explicitement la Bonne Déesse dans son temple : <ref target="personnage_ll.html#2_lycidas">Lycidas</ref> va y « rendre  quelque vœu que sa jalousie peut estre luy avoit faict faire » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#549">II, 8, 549</ref>). Voir Truye<hi rend="cache"> </hi>
+                <ref target="note_2.html#2_truye">η</ref>. <lb/>
+            <lb/>
+            Dans la première partie, les deux temples interdits aux hommes pendant les cérémonies religieuses étaient dédiés à <ref target="repertoire_uz.html#venus">Vénus</ref>.<lb/>
+              Le premier de ces temples se trouve près des hameaux des Bergers (<ref target="../_roman/reference/21_1/21_1_livre_4.html#89_recto">I, 4, 89 recto</ref> et <ref target="../_roman/reference/21_1/21_1_livre_5.html#145_verso">I, 5, 145 verso</ref>),             le second  à <ref target="repertoire_ll.html#lyon">Lyon</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#252_recto">I, 8, 252 recto</ref>).<lb/>
+              Honoré d'Urfé ménage donc la Bonne Déesse astréenne (et chrétienne). <lb/>
+              <lb/>
+              Cela ne l'empêche pas d'adapter  les aventures scabreuses que <ref target="bibliographie.html#plutarque_vies">Plutarque</ref> situait dans le temple de la Bonne Déesse païenne<lb/>
+              (<hi rend="italic">Vie de César</hi>)<lb/>
+              (<ref target="bibliographie.html#heneinp">Henein</ref>, pp. 273-274).
+            <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Bonne Deesse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_bonne_deesse">II</ref>, <ref target="#3_bonne_deesse">III</ref>
+            
+            Nommée quinze fois dans la troisième partie, cette authentique divinité celte porte un nom générique qu'elle prête au temple qu'elle partage avec la déesse <ref target="repertoire_uz.html#3_vesta">Vesta</ref> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_recto">III, 2, 27 recto</ref>). C'est à cause d'elle  que l'endroit où se trouve ce temple se nomme <hi rend="italic">
+                  <ref target="#3_bonlieu">Bonlieu</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#28_recto">III, 2, 28 recto</ref>). Voir <ref target="note_images.html#temple">Temple</ref>.<lb/>
+            <lb/>
+            •            Servie par des filles druides, la Bonne Déesse est représentée par une Vierge qui va enfanter ou qui tient un enfant entre les bras (les deux formules sont juxtaposées). En revanche, <ref target="repertoire_uz.html#3_vesta">Vesta</ref>,  une divinité obligatoirement stérile comme le feu, n'est pas représentée (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_verso">III, 2, 27 verso</ref>). <lb/>
+            <lb/>
+            • Durant les cérémonies liturgiques, par égard pour <ref target="repertoire_uz.html#3_vesta">Vesta</ref>, le vin offert à la Bonne Déesse est nommé <hi rend="italic">lait</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#30_recto">III, 2, 30 recto</ref>).<lb/>
+            <lb/>
+            • Le temple de la Bonne Déesse est rond comme les temples romains de <ref target="repertoire_uz.html#3_vesta">Vesta</ref>. Il est à côté d'un bois et il est arrosé par un bras du <ref target="repertoire_ll.html#3_lignon">Lignon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#172_verso">III, 5, 172 verso</ref>).<lb/>
+            <lb/>
+            • Pour aller de leurs hameaux à la résidence d'<ref target="personnage_aa.html#3_adamas">Adamas</ref>, les bergers passent par le temple de la Bonne Déesse (<ref target="../_roman/reference/21_3/21_3_livre_1.html#6_verso">III, 1, 6 verso</ref>) où <ref target="personnage_cc.html#3_chrisante">Chrisante</ref> va les accueillir et leur offrir à manger (<ref target="../_roman/reference/21_3/21_3_livre_1.html#11_recto">III, 1, 11 recto</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_gg.html#3_galathee">Galathée</ref> se rend dans le temple de la Bonne Déesse, comme le lui recommande un vacie (<ref target="../_roman/reference/21_3/21_3_livre_11.html#459_verso">III, 11, 459 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_11.html#461_recto">III, 11, 461 recto</ref>). Elle séjourne à <ref target="#3_bonlieu">Bonlieu</ref> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#458_recto">III, 11, 458 recto</ref>) puis se rend à <ref target="repertoire_mm.html#3_marcilly">Marcilly</ref> sans attendre <ref target="personnage_aa.html#3_adamas">Adamas</ref> qu'elle a convoqué (<ref target="../_roman/reference/21_3/21_3_livre_12.html#490_verso">III, 12, 490 verso</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_hh.html#3_hylas">Hylas</ref> blâme la Bonne Déesse et <ref target="repertoire_uz.html#3_vesta">Vesta</ref> lorsque <ref target="personnage_cc.html#3_chrisante">Chrisante</ref> interdit aux hommes l'entrée du temple (<ref target="../_roman/reference/21_3/21_3_livre_7.html#277_recto">III, 7, 277 recto</ref>).<lb/>
+            <lb/>
+            À Chypre, selon Strabon, ce sont les femmes qui n'avaient pas le droit d'entrer dans le temple de <ref target="repertoire_uz.html#3_venus">Vénus</ref> (<ref target="bibliographie.html#equicola">Equicola</ref>, Livre 4, f° 199 recto).
+            <lb/>
+            • <ref target="personnage_pp.html#3_phillis">Phillis</ref> se moque de <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> en l'invitant à marquer le clou<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_clou">η</ref> mis  cette année au temple de la Bonne Déesse pour célébrer sa supposée victoire lors du procès de la gageure<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_gageure">η</ref> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#411_recto">III, 10, 411 recto</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFCCFF;">
+                Bonser, J.</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#bonser">I</ref>
+            
+            Jean Bonser. D'après l'<ref target="bibliographie.html#inventaire_17">
+                  <hi rend="italics">Inventaire</hi>
+                </ref> des graveurs du XVII<hi rend="supn">e</hi> siècle (I, p. 470), cet artiste, originaire de Hollande, aurait séjourné à Aix-en-Provence et  à Lyon,  en 1626 et en 1642. <lb/>
+            Il était à Paris autour de 1620 quand il a reproduit le frontispice de <hi rend="italics">L'Astrée</hi>,  modifié le cadre et signé « Bonser <hi rend="italic">fecit</hi> » (Voir <ref target="illustrations.html#sources">Illustrations</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bosphore</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_bosphore">II</ref>
+            
+            Détroit entre la mer Noire et la mer de Marmara, lieu de passage entre l'Europe et l'Asie. <lb/>
+            <lb/>
+            • Les jardins de l'Empereur d'<ref target="repertoire_no.html#2_orient">Orient</ref> se trouvent de l'autre côté du Bosphore, en <ref target="repertoire_aa.html#2_asie">Asie</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#785">II, 12, 785</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bourgongne</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#bourgogne">I</ref>, <ref target="#3_bourgogne">III</ref>, <ref target="#4_bourgogne">IV</ref>
+            
+            La Bourgogne fait partie de la <ref target="repertoire_gg.html#gaule">Gaule</ref> lyonnaise. Les rois <ref target="#bourguignons">bourguignons</ref> lui donnent son nom au V<hi rend="supn">e</hi> siècle. Elle s'étend alors considérablement et finira par inclure le <ref target="repertoire_ff.html#forez">Forez</ref> qui deviendra l'apanage de Clotilde, nièce de <ref target="personnage_gg.html#gondebaud">Gondebaud</ref> et épouse de Clovis. Voir <ref target="#3_bourguignons">Bourguignons</ref>.<lb/>
+            <lb/>
+            • La Bourgogne est nommée dans les biographies d'<ref target="personnage_aa.html#alcippe">Alcippe</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#42_verso">I, 2, 42 verso</ref>) et de <ref target="personnage_ss.html#silvandre">Silvandre</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#226_recto">I, 8, 226 recto</ref>).<lb/>
+            <lb/>
+            • Voir <ref target="cartotheque.html#carte_bourgogne">Carte de la Bourgogne</ref>, et ce <ref target="http://gilles.maillet.free.fr/histoire/cartes/burgonde.htm">site</ref> (10 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bourgongne</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#bourgogne">I</ref>, <ref target="#3_bourgogne">III</ref>, <ref target="#4_bourgogne">IV</ref>
+            
+            Pour apprécier la situation politique du <ref target="repertoire_ff.html#3_forez">Forez</ref> du V<hi rend="supn">e</hi> siècle, il faut examiner l'histoire des frontières du Royaume des <ref target="#3_bourgogne">Bourguignons</ref>. <lb/>
+            <lb/>
+            Les divisions de territoire qui ont suivi la mort du roi <ref target="personnage_gg.html#3_gondioch">Gondioc</ref>  en 474 indiquent l'étendue du royaume. <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>, le fils aîné, règne d'abord sur la rive gauche du Rhône, depuis Genève jusqu'à Arles. Il  s'empare ensuite des terres de ses frères, <ref target="personnage_cc.html#3_chilperic">Chilpéric</ref> et <ref target="personnage_gg.html#3_godegesile">Godegesile</ref>. <ref target="personnage_cc.html#3_chilperic">Chilpéric</ref>, qui s'était installé à <ref target="repertoire_ll.html#3_lyon">Lyon</ref>, possédait le Beaujolais, le <ref target="repertoire_ff.html#3_forez">Forez</ref> et le Lyonnais avec une portion de l'Auvergne. <ref target="personnage_gg.html#3_godegesile">Godegesile</ref> avait la partie située entre Genève et Dijon. <ref target="personnage_gg.html#3_godomar">Godomar</ref>, fixé  à Besançon, possédait  tout le Nord (<ref target="bibliographie.html#gascogne">Gascogne</ref>, p. 10). En 534, à la mort du dernier fils de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>, le royaume de Bourgogne disparaîtra (<ref target="bibliographie.html#orsieres">Orsières</ref>, p. 52).<lb/>
+            <lb/>
+            D'Urfé écrit <ref target="personnage_gg.html#3_godegesile">
+                  <hi rend="italic">Godegisele</hi>
+                </ref> (pour Godegesile) et <ref target="personnage_gg.html#3_godomar">
+                  <hi rend="italic">Godomar</hi>
+                </ref> (pour Gondemar).<lb/>
+            <lb/>
+            J. <ref target="bibliographie.html#favrod_histoire">Favrod</ref> étudie « les frontières mouvantes » du royaume burgonde en se fondant en partie sur le <hi rend="italic">Cosmographe de Ravenne</hi> et en partie sur « la Notice des Gaules » d'Ammien Marcellin. Il affirme qu'au V<hi rend="supn">e</hi> siècle, <ref target="repertoire_ll.html#lyon">Lyon</ref> était la capitale attestée (p. 163), et que <ref target="repertoire_ff.html#feurs">Feurs</ref> appartenait à la Bourgogne (p. 275). <ref target="bibliographie.html#menabrea">Ménabréa</ref> considère que le centre du royaume était plutôt Genève (p. 16). La loi Gombette pourtant est rédigée en 501 à Ambérieu, à une cinquantaine de kilomètres de <ref target="repertoire_ll.html#lyon">Lyon</ref>.<lb/>
+            <lb/>
+            •            En 406 ou en 407, les <ref target="#bourguignons">Bourguignons</ref> envahissent « la Germanique supérieure, la Séquanaise, la Viennoise et même la Lyonnaise, dans laquelle était compris notre pays », le <ref target="repertoire_ff.html#forez">Forez</ref> (Auguste <ref target="bibliographie.html#bernard_h">Bernard</ref>, I, p. 65). <ref target="repertoire_ff.html#feurs">Feurs</ref> et <ref target="repertoire_mm.html#montbrison">Montbrison</ref> font bien partie du royaume de Bourgogne au V<hi rend="supn">e</hi> siècle, comme l'indique <ref target="bibliographie.html#roget">Roget de Belloguet</ref> qui fonde ses recherches sur les évêchés nommés lors du concile d'Épone en 517. <lb/>
+            <lb/>
+            Dans les trois premières parties de <hi rend="italic">L'Astrée</hi>,           Honoré d'Urfé ne  dit pas   que le <ref target="repertoire_ff.html#3_forez">Forez</ref> fera partie de la Bourgogne. C'est une surprise que le dénouement réserve.
+            <lb/>
+            •             Nommée une seule fois (<ref target="../_roman/reference/21_3/21_3_livre_8.html#342_recto">III, 8, 342 recto</ref>), la Bourgogne est le territoire de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>. C'est là que les armées doivent retourner.<lb/>
+            <lb/>
+            • Voir le royaume burgonde au V<hi rend="supn">e</hi> siècle dans ce <ref target="https://upload.wikimedia.org/wikipedia/commons/f/ff/Le_royaume_Burgonde_au_Ve_si%C3%A8cle.png">site</ref> 31 octobre 2020).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bourgongne</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#bourgogne">I</ref>, <ref target="#3_bourgogne">III</ref>, <ref target="#4_bourgogne">IV</ref>
+            
+            <ref target="bibliographie.html#fauchet">Fauchet</ref> décrit la situation avant les guerres qui ont commencé autour de 501 et qui ont opposé les <ref target="#4_bourguignons">Bourguignons</ref> aux <ref target="repertoire_ff.html#4_francs">Francs</ref> : « Le Royaume Bourguignon estoit lors entre les mains de deux freres, l'un nommé <ref target="personnage_gg.html#4_gondebaud">Gombaut</ref>, et l'autre <ref target="personnage_gg.html#4_godegesile">Godegisille</ref> ; qui tenoient le territoire d'<ref target="repertoire_cc.html#4_champs_authunois">Augstun</ref>, la Franche Comté, Souisse, et le pays qui est au long de Saone et <ref target="repertoire_qr.html#4_rhone">Rhosne</ref>, avec la province de Marseille » (p. 126).<lb/>
+            La Bourgogne supérieure  correspond à la Franche-Comté. Sa   capitale est Besançon. <lb/>
+            La Bourgogne du Moyen Âge est liée à l'empire germanique : Marie, fille et héritière du dernier duc de Bourgogne, Charles le Téméraire, épouse Maximilien I<hi rend="supn">er</hi> de Habsbourg en 1477 (Voir ce <ref target="http://www.habsburg.net/fr/histoire-et-culture/lexposition-historique/les-habsbourg-heritiers-de-la-bourgogne/les-habsbourg-heritiers-de-la-bourgogne/">site</ref>, 2 octobre 2018).<lb/>
+            Auguste <ref target="bibliographie.html#bernard_h">Bernard</ref>, dans son <hi rend="italic">Histoire du <ref target="repertoire_ff.html#4_forez">Forez</ref>
+                </hi>, souligne que le pays doit appartenir à la Bourgogne avant de revenir à Clovis, « soit comme douaire de la reine  <ref target="personnage_cc.html#4_clotilde">Clotilde</ref>, soit par un arrangement entre Clovis et <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref>, lorsqu'ils se réunirent pour marcher contre les <ref target="repertoire_uz.html#4_visigoths">Wisigoths</ref> » (p. 66).<lb/>
+            Les historiens modernes reconnaissent que c'est « une tradition pro-franque » qui a excessivement noirci la Bourgogne (Malaspina, <ref target="bibliographie.html#avit">Avit</ref>,  pp. XVIII, XXI).<lb/>
+            <lb/>
+            • La Bourgogne supérieure est le domaine de <ref target="personnage_gg.html#4_godegesile">Godegesile</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#639">IV, 4, 639</ref>).<lb/>
+            <lb/>
+            • « Prince de Bourgogne », titre qu'<ref target="personnage_aa.html#4_ardilan">Ardilan</ref> donne à <ref target="personnage_ss.html#4_sigismond">Sigismond</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#832">IV, 4, 832</ref>).<lb/>
+            <lb/>
+            • Voir  la Bourgogne viennoise du IX<hi rend="supn">e</hi> siècle dans ce <ref target="https://fr.wikipedia.org/wiki/Comt%C3%A9_de_Vienne#/media/File:Les_pagi_de_la_Bourgogne_Viennoise_au_VIIIe_et_IXe_si%C3%A8cle.gif">site</ref> (10 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Bourguignons</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#bourguignons">I</ref>, <ref target="#2_bourguignons">II</ref>, <ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref>
+            
+            Peuple d'origine germanique<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#germains">η</ref> qui figure dans la légende des Nibelungen. <ref target="personnage_aa.html#aetius">Ætius</ref> a autorisé  ces « vagabonds » à passer du Rhin au Rhône (<ref target="bibliographie.html#menabrea">Ménabréa</ref>, p. 16).<lb/>
+            <lb/>
+            Honoré  d'Urfé nomme les Bourguignons dans des récits de guerre. <lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#alcippe">Alcippe</ref> entre au service du roi des Bourguignons (<ref target="../_roman/reference/21_1/21_1_livre_2.html#42_verso">I, 2, 42 verso</ref>), alors que le <ref target="repertoire_ff.html#forez">Forez</ref> dépend du roi <ref target="repertoire_uz.html#Visigoths">Wisigoth</ref>, <ref target="personnage_aa.html#alaric">Alaric</ref>. <lb/>
+            <lb/>
+            • Les Bourguignons attaquent les <ref target="repertoire_qr.html#romains">Romains</ref> et leurs alliés (<ref target="../_roman/reference/21_1/21_1_livre_2.html#42_verso">I, 2, 42 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_8.html#226_recto">I, 8, 226 recto</ref>). <lb/>
+            <lb/>
+            • Leurs actions affectent le destin d'un chevalier, <ref target="personnage_gg.html#guyemant">Guyemant</ref> (<ref target="../_roman/reference/21_1/21_1_livre_3.html#64_recto">I, 3, 64 recto</ref>), celui de Bergers parisiens, <ref target="personnage_tt.html#tircis">Tircis</ref> et <ref target="personnage_ll.html#laonice">Laonice</ref> (<ref target="../_roman/reference/21_1/21_1_livre_7.html#207_recto">I, 7, 207 recto</ref>), et celui de <ref target="personnage_ss.html#silvandre">Silvandre</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#226_verso">I, 8, 226 verso</ref>).<lb/>
+            <lb/>
+            • Voir <ref target="cartotheque.html#carte_bourgogne">Carte de la Bourgogne</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:308px; background-color:#CCCCCC;">
+                Bourguignons</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#bourguignons">I</ref>, <ref target="#2_bourguignons">II</ref>, <ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref>
+            
+           <p>Écrit aussi <hi rend="italic">Bourguinons</hi>.</p>
+           Honoré d'Urfé choisit de donner aux <ref target="repertoire_aa.html#2_auvergnats">Auvergnats</ref>,  aux <ref target="#2_bourguignons">Bourguignons</ref> et aux <ref target="repertoire_ff.html#2_foreziens">Foréziens</ref> leur nom moderne.<lb/>
+            
+            <lb/>
+            <ref target="bibliographie.html#fauchetr">Fauchet</ref> affirme que les Bourguignons ou Burgondes « se pensoient yssux des <ref target="repertoire_qr.html#2_romains">Romains</ref> » (f° 60 recto et 84 verso). <ref target="bibliographie.html#pasquier">Pasquier</ref> (I, p. 24) et <ref target="bibliographie.html#la_mure">La Mure</ref> le répètent (I, p. 233).  Les Bourguignons semblent n'avoir pas eu besoin de traducteurs (<ref target="bibliographie.html#favrod_2">Favrod</ref>, p. 35). Ce sont des <ref target="repertoire_uz.html#vandales">Vandales</ref> à l'origine, selon <ref target="bibliographie.html#bouchet_jean">Bouchet</ref> (f° 34 recto).<lb/>
+            Ces Germains<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#germains">η</ref> s'entendent avec l'<ref target="repertoire_ee.html#2_empire_romain">Empire romain</ref> et s'installent  en Sapaudia, autour de Genève, en 436 (dès 411 ou 413 d'après <ref target="bibliographie.html#guichenon">Guichenon</ref>, p. 13). Chassés par les <ref target="repertoire_hh.html#2_huns">Huns</ref>, ils vivent dans les Cévennes et nomment leur contrée <hi rend="italic">Bourgogne</hi> (<ref target="bibliographie.html#labouysse">Labouysse</ref>, p. 26). <ref target="bibliographie.html#la_mure">La Mure</ref> écrit qu'autour de 412 Bourguignons et <ref target="repertoire_uz.html#2_visigoths">Wisigoths</ref> se disputent déjà le <ref target="repertoire_ff.html#2_forez">Forez</ref> (I, p. 235). <lb/>
+            <lb/>
+            <ref target="bibliographie.html#sidoine">Sidoine Apollinaire</ref> (431 ? - 487 ?), célèbre évêque Arverne de Lyon, méprise les Bourguignons. Il se plaint de vivre « au milieu de hordes chevelues, assourdi par les sons de la langue germaine, obligé d'avoir l'air de louer quelquefois ce que chante, bien repus, le Burgonde aux cheveux graissés d'un beurre rance » (p. 386) et « haut de sept pieds » (p. 206). Le pied romain ne fait que onze pouces, précise un historien moderne (<ref target="bibliographie.html#plancher">Plancher</ref>, I, p. 13) ; les Bourguignons mesuraient donc 195 cm. Même si <hi rend="italic">burgund</hi> signifie haut, il est probable que le nom du peuple signifie plutôt « les hommes qui habitaient des hauteurs » (<ref target="bibliographie.html#favrod_2">Favrod</ref>, p. 37). <lb/>
+            Voir <ref target="#bourgogne">Bourgogne</ref>. <lb/>
+            <lb/>
+            • Les Bourguignons attaquent les <ref target="repertoire_qr.html#2_romains">Romains</ref> en <ref target="repertoire_gg.html#2_gaule">Gaule</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#738">II, 11, 738</ref>). Quand   ils s'en prennent au « pays des <ref target="repertoire_ee.html#2_eduois">Heduois</ref> et <ref target="repertoire_ss.html#2_sequanois">Sequanois</ref> », <ref target="personnage_cc.html#2_constance">Constance</ref> les renvoie « au lieu d'où ils
+            estoient partis » (<ref target="../_roman/reference/21_2/21_2_livre_11.html#749">II, 11, 749</ref>). <lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#2_aetius">Ætius</ref> aussi chasse les Bourguignons (<ref target="../_roman/reference/21_2/21_2_livre_11.html#751">II, 11, 751</ref>).
+            Quand lui-même doit s'exiler, pour éviter d'être accusé de collusion, il ne se retire pas près d'eux (<ref target="../_roman/reference/21_2/21_2_livre_11.html#752">II, 11, 752</ref>). <lb/>
+            <lb/>
+            • À son retour, <ref target="personnage_aa.html#2_aetius">Ætius</ref> retient les Bourguignons « dans les limites que l'Empereur leur
+            avoit donnees » (<ref target="../_roman/reference/21_2/21_2_livre_11.html#759">II, 11, 759</ref>).
+            Il les dissuade (<ref target="../_roman/reference/21_2/21_2_livre_12.html#824">II, 12, 824</ref>) d'accepter l'entente proposée par <ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#823">II, 12, 823</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#2_aetius">Ætius</ref> craint une coalition des <ref target="repertoire_ff.html#2_francs">Francs</ref> et des Bourguignons avec les <ref target="repertoire_uz.html#visigoths">Wisigoths</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#827">II, 12, 827</ref>). <lb/>
+            <lb/>
+            Cette information est chez <ref target="bibliographie.html#fauchetr">Fauchet</ref> (f° 95 verso), comme chez Pasquier et Sorel. <lb/>
+              Elle appelle toujours le même commentaire : l'union fait la force et la division affaiblit. 
+            <lb/>
+            • Voir la <ref target="cartotheque.html#carte_invasions">Carte des invasions</ref> et la <ref target="cartotheque.html#carte_gaule">Carte</ref> de la <ref target="repertoire_gg.html#2_gaule">Gaule</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Bourguignons</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#bourguignons">I</ref>, <ref target="#2_bourguignons">II</ref>, <ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref>
+            
+            D'après <ref target="bibliographie.html#guichenon">Guichenon</ref>, historien du XVII<hi rend="supn">e</hi> siècle, à la demande de l'empereur <ref target="personnage_hh.html#3_honorius">Honorius</ref>, quatre vingt mille Bourguignons,  le 31 décembre 408, entrent en Gaule. Ils parviennent « en Bresse, Bugey et Savoye en l'an 411 ». Autour de 430, le Royaume de Bourgogne a pour limites la Méditerranée, le Rhin, les Alpes, la Loire et la Seine (<ref target="bibliographie.html#guichenon">Guichenon</ref>, p. 13).  « Dans cette vaste <hi rend="italic">Bourgogne</hi> comprenant avec la région qui a conservé ce nom, le pays  de Langres, la Franche-Comté, une partie de la Suisse, la Savoie, le Lyonnais,  le Forez, le Dauphiné et la Provence septentrionale, les colons burgondes  étaient inégalement répartis » (<ref target="bibliographie.html#longnon">Longnon</ref>, p. 197). Le royaume compte vingt-cinq évêchés  (<ref target="bibliographie.html#gascogne">Gascogne</ref>, p. 19). Il faut se souvenir que la maison de Savoie se reconnaît des liens très étroits avec la famille royale de Bourgogne (<ref target="bibliographie.html#ripart">Ripart</ref>, p. 265).<lb/>
+            <lb/>
+            Honoré d'Urfé achète une histoire de la Bourgogne en 1620 (<ref target="bibliographie.html#ducimetiere">Ducimetière</ref>, p. 761).<lb/>
+            <lb/>
+            Dans une description de peintures ajoutée à l'édition de 1619, la demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref> est décorée de portraits historiques. Quatre générations de rois Bourguignons y figurent à compter d'<ref target="personnage_aa.html#3_athanaric">Athanaric</ref> <lb/>
+              (<ref target="../_roman/reference/21_3/21_3_livre_3.html#59_verso">III, 3, 59 verso</ref>). 
+            <lb/>
+            • <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> et ses Bourguignons traversent les <ref target="repertoire_aa.html#3_alpes">Alpes</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#330_recto">III, 7, 330 recto</ref>) et prennent la ville des <ref target="repertoire_cc.html#3_caturges">Caturiges</ref>. <ref target="personnage_cc.html#3_criseide">Criséide</ref> est emmenée en captivité.<lb/>
+            <lb/>
+            • <ref target="personnage_bb.html#3_bellimart">Bellimart</ref>,  chevalier <ref target="repertoire_uz.html#3_visigoths">Wisigoth</ref>, se bat dans l'armée des Bourguignons de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#341_recto">III, 8, 341 recto</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#3_arimant">Arimant</ref> n'est pas vêtu comme les chevaliers Bourguignons (<ref target="../_roman/reference/21_3/21_3_livre_8.html#341_recto">III, 8, 341 recto</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> traite <ref target="personnage_cc.html#3_criseide">Criséide</ref> comme si elle était déjà reine des Bourguignons (<ref target="../_roman/reference/21_3/21_3_livre_8.html#358_recto">III, 8, 358 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_histoire">
+                Bourguignons</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#bourguignons">I</ref>, <ref target="#2_bourguignons">II</ref>, <ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref>
+            
+            • Ils apparaissent d'abord comme une troupe de guerriers armés jusqu'aux dents<hi rend="cache"> </hi>
+                <ref target="note_4.html#4_armes">η</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#366">IV, 3, 366</ref>). Voir Notes en images<hi rend="cache"> </hi>
+                <ref target="note_images.html#armes_bourguignons">η</ref>. <lb/>
+            <lb/>
+            • Comme le prévoit <ref target="personnage_aa.html#4_ardilan">Ardilan</ref>, le titre de « Reyne des Bourguignons » séduit et aveugle <ref target="personnage_dd.html#4_darinee">Darinée</ref>, suivante de <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#732">IV, 4, 732</ref> ; <ref target="../_roman/reference/24_4/24_4_livre_4.html#733">IV, 4, 733</ref>). <lb/>
+            <lb/>
+            Le titre de reine éblouit aussi <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#156_recto">III, 4, 156 recto</ref>). 
+            <lb/>
+            • <ref target="personnage_cc.html#4_chilperic">Chilpéric</ref>, le père de <ref target="personnage_cc.html#4_clotilde">Clotilde</ref>, a voulu devenir Roi des Bourguignons (<ref target="../_roman/reference/24_4/24_4_livre_4.html#734">IV, 4, 734</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> rougit lorsque <ref target="personnage_dd.html#4_darinee">Darinée</ref> lui répète qu'elle pourrait être « Reyne des Bourguignons », car <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> l'aime  (<ref target="../_roman/reference/24_4/24_4_livre_4.html#740">IV, 4, 740</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_dd.html#4_darinee">Darinée</ref> répète que <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> pourrait devenir reine si elle le voulait, et qu'elle aurait tort de ne pas agir en conséquence (<ref target="../_roman/reference/24_4/24_4_livre_4.html#741">IV, 4, 741</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_dd.html#4_darinee">Darinée</ref> est persuadée que <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> amoureux épousera <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> et la fera reine (<ref target="../_roman/reference/24_4/24_4_livre_4.html#742">IV, 4, 742</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> aimerait recevoir la couronne, mais  craint que le Roi se moque d'elle (<ref target="../_roman/reference/24_4/24_4_livre_4.html#743">IV, 4, 743</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_dd.html#4_darinee">Darinée</ref> traite  sa maîtresse comme si elle était déjà reine des Bourguignons (<ref target="../_roman/reference/24_4/24_4_livre_4.html#749">IV, 4, 749</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_ss.html#4_sigismond">Sigismond</ref> juge que la moitié des Bourguignons le soutiendra, et s'opposera à son père, <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref>, pour défendre <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#872">IV, 4, 872</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> se voit fugitive et abandonnée après avoir espéré être reine des Bourguignons (<ref target="../_roman/reference/24_4/24_4_livre_4.html#895">IV, 4, 895</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_gg.html#4_galathee">Galathée</ref> apprend à <ref target="personnage_ll.html#4_leonide">Léonide</ref> que <ref target="personnage_pp.html#4_polemas">Polémas</ref> s'est entendu avec <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref>, le roi des Bourguignons (<ref target="../_roman/reference/24_4/24_4_livre_5.html#930">IV, 5, 930</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bouteresse</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#bouteresse">I</ref>, <ref target="#2_bouteresse">II</ref>, <ref target="#3_bouteresse">III</ref>
+            
+            Écrit aussi <hi rend="italics">Boteresse</hi>. Pont sur le <ref target="repertoire_ll.html#lignon">Lignon</ref> reconstruit en pierre au XIV<hi rend="supn">e</hi> siècle (Maxime <ref target="bibliographie.html#gaumei">Gaume</ref>, p. 189). <lb/>
+            <lb/>
+            • Les personnages franchissent fréquemment ce pont (<ref target="../_roman/reference/21_1/21_1_livre_4.html#84_recto">I, 4, 84 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_8.html#224_recto">I, 8, 224 recto</ref> et <ref target="../_roman/reference/21_1/21_1_livre_8.html#232_recto">232 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_12.html#403_recto">I, 12, 403 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:37px;">
+                Bouteresse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#bouteresse">I</ref>, <ref target="#2_bouteresse">II</ref>, <ref target="#3_bouteresse">III</ref>
+            
+            « Ce pont de bois reposait sur trois piles de pierres » (Hubert Houdoy, dans son ancien site, 30 septembre 2010). <lb/>
+            <lb/>
+            • <ref target="personnage_ll.html#2_leonide">Léonide</ref> et <ref target="personnage_pp.html#2_paris">Paris</ref> traversent le pont, soit pour rentrer chez <ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#110">II, 2, 110</ref>), soit  pour aller dans les hameaux (<ref target="../_roman/reference/21_2/21_2_livre_7.html#471">II, 7, 471</ref>). <lb/>
+            <lb/>
+            • <ref target="personnage_ll.html#2_leonide">Léonide</ref> admire le paysage après avoir passé le pont (<ref target="../_roman/reference/21_2/21_2_livre_7.html#434">II, 7, 434</ref>). <lb/>
+            <lb/>
+            •            Avec <ref target="personnage_aa.html#2_adamas">Adamas</ref>, elle traverse le pont pour retrouver <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#496">II, 8, 496</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:29px;">
+                Bouteresse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#bouteresse">I</ref>, <ref target="#2_bouteresse">II</ref>, <ref target="#3_bouteresse">III</ref>
+            
+            Écrit <hi rend="italic">Boteresse</hi>.<lb/>
+            <lb/>
+            • Lorsque <ref target="personnage_pp.html#3_paris">Paris</ref> quitte la demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref> pour aller à la rencontre de <ref target="personnage_dd.html#3_diane">Diane</ref>, il passe « sur le pont de la Boteresse », puis tourne à droite (<ref target="../_roman/reference/21_3/21_3_livre_1.html#14_recto">III, 1, 14 recto</ref>).<lb/>
+            <lb/>
+            • Il repasse avec la troupe de bergers pour se rendre chez le druide (<ref target="../_roman/reference/21_3/21_3_livre_2.html#32_verso">III, 2, 32 verso</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_dd.html#3_damon_a">Damon</ref> passe par ce pont quand il erre  à la recherche de « forêts » (<ref target="../_roman/reference/21_3/21_3_livre_6.html#218_recto">III, 6, 218 recto</ref>).<lb/>
+            <lb/>
+            • Le chevalier repasse par ce pont avec <ref target="personnage_gg.html#3_galathee">Galathée</ref> pour se rendre chez <ref target="personnage_aa.html#3_adamas">Adamas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#491_recto">III, 12, 491 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Boyens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_boiens">II</ref>, <ref target="#3_boiens">III</ref>
+            
+            Les Boïens sont un peuple celtique originaire de Bohême (<ref target="bibliographie.html#kruta">Kruta</ref> p. 206) dont le nom signifie les Terribles (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 70). Ils seraient divisés en cent-douze tribus d'après <ref target="bibliographie.html#pline">Pline</ref> (III, 116). Ils se sont installés dans la région de Sancerre (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 478).<lb/>
+            « À la demande des <ref target="repertoire_ee.html#2_eduois">Héduens</ref>, les <ref target="#2_boiens">Boïens</ref> reçurent, à cause de leur grande réputation de valeur, la permission de s'établir sur leur propre territoire ; on leur donna des terres, et ils partagèrent plus tard les droits et la liberté des <ref target="repertoire_ee.html#2_eduois">Héduens</ref> eux-mêmes », écrit Jules <ref target="bibliographie.html#cesar">César</ref> (I, 28). Il ajoute plus loin que <ref target="repertoire_gg.html#2_gergovie">Gergovie</ref> est la « ville des <ref target="#2_boiens">Boïens</ref> » (VII, 9).<lb/>
+            « Avant de s'en prendre aux <ref target="repertoire_ee.html#2_eduois">Hédues</ref>, toujours fidèles à l'alliance romaine, il fallait réduire leurs clients, les <ref target="#2_boiens">Boïes</ref>, échappés au désastre infligé par César aux <ref target="repertoire_hh.html#helveces">Helvètes</ref> dix ans auparavant et installés par les <ref target="repertoire_ee.html#2_eduois">Hédues</ref>, devenus leurs patrons, sur la partie de leur territoire située à gauche de la <ref target="repertoire_ll.html#2_loire">Loire</ref>, à Gortona (<hi rend="italics">Gorgobina</hi> est une cacographie), aujourd'hui Sancerre » (<ref target="bibliographie.html#lot">Lot</ref>, p. 117). <ref target="bibliographie.html#la_mure">La Mure</ref> situe les <ref target="#2_boiens">Boïens</ref> dans le Bourbonnais, sur l'Allier (I, p. 4). <lb/>
+            <lb/>
+            • Ce n'est pas tout à fait ce que dit Honoré d'Urfé (<ref target="../_roman/reference/21_2/21_2_livre_1.html#35">II, 1, 35</ref>). Pour lui, les Boïens établis dans la forêt <ref target="repertoire_hh.html#2_hircinie">Hircinie</ref> suivent <ref target="personnage_ss.html#2_sigovese">Sigovèse</ref> en <ref target="repertoire_gg.html#2_gaule">Gaule</ref> (VI<hi rend="supn">e</hi> siècle avant J.-C.). Ils suivent ensuite <ref target="personnage_bb.html#2_belovese">Bellovèse</ref> en <ref target="repertoire_ik.html#2_italie">Italie</ref> (IV<hi rend="supn">e</hi> siècle avant J.-C.). Plus tard, chassés par les <ref target="repertoire_qr.html#2_romains">Romains</ref>, ils se divisent : certains  reviennent en <ref target="repertoire_gg.html#2_gaule">Gaule</ref>, d'autres se  retirent dans la forêt <ref target="repertoire_hh.html#2_hircinie">Hircinie</ref>.<lb/>
+            <lb/>
+            • <ref target="personnage_tt.html#2_thamire">Thamire</ref> et <ref target="personnage_cc.html#2_calidon">Calidon</ref> sont des Boïens, et en sont fiers (<ref target="../_roman/reference/21_2/21_2_livre_1.html#51">II, 1, 51</ref>). <ref target="personnage_tt.html#2_thamire">Thamire</ref> explique  aux <ref target="repertoire_ff.html#2_foreziens">Foréziens</ref> qu'ils ne sont pas « de ceste contree » bien qu'ils demeurent près de <ref target="repertoire_mm.html#2_montverdun">Montverdun</ref> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#35">II, 1, 35</ref>). <ref target="personnage_cc.html#2_calidon">Calidon</ref>, à dix-huit ans,  appelé par <ref target="personnage_tt.html#2_thamire">Thamire</ref> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#74">II, 2, 74</ref>), « revint de  la Province des
+            Boiens » (<ref target="../_roman/reference/21_2/21_2_livre_1.html#42">II, 1, 42</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Boyens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_boiens">II</ref>, <ref target="#3_boiens">III</ref>
+            
+            Dans la demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref>, on voit le portrait de ce <ref target="personnage_ss.html#3_sigovese">Sigovèse</ref> qui a fondé le royaume des Boïens en <ref target="repertoire_hh.html#3_hircinie">Hircinie</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>). <lb/>
+            <lb/>
+            <p>Le portrait ne figure pas dans l'édition de 1619.</p>
+            <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:165px; background-color:#CCCCCC;">
+                Bramovices</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_bramovices">II</ref>, <ref target="#3_bramovices">III</ref>
+            
+            Ou <hi rend="italic">Brannovices</hi> ? La graphie de ce nom est encore variable  aujourd'hui. Je retiens la forme que donnent les <hi rend="italic">Commentaires</hi> de <ref target="bibliographie.html#cesar">César</ref> : <hi rend="italic">Brannovices</hi>. Jules <ref target="bibliographie.html#cesar">César</ref> appelle ce peuple les <hi rend="italics">Aulerques Brannovices</hi>, et les inclut dans la liste de ceux qui se liguent contre lui à Alésia (VII, 75). <ref target="bibliographie.html#la_mure">La Mure</ref> les appelle les <hi rend="italics">Brannociens</hi> (I, p. 8). V. <ref target="bibliographie.html#kruta">Kruta</ref> les appelle <hi rend="italic">Brammovices</hi>, c'est-à-dire « Vainqueurs du corbeau ou Corbeaux Victorieux » (p. 72). Ce sont des  clients des <ref target="repertoire_ee.html#2_eduois">Éduois</ref> (<ref target="bibliographie.html#lot">Lot</ref>, p. 37).  Ils se trouvaient dans la vallée de l'Yonne ou de la Saône (Voir ce <ref target="https://fr.wikipedia.org/wiki/Aulerques_Brannovices#/media/Fichier:Map_of_Eduens_people-fr.svg">site</ref>, 31 octobre 2020).<lb/>
+            <lb/>
+            • Dans <hi rend="italics">L'Astrée</hi>,  le pays des Brannovices se trouve entre le pays des <ref target="repertoire_cc.html#2_caturiges">Caturiges</ref> et celui des <ref target="repertoire_cc.html#2_carroceles">Garocelles</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#633">II, 10, 633</ref> et <ref target="../_roman/reference/21_2/21_2_livre_10.html#635">635</ref>) ; c'est bien la région des <hi rend="italics">Brannovices</hi>.<lb/>
+            <lb/>
+            • Voir la carte dessinée par Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> (p. 221).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:41px; background-color:#CCCCCC;">
+                Bramovices</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_bramovices">II</ref>, <ref target="#3_bramovices">III</ref>
+            
+            « L'ancien nom de toute la vallée de Maurienne était <hi rend="italic">Brannovices</hi> ; la capitale à présent de ce pays-là (qui porte depuis plus de six siècles titre de Comté) est S. Jean de Maurienne » (<ref target="bibliographie.html#guichenon_savoie">Guichenon</ref>, I, p. 4).<lb/>
+            <lb/>
+            • L'un des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:54px;">
+                Bresse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_bresse">II</ref>
+            
+            Il s'agit sans doute de <hi rend="italics">Brescia</hi>, en <ref target="repertoire_ik.html#2_italie">Italie</ref>, ville  prise en 452 par <ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="bibliographie.html#bouvier">Bouvier-Ajam</ref>, p. 365).<lb/>
+            <lb/>
+            • Bresse est      attaquée par <ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#841">II, 12, 841</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bretagne</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_bretagne">II</ref>
+            
+            Écrit parfois <hi rend="italic">Bretaigne</hi>. Il s'agit de <hi rend="italics">Britannia</hi>, appelée <ref target="repertoire_gg.html#grande_bretagne">Grande-Bretagne</ref> dans la première partie et dans la troisième. La Bretagne française est appelée <ref target="repertoire_aa.html#2_armorique">Armorique</ref>.<lb/>
+            <lb/>
+            • <ref target="repertoire_aa.html#2_anglois">Anglois</ref> et <ref target="repertoire_pp.html#2_pictes">Pictes</ref> se battent contre les <ref target="repertoire_qr.html#2_romains">Romains</ref> en Bretagne (<ref target="../_roman/reference/21_2/21_2_livre_11.html#738">II, 11, 738</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#2_aetius">Ætius</ref> envoie la légion de <ref target="personnage_gg.html#2_galvion">Galvion</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#759">II, 11, 759</ref>) pour soutenir cette contrée entourée   d'un rempart (<ref target="../_roman/reference/21_2/21_2_livre_11.html#759">II, 11, 759</ref>).
+            Quand <ref target="personnage_gg.html#2_galvion">Galvion</ref> s'éloigne, les <ref target="repertoire_pp.html#2_pictes">Pictes</ref> attaquent les Bretons qui appellent à leur secours les <ref target="repertoire_aa.html#2_anglois">Anglois</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#762">II, 11, 762</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#2_aetius">Ætius</ref> est accusé d'avoir poussé les <ref target="repertoire_aa.html#2_anglois">Anglois</ref> à prendre la Bretagne (<ref target="../_roman/reference/21_2/21_2_livre_12.html#839">II, 12, 839</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Bretons</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_bretons">II</ref>
+            
+            <ref target="repertoire_cc.html#2_celtes">Celtes</ref> insulaires appelés jadis <hi rend="italics">Brittons</hi>. Jules <ref target="bibliographie.html#cesar">César</ref> écrit : « De tous les peuples bretons, les plus civilisés sont, sans contredit, ceux qui habitent le pays de Cantium [Kent], région toute maritime et dont les mœurs diffèrent peu de celles des <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> » (V, 14). <lb/>
+            Les <ref target="#2_bretons">Bretons</ref> demandent aux <ref target="repertoire_ss.html#2_saxons">Saxons</ref> de les aider à vaincre les <ref target="repertoire_pp.html#2_pictes">Pictes</ref>. Les <ref target="repertoire_ss.html#2_saxons">Saxons</ref> tuent « la plus part de la noblesse Bretonne » (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 88 verso) <lb/>
+            <lb/>
+            • Les Bretons, attaqués par les <ref target="repertoire_pp.html#2_pictes">Pictes</ref>, appellent au secours les <ref target="repertoire_aa.html#2_anglois">Anglois</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#762">II, 11, 762</ref>). Chassés de <ref target="#2_bretagne">Bretagne</ref>, les Bretons envahissent l'<ref target="repertoire_aa.html#2_armorique">Armorique</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#839">II, 12, 839</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFCCFF;">
+                Briot, I.</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#briot">I</ref>
+            
+            Isaac Briot (1585 - 1670) est un artisan protestant originaire de Damblain, en Lorraine. Graveur en taille-douce, il travaille à Paris. Il   collabore avec Abraham Bosse, et avec Jean Warin pour la frappe des nouvelles monnaies commandées par <ref target="repertoire_ll.html#3_louis">Louis XIII</ref> (les <hi rend="italics">louis</hi>). Briot a gravé les portraits de Marie de Médicis et de Richelieu (<ref target="bibliographie.html#arbour">Arbour</ref>, pp. 121-122). En 1630, <ref target="repertoire_tt.html#toussaint">Du Bray</ref> et ses associés lui paient près de 2 000 livres<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#livre">η</ref> pour les cent vingt gravures des <hi rend="italics">Fables</hi> d'Ésope traduites par Jean Baudoin, soit un peu plus de onze livres<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#livre">η</ref> par planche (<ref target="bibliographie.html#martin">Martin</ref>, p. 384). Baudoin, lui, reçoit « trois livres<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#jacques">η</ref> et quatre sols pour chaque feuille de gros romain » (<ref target="bibliographie.html#martin">Martin</ref>, p. 428).<lb/>
+            <lb/>
+            • Briot a probablement gravé le <ref target="../_roman/reference/21_1/21_1_liminaires.html">portrait</ref> d'Honoré d'Urfé et celui d'une dame qui pourrait être  Diane de Châteaumorand<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#diane">η</ref>, tous deux dessinés par Louis <ref target="#bobrun">Beaubrun</ref>. Ils figurent dans <hi rend="italic">L'Astrée</hi>  à partir de 1619. Les portraits sont encore reproduits, après la mort du couple, dans <hi rend="italics">La Sylvanire </hi>(1627). (Voir <ref target="illustrations.html">Illustrations</ref>). <lb/>
+            <lb/>
+            • Selon le père <ref target="bibliographie.html#menestrier_origine">Menestrier</ref>, <hi rend="italic">Nicolas</hi> Briot,
+            « Tailleur General des monnoyes de France »,  a inventé un instrument ingénieux qu'il a présenté au Conseil des monnaies le 23 janvier 1617 (p. 462).<lb/>
+            <lb/>
+            • On trouvera dans ce <ref target="http://expositions.bnf.fr/bosse/grand/099.htm">site</ref> « L'Espagnol moqué » d'Abraham Bosse gravé par Briot (30 septembre 2010).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

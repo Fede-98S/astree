@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Répertoire T - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_rep"
+  onclick="SetDisplay('legende_rep')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_rep')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p>Catégories</p><table rend="center_o center_t" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" style="width:auto; height:20px; background-color:#FFCCFF">Actualité</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Géographie </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px">Histoire</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue" style="width:auto; height:20px">Littérature</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue_hashed" style="width:auto; height:20px">Mythologie</cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px"> Remarque </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+            </table><p> </p><ref target="repertoire.html">
+              <hi rend="bold">RÉPERTOIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="repertoire_aa.html">A</ref><ref target="repertoire_bb.html">B</ref><ref target="repertoire_cc.html">C</ref><ref target="repertoire_dd.html">D</ref><ref target="repertoire_ee.html">E</ref><lb/><ref target="repertoire_ff.html">F</ref><ref target="repertoire_gg.html">G</ref><ref target="repertoire_hh.html">H</ref><ref target="repertoire_ik.html">I</ref><ref target="repertoire_ik.html#j">J</ref><lb/><ref target="repertoire_ik.html#k">K</ref><ref target="repertoire_ll.html">L</ref><ref target="repertoire_mm.html">M</ref><ref target="repertoire_no.html">N</ref><ref target="repertoire_no.html#o">O</ref><lb/><ref target="repertoire_pp.html">P</ref><ref target="repertoire_qr.html">Q</ref><ref target="repertoire_qr.html#r">R</ref><ref target="repertoire_ss.html">S</ref><ref target="repertoire_tt.html">T</ref><lb/><ref target="repertoire_uz.html">U</ref><ref target="repertoire_uz.html#v">V</ref><ref target="repertoire_uz.html#w">W</ref><ref target="repertoire_uz.html#x">X</ref><ref target="repertoire_uz.html#y">Y</ref><ref target="repertoire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>
+              <ref target="repertoire.html">RÉPERTOIRE - T</ref>
+            </head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:399px; background-image:url('../images/bluehashed.jpg')">
+                Taramis</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#taramis">I</ref>, <ref target="#2_taramis">II</ref>, <ref target="#3_taramis">III</ref>, <ref target="#4_taramis">IV</ref>
+          
+          Mythologie. Divinité celte. Écrit <hi rend="italics">Thamaris</hi>. <lb/>
+          <lb/>
+          <lb/>
+          <p>L'une des divinités gauloises qui n'apparaissent pas dans l'édition anonyme de 1607.</p>
+          <lb/>
+          • Dans les éditions ultérieures, Taramis, une seule fois, accompagne les deux autres divinités pour remplacer  le dieu <ref target="repertoire_pp.html#pan">Pan</ref> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#349_recto">I, 10, 349 recto</ref>). <lb/>
+          <lb/>
+          Honoré d'Urfé expliquera en 1610, dans la seconde partie de <hi rend="italic">L'Astrée</hi> (livre 8), la théologie de son <ref target="repertoire_ff.html#forez">Forez</ref>. Le druide <ref target="personnage_aa.html#adamas">Adamas</ref> expose alors un système d'équivalences.<lb/>
+          <lb/>
+          « <ref target="repertoire_aa.html#apollon">Apollon</ref> est le <ref target="repertoire_bb.html#belenus">Bélénus</ref> gaulois, le Dieu homme, le Fils. <ref target="repertoire_mm.html#2_mars">Mars</ref> est le <ref target="repertoire_hh.html#hesus">Hésus</ref> gaulois, le Dieu fort, le Père. <ref target="repertoire_ik.html#jupiter">Jupiter</ref> est le <ref target="#taramis">Taramis</ref> gaulois, le Dieu 'répurgeant' (de <hi rend="italics">repurger, nettoyer</hi>), le Saint-Esprit. <ref target="#tautates">Tautatès</ref>, le Dieu unique, porte donc trois surnoms » (<ref target="bibliographie.html#heneinp">Henein</ref>, p. 54).
+            Au nom du Père, du Fils et du Saint-Esprit ...
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Taramis</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#taramis">I</ref>, <ref target="#2_taramis">II</ref>, <ref target="#3_taramis">III</ref>, <ref target="#4_taramis">IV</ref>
+          
+          Mythologie. Écrit <hi rend="italics">Taharamis, Thamramis,  Tharamis</hi>. Honoré d'Urfé peut avoir emprunté à Le Fèvre de la Boderie le thème de Taramis,  « dieu repurgeant » (<ref target="bibliographie.html#secret">Secret</ref>, pp. 698-699). <lb/>
+          <lb/>
+          • Nommé trente-deux fois dans la deuxième partie, ce dieu gaulois est parfois
+          enfermé dans le quatuor divin : « <ref target="#2_tautates">Tautates</ref>, <ref target="repertoire_hh.html#2_hesus">Hesus</ref>, Taramis, <ref target="repertoire_bb.html#2_belenus">Belenus</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>). Dans le chêne qui symbolise <ref target="#2_tautates">Tautatès</ref>,  la branche du milieu le représente
+          (<ref target="../_roman/reference/21_2/21_2_livre_5.html#290">II, 5, 290</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#517">II, 8, 517</ref>). Dans le temple de <ref target="repertoire_mm.html#2_montverdun">Montverdun</ref>, c'est la divinité qu'<ref target="personnage_aa.html#2_adamas">Adamas</ref> consulte pour apprendre ce que l'avenir lui réserve (<ref target="../_roman/reference/21_2/21_2_livre_8.html#494">II, 8, 494</ref>).<lb/>
+          <lb/>
+          •  Taramis signifie « repurgeant », qui nettoie  (<ref target="../_roman/reference/21_2/21_2_livre_8.html#510">II, 8, 510</ref>). Le nom de ce dieu a subi des modifications parce qu'il était difficile à prononcer.  Son homologue romain  est <ref target="repertoire_ik.html#2_jupiter">Jupiter</ref>, le justicier (<ref target="../_roman/reference/21_2/21_2_livre_8.html#511">II, 8, 511</ref>).  Les usurpateurs ont voulu forcer les druides à représenter leurs divinités avec les figures et les noms des dieux païens  (<ref target="../_roman/reference/21_2/21_2_livre_8.html#514">II, 8, 514</ref>).<lb/>
+          <lb/>
+          Taramis est évoqué dans des contextes différents : l'histoire de <ref target="personnage_cc.html#2_celidee">Célidée</ref> et l'histoire d'<ref target="personnage_hh.html#2_hylas">Hylas</ref>, ainsi que  la leçon de théologie que donne <ref target="personnage_aa.html#2_adamas">Adamas</ref>, et la biographie du druide.<lb/>
+          <lb/>
+          • <ref target="personnage_cc.html#2_calidon">Calidon</ref> affirme  que Taramis punit en écrasant les têtes avec son foudre (<ref target="../_roman/reference/21_2/21_2_livre_2.html#68">II, 2, 68</ref>). <ref target="personnage_cc.html#2_celidee">Célidée</ref> lui répond qu'il doit donc craindre la vengeance de ce dieu (<ref target="../_roman/reference/21_2/21_2_livre_2.html#90">II, 2, 90</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_cc.html#2_celidee">Célidée</ref> se dit  inspirée par Taramis quand elle décide de se mutiler (<ref target="../_roman/reference/21_2/21_2_livre_11.html#696">II, 11, 696</ref>). <lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#2_adamas">Adamas</ref> consulte Taramis avant de se rendre auprès de <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#494">II, 8, 494</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#2_adamas">Adamas</ref> dit à <ref target="personnage_cc.html#2_celadon">Céladon</ref> que Taramis a doué les hommes de raison (<ref target="../_roman/reference/21_2/21_2_livre_8.html#499">II, 8, 499</ref>), et leur a donné tout ce qu'ils possèdent (<ref target="../_roman/reference/21_2/21_2_livre_8.html#503">II, 8, 503</ref>). C'est à ce Dieu que <ref target="personnage_cc.html#2_celadon">Céladon</ref> explique que l'amour l'obsède (<ref target="../_roman/reference/21_2/21_2_livre_8.html#501">II, 8, 501</ref>). <lb/>
+          <lb/>
+          • <ref target="personnage_ff.html#2_florice">Florice</ref> menace <ref target="personnage_hh.html#2_hylas">Hylas</ref> du foudre de Taramis quand elle apprend qu'il est tombé amoureux d'une fille druide. La réplique d'<ref target="personnage_hh.html#2_hylas">Hylas</ref> dit sa mauvaise foi : tous les êtres humains appartiennent à Taramis (<ref target="../_roman/reference/21_2/21_2_livre_12.html#890">II, 12, 890</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Taramis</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#taramis">I</ref>, <ref target="#2_taramis">II</ref>, <ref target="#3_taramis">III</ref>, <ref target="#4_taramis">IV</ref>
+          
+          Mythologie. Écrit <hi rend="italic">Tharamis</hi>. <lb/>
+          Nommé onze fois dans la troisième partie, Taramis a une caractéristique notable : il est invoqué par le roi des <ref target="repertoire_bb.html#3_bourguignons">Bourguignons</ref> avec <ref target="#3_tautates">Tautatès</ref> ! La religion astréenne n'est plus limitée au <ref target="repertoire_ff.html#3_forez">Forez</ref>.<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#3_adamas">Adamas</ref>, en parlant avec <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>, nomme Taramis en exposant  les facettes du dieu unique : <lb/>
+          Les <ref target="repertoire_gg.html#3_gaulois">Gaulois</ref> n'adorent « qu'un <hi rend="upper">Dieu</hi>, soubs
+          les noms de <ref target="#3_tautates">Thautates</ref>, <ref target="repertoire_hh.html#3_hesus">Hesus</ref>, Tharamis, et <ref target="repertoire_bb.html#3_belenus">Bellenus</ref> »  (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_verso">III, 2, 27 verso</ref>). Le druide déclare (en faisant fi de la grammaire) : « C'est à toy,
+          ô grand <ref target="repertoire_hh.html#3_hesus">Hesus</ref>, <ref target="repertoire_bb.html#3_belenus">Bellenus</ref>, Tharamis ... » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#372_recto">III, 9, 372 recto</ref>). Il explique que la spécialité de Taramis est de nettoyer et purger (<ref target="../_roman/reference/21_3/21_3_livre_9.html#372_recto">III, 9, 372 recto</ref>), c'est-à-dire qu'il est « repurgeant » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#373_verso">III, 9, 373 verso</ref>). <lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#3_astree">Astrée</ref> invoque
+          « <ref target="repertoire_hh.html#3_hesus">Hesus</ref>, Tharamis et <ref target="repertoire_bb.html#3_belenus">Bellenus</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_5.html#174_recto">III, 5, 174 recto</ref>).<lb/>
+          <lb/>
+          • Les pêcheurs remercient les dieux  qui ont sauvé <ref target="personnage_dd.html#3_damon_a">Damon</ref>, « <ref target="#3_tautates">Thautates</ref>, <ref target="repertoire_hh.html#3_hesus">Hesus</ref>, Tharamis, et <ref target="repertoire_bb.html#3_belenus">Bellenus</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_6.html#239_recto">III, 6, 239 recto</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_cc.html#3_celadon">Céladon</ref> considère que c'est Taramis qui lui a donné le contentement de voir <ref target="personnage_aa.html#3_astree">Astrée</ref> endormie (<ref target="../_roman/reference/21_3/21_3_livre_5.html#186_recto">III, 5, 186 recto</ref>). <ref target="personnage_aa.html#3_adamas">Adamas</ref> ajoute que Taramis - qui lui a rendu un oracle - mène les choses à bonne fin (<ref target="../_roman/reference/21_3/21_3_livre_5.html#186_verso">III, 5, 186 verso</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> souhaite que Taramis purifie son amour pour <ref target="personnage_dd.html#3_diane">Diane</ref> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#396_recto">III, 9, 396 recto</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> espère que Taramis va l'aider à gagner <ref target="personnage_cc.html#3_criseide">Criséide</ref>. La jeune fille répond que ce dieu étant juste ne peut pas soutenir une injustice (<ref target="../_roman/reference/21_3/21_3_livre_8.html#358_recto">III, 8, 358 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_mythe">
+                Taramis</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#taramis">I</ref>, <ref target="#2_taramis">II</ref>, <ref target="#3_taramis">III</ref>, <ref target="#4_taramis">IV</ref>
+          
+          • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> prie un dieu unique qui porte deux noms :  le « souverain <ref target="#4_tautates">Tautates</ref>, Tharamis », divinité qui
+          reconnaît le vrai (<ref target="../_roman/reference/24_4/24_4_livre_2.html#169">IV, 2, 169</ref>). <lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#4_alexis">Alexis</ref> prête serment en énumérant  les quatre noms du dieu unique  (<ref target="../_roman/reference/24_4/24_4_livre_3.html#574">IV, 3, 574</ref>). <lb/>
+          <lb/>
+          <p>Ils sont sujets d'un verbe au singulier.</p>
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#99FFFF;">
+                Tasse (Le)</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#tasse">I</ref>
+          
+          Torquato Tasso. Poète italien (1544 - 1595) auquel on doit, entre autres chefs-d'œuvre, <hi rend="italics">la Jérusalem délivrée</hi>.<lb/>
+          Dans l'avis « Au lecteur » de <hi rend="italics">
+                  <ref target="bibliographie.html#sylvanire">La Sylvanire</ref>
+                </hi>, d'Urfé dira son admiration pour ce poète qu'il cite    dans ses <ref target="bibliographie.html#epistres">
+                  <hi rend="italics">Epistres morales </hi>
+                </ref>(I, 15, p. 138) et dans <hi rend="italics">
+                  <ref target="bibliographie.html#sylvanire">La Sylvanire</ref>
+                </hi> (p. 8). On a retrouvé un exemplaire annoté par d'Urfé de la dernière <hi rend="italic">Jérusalem</hi> du Tasse, <hi rend="italic">La Gerusalemme conquistata </hi>(<ref target="bibliographie.html#ducimetiere">Ducimetière</ref>, p. 768). En 1617, une somptueuse édition illustrée in-folio est dédiée au duc de Savoie<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#altesse">η</ref>. <lb/>
+          <lb/>
+          •          Honoré d'Urfé cite des vers de la pastorale de l'<hi rend="italics">
+                  <ref target="repertoire_aa.html#aminte">Aminte</ref>
+                </hi>, sans nommer leur auteur, Le Tasse (<ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                  <hi rend="italic">L'Autheur à la Bergere Astrée</hi>
+                </ref>). <lb/>
+          <lb/>
+          • Après Mme <ref target="bibliographie.html#banti">Banti</ref> et Maurice <ref target="bibliographie.html#magendie">Magendie</ref> (p. 164 sq.), bien des critiques ont  rapproché l'œuvre de d'Urfé et celle de son prédécesseur.<lb/>
+          <lb/>
+          • On trouve dans ce <ref target="http://www.nndb.com/people/751/000096463/">site</ref> un portrait du Tasse (30 septembre 2010). Voir <ref target="galerie.html#letasse">Galerie des portraits</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Taurinois</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_taurinois">III</ref>
+          
+          « Les Taurinois estoient des Peuples puissants et considerables », peut-être venus de <ref target="repertoire_ll.html#3_ligurie">Ligurie</ref>. Ils habitaient le Pays qui est entre le <ref target="repertoire_pp.html#3_po">Pô</ref> et la petite <ref target="repertoire_dd.html#3_doire">Doire</ref>.
+          Ils ont donné leur nom au duché des Taurinois,  et à Turin, capitale du Piémont (<ref target="bibliographie.html#guichenon">Guichenon</ref>, I, p. 12).<lb/>
+          <lb/>
+          • Les Taurinois sont les voisins des <ref target="repertoire_ss.html#3_salasses">Salasses</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#283_verso">III, 7, 283 verso</ref>). <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> les attaque (<ref target="../_roman/reference/21_3/21_3_livre_7.html#330_recto">III, 7, 330 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Tautates</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#tautates">I</ref>, <ref target="#2_tautates">II</ref>, <ref target="#3_tautates">III</ref>, <ref target="#4_tautates">IV</ref>
+          
+          Mythologie. Écrit <hi rend="italic">Thautates</hi>, <hi rend="italic">Theutates</hi> et <hi rend="italic">Teutates</hi>. Divinité celte. Dans le <hi rend="italic">Recueil des Antiquitez Gauloises</hi>, <ref target="bibliographie.html#fauchetr">Fauchet</ref> rappelle que Jules César a décrit la théologie gauloise : « Ils adoroient pardessus tous les Dieux <ref target="repertoire_mm.html#mercure">Mercure</ref>, appellé en leur langue Teutates [...] Apres luy <ref target="repertoire_aa.html#apollon">Apolon</ref>, <ref target="repertoire_mm.html#2_mars">Mars</ref>, <ref target="repertoire_ik.html#jupiter">Jupiter</ref>, nommez par eux <ref target="repertoire_bb.html#belenus">Belenus</ref>, <ref target="repertoire_hh.html#hesus">Hesus</ref> ou Heus, <ref target="#taramis">Teramis</ref> : Minerve en estoit aussi » (f° 4 verso).<lb/>
+          <lb/>
+          <p>Les divinités gauloises  n'apparaissent pas dans l'édition anonyme de 1607.</p>
+          <lb/>
+          • Dans les éditions qui suivent celle de 1607, Tautatès remplace <ref target="repertoire_hh.html#hymen">Hymen</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#158_verso">I, 6, 158 verso</ref>), <ref target="repertoire_pp.html#pan">Pan</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#179_verso">I, 6, 179 verso</ref>) et <ref target="repertoire_mm.html#mercure">Mercure</ref> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#347_verso">I, 10, 347 verso</ref>). <lb/>
+          <lb/>
+          •          D'Urfé expliquera en 1610, dans la seconde partie de <hi rend="italics">L'Astrée</hi> (livre 8), la théologie de son <ref target="repertoire_ff.html#forez">Forez</ref>. Le druide <ref target="personnage_aa.html#adamas">Adamas</ref> expose alors un système d'équivalences. <lb/>
+          <lb/>
+          « <ref target="repertoire_aa.html#apollon">Apollon</ref> est le <ref target="repertoire_bb.html#belenus">Bélénus</ref> gaulois, le Dieu homme, le Fils. <ref target="repertoire_mm.html#2_mars">Mars</ref> est le <ref target="repertoire_hh.html#hesus">Hésus</ref> gaulois, le Dieu fort, le Père. <ref target="repertoire_ik.html#jupiter">Jupiter</ref> est le <ref target="#taramis">Taramis</ref> gaulois, le Dieu 'répurgeant' (de <hi rend="italics">repurger, nettoyer</hi>), le Saint-Esprit. Tautatès, le Dieu unique, porte donc trois surnoms » <lb/>
+            (<ref target="bibliographie.html#heneinp">Henein</ref>, p. 54). <lb/>
+            Au nom du Père, du Fils et du Saint-Esprit ...
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Tautates</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#tautates">I</ref>, <ref target="#2_tautates">II</ref>, <ref target="#3_tautates">III</ref>, <ref target="#4_tautates">IV</ref>
+          
+          Mythologie.
+          Écrit <hi rend="italics">Theutates, Teutates, Thautates, Thautes, Tautate</hi>. « Teutatès (dérivé peut-être d'une forme non  attestée <hi rend="italic">teuto-tatis</hi> qui signifierait « père de la tribu »).  Certainement dérivé du mot celtique pour la tribu (<hi rend="italic">teuta</hi> ou <hi rend="italic">touta</hi>). C'est le  dieu protecteur d'une communauté dont l'unité se manifeste avant tout sous les  armes. Assimilé à <ref target="repertoire_mm.html#3_mars">Mars</ref> à l'époque romaine » (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 839).<lb/>
+          <lb/>
+          • Nommé cinquante-trois fois dans la deuxième partie, ce dieu gaulois est à la tête du quatuor divin : « Tautatès, <ref target="repertoire_hh.html#2_hesus">Hesus</ref>, <ref target="#2_taramis">Taramis</ref>, <ref target="repertoire_bb.html#2_belenus">Belenus</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>), car les trois autres divinités sont ses « surnoms » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#512">II, 8, 512</ref>). Tautatès est  le premier dieu<hi rend="cache"> </hi>
+                <ref target="note_2.html#2_dieu">η</ref> gaulois nommé  (<ref target="../_roman/reference/21_2/21_2_livre_1.html#35">II, 1, 35</ref>).   « Tautatès, c'est-à-dire Dieu », déclare <ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#516">II, 8, 516</ref>).  Saint <ref target="personnage_aa.html#2_augustin">Augustin</ref> « n'adoroit qu'un seul Theutates », affirme même le druide (<ref target="../_roman/reference/21_2/21_2_livre_11.html#761">II, 11, 761</ref>). <lb/>
+          <lb/>
+          • Tautatès est souvent nommé seul (<ref target="../_roman/reference/21_2/21_2_livre_8.html#495">II, 8, 495</ref> par exemple). C'est lui qui contrôle le destin des hommes (<ref target="../_roman/reference/21_2/21_2_livre_1.html#44">II, 1, 44</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_1.html#45">II, 1, 45</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#463">II, 7, 463</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_11.html#686">II, 11, 686</ref>). Il  leur envoie ce qu'ils désirent (<ref target="../_roman/reference/21_2/21_2_livre_11.html#674">II, 11, 674</ref>) ou ce qu'ils méritent (<ref target="../_roman/reference/21_2/21_2_livre_11.html#695">II, 11, 695</ref>). C'est à lui que les druidesses se consacrent (<ref target="../_roman/reference/21_2/21_2_livre_11.html#699">II, 11, 699</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_11.html#735">II, 11, 735</ref>). C'est aussi lui qui protège les druides (<ref target="../_roman/reference/21_2/21_2_livre_8.html#514">II, 8, 514</ref>).<lb/>
+          <lb/>
+          • Tautatès est symbolisé par le chêne à trois branches
+          (<ref target="../_roman/reference/21_2/21_2_livre_5.html#290">II, 5, 290</ref>) qui se trouve dans le bocage  qui lui est consacré  (<ref target="../_roman/reference/21_2/21_2_livre_8.html#516">II, 8, 516</ref>). Dans le temple de <ref target="repertoire_mm.html#2_montverdun">Montverdun</ref>, aucune porte ne lui est dédiée, mais c'est lui qui doit accepter les prières des suppliants (<ref target="../_roman/reference/21_2/21_2_livre_8.html#495">II, 8, 495</ref>). <lb/>
+          <lb/>
+          • Les  attributions de Tautatès sont multiples, puisque
+          les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> l'invoquent au début et à la fin de toutes leurs actions. Patron de l'éloquence, des arts et du commerce (<ref target="../_roman/reference/21_2/21_2_livre_8.html#511">II, 8, 511</ref>), il a pour  homologue le dieu <ref target="repertoire_mm.html#2_mercure">Mercure</ref> quand les usurpateurs forcent les druides à représenter leurs divinités avec les figures et les noms des dieux païens  (<ref target="../_roman/reference/21_2/21_2_livre_8.html#514">II, 8, 514</ref>).<lb/>
+          <lb/>
+          • Pour décrire Tautatès à <ref target="personnage_cc.html#2_celadon">Céladon</ref>, <ref target="personnage_aa.html#2_adamas">Adamas</ref> propose une synthèse qui confond la religion gauloise avec  le christianisme : Il y a « le Pere, le Dieu homme [qui] est le Fils, et  l'Amour de tous les deux, et tous trois ne font qu'un <ref target="#2_tautates">Teutates</ref>,  c'est à dire un Dieu, et c'est  la mere de ce Dieu homme » que les Druides appellent la Vierge qui enfantera<hi rend="cache"> </hi>
+                <ref target="note_2.html#2_enfanter">η</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#517">II, 8, 517</ref>). <lb/>
+          <lb/>
+          • <ref target="personnage_tt.html#2_thamire">Thamire</ref> invoque Tautatès et les dieux gaulois, car il  voudrait les apaiser par des sacrifices pour obtenir la guérison de <ref target="personnage_cc.html#2_calidon">Calidon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#44">II, 1, 44</ref>).<lb/>
+          <lb/>
+          • Quatre hommes jurent par Tautatès : <lb/>
+          <ref target="personnage_cc.html#2_calidon">Calidon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#80">II, 2, 80</ref>), <ref target="personnage_hh.html#2_hylas">Hylas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#418">II, 6, 418</ref>), <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#482">II, 7, 482</ref>)  et <ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#520">II, 8, 520</ref>). <lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> nomme Tautatès pour expliquer que, malgré la distance qui sépare Dieu des hommes, Dieu demande qu'on l'aime (<ref target="../_roman/reference/21_2/21_2_livre_9.html#609">II, 9, 609</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Tautates</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#tautates">I</ref>, <ref target="#2_tautates">II</ref>, <ref target="#3_tautates">III</ref>, <ref target="#4_tautates">IV</ref>
+          
+          Mythologie. Écrit <hi rend="italic">Thautates</hi>.<lb/>
+          Nommé quatre-vingt-onze fois dans la troisième partie, « le grand Tautatès » reste la synthèse du quatuor divin astréen, « Thautates, <ref target="repertoire_hh.html#3_hesus">Hesus</ref>, <ref target="#3_taramis">Tharamis</ref>, et <ref target="repertoire_bb.html#3_belenus">Bellenus</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_verso">III, 2, 27 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_5.html#174_recto">III, 5, 174 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_6.html#239_recto">III, 6, 239 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_9.html#372_recto">III, 9, 372 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_9.html#373_verso">III, 9, 373 verso</ref>). Il est aussi et surtout  reconnu « seul et unique Dieu » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#372_recto">III, 9, 372 recto</ref>). Les <ref target="repertoire_gg.html#3_gaulois">Gaulois</ref> n'adorent « qu'un <hi rend="upper">Dieu</hi>, soubs
+          les noms de Thautates, <ref target="repertoire_hh.html#3_hesus">Hesus</ref>, <ref target="#3_taramis">Tharamis</ref>, et <ref target="repertoire_bb.html#3_belenus">Bellenus</ref> »  (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_verso">III, 2, 27 verso</ref>). Tautatès ressemble tellement au Dieu des chrétiens
+          qu'on le vénère hors du <ref target="repertoire_ff.html#3_forez">Forez</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#238_recto">III, 6, 238 recto</ref>) et qu'on  lui sacrifie le pain et le vin (<ref target="../_roman/reference/21_3/21_3_livre_5.html#174_recto">III, 5, 174 recto</ref>). Ceux qui le prient   sacrifient des taureaux (<ref target="../_roman/reference/21_3/21_3_livre_6.html#232_recto">III, 6, 232 recto</ref>) ou cherchent des présages dans leurs entrailles  (<ref target="../_roman/reference/21_3/21_3_livre_8.html#358_verso">III, 8, 358 verso</ref>).<lb/>
+          <lb/>
+          <p>À cause du traitement de Tautatès, la troisième partie recèle un catéchisme digne des idéaux de la Contre-réforme.</p>
+          <lb/>
+          • Tautatès
+          est confondu  avec <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> quand il est considéré le père des prières (<ref target="../_roman/reference/21_3/21_3_livre_10.html#411_verso">III, 10, 411 verso</ref>).<lb/>
+          <lb/>
+          • Tautatès
+          est confondu  avec <ref target="repertoire_aa.html#3_amour">Amour</ref>, le premier dieu sorti du chaos (<ref target="../_roman/reference/21_3/21_3_livre_10.html#413_verso">III, 10, 413 verso</ref>). Il est  appelé  « Tautatès <ref target="repertoire_aa.html#3_amour">Amour</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_10.html#414_recto">III, 10, 414 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_11.html#487_recto">III, 11, 487 recto</ref>).<lb/>
+          <lb/>
+          • Tautatès est associé à la providence (<ref target="../_roman/reference/21_3/21_3_livre_1.html#12_verso">III, 1, 12 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#502_verso">III, 12, 502 verso</ref>), à la <ref target="repertoire_ff.html#3_fortune_dieu">fortune</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#233_recto">III, 6, 233 recto</ref>),  à la prudence (<ref target="../_roman/reference/21_3/21_3_livre_3.html#60_recto">III, 3, 60 recto</ref>), et à la prévoyance (<ref target="../_roman/reference/21_3/21_3_livre_12.html#544_recto">III, 12, 544 recto</ref>). Maître du futur (<ref target="../_roman/reference/21_3/21_3_livre_9.html#392_recto">III, 9, 392 recto</ref>), il envoie des présages et des pressentiments (<ref target="../_roman/reference/21_3/21_3_livre_11.html#461_recto">III, 11, 461 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#542_recto">III, 12, 542 recto</ref>). Se désespérer, c'est l'offenser (<ref target="../_roman/reference/21_3/21_3_livre_1.html#12_verso">III, 1, 12 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_6.html#240_verso">III, 6, 240 verso</ref>). <lb/>
+          <lb/>
+          • Tautatès est bon (<ref target="../_roman/reference/21_3/21_3_livre_1.html#13_verso">III, 1, 13 verso</ref>). Il distribue  faveurs  et récompenses (<ref target="../_roman/reference/21_3/21_3_livre_1.html#13_recto">III, 1, 13 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_6.html#236_verso">III, 6, 236 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_9.html#406_verso">III, 9, 406 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_11.html#457_recto">III, 11, 457 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_11.html#458_recto">III, 11, 458 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#536_recto">III, 12, 536 recto</ref>).   Il aime les hommes (<ref target="../_roman/reference/21_3/21_3_livre_6.html#238_verso">III, 6, 238 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_11.html#457_recto">III, 11, 457 recto</ref>) : leurs prières le touchent (<ref target="../_roman/reference/21_3/21_3_livre_11.html#459_recto">III, 11, 459 recto</ref>). Il soutient les malheureux (<ref target="../_roman/reference/21_3/21_3_livre_5.html#211_verso">III, 5, 211 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#494_recto">III, 12, 494 recto</ref>). Il supporte les pécheurs (<ref target="../_roman/reference/21_3/21_3_livre_6.html#231_recto">III, 6, 231 recto</ref>),  leur pardonne (<ref target="../_roman/reference/21_3/21_3_livre_12.html#494_verso">III, 12, 494 verso</ref>) ou les châtie (<ref target="../_roman/reference/21_3/21_3_livre_12.html#545_verso">III, 12, 545 verso</ref>). <lb/>
+          <lb/>
+          • Tautatès agit « pour nostre mieux » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#60_verso">III, 3, 60 verso</ref>), mais il est  aussi juste (<ref target="../_roman/reference/21_3/21_3_livre_6.html#237_verso">III, 6, 237 verso</ref>). Il
+          châtie le peuple pour les fautes du prince et le prince pour les fautes du peuple (<ref target="../_roman/reference/21_3/21_3_livre_6.html#231_recto">III, 6, 231 recto</ref>).<lb/>
+          <lb/>
+          • Tautatès est tout-puissant (<ref target="../_roman/reference/21_3/21_3_livre_2.html#55_verso">III, 2, 55 verso</ref>) et omniprésent (<ref target="../_roman/reference/21_3/21_3_livre_9.html#385_verso">III, 9, 385 verso</ref>).                    Suprême créateur (<ref target="../_roman/reference/21_3/21_3_livre_5.html#203_recto">III, 5, 203 recto</ref>), par amour, il a  fait l'univers (<ref target="../_roman/reference/21_3/21_3_livre_4.html#168_verso">III, 4, 168 verso</ref>). Il a créé l'homme pour qu'il l'aime et le serve (<ref target="../_roman/reference/21_3/21_3_livre_10.html#414_recto">III, 10, 414 recto</ref>).
+          Tautatès donne à chacun sa condition (<ref target="../_roman/reference/21_3/21_3_livre_11.html#455_recto">III, 11, 455 recto</ref>). Il   fait  la beauté (<ref target="../_roman/reference/21_3/21_3_livre_1.html#23_verso">III, 1, 23 verso</ref>), et  offre le jugement (<ref target="../_roman/reference/21_3/21_3_livre_2.html#52_recto">III, 2, 52 recto</ref>).
+          Il organise la communication de manière à ce que  paroles et actions se complètent (<ref target="../_roman/reference/21_3/21_3_livre_10.html#412_verso">III, 10, 412 verso</ref>).
+          Au Ciel, il reçoit les âmes immortelles (<ref target="../_roman/reference/21_3/21_3_livre_3.html#90_recto">III, 3, 90 recto</ref>). <lb/>
+          <lb/>
+          • Le <ref target="personnage_dd.html#3_druide">Druide</ref> qui vit en ermite sur les rives de la <ref target="repertoire_gg.html#3_garonne">Garonne</ref> est « un vray amy de Tautates » (<ref target="../_roman/reference/21_3/21_3_livre_6.html#237_recto">III, 6, 237 recto</ref>), car le dieu apprécie la voie de la contemplation (<ref target="../_roman/reference/21_3/21_3_livre_9.html#401_verso">III, 9, 401 verso</ref>).
+          Noé aussi est « ce grand amy de Tautates » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#373_recto">III, 9, 373 recto</ref>).<lb/>
+          <lb/>
+          • A <ref target="repertoire_bb.html#3_bonlieu">Bonlieu</ref>, un bocage  est consacré à Tautatès (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_recto">III, 2, 27 recto</ref>).<lb/>
+          <lb/>
+          • Tautatès  a fait pousser le gui sacré dans le hameau des bergers du <ref target="repertoire_ll.html#3_lignon">Lignon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#171_verso">III, 5, 171 verso</ref>) ; c'est une grande grâce (<ref target="../_roman/reference/21_3/21_3_livre_5.html#208_recto">III, 5, 208 recto</ref>). Le dieu recevra donc un sacrifice d'action de grâces (<ref target="../_roman/reference/21_3/21_3_livre_5.html#209_recto">III, 5, 209 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_6.html#260_recto">III, 6, 260 recto</ref>) qui ne doit pas être retardé (<ref target="../_roman/reference/21_3/21_3_livre_9.html#369_recto">III, 9, 369 recto</ref>). Le sacrifice (mi-païen, mi-chrétien) est décrit (<ref target="../_roman/reference/21_3/21_3_livre_9.html#371_recto">III, 9, 371 recto</ref> à <ref target="../_roman/reference/21_3/21_3_livre_9.html#372_verso">III, 9, 372 verso</ref>), puis rappelé (<ref target="../_roman/reference/21_3/21_3_livre_11.html#451_verso">III, 11, 451 verso</ref>). Durant ce sacrifice, le dieu a donné des marques de  sa bienveillance (<ref target="../_roman/reference/21_3/21_3_livre_11.html#452_recto">III, 11, 452 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_11.html#485_verso">III, 11, 485 verso</ref>). <lb/>
+          <lb/>
+          • Tautatès rend les oracles à <ref target="repertoire_mm.html#3_montverdun">Montverdun</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#228_recto">III, 6, 228 recto</ref>) pour détourner les hommes de ce qui leur nuit (<ref target="../_roman/reference/21_3/21_3_livre_6.html#230_verso">III, 6, 230 verso</ref>), parce qu'il préfère ne pas avoir à les châtier (<ref target="../_roman/reference/21_3/21_3_livre_6.html#230_verso">III, 6, 230 verso</ref>). C'est aussi lui qui a rendu un oracle à <ref target="personnage_cc.html#3_criseide">Criséide</ref>, dans le pays des <ref target="repertoire_ss.html#3_salasses">Salasses</ref>, à travers une druide anonyme et nomade (<ref target="../_roman/reference/21_3/21_3_livre_7.html#283_verso">III, 7, 283 verso</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#3_adamas">Adamas</ref> considère que c'est Tautatès qui a rendu un oracle à <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> et <ref target="personnage_aa.html#3_alcidon">Alcidon</ref>, en <ref target="repertoire_aa.html#3_aquitaine">Aquitaine</ref> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#161_recto">III, 4 161 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_4.html#169_recto">III, 4, 169 recto</ref>). Le dieu peut donc leur ordonner de se réconcilier. <lb/>
+          <lb/>
+          • Tautatès a établi <ref target="personnage_aa.html#3_adamas">Adamas</ref> juge du <ref target="repertoire_ff.html#3_forez">Forez</ref> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#167_verso">III, 4, 167 verso</ref>). Il lui a confié <ref target="personnage_cc.html#3_celadon">Céladon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#186_verso">III, 5, 186 verso</ref>), et l'a probablement rendu responsable de l'avenir de <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#418_verso">III, 10, 418 verso</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_dd.html#3_damon_a">Damon d'Aquitaine</ref> jure par « le grand Tautatès » (<ref target="../_roman/reference/21_3/21_3_livre_6.html#243_verso">III, 6, 243 verso</ref>) et se remet entre ses mains (<ref target="../_roman/reference/21_3/21_3_livre_6.html#244_recto">III, 6, 244 recto</ref>). <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#277_verso">III, 7, 277 verso</ref>), <ref target="personnage_hh.html#3_hylas">Hylas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#281_recto">III, 7, 281 recto</ref>) et le roi <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#357_verso">III, 8, 357 verso </ref>; <ref target="../_roman/reference/21_3/21_3_livre_8.html#365_verso">III, 8, 365 verso</ref>) invoquent aussi Tautatès.<lb/>
+          <lb/>
+          Il n'est pas vrai que <lb/>
+            « la religion assure l'unité politique du petit royaume forézien » <lb/>
+          (<ref target="bibliographie.html#gaume_magie">Gaume</ref>, p. 380).
+          <lb/>
+          • <ref target="personnage_aa.html#3_astree">Astrée</ref>, importunée par <ref target="personnage_cc.html#3_calidon">Calidon</ref>, jure qu'elle n'aimera plus que Tautatès (<ref target="../_roman/reference/21_3/21_3_livre_5.html#215_recto">III, 5, 215 recto</ref>). Quand elle se retirera auprès des druides, elle s'abandonnera entre les mains de ce dieu (<ref target="../_roman/reference/21_3/21_3_livre_11.html#484_verso">III, 11, 484 verso</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_cc.html#3_childeric">Childéric</ref> déclare qu'il s'opposerait même à Tautatès pour l'amour de <ref target="personnage_ss.html#3_silviane">Silviane</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#533_verso">III, 12, 533 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Tautatès</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#tautates">I</ref>, <ref target="#2_tautates">II</ref>, <ref target="#3_tautates">III</ref>, <ref target="#4_tautates">IV</ref>
+          
+          Écrit une fois <hi rend="italic">Tantales</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#91">IV, 1, 91</ref>). Coquille que <ref target="repertoire_bb.html#3_baro">Baro</ref> corrige dans son édition  (<ref target="bibliographie.html#1627">1627</ref>, 2, p. 109).<lb/>
+          <lb/>
+          Nommé bien plus souvent que les trois autres divinités celtes,  Tautatès est le dieu unique - quelquefois il semble signifier Dieu tout court.<lb/>
+          <lb/>
+          <table rend="center_o" style="width:35%; border:1px;">
+                  <row>
+                    <cell colspan="1" rowspan="1">Tautatès</cell>
+                    <cell colspan="1" rowspan="1">38 fois</cell>
+                  </row>
+                  <row>
+                    <cell colspan="1" rowspan="1">
+                      <ref target="repertoire_hh.html#4_hesus">Hésus</ref>
+                    </cell>
+                    <cell colspan="1" rowspan="1">6 fois</cell>
+                  </row>
+                  <row>
+                    <cell colspan="1" rowspan="1">
+                      <ref target="#4_taramis">Taramis</ref>
+                    </cell>
+                    <cell colspan="1" rowspan="1">2 fois</cell>
+                  </row>
+                  <row>
+                    <cell colspan="1" rowspan="1">
+                      <ref target="repertoire_bb.html#4_belenus">Bélénus</ref>
+                    </cell>
+                    <cell colspan="1" rowspan="1">2 fois</cell>
+                  </row>
+                </table>
+          <lb/>
+          • Première divinité nommée (<ref target="../_roman/reference/24_4/24_4_livre_1.html#15">IV, 1, 15</ref>). C'est à son service qu'<ref target="personnage_aa.html#4_astree">Astrée</ref> prétend entrer.  Nul ne peut empêcher une femme de se dédier à lui (<ref target="../_roman/reference/24_4/24_4_livre_1.html#15">IV, 1, 15</ref>).<lb/>
+          <lb/>
+          • Ce dieu est juxtaposé au dieu <ref target="repertoire_aa.html#4_amour">Amour</ref>, et même confondu avec lui. On lit donc <hi rend="italic">Tautates <ref target="repertoire_aa.html#4_amour">Amour</ref>
+                </hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#35">IV, 1, 35</ref>) ou <ref target="repertoire_aa.html#4_amour">
+                  <hi rend="italic">Amour</hi>
+                </ref>
+                <hi rend="italic"> Tautates</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#36">IV, 1, 36</ref>).<lb/>
+          <lb/>
+          • Selon <ref target="personnage_aa.html#4_astree">Astrée</ref>, Tautatès <ref target="repertoire_aa.html#4_amour">Amour</ref> dispose de deux  châtiments : soit encourir la haine des hommes et des femmes, soit s'exposer à la cruauté de bêtes farouches<hi rend="cache"> </hi>
+                <ref target="note_4.html#4_betes_farouches">η</ref> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#36">IV, 1, 36</ref>).<lb/>
+          <lb/>
+          • Le service de Tautatès est sacré. Les personnes pieuses ne s'y opposent pas (<ref target="../_roman/reference/24_4/24_4_livre_1.html#91">IV, 1, 91</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> prie un dieu unique qui porte deux noms :  le « souverain Tautates, <ref target="#4_taramis">Tharamis</ref> »  (<ref target="../_roman/reference/24_4/24_4_livre_2.html#169">IV, 2, 169</ref>). <lb/>
+          <lb/>
+          • L'autorité du père sur ses enfants vient de Tautates, déclare <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, et le dieu punit le père qui abuse de ses droits (<ref target="../_roman/reference/24_4/24_4_livre_2.html#305">IV, 2, 305</ref>). <lb/>
+          <lb/>
+          Nouveau point de vue :<lb/>
+            Lorsque les bergères discutaient des droits des parents,<lb/>
+il n'était pas question des dieux <lb/>
+            (<ref target="../_roman/reference/21_3/21_3_livre_5.html#188_verso">III, 5, 188 verso</ref>). 
+          <lb/>
+          • Selon <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, on est en droit de désobéir au Roi soit pour conserver son honneur, soit  pour obéir à Tautatès (<ref target="../_roman/reference/24_4/24_4_livre_2.html#310">IV, 2, 310</ref>). <lb/>
+          <lb/>
+          • Abandonnée par <ref target="personnage_mm.html#4_merindor">Mérindor</ref>, <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> jure par Tautatès de se méfier de tous les hommes (<ref target="../_roman/reference/24_4/24_4_livre_2.html#361">IV, 2, 361</ref>).<lb/>
+          <lb/>
+          • Pour défendre les hommes auprès de <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, <ref target="personnage_aa.html#4_alexis">Alexis</ref> déclare que Tautatès ne peut pas avoir juxtaposé aux femmes des créatures sans aucune qualité (<ref target="../_roman/reference/24_4/24_4_livre_3.html#405">IV, 3, 405</ref>).<lb/>
+          <lb/>
+          • Les druides enseignent que le seul temple digne de Tautatès est en plein air (<ref target="../_roman/reference/24_4/24_4_livre_3.html#473">IV, 3, 473</ref>).<lb/>
+          <lb/>
+          • Les <ref target="repertoire_gg.html#4_gaulois">Gaulois</ref> adorent Tautatès et rejettent  les fables des <ref target="repertoire_gg.html#4_grecs">Grecs</ref> que les <ref target="repertoire_gg.html#4_galloligures">Gallo-Ligures</ref> ont adoptées (<ref target="../_roman/reference/24_4/24_4_livre_3.html#480">IV, 3, 480</ref>). <lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> explique que se tuer c'est offenser Tautates, le potier<hi rend="cache"> </hi>
+                <ref target="note_4.html#4_bible">η</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#517">IV, 3, 517</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#4_alexis">Alexis</ref> prête serment en énumérant  les quatre noms du dieu unique ; ils sont sujets d'un verbe au singulier (<ref target="../_roman/reference/24_4/24_4_livre_3.html#574">IV, 3, 574</ref>). Tautatès est le dernier nommé.<lb/>
+          <lb/>
+          • Un <ref target="glossaire_uz.html#vacie">vacie</ref> rappelle que Tautatès donne des indices qui justifient les présages néfastes (<ref target="../_roman/reference/24_4/24_4_livre_3.html#586">IV, 3, 586</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> déclare qu'il adore <ref target="personnage_dd.html#4_diane">Diane</ref> en terre, et Tautatès au Ciel (<ref target="../_roman/reference/24_4/24_4_livre_3.html#630">IV, 3, 630</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#4_sigismond">Sigismond</ref> jure par Tautatès pour dire la pureté de ses intentions (<ref target="../_roman/reference/24_4/24_4_livre_4.html#823">IV, 4, 823</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#4_arcingentorix">Arcingentorix</ref>, à l'article de la mort, prie Tautatès de donner un guide à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#844">IV, 4, 844</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#4_sigismond">Sigismond</ref> jure par Tautatès qu'il respectera <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> et attendra le mariage (<ref target="../_roman/reference/24_4/24_4_livre_4.html#878">IV, 4, 878</ref>).<lb/>
+          <lb/>
+          Dans une situation similaire, <lb/>
+          <ref target="personnage_aa.html#3_arimant">Arimant</ref> en appelait plutôt à<lb/>
+          « <ref target="repertoire_hh.html#3_hymen">Hymen</ref> et la  Nopciere <ref target="repertoire_ik.html#3_junon">Juno</ref> »<lb/>
+          (<ref target="../_roman/reference/21_3/21_3_livre_7.html#298_recto">III, 7, 298 recto</ref>). 
+          <lb/>
+          • Le <ref target="personnage_uz.html#4_vieux_homme">Vieil homme</ref> demande conseil à Tautatès et recommande à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> de faire de même (<ref target="../_roman/reference/24_4/24_4_livre_4.html#908">IV, 4, 908</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Tectosages</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_tectosages">III</ref>
+          
+          Peuple qui cherche un toit, d'après l'étymologie de son nom (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 71). <ref target="bibliographie.html#strabon">Strabon</ref> consacre un long développement à cette nation qui fut puissante. « Leurs  possessions partent du mont <ref target="repertoire_pp.html#3_pyrenees">Pyréné</ref> et empiètent même quelque peu sur le versant  septentrional des monts <ref target="repertoire_cc.html#3_cemene">Cemmènes</ref> ». On dit que les Tectosages ont participé à l'expédition contre Delphes et caché dans la ville de <ref target="#3_toulouse">Toulouse</ref> l'or qu'ils avaient volé. Mais les 15 000 talents retrouvés ensuite représentent une somme que Delphes ne pouvait pas posséder  à l'époque de l'invasion, note <ref target="bibliographie.html#strabon">Strabon</ref> (IV, 13). D'après Trogue Pompée, les Tectosages atteints de la peste ont dû jeter les biens mal acquis dans les lacs (cité par D. <ref target="bibliographie.html#roman">Roman</ref>, p. 224). Voir Or du temple<hi rend="cache"> </hi>
+                <ref target="note_2.html#2_or_du_temple">η</ref> et <ref target="repertoire_uz.html#3_ville_des_tectosages">Ville des Tectosages</ref>.<lb/>
+          <lb/>
+          • <ref target="personnage_tt.html#3_torrismond">Torrismond</ref>,  roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref>, revient auprès des Tectosages, son peuple (<ref target="../_roman/reference/21_3/21_3_livre_6.html#261_recto">III, 6, 261 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Tesin</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_tesin">III</ref>
+          
+          Le Tessin est un affluent de la rive gauche du <ref target="repertoire_pp.html#3_po">Pô</ref> qui se jette dans le lac Majeur.<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#3_arimant">Arimant</ref> traverse cette rivière pour se rendre auprès de <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#315_verso">III, 7, 315 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Tetis</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#thetis">I</ref>
+          
+          Mythologie.
+          Thétis, la mère d'<ref target="repertoire_aa.html#3_achille">Achille</ref>, est la déesse aux pieds d'argent chez <ref target="bibliographie.html#homere">Homère</ref> (<hi rend="italics">Iliade</hi>, chant 1). « Vous devez à Thétis vos pieds impérieux », écrit Guillaume <ref target="bibliographie.html#colletet">Colletet</ref> dans un sonnet intitulé « Les Beautés empruntées ». Pour <ref target="bibliographie.html#ronsard">Ronsard</ref>, Thétis a les pieds petits (éd. Blanchemain, IV, « La Charite », p. 181)<lb/>
+          <lb/>
+          • <ref target="personnage_cc.html#climanthe">Climanthe</ref>, le faux druide, compare le « pied petit et mignard » de <ref target="personnage_ll.html#leonide">Léonide</ref> à celui de « Tetis » (<ref target="../_roman/reference/21_1/21_1_livre_5.html#135_verso">I, 5, 135 verso</ref>). <lb/>
+          <lb/>
+          • Voir dans ce <ref target="https://en.wikipedia.org/wiki/Thetis#/media/File:The_Wedding_of_Peleus_and_Thetis_by_Peter_Paul_Rubens.jpg">site</ref> un tableau où Rubens met le pied nu de Thétis au premier plan et au centre (15 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Thesee</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#4_thesee">IV</ref>
+          
+          Mythologie. Le héros qui a vaincu le Minotaure intéresse peu Honoré d'Urfé. En rappelant plutôt la fuite de Thésée, le romancier  songe aux <hi rend="italic">Héroïdes</hi> d'<ref target="bibliographie.html#ovideh">Ovide</ref>. Dans l'Épître X, <ref target="repertoire_aa.html#adriane">Ariane</ref> raconte son malheur : « Où fuis-tu ?  m'écrié-je ». <lb/>
+          <lb/>
+          •          Dans un poème de <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, Thésée est le premier exemple d'homme d'infidèle qui abandonne la femme qu'il disait aimer (<ref target="../_roman/reference/24_4/24_4_livre_1.html#39">IV, 1, 39</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Thirreniens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_thirreniens">III</ref>
+          
+          Les Thyréniens, nommés par Virgile, par Ovide et par quelques mythographes comme Hygin, sont un ancien peuple d'Italie. Selon toute probabilité, confondus parfois avec les <ref target="repertoire_ss.html#2_scythie">Scythes</ref>,  les Thyréniens sont devenus   les Étrusques puis les Toscans. Ce peuple a donné son nom à la mer Thyrénienne où <ref target="repertoire_bb.html#bacchus">Bacchus</ref> aurait jeté les guerriers Thyréniens. Avant même l'arrivée d'<ref target="repertoire_ee.html#enee">Énée</ref>, Ce peuple avait  un culte particulier pour <ref target="repertoire_uz.html#3_vesta">Vesta</ref> appelée « <hi rend="italic">Labith Horchia</hi>
+                <hi rend="cache"> </hi>
+                <ref target="note_3.html#3_labith">η</ref> » ou Bonne mère de <ref target="repertoire_ss.html#2_scythie">Scythie</ref>.<lb/>
+          Le <hi rend="italic">
+                  <ref target="bibliographie.html#dictionnaire_trevoux">Dictionnaire de Trévoux</ref>
+                </hi> (VI, Article <hi rend="italic">Vesta</hi>) attribue à Myrthilus de Lesbos cette information que rapporte Honoré d'Urfé. Ce Myrthilus (ou <hi rend="italic">Myrsile</hi>, ou <hi rend="italic">Myrtilos</hi>, ou <hi rend="italic">Myrsilos</hi>) est un historien grec nommé par <ref target="bibliographie.html#pline">Pline</ref> parmi ses sources (III et IV). Voir le <hi rend="italic">Dictionnaire</hi> de William Smith sur le site <ref target="http://remacle.org/bloodwolf/erudits/athenee/auteur2.htm#MYRSILOSA">Remacle</ref> (Article <hi rend="italic">Myrsilos</hi>, vérifié le 28 octobre 2014). <lb/>
+          Antoine <ref target="bibliographie.html#fumee">Fumée</ref> aussi explique que les Thyréniens donnent ce surnom à <ref target="repertoire_uz.html#3_vesta">Vesta</ref> (pp. 63-64).<lb/>
+          <lb/>
+          • Dans sa prière à <ref target="repertoire_uz.html#3_vesta">Vesta</ref>, la <ref target="personnage_mm.html#3_maxime_vestale">Maxime</ref> vestale rappelle la vénération des Thyréniens pour cette déesse qu'ils appellent « LABITH HORCHIA » (<ref target="../_roman/reference/21_3/21_3_livre_2.html#30_verso">III, 2, 30 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_mythe">
+                Thracienne</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#4_thracienne">IV</ref>
+          
+          Mythologie. Originaire de la Thrace ou Bosphore de Thrace. Chez les conteurs antiques, « chaque peuplade grecque eut son port sur le Bosphore, chaque dieu y eut sont autel » (<hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi>
+                </hi>, Article <hi rend="italic">Bosphore de Thrace</hi>).<lb/>
+          <lb/>
+          • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> appelle <ref target="repertoire_hh.html#4_harpalyce">Harpalyce</ref> « cette genereuse fille Thracienne » (<ref target="../_roman/reference/24_4/24_4_livre_4.html#714">IV, 4, 714</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Thuringe</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#3_thuringe">III</ref>
+          
+          <ref target="bibliographie.html#du_haillan">Du Haillan</ref> raconte  que <ref target="personnage_cc.html#3_childeric">Childéric</ref>, chassé pour son inconduite, suit les conseils donnés par <ref target="personnage_gg.html#3_guyemant">Guyemant</ref> et se retire « vers <ref target="personnage_bb.html#3_basin">Basin</ref> Roy de <ref target="#3_thuringe">Thuringe</ref> (à present selon aucuns dicte Lorraine) »  (p. 25). <ref target="bibliographie.html#du_haillan">Du Haillan</ref> explique ailleurs que « la Thuringe est de là le <ref target="repertoire_qr.html#3_rhin">Rhin</ref>, au pays de Saxe, le long du fleuve Sala, la Lorraine s'appelloit lors <ref target="repertoire_aa.html#3_austrasie">Austrasie</ref> » (p. 24). La Thuringe est aujourd'hui une région de l'Allemagne ;  Luther et Gœthe y ont vécu (Voir ce <ref target="http://www.connexion-francaise.com/region/article/petite-presentation-de-la-thuringie">site</ref>, 20 mars 2013). Voir <ref target="#2_turingiens">Turingiens</ref>. <lb/>
+          <lb/>
+          • <ref target="personnage_gg.html#3_guyemant">Guyemant</ref> dit à <ref target="personnage_cc.html#3_childeric">Childéric</ref> de se retirer auprès de <ref target="personnage_bb.html#3_basin">Basin</ref> en Thuringe, son parent et son ami  (<ref target="../_roman/reference/21_3/21_3_livre_12.html#547_verso">III, 12, 547 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Tibre</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#tibre">I</ref>, <ref target="#2_tibre">II</ref>
+          
+          Écrit aussi <hi rend="italic">Tybre</hi>. Fleuve d'<ref target="repertoire_ik.html#italie">Italie</ref>, qui va de la <ref target="#2_toscane">Toscane</ref> à <ref target="repertoire_qr.html#rome">Rome</ref>.<lb/>
+          <lb/>
+          • Au service d'<ref target="personnage_aa.html#amasis">Amasis</ref>, dame du <ref target="repertoire_ff.html#forez">Forez</ref>, <ref target="personnage_cc.html#cleomir">Cleomir</ref> est allé jusqu'au <ref target="#tibre">Tibre</ref> (<ref target="../_roman/reference/21_1/21_1_livre_3.html#63_recto">I, 3, 63 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Tibre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans</hi> : <ref target="#tibre">I</ref>, <ref target="#2_tibre">II</ref>
+          
+          Écrit aussi <hi rend="italics">Tybre</hi>. <lb/>
+          <lb/>
+          • <ref target="personnage_uz.html#2_ursace">Ursace</ref> trouve <ref target="personnage_mm.html#2_maxime">Maxime</ref> qui s'enfuit au bord du Tibre (<ref target="../_roman/reference/21_2/21_2_livre_12.html#862">II, 12, 862</ref>). Il l'attaque et déclare que toute l'eau du Tibre ne pourrait pas effacer l'offense  faite à <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#862">II, 12, 862</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Tigre</cell>
+              <cell colspan="1" rowspan="1">Voir <ref target="#3_tyle">Tyle</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Tiresias</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#tiresias">I</ref>
+          
+          Mythologie. <ref target="bibliographie.html#ovide">Ovide</ref> rapporte dans ses <hi rend="italics">Métamorphoses</hi> les mésaventures de Tirésias (III, 317 sq.). Tirésias est d'abord un homme qui devient femme pour avoir séparé des serpents qui s'accouplaient. Sept ans après, il répète son geste et redevient homme. C'est ensuite  un devin aveugle.<lb/>
+          <lb/>
+          • <ref target="personnage_ff.html#filandre">Filandre</ref>, habillé en femme pour l'amour de la Bergère <ref target="personnage_dd.html#diane">Diane</ref>, rappelle à la jeune fille que Tirésias, « apres avoir esté fille, devint homme » (<ref target="../_roman/reference/21_1/21_1_livre_6.html#180_recto">I, 6, 180 recto</ref>). <lb/>
+          <lb/>
+          C'est en réalité la première partie du mythe (homme qui devient femme) qui s'applique à <ref target="personnage_ff.html#filandre">Filandre</ref>. 
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Titans</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_titans">III</ref>
+          
+          Mythologie. Les Titans, fils du Ciel et de la Terre, sont les frères de <ref target="repertoire_qr.html#3_rhee">Rhéa</ref> et de <ref target="repertoire_ss.html#3_saturne">Saturne</ref>. Pour que leurs descendants règnent, ils ont condamné <ref target="repertoire_ss.html#3_saturne">Saturne</ref> à ne pas avoir d'enfants. Les Titans se révoltent lorsqu'ils apprennent que <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref>, dernier fils de <ref target="repertoire_ss.html#3_saturne">Saturne</ref>, a survécu. Vainqueur, <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> jette les Titans dans le Tartare. Le dieu doit sa victoire à la peau d'Amalthée, la chèvre qui l'a nourri de son lait en cachette (<ref target="bibliographie.html#du_choul">Du Choul</ref>, p. 52). <lb/>
+          <lb/>
+          La version que donne Honoré d'Urfé peut surprendre parce qu'elle n'inclut pas Amalthée : <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> doit la vie à <ref target="repertoire_uz.html#3_vesta">Vesta</ref>, sa sœur, et lui accorde le droit de rester vierge pour la remercier.
+          Il faut se rappeler que <ref target="repertoire_uz.html#3_vesta">Vesta</ref> porte plusieurs noms : elle est <hi rend="italic">Hestia</hi> chez Platon (« l'essence des choses », d'après le <ref target="http://remacle.org/bloodwolf/philosophes/platon/cousin/cratyle1.htm">
+                  <hi rend="italic">Cratyle</hi>
+                </ref>, 401c), ou <hi rend="italic">Cybèle</hi> chez Ovide (<ref target="http://bcs.fltr.ucl.ac.be/fastam/f4-133-372.html">
+                  <hi rend="italic">Les Fastes</hi>
+                </ref>, 4, 179-246). Il faut aussi se rappeler que, dans <hi rend="italic">L'Astrée</hi>, les « peintures esclatantes » ont montré les <ref target="repertoire_cc.html#coribantes">Corybantes</ref> couvrant les vagissements de <ref target="repertoire_ik.html#jupiter">Jupiter</ref> enfant (<ref target="../_roman/reference/21_1/21_1_livre_2.html#27_recto">I, 2, 27 recto</ref>).  Or ces <ref target="repertoire_cc.html#coribantes">Corybantes</ref> sont des prêtres de Cybèle. <lb/>
+          <lb/>
+          Cybèle n'est pas seulement un des avatars ou des surnoms de <ref target="repertoire_uz.html#3_vesta">Vesta</ref>, elle est aussi une des formes de la <ref target="repertoire_bb.html#3_bonne_deesse">Bonne Déesse</ref> ... « L'image donques de Cybele est toute une avec celle de la grand mere » (<ref target="bibliographie.html#cartari">Cartari</ref>, p. 281). C'est « une divinité si considérable, que quiconque ne lui sacrifioit point, passoit pour un impie » (<ref target="bibliographie.html#dictionnaire_trevoux">
+                  <hi rend="italic">Dictionnaire de Trévoux</hi>
+                </ref>, VI, Article <hi rend="italic">Vesta</hi>). Il est donc tout à fait logique qu'une druide prie Vesta en <ref target="repertoire_ff.html#3_forez">Forez</ref>.
+          Voir <hi rend="italic">Labith Horchia</hi>
+                <hi rend="cache"> </hi>
+                <ref target="note_3.html#3_labith">η</ref>.<lb/>
+          <lb/>
+          • La <ref target="personnage_mm.html#3_maxime_vestale">Maxime</ref> vestale, dans sa prière, rappelle que <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> vainc les Titans, puis permet à <ref target="repertoire_uz.html#3_vesta">Vesta</ref> de rester vierge (<ref target="../_roman/reference/21_3/21_3_livre_2.html#31_recto">III, 2, 31 recto</ref>).<lb/>
+          <lb/>
+          • Dans un sonnet, <ref target="personnage_dd.html#3_damon_a">Damon d'Aquitaine</ref>, sait qu'il ne faudrait pas imiter les Titans qui ont voulu changer l'ordre des choses (<ref target="../_roman/reference/21_3/21_3_livre_6.html#257_recto">III, 6, 257 recto</ref>).<lb/>
+          <lb/>
+          • « Jupiter, vainqueur des Titans », est une tragédie-ballet en cinq actes donnée à Versailles sous le règne de Louis XIV. Elle doit apprendre aux nobles qu'il vaut mieux ne pas s'attaquer au Roi (<ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6233208f">Gallica</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Tongres</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_tongres">III</ref>
+          
+          Peuple et ville de Belgique. <lb/>
+          <ref target="bibliographie.html#pline">Pline</ref> (XXXI, 2) nomme une ville belge Tongres. C'était la forteresse des Eburons, un des peuples que <ref target="bibliographie.html#cesar">César</ref> a trouvés braves (I, 1). Les <ref target="repertoire_ff.html#3_francs">Francs</ref> Saliens sont installés dans la cité des Tongres au début du V<hi rend="supn">e</hi> siècle, du vivant de <ref target="personnage_cc.html#3_clodion">Clodion</ref> (<ref target="bibliographie.html#ferdiere">Ferdière</ref>, p. 342) ; cette information vient de Grégoire de Tours selon <ref target="bibliographie.html#fauchet">Fauchet</ref> (p. 89). Les <ref target="repertoire_ff.html#3_francs">Francs</ref> sont déjà dans la seconde Belgique (Amiens, Reims et Châlons) en 456 (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p. 100).<lb/>
+          <lb/>
+          • Un des fils de <ref target="personnage_cc.html#3_clodion">Clodion</ref>, <ref target="personnage_qr.html#3_renaud">Renaud</ref>,  épouse la fille de <ref target="personnage_mm.html#3_multiade">Multiade</ref>, roi de Tongres (<ref target="../_roman/reference/21_3/21_3_livre_12.html#523_verso">III, 12, 523 verso</ref>). <lb/>
+          <lb/>
+          L'édition de 1619 donne<lb/>
+            roi <hi rend="italic">des</hi> Tongres (peuple).
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Toscane</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_toscane">II</ref>
+          
+          Région d'<ref target="repertoire_ik.html#2_italie">Italie</ref> qui borde la chaîne des Apennins.<lb/>
+          <lb/>
+          • Parce qu'il ne veut pas se tuer, <ref target="personnage_uz.html#2_ursace">Ursace</ref> quitte <ref target="repertoire_qr.html#rome">Rome</ref> et se dirige vers la Toscane pour arriver à l'<ref target="repertoire_aa.html#2_appennin">Apennin</ref> et y mourir (<ref target="../_roman/reference/21_2/21_2_livre_12.html#868">II, 12, 868</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Toulouse</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#toulouse">I</ref>, <ref target="#2_toulouse">II</ref>, <ref target="#3_toulouse">III</ref>
+          
+          Écrit aussi <hi rend="italic">Toulouze</hi>, <hi rend="italic">Thoulouse</hi>. <lb/>
+          <lb/>
+          •                    Ville où se tient <ref target="personnage_aa.html#alaric">Alaric</ref>, roi des <ref target="repertoire_uz.html#visigoths">Wisigoths</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#41_verso">I, 2, 41 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Toulouse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#toulouse">I</ref>, <ref target="#2_toulouse">II</ref>, <ref target="#3_toulouse">III</ref>
+          
+          Écrit <hi rend="italic">Tholose</hi> et <hi rend="italics">Tolose</hi>. Siège des <ref target="repertoire_uz.html#visigoths">Wisigoths</ref> depuis 418 d'après <ref target="bibliographie.html#jordanes">Jordanès</ref> (cité par <ref target="bibliographie.html#favrod_histoire">Favrod</ref>, p. 45).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#2_aetius">Ætius</ref> conseille aux fils de <ref target="personnage_tt.html#2_thierry">Thierry</ref> de retourner à Toulouse. Il désire  éloigner les <ref target="repertoire_uz.html#visigoths">Wisigoths</ref> des <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#827">II, 12, 827</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Toulouse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#toulouse">I</ref>, <ref target="#2_toulouse">II</ref>, <ref target="#3_toulouse">III</ref>
+          
+          Écrit aussi <hi rend="italic">Toulouze</hi>. C'est la <ref target="repertoire_uz.html#3_ville_des_tectosages">Ville des Tectosages</ref>. Voir aussi <ref target="#3_tectosages">Tectosages</ref>.<lb/>
+          <lb/>
+          • <ref target="personnage_tt.html#3_torrismond">Torrismond</ref> succède à son père à Toulouse après la bataille des <ref target="repertoire_cc.html#3_champs_catalauniques">Champs Catalauniques</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#61_recto">III, 3, 61 recto</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_hh.html#3_hylas">Hylas</ref> quitte <ref target="repertoire_ll.html#3_lyon">Lyon</ref> et désire  gagner Toulouse (plus de 500 km !). Il s'arrête au <ref target="repertoire_mm.html#3_mont_d_or">Mont d'or</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#331_verso">III, 7, 331 verso</ref>).<lb/>
+          <lb/>
+          <p>Cet épisode est supprimé après l'édition de 1619.</p>
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFCCFF;">
+                Toussaint Du Bray</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#toussaint">I</ref>, <ref target="#toussaint">II</ref>, <ref target="#toussaint">III</ref>
+          
+          Premier éditeur de <hi rend="italic">L'Astrée</hi>, il reste jusqu'à la fin de sa vie le principal éditeur du roman. Grâce au livre remarquable que Roméo <ref target="bibliographie.html#arbour">Arbour</ref> lui a consacré, on sait que le destin de Toussaint Du Bray est étroitement mêlé à l'histoire de la fiction narrative en général et de <hi rend="italics">L'Astrée</hi> en particulier.<lb/>
+          <lb/>
+          Né vers 1580 d'un « maître-fripier », il perd son père en 1583. Parce que ses deux tuteurs successifs sont des libraires, il pénètre dans le monde de l'édition. Il fait probablement son apprentissage ou son stage chez Antoine  Du Breuil. Il devient en 1602  marchand-libraire rue Saint-Jacques, à Paris, et possède aussi une boutique au Palais. La gravure d'Abraham Bosse qui  montre à quoi ressemblent ces librairies se trouve dans ce <ref target="http://expositions.bnf.fr/bosse/grand/158.htm">site</ref> (30 septembre 2010).  Toussaint Du Bray se spécialise dans la publication de recueils de vers et de romans.<lb/>
+          <lb/>
+          • C'est probablement à travers le cercle qui entoure Marguerite de Valois<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#marguerite">η</ref> qu'Honoré d'Urfé a connu Toussaint (<ref target="bibliographie.html#arbour">Arbour</ref>, p. 44) qui est aussi l'éditeur des vers de son ami, Jean de Lingendes<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#lingendes">η</ref>.<lb/>
+          <lb/>
+          •            Le <ref target="../_roman/reference/21_1/21_1_liminaires.html#privilege">Privilège</ref> de l'édition anonyme de <hi rend="italics">L'Astrée</hi>, en 1607, stipule : « Ledit Sieur Autheur a esleu, cedé et transporté, concede, et accorde que Toussaincts Du Bray marchand Libraire à Paris, Imprime ou face Imprimer, vende, distribue et joüisse dudit privilege ainsi qu'il a esté accordé entre eux és estudes des Notaires soubs-signez, le dix-huictiesme Aoust. 1607 ». <lb/>
+          En 1617, quand le privilège de la première et de la deuxième partie expire,  Toussaint Du Bray (associé à Olivier De <ref target="repertoire_uz.html#varennes">Varennes</ref>) possède un privilège qui date de 1616 pour la troisième partie. Toussaint  publie une nouvelle édition du <hi rend="italics">Sireine</hi> d'Honoré d'Urfé puis enfin la troisième partie de <hi rend="italics">L'Astrée</hi>. C'est  encore Toussaint qui fait réimprimer les trois parties du roman en 1619. L'association du romancier et du libraire dure  jusqu'en 1621. Après cette date, d'Urfé semble s'éloigner de Paris et de <hi rend="italics">L'Astrée</hi>, éditions et rééditions de ses œuvres posent  des problèmes, mais qui ne sont pas directement liés à Toussaint. Les mandataires du romancier s'adressent à François Pomeray, associé de Toussaint, et à Robert Fouet. <lb/>
+          <lb/>
+          • Toussaint Du Bray, conclut Roméo <ref target="bibliographie.html#arbour">Arbour</ref>, fut « un artisan du livre, à l'écart de toute protection publique ou privée, [...] le José Corti du XVII<hi rend="supn">e</hi> siècle » (p. 169).<lb/>
+          Malgré trente années   d'activité intense, à cause de multiples procès, Toussaint Du Bray laisse des dettes et une succession difficile quand   il meurt, en février 1637. Jusqu'en 1774 pourtant, des  descendants de Toussaint Du Bray seront libraires.<lb/>
+          <lb/>
+          • Voici un des nombreux fleurons de Toussaint. Il figure en 1613 sur la couverture des <hi rend="italics">Satyres</hi> de Mathurin Régnier qui se trouvait dans le site de la Librairie Rossignol en mars 2007.
+          <p rend="center_t"> <graphic url="../images/fleuron.jpg" rend="img" mimeType="image/jpeg"/>
+                  <lb/>
+          </p>
+          L'édition de 1607 de la première partie de <hi rend="italic">L'Astrée</hi> présente aussi une des marques de Toussaint avec sa devise, <hi rend="italics">Cultu fertilior</hi>.<lb/>
+          <lb/>
+          • On ignore combien reçut Honoré d'Urfé pour la première partie de <hi rend="italics">L'Astrée</hi> en 1607. Sans doute moins qu'en 1614. Or à cette date, alors que les deux premières parties du roman connaissent un succès prodigieux, Toussaint Du Bray (par personne interposée) s'engage à « fournir audict d'Essay [« homme de chambre » de d'Urfé] la somme de mil livres<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#livre">η</ref> et outre bailler ou delivrer audict sieur d'Urfé la quantité de LX volumes de la première, seconde et troisiesme partie de L'Astrée » (<ref target="bibliographie.html#arbour">Arbour</ref>, p. 49). <lb/>
+          <lb/>
+          Cette entente ne doit pas nous étonner. Henri-Jean <ref target="bibliographie.html#martin">Martin</ref> signale que « souvent les auteurs ou leurs héritiers se contentent de demander aux libraires un certain nombre d'exemplaires » (p. 424), ce nombre variant entre 14 et 100 jusqu'en 1645. Quant aux mille livres<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#livre">η</ref> données à « l'homme de chambre » d'Honoré d'Urfé, elles représentent une somme importante puisque c'est exactement le même montant que Scarron recevra en 1651  de Toussaint Quinet pour son <hi rend="italics">Roman comique</hi> (<ref target="bibliographie.html#martin">Martin</ref>, p. 429). Notons par ailleurs qu'en 1612,  l'ensemble du marquisat de Valromey rapporte à Honoré d'Urfé tout au plus 2 500 livres<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#livre">η</ref> par an (<ref target="bibliographie.html#reure">Reure</ref>, p. 175).  En 1611, les revenus de tout le comté de <ref target="repertoire_ff.html#forez">Forez</ref> montaient à 8 000 livres<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#livre">η</ref> (<ref target="bibliographie.html#batiffol_marie">Batiffol</ref>, pp. 512, 518).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_histoire">
+                Transalpins</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#4_transalpins">IV</ref>.<lb/>
+          
+          Ceux qui vivent au delà des <ref target="repertoire_aa.html#4_alpes">Alpes</ref> ; pour les <ref target="repertoire_gg.html#4_gaulois">Gaulois</ref>,  il s'agit des Italiens.  Selon <ref target="bibliographie.html#montaigne">Montaigne</ref>, les Italiens, « ont plus communément des belles femmes, et moins de laides que nous » (III, ch. 5, p. 112).<lb/>
+          <lb/>
+          • Les goûts des Transalpins sont opposés à ceux des <ref target="repertoire_gg.html#4_gaulois">Gaulois</ref>, des <ref target="repertoire_mm.html#4_mores">Mores</ref> ou des <ref target="repertoire_gg.html#4_grecs">Grecs</ref> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#102">IV, 1, 102</ref>). <lb/>
+          <lb/>
+          Si  chaque peuple  préfère les traits physiques qui le caractérisent, comment se fait-il que  le <ref target="repertoire_gg.html#4_gaulois">Gaulois</ref> <ref target="personnage_hh.html#3_hylas">Hylas</ref> s'enthousiasme pour <ref target="personnage_cc.html#3_criseide">Criséide</ref>, jeune femme   « de delà les <ref target="repertoire_aa.html#3_alpes">Alpes</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_7.html#281_verso">III, 7, 281 verso</ref>),   dotée d'un  teint blanc et d'yeux noirs ?<lb/>
+            <lb/>
+            <ref target="personnage_cc.html#celadon">Céladon</ref> aussi apprécie les « admirables beautez » des <ref target="repertoire_qr.html#4_romains">Romaines<lb/>
+</ref> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#94_verso">I, 4, 94 verso</ref>). 
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Trelins</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_trelin">II</ref>
+          
+          Il s'agit du pont de Trelins. Voir la carte dressée par Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> (p. 191).<lb/>
+          <lb/>
+          • Pont sur le <ref target="repertoire_ll.html#2_lignon">Lignon</ref> que franchissent <ref target="personnage_ll.html#2_leonide">Léonide</ref> et <ref target="personnage_pp.html#2_paris">Paris</ref> en se rendant dans les hameaux (<ref target="../_roman/reference/21_2/21_2_livre_7.html#471">II, 7, 471</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Tricastius</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_tricastius">III</ref>
+          
+          Écrit <hi rend="italic">Tricastius</hi> en 1621, mais <hi rend="italic">Tricastins</hi> en 1619, graphie que l'on trouve dans <ref target="bibliographie.html#tite_live">Tite-Live</ref> (Livre V, 34), alors que <ref target="bibliographie.html#pline">Pline</ref> donne <hi rend="italic">Trécasses</hi> (IV, 32). <hi rend="italic">Casses</hi> signifie <hi rend="italic">combat</hi> (<ref target="bibliographie.html#duval">Duval</ref>, p. 27). Les <hi rend="italic">Tricastini</hi>, d'après <ref target="bibliographie.html#guichenon_savoie">Guichenon</ref>, sont à Saint-Paul-Trois-Châteaux (I, p. 14).<lb/> Il s'agit des <hi rend="italic">Tricasses</hi>, peuple de la <ref target="repertoire_gg.html#3_gaule">Gaule</ref> lyonnaise, dont le nom est à l'origine de la ville de Troye (<ref target="bibliographie.html#longnon">Longnon</ref>, p. 102). En 473, la <ref target="repertoire_ll.html#3_loire">Loire</ref>, le <ref target="repertoire_qr.html#3_rhone">Rhône</ref> et l'Atlantique sont devenus  les frontières du royaume <ref target="repertoire_uz.html#3_visigoths">wisigoth</ref> (<ref target="bibliographie.html#labouysse">Labouysse</ref>, p. 66).<lb/>
+          <lb/>
+          • L'un des peuples que le roi <ref target="personnage_ee.html#3_euric">Euric</ref> attaque (<ref target="../_roman/reference/21_3/21_3_livre_3.html#66_verso">III, 3, 66 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Troyen</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#4_troyen">IV</ref>
+
+        Voir <ref target="repertoire_ee.html#4_enee">Énée</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Turingiens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_turingiens">II</ref>
+          
+          Les Thuringiens sont un peuple germain<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#germains">η</ref> résidant d'abord au delà de l'Elbe, et qui traverse le fleuve au V<hi rend="supn">e</hi> siècle. Voir <ref target="#3_thuringe">Thuringe</ref>.<lb/>
+          <lb/>
+          • Ils sont obligés de combattre aux côtés d'<ref target="personnage_aa.html#2_attila">Attila</ref> contre les <ref target="repertoire_ff.html#2_francs">Francs</ref> de <ref target="personnage_pp.html#2_pharamond">Pharamond</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#805">II, 12, 805</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Tyle</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_tyle">III</ref>
+          
+          L'un des noms anciens du
+          Tigre. <ref target="bibliographie.html#huguet">Huguet</ref> donne : « Tygre, Tygrin, Tyl, Tylliot » (Article <hi rend="italic">Tigre</hi>).<lb/>
+          Ce fleuve de Turquie aux eaux rapides longeait de célèbres villes dans l'antiquité. Il est nommé dans la Bible :  « Il y avoit quatre fleuves qui sortoient du Paradis terrestre, l'Euphrate, le Tigre, le Gange et le Nil » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italic">Fleuve</hi>). Les traductions modernes de la <hi rend="italic">
+                  <ref target="http://www.topchretien.com/topbible/genese.2.10/S21/">Genèse</ref>
+                </hi> donnent : Pishon, Gihon, Tigre et Euphrate (2, 10 à 14). Voir aussi ce <ref target="http://bible.archeologie.free.fr/jardinperdu.html">site</ref> (15 décembre 2012).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#3_adamas">Adamas</ref>, faisant un compliment dithyrambique à <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>, affirme que la réputation du roi <ref target="personnage_ee.html#3_euric">Euric</ref> a atteint les rives des fleuves bibliques, « le <ref target="repertoire_gg.html#3_gange">Gange</ref> et le Tyle » (<ref target="../_roman/reference/21_3/21_3_livre_4.html#159_verso">III, 4, 159 verso</ref>).<lb/>
+          <lb/>
+          • Une mosaïque qui date du XIII<hi rend="supn">e</hi> siècle, dans l'ancien palais épiscopal de Die (Drôme), indique les quatre fleuves du Paradis. Voir ce <ref target="http://3.bp.blogspot.com/-Xee1O1i-IO0/Udx9toBT7qI/AAAAAAAABd8/-wwRkJA3owA/s1600/3.JPG">site</ref> (20 mars 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+          </table><lb/><lb/><lb/><lb/><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

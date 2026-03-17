@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Répertoire N, O - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_rep"
+  onclick="SetDisplay('legende_rep')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_rep')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p>Catégories</p><table rend="center_o center_t" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" style="width:auto; height:20px; background-color:#FFCCFF">Actualité</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Géographie </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px">Histoire</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue" style="width:auto; height:20px">Littérature</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue_hashed" style="width:auto; height:20px">Mythologie</cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px"> Remarque </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+            </table><p> </p><ref target="repertoire.html">
+              <hi rend="bold">RÉPERTOIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="repertoire_aa.html">A</ref><ref target="repertoire_bb.html">B</ref><ref target="repertoire_cc.html">C</ref><ref target="repertoire_dd.html">D</ref><ref target="repertoire_ee.html">E</ref><lb/><ref target="repertoire_ff.html">F</ref><ref target="repertoire_gg.html">G</ref><ref target="repertoire_hh.html">H</ref><ref target="repertoire_ik.html">I</ref><ref target="repertoire_ik.html#j">J</ref><lb/><ref target="repertoire_ik.html#k">K</ref><ref target="repertoire_ll.html">L</ref><ref target="repertoire_mm.html">M</ref><ref target="repertoire_no.html">N</ref><ref target="repertoire_no.html#o">O</ref><lb/><ref target="repertoire_pp.html">P</ref><ref target="repertoire_qr.html">Q</ref><ref target="repertoire_qr.html#r">R</ref><ref target="repertoire_ss.html">S</ref><ref target="repertoire_tt.html">T</ref><lb/><ref target="repertoire_uz.html">U</ref><ref target="repertoire_uz.html#v">V</ref><ref target="repertoire_uz.html#w">W</ref><ref target="repertoire_uz.html#x">X</ref><ref target="repertoire_uz.html#y">Y</ref><ref target="repertoire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>
+              <ref target="repertoire.html">RÉPERTOIRE - N, O</ref>
+            </head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Napees</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#3_napees">III</ref>, <ref target="#4_napees">IV</ref>
+             
+             Mythologie. « Divinité fabuleuse que les Payens croyoient presider aux forests &amp; aux collines, comme les dryades aux arbres, &amp; les Nymphes aux fonteines » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+             Honoré d'Urfé ne distingue  clairement pas les catégories de nymphes. À la fin de <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref>, il énumère les divinités champêtres : « Les <ref target="repertoire_pp.html#3_pan">Pans</ref>, les <ref target="repertoire_ee.html#3_egipans">Égipans</ref>, / Les Nymphes, les <ref target="repertoire_dd.html#3_dryades">Dryades</ref> » (v. 9291-9292).<lb/>
+             <lb/>
+             • <ref target="#3_nayades">Naïades</ref>, <ref target="repertoire_dd.html#3_dryades">Dryades</ref>, et Napées fréquentent les rives du <ref target="repertoire_ll.html#3_lignon">Lignon</ref> dans la préface de la troisième partie, <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_autheur_lignon">
+                  <hi rend="italic">l'Autheur à la rivière de Lignon</hi>
+                </ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Napees</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="couleur_quatrieme">
+                  <hi rend="italic">Mentionnées dans :</hi> <ref target="#3_napees">III</ref>, <ref target="#4_napees">IV</ref>
+             </hi>
+             
+             <hi rend="couleur_quatrieme"> Écrit <hi rend="italic">Nappees</hi>.<lb/>
+               <lb/>
+               • Pendant les <ref target="repertoire_bb.html#4_bacchanales">Bacchanales</ref>, <ref target="personnage_cc.html#4_clotilde">Clotilde</ref> et ses suivantes vont s'habiller en « <ref target="repertoire_dd.html#4_dryades">Dryades</ref>, <ref target="#4_napees">Nappees</ref> et <ref target="#4_nayades">Nayades</ref> ». <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> les surprend pendant qu'elles se déguisent (<ref target="../_roman/reference/24_4/24_4_livre_4.html#654">IV, 4, 654</ref>). </hi>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Naples</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_naples">II</ref>
+             
+             Ville d'<ref target="repertoire_ik.html#2_italie">Italie</ref>. Jusqu'aux invasions barbares, la flotte romaine a son port principal à Naples (voir ce <ref target="http://terredecompassion.com/2011/06/22/le-grand-naples-et-l%E2%80%99unite-italienne/">site</ref>, 10 mai 2015).<lb/>
+             <lb/>
+             • Pour arriver à <ref target="repertoire_qr.html#rome">Rome</ref>, <ref target="personnage_uz.html#2_ursace">Ursace</ref>, parti de <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref>, débarque à <ref target="#2_naples">Naples</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#804">II, 12, 804</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Narcisse</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#narcisse">I</ref>, <ref target="#4_narcisse">IV</ref>
+             
+             Mythologie. Ce beau jeune homme n'aime que son reflet, ce qui désespère la Nymphe <ref target="repertoire_ee.html#echo">Écho</ref> (<ref target="bibliographie.html#ovide">Ovide</ref>, III, 353-513). « La fleur Narcisse declare la beauté corporelle qui passe soudain et la fleur de la jeunesse qui ne dure gueres » (<ref target="bibliographie.html#pierius">Pierius</ref>, II, p. 600).<lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#celion">Celion</ref> compare <ref target="personnage_bb.html#bellinde">Bellinde</ref> se regardant dans une rivière à Narcisse (<ref target="../_roman/reference/21_1/21_1_livre_10.html#325_verso">I, 10, 325 verso</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#silvandre">Silvandre</ref>, amoureux de <ref target="personnage_dd.html#diane">Diane</ref>, la fille de <ref target="personnage_cc.html#celion">Celion</ref> et <ref target="personnage_bb.html#bellinde">Bellinde</ref>, se compare lui-même à <ref target="repertoire_ee.html#echo">Écho</ref> aimant en vain Narcisse (<ref target="../_roman/reference/21_1/21_1_livre_8.html#223_recto">I, 8, 223 recto</ref>).<lb/>
+             <lb/>
+             <p>Ce sont donc les femmes qui sont comparées à Narcisse !</p>
+             <lb/>
+             • Voir
+             Narcisse et <ref target="repertoire_ee.html#echo">Écho</ref>, illustration du <hi rend="italic">Lai de l'ombre</hi> de Jean Renart dans ce <ref target="http://www.mml.cam.ac.uk/aspects/assets/amw56/fr3/Images/narcissus.jpg">site</ref> (2 mars 2013), et le Narcisse de Caravage dans ce <ref target="http://www.franceculture.fr/sites/default/files/imagecache/ressource_full/2014/05/27/4857558/640px-Michelangelo_Caravaggio_065.jpg">site</ref> (28 octobre 2014).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Narcisse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#narcisse">I</ref>, <ref target="#4_narcisse">IV</ref>
+                <lb/>
+           
+           Désigné par une périphrase.<lb/>
+           Certains dictionnaires de mythes consacrent des développements  plus longs à <ref target="repertoire_ee.html#2_echo">Écho</ref> qu'à Narcisse - peut-être parce que Narcisse reste passif et silencieux - par exemple, <ref target="bibliographie.html#cartari">Cartari</ref> décrit Narcisse en cinq ou six mots et  sa compagne en trois pages (pp. 164-67).<lb/>
+           <lb/>
+           <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> menace <ref target="personnage_dd.html#4_diane">Diane</ref> en parlant de celui qui  « D'un  vain Amour se brusle et se desire » (<ref target="../_roman/reference/24_4/24_4_livre_3.html#521">IV, 3, 521</ref>).<lb/>
+           <lb/>
+           Ce mythe semble réservé à <ref target="personnage_dd.html#4_diane">Diane</ref> et à sa mère.
+                <lb/>
+</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Naupacte</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_naupacte">II</ref>
+             
+             Ville de <ref target="repertoire_gg.html#2_grece">Grèce</ref>,  appelée aujourd'hui <hi rend="italics">Lépante</hi>. Le 7 octobre 1571,  une coalition des princes chrétiens occidentaux, la Sainte Ligue<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#ligue">η</ref>, seconde les armées vénitiennes et les chevaliers de Malte contre le Grand Turc. La bataille entre les  flottes de galères a lieu dans le golfe de Lépante, et se termine par la victoire des forces chrétiennes. Aucun des exploits qui ont marqué les guerres civiles ne se peut « comparer à la journee de Lepanto », écrit le duc de <ref target="bibliographie.html#la_noue">La Nouë</ref> (p. 443).<lb/>             Le pape Pie V institue immédiatement la fête de Notre-Dame du Rosaire pour célébrer la victoire de Lépante le 7 octobre (voir le <ref target="http://fr.wikipedia.org/wiki/Bataille_de_L%C3%A9pante">site</ref> de Wikipédia, 20 avril 2015). <lb/>
+             Vers 1600, Pierre de Deimier offre au duc de Savoie un poème épique sur la bataille de Lépante. Cette <hi rend="italic">Austriade</hi> devient <hi rend="italic">La Néréide</hi> quand elle est offerte à Marguerite de Valois<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#marguerite">η</ref> en 1605 (<ref target="bibliographie.html#meniel">Méniel</ref>, p. 209). Stéphane <ref target="bibliographie.html#gal">Gal</ref> explique que la Savoie attribue la victoire de Lépante à l'intercession de la Vierge (p. 356). <lb/>
+             « Ceste tant grande, tant  sanglante et tant signallée bataille de  Lepantho, et telle que despuis ceste grande bataille actiaque [d'Actium] donnée entre  Marc-Anthoine et Cœsar Auguste, jamais il n'en fut donné une telle ; encore  que celle cy fut mieux cent fois desbattue et combattue que la leur » (<ref target="bibliographie.html#brantome_hommes">Brantôme</ref>, p. 128).<lb/>
+             « Jamais, depuis la bataille d'Actium, les mers de la Grèce n'avoient vû ni des flottes si nombreuses, ni un combat si mémorable » (<ref target="bibliographie.html#encyclopedie">
+                  <hi rend="italic">Encyclopédie de Diderot</hi>
+                </ref>, Article <hi rend="italics">Lépante</hi>). <lb/>
+             « Il n'est pas de plus beau souvenir historique dans l'Europe du XVI<hi rend="supn">e</hi> siècle » (<hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi>
+                </hi>, Article <hi rend="italics">Lépante</hi>). <lb/>
+C'est à Lépante que Cervantes perd une main (Voir ce <ref target="http://www.publius-historicus.com/lepante.html">site</ref>, 30 septembre 2010). <lb/>
+<lb/>
+             • Des astrologues annoncent la victoire de Naupacte (<ref target="../_roman/reference/21_2/21_2_livre_12.html#842">II, 12, 842</ref>) ; c'est une apophétie<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#apophetie">η</ref>. <lb/>
+             <lb/>
+             • Voir dans ce <ref target="http://i44.servimg.com/u/f44/11/64/82/51/batail10.jpg">site</ref> un tableau de Ferdinando Bertelli  représentant la bataille de Lépante. Ce peintre exerce à <ref target="repertoire_uz.html#2_venise">Venise</ref> en 1572 (<ref target="http://www.oxfordartonline.com.ezproxy.library.tufts.edu/subscriber/article/grove/art/T008362?q=Bertelli&amp;article_section=all&amp;search=article&amp;pos=1&amp;_start=1#firsthit">Oxford Art on Line</ref>, 30 septembre 2010).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Nayades</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#nayades">I</ref>, <ref target="#3_nayades">III</ref>, <ref target="#4_nayades">IV</ref>
+             
+             Mythologie. Les  Naïades  sont des divinités secondaires qui font partie de la classe des Nymphes comme les <ref target="repertoire_dd.html#dryades">Dryades</ref> et <ref target="repertoire_aa.html#amadryades">Hamadryades</ref>. Honoré d'Urfé ne distingue  pas les catégories de nymphes.<lb/>
+             <lb/>
+             • Les Naïades, compagnes de la déesse <ref target="repertoire_dd.html#diane_m">Diane</ref>, vivent dans les cours d'eau (<ref target="../_roman/reference/21_1/21_1_livre_2.html#29_verso">I, 2, 29 verso</ref>). Elles auraient quitté le <ref target="repertoire_ff.html#forez">Forez</ref> quand les eaux s'en sont retirées (<ref target="../_roman/reference/21_1/21_1_livre_2.html#30_recto">I, 2, 30 recto</ref>). <lb/>
+             <lb/>
+             •  Voir <ref target="repertoire_dd.html#diane_m">Diane</ref> et ses nymphes  peintes par Cranach l'Ancien dans ce <ref target="http://upload.wikimedia.org/wikipedia/commons/3/3d/Lucas_Cranach_d._%C3%84._012.jpg">site</ref> : des poupées qui ne cherchent pas à se couvrir devant une bête aux jambes d'homme, Actéon (10 juin 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Nayades</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#nayades">I</ref>, <ref target="#3_nayades">III</ref>, <ref target="#4_nayades">IV</ref>
+             
+             « Divinité fabuleuse que les Payens croyoient presider aux forests &amp; aux collines, comme les <ref target="repertoire_dd.html#dryades">dryades</ref> aux arbres, &amp; les Nymphes aux fonteines » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+             <lb/>
+             • Naïades, <ref target="repertoire_dd.html#3_dryades">Dryades</ref>, et <ref target="#3_napees">Napées</ref> fréquentent les rives du <ref target="repertoire_ll.html#3_lignon">Lignon</ref> dans la préface, <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_autheur_lignon">
+                  <hi rend="italic">l'Autheur à la rivière de Lignon</hi>
+                </ref>.<lb/>
+             <lb/>
+             • Les Naïades entourent et honorent le Démon de <ref target="repertoire_ss.html#3_sorgues">Sorgues</ref>. La source qu'elles fréquentent deviendra célèbre grâce au
+             « Cigne florentin<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_cigne">η</ref> », <ref target="personnage_pp.html#3_petrarque">Pétrarque</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#101_verso">III, 3, 101 verso</ref>). <lb/>
+             <lb/>
+             <p>Parallèle suggéré avec le cygne forézien, Honoré d'Urfé ...</p>
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Nayades</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#nayades">I</ref>, <ref target="#3_nayades">III</ref>, <ref target="#4_nayades">IV</ref>
+             
+             • Pendant les <ref target="repertoire_bb.html#4_bacchanales">Bacchanales</ref>, <ref target="personnage_cc.html#4_clotilde">Clotilde</ref> et ses suivantes vont s'habiller en « <ref target="repertoire_dd.html#4_dryades">Dryades</ref>, <ref target="#4_napees">Nappees</ref> et Nayades ». <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> les surprend pendant qu'elles se déguisent (<ref target="../_roman/reference/24_4/24_4_livre_4.html#654">IV, 4, 654</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Neptune</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#neptune">I</ref>, <ref target="#3_neptune">III</ref>
+             
+             Mythologie. Dieu romain de la mer. Sous le nom grec de Poséidon, ce dieu est le patron de deux lieux aussi prestigieux que malheureux, Troie et l'Atlantide.<lb/>
+             <lb/>
+             • Parce que le <ref target="repertoire_ff.html#forez">Forez</ref> fut à l'origine couvert par les eaux, Honoré d'Urfé, dans un poème oraculaire,  considère son pays comme la « terre » (sic) de Neptune (<ref target="../_roman/reference/21_1/21_1_livre_8.html#227_recto">I, 8, 227 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Neptune</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#neptune">I</ref>, <ref target="#3_neptune">III</ref>
+             
+             <ref target="repertoire_bb.html#3_baro">Baro</ref>, Dans <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_ode">
+                  <hi rend="italic">l'Ode à la rivière de Lignon</hi>
+                </ref>, dit que la rivière doit son eau à Neptune.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Nestor</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#nestor">I</ref>
+             
+             Mythologie. Nestor mourut très vieux et  survécut à la ruine de Troie. <lb/>
+             <lb/>
+             En 1607 seulement, le nom de Nestor signifie le grand âge<lb/>
+               (<ref target="../_roman/reference/21_1/21_1_livre_7.html#208_verso">I, 7, 208 verso</ref>).<lb/>
+               (Voir <ref target="variantes_premiere.html#images">Variantes</ref>). 
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Neustrie</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#neustrie">I</ref>
+             
+             Limité par la mer du Nord, la Meuse et la <ref target="repertoire_ll.html#loire">Loire</ref>, ce royaume franc est constitué après la mort de Clovis, en 475, quand les fils du Roi se partagent le royaume. Cependant, <ref target="bibliographie.html#fauchet">Fauchet</ref> nomme la Neustrie ou Occidentale en décrivant les conquêtes de <ref target="personnage_cc.html#childeric">Childéric</ref>, le père de Clovis (p. 109). Il s'agit de la moderne Normandie. <lb/>
+             Les Normands ont mauvaise presse dans la littérature médiévale. Ce sont les soldats de Male-Bouche dans <hi rend="italic">le Roman de la Rose</hi>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#roman_rose">η</ref> (<ref target="bibliographie.html#quitard">Quitard</ref>, Article <hi rend="italic">Normand</hi>), les mauvaises langues. Un proverbe affirme : « De Normandie, mauvais vent<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#vent">η</ref>, mauvaises gens » (<ref target="bibliographie.html#canel">Canel</ref>, I, p. 35). <lb/>
+             <lb/>
+             • Dans <hi rend="italics">L'Astrée</hi>, c'est une partie de la <ref target="repertoire_gg.html#gaule">Gaule</ref> (<ref target="../_roman/reference/21_1/21_1_livre_12.html#384_recto">I, 12, 384 recto</ref>), dont la capitale est <ref target="repertoire_qr.html#rothomage">Rothomage</ref> (Rouen). <lb/>
+             <lb/>
+             • La Neustrie s'allie à la <ref target="repertoire_gg.html#grande_bretagne">Grande-Bretagne</ref> et s'oppose aux <ref target="repertoire_ff.html#francs">Francs</ref> (<ref target="../_roman/reference/21_1/21_1_livre_12.html#384_verso">I, 12, 384 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Neustriens</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#neustriens">I</ref>, <ref target="#2_neustriens">II</ref>
+             
+             Habitants de la <ref target="#neustrie">Neustrie</ref>, ennemis des <ref target="repertoire_ff.html#francs">Francs</ref>. C'est l'un des rares peuples astréens dont le chef ne soit pas nommé.<lb/>
+             <lb/>
+             • <ref target="personnage_ll.html#lydias">Lydias</ref>, le <ref target="#neustriens">Neustrien</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#359_verso">I, 11, 359 verso</ref>), le sosie de <ref target="personnage_ll.html#ligdamon">Ligdamon</ref>, cherche refuge à <ref target="repertoire_ll.html#londres">Londres</ref>.<lb/>
+             <lb/>
+             • <ref target="repertoire_cc.html#calais">Calais</ref> et son gouverneur sont du même parti que les <ref target="#neustriens">Neustriens</ref> (<ref target="../_roman/reference/21_1/21_1_livre_12.html#386_recto">I, 12, 386 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Neustriens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#neustriens">I</ref>, <ref target="#2_neustriens">II</ref>
+              
+          • <ref target="personnage_ll.html#2_leonide">Léonide</ref> rappelle la bataille de <ref target="personnage_cc.html#2_clidaman">Clidaman</ref> contre les Neustriens (<ref target="../_roman/reference/21_2/21_2_livre_7.html#451">II, 7, 451</ref> et <ref target="../_roman/reference/21_2/21_2_livre_10.html#664">II, 10, 664</ref>) avec les armées de <ref target="personnage_mm.html#2_merovee">Mérovée</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#662">II, 10, 662</ref>). <lb/>
+  <lb/>
+  • <ref target="personnage_ff.html#2_fleurial">Fleurial</ref> répète que <ref target="personnage_mm.html#2_melandre">Mélandre</ref> a suivi un Neustrien, <ref target="personnage_ll.html#2_lydias">Lydias</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#665">II, 10, 665</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                
+                Occident</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_occident">II</ref>, <ref target="#3_occident">III</ref>
+               
+             • Il s'agit dans presque toutes les instances de l'Empire d'Occident. Voir <ref target="repertoire_ee.html#2_empire_romain">Empire romain</ref>. <lb/>
+             <lb/>
+             Dans une <hi rend="italics">apophétie</hi>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#apophetie">η</ref>, les Princes d'<ref target="#2_occident">Occident</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#842">II, 12, 842</ref>) se coaliseront lors de la bataille de <ref target="#2_naupacte">Naupacte</ref>.<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Occident</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_occident">II</ref>, <ref target="#3_occident">III</ref>
+             
+             L'occident n'est plus qu'un point cardinal dans la troisième partie (<ref target="../_roman/reference/21_3/21_3_livre_7.html#283_verso">III, 7, 283 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Océan Scithique</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#ocean_scythique">I</ref>
+             
+             Océan Scythique ou Septentrional. <ref target="bibliographie.html#pline">Pline</ref> explique que l'Océan baigne trois côtes de l'Asie et se nomme Scythique au nord (VI, 14).<lb/>
+             <lb/>
+             • <ref target="personnage_hh.html#hylas">Hylas</ref> raconte que des tribus parties de l'Océan Scythique voulaient saccager <ref target="repertoire_qr.html#rome">Rome</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#243_recto">I, 8, 243 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">Œnone</cell>
+              <cell colspan="1" rowspan="1">Voir <ref target="repertoire_ee.html#enone">Enone</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Or</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_or">III</ref>
+             
+             Cette rivière ne se trouve pas en <ref target="repertoire_ff.html#3_forez">Forez</ref> à l'endroit indiqué par Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> (p. 181). L'enquête  faite auprès de spécialistes des cours d'eau français me permet de suggérer deux hypothèses. Je  penche pour la seconde, car, si le romancier nomme  l'Or et l'<ref target="repertoire_aa.html#3_argent">Argent</ref>, deux  rivières aux noms suggestifs, jamais il ne les rapproche : <lb/>
+             <lb/>
+             1. Merci à Pierre-Jean Martinez, Chef de projet, SDAGE. <lb/>
+             En Charente, il existe un cours d'eau nommé <hi rend="italic">Argentor</hi>, « né de la réunion de deux ruisseaux, l'<hi rend="italic">Argent</hi> au sud et l'<hi rend="italic">Or</hi> au nord », qui, tous deux, naissent à Saint-Coutant, en Charente (<ref target="http://fr.wikipedia.org/wiki/Argentor">Wikipédia</ref>, 25 février 2013). Saint-Coutant est à plus de 300 kilomètres de <ref target="repertoire_mm.html#montverdun">Montverdun</ref> ou de <ref target="repertoire_mm.html#marcilly">Marcilly</ref>.<lb/>
+             <lb/>
+             2. Merci à Xavier de Villele, chargé de missions, SYMLAV.<lb/>
+             Le secrétaire du romancier a  vraisemblablement mal compris ce qu'il écoutait. Il entend  « la rivière Dore » mais écrit <hi rend="italic">la rivière d'O</hi>r. L<hi rend="italic">a Dore</hi>,  affluent de l'<ref target="repertoire_aa.html#allier">Allier</ref>, est à l'Ouest de la source du <ref target="repertoire_ll.html#lignon">Lignon</ref>. « Apparenté à celui du <hi rend="italic">Douro</hi>, son nom provient de la racine hydronymique <hi rend="italic">Dur</hi>-, <hi rend="italic">Dora</hi> 'eau', 'rivière' » (<ref target="http://fr.wikipedia.org/wiki/Dore_%28rivi%C3%A8re%29">Wikipédia</ref>, 10 janvier 2013).
+             Selon le Père Menestrier, ce nom provient de la couleur jaunâtre de la terre (<ref target="bibliographie.html#champdor">Champdor</ref>, p. 25). D'Urfé, dans son <ref target="jugemant.html">
+                  <hi rend="italic">Jugemant sur l'Amedeide</hi>
+                </ref>, donne l'exemple d'« un petit ruisseau comme est la Dore » (p. 155).<lb/>
+             <lb/>
+             • Les bergers déguisés en <ref target="repertoire_ee.html#3_egyptiens">Égyptiennes</ref> viennent des bords de cette « riviere d'Or ». Comme ils s'amusent à feindre de voler leurs auditeurs, le nom de leur lieu d'origine semble significatif au lecteur et probablement à l'auteur (<ref target="../_roman/reference/21_3/21_3_livre_10.html#425_verso">III, 10, 425 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Orient</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_orient">II</ref>, <ref target="#3_orient">III</ref>
+             
+             • Il s'agit de l'<ref target="repertoire_ee.html#2_empire_romain">Empire romain</ref> d'Orient. <lb/>
+             <lb/>
+             • Dans une <hi rend="italics">apophétie</hi>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#apophetie">η</ref>, les Princes d'<ref target="#2_occident">Occident</ref> seront victorieux « par tout l'Orient » à la bataille de <ref target="#2_naupacte">Naupacte</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#842">II, 12, 842</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Orient</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_orient">II</ref>, <ref target="#3_orient">III</ref>
+             
+             L'Orient n'est plus qu'un point cardinal dans la troisième partie : le soleil se lève en Orient.<lb/>
+             <lb/>
+             •           L'Orient le premier peut adorer <ref target="repertoire_aa.html#3_aurore">Aurore</ref> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#146_recto">III, 4, 146 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Orleans</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#orleans">I</ref>, <ref target="#2_orleans">II</ref>
+             
+             Ville assiégée par <ref target="personnage_aa.html#attila">Attila</ref>, le roi des <ref target="repertoire_hh.html#huns">Huns</ref> (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p. 94). <lb/>
+             <lb/>
+             • <ref target="personnage_gg.html#guyemant">Guyemant</ref> raconte :          Après la bataille des <ref target="repertoire_cc.html#champs_catalauniques">Champs Catalauniques</ref>, la ville d'Orléans reçoit <ref target="personnage_mm.html#merovee">Mérovée</ref>, roi des <ref target="repertoire_ff.html#francs">Francs</ref> (<ref target="../_roman/reference/21_1/21_1_livre_3.html#64_recto">I, 3, 64 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Orleans</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#orleans">I</ref>, <ref target="#2_orleans">II</ref>
+             
+             <ref target="bibliographie.html#bouvier">Bouvier-Ajam</ref> décrit le siège  d'Orléans en mai 451. Aignan, l'évêque de la ville réussit à éloigner les <ref target="repertoire_aa.html#2_alains">Alains</ref> et à retarder les <ref target="repertoire_hh.html#2_huns">Huns</ref> (p. 269-384). Quand la ville est forcée d'ouvrir ses portes à <ref target="personnage_aa.html#2_attila">Attila</ref>, on apprend l'arrivée d'<ref target="personnage_aa.html#2_aetius">Ætius</ref>. C'est alors qu'a lieu la surprenante entente : <ref target="personnage_aa.html#2_aetius">Ætius</ref> convainc <ref target="personnage_aa.html#2_attila">Attila</ref> de quitter Orléans (p. 290). Les <ref target="repertoire_hh.html#2_huns">Huns</ref> se rendent à Troyes. La terrible bataille des <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref> commence. Le roi des <ref target="repertoire_uz.html#visigoths">Wisigoths</ref> joue un rôle prééminent et perd la vie (p. 307). <lb/>
+             <lb/>
+             • Orléans est une ville des <ref target="repertoire_cc.html#2_carnutes">Carnutes</ref> qu'<ref target="personnage_aa.html#2_attila">Attila</ref> assiège (<ref target="../_roman/reference/21_2/21_2_livre_12.html#825">II, 12, 825</ref>).  Le roi des <ref target="repertoire_hh.html#2_huns">Huns</ref> pensait que les <ref target="repertoire_aa.html#2_alains">Alains</ref> conserveraient la ville (<ref target="../_roman/reference/21_2/21_2_livre_12.html#825">II, 12, 825</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_mm.html#2_madonthe">Madonthe</ref> raconte si rapidement la mort de <ref target="personnage_tt.html#2_thierry">Thierry</ref>,  roi des <ref target="repertoire_uz.html#visigoths">Wisigoths</ref>, qu'elle laisse entendre que c'est ce roi qui a  chassé <ref target="personnage_aa.html#2_attila">Attila</ref> d'Orléans (<ref target="../_roman/reference/21_2/21_2_livre_6.html#328">II, 6, 328</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ostie</cell>
+              <cell colspan="1" rowspan="1">Voir <ref target="repertoire_hh.html#2_hostie">Hostie</ref>
+                <hi rend="couleur_deuxieme">.</hi>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Ostrogoths</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#ostrogoths">I</ref>, <ref target="#2_ostrogoths">II</ref>, <ref target="#4_ostrogoths">IV</ref>
+             
+             Écrit <hi rend="italics">Ostrogots</hi>, <hi rend="italics">Ostrogosts, Ostrogostz</hi>. Tribu de <ref target="repertoire_gg.html#goths">Goths</ref> orientaux (distincts des <ref target="repertoire_gg.html#goths">Goths</ref> occidentaux ou <ref target="repertoire_uz.html#visigoths">Wisigoths</ref>) soumise d'abord aux <ref target="repertoire_hh.html#huns">Huns</ref> puis installée en <ref target="repertoire_pp.html#2_pannonie">Pannonie</ref> après la mort d'<ref target="personnage_aa.html#attila">Attila</ref>. <lb/>
+             « OSTROGOT. s. m. C'est un nom qu'on a donné aux Barbares, &amp; sur tout aux Gots qui sont venus d'Orient faire des incursions dans l'Europe. Ce mot a passé dans la Langue en cette phrase proverbiale : Vous me prenez pour un Ostrogot, c'est à dire, pour un Barbare, un ignorant qui vient d'un pays fort esloigné » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <hi rend="italic">Ostrogot</hi> ne figure ni dans <ref target="bibliographie.html#richelet">Richelet</ref>, ni dans le <ref target="bibliographie.html#academie">
+                  <hi rend="italic">Dictionnaire de l'Académie</hi>
+                </ref>. <lb/>
+             <lb/>
+             • Les Ostrogoths ravagent le <ref target="repertoire_ff.html#forez">Forez</ref> au moment où le frère de la Bergère <ref target="personnage_dd.html#diane">Diane</ref> est enlevé (<ref target="../_roman/reference/21_1/21_1_livre_6.html#159_recto">I, 6, 159 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Ostrogoths</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#ostrogoths">I</ref>, <ref target="#2_ostrogoths">II</ref>, <ref target="#4_ostrogoths">IV</ref>
+             
+             Écrit <hi rend="italics">Ostrogots, Ostrogostz. </hi> Voir <ref target="repertoire_gg.html#goths">Goths</ref> et <ref target="repertoire_gg.html#2_gepides">Gépides</ref>. <ref target="bibliographie.html#jordanes">Jordanès</ref> signale que les Ostrogoths sont unis aux <ref target="repertoire_gg.html#2_gepides">Gépides</ref> (ch. XXV).  Quand ils sont défaits par les <ref target="repertoire_hh.html#2_huns">Huns</ref>, les <ref target="repertoire_uz.html#visigoths">Wisigoths</ref> les abandonnent. <ref target="personnage_aa.html#2_attila">Attila</ref> apprécie <ref target="repertoire_gg.html#2_goths">Goths</ref> et <ref target="repertoire_gg.html#2_gepides">Gépides</ref> (ch. XXIV).<lb/>
+             <lb/>
+             • Avec <ref target="personnage_uz.html#2_valamer">Valamir</ref>, leur roi, ils se soumettent à <ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#805">II, 12, 805</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Ostrogoths</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#ostrogoths">I</ref>, <ref target="#2_ostrogoths">II</ref>, <ref target="#4_ostrogoths">IV</ref>
+           
+           <ref target="bibliographie.html#fauchet">Fauchet</ref> explique que les Ostrogoths,  Goths orientaux, sont appelés aussi Amales, du nom d'un de leurs chefs (p. 86).  Leur roi le plus prestigieux est Théodoric le Grand, appelé <ref target="personnage_tt.html#4_thierry_ostrogoth">Thierry</ref> du temps de Fauchet et d'Honoré d'Urfé. Ce roi   a donné sa fille    à <ref target="personnage_ss.html#4_sigismond">Sigismond</ref>, le fils de <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref>, roi des <ref target="repertoire_bb.html#4_bourguignons">Bourguignons</ref> (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p. 115).
+           <lb/>
+           <lb/>
+• <ref target="personnage_ss.html#4_sigismond">Sigismond</ref> a perdu son épouse, <ref target="personnage_aa.html#4_amalberge">Amalberge</ref>, fille du roi des Ostrogoths (<ref target="../_roman/reference/24_4/24_4_livre_4.html#641">IV, 4, 641</ref>).<lb/>
+<lb/>
+• <ref target="personnage_aa.html#4_ardilan">Ardilan</ref> explique que l'entente de <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> avec les Ostrogoths et avec les <ref target="repertoire_uz.html#4_visigoths">Wisigoths</ref> renforcera la position des <ref target="repertoire_bb.html#4_bourguignons">Bourguignons</ref> face aux <ref target="repertoire_ff.html#4_francs">Francs</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#835">IV, 4, 835</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_mythe">
+                Ourse (Grande)</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#ourse_grande">I</ref>
+           
+
+            Appelée <hi rend="italic">Ourse Majeur</hi> (sic) en 1607. <lb/>
+            Mythologie. Constellation. Chez certains mythologues, deux Nymphes élèvent le petit <ref target="repertoire_ik.html#jupiter">Jupiter</ref>. Pour les protéger de l'ire de son père, le dieu les transforme en constellations, la Grande et la <ref target="#ourse_petite">Petite Ourse</ref>, et se transforme lui-même en constellation du <ref target="repertoire_dd.html#dragon">Dragon</ref>.
+             Chez <ref target="bibliographie.html#ovide">Ovide</ref> (II, 401-540), <ref target="repertoire_ik.html#jupiter">Jupiter</ref> transforme en constellations Callisto et Arcas, le fils qu'elle lui a donné,  pour les éloigner de <ref target="repertoire_ik.html#junon">Junon</ref> qui a métamorphosé sa rivale en ourse. Callisto est la Nymphe que <ref target="repertoire_dd.html#diane_m">Diane</ref> a chassée pour la punir d'avoir perdu sa virginité. <ref target="bibliographie.html#furetiere">Furetière</ref> écrit : « La Grande Ourse [...] a sept estoiles plus visibles &amp; brillantes, qui sont aussi disposées en forme de chariot. Il y a six estoiles de la seconde grandeur, &amp; une de la troisiesme »  (Article <hi rend="italics">Ourse</hi>). <lb/>
+             <lb/>
+• Ces constellations sont représentées dans les peintures qui constituent l'<ref target="../_roman/reference/21_1/21_1_livre_11.html#histoire_de_damon_et_de_fortune">Histoire de Damon et de Fortune</ref>, racontée par le druide <ref target="personnage_aa.html#adamas">Adamas</ref>. La Grande Ourse comprend vingt-sept étoiles dont sept éclatantes (<ref target="../_roman/reference/21_1/21_1_livre_11.html#373_verso">I, 11, 373 verso</ref>).<lb/>
+<lb/>
+• Voir dans ce <ref target="http://lamap93.free.fr/cours/lml/images/dragon.gif">site</ref> un dessin de ces constellations (5 mai 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_mythe">
+                Ourse (Petite)</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#ourse_petite">I</ref>
+             
+           Appelée <hi rend="italic">Ourse Mineur</hi> (sic) en 1607.<lb/>
+           Mythologie. Constellation. Voir <ref target="#ourse_grande">Grande Ourse</ref>. <lb/>
+           <lb/>
+           Selon <ref target="bibliographie.html#furetiere">Furetière</ref>, « La Petite Ourse est la plus proche du Pole, &amp; comprend sept estoiles qu'on appelle le Chariot, si on fait un triangle équilateral sur les deux dernieres de la queuë, la pointe touchera justement le Pole. [...]. Elle a donné le nom au Pole Arctique du mot Grec <hi rend="italics">arctos</hi>, qui signifie ourse »  (<hi rend="italics">Dictionnaire</hi>, Article <hi rend="italics">Ourse</hi>). <lb/>
+           <lb/>
+• Dans <hi rend="italics">L'Astrée</hi>, la Petite Ourse comprend sept étoiles dans les tableaux qui constituent l'<ref target="../_roman/reference/21_1/21_1_livre_11.html#histoire_de_damon_et_de_fortune">Histoire de Damon et de Fortune</ref>, racontée par le druide <ref target="personnage_aa.html#adamas">Adamas</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#373_verso">I, 11, 373 verso</ref>). <lb/>
+<lb/>
+• Voir dans ce <ref target="http://lamap93.free.fr/cours/lml/images/dragon.gif">site</ref> un dessin de ces constellations (5 mai 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

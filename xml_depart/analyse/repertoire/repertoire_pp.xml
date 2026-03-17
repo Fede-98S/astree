@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Répertoire P - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_rep"
+  onclick="SetDisplay('legende_rep')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_rep')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p>Catégories</p><table rend="center_o center_t" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" style="width:auto; height:20px; background-color:#FFCCFF">Actualité</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Géographie </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px">Histoire</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue" style="width:auto; height:20px">Littérature</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue_hashed" style="width:auto; height:20px">Mythologie</cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px"> Remarque </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+            </table><p> </p><ref target="repertoire.html">
+              <hi rend="bold">RÉPERTOIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="repertoire_aa.html">A</ref><ref target="repertoire_bb.html">B</ref><ref target="repertoire_cc.html">C</ref><ref target="repertoire_dd.html">D</ref><ref target="repertoire_ee.html">E</ref><lb/><ref target="repertoire_ff.html">F</ref><ref target="repertoire_gg.html">G</ref><ref target="repertoire_hh.html">H</ref><ref target="repertoire_ik.html">I</ref><ref target="repertoire_ik.html#j">J</ref><lb/><ref target="repertoire_ik.html#k">K</ref><ref target="repertoire_ll.html">L</ref><ref target="repertoire_mm.html">M</ref><ref target="repertoire_no.html">N</ref><ref target="repertoire_no.html#o">O</ref><lb/><ref target="repertoire_pp.html">P</ref><ref target="repertoire_qr.html">Q</ref><ref target="repertoire_qr.html#r">R</ref><ref target="repertoire_ss.html">S</ref><ref target="repertoire_tt.html">T</ref><lb/><ref target="repertoire_uz.html">U</ref><ref target="repertoire_uz.html#v">V</ref><ref target="repertoire_uz.html#w">W</ref><ref target="repertoire_uz.html#x">X</ref><ref target="repertoire_uz.html#y">Y</ref><ref target="repertoire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>
+              <ref target="repertoire.html">RÉPERTOIRE - P</ref>
+            </head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Pactole</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_pactole">III</ref>
+             
+             Mythologie. <ref target="bibliographie.html#plutarque_fleuves">Plutarque</ref> explique que le Pactole est un fleuve de Lydie qui charrie de l'or tiré des trésors de Crésus (VII).<lb/>
+             <lb/>
+             •           Balthazar <ref target="repertoire_bb.html#3_baro">Baro</ref> compose une « <hi rend="italics">
+                  <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_ode">Ode à la rivière de Lignon</ref>
+                </hi> » où il oppose le <ref target="repertoire_ll.html#3_lignon">Lignon</ref> au Pactole.<lb/>
+             <lb/>
+             Honoré d'Urfé évoquait plutôt les fleuves des Enfers de Virgile (par exemple le <ref target="repertoire_ll.html#2_lethe">Léthé</ref> ou le <ref target="repertoire_cc.html#2_cocyte">Cocyte</ref>).
+                <lb/>
+</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Padoue</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_padoue">II</ref>
+             
+             Écrit <hi rend="italic">Padoüe</hi>. Ville de l'<ref target="repertoire_ik.html#2_italie">Italie</ref> du Nord. « Les Padouans fuient à Rialto » (<ref target="bibliographie.html#bouvier">Bouvier-Ajam</ref>, p. 364). <lb/>
+             <lb/>
+             • Les habitants de <ref target="#2_padoue">Padoue</ref> abandonnent la ville après le passage d'<ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#841">II, 12, 841</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Pallas</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#pallas">I</ref>, <ref target="#2_pallas">II</ref>
+             
+             Mythologie. Épithète d'Athéna (<ref target="repertoire_mm.html#4_minerve">Minerve</ref>), déesse de la guerre et de la raison,  protectrice des villes.
+             « Que Pallas toute seule aille habiter les villes », chante un berger de <ref target="bibliographie.html#ronsard">Ronsard</ref> (<hi rend="italic">Églogue V</hi>, éd. Blanchemain, IV, p. 101.)<lb/>
+             <lb/>
+             • Pallas donne son nom à une place à <ref target="repertoire_mm.html#marcilly">Marcilly</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#39_verso">I, 2, 39 verso</ref>). <lb/>
+             <lb/>
+             Il est peut-être ironique qu'une déesse vierge préside justement dans un lieu où une entremetteuse explique à <ref target="personnage_aa.html#alcippe">Alcippe</ref> qu'une dame lui offre ses faveurs.
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Pallas</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#pallas">I</ref>, <ref target="#2_pallas">II</ref>
+             
+             Pallas Athéna, déesse de la sagesse est assimilée à <ref target="repertoire_mm.html#4_minerve">Minerve</ref> par les <ref target="repertoire_qr.html#2_romains">Romains</ref>.
+             Selon les <hi rend="italic">Commentaires</hi> de Jules <ref target="bibliographie.html#cesar">César</ref>, les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> connaissent une seule divinité féminine : « Minerve [qui] enseigne les éléments de l'industrie et des arts » (VI, 17, § 2).<lb/>
+             Le moraliste de <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Epistres</hi>
+                </ref> écrit que « le mors de Pallas » (I, 12, p. 105)  dirige l'homme vertueux, et que la déesse aide le héros à vaincre la Chimère (I, 4, p. 27). Voir <ref target="illustrations.html#hercule">Illustrations</ref>.<lb/>
+             <lb/>
+             • Dans la deuxième partie de <hi rend="italics">L'Astrée</hi>, devant une image de Pallas, <ref target="personnage_aa.html#2_adamas">Adamas</ref> explique qu'il faut considérer la déesse comme la sagesse de Dieu (<ref target="../_roman/reference/21_2/21_2_livre_8.html#516">II, 8, 516</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Palles</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#palles">I</ref>
+             
+             Mythologie. Génie protecteur des troupeaux.<lb/>
+             <lb/>
+             C'est seulement dans l'édition anonyme de 1607 qu'un Berger évoque ce Palès (<ref target="../_roman/reference/21_1/21_1_livre_10.html#349_recto">I, 10, 349 recto</ref>) qui  sera remplacé par les divinités celtes dans les  éditions suivantes. 
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Palus Meotides</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_palus_meotides">III</ref>
+             
+             Mer d'Azov aujourd'hui.  « La plus-part de ceux qui ont escrit des François, disent que des Troyens eschappez du sac de leur ville [...] conduits par un nommé Francion du lignage du Roy <ref target="#2_priam">Priam</ref> Roy de Troye arriverent aux palus Meotides (aujourd'huy la Mer Noire) où il bastirent une cité, par eux nommée Sicambrie » (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p. 58).<lb/>
+             <lb/>
+             • Les <ref target="repertoire_ff.html#3_francs">Francs</ref> sont appelés « ces vieux <ref target="repertoire_ss.html#3_sicambriens">Sicambriens</ref> [...] ces habitans  des Palus Meotides » (<ref target="../_roman/reference/21_3/21_3_livre_12.html#509_recto">III, 12, 509 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Pampelune</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#pampelune">I</ref>
+             
+             Ville d'<ref target="repertoire_ee.html#espagne">Espagne</ref> du Nord. Fondée par Pompée en 75 av. J. -C., cette ville  entourée de forteresses naturelles et de remparts se trouve sur le chemin de Saint Jacques de Compostelle (voir ce <ref target="http://www.fortiuspamplonabayonne.eu/fr/index.php/pampelune/fortifications/pampelune-une-ville-fortifiee/">site</ref>, 20 avril 2015).<lb/>
+             <lb/>
+             • Résidence des <ref target="repertoire_uz.html#visigoths">Wisigoths</ref> lorsqu'ils décident d'agir comme les chevaliers de la Table ronde (<ref target="../_roman/reference/21_1/21_1_livre_2.html#43_verso">I, 2, 43 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Pan</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#pan">I</ref>, <ref target="#3_pan">III</ref>
+             
+             Mythologie. Divinité protectrice des pasteurs et des troupeaux, Pan est à moitié homme et à moitié animal.<lb/>
+                <ref target="bibliographie.html#la_mure">La Mure</ref> décrit un temple à <ref target="repertoire_ff.html#feurs">Feurs</ref> dédié au  dieu « <ref target="#pan">Pan</ref> ou Sylvain [...] c'est à dire Dieu des Forest » (I, p. 77).<lb/>
+             <lb/>
+             • Les Bergers de <hi rend="italics">L'Astrée</hi> offrent des sacrifices à Pan (<ref target="../_roman/reference/21_1/21_1_livre_2.html#33_verso">I, 2, 33 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_4.html#104_verso">I, 4, 104 verso</ref>) et se recommandent à Pan (<ref target="../_roman/reference/21_1/21_1_livre_12.html#403_recto">I, 12, 403 recto</ref>). <lb/>
+             <lb/>
+             • Pan et <ref target="repertoire_ss.html#syringue">Syrinx</ref> donnent leur forme à des piliers dans les jardins d'<ref target="repertoire_ik.html#isoure">Isoure</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#368_recto">I, 11, 368 recto</ref>). Ils se tiennent  à l'entrée de la fontaine de la Vérité d'amour, tombe  décorée  de tableaux représentant le récit de la mort de deux Bergers. Françoise <ref target="bibliographie.html#lavocat_syrinx">Lavocat</ref> signale que Pan et les satyres figurent sur nombre de tombeaux rustiques au début du XVI<hi rend="supn">e</hi> siècle (p. 144). <lb/>
+             <lb/>
+              Pan est la divinité la plus souvent sacrifiée dans les éditions postérieures à 1607 ! <lb/>
+               En effet, les Bergers ne jurent plus par Pan mais par les dieux celtes<lb/>
+               (<ref target="../_roman/reference/21_1/21_1_livre_6.html#179_verso">I, 6, 179 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_8.html#226_recto">I, 8, 226 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_10.html#349_recto">I, 10, 349 recto</ref>).
+             <lb/>
+             Dans l'édition anonyme de 1607 seulement, <ref target="personnage_cc.html#celadon">Céladon</ref> sort de la « tige de Pan » (<ref target="../_roman/reference/21_1/21_1_livre_9.html#305_recto">I, 9, 305 recto</ref>).<lb/>
+               Virgile  voulait « que, par le portrait de Pan, le natif du pays [soit] signifié » (cité par <ref target="bibliographie.html#pierius">Pierius</ref>, II, p. 564). Au Moyen Âge, c'est le Prince  qui est représenté par le dieu Pan (F. <ref target="bibliographie.html#lavocat_arcadies">Lavocat</ref>, p. 199). 
+             <lb/>
+• « Pan te garde », formule  conventionnelle et pastorale dans <hi rend="italic">Le Berger extravagant</hi> de Sorel (<ref target="bibliographie.html#spica">Spica</ref>, p. 289), n'apparaît pas dans <hi rend="italic">L'Astrée</hi>.<lb/>
+<lb/>
+• On trouvera dans ce <ref target="https://commons.wikimedia.org/wiki/File:Jan_Brueghel_(II)_%26_Peter_Paul_Rubens_-_Pan_and_Syrinx_(Staatliches_Museum_Schwerin).jpg">site</ref> une représentation de Pan et de <ref target="repertoire_ss.html#syringue">Syrinx</ref> que l'on doit à Rubens et Brueghel II (23 mars 2019).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Pan</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#pan">I</ref>, <ref target="#3_pan">III</ref>
+             
+             Pan,
+             « Dieu des bergers », est nommé  dans <hi rend="italic">
+                  <ref target="bibliographie.html#triomphante">La Triomphante entrée</ref>
+                </hi> (pp. 34, 69 et 89). Dans <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref>, comme dans <hi rend="italic">L'Astrée</hi>, Pan illustre la
+             « noblesse de sang » (v. 1983), et un berger
+             « jure Pan » (v. 2080).            Pan figure également dans une énumération : « Les <ref target="#3_pan">Pans</ref>, les <ref target="repertoire_ee.html#3_egipans">Égipans</ref>, / Les Nymphes, les <ref target="repertoire_dd.html#3_dryades">Dryades</ref> » (v. 9291-9292). Aussi étrange que ce soit, <ref target="bibliographie.html#sireine">
+                  <hi rend="italic"> Le Sireine</hi>
+                </ref> connaît les  dieux <ref target="repertoire_aa.html#3_amour">Amour</ref> et <ref target="repertoire_ff.html#3_fortune_dieu">Fortune</ref> (p. 52 par exemple), mais ignore le dieu Pan. C'est aussi le cas chez <ref target="bibliographie.html#montemayor">Montemayor</ref>. <lb/>
+             Sur l'influence de Pan dans les aventures des héros de <hi rend="italic">L'Astrée</hi> voir <ref target="bibliographie.html#lavocat_syrinx">Lavocat</ref> (pp. 313-321). Voir aussi les illustrations qui suivent la conclusion dans le livre de Mme <ref target="bibliographie.html#lavocat_syrinx">Lavocat</ref>. <lb/>
+             <lb/>
+             • Au livre 3, <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> et <ref target="personnage_dd.html#3_delie">Délie</ref> s'amusent en échangeant des remarques sur ce dieu  que la déesse <ref target="repertoire_dd.html#3_diane_m">Diane</ref> aurait aimé (<ref target="bibliographie.html#virgileb">Virgile</ref>, <hi rend="italic">Géorgiques</hi>, III, 392) ; pieds de bouc, cornes et peau velue en font un « vilain » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#90_verso">III, 3, 90 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_3.html#91_verso">III, 3, 91 verso</ref>). <lb/>
+             Un sonnet des <hi rend="italic">Amours de Marie</hi> renferme cette image de Pan et de <ref target="repertoire_dd.html#3_diane_m">Diane</ref> (<ref target="bibliographie.html#ronsard">Ronsard</ref>, Édition Blanchemain, I, p. 168).<lb/>
+             <lb/>
+             • Le temple d'<ref target="repertoire_aa.html#3_astree_m">Astrée</ref> est l'œuvre d'un Pan ou d'un <ref target="repertoire_ee.html#3_egipans">Égipan</ref>, affirme <ref target="personnage_aa.html#3_astree">Astrée</ref> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#172_verso">III, 5, 172 verso</ref>). <ref target="personnage_aa.html#3_alexis">Alexis</ref> le répète, mais <ref target="#3_pans">Pans</ref> est au pluriel (<ref target="../_roman/reference/21_3/21_3_livre_9.html#374_recto">III, 9, 374 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Pandore</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#3_pandore">III</ref>
+             
+             Mythologie. <ref target="bibliographie.html#hesiode">Hésiode</ref> raconte dans <hi rend="italic">les Travaux et les Jours</hi> que <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> fait fabriquer la belle Pandore pour punir <ref target="#3_promethee">Prométhée</ref>, le voleur de feu : « Tu te réjouis d'avoir dérobé le feu divin et trompé ma sagesse, mais ton vol te sera fatal à toi et aux hommes à venir. Pour me venger de ce larcin, je leur enverrai un funeste présent dont ils seront tous charmés au fond de leur âme, chérissant eux-mêmes leur propre fléau ».<lb/>
+             La boîte de Pandore renferme les maux dans <ref target="bibliographie.html#triomphante">
+                  <hi rend="italic">La Triomphante entrée </hi>
+                </ref>aussi (p. 45). Dans les <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Epistres</hi>
+                </ref>, sans nommer Pandore, Honoré d'Urfé imite <ref target="repertoire_hh.html#hesiode">Hésiode</ref> quand il décrit    le reproche que <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> fait à <ref target="#3_promethee">Prométhée</ref>. Le châtiment est alors que « chacun se plaisant son mal embrassera » ; l'homme sera « envieux » et « serf de toutes ses passions » (I, 5, p. 36).<lb/>
+             <lb/>
+             • Quand <ref target="personnage_aa.html#3_argantee">Argantée</ref> se plaint des femmes, il s'interroge :  pour punir lequel des péchés de l'homme a-t-on créé Pandore (<ref target="../_roman/reference/21_3/21_3_livre_6.html#219_verso">III, 6, 219 verso</ref>) ?<lb/>
+             <lb/>
+             • Voir Pandore dans le <ref target="http://www.maicar.com/GML/Pandora1.html">site</ref> de Carlos Parada (3 août 2016).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Pannonie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_pannonie">II</ref>
+             
+             La Pannonie, en <ref target="repertoire_ee.html#europe">Europe</ref> centrale, correspond à peu près à la Hongrie d'aujourd'hui. C'était une province romaine jusqu'aux invasions du V<hi rend="supn">e</hi> siècle. <ref target="personnage_tt.html#2_theodose2">Théodose II</ref> donne la région aux <ref target="repertoire_hh.html#2_huns">Huns</ref>. <ref target="bibliographie.html#jordanes">Jordanès</ref>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#jordanes">η</ref>, un historien goth, cite longuement <ref target="personnage_pp.html#2_priscus">Priscus</ref>, un historien grec, quand il décrit les <ref target="repertoire_hh.html#2_huns">Huns</ref> (ch. XXIV). Honoré d'Urfé s'inspire essentiellement de ces deux écrivains quand il parle des <ref target="repertoire_hh.html#2_huns">Huns</ref>. <lb/>
+             <lb/>
+             •     Les <ref target="repertoire_hh.html#2_huns">Huns</ref> et les <ref target="repertoire_gg.html#2_gepides">Gépides</ref> prennent la Pannonie (<ref target="../_roman/reference/21_2/21_2_livre_11.html#738">II, 11, 738</ref> et <ref target="../_roman/reference/21_2/21_2_livre_11.html#752">II, 11, 752</ref>). <ref target="personnage_pp.html#2_priscus">Priscus</ref>, secrétaire de <ref target="personnage_uz.html#2_valentinien">Valentinien</ref>, décrit  à <ref target="personnage_uz.html#2_ursace">Ursace</ref> <ref target="personnage_aa.html#2_attila">Attila</ref> et son pays (<ref target="../_roman/reference/21_2/21_2_livre_12.html#826">II, 12, 826</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#2_aetius">Ætius</ref> est obligé de se réfugier en Pannonie (<ref target="../_roman/reference/21_2/21_2_livre_11.html#752">II, 11, 752</ref>). Il  persuade les <ref target="repertoire_hh.html#2_huns">Huns</ref> d'attaquer l'<ref target="repertoire_ik.html#2_italie">Italie</ref>, puis les convainc de retourner dans leur pays (<ref target="../_roman/reference/21_2/21_2_livre_11.html#758">II, 11, 758</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_mm.html#2_martian">Marcien</ref>, Empereur d'<ref target="repertoire_no.html#2_orient">Orient</ref>, vainc <ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#804">II, 12, 804</ref>). La Pannonie ne pouvant plus nourrir les <ref target="repertoire_hh.html#2_huns">Huns</ref>, ils se jettent sur l'<ref target="repertoire_no.html#2_occident">Occident</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#822">II, 12, 822</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_hh.html#2_honorique">Honorique</ref>, sœur de <ref target="personnage_uz.html#2_valentinien">Valentinien</ref>, suit <ref target="personnage_aa.html#2_attila">Attila</ref> en Pannonie (<ref target="../_roman/reference/21_2/21_2_livre_11.html#747">II, 11, 747</ref>). Le roi des <ref target="repertoire_hh.html#2_huns">Huns</ref> meurt le soir de ses noces (<ref target="../_roman/reference/21_2/21_2_livre_12.html#843">II, 12, 843</ref>).<lb/>
+             <lb/>
+             •     On trouve dans ce site une <ref target="http://totallyhistory.com/wp-content/uploads/2013/03/Attila_in_Gaul_451-CE.jpg">carte</ref> des migrations des <ref target="repertoire_hh.html#2_huns">Huns</ref> et une <ref target="http://voyagesenduo.com/italie/images/rome/rome_antique_carte_germanie.png">carte</ref> des tribus de Germains<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#germains">η</ref> (20 avril 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Pans</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_pans">II</ref>
+             
+             Mythologie. <ref target="#pan">Pan</ref>, la divinité pastorale par excellence disparaît dans la deuxième partie, ce qui marque la destitution de la mythologie.<lb/>
+             <lb/>
+             • Son succédané, les <ref target="#2_pans">Pans</ref>, coordonné aux Nymphes et <ref target="repertoire_ee.html#2_egipans">Égipans</ref> (<ref target="../_roman/reference/21_2/21_2_livre_5.html#275">II, 5, 275</ref>), rappelle (et appelle) <ref target="repertoire_ff.html#2_faune">faunes</ref>, <ref target="repertoire_ss.html#2_sylvain">sylvains</ref> et autres satyres. <lb/>
+             <lb/>
+             Si, comme le remarque F. <ref target="bibliographie.html#lavocat_syrinx">Lavocat</ref> (p. 185), « le corps de <ref target="#pan">Pan</ref> lui-même témoigne de la métamorphose de l'<ref target="repertoire_aa.html#arcadie">Arcadie</ref> »,  le pluriel de <ref target="#pan">Pan</ref> témoigne de la métamorphose de <hi rend="italics">L'Astrée</hi> en 1610. <lb/>
+             <lb/>
+             Le traitement des mythes d'<ref target="repertoire_ee.html#echo">Écho</ref>, de <ref target="#pan">Pan</ref> et de <ref target="repertoire_dd.html#diane_m">Diane</ref> dans la deuxième partie de <hi rend="italics">L'Astrée</hi> prouve que le romancier, en 1610,  ne fait plus appel de la même manière aux ressources de la mythologie classique. 
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Pans</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans</hi> : <ref target="#2_pans">II</ref>, <ref target="#3_pans">III</ref>
+           
+           <ref target="personnage_aa.html#3_alexis">Alexis</ref> déclare que le temple d'<ref target="repertoire_aa.html#3_astree_m">Astrée</ref> est l'œuvre de <ref target="#3_pans">Pans</ref> et d'<ref target="repertoire_ee.html#3_egipans">Égipans</ref> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#374_recto">III, 9, 374 recto</ref>).<lb/>
+           <lb/>
+           Le pluriel donne au mythe un rôle de métaphore.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Paphos</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#paphos">I</ref>
+             
+             Mythologie. Ville de Chypre célèbre pour le culte rendu à <ref target="repertoire_uz.html#venus">Vénus</ref>.<lb/>
+             <lb/>
+             • <ref target="personnage_hh.html#hylas">Hylas</ref> mentionne ce lieu dans un poème (<ref target="../_roman/reference/21_1/21_1_livre_8.html#244_recto">I, 8, 244 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Paris</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#paris_m">I</ref>, <ref target="#3_paris_m">III</ref>, <ref target="#4_paris_m">IV</ref>
+             
+             Mythologie.  Fils du roi <ref target="#2_priam">Priam</ref>, Pâris grandit parmi les Bergers. La Nymphe <ref target="repertoire_ee.html#enone">Œnone</ref> l'aime. Pâris accepte de comparer <ref target="repertoire_ik.html#junon">Junon</ref>, <ref target="repertoire_uz.html#venus">Vénus</ref> et Minerve pour choisir la plus belle d'entre elles. Parce qu'il élit <ref target="repertoire_uz.html#venus">Vénus</ref>, il peut se faire aimer par la belle épouse du roi Ménélas, Hélène. <ref target="#paris_m">Pâris</ref> se réfugie à Troie avec la femme qu'il a enlevée. Les Grecs soutiennent Ménélas. Ils envahissent et détruisent la ville. <lb/>
+             Le Jugement de <ref target="#paris_m">Pâris</ref> a inspiré poètes, moralistes et artistes.  La version que donne <ref target="bibliographie.html#apulee">Apulée</ref> dans les <hi rend="italics">Métamorphoses de l'âne d'or</hi> a influencé Honoré d'Urfé. Premier procès raconté dans <hi rend="italic">L'Astrée</hi>, ce Jugement expose une conception audacieuse de la justice ;  il faut en reconnaître les répercussions (<ref target="bibliographie.html#heneinf">Henein</ref>, pp. 49-56). D'Urfé met en scène et adapte une profonde réflexion de Marsile <ref target="bibliographie.html#ficin">Ficin</ref> : « Ma <ref target="repertoire_uz.html#venus">Vénus</ref> est <ref target="repertoire_dd.html#diane_m">Diane</ref> » (p. 382).<lb/>
+             <lb/>
+             • <hi rend="italics">L'Astrée</hi> rappelle trois des aventures du prince troyen, et les attribue toutes au héros :<lb/>
+             - <ref target="personnage_cc.html#celadon">Céladon</ref> est le  juge de trois déesses lors d'une reconstitution du Jugement (<ref target="../_roman/reference/21_1/21_1_livre_4.html#89_recto">I, 4, 89 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_7.html#207_recto">I, 7, 207 recto</ref>). <lb/>
+             - Il est aussi le Berger aimé par une Nymphe (<ref target="../_roman/reference/21_1/21_1_livre_2.html#24_verso">I, 2, 24 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_9.html#272_verso">I, 9, 272 verso</ref>).<lb/>
+             - C'est encore à <ref target="personnage_cc.html#celadon">Céladon</ref> que <ref target="personnage_gg.html#galathee">Galathée</ref> fait allusion lorsqu'elle parle d'un prince déguisé en Berger (<ref target="../_roman/reference/21_1/21_1_livre_2.html#24_verso">I, 2, 24 verso</ref>). <lb/>
+             <lb/>
+             •          Le romancier fait certainement preuve d'ironie lorsque <ref target="personnage_gg.html#galathee">Galathée</ref> déclare que <ref target="personnage_cc.html#celadon">Céladon</ref> et <ref target="#paris_m">Pâris</ref> sont « venus tous deux d'une mesme origine » (<ref target="../_roman/reference/21_1/21_1_livre_2.html#24_verso">I, 2, 24 verso</ref>),  l'imagination de poètes. <lb/>
+             <lb/>
+             Ironie encore : le personnage nommé <ref target="personnage_pp.html#paris">Paris</ref>, usurpateur malgré lui, ne jouit d'aucune des caractéristiques du <ref target="#paris_m">Pâris</ref> mythique, sinon qu'il grandit, comme lui, loin de ses parents.<lb/>
+               Il reste longtemps le seul personnage déguisé en Berger par pure courtoisie<lb/>
+               (<ref target="bibliographie.html#heneinp">Henein</ref>, pp. 179-180). 
+             <lb/>
+• Voir une étrange représentation de Virgile composant en songe le Jugement de Paris dans ce <ref target="https://www.rijksmuseum.nl/en/collection/BK-NM-7323">site</ref> (2 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Paris</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#paris_m">I</ref>, <ref target="#3_paris_m">III</ref>, <ref target="#4_paris_m">IV</ref>
+             
+             Dans la troisième partie, sans être nommé, le Pâris mythique est évoqué par <ref target="personnage_aa.html#3_astree">Astrée</ref> grâce à un rappel de la pomme donnée à la plus belle (<ref target="../_roman/reference/21_3/21_3_livre_1.html#4_verso">III, 1, 4 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Paris</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#paris_m">I</ref>, <ref target="#3_paris_m">III</ref>, <ref target="#4_paris_m">IV</ref>
+             
+             Le Pâris mythique perd son auréole. Il devient ici le trompeur qui  abandonne une nymphe.
+             Le romancier peut songer aux <hi rend="italic">Héroïdes</hi> d'<ref target="bibliographie.html#ovideh">Ovide</ref>. Dans l'Épître V, <ref target="repertoire_ee.html#enone">Œnone</ref> raconte son malheur en rapprochant <ref target="repertoire_tt.html#4_thesee">Thésée</ref> et Pâris : ils  ont enlevé tour à tour la belle Hélène. <lb/>
+             <lb/>
+             •             Dans un poème de <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, Pâris est le deuxième exemple  d'infidèle qui abandonne la femme qu'il disait aimer (<ref target="../_roman/reference/24_4/24_4_livre_1.html#39">IV, 1, 39</ref>), <ref target="repertoire_tt.html#4_thesee">Thésée</ref> est le premier.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Paris (ville)</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#paris_ville">I</ref>, <ref target="#2_paris_ville">II</ref>, <ref target="#3_paris_ville">III</ref>
+             
+             <ref target="bibliographie.html#piganiol">Piganiol</ref> rapporte l'histoire de Paris en indiquant ses sources. Il explique que, d'après Boèce, c'est Jules <ref target="personnage_cc.html#cesar">César</ref> qui a pris Lutèce puis l'a dotée de murailles et de deux forts à la tête de deux ponts de bois (I, p. 5). <lb/>
+             D'après <ref target="bibliographie.html#ammien">Ammien Marcellin</ref>, il y avait dans l'île un Palais, une place publique et un un marché (I, p. 6). Clovis choisit Paris pour être la capitale de ses États et le lieu de sa résidence ordinaire, en l'an 508.<lb/>
+             <lb/>
+             • Ville qui « porte le nom du Pasteur juge des trois Deesses », écrit d'Urfé (<ref target="../_roman/reference/21_1/21_1_livre_7.html#207_recto">I, 7, 207 recto</ref>), soulignant l'homonymie.<lb/>
+             <lb/>
+             • Paris reçoit <ref target="personnage_mm.html#merovee">Mérovée</ref>, roi des <ref target="repertoire_ff.html#francs">Francs</ref>,  comme seigneur (<ref target="../_roman/reference/21_1/21_1_livre_3.html#64_recto">I, 3, 64 recto</ref>) ; <ref target="personnage_mm.html#merovee">Mérovée</ref> s'y installe (<ref target="../_roman/reference/21_1/21_1_livre_11.html#359_recto">I, 11, 359 recto</ref>).<lb/>
+             <lb/>
+             • Paris est un lieu de refuge pour des Bergers, mais c'est là que <ref target="personnage_cc.html#cleon">Cléon</ref> et sa mère meurent de la peste<hi rend="cache"> </hi>
+                <ref target="note_1.html#207_recto_b">η</ref> (<ref target="../_roman/reference/21_1/21_1_livre_7.html#211_recto">I, 7, 211 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Paris (ville)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#paris_ville">I</ref>, <ref target="#2_paris_ville">II</ref>, <ref target="#3_paris_ville">III</ref>
+             
+             « Paris s'appelloit Lutece du temps que <ref target="personnage_cc.html#cesar">Cesar</ref> vint en <ref target="repertoire_gg.html#2_gaule">Gaule</ref> : et si elle estoit assise dans l'isle de <ref target="repertoire_ss.html#seine">Seine</ref> : et appartenoit au peuple Parisien, allié à la communauté des Senonois » (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 134 verso) ou Senones. D'Urfé s'éloigne un peu de sa source favorite : Dans <hi rend="italics">L'Astrée</hi>, la ville où réside <ref target="personnage_mm.html#2_merovee">Mérovée</ref> est la moderne Île de la Cité, mais elle a perdu son nom ancien. <lb/>
+             <lb/>
+             • <ref target="personnage_ff.html#2_fleurial">Fleurial</ref> explique « que l'on n'y sçauroit aller que par des ponts » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#662">II, 10, 662</ref>). <lb/>
+             <lb/>
+             •             Une légion romaine y est installée (<ref target="../_roman/reference/21_2/21_2_livre_11.html#759">II, 11, 759</ref>). <lb/>
+             <lb/>
+             • Plan de Lutèce (XVIII<hi rend="supn">e</hi> siècle)  dans  ce <ref target="http://plans.paris.online.fr/gallica/paris-hst1.html">site</ref> (30 septembre 2010).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Paris (ville)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#paris_ville">I</ref>, <ref target="#2_paris_ville">II</ref>, <ref target="#3_paris_ville">III</ref>
+             
+             « Clovis au partir de Tours vint droit à Paris [...] L'assiette de ceste ville fut tant aggreable au Roy François, ou propre à son Estat, qu'il en fit le siege de son Royaume » (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p. 137). <ref target="bibliographie.html#du_haillan">Du Haillan</ref> précise que ce fut autour de 509 (p. 71). Gilles <ref target="bibliographie.html#corrozet">Corrozet</ref>,  en faisant l'histoire de la ville de Paris, laisse entendre que les premiers mérovingiens déjà vivaient  dans
+             « ce grand Palais Parisien » (f° 15 verso). <lb/>
+             <lb/>
+             Le site d'Issy-les-Moulineaux rappelle que, selon la légende, un temple d'<ref target="repertoire_ik.html#3_isis">Isis</ref> se trouvait à l'emplacement où l'on a construit une église au XVII<hi rend="supn">e</hi> siècle (Information supprimée de ce <ref target="https://www.issy.com/histoire">site</ref>, 30 mai 2020).<lb/>
+             <lb/>
+             • <ref target="personnage_mm.html#3_methine">Méthine</ref> demeure à Paris (<ref target="../_roman/reference/21_3/21_3_livre_12.html#510_recto">III, 12, 510 recto</ref>). Après la mort de <ref target="personnage_mm.html#3_merovee">Mérovée</ref>, elle y laisse <ref target="personnage_cc.html#3_childeric">Childéric</ref> et se retire à <ref target="repertoire_uz.html#3_ville_des_remois">Reims</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#536_recto">III, 12, 536 recto</ref>).<lb/>
+             <lb/>
+             •  Dans le temple d'<ref target="repertoire_ik.html#3_isis">Isis</ref>, un oracle a promis que Paris deviendrait la capitale quand les <ref target="repertoire_ff.html#3_francs">Francs</ref> régneront en <ref target="repertoire_gg.html#3_gaule">Gaule</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#510_recto">III, 12, 510 recto</ref>). <lb/>
+             <lb/>
+             <p>Épisode ajouté après l'édition de 1619.</p>
+             <lb/>
+             • <ref target="personnage_mm.html#3_merovee">Mérovée</ref> arrête les <ref target="repertoire_ss.html#3_saxons">Saxons</ref> qui s'approchent de Paris (<ref target="../_roman/reference/21_3/21_3_livre_12.html#523_verso">III, 12, 523 verso</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_andrimarte">Andrimarte</ref> se rend à Paris (<ref target="../_roman/reference/21_3/21_3_livre_12.html#524_verso">III, 12, 524 verso</ref>).<lb/>
+             <lb/>
+             • Le peuple de Paris est mécontent de <ref target="personnage_cc.html#3_childeric">Childéric</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#539_verso">III, 12, 539 verso</ref>).<lb/>
+             <lb/>
+             • On peut voir le Paris de François de Belleforest en 1575 est dans ce <ref target="http://perso.numericable.fr/parisbal/plans/1575_Belleforest.jpg">site</ref> (2 novembre 2013).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Parnasse</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#parnasse">I</ref>
+             
+             Mythologie. Cette chaîne de montagnes près de Delphes est consacrée à <ref target="repertoire_aa.html#apollon">Apollon</ref> et aux Muses. Elle est à l'origine du nom de « Montparnasse ». <lb/>
+             <lb/>
+             • Comme les poètes grecs ont rendu le Parnasse célèbre, d'Urfé désire ennoblir le mont d'<ref target="repertoire_ik.html#isoure">Isoure</ref> (<ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                  <hi rend="italic">I, L'Autheur à la Bergere Astrée</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Parque</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#parque">I</ref>
+             
+             Mythologie. Généralement au nombre de trois, les Parques (« celles qui épargnent ») s'identifient au Destin ; elles filent, enroulent et coupent le fil de la vie. Atropos est l'Inflexible, <ref target="repertoire_cc.html#cloton">Clotho</ref> la Fileuse, et Lachésis le Sort. <lb/>
+             <lb/>
+             • <ref target="personnage_ff.html#filandre">Filandre</ref> déclare dans un poème que la Parque a ordonné qu'il ne sera pas aimé (<ref target="../_roman/reference/21_1/21_1_livre_6.html#163_verso">I, 6, 163 verso</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_tt.html#tircis">Tircis</ref> décrit « ceste
+
+             pasle Deesse »  sans la nommer (<ref target="../_roman/reference/21_1/21_1_livre_12.html#402_recto">I, 12, 402 recto</ref>). <lb/>
+             <lb/>
+             •  Voir  une tapisserie montrant les Parques dans ce <ref target="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Triumph_of_Death,_or_The_Three_Fates.jpg/200px-The_Triumph_of_Death,_or_The_Three_Fates.jpg">site</ref>  (15 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Parthenopé</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_parthenope_m">II</ref>
+             
+             Mythologie.
+             Nom de l'une des trois <ref target="repertoire_ss.html#2_sirenes">sirènes</ref>. Selon certains mythographes, les <ref target="repertoire_ss.html#2_sirenes">sirènes</ref> se sont tuées quand elles n'ont pas réussi à séduire <ref target="repertoire_uz.html#2_ulysse">Ulysse</ref>. Parce que le cadavre de Parthénopé a échoué à <ref target="repertoire_no.html#2_naples">Naples</ref>, la ville érigea un monument à cette <ref target="repertoire_ss.html#2_sirenes">sirène</ref> et la prit pour emblème. <lb/>
+             <lb/>
+             • <hi rend="italics">Parthenos</hi> signifie <hi rend="italics">vierge</hi>, jeune fille. C'est le nom que le romancier ingénieux attribue à « une belle fille » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#201">II, 4, 201</ref>) qui attire <ref target="personnage_hh.html#2_hylas">Hylas</ref> aussitôt qu'elle le regarde. <ref target="personnage_pp.html#2_parthenope">Parthénopé</ref> ne sera pas farouche. <lb/>
+             <lb/>
+             Cette aventure se fonde sur une succession d'interprétations partiellement fausses de la signification  de l'emblème choisi par <ref target="personnage_hh.html#2_hylas">Hylas</ref>. <lb/>
+               Le résultat pourtant révèle la vérité : l'inconstant tombe amoureux de n'importe  quelle jeune fille <lb/>
+               qu'il juge belle.
+             <lb/>
+             • Voir une mosaïque du Musée National du Bardo (Tunisie) représentant trois sirènes dans ce <ref target="http://www.mediterranees.net/mythes/ulysse/epreuves/sirenes/images/bardo2.jpg">site</ref> (10 septembre 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFFFFF;">
+                Parthenopé (ville)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_parthenope_2">II</ref>
+             
+             Ancien nom de <ref target="repertoire_no.html#2_naples">Naples</ref>, ville située au Sud-ouest de l'<ref target="repertoire_ik.html#2_italie">Italie</ref>. <lb/>
+             <lb/>
+             • Parthénopé est la ville où <ref target="personnage_gg.html#2_genseric">Genséric</ref> essuie une défaite en 455 (<ref target="../_roman/reference/21_2/21_2_livre_12.html#864">II, 12, 864</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Parthes</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_parthes">II</ref>
+             
+             La Parthie est au Nord de l'Iran actuel. Comme les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref>, les Parthes de l'antiquité n'avaient pas de littérature. Leurs conflits avec <ref target="repertoire_qr.html#rome">Rome</ref> (au sujet de l'Arménie surtout) s'apaisent au II<hi rend="supn">e</hi> siècle. Les <ref target="#2_perses">Perses</ref> annexent les Parthes au III<hi rend="supn">e</hi> siècle. À partir du VII<hi rend="supn">e</hi> siècle, la région s'appelle la <ref target="#2_perses">Perse</ref>. La culture persane a une réputation prestigieuse. Avicenne (980 - 1037), philosophe que d'Urfé cite dans ses <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Epistres</hi>
+                </ref>, est Persan (Voir Ongles<hi rend="cache"> </hi>
+                <ref target="note_2.html#2_ongles">η</ref>).
+             Les <ref target="#2_perses">Perses</ref> signent un traité de paix avec <ref target="personnage_tt.html#2_theodose">Théodose</ref> I<hi rend="supn">er</hi> en 390, et avec <ref target="personnage_tt.html#2_theodose2">Théodose II</ref>, Empereur d'<ref target="repertoire_no.html#2_orient">Orient</ref>, en 422. <lb/>
+             <lb/>
+             • Le roi des Parthes et des <ref target="#2_perses">Perses</ref> est le tuteur du fils de l'Empereur d'<ref target="repertoire_no.html#2_orient">Orient</ref>, <ref target="personnage_tt.html#2_theodose2">Théodose II</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#752">II, 11, 752</ref>). Il donne à l'enfant un gouverneur Parthe, <ref target="personnage_aa.html#2_antiochus">Antiochus</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#753">II, 11, 753</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Pavie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_pavie">II</ref>
+             
+             Ville de l'<ref target="repertoire_ik.html#2_italie">Italie</ref> du Nord. La campagne d'<ref target="personnage_aa.html#2_attila">Attila</ref> en <ref target="repertoire_ik.html#2_italie">Italie</ref>, en 452, a touché tant de villes que  les historiens énumèrent les noms comme une litanie tragique. « Tout y passe : <ref target="repertoire_mm.html#2_mantoue">Mantoue</ref>, <ref target="repertoire_uz.html#2_veronne">Vérone</ref>, Castiglione, Crémone, <ref target="repertoire_bb.html#2_bresse">Brescia</ref>, <ref target="repertoire_bb.html#2_bergame">Bergame</ref>, Lodi, Pavie, <ref target="repertoire_mm.html#2_milan">Milan</ref>, Côme, Novarre, Trecate, <ref target="repertoire_uz.html#2_vorcelly">Vercelli</ref>, Ciglano, Mortara, Magenta, Vigevanon » (<ref target="bibliographie.html#bouvier">Bouvier-Ajam</ref>, p. 365). <lb/>
+             <lb/>
+             • Les habitants de Pavie abandonnent la ville après le passage d'<ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#841">II, 12, 841</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Penates</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_penates">III</ref>, <ref target="#4_penates">IV</ref>
+             
+             Mythologie. « Terme de Mythologie, qui se dit de tous les Dieux domestiques que les Anciens adoroient dans la maison » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Il s'agit de l'humeur et de la chaleur de chacun, selon Natalis <ref target="bibliographie.html#conti">Conti</ref> (p. 229). <lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_arimant">Arimant</ref> jure de respecter <ref target="personnage_cc.html#3_criseide">Criséide</ref> devant les dieux Pénates (<ref target="../_roman/reference/21_3/21_3_livre_7.html#296_recto">III, 7, 296 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_gg.html#3_guyemant">Guyemant</ref> jure de rester fidèle à <ref target="personnage_cc.html#3_childeric">Childéric</ref> devant les dieux Pénates (<ref target="../_roman/reference/21_3/21_3_livre_12.html#547_recto">III, 12, 547 recto</ref>).<lb/>
+             <lb/>
+             • Voir dans ce <ref target="https://www.youtube.com/watch?v=J04BnjWHALc">site</ref> <ref target="repertoire_ee.html#enee">Énée</ref> portant son père qui tient les Pénates de Troie (17 avril 2019). Tableau de Frederico Barocci (1535 - 1612)</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Penates</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_penates">III</ref>, <ref target="#4_penates">IV</ref>
+             
+             Écrit <hi rend="italic">Pennates</hi>.<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#4_arcingentorix">Arcingentorix</ref>, père de <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> et maître de la maison, jure par les dieux domestiques qu'il tiendra la promesse donnée à <ref target="personnage_mm.html#4_merindor">Mérindor</ref>, prétendant à la main de la jeune fille (<ref target="../_roman/reference/24_4/24_4_livre_2.html#355">IV, 2, 355</ref>).  <lb/>
+             <lb/>
+             • À son tour, <ref target="personnage_mm.html#4_merindor">Mérindor</ref> réplique en jurant par ces mêmes dieux qu'il honorera <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> et son père (<ref target="../_roman/reference/24_4/24_4_livre_2.html#355">IV, 2, 355</ref>). <lb/>
+             <lb/>
+             <p>Les deux hommes vont manquer à leur promesse.</p>
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Peneloppe</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#3_penelope">III</ref>
+             
+             Mythologie. L'époux de Pénélope, <ref target="repertoire_uz.html#2_ulysse">Ulysse</ref>, s'absente « vingt ans, durant lesquels on dit [qu'elle] vesquit en toute chasteté sans donner aucun sujet de la pouvoir justement blasmer d'impudicité » (<ref target="bibliographie.html#conti">Conti</ref>, p. 767). Elle fait patienter les prétendants à sa main, en leur demandant d'attendre qu'elle ait terminé sa tapisserie, mais elle défait le jour ce qu'elle a fait la nuit. Voir ce <ref target="http://expositions.bnf.fr/homere/it/47/02.htm">site</ref> (17 septembre 2018).<lb/>
+             Dans le tableau du Primatice qui se trouvait à Fontainebleau, et que d'Urfé a pu voir, Pénélope, représentée près d'<ref target="repertoire_uz.html#2_ulysse">Ulysse</ref>, semble encore tenir un métier à tisser (<ref target="bibliographie.html#beguin_ecole">Béguin</ref>, p. 50). Voir  le <ref target="http://utpictura18.univ-tlse2.fr/GenerateurNotice.php?numnotice=A5822">site</ref> <hi rend="italic">Ut pictura</hi> (10 septembre 2018). Ce <ref target="http://dame-licorne.pagesperso-orange.fr/IMAGES/penelope%2032.jpg">site</ref> montre Pénélope filant dans un manuscrit des <hi rend="italic"> Vies des Femmes célèbres</hi> (10 septembre 2018).<lb/>
+             <lb/>
+             • En un vers, <ref target="personnage_cc.html#3_celadon">Céladon</ref> résume le mythe dans un poème intitulé « Sur une attente » (<ref target="../_roman/reference/21_3/21_3_livre_1.html#3_recto">III, 1, 3 recto</ref>).
+             Il compare à Pénélope le soleil qui tarde à se lever.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Perses</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#perses">I</ref>, <ref target="#2_perses">II</ref>
+           
+           <p>Les Perses appellent Dieu Sire, comme le dit d'Urfé dans les <ref target="../_roman/reference/21_1/21_1_liminaires.html#dedicace">Liminaires</ref>. « Sire. Dieu du paganisme » (<ref target="bibliographie.html#huguet">Huguet</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Perses</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#perses">I</ref>, <ref target="#2_perses">II</ref>
+             
+             L'Empire perse s'étendait sur une grande partie du Moyen Orient d'aujourd'hui. À l'époque dont parle Honoré d'Urfé, c'est une puissance qui doit s'entendre avec <ref target="repertoire_qr.html#rome">Rome</ref> et lutter contre les <ref target="repertoire_hh.html#2_huns">Huns</ref>. La capitale - où réside probablement leur roi - est Ctésiphon, sur le <ref target="repertoire_tt.html#3_tyle">Tigre</ref>.
+             Les historiens  confondent parfois les Perses avec les <ref target="#2_parthes">Parthes</ref>.<lb/>
+             Voir dans ce <ref target="http://ysagnier.free.fr/histoire/Iran/carte_sassan.jpg">site</ref> (5 mai 2015) une carte de la Perse du temps des Sassanides (qui inclut l'époque évoquée dans <hi rend="italic">L'Astrée</hi>). <lb/>
+             <lb/>
+           • Le jeune fils d'<ref target="personnage_aa.html#2_arcadius">Arcadius</ref>, Empereur d'<ref target="repertoire_no.html#2_orient">Orient</ref>, a pour tuteur le Roi des Perses (<ref target="../_roman/reference/21_2/21_2_livre_11.html#752">II, 11, 752</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Phocenses</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_phocenses">II</ref>, <ref target="repertoire_ff.html#3_focenses">III</ref>
+             
+             Appelés <ref target="repertoire_ff.html#3_focenses">
+                  <hi rend="italic">Focenses</hi>
+                </ref> dans la troisième partie de <hi rend="italic">L'Astrée</hi>. Leur nom moderne est <hi rend="italic">Phocéens</hi>. Cependant, dans le contexte du roman, il vaut mieux distinguer les <hi rend="italic">Phocenses</hi> (ou <hi rend="italic">Focenses</hi>) des <hi rend="italic">Phoceens</hi>. Ces deux peuples qui ont la même origine ont vécu sur des territoires différents selon un article de l'<ref target="bibliographie.html#encyclopedie">
+                  <hi rend="italic">Encyclopédie de Diderot</hi>
+                </ref>.<lb/>
+             Le Chevalier de Jaucourt écrit : « <hi rend="italic">Phocée</hi> étoit la dernière ville d'Ionie [...] Les anciens habitans de cette ville prirent le parti de la quitter,  plutôt que de tomber entre les mains des <ref target="#2_perses">Perses</ref> qui leur faisoient  continuellement la guerre. [...] Ils  bâtirent plusieurs villes, &amp; y porterent les sciences de  leur pays ainsi que leur commerce. Il ne faut pas confondre ces  Phocéens d'<ref target="repertoire_aa.html#2_asie">Asie</ref>  avec les peuples de la Phocide en <ref target="repertoire_ee.html#europe">Europe</ref>. Les premiers  s'appellent en latin <hi rend="italic">Phocei</hi> ou <hi rend="italic">Phocoeenses</hi> ; &amp; les derniers <hi rend="italic">Phocenses</hi> » (<ref target="bibliographie.html#encyclopedie">
+                  <hi rend="italic">Encyclopédie</hi>
+                </ref>, Article <hi rend="italics">Phocée</hi>). <lb/>
+             <hi rend="italic">Phocenses</hi> et <ref target="repertoire_ff.html#3_focenses">
+                  <hi rend="italic">Focenses</hi>
+                </ref>,  peuples connus pour leur science dans <hi rend="italic">L'Astrée</hi>, sont aujourd'hui les <hi rend="italic">Phocéens</hi>. Ils doivent leur nom aux phoques, rappelle J.-R. <ref target="bibliographie.html#armogathe">Armogathe</ref> (p. 226). Selon <ref target="bibliographie.html#fauchet">Fauchet</ref>, ils viennent « de Phocide province d'Asie » (p. 15), région où se trouve Delphes (p. 21).<lb/>
+             <lb/>
+             • « Phocenses »  est toujours juxtaposé à « Massiliens » (<ref target="../_roman/reference/21_2/21_2_livre_1.html#8">II, 1, 8</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_12.html#766">II, 12, 766</ref>). Il s'agit des maîtres des écoles fréquentées par <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> et <ref target="personnage_hh.html#2_hylas">Hylas</ref>. Voir <ref target="repertoire_mm.html#massiliens">Massiliens</ref> et Escoles<hi rend="cache"> </hi>
+                <ref target="note_2.html#2_escoles">η</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Phocenses</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_phocenses">II</ref>, <ref target="#3_phocenses">III</ref>
+             
+             Dans la <ref target="#3_province_des_romains">Province des Romains</ref>, les <ref target="#2_phocenses">Phocenses</ref> sont des Grecs païens ; ils ont mêlé leur religion avec celle des <ref target="repertoire_qr.html#3_romains">Romains</ref> et des <ref target="repertoire_gg.html#3_gaulois">Gaulois</ref> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#373_recto">III, 9, 373 recto</ref>). <lb/>
+             <lb/>
+             Le point de vue du romancier sur la Provence change dans la troisième partie (<ref target="../_roman/reference/21_2/21_2_livre_1.html#8">II, 1, 8</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_12.html#766">II, 12, 766</ref>).
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Phœnix</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#phoenix">I</ref>, <ref target="#3_phoenix">III</ref>
+             
+             Mythologie. Écrit aussi <hi rend="italic">Phenix</hi>. Oiseau fantastique qui renaît de ses cendres. Voir ce <ref target="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nuremberg_chronicles_f_104r_2.png/220px-Nuremberg_chronicles_f_104r_2.png">site</ref> (19 septembre 2018).<lb/>
+                <ref target="bibliographie.html#furetiere">Furetière</ref> écrit : « Se dit figurément en Morale, lors qu'on veut loüer quelqu'un d'une qualité extraordinaire, &amp; dire qu'il est l'unique en son espece » (Article <hi rend="italics">Phœnix</hi>). C'est une image que les poètes pétrarquistes chérissent. <lb/>
+             Dans <ref target="bibliographie.html#sireine">
+                  <hi rend="italic"> Le Sireine</hi>
+                </ref>, un Phénix « en constance » aime un Phénix « en beauté » (p. 201). Dans <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref>, le  héros est Phénix en son malheur et Phénix en son amour (v. 7330-7331).<lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#celadon">Céladon</ref> seul est comparé au Phénix : il était au comble du bonheur avant que le roman ne commence (<ref target="../_roman/reference/21_1/21_1_livre_1.html#3_recto">I, 1, 3 recto</ref>). Il passe donc sans doute par une étape sinistre avant de renaître.<lb/>
+             <lb/>
+             • Les deux autres occurrences se trouvent dans des poèmes où le Phénix n'est pas un personnage ; c'est l'amour qu'éprouve un chevalier (<ref target="personnage_ll.html#ligdamon">Ligdamon</ref>, <ref target="../_roman/reference/21_1/21_1_livre_3.html#75_recto">3, 75 recto et verso</ref>) ou un Berger (<ref target="personnage_ff.html#filandre">Filandre</ref>, <ref target="../_roman/reference/21_1/21_1_livre_6.html#163_verso">I, 6, 163 verso</ref>).<lb/>
+             <lb/>
+             • Voir  <hi rend="italic">The Phœnix portrait</hi> d'Élisabeth d'Angleterre (1575) dans ce <ref target="https://en.wikipedia.org/wiki/Portraiture_of_Elizabeth_I_of_England#/media/File:Elizabeth1_Phoenix.jpg">site</ref> (2 mai 2015). La reine est comparée au Phénix pour son éternelle jeunesse.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Phœnix</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#phoenix">I</ref>, <ref target="#3_phoenix">III</ref>
+             
+             • <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> écrit que le Phénix et elle ne brûlent qu'au soleil (<ref target="../_roman/reference/21_3/21_3_livre_4.html#167_recto">III, 4, 167 recto</ref>). Elle ne peut plus brûler parce que son soleil, le Roi <ref target="personnage_ee.html#3_euric">Euric</ref>, est mort. <lb/>
+             <lb/>
+             Si <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> ne peut plus brûler, c'est qu'elle n'est pas le Phénix !<lb/>
+               <lb/>
+               Ce poème a été composé pour la mort de Christophe<hi rend="cache"> </hi>
+                  <ref target="note_analyses.html#christophe">η</ref> d'Urfé<lb/>
+               (Voir <ref target="poemes.html#christophe">Poèmes</ref>).
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Pictes</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_pictes">II</ref>, <ref target="#3_pictes">III</ref>
+             
+             Les Pictes sont des <ref target="repertoire_cc.html#2_celtes">Celtes</ref> qui résident au Sud de la <ref target="repertoire_ll.html#2_loire">Loire</ref>. <ref target="bibliographie.html#bouchet_jean">Bouchet</ref> (qui est de Poitiers) explique que <hi rend="italic">Picti</hi> signifie « force paincte » (f° 4 verso). Ce peuple maritime participe à la coalition contre Jules César (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 772). Voyant <ref target="personnage_cc.html#cesar">César</ref> occupé en <ref target="repertoire_gg.html#2_gaule">Gaule</ref>, <ref target="#2_pictes">Pictes</ref> et Scots s'attaquent aux <ref target="repertoire_bb.html#2_bretons">Bretons</ref> (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 87 verso). <lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#2_attila">Attila</ref> engage les <ref target="#2_pictes">Pictes</ref> à prendre la <ref target="repertoire_bb.html#2_bretagne">Bretagne</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#738">II, 11, 738</ref>) que les <ref target="repertoire_qr.html#2_romains">Romains</ref> essaient de protéger grâce à une muraille (<ref target="../_roman/reference/21_2/21_2_livre_11.html#759">II, 11, 759</ref>). Pour se défendre, les <ref target="#2_pictes">Pictes</ref> appellent au secours les <ref target="repertoire_aa.html#2_anglois">Anglois</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#762">II, 11, 762</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Pictes</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_pictes">II</ref>, <ref target="#3_pictes">III</ref>
+             
+             <ref target="bibliographie.html#fauchet">Fauchet</ref> parle de « la rudesse sauvage des Pictes et Scots » (p. 90).<lb/>
+             <lb/>
+             • L'un des peuples qui ont perverti la pureté de la religion gauloise, dit <ref target="personnage_aa.html#3_adamas">Adamas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#373_verso">III, 9, 373 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Pierre Scize</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#3_pierre_cyze">III</ref>
+             
+             Écrit <hi rend="italic">Pierre-Cyze</hi>. « Le Château de Pierre en Scize étoit autrefois la demeure des Archevêques de Lyon » (<ref target="bibliographie.html#piganiol">Piganiol</ref>, V, p. 437). En 1593, le duc de Nemours y est enfermé (<ref target="bibliographie.html#reure">Reure</ref>, p. 43).<lb/>
+             <lb/>
+             • <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> accompagne <ref target="personnage_cc.html#3_criseide">Criséide</ref> jusqu'à la sépulture des Deux-Amants<hi rend="cache"> </hi>
+                <ref target="note_2.html#2_sepulture">η</ref>, qui se trouve à Pierre Scize (<ref target="../_roman/reference/21_3/21_3_livre_8.html#358_recto">III, 8, 358 recto</ref>).<lb/>
+             <lb/>
+             • Voir le <ref target="https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Pierre_Scize#/media/File:William_Marlow_Pierre_Scize_90_124cm.jpg">site</ref> de Wikipédia (16 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Pigmalion</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_pigmalion">III</ref>
+             
+             <ref target="repertoire_uz.html#3_venus">Vénus</ref> accepte de transformer la « Vierge d'ivoire » fabriquée par le talentueux sculpteur amoureux de son œuvre (<ref target="bibliographie.html#ovide">Ovide</ref>, X, 243 sq.).
+             Dans <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref>,  le pouvoir de Pygmalion sur le marbre est admiré, mais jugé fabuleux (p. 141).<lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> blâme la folie de celui qui tombe amoureux d'un marbre (<ref target="../_roman/reference/21_3/21_3_livre_2.html#34_verso">III, 2, 34 verso</ref>). <lb/>
+             Mais plus loin, il fait l'éloge de <ref target="#3_promethee">Prométhée</ref>, puni parce que, avec le feu du ciel, il « anima la statuë qu'il avoit faicte » (<ref target="../_roman/reference/21_3/21_3_livre_10.html#411_recto">III, 10, 411 recto</ref>).<lb/>
+             <lb/>
+             • Voir dans ce <ref target="http://ica.themorgan.org/manuscript/page/30/77186">site</ref> Pygmalion dans <hi rend="italic">le Roman de la rose</hi> (16 septembre 2018). Les versions modernes du mythe de Pygmalion sont nombreuses.  Les différents dénouements que Bernard Shaw a voulu donner à son <hi rend="italic">Pygmalion</hi> en 1914 sont particulièrement intéressants (<ref target="http://en.wikipedia.org/wiki/Pygmalion_%28play%29">Wikipédia</ref>, 10 janvier 2013).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#99FFFF;">
+                Pindare</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#pindare">I</ref>
+             
+             Poète lyrique grec du V<hi rend="supn">e</hi> siècle avant J.-C., auteur d'<hi rend="italics">Epinicies</hi>, odes faisant l'éloge de Grecs vainqueurs des jeux Olympiques. <ref target="bibliographie.html#equicola">Equicola</ref> inclut Pindare dans la liste des hommes qu'il condamne pour leurs mœurs : « Pindare est infame de ce qu'il s'est plongé en cest amour deshonneste. Il fut aymé d'<ref target="repertoire_hh.html#hercule">Hercule</ref> » (Livre 4, f° 185 verso). Il serait mort « dormant en l'academie au giron d'un jouvenceau » (Livre 6, f° 340 verso).<lb/>
+             Pindare, réputé pour ses vers obscurs et difficiles à traduire,  est apprécié par les amateurs de subtilités. Voir l'éloge de Marguerite Yourcenar (Grasset, 1932) et l'introduction de Philippe Renault dans le <ref target="http://remacle.org/bloodwolf/poetes/falc/pindare/intro.htm">site</ref> de Philippe Remacle (10 février 2013). <lb/>
+             Les vers de Pindare se prêtent à plus d'une interprétation. « Malherbe n'aimoit point du tout les Grecs, et particulierement il s'estoit declaré ennemy du galimatias de Pindare » (<ref target="bibliographie.html#tallemant">Tallemant</ref>, I, p. 110). En revanche, Ronsard se vante de « pindariser » dans ses odes (<ref target="bibliographie.html#gandar">Gandar</ref>, p. 83) : il sait, comme Pindare, déguiser l'unité de la composition sous la confusion (<hi rend="italic">
+                  <ref target="bibliographie.html#gandar">Ibid.</ref>
+                </hi>, p. 90).<lb/>
+             <lb/>
+             • Dans la préface de <hi rend="italics">L'Astrée</hi> (I, <ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                  <hi rend="italic">L'Autheur à la Bergere Astrée</hi>
+                </ref>), Pindare est l'un des trois poètes que d'Urfé considère comme des modèles parce qu'ils ont ennobli leur patrie dans leurs écrits. Une montagne (le mont <ref target="#parnasse">Parnasse</ref>) et un cours d'eau (l'<ref target="repertoire_hh.html#hypocrene">Hippocrène</ref>) grecs sont devenus et restés célèbres grâce à eux. <lb/>
+             <lb/>
+             • Voir <ref target="feux.html#modeles">Pleins feux</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Pirenees</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#2_pyrenees">II</ref>, <ref target="#3_pyrenees">III</ref>
+             
+             Chaîne de montagnes qui va de la Méditerranée au golfe de Gascogne. <lb/>
+             <lb/>
+             • <ref target="personnage_tt.html#2_thierry">Thierry</ref>, roi des <ref target="repertoire_uz.html#visigoths">Wisigoths</ref>, règne sur l'<ref target="repertoire_ee.html#espagne">Espagne</ref> et sur la partie de la <ref target="repertoire_gg.html#2_gaule">Gaule</ref> qui va des Pyrénées à la <ref target="repertoire_ll.html#2_loire">Loire</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#823">II, 12, 823</ref>), soit près de 500 km.<lb/>
+             <lb/>
+             • Voir la <ref target="cartotheque.html#carte_invasions">Carte des Invasions</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Pirenees</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#2_pyrenees">II</ref>, <ref target="#3_pyrenees">III</ref>
+             
+             • <ref target="personnage_tt.html#3_thierry">Thierry</ref>, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref>, traverse les Pyrénées pour vaincre <ref target="personnage_qr.html#3_richard">Richard</ref>, roi des <ref target="repertoire_ss.html#3_sueves">Suèves</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#64_recto">III, 3, 64 recto</ref>).<lb/>
+             <lb/>
+             • Un temple de <ref target="repertoire_uz.html#3_venus">Vénus</ref> se trouve sur le penchant des Pyrénées (<ref target="../_roman/reference/21_3/21_3_livre_6.html#257_verso">III, 6, 257 verso</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#3_criseide">Criséide</ref> et <ref target="personnage_bb.html#3_bellaris">Bellaris</ref> inventent ce qu'ils disent pour ne  pas être compris par ceux qui les écoutent : La jeune femme prétend qu'elle croyait <ref target="personnage_mm.html#3_marciante">Marciante</ref> et <ref target="personnage_bb.html#3_bellaris">Bellaris</ref> de l'autre côté des Pyrénées (<ref target="../_roman/reference/21_3/21_3_livre_8.html#338_verso">III, 8, 338 verso</ref>). En fait, seul <ref target="personnage_mm.html#3_marciante">Marciante</ref> y serait allé et il serait mort, lui répond <ref target="personnage_bb.html#3_bellaris">Bellaris</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#339_recto">III, 8, 339 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#99FFFF;">
+                Platon</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#platon">I</ref>
+             
+             Philosophe grec (427 av. J.-C. - 348 av J.-C.). Disciple de Socrate, auteur de nombreux dialogues, maître à penser des néo-platoniciens<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#neo_platonisme">η</ref>.
+             Celui qu'on appelle souvent « le divin Platon » (par exemple <ref target="bibliographie.html#equicola">Equicola</ref>, Livre II, f° 104 verso) a fortement influencé  Honoré d'Urfé.  Dans ses <hi rend="italics">
+                  <ref target="bibliographie.html#epistres">Epistres morales</ref>
+                </hi> (II, 9, p. 298), l'auteur écrit à l'interlocuteur imaginaire qu'il s'est donné : « C'est, peut-être, trop Platoniser<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#platoniser">η</ref> que ce que j'ay faict ce matin avec toy, mais il faut que tu m'excuses, puisque tu m'as prié de te nourrir des mesmes viandes que j'use pour moy ». « Platoniser » est à la fois un procédé didactique, une manière d'argumenter, et une conception particulière de l'esprit humain. <lb/>
+             Platoniser, c'est redire « Apprends à te connaître toi-même ». Ce  conseil donné par <ref target="repertoire_aa.html#apollon">Apollon</ref> à Socrate est répété dans chacun des livres des <hi rend="italics">
+                  <ref target="bibliographie.html#epistres">Epistres</ref>
+                </hi> (I, 7, p. 55 ;  II, 7, p. 279 ; III, 9, p. 464). Voir <ref target="paralleles.html#platonisme">Parallèles</ref>.<lb/>
+Par ailleurs, Honoré d'Urfé explique que Platon est appelé « divin » parce que, pour lui,  le bonheur provient quand « nostre entendement particulier sera conjoint au premier &amp; universel entendement, qui est Dieu » (<hi rend="italics">
+                  <ref target="bibliographie.html#epistres">Epistres</ref>
+                </hi>, III, 3, p. 89). <lb/>
+             <lb/>
+             Le principal disciple et traducteur moderne de Platon figure aussi dans <hi rend="italics">
+                  <ref target="bibliographie.html#epistres">Les Epistres</ref>
+                </hi> ; d'Urfé parle de  « ce grand Marsile Ficin » (III, 5, p. 415). <lb/>
+             <lb/>
+             Platon est nommé et cité uniquement dans l'édition de 1607 de <hi rend="italics">L'Astrée</hi>. <lb/>
+               Le Philosophe décrivait l'effet de l'amour sur « les esprits abaissez »<lb/>
+               (<ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                    <hi rend="italic">L'Autheur à la Bergere Astrée</hi>
+                  </ref>). 
+            <lb/>
+             • On trouvera dans ce <ref target="http://oncle-dom.fr/images/portraits/platon.jpg">site</ref> (30 octobre 2014) un buste de Platon qui se trouve au Musée du Vatican, et dans ce <ref target="http://jacques.prevost.free.fr/cahiers/cahier_39.htm">site</ref> des renseignements intéressants sur le philosophe (18 novembre 2015).<lb/>
+             <lb/>
+             • Platon vu par Raphaël est le tableau intitulé L'École d'Athènes (<ref target="https://fr.wikipedia.org/wiki/L%27%C3%89cole_d%27Ath%C3%A8nes#/media/Fichier:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg">Wikipédia</ref>, 23 spetembre 2019). Voir Platon dans la <ref target="galerie.html#platon">Galerie des portraits</ref>. Le doigt levé vers le Ciel  rappelle le geste de <ref target="personnage_cc.html#celadon">Céladon</ref> dans le premier frontispice (<ref target="illustrations.html#frontispices_1_2">Illustrations</ref>). C'est malheureusement aujourd'hui un signe de ralliement pour une organisation musulmane terroriste. </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#99FFFF;">
+                Plutarque</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#plutarque">I</ref>
+             
+             Moraliste grec du I<hi rend="supn">er</hi> siècle après J.-C. (48 ? - 125). Grâce aux traductions de Jacques Amyot en 1569,
+
+
+             les <hi rend="italics">Vies des hommes illustres</hi> et les soixante-seize opuscules des <hi rend="italics">Moralia</hi> ont  marqué les esprits. « Je n'ay dressé commerce avec aucun livre solide, sinon Plutarque et Seneque », déclare Montaigne (cité par <ref target="bibliographie.html#compagnon_citation">Compagnon</ref>, p. 295). Honoré d'Urfé cite fréquemment dans ses <hi rend="italics">Epistres</hi> celui qu'il appelle  « ce grand Plutarque » (<hi rend="italics">
+                  <ref target="bibliographie.html#epistres">Epistres morales</ref>
+                </hi>, I, 13, p. 120). <lb/>
+             <lb/>
+             • Dans la préface de <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                  <hi rend="italic">I, L'Autheur à la Bergere Astrée</hi>
+                </ref>), Plutarque, premier écrivain nommé par le romancier, est présenté comme l'auteur des <hi rend="italics">Vies,</hi> parallèles entre les Grecs et les Romains : il  dépeint en montrant ressemblances et différences. <lb/>
+             <lb/>
+              Honoré d'Urfé demande aux lecteurs de rester attentifs aux analogies comme aux divergences. <lb/>
+               Voir <ref target="paralleles.html#astree_i">Parallèles</ref>. <lb/>
+               (<ref target="bibliographie.html#heneinp">Henein</ref>, pp. 30-32).
+             <lb/>
+             • On trouvera dans ce <ref target="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plutarch.gif/220px-Plutarch.gif">site</ref> (5 décembre 2013) une gravure du XVI<hi rend="supn">e</hi> siècle représentant Plutarque.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Pluton</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_pluton">II</ref>
+             
+             Mythologie.
+             Divinité complexe rattachée aux Enfers aussi bien qu'aux richesses, et assimilée au dieu latin, <hi rend="italics">Dis Pater</hi> (<ref target="bibliographie.html#grimal">Grimal</ref>). « Nous le mettrons quelquefois esgal en puissance au Soleil, et par fois semblable à la terre : et neantmoins il sera le Roy d'Enfer » (<ref target="bibliographie.html#cartari">Cartari</ref>, p. 355). <lb/>
+             <lb/>
+             • Dans sa leçon de théologie, <ref target="personnage_aa.html#2_adamas">Adamas</ref> explique que les étrangers ont cru que les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> se disaient issus de ce dieu (<ref target="../_roman/reference/21_2/21_2_livre_8.html#515">II, 8, 515</ref>), l'homologue de <ref target="repertoire_dd.html#2_dis">Dis</ref>. <lb/>
+             <lb/>
+             • Voir le Pluton de François Perrier (1594 - 1649) dans ce <ref target="https://www.akg-images.co.uk/archive/Orphee-devant-Pluton-et-Proserpine-2UMDHURV27VA.html">site</ref> (16 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Po</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_po">II</ref>, <ref target="#3_po">III</ref>
+             
+             Écrit aussi <hi rend="italics">Pau</hi>.
+
+             Le Pô,  le plus long des fleuves d'<ref target="repertoire_ik.html#2_italie">Italie</ref>, va des <ref target="repertoire_aa.html#2_alpes">Alpes</ref> à l'<ref target="repertoire_aa.html#2_adriatique">Adriatique</ref>. Les villes de la plaine du Pô ont subi les attaques des envahisseurs : en 402, à Pollentia, puis en 403,   à <ref target="repertoire_uz.html#2_veronne">Vérone</ref>, les <ref target="repertoire_qr.html#2_romains">Romains</ref> défont les troupes d'<ref target="personnage_aa.html#2_alaric">Alaric</ref>. Comme <ref target="personnage_aa.html#2_alaric">Alaric</ref> revient se venger contre <ref target="repertoire_qr.html#rome">Rome</ref>, c'est sans doute la bataille de <ref target="repertoire_uz.html#2_veronne">Vérone</ref> que d'Urfé mentionne ici. <lb/>
+             <lb/>
+             • Malgré le traité de paix qui vient d'être signé, <ref target="personnage_ss.html#2_stilicon">Stilicon</ref> fait attaquer <ref target="personnage_aa.html#2_alaric">Alaric</ref>, roi des <ref target="repertoire_uz.html#visigoths">Wisigoths</ref>, près du Pô (<ref target="../_roman/reference/21_2/21_2_livre_11.html#739">II, 11, 739</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Po</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_po">II</ref>, <ref target="#3_po">III</ref>
+             
+             « Virgile a dit qu'il estoit le Roy des fleuves » (<ref target="bibliographie.html#guichenon_savoie">Guichenon</ref>, I, p. 20). <lb/>
+             <lb/>
+             •                     Le Pô coule au Sud du pays des <ref target="repertoire_ss.html#3_salasses">Salasses</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#283_verso">III, 7, 283 verso</ref>), le pays d'Aoste.<lb/>
+             <lb/>
+             • Voir la plaine du Pô dans ce <ref target="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Plaine-du-P%C3%B4-villes.JPG/440px-Plaine-du-P%C3%B4-villes.JPG">site</ref> (6 mai 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ponsins</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#ponsins">I</ref>, <ref target="#4_ponsins">IV</ref>
+             
+             Poncins est situé entre <ref target="repertoire_ff.html#feurs">Feurs</ref> et <ref target="repertoire_mm.html#montverdun">Montverdun</ref>. Voir la carte dessinée par Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> (p. 195) et la <ref target="cartotheque.html#carte_forez">Carte du Forez</ref>. Il y a presque 6 km entre Poncins et <ref target="repertoire_ff.html#feurs">Feurs</ref> (Voir le site de la <ref target="http://www.communes.com/rhone-alpes/loire/poncins_42110/">commune</ref>, 2 juillet 2014).<lb/>
+             <lb/>
+             • Quand <ref target="personnage_ll.html#leonide">Léonide</ref> s'arrête à Poncins (<ref target="../_roman/reference/21_1/21_1_livre_5.html#123_verso">I, 5, 123 verso</ref>), elle surprend une conversation de <ref target="personnage_cc.html#climanthe">Climanthe</ref> et de <ref target="personnage_pp.html#polemas">Polémas</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ponsins</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#ponsins">I</ref>, <ref target="#4_ponsins">IV</ref>
+             
+             Poncins est encore une fois associé aux  rencontres inattendues et aux informations bénéfiques.<lb/>
+             <lb/>
+             • Couché dans un buisson, <ref target="personnage_hh.html#4_hylas">Hylas</ref> entend les  envoyés de <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> dire qu'ils doivent  enlever une femme et puis se retrouver à Poncins  (<ref target="../_roman/reference/24_4/24_4_livre_3.html#400">IV, 3, 400</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_ll.html#4_leonide">Léonide</ref> rappelle à <ref target="personnage_gg.html#4_galathee">Galathée</ref> la rencontre qu'elle a faite à Ponsins (<ref target="../_roman/reference/24_4/24_4_livre_5.html#923">IV, 5, 923</ref>). <lb/>
+             <lb/>
+             Le récit de cette rencontre est  dans la première partie (<ref target="../_roman/reference/21_1/21_1_livre_5.html#123_verso">I, 5, 123 verso</ref>).
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Port des Gaulois</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#port_des_gaulois">I</ref>
+             
+             Le royaume désigné par cette périphrase dans <hi rend="italic">L'Astrée</hi> est le Portugal. En fait, le nom du <hi rend="italic">Portugal</hi> vient de <hi rend="italics">Portus Calle,</hi> la ville de Porto.<lb/>
+             <lb/>
+             • Pour une raison qui reste mystérieuse, <ref target="personnage_aa.html#alcippe">Alcippe</ref>, banni du <ref target="repertoire_ff.html#forez">Forez</ref>, est contraint de quitter <ref target="repertoire_ll.html#londres">Londres</ref> et la cour du roi <ref target="personnage_aa.html#artus">Arthur</ref> pour se rendre au Portugal (<ref target="../_roman/reference/21_1/21_1_livre_2.html#43_recto">I, 2, 43 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Pra, (La)</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#pra">I</ref>
+             
+             Lieu proche du <ref target="repertoire_ll.html#lignon">Lignon</ref>. Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> se demande s'il s'agit de « La Pras », à l'Est de <ref target="repertoire_mm.html#montverdun">Montverdun</ref> (p. 194, note 95).  Auguste <ref target="bibliographie.html#bernard_h">Bernard</ref> explique que, près de <ref target="repertoire_mm.html#montbrison">Montbrison</ref>, se trouve « un grand pré [qui] s'étendait tout le long de la rivière » et qui a pu donner son nom à la rue Pra-Comtale (I, p. 157).<lb/>
+             <lb/>
+             • Ce lieu est peint par <ref target="personnage_cc.html#climanthe">Climanthe</ref>, le faux druide, et montré aux Nymphes (<ref target="../_roman/reference/21_1/21_1_livre_5.html#139_recto">I, 5, 139 recto</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Premier siecle</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné :</hi> <ref target="#premier_siecle">I</ref>
+             
+             Mythologie. Dans ses <hi rend="italics">Métamorphoses</hi>, <ref target="bibliographie.html#ovide">Ovide</ref> décrit les quatre  âges du monde. « L'âge d'or fut le premier âge de la création. En l'absence de tout justicier, spontanément, sans loi, la bonne foi et l'honnêteté y étaient pratiquées » (I, 90 sq.). L'âge d'or se termine lorsque <ref target="repertoire_ik.html#jupiter">Jupiter</ref> prend la place de son père, <ref target="repertoire_ss.html#saturne">Saturne</ref>. Les moralistes commentent ainsi le nom du premier siècle : « Si on vouloit nommer le siecle où nous vivons, le siecle doré, on le pourroit faire avecques raison : parce que l'or est tellement cheri et adoré, qu'avec iceluy toutes choses s'obtiennent, et sans luy rien ne se fait » (<ref target="bibliographie.html#la_noue">La Nouë</ref>, p. 465).<lb/>
+             <lb/>
+             • L'âge d'or est dissimulé derrière une périphrase le « contentement du premier siecle » (<ref target="../_roman/reference/21_1/21_1_livre_1.html#1_verso">I, 1, 1 verso</ref>). <lb/>
+             <lb/>
+             • La tradition veut qu'on illustre l'âge d'or avec ce tableau de Poussin représentant des bergers autour d'un tombeau (voir ce <ref target="http://a405.idata.over-blog.com/2/15/60/57/histoire-de-l-art/classique-et-baroque/poussin2.jpg">site</ref>, 10 février 2014). L'âge d'or était infiniment moins mélancolique au XVI<hi rend="supn">e</hi> siècle.            Cranach l'Ancien par exemple montre un plaisant âge d'or (voir ce <ref target="http://upload.wikimedia.org/wikipedia/commons/d/db/Goldenes-Zeitalter-1530-2.jpg">site</ref>, 10 février 2014) pour mieux le distinguer du sinistre âge d'argent (voir ce <ref target="http://commons.wikimedia.org/wiki/File:Lucas_Cranach_d._%C3%84._004.jpg">site</ref>, 10 février 2014).<lb/>
+             <lb/>
+             • Voir <ref target="feux.html#age_d_or">Pleins feux</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Priam</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_priam">II</ref>
+             
+             Mythologie.
+             Dans <hi rend="italics">L'Iliade</hi> d'Homère, ce roi de Troie est célèbre pour sa piété et pour ses cinquante enfants. Il serait mort heureux s'il n'avait pas assisté à la ruine de Troie. <lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> rapporte une réflexion aristotélicienne sur le destin de ce roi (<ref target="../_roman/reference/21_2/21_2_livre_12.html#872">II, 12, 872</ref>) : on ne peut pas juger la vie d'un homme avant sa mort. Voir Heureux<hi rend="cache"> </hi>
+                <ref target="note_2.html#2_heureux_2">η</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Promethée</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#promethee">I</ref>, <ref target="#3_promethee">III</ref>, <ref target="#4_promethee">IV</ref>
+             
+             Mythologie. <ref target="repertoire_hh.html#hesiode">Hésiode</ref> raconte dans sa <hi rend="italics">Théogonie</hi> l'aventure de ce Titan qui a dérobé le feu aux dieux pour aider les hommes. <ref target="repertoire_ik.html#jupiter">Jupiter</ref> le châtie en l'attachant à une montagne et en envoyant son aigle lui dévorer le foie. <ref target="repertoire_hh.html#hercule">Hercule</ref> délivrera Prométhée. Lorsque <ref target="bibliographie.html#ronsard">Ronsard</ref> se dit « un Prométhée en passions », il songe  à la souffrance, non à la vaillance (« Amours de Cassandre », <hi rend="italic">Œuvres complètes</hi>, I, p. 8).  À la fin du <ref target="bibliographie.html#sireine">
+                  <hi rend="italic">Sireine</hi>
+                </ref>, d'Urfé écrit que ceux qui séparent les amants méritent le châtiment de Prométhée: ils serviront de pâture à un aigle (p. 211).<lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#silvandre">Silvandre</ref>, un enfant trouvé amoureux de la Bergère <ref target="personnage_dd.html#diane">Diane</ref>, se juge trop ambitieux et évoque ce mythe dans un poème où il traite ses espoirs d'<ref target="repertoire_ik.html#icare">Icares</ref> et d'<ref target="repertoire_ik.html#ixion">Ixions</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#222_verso">I, 8, 222 verso</ref>). Pour lui, Prométhée est fier d'avoir dérobé le feu céleste, bien qu'un aigle lui dévore le foie (« la poitrine », dans le poème). <lb/>
+             <lb/>
+             • On trouvera dans ce <ref target="http://www.theoi.com/image/img_prometheus.jpg">site</ref> (30 septembre 2010) un vase représentant le châtiment de Prométhée. Les représentations du crime sont moins nombreuses que celles du châtiment. Voici pourtant le voleur de feu du Rockefeller Center dans ce <ref target="https://broadway.showtickets.com/cdn/img/articles/broadway/secrets-of-rockefeller-center/rockefeller_600.jpg">site</ref> (21 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Promethée</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#promethee">I</ref>, <ref target="#3_promethee">III</ref>, <ref target="#4_promethee">IV</ref>
+             
+             Chez Marsile <ref target="bibliographie.html#ficin">Ficin</ref>, comme dans <hi rend="italic">L'Astrée</hi>, la faute de Prométhée est d'avoir animé une statue de terre avec le feu du ciel (III, 13, p. 307). Voir ce <ref target="https://www.alamyimages.fr/photo-image-promethee-creant-lhomme-eau-forte-175-x-251-cm-washington-dc-nga-160935155.html?pv=1&amp;stamp=2&amp;imageid=F9275744-7423-4996-892B-8B87FF34B0C6&amp;p=699740&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dprometheus%2520creating%2520man%26qt_raw%3dprometheus%2520creating%2520man%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d%26ispremium%3d1%26flip%3d0">site</ref> (21 septembre 2018)<lb/>
+             <lb/>
+             Dans les <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Epistres morales</hi>
+                </ref>, Honoré d'Urfé s'intéresse plutôt aux conséquences de la faute de Prométhée.  Le châtiment n'est plus spécifiquement le foie dévoré ou la boîte de <ref target="#3_pandore">Pandore</ref>. Le moraliste cite   le reproche que <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> fait à Prométhée chez <ref target="repertoire_hh.html#hesiode">Hésiode</ref>. À cause de la faute de Prométhée,  « chacun se plaisant son mal embrassera » ; l'homme sera « envieux » et « serf de toutes ses passions » (I, 5, p. 36). Plus loin, d'Urfé compare celui qui prétend connaître les autres à un Prométhée  « téméraire » (I, 7, p. 56), et ceux  qui prétendent connaître les causes de leurs propres actions à de « nouveaux Promethees » (II, 10, p. 304). <lb/>
+             <lb/>
+             • C'est encore <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> qui fait l'éloge de <ref target="#3_promethee">Prométhée</ref> dans la troisième partie. Prométhée a été châtié parce que, avec le feu du ciel, il « anima la statuë qu'il avoit faicte » (<ref target="../_roman/reference/21_3/21_3_livre_10.html#411_recto">III, 10, 411 recto</ref>). Le berger a blâmé auparavant la folie de celui qui est tombé amoureux d'un marbre (<ref target="../_roman/reference/21_3/21_3_livre_2.html#34_verso">III, 2, 34 verso</ref>), <ref target="#3_pigmalion">Pygmalion</ref>. <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Prométhée</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#promethee">I</ref>, <ref target="#3_promethee">III</ref>, <ref target="#4_promethee">IV</ref>
+             
+             <hi rend="italic">Géant</hi> est le nom commun appliqué généralement au <hi rend="italic">Titan</hi> (nom propre) dans la langue du temps. C'est le cas  dans les traductions de <ref target="bibliographie.html#pierius">Pierius</ref> (I, p. 304) ou de <ref target="bibliographie.html#cartari">Cartari</ref> (p. 491).<lb/>
+             Une illustration des <hi rend="italic">Commentaires</hi> de <ref target="bibliographie.html#pierius">Pierius</ref> (II, p. 569) montre  Prométhée en géant. <lb/>
+             <lb/>
+             
+                  <p><graphic url="../images/promethee_pierius.jpg" rend="img" mimeType="image/jpeg"/></p>
+            
+            <lb/>
+             L'action du « géant » de <hi rend="italic">L'Astrée</hi>, « escheller les cieux » (<ref target="../_roman/reference/24_4/24_4_livre_1.html#107">IV, 1, 107</ref>), est  décrite dans « L'<ref target="repertoire_hh.html#4_hercule">Hercule</ref> chrestien » de <ref target="bibliographie.html#ronsard">Ronsard</ref> :<lb/>
+     « Hé ! qu’est-ce après des geans qui les cieux <lb/>
+      Ont eschelé pour en chasser les Dieux, <lb/>
+      Auxquels Alcide a les forces ostées ? » <lb/>
+             (<hi rend="italic">Œuvres complètes</hi>, Éd. Blanchemain, II, p. 175).<lb/>
+             <lb/>
+             Monter aux cieux est l'acte ambitieux par excellence (<ref target="../_roman/reference/21_1/21_1_livre_8.html#222_verso">I, 8, 222 verso</ref>). 
+             <lb/>
+             • <ref target="personnage_hh.html#4_hylas">Hylas</ref> désigne Prométhée par une antonomase qui souligne un trait physique : il traite ironiquement <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> de « <ref target="repertoire_gg.html#4_geant">Geant</ref> » (<ref target="../_roman/reference/24_4/24_4_livre_1.html#107">IV, 1, 107</ref>) pour le défier de démontrer que sa maîtresse est la plus belle (<ref target="../_roman/reference/24_4/24_4_livre_1.html#134">IV, 1, 134</ref>). <lb/>
+             <lb/>
+             Ni Prométhée ni les géants ne se distinguent par leur éloquence.<lb/>
+               <lb/>
+               Encore une fois, un duel  sur la beauté finit en queue de poisson <lb/>
+               (Voir <ref target="paralleles.html#duel_beaute">Parallèles</ref>).
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Prothee</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_protee">II</ref>
+             
+             Mythologie.
+             Ce dieu grec qui change de forme à volonté est devenu au XX<hi rend="supn">e</hi> siècle, une maladie génétique (le syndrome de Protée) ainsi que le  symbole de la littérature baroque - grâce à Jean Rousset. Dans <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Les Epistres</hi>
+                </ref>, Protée est le pouvoir de l'homme sur lui-même, le changement salutaire (III, 1, p. 349). En 1990, j'ai intitulé <ref target="bibliographie.html#heneinp">
+                  <hi rend="italic">Protée romancier</hi>
+                </ref>, mon étude des déguisements dans <hi rend="italic">L'Astrée</hi>. <lb/>
+             Au XVII<hi rend="supn">e</hi> siècle, Protée était un nom commun au passé agité : « PROTÉE. s. m. C'est un nom qu'on donne aux personnes inconstantes ou trompeuses, qui changent de profession, qui paroissent sous diverses figures, &amp; qui se transforment en mille manieres, principalement pour tromper les autres : ce qui est fondé sur une fiction des Poëtes anciens d'un homme fabuleux qui changeoit à tout moment de forme &amp; de figure : &amp; cette fable vient de ce qu'un Roy d'Egypte nommé Protée, selon la coûtume du pays portoit sur la teste par ornement &amp; pour marque de sa dignité des figures de taureaux, de dragons, d'arbres &amp; d'autres choses semblables ; ce qui a fait que les peuples ont transporté à sa personne les figures de ses habillements de teste, comme dit Diodore Sicilien. On tient même que de là vient l'origine des casques, des cimiers qu'on voit encore dans le Blason » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+             <lb/>
+             • Quand <ref target="personnage_tt.html#2_thamire">Thamire</ref> appelle l'esprit de <ref target="personnage_cc.html#2_celidee">Célidée</ref> un Protée difficile à arrêter (<ref target="../_roman/reference/21_2/21_2_livre_1.html#62">II, 1, 62</ref>), il reproche à la Bergère des changements qu'il a lui-même initiés (<ref target="bibliographie.html#heneinp">Henein</ref>, pp. 411-412). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Province des Romains</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans : </hi>
+                <ref target="#province_des_romains">I</ref>, <ref target="#2_province_des_romains">II</ref>, <ref target="#3_province_des_romains">III</ref>, <ref target="#4_province_des_romains">IV</ref>
+             
+             C'est la <hi rend="italics">Provincia</hi>, le Sud de la <ref target="repertoire_gg.html#gaule">Gaule</ref>, région qui se distingue de la Gaule libre ou chevelue, car <hi rend="italic">Province</hi> signifie région déjà vaincue. Voir ce <ref target="https://www.inrap.fr/sites/inrap.fr/files/styles/album/public/thumbnails/image/carte_empire_1_0.gif?itok=zzYB9MVY">site</ref> (16 septembre 2018)<lb/>
+             Honoré d'Urfé est né en Provence, à Marseille. Son oncle et parrain, Honorat ou Honoré de Savoie, est
+             « lieutenant pour le Roy de tout ce pays de Provence »                      (<ref target="bibliographie.html#reure">Reure</ref>, p. 1). Le romancier y a séjourné à l'âge adulte d'après le témoignage de Mlle de <ref target="bibliographie.html#gournay">Gournay</ref> (I, p. 1128).<lb/>
+             <lb/>
+             • Deux personnages séjournent en Provence : <ref target="personnage_ss.html#silvandre">Silvandre</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#226_verso">I, 8, 226 verso</ref>) et <ref target="personnage_hh.html#hylas">Hylas</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#243_recto">I, 8, 243 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Province des Romains</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans : </hi>
+                <ref target="#province_des_romains">I</ref>, <ref target="#2_province_des_romains">II</ref>, <ref target="#3_province_des_romains">III</ref>, <ref target="#4_province_des_romains">IV</ref>
+             
+             La deuxième partie rappelle que la Camargue, « en la <ref target="#province_des_romains">province des Romains</ref> », est la patrie d'<ref target="personnage_hh.html#2_hylas">Hylas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_3.html#167">II, 3, 167</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_3.html#168">II, 3, 168</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_4.html#194">II, 4, 194</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Province des Romains</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans : </hi>
+                <ref target="#province_des_romains">I</ref>, <ref target="#2_province_des_romains">II</ref>, <ref target="#3_province_des_romains">III</ref>, <ref target="#4_province_des_romains">IV</ref>
+             
+             La province change  de nom dans la troisième partie : le pays (ou la terre) des Romains, les envahisseurs, devient le pays des <ref target="repertoire_gg.html#3_galloligures">Gallo-Ligures</ref>, nom donné aux autochtones.<lb/>
+             <lb/>
+             • Dans le livre 2, une certaine confusion règne : <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> et <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> habitent la même contrée. On lit pourtant que la Dame vit dans la Province des Romains (<ref target="../_roman/reference/21_3/21_3_livre_2.html#38_verso">III, 2, 38 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_2.html#45_recto">III, 2, 45 recto</ref>), alors qu'<ref target="personnage_aa.html#3_alcidon">Alcidon</ref> est « le plus gentil chevalier de la province des <ref target="repertoire_gg.html#3_galloligures">Galloligures</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_2.html#40_verso">III, 2, 40 verso</ref>).<lb/>
+             <lb/>
+             Deux fois l'édition de 1619 donne  « <hi rend="italic">province des Romains</hi> »<lb/>
+               et les éditions suivantes<lb/>
+               <hi rend="italic">« province des</hi>
+                  <ref target="repertoire_gg.html#3_galloligures">
+                    <hi rend="italic"> Galloligures</hi>
+                  </ref> »<lb/>
+               (<ref target="../_roman/reference/21_3/21_3_livre_2.html#40_verso">III, 2, 40 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_2.html#46_verso">III, 2, 46 verso</ref>). 
+             <lb/>
+             • <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> et sa mère, pour éviter les guerres, ont quitté l'<ref target="repertoire_aa.html#3_aquitaine">Aquitaine</ref> et se sont réfugiées dans la Province des Romains. <ref target="personnage_ee.html#3_euric">Euric</ref>, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref>, y arrive (<ref target="../_roman/reference/21_3/21_3_livre_3.html#66_verso">III, 3, 66 verso</ref>) et conquiert la région (<ref target="../_roman/reference/21_3/21_3_livre_3.html#64_recto">III, 3, 64 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_3.html#66_recto">III, 3, 66 recto</ref>). Le Roi déclare : « Presque toute cette Province,  qui se disoit des Romains, est maintenant à nous » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#108_verso">III, 3, 108 verso</ref>). <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> suit le Roi à la Cour (<ref target="../_roman/reference/21_3/21_3_livre_4.html#127_verso">III, 4, 127 verso</ref>). À la mort d'<ref target="personnage_ee.html#3_euric">Euric</ref>, <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> et sa mère rentrent dans la Province des Romains (<ref target="../_roman/reference/21_3/21_3_livre_3.html#63_verso">III, 3, 63 verso</ref>).<lb/>
+             <lb/>
+             • Les chevaliers de la province des Romains et du <ref target="repertoire_uz.html#3_venaissin">Venaissin</ref> sont des plus courtois (<ref target="../_roman/reference/21_3/21_3_livre_3.html#86_verso">III, 3, 86 verso</ref>). <lb/>
+             <lb/>
+             • L'oracle, dit <ref target="personnage_aa.html#3_adamas">Adamas</ref>, a conseillé à <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> et <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> de quitter la Province des Romains pour s'éloigner des contraintes (<ref target="../_roman/reference/21_3/21_3_livre_4.html#161_verso">III, 4, 161 verso</ref>). <lb/>
+             <lb/>
+             • <ref target="personnage_hh.html#3_hylas">Hylas</ref> est né dans la Province des Romains (<ref target="../_roman/reference/21_3/21_3_livre_7.html#278_verso">III, 7, 278 verso</ref>) ; c'est la région appelée <ref target="repertoire_cc.html#3_camargue">Camargue</ref> ailleurs (<ref target="../_roman/reference/21_3/21_3_livre_2.html#47_verso">III, 2, 47 verso</ref> par exemple).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_adamas">Adamas</ref> explique la confusion en disant : « Les <ref target="repertoire_gg.html#3_galloligures">Galoligures</ref>, qui est ceste  contree que communement l'on nomme à ceste heure la Province des Romains » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#373_recto">III, 9, 373 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> reste « une des principales Dames de  la province des Romains » (<ref target="../_roman/reference/21_3/21_3_livre_11.html#453_recto">III, 11, 453 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Province des Romains</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnée dans : </hi>
+                <ref target="#province_des_romains">I</ref>, <ref target="#2_province_des_romains">II</ref>, <ref target="#3_province_des_romains">III</ref>, <ref target="#4_province_des_romains">IV</ref>
+             
+             • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> dit indifféremment <hi rend="italic">Province des Romains</hi> ou <hi rend="italic">Province des <ref target="repertoire_gg.html#4_galloligures">Galloligures</ref>
+                </hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#238">IV, 2, 238</ref>), région qui comprend la <ref target="repertoire_cc.html#4_camargue">Camargue</ref> d'<ref target="personnage_hh.html#4_hylas">Hylas</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Province viennoise</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#province_viennoise">I</ref>
+             
+             « Province Viennoise ou Viennaise créée au IV<hi rend="supn">e</hi> siècle [...] quand la Gaule narbonnaise fut divisée en Viennaise et Narbonnaise I<hi rend="supn">e</hi> et II<hi rend="supn">e</hi>, toutes rattachées à la préfecture du prétoire des Gaules [...] Au V<hi rend="supn">e</hi> siècle elle fut divisée à son tour en Viennaise I<hi rend="supn">e</hi>, chef-lieu Vienne, et Viennaise II<hi rend="supn">e</hi>, chef-lieu <ref target="repertoire_aa.html#arles">Arles</ref> » (<ref target="http://fr.wikipedia.org/wiki/Viennaise">Wikipédia</ref>, 2 avril 2015). <lb/>
+             Vienne, sur le <ref target="repertoire_qr.html#rhone">Rhône</ref>, était une ville importante pour les <ref target="repertoire_aa.html#allobroges">Allobroges</ref>. <lb/>
+             <lb/>
+             • C'est à Vienne que <ref target="personnage_ss.html#silvandre">Silvandre</ref>, enlevé en <ref target="repertoire_ff.html#forez">Forez</ref>, est donné à un <ref target="repertoire_hh.html#helvetiens">Helvétien</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#228_recto">I, 8, 228 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Provins</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_provins">III</ref>
+             
+             Commune en Seine-et-Marne, à 77 km de <ref target="#3_paris_ville">Paris</ref> et à 168 km de <ref target="repertoire_bb.html#3_beauvais">Beauvais</ref>.<lb/>
+             On a découvert à Provins des haches celtiques et des traces d'un temple d'<ref target="repertoire_ik.html#3_isis">Isis</ref>, mais F. <ref target="bibliographie.html#bourquelot">Bourquelot</ref>, le principal historien de la ville, déclare : « Je n'ai pas trouvé dans les chroniqueurs qu'il fût question de Provins avant Charlemagne » (I, p. 67, note 1). En 484 ou 485 la ville est probablement prise par Clovis (<hi rend="italic">
+                  <ref target="bibliographie.html#bourquelot">Ibid.</ref>
+                </hi>, I, p. 69). Provins est dans le parti de la Ligue, mais se rend en 1592 quand <ref target="repertoire_hh.html#3_henri">Henri IV</ref> se présente devant les portes  (<hi rend="italic">
+                  <ref target="bibliographie.html#bourquelot">Ibid.</ref>
+                </hi>, II, p. 185).  Ni <ref target="bibliographie.html#fauchet">Fauchet</ref> (p. 102) ni <ref target="bibliographie.html#du_haillan">Du Haillan</ref> (I, p. 23) ne nomment Provins (ou <ref target="repertoire_bb.html#3_beauvais">Beauvais</ref> et <ref target="repertoire_ss.html#3_soissons">Soissons</ref>) en racontant l'exil forcé de <ref target="personnage_cc.html#3_childeric">Childéric</ref>.<lb/>
+             <lb/>
+             •  Les <ref target="repertoire_ff.html#3_francs">Francs</ref> se réunissent  à Provins et à <ref target="repertoire_bb.html#3_beauvais">Beauvais</ref> quand ils décident de renvoyer <ref target="personnage_cc.html#3_childeric">Childéric</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#535_verso">III, 12, 535 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#546_verso">III, 12, 546 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Psiché</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#psyche">I</ref>, <ref target="#3_psyche">III</ref>
+             
+             Mythologie. Comme <ref target="repertoire_ss.html#semele">Sémélé</ref>, Psyché a voulu voir un Dieu qui l'aimait mais qu'elle ne devait pas regarder. En s'approchant d'<ref target="repertoire_aa.html#amour">Amour</ref> avec une lampe à huile, elle l'a brûlé, d'où la cicatrice sur l'épaule du dieu. Apulée, au I<hi rend="supn">er</hi> siècle après J.-C., raconte ce mythe relativement moderne dans les <hi rend="italics">Métamorphoses de l'âne d'or</hi>. <lb/>
+             <lb/>
+             • Dans <hi rend="italics">L'Astrée</hi>, Psyché, comme <ref target="repertoire_ss.html#semele">Sémélé</ref>, ne figure pas  dans les « peintures esclatantes » que <ref target="personnage_cc.html#celadon">Céladon</ref> voit à <ref target="repertoire_ik.html#isoure">Isoure</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#27_verso">I, 2, 27 verso</ref>). D'Urfé se contente de nommer les deux jeunes femmes pour expliquer l'origine des cicatrices de <ref target="repertoire_ik.html#jupiter">Jupiter</ref> et de <ref target="repertoire_cc.html#cupidon">Cupidon</ref>. <lb/>
+             <lb/>
+             • On trouvera dans ce <ref target="http://www.lib-art.com/imgpainting/4/1/10414-cupid-and-psyche-orazio-gentileschi.jpg">site</ref> un tableau de Gentileschi représentant Psyché et <ref target="repertoire_cc.html#cupidon">Cupidon</ref> (30 septembre 2010).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Psiché</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#psyche">I</ref>, <ref target="#3_psyche">III</ref>
+             
+             <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref> rappelle que le dieu <ref target="repertoire_aa.html#3_amour">Amour</ref> a aimé « une Psyché » (p. 48).<lb/>
+             <lb/>
+             • Dans des vers composés par <ref target="personnage_aa.html#3_alexis">Alexis</ref> regardant <ref target="personnage_aa.html#3_astree">Astrée</ref> endormie, « le petit <ref target="repertoire_cc.html#3_cupidon">Cupidon</ref> » dort « dans le giron »            (<ref target="../_roman/reference/21_3/21_3_livre_11.html#464_recto">III, 11, 464 recto</ref>) de « l'Amoureuse Psyché », qui fut trop curieuse (<ref target="../_roman/reference/21_3/21_3_livre_11.html#464_verso">III, 11, 464 verso</ref>).<lb/>
+             <lb/>
+             
+                  <ref target="personnage_cc.html#3_celadon">Céladon</ref> se travestit ainsi une seconde fois puisqu'il prend  la place de Psyché, une femme punie pour sa curiosité. <lb/>
+             
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

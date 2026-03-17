@@ -1,0 +1,2205 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Glossaire E - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><ref target="glossaire.html">
+              <hi rend="bold">GLOSSAIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="glossaire_aa.html">A</ref><ref target="glossaire_bb.html">B</ref><ref target="glossaire_cc.html">C</ref><ref target="glossaire_dd.html">D</ref><ref target="glossaire_ee.html">E</ref><lb/><ref target="glossaire_ff.html">F</ref><ref target="glossaire_gg.html">G</ref><ref target="glossaire_hh.html">H</ref><ref target="glossaire_ik.html">I</ref><ref target="glossaire_ik.html#j">J</ref><lb/><ref target="glossaire_ik.html#k">K</ref><ref target="glossaire_ll.html">L</ref><ref target="glossaire_mm.html">M</ref><ref target="glossaire_no.html">N</ref><ref target="glossaire_no.html#o">O</ref><lb/><ref target="glossaire_pp.html">P</ref><ref target="glossaire_qr.html">Q</ref><ref target="glossaire_qr.html#r">R</ref><ref target="glossaire_ss.html">S</ref><ref target="glossaire_tt.html">T</ref><lb/><ref target="glossaire_uz.html">U</ref><ref target="glossaire_uz.html#v">V</ref><ref target="glossaire_uz.html#w">W</ref><ref target="glossaire_uz.html#x">X</ref><ref target="glossaire_uz.html#y">Y</ref><ref target="glossaire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>GLOSSAIRE - E</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eau impériale</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Frottant les temples et le poulx avec des eaux imperiales</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#309_recto">III, 7, 309 recto</ref>).         « Une espece d'eau distillée de noix de muscade, écorce de citron, cloux de girofle, feuilles de laurier, d'hyssope, de thim, de marjolaine, de sauge, de romarin, de lavende, des fleurs d'orange, etc. » (<ref target="bibliographie.html#furetiere_essais">Furetière</ref>, <hi rend="italic">Essai d'un dictionnaire</hi>, Article <hi rend="italics">Eau</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Échafaud</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Ouvrage de charpenterie élevé en forme d'amphitheatre pour y placer des spectateurs, afin de voir commodément quelque grande ceremonie » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Échafaud</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Monter dans l'eschaffaut</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#358_recto">III, 8, 358 recto</ref>). Les dictionnaires donnent monter <hi rend="italic">sur</hi> l'échafaud.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Effaceure</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Les effaceures des lettres</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#335_recto">III, 8, 335 recto</ref>). « Rature » (<ref target="bibliographie.html#godefroy">Godefroy</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Effect</cell>
+              <cell colspan="1" rowspan="1">Quand <hi rend="italic">effect</hi> signifie le résultat d'une cause, il n'a pas besoin d'explication supplémentaire. Mais <hi rend="italic">effet</hi> peut signifier  « Action. Accomplissement, exécution » (<ref target="bibliographie.html#huguet">Huguet</ref>). Il est alors traduit par « <hi rend="italic">Worke</hi> » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Effect</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- L'Europe attend ces effects</hi> (<ref target="../_roman/reference/21_3/21_3_liminaires.html#3_dedicace_louis">III, Au Roy</ref>). <lb/>
+          <hi rend="italic">- Faire des grands effects</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#526_verso">III, 12, 526 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Effect</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Il voulut mettre en effet</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#8">IV, 1, 8</ref>). <lb/>        « Mettre en effet, reduire en pratique » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Les affaires [...] esloignoient l'effect des esperances</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#779">IV, 4, 779</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Effet (d', par)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « D'effet. D'effect. En fait. — C'est peu d'aimer de bouche : il faut aimer d'effet. BAÏF, Antigone, III, 2 » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        La locution n'est pas dans <ref target="bibliographie.html#furetiere">Furetière</ref>. <lb/>
+        - « Par effet. En réalité » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italics">Effait</hi> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#536">II, 8, 536</ref>). Cette graphie n'est pas dans les dictionnaires.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Efforcer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Contraindre à un grand effort, forcer » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        Pour <ref target="bibliographie.html#furetiere">Furetière</ref>, ce verbe « ne se dit qu'avec le pronom personnel ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Effort</cell>
+              <cell colspan="1" rowspan="1">« Force, énergie, pouvoir. Violence, dommage »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> précise : « se dit aussi des hommes assemblez pour un même dessein. Cette armée va faire ses derniers <hi rend="italics">efforts</hi> pour emporter cette place ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Effronté</cell>
+              <cell colspan="1" rowspan="1">« Qui n'a point de pudeur, hardi à soustenir un mensonge, ou en d'autres mauvaises occasions &amp; indecentes. [...] Ce mot vient de ce que les Medecins appellent l'os coronal, ou l'os du front, sans vergogne ; desorte qu'il semble manquer à ceux qui n'ont point de pudeur. On a appellé dans la basse Latinité <hi rend="italics">infrontatus</hi>, pour dire un impudent, qui n'a point de front »  (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Effroyer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le voyant tout effroyé</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#312_verso">III, 7, 312 verso</ref>). « Effrayer »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). Il arrive que l'édition de 1621 le remplace par <hi rend="italic">effrayer</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#541_recto">III, 12, 541 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Égarement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Cet égarement d'esprit qui la rendoit presque farouche </hi>(<ref target="../_roman/reference/24_4/24_4_livre_1.html#45">IV, 1, 45</ref>). « ESGAREMENT. s. m. Erreur où on tombe, &amp; l'incertitude où on est, quand on a perdu son chemin » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Élargir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi, Estendre sa domination, sa seigneurie, soit en long, soit en large » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Élever</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Il me fit élever en tous les [..] exercices</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#233">IV, 2, 233</ref>).<lb/>
+        <hi rend="italic">Elever en</hi> n'est pas ds les dictionnaires du temps. <ref target="bibliographie.html#furetiere">Furetière</ref> donne seulement : « Cette fille a esté élevée en Religion ». Le <ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref> donne : « <hi rend="italic">Eslever </hi>un enfant<hi rend="italic"> en qqc.</hi> "Donner une formation (en tel domaine)" ». </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Éloigner</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Il ne souffrira jamais que nous vous éloignons</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#90">IV, 1, 90</ref>).<lb/>
+        La graphie seule s'est modernisée. Voir le sens et la construction de <ref target="#esloigner">
+                  <hi rend="italic">Esloigner</hi>
+                </ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Embesoigner</cell>
+              <cell colspan="1" rowspan="1">Écrit aussi <hi rend="italics">Embesongner</hi>. « Embesoigner [Renvoi de : Embesongner]. Occuper »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Embonpoint</cell>
+              <cell colspan="1" rowspan="1">« Bon état, bonne santé, bonne apparence »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+        « Pleine santé qui est accompagnée d'un peu trop de graisse » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Embonpoint</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Vous maintenir en bon poinct</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#766">IV, 4, 766</ref>).<lb/>
+        « Ce jeune homme est gras, &amp; en bon point » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Embrassement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Action d'embrasser » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Embrasser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Prendre parti, se resoudre à faire quelque chose. Ce jeune homme a embrassé la vie religieuse, la profession des armes » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Embrasser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Embrasser l'occasion</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#163_recto">III, 4, 163 recto</ref>). Saisir l'occasion.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Embrouiller</cell>
+              <cell colspan="1" rowspan="1">« Nuire au pouvoir, à l'influence de »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+        C'est plutôt l'explication de <ref target="bibliographie.html#furetiere">Furetière</ref> qui convient : « Mettre de la confusion, du desordre dans une affaire » (<ref target="../_roman/reference/21_1/21_1_livre_4.html#101_verso">I, 4, 101 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Embuscher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se mettre en embuscade, s'embusquer »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        Pour <ref target="bibliographie.html#furetiere">Furetière</ref> <hi rend="italics">s'embuscher</hi> est seulement un « Terme de Venerie, qui se dit des bestes poursuivies qui rentrent, ou qu'on fait rentrer dans le bois ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Emmailloter</cell>
+              <cell colspan="1" rowspan="1">« Se dit aussi de ceux qui s'enveloppent tellement dans leurs draps, dans leur couverture, dans leurs robbes de chambre, qu'ils n'ont pas le mouvement des bras libre, qu'ils ont de la peine à s'en desbarrasser » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> donne seulement <hi rend="italics">Maillotter.</hi>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Empescher</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Faire l'empesché</hi>. « Empesché. Occupé »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Empescher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - « Embarrasser, occuper » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <ref target="bibliographie.html#huguet">Huguet</ref> donne « S'empescher à. S'occuper de, travailler à », mais non <hi rend="italics">empêcher à</hi> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#766">II, 12, 766</ref>). <lb/>
+        - <hi rend="italics">Celuy que vous m'avez empesché</hi> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#863">II, 12, 863</ref>). Ce que vous m'avez empêché de faire. <lb/>
+        - <hi rend="italics">S'empescher que</hi> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#469">II, 7, 469</ref>)  n'est pas dans les dictionnaires.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Empescher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Leur empécher de finir</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#223_recto">III, 6, 223 recto</ref>). <lb/>        « <hi rend="italic">Empescher (à) qqn à/de </hi> inf. S'opposer à ce qqn fasse qqc., ôter à qqn la possibilité de » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Empescher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Le Roy demeura bien empesché</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#660">IV, 4, 660</ref>).<lb/>
+        « Embarrasser ». Mais <ref target="bibliographie.html#la_curne">La Curne</ref>  ajoute : « On s'en servoit encore très souvent en ce sens, avec le pronom personnel ».<lb/>
+        - <hi rend="italic">Pourveu qu'elle s'empeschat bien que nous ne fussions trompees</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#749">IV, 4, 749</ref>).<lb/>
+        « S'empescher. Prendre de la peine [...]  S'empescher de. Être embarrassé par, gêné par. [...] Empescher peut se construire avec divers temps de l'indicatif et avec le conditionnel » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        Dans ce cas, <hi rend="italic">S'empescher</hi> signifie <hi rend="italic">se garde</hi>r.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Empirique</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Medecin empirique</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#293_verso">III, 7, 293 verso</ref>). « Celui qui tient que la médecine ne consiste que dans l'expérience » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Employer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Donner de l'occupation à soy, ou à autruy » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Emporter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Tout emporté en cette ardente passion</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#462_verso">III, 11, 462 verso</ref>).
+        « EMPORTER, se dit aussi en parlant des violentes agitations de l'ame » (<ref target="bibliographie.html#furetiere">Furetière</ref>). L'édition de 1621 remplace <hi rend="italic">emporté</hi> par <hi rend="italic">employé</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Empouler</cell>
+              <cell colspan="1" rowspan="1">« Gonfler »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> ne donne pas le verbe mais seulement l'adjectif <hi rend="italics">ampoulé</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Empouller</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Taches rouges [qui] s'empoullerent</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#271">IV, 2, 271</ref>).<lb/>
+        <ref target="bibliographie.html#godefroy">Godefroy</ref> donne   <hi rend="italic">s'empouller</hi>,  se faire des ampoules  d'eau.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Empreindre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Imprimer quelque figure sur quelque chose par le moyen de quelque coin ou cachet » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Empunaisir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Eaux empunaisies par la puante <ref target="glossaire_pp.html#poix">poix</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#102_recto">III, 3, 102 recto</ref>). « Emplir d'une mauvaise odeur, infecter »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:247px;">
+                En</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Estre en les dettes de qqn. Être endetté envers qqn » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - « Avoir du malheur en. Sert encore à marquer la manière ou l'état ; &amp; tantôt il se résout par Avec » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - « En campagne. En devant divers mots, au lieu de à accompagné de l'article » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italic">Mettre en repos duquel [...]</hi> remplace <hi rend="italic">mettre au repos duquel [...]</hi> (<ref target="../_roman/reference/21_2/21_2_livre_5.html#304">II, 5, 304</ref>).
+        <lb/>
+        - <hi rend="italics">En la main</hi> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#869">II, 12, 869</ref>).  	« A devant divers noms communs »  (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italics">En pitié</hi>. (<ref target="../_roman/reference/21_2/21_2_livre_4.html#188">II, 4, 188</ref>). <hi rend="italics">En precipice</hi>. (<ref target="../_roman/reference/21_2/21_2_livre_10.html#636">II, 10, 636</ref>). « Exprimant la manière » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italics">Il n'en tenoit  plus la chambre</hi>. (<ref target="../_roman/reference/21_2/21_2_livre_11.html#701">II, 11, 701</ref>). « A cause de cela » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - « Sur accompagné ou non d'un article » (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> aussi donne <hi rend="italics">en terre</hi> pour <hi rend="italics">sur terre</hi> (Article <hi rend="italics">Terre</hi>). <lb/>
+        - « En. A devant un nom de ville » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - « En devant un nom de pays, au lieu de à accompagné de l'article » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <ref target="../_roman/reference/21_2/21_2_livre_12.html#779">II, 12, 779</ref>. « En ma foi. pour dire ma foi. En s'emploie souvent d'une façon pléonastique » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italics">Croire en paroles</hi> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#802">II, 12, 802</ref>).
+        « <hi rend="italics">En</hi> sans article, là où nous employons <hi rend="italics">dans</hi> suivi de l'article » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">En</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme"> - <hi rend="italic">En trahison</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#156_recto">III, 4, 156 recto</ref>).<lb/>
+        « À cause de cela » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italic">En toute façon</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#80_recto">III, 3, 80 recto</ref>).<lb/>
+        « En. exprimant la manière. [...] Dieu ne doibt estre adoré en façon vulgaire, mais en façon esleue et religieuse. RABELAIS, IV, 62 » (<ref target="bibliographie.html#huguet">Huguet</ref>, Article <hi rend="italic">Façon</hi>).<lb/>
+        <hi rend="italic">- <hi rend="italics">En fit signe</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#45_verso">III, 2, 45 verso</ref>). <lb/>
+          - Il y en avoit tousjours quelqu'un</hi>. (<ref target="../_roman/reference/21_3/21_3_livre_5.html#201_verso">III, 5, 201 verso</ref>).<lb/>
+        <hi rend="italic">- Le grand nombre qu'il y en a</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#210_verso">III, 5, 210 verso</ref>).<lb/>
+        <hi rend="italic">- La force à laquelle si tu en veux user [...] je m'y opposeray</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#360_recto">III, 8, 360 recto</ref>).<lb/>
+<hi rend="italic">- Elle vit en escrit</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#377_verso">III, 9, 377 verso</ref>).<lb/>
+        « Pléonastique » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        <hi rend="italic">- En la suite</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#233_verso">III, 6, 233 verso</ref>). « Dans » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        <hi rend="italic">- En dessein de </hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#242_recto">III, 6, 242 recto</ref>). Pour.<lb/>
+        <hi rend="italic">- Être en impatience</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#460_recto">III, 11, 460 recto</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> donne « en patience ».<lb/>
+        - <hi rend="italic">En rendre service</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#535_recto">III, 12, 535 recto</ref>).
+        « Pour cela, à cet effet »        (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">En</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">D'aujourd'huy en huict jours</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#267">IV, 2, 267</ref>).<lb/>
+        L'expression est dans <ref target="bibliographie.html#furetiere">Furetière</ref> (Article <hi rend="italic">Aujourd'huy</hi>).<lb/>
+        - <hi rend="italic">N'ay-je pas raison d'en craindre tous les autres</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#350">IV, 2, 350</ref>). <lb/>
+        Pléonastique.<lb/>
+        - <hi rend="italic">Aller en son logis</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#791">IV, 4, 791</ref>). <lb/>
+        « Jointe aux verbes de mouvement, elle indique le lieu : c'étoit l'<hi rend="italic">indè</hi> des latins » (<ref target="bibliographie.html#la_curne">La Curne</ref>). <lb/>
+        - <hi rend="italic">Frapper du pied en terre</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#795">IV, 4, 795</ref>).<lb/>
+        « Proche de "sur", comme c'est parfois le cas en lat. [...]<hi ondblclick="getActiveText()"> En terre et en mer</hi> » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>). <lb/>
+        - <hi rend="italic">J'estois la plus occupee en ce que je dis</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#875">IV, 4, 875</ref>).<lb/>
+        « Par »        (<ref target="bibliographie.html#la_curne">La Curne</ref>).<lb/>
+        <lb/>
+        Devant les noms de lieu,
+        <ref target="bibliographie.html#richelet">Richelet</ref>  explique : « En ou dans. Ces prépositions se mettent devant les noms qui ne sont pas de province,
+        et qui sont féminins, mais <hi rend="italic">dans</hi> n'y est plus usité ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En çà</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">- En çà... en là</hi>. « D'un côté... de l'autre »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>, Article <hi rend="italics">Ça</hi>). « Depuis deux ans en çà, c'est à dire, les deux dernieres années » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">En çà</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « En çà. Avant le temps présent » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En ce que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Parce que, puisque.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En façon que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je le traitteray en façon qu'il n'y retournera pas</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#5_verso">III, 1, 5 verso</ref>). « De telle sorte que » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En fuir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« S'en fuir [...]
+        - Mais où s'en est fuïe La grace evanouïe Ou l'atrait gracieux Qui regnoit en tes yeux ? BAÏF, Diverses amours, L. III (I, 391). - Il s'en est fuï. BAÏF, l'Eunuque, V, 1 » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En fuisse</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">S'enfuir</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En garde</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La Vestale qui estoit en garde</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#30_recto">III, 2, 30 recto</ref>). De garde.  « Un tel regiment est aujourd'huy de garde, entre en garde, monte, descend, releve la garde » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En là</cell>
+              <cell colspan="1" rowspan="1">- « En ce lieu »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">En là</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Plus en là.  Plus loin » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En suitte de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ce qu'il fit en suitte de ce dessein</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#523_recto">III, 12, 523 recto</ref>). « Des grammairiens ont repoussé la locution ensuite de comme vieillie et hors d'usage ; Pascal, Bossuet, Mme de Sévigné s'en servent couramment, et rien n'empêche de les imiter » (<ref target="bibliographie.html#littre">Littré</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En tant que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Parce que » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">En tant que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ne croyez point que j'y faille, sinon en tant que la puissance me manquera</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#131_verso">III, 4, 131 verso</ref>). « Autant que » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En terre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Se laissant aller en terre</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#201">IV, 2, 201</ref>).<lb/>
+        Sur la terre. <ref target="bibliographie.html#furetiere">Furetière</ref> donne « Dieu est descendu en terre » (Article <hi rend="italic">Terre</hi>), et <ref target="bibliographie.html#richelet">Richelet</ref> « donner du nez en terre »,  tomber  (Article <hi rend="italic">Terre</hi>). « Aujourd'huy en terre demain enterré. <hi rend="italic">To day on the earth, to morrow in it</hi> » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En venir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je suis d'advis que ce soir mesme vous vous en veniez avec moy</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#549_verso">III, 12, 549 verso</ref>). « S'en venir. Venir, revenir » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                En volonté</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il fut deux ou trois fois en volonté de se faire voir à luy</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#20_verso">III, 1, 20 verso</ref>). En voulant. <ref target="bibliographie.html#nicot">Nicot</ref> donne la locution :  « Il fera ce qu'il luy viendra <hi rend="italics">en volonté</hi> et à plaisir ». « <hi rend="italic">Avoir qqc. en volonté.</hi> Vouloir qqc. » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enceindre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La <ref target="repertoire_ss.html#3_seine">Seine</ref> enceint de  ses deux bras</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#510_verso">III, 12, 510 verso</ref>). « Entourer » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Encens masle</cell>
+              <cell colspan="1" rowspan="1">« Substance résineuse aromatique, de saveur âcre, qui brûle en répandant une odeur pénétrante. Encens indien ou encens mâle : l'oliban, provenant de la botwellia, plante d'Éthiopie » (<hi rend="italics">
+                  <ref target="bibliographie.html#robert">Le Grand Robert</ref>).</hi>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enclouer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme"> <hi rend="italic">Le cheval estoit encloüé</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#725">IV, 4, 725</ref>).<lb/>
+        « ENCLOÜER, se dit aussi d'un cheval qui a pris un clou de ruë, ou qui a été picqué d'un clou par un Mareschal ignorant qui le vouloit ferrer » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Encoigneure</cell>
+              <cell colspan="1" rowspan="1">« L'angle, le coin où aboutissent deux ruës, deux surfaces de muraille, ou d'autres corps » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:36px;">Encore</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Encore ne vous ay-je accordé que le reste de ce jour</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#448_recto">III, 10, 448 recto)</ref>. « Jusqu'à present » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:36px;">Encore</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Je ne croy pas que sans la survenuë de mon pere, il eust encore cessé de me remercier</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#299">IV, 2, 299</ref>).<lb/>
+        Il n'aurait pas encore cessé.
+        « <hi rend="italic">Yet, as yet, even yet</hi> » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:36px;">
+                Encore que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">J'aymerois mieux ce party  que celuy de <ref target="personnage_pp.html#4_periandre">Periandre</ref>, encore qu'il n'eut pas esté traistre</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#301">IV, 2, 301</ref>).<lb/>
+        « En plus de cela que » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).<lb/>
+        <ref target="repertoire_bb.html#3_baro">Baro</ref> ne corrige pas cet archaïsme. Dans toutes les autres occurrences, <hi rend="italic">encore que</hi> a son sens moderne (par exemple <ref target="../_roman/reference/24_4/24_4_livre_2.html#336">IV, 2, 336</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Encores</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« A cette heure » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:36px;">
+                Encourir</cell>
+              <cell colspan="1" rowspan="1">- <ref target="../_roman/reference/21_1/21_1_livre_4.html#108_recto">I, 4, 108 recto</ref>.   Souvent écrit en deux mots alors que les dictionnaires favorisent <hi rend="italic">encourir</hi> en un mot. <lb/>
+        <hi rend="italic">S'encourir</hi> signifie  ici « Se mettre à courir, se précipiter » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:54px;">Encourir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Tomber dans la disgrace d'un superieur, meriter les peines portées par la loy, ou le reproche public » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Encourir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Ils s'en courent à la haïne</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#83">IV, 1, 83</ref>).<lb/>
+        D'Urfé donne au verbe le sens qu'il a chez <ref target="bibliographie.html#huguet">Huguet</ref> :        « Tomber. Arriver, advenir ». <lb/>
+        - <hi rend="italic">Elle s'en courut du costé où elle avoit veu</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#156">IV, 1, 156</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Endolu</cell>
+              <cell colspan="1" rowspan="1">Du verbe <hi rend="italics">Endoloir (s')</hi> au participe passé. « Souffrir.  Endolori, qui éprouve une douleur ».<lb/>
+        <ref target="bibliographie.html#huguet">Huguet</ref> donne deux exemples, tous deux tirés de <hi rend="italics">L'Astrée :</hi> <lb/>
+        — « La ou l'espoir peut seulement lecher nostre playe, elle n'est aussi tost plus endolue » (<ref target="../_roman/reference/21_1/21_1_livre_12.html#402_recto">I, 12, 402 recto</ref>). <lb/>
+        — « <ref target="personnage_cc.html#2_celidee">Celidee</ref> de qui les playes envenimees s'estoient bouffies et endoluës de façon qu'elle en avoit la fiebvre » (<ref target="../_roman/reference/21_2/21_2_livre_11.html#705">II, 11, 705</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Endurant</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">L'estranger qui n'estoit guere endurant de son naturel</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#221_verso">III, 6, 221 verso</ref>). « Patient » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enfant d'honneur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il fut nourry enfant d'honneur aupres de ce jeune Prince</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#509_recto">III, 12, 509 recto</ref>). « Enfants d'honneur, sont les jeunes Gentilshommes qu'on donne aux Princes pour leur servir de Pages » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enfants perdus</cell>
+              <cell colspan="1" rowspan="1">« On appelle enfans perdus, ceux qu'on expose les premiers pour monter à une bresche » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Voir <ref target="glossaire_pp.html#perdu">Perdu</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enfin</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Vous faites plus pour moy que pour tout autre : mais que me vaut cela, si enfin vous ne faites rien pour personne</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#198_verso">III, 5, 198 verso</ref>).  « À la fin » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enflambé</cell>
+              <cell colspan="1" rowspan="1">« Enflammé »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enflé</cell>
+              <cell colspan="1" rowspan="1">Avoir le cœur <hi rend="italics">enflé</hi>.  « La naissance hausse le cœur, <hi rend="italics">enfle</hi> le cœur des Gentilshommes » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Mais chez d'Urfé, il s'agit plutôt de ressentiment : « Elle avoit le cœur si <hi rend="italics">enflé</hi> de ceste offense » (<ref target="../_roman/reference/21_1/21_1_livre_9.html#282_recto">I, 9, 282 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Engeance</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Cette engeance d'erreu</hi>r (<ref target="../_roman/reference/24_4/24_4_livre_1.html#44">IV, 1, 44</ref>). Les hommes. « ENGEANCE, se dit figurément des hommes meschans. JESUS-CHRIST appelloit les Pharisiens engeance de viperes, en St. Matthieu » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Engraver</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi, Graver profondément. Il faut avoir les commandements de Dieu engravez dans sa memoire. Il ne se dit gueres qu'en cette phrase figurée » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Pour <ref target="bibliographie.html#huguet">Huguet</ref>, c'est simplement un synonyme de <hi rend="italics">graver</hi>, comme chez d'Urfé (<ref target="../_roman/reference/21_2/21_2_livre_3.html#174">II, 3, 174</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Énigme</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Si vous ne m'expliquez d'autre sorte cet Enigme</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#196_recto">III, 5, 196 recto</ref>).<hi rend="italic"> </hi>Substantif masculin dans <ref target="bibliographie.html#huguet">Huguet</ref> aussi. Il appartient aux deux genres dans <ref target="bibliographie.html#richelet">Richelet</ref>, mais il est seulement féminin dans <ref target="bibliographie.html#furetiere">Furetière</ref>.<lb/>
+        Dans la première partie également, <hi rend="italic">énigme</hi> était du masculin (<ref target="../_roman/reference/21_1/21_1_livre_10.html#310_verso">I, 10, 310 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enjoindre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Enjoignant les mains</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#159">IV, 2, 159</ref>).<lb/>
+        <ref target="bibliographie.html#huguet">Huguet</ref> donne « s'enjoindre », synonyme de <hi rend="italic">se joindre.</hi>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enlever</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Les <ref target="glossaire_mm.html#mougnon">mougnons</ref> enlevez en muffles de lyons</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref>). « Formant un relief » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ennui</cell>
+              <cell colspan="1" rowspan="1">« Affliction, douleur, tristesse »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ennuyer</cell>
+              <cell colspan="1" rowspan="1">« Être ennuyeux, pénible à, ennuyer »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ennuyeux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Affligeant, douloureux, pénible »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ennuyeux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Pour ne vous estre trop ennuyeux, par un si long discours</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#248_recto">III, 6, 248 recto</ref>). Cette fois, <hi rend="italic">ennuyeux</hi> a certainement son sens moderne. De <hi rend="italic">Ennui</hi>, « Chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enquérir</cell>
+              <cell colspan="1" rowspan="1">Ce verbe n'est pas toujours pronominal.  « Chercher.
+        Interroger, questionner »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enquester (s')</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Ne se dit qu'avec le pronom personnel. C'est la même chose que s'enquerir » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enquisse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">Subjonctif imparfait du verbe <hi rend="italic">Enquérir</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enragerie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Emportement, fureur » (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enseigne</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Les Enseignes conquises</hi> [...] <hi rend="italic">qu'on portoit trainantes par terre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#507_verso">III, 12, 507 verso</ref>). « ENSEIGNE, est aussi un signe militaire sous lequel se rangent les soldats, selon les differens corps dont ils sont, ou les differents partis qu'ils suivent. [...] Celles des Europeans sont des drapeaux de taffetas marqués de diverses figures, couleurs, armes &amp; devises » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ensemble</cell>
+              <cell colspan="1" rowspan="1">En même temps (<ref target="../_roman/reference/21_1/21_1_livre_6.html#160_verso">I, 6, 160 verso</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> donne seulement deux explications : « avec » et « d'avec ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Enserrer</cell>
+              <cell colspan="1" rowspan="1">« Enfermer »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). Verbe remplacé dans l'édition de 1621 (<ref target="../_roman/reference/21_1/21_1_livre_7.html#207_verso">I, 7, 207 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ensuivre</cell>
+              <cell colspan="1" rowspan="1">
+                <ref target="bibliographie.html#furetiere">Furetière</ref> donne <hi rend="italics">s'en ensuivre</hi> : « Quand on pose une chose absurde, mille absurditez s'en ensuivent ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entant que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Entant qu'elle vous touche</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#428">IV, 3, 428</ref>).<lb/>
+        En tant que. « ENTANT QUE. adv. qui sert à distinguer ou à restraindre quelque proposition. [...] Il est quelquefois conjonction, &amp; signifie, Parce que » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entendement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">Je crois que l'entendement
+        m'eût tourné</hi> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#49">II, 1, 49</ref>). <lb/>
+        « On dit aussi, Cela me feroit tourner l'esprit, pour dire, Cela me feroit devenir fou » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italics">Tourner</hi>). <lb/>
+        • <hi rend="italics">Tourner</hi> signifiant « Gaster » (<ref target="bibliographie.html#furetiere">Furetière</ref>), <hi rend="italics">l'entendement tourné</hi> est une image originale.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entendre</cell>
+              <cell colspan="1" rowspan="1">« Prester l'oreille » ou « Comprendre, penetrer dans le sens de celuy qui parle, ou qui escrit » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entendre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Ce que vous voulez entendre</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#756">IV, 4, 756</ref>).<lb/>
+        « Faire entendre, enjoindre » (<ref target="bibliographie.html#la_curne">La Curne</ref>). <lb/>
+        - <hi rend="italic">Il n'y vouloit plus entendre</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#864">IV, 4, 864</ref>).<lb/>
+        « ENTENDRE, signifie encore, Prester l'oreille, consentir à quelque proposition » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entendu</cell>
+              <cell colspan="1" rowspan="1">
+                <ref target="../_roman/reference/21_1/21_1_livre_10.html#322_recto">I, 10, 322 recto</ref>. « Homme très-entendu  instruit » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ententive</cell>
+              <cell colspan="1" rowspan="1">« Attentif »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Intègre » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La plus entiere folie qui fut jamais </hi>(<ref target="../_roman/reference/21_3/21_3_livre_9.html#367_recto">III, 9, 367 recto</ref>).
+        « Complet [...] s'applique aussi aux choses morales » (<hi rend="italics">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>
+                </hi>, 1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entièrement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Entierement amoureux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#520_verso">III, 12, 520 verso</ref>).
+        « Tout-à-fait »        (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entour</cell>
+              <cell colspan="1" rowspan="1">« Entourage »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entour</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> Alentour est écrit <hi rend="italics">à l'entour</hi>. « Entour : Autour, alentour, aux environs » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entourner</cell>
+              <cell colspan="1" rowspan="1">« Entouré »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Regarder entre les yeux</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#651">IV, 4, 651</ref>).<lb/>
+        « On dit aussi, Regarder entre deux yeux, ouvrir des yeux grand comme une saliere, pour dire, regarder un homme attentivement » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italic">Oeuil</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entre-aymer (s')</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Nous nous entre-aymions </hi>(<ref target="../_roman/reference/21_3/21_3_livre_2.html#54_verso">III, 2, 54 verso</ref>). « Ont coutume de s'aimer »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entre-deux</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">- Entre-deux du nez</hi> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#376_recto">I, 11, 376 recto</ref>), espace entre la lèvre et le nez. L'<hi rend="italics">entre-deux</hi> signifie « Partie qui est au milieu de deux choses, avec lesquelles elle a relation ou contiguité » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entre-deux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">- Être entre deux</hi> (<ref target="../_roman/reference/21_2/21_2_livre_3.html#157">II, 3, 157</ref>).  	« Dans l'indécision, l'hésitation »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entre-deux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Un petit entre deux fait de claye où il se coucha sur de la paille</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#908">IV, 4, 908</ref>).<lb/>
+        « Petite cloison, séparation intérieure » (<ref target="bibliographie.html#godefroy">Godefroy</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entredire</cell>
+              <cell colspan="1" rowspan="1">« Dire réciproquement quelque chose l'un à l'autre » (<ref target="bibliographie.html#littre">Littré</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> signale ce verbe (Article <hi rend="italics">Entre</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entrée</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <ref target="../_roman/reference/21_3/21_3_livre_8.html#343_verso">III, 8, 343 verso</ref>. <hi rend="italic">Entrée</hi> signifie
+        « Solemnelle réception et ceremonie qu'on fait dans les villes aux Rois [...] lorsqu'ils viennent triomphans de quelque grande expedition »    (<ref target="bibliographie.html#furetiere">Furetière</ref>). <hi rend="italic">Faire entrée</hi> (sans préposition) est construit comme <hi rend="italic">Donner entrée</hi> et <hi rend="italic">Avoir entrée</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entrelasser</cell>
+              <cell colspan="1" rowspan="1">« Intercaler »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entre-ouïr</cell>
+              <cell colspan="1" rowspan="1">Écrit de diverses manières. La graphie varie dans les dictionnaires aussi : « <hi rend="italics">entreouïr</hi> » <hi rend="italics">(<ref target="bibliographie.html#academie">Dictionnaire de l'Académie</ref>, </hi>1762<hi rend="italics">)</hi>, « <hi rend="italics">entrouïr</hi> » (<ref target="bibliographie.html#richelet">Richelet</ref>) et « <hi rend="italics">entr'ouïr</hi> » (<ref target="bibliographie.html#nicot">Nicot</ref>, <ref target="bibliographie.html#cotgrave">Cotgrave</ref>).<lb/>
+        « Entendre à demi, faiblement, de temps en temps, tout à coup »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). « Ouïr imparfaitement quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entreprendre</cell>
+              <cell colspan="1" rowspan="1">- « S'exposer à. Se charger de »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italics">Entreprendre</hi> une femme (<ref target="../_roman/reference/21_1/21_1_livre_8.html#246_recto">I, 8, 246 recto</ref>) signifie plutôt « Avoir dessein de ruiner quelqu'un, l'assaillir de tous costez, luy faire tout le mal qu'il est possible » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entreprendre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - Dans la deuxième partie, <hi rend="italics">entreprendre</hi> une femme est bien moins dramatique (<ref target="../_roman/reference/21_2/21_2_livre_4.html#260">II, 4, 260</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entreprendre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- Dans la troisième part, <hi rend="italic">entreprendre</hi> une femme peut être  peu honorable (<ref target="../_roman/reference/21_3/21_3_livre_3.html#115_recto">III, 3, 115 recto</ref>) ou même criminel (<ref target="../_roman/reference/21_3/21_3_livre_12.html#549_verso">III, 12, 549 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entreprendre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- Dans la quatrième partie, les conséquences sont néfastes.<lb/>
+        <hi rend="italic">Combien de peine et d'incommodités r'apporte-il  à la malheureuse fille qui l'a [sic] entreprise</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#82">IV, 1, 82</ref>).<lb/>
+        Le <ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref> ne donne pas <hi rend="italic">entreprendre une femme</hi>, mais « Entreprendre qqn. "Prendre qqn en charge" ». <lb/>
+        <ref target="bibliographie.html#richelet">Richelet</ref> donne pour <hi rend="italic">entreprendre quelqu'un</hi> « le pousser, le mettre à la raison ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entreprise</cell>
+              <cell colspan="1" rowspan="1">- « Resolution hardie de faire quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entreprise</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - « En termes de Guerre, se dit d'un dessein qu'on forme, du devoir où on se met de surprendre, de conquerir une place, une Province, d'enlever un quartier, &amp;c » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - La forme <hi rend="italics">Entreprinse,</hi> qui se trouve dans <ref target="bibliographie.html#la_curne">La Curne</ref>, figure seulement en 1610 (<ref target="../_roman/reference/21_2/21_2_livre_11.html#734">II, 11, 734</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entrer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Enter en paroles. Entrer en discours. Entrer en conversation » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        <hi rend="italics">- Entrer en jugement</hi> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#524">II, 8, 524</ref>). Être jugé. L'expression n'est pas dans les dictionnaires. <lb/>
+        - <hi rend="italics">Entrer en
+          différent</hi> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#464">II, 7, 464</ref>). Être d'avis contraire. L'expression n'est pas dans les dictionnaires.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entrer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Entrer en cette preuve</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#380_recto">III, 9, 380 recto</ref>). Subir une épreuve. <lb/>
+        - <hi rend="italic">Entrer en opinion</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#502_recto">III, 12, 502 recto</ref>). Croire. L'expression est construite comme « Avoir, prendre en opinion. Etre favorable à, favoriser » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entrer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Entrer en jalousie</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#264">IV, 2, 264</ref>).<lb/>
+        « S'engager dans un état, une situation, un mode de vie, une activité [...] Entrer en mariage » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).<lb/>
+        - <hi rend="italic">Entrer en confiance   de  quelqu'un</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#671">IV, 4, 671</ref>).<lb/>
+        Se fier. Comme le note <ref target="bibliographie.html#richelet">Richelet</ref>,  « ce mot au figuré a plusieurs belles significations ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entrer sur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Entrer sur les remerciemens</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#73_recto">III, 3, 73 recto</ref>). Commencer. L'expression n'est pas dans les dictionnaires.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entresuite</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Suite, succession » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entretenir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Que les choses insensibles [...] soient unies et entretenuës ensemble</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#168_verso">III, 4, 168 verso</ref>).« Tenir une chose liée, assemblée » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - <hi rend="italic">Tous les solduriers et gens de guerre entretenus</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#262_verso">III, 6, 262 verso</ref>). « Desfrayer » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Je me suis venuë entretenir le long de ce petit ruisseau</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#438_recto">III, 10, 438 recto</ref>). « Amuser » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Entretenir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Si nous l'eussions autant entretenu que vous</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#577">IV, 3, 577</ref>).<lb/>
+        « Action de tenir »        (<ref target="bibliographie.html#huguet">Huguet</ref>). Tenir le lit. Le pronom <hi rend="italic">le</hi>, complément direct de <hi rend="italic">entretenir</hi>, est mis pour <hi rend="italic">lit</hi>. <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entretindrent</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">Verbe <hi rend="italic">Entretenir</hi> au passé simple.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entr'eux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Faisant dessein de demeurer encores entr'eux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#459_verso">III, 11, 459 verso</ref>). « ENTRE, signifie quelquefois, Parmi, au nombre » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Entrevoir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Apercevoir » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Envelopper</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">C'est la misere commune qui les enveloppe dans le nombre des mal-heureuses</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#458">IV, 3, 458</ref>).<lb/>
+        « ENVELOPPER, signifie encore, Entourer, enfermer » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Envers</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Mériter (ou démériter)</hi> <hi rend="italics">envers</hi> quelqu'un. <ref target="bibliographie.html#furetiere">Furetière</ref> signale cette expression à l'article <hi rend="italics">Démériter</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Envers</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Propices envers <ref target="repertoire_tt.html#tautates">Tautates</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#357_verso">III, 8, 357 verso</ref>). « Auprès de » (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Envers</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Il a acquis cette reputation envers tous</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#256">IV, 2, 256</ref>).<lb/>
+        « Auprès, au prix, en comparaison » (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Envie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Avoir envie au bon-heur de ton aisle</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#514_verso">III, 12, 514 verso</ref>). « Avoir envie à. Avoir envie de » (<ref target="bibliographie.html#huguet">Huguet</ref>). Ce vers est dans un sonnet supprimé dans l'édition de 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Envieillir</cell>
+              <cell colspan="1" rowspan="1">« Devenir vieux ou paroistre vieux » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Envier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Tu luy envies la part</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#526">IV, 3, 526</ref>).<lb/>
+        Envier quelque chose à quelqu'un. « Ne pas accorder, refuser (qqch.). — REM. S'est employé surtout en négation ou   en interrogation » (<ref target="bibliographie.html#robert_2012">
+                  <hi rend="italic">Le Grand Robert</hi>
+                </ref>). Mais dans <hi rend="italic">L'Astrée</hi>, <hi rend="italic">Envier</hi> est à la forme affirmative.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Envieux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">En ces dons le Ciel est envieux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#146_verso">III, 4, 146 verso</ref>). « Désireux » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Environner</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Aller autour » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Envoyer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Despecher quelqu'un vers quelque lieu pour y faire un message, ou pour quelque autre dessein » (<ref target="bibliographie.html#furetiere">Furetière</ref>). D'Urfé n'ajoute pas de complément d'objet direct (<ref target="../_roman/reference/21_2/21_2_livre_4.html#230">II, 4, 230</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Envoyer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Vous envoyez vers luy</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#839">IV, 4, 839</ref>).<lb/>
+        « Le compl. d'obj. (messager, ambassadeur...) n'est pas exprimé » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Envy</cell>
+              <cell colspan="1" rowspan="1">« A l'envi de. En rivalisant avec » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Éprandre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Éprandre ce feu qu'ils nommoient sacré</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#30_recto">III, 2, 30 recto</ref>). « Esprendre. Enflammer »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eprit</cell>
+              <cell colspan="1" rowspan="1">
+                <ref target="../_roman/reference/21_1/21_1_livre_7.html#211_recto">I, 7, 211 recto</ref>. Du verbe Éprendre au passé simple. « Enflammer »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Equipage</cell>
+              <cell colspan="1" rowspan="1">« Provision de tout ce qui est necessaire pour voyager, ou s'entretenir honorablement, soit de valets, chevaux, carrosses, habits, armes, &amp;c. » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Ni <ref target="bibliographie.html#furetiere">Furetière</ref>, ni <ref target="bibliographie.html#huguet">Huguet</ref> ne donnent l'expression qui est chez d'Urfé : être<hi rend="italics"> au mesme equipage</hi> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#375_verso">I, 11, 375 verso</ref>), être habillé de la même manière.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Erre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Action de cheminer, course, chemin, route » ; <lb/>
+        « Façon d'agir, manière » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        Pour <ref target="bibliographie.html#furetiere">Furetière</ref>, « ne se dit qu'en ces phrases : Aller grande erre, Aller belle erre, pour dire, Aller bon train ». <lb/>
+        - « Arrhe »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). Substantif de 1610 remplacé en 1621 par <hi rend="italic">erre</hi> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#801">II, 12, 801</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Errer</cell>
+              <cell colspan="1" rowspan="1">« Se tromper »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:118px;">
+                Erreur</cell>
+              <cell colspan="1" rowspan="1">« Détour, circuit »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        •            Ce substantif féminin dans la première partie de <hi rend="italics">L'Astrée</hi> de 1607 est masculin en 1621. <lb/>
+        •  Dans <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italics">La Sylvanire</hi>
+                </ref>, il est tantôt masculin,  tantôt féminin (p. 123). <lb/>
+        • « Amyot a tousjours fait <hi rend="italics">erreur</hi>, masculin, &amp; aujourd'huy il n'est que feminin » (<ref target="bibliographie.html#vaugelas">Vaugelas</ref>, p. 130).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:164px;">Erreur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">• « Erreur 1 (masc.) -
+        Et moy, en disant cecy, je tombe au mesme erreur. » DU FAIL, Contes d'Eutrapel, 27 (II, 83). <ref target="bibliographie.html#huguet">Huguet</ref> ajoute que
+        « dans une même phrase on trouve erreur féminin, puis masculin ».<lb/>
+        • Substantif variable dans la deuxième partie en 1610 et en 1621. <lb/>
+        • L'édition de 1610 donne <hi rend="italics">ceste erreur</hi> et l'edition de 1621 le remplace par <hi rend="italics">cest  erreur</hi> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#97">II, 2, 97</ref>). <lb/>
+        - <hi rend="italics">J'ay esté en erreur</hi> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#734">II, 11, 734</ref>). <hi rend="italics">Être en erreur</hi> n'est pas dans les dictionnaires. <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Erreur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">Dans la troisième partie, une seule fois, <hi rend="italic">Erreur,</hi> féminin en 1619,  passe au masculin en 1621 (<ref target="../_roman/reference/21_3/21_3_livre_5.html#200_verso">III, 5, 200 verso</ref>). Dans toutes les autres instances, <hi rend="italic">erreur</hi> reste au féminin.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Erreur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">Le mot <hi rend="italic">Erreur</hi> étant toujours au féminin ne renvoie pas au glossaire.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Esbranler</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je fus quelquefois esbranlé de les suivre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#248_verso">III, 6, 248 verso</ref>). « Mettre en bransle » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Nous dirions <hi rend="italic">Tenter</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escadron</cell>
+              <cell colspan="1" rowspan="1">Écrit aussi <hi rend="italics">Esquadron</hi>. « Troupe de soldats, de combattants »
+
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+          <ref target="bibliographie.html#huguet">Huguet</ref> cite un texte curieux : « A mon grand regret diray cavallerie, infanterie, enseigne colonnelle, esquadrons, au lieu de chevalerie, pietons, enseigne coronale, bataillons : mais pourtant si en useray-je, puis que l'usage commun l'a gaigné. E. PASQUIER, <hi rend="italics">Lettres</hi>, II, 2 ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escaille</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">Une <ref target="glossaire_cc.html#cotte">cotte d'armes</ref> en escaille (<ref target="../_roman/reference/24_4/24_4_livre_3.html#366">IV, 3, 366</ref>).<lb/>
+        « ÉCAILLE, se dit aussi des pieces de fer qui composent une armure, des tassettes qui sont au bas des cuirasses, qui sont posées l'une sur l'autre en guise d'écailles » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escarmoucher</cell>
+              <cell colspan="1" rowspan="1">« Faire une escarmouche »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> précise : « On <hi rend="italics">escarmouche</hi> long-temps, avant que de livrer une bataille ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escarter</cell>
+              <cell colspan="1" rowspan="1">« Esloigner, separer, mettre à part » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eschafaut</cell>
+              <cell colspan="1" rowspan="1">« Échafaudage, estrade, gradins »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eschançon</cell>
+              <cell colspan="1" rowspan="1">« Officier qui presente à boire aux Rois, aux Princes » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eschancrure</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Couppe faite en croissant » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eschange</cell>
+              <cell colspan="1" rowspan="1">« Eschange. Changement » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eschapper</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Il ne pouvoit s'empescher d'eschapper bien souvent en ses responces</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#40_verso">III, 2, 40 verso</ref>). « On dit aussi, qu'un mot est eschappé par mesgarde, pour dire, qu'on a eu l'imprudence ou l'indiscretion de dire quelque chose secrette, choquante ou nuisible » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        <hi rend="italic">- Eschapper semblables fortunes</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#350_verso">III, 8, 350 verso</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> donne plusieurs exemples où <hi rend="italic">eschapper</hi> est transitif direct.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Eschapper</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Pour peu que le pied eschappe l'on tombe</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#528">IV, 3, 528</ref>).<lb/>
+        <hi rend="italic">Eschapper</hi> peut signifier « laisser tomber par mégarde », ici il signifie glisser ou perdre pied</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escharpe</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Les escharpes  en broderie r'attachees à gros chattons sur l'espaule</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#715">IV, 4, 715</ref>).<lb/>
+        « Morceau de tafetas long d'une aune, ou un peu plus &amp; large d'un quartier dont on se sert pour parade, ou pour soutenir le bras quand on y est incommodé [...] Avoir l'esprit en écharpe, c'est être un peu fou » (<ref target="bibliographie.html#richelet">Richelet</ref>). <lb/>
+        La définition que donne <ref target="bibliographie.html#furetiere">Furetière</ref> s'applique plutôt au moderne foulard. <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eschauffement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La peine du combat et l'eschauffement de la visiere abatüe à cause de l'haleine</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#227_verso">III, 6, 227 verso</ref>). « L'action d'échauffer, ou l'effet de cette action » (<hi rend="italic">
+                  <ref target="bibliographie.html#academie">Dictionnaire de l'Académie</ref>
+                </hi>, 1762).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eschelle</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Brancard. Les dictionnaires ne signalent pas ce sens (ou cette utilisation ?) de <hi rend="italics">eschelle</hi>, qui est simplement une « Machine de bois composée de deux longues branches traversées d'espace en espace par des bastons »
+        (<hi rend="italics">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>
+                </hi>, 1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escheller</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Escheller les cieux</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#107">IV, 1, 107</ref>).<lb/>
+        « Attaquer, prendre d'assaut par escalade, envahir par escalade » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eschoir</cell>
+              <cell colspan="1" rowspan="1">« Échoir.
+        Se présenter »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escient</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « A bon escient. Réellement »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - « Pleine connoissance de ce qu'on fait, ou qu'on veut faire, serieusement &amp; tout à bon » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:27px;">
+                Esclairer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le soleil qui leur esclaire</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#448_recto">III, 10, 448 recto</ref>). « Esclairer à. Éclairer »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:27px;">
+                Esclarcir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <ref target="../_roman/reference/21_3/21_3_livre_4.html#168_recto">III, 4, 168 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_7.html#284_recto">III, 7, 284 recto</ref>. Cette graphie que l'on rencontre dans l'édition de 1621 seulement se trouve dans <ref target="bibliographie.html#huguet">Huguet</ref>. Elle remplace le <hi rend="italic">esclaircir</hi> qui figure dans l'édition de 1619. <lb/>
+        Même situation dans la première partie : le <hi rend="italic">esclaircir</hi> de 1607 devient <hi rend="italic">esclarcir</hi> en 1621 (<ref target="../_roman/reference/21_1/21_1_livre_11.html#376_verso">I, 11, 376 verso</ref>). La deuxième partie en revanche ne connaît que <hi rend="italic">esclaircir</hi> (<ref target="../_roman/reference/21_2/21_2_livre_3.html#153">II, 3, 153</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:27px;">
+                Esclore</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Il n'y a point de doubte que desja il eust esclos sa trahison</hi> (<ref target="../_roman/reference/24_4/24_4_livre_5.html#930">IV, 5, 930</ref>).<lb/>
+        « Commencer à paroître au monde » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:27px;">
+                Escouler</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Passer [le temps] » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escouter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Faut-il encore escouter ses appas</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#15_verso">III, 1, 15 verso</ref>). « Se dit aussi en choses morales, pour dire, Se laisser persuader, se rendre à quelque raison »  (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escrire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Les gardes alors les escrivirent</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#488">IV, 3, 488</ref>).<lb/>
+        « Inscrire » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escritoire</cell>
+              <cell colspan="1" rowspan="1">Ce qui sert à écrire ou le lieu où l'on écrit. <ref target="bibliographie.html#huguet">Huguet</ref> fait de ce mot un adjectif surtout, mais donne un exemple où <hi rend="italic">escritoire</hi> est un substantif masculin. <ref target="bibliographie.html#furetiere">Furetière</ref> en fait un substantif féminin :
+        « Espece d'estuy où l'on serre les choses necessaires à escrire ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escriture</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Calligraphie mais peut aussi signifier. Escriture. Écrit, livre » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escuelle</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Il leur donnoit dans des escuelles de bois quelque laict à manger</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#898">IV, 4, 898</ref>).<lb/>
+        « Utencile de table, petit plat sans bord qui sert d'ordinaire à prendre un bouillon, ou à preparer du potage pour quelqu'un en particulier » (<ref target="bibliographie.html#furetiere">Furetière</ref>). L'écuelle n'est pas réservée aux pauvres : « On dit aussi de celuy qui a beaucoup herité, qu'il a bien pleu dans son escuelle »  (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escuyer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">« Titre qui marque la qualité de Gentilhomme, &amp; qui est au dessous du Chevalier. [...] On a fait la recherche des Nobles, &amp; on a fait des taxes sur ceux qui avoient usurpé la qualité d'Escuyer. On appelloit aussi autrefois Escuyers, les jeunes Seigneurs qui n'estoient pas encore faits Chevaliers. Ce mot vient du Latin <hi rend="italic">scutum</hi> ou <hi rend="italic">scutarius</hi> ou <hi rend="italic">scutiger</hi>, à cause que les Escuyers portoient l'escu des Chevaliers dans les behours &amp; tournois. [...] <lb/>
+        ESCUYER, est aussi le Gentilhomme servant d'un Chevalier, qui l'accompagne à l'armée &amp; en toutes ses entreprises. Tous les Heros de Roman estoient toûjours suivis de leur Escuyer. Dom Quichote même avoit Sancho Pansa pour son Escuyer. Ce mot ne vient pas d'escu, <hi rend="italic">scutum</hi>, comme ont crû quelques-uns, mais de <hi rend="italic">equus</hi> ; &amp; ceux-cy s'appelloient autrefois Equyers, &amp; avoient soin des équries seulement » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        <ref target="bibliographie.html#cotgrave">Cotgrave</ref> donne ce curieux proverbe : « Pour l'amour du Chevalier baise la Dame l'escuyer. Pro. <hi rend="italic">Wherein his worship is, often, but little beholden to her Ladieship</hi> ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escuyerie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je portay dans une escuyerie deshabitee</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#340_recto">III, 8, 340 recto</ref>). <ref target="bibliographie.html#la_curne">La Curne</ref> donne « Escuyrie ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Escuyrie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Descendans tous trois dans l'escuyrie</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#541_recto">III, 12, 541 recto</ref>). Graphie que donne <ref target="bibliographie.html#huguet">Huguet</ref> (Article <hi rend="italic">Escuyer</hi>). Remplacée par <hi rend="italic">escurie</hi> en 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Esgard</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Respect, consideration » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Esgarer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Ecarté, éloigné » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Esguière</cell>
+              <cell colspan="1" rowspan="1">« AIGUIERE. s. f. Vaisseau rond, &amp; quelquefois couvert, propre à servir de l'eau sur la table » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eslancer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">[Moi] <hi rend="italic">Qui ne suis eslancé que par le clein des yeux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#87_verso">III, 3, 87 verso</ref>). « Lancer » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eslans</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Se souslever à eslans</hi>. Gicler. L'expression n'est pas dans les dictionnaires.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eslever (s')</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Si tous les Vacies en s'eslevant ne se fussent opposez au Roy</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#360_verso">III, 8, 360 verso</ref>). « ÉLEVER, signifie aussi, Se revolter, se declarer contre quelqu'un. Il ne faut jamais s'élever contre son Prince » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Esloigner</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Esloigner pour quelque temps les lieux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#159_recto">III, 4, 159 recto</ref>). « S'éloigner de » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Esloignier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« S'éloigner de » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eslongnement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">L'eslongnement  estoit le meilleur remede</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#301_recto">III, 7, 301 recto</ref>). Cette forme archaïque est remplacée par <hi rend="italic">Esloignement</hi> en 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eslongner</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Verbe transitif. Esloigner. Éloigner » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        • Verbe beaucoup plus fréquent en 1610 qu'en 1621, et remplacé quelquefois par <hi rend="italics">esloigner</hi> dans l'édition de 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Eslongner</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">Dans la troisième partie aussi, l'<hi rend="italic">eslongner</hi> de 1619 est remplacé en 1621 (<ref target="../_roman/reference/21_3/21_3_livre_8.html#356_recto">III, 8, 356 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Esmouvoir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Exciter, engager, pousser à » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - « Se dit figurément en Morale des passions. La science d'un Orateur est de bien sçavoir esmouvoir les passions » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Esmouvoir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Émeuë à pitié du mal qu'elle luy avoit fait</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#171">IV, 2, 171</ref>).<lb/>
+        « Esmouvoir qqn à/en tel sentiment. "Provoquer (tel sentiment) chez qqn, pousser qqn de façon à le mettre (dans tel état pychologique)" » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).<lb/>
+        <ref target="bibliographie.html#richelet">Richelet</ref> ignore <hi rend="italic">émouvoir à</hi>. Il note à l'article <hi rend="italic">Émouvoir</hi> : « Prononcez comme un <hi rend="italic">a</hi> l'<hi rend="italic">e</hi> de la prémiere silabe des mots de cette colonne ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espace</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Espace (fém.) » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espais (subs.)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Dans l'espais de tes retraittes</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#514_verso">III, 12, 514 verso</ref>). « Employé comme substantif »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espancher</cell>
+              <cell colspan="1" rowspan="1">Écrit aussi <hi rend="italics">Epancher</hi>. « Répandre »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espandre</cell>
+              <cell colspan="1" rowspan="1">« Jetter çà &amp; là » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espandu</cell>
+              <cell colspan="1" rowspan="1">Répandu. « Jetter çà &amp; là » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espargner à</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Espargner [le guy] en nos sacrifices, ny à nous, ny à nostre bestail</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#452_recto">III, 11, 452 recto</ref>). « On le construisoit avec le datif :  Espargner aux neveux » (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espars</cell>
+              <cell colspan="1" rowspan="1">« Parsemé »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espaules</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Plier les espaules</hi> : « Un homme foible opprimé par un puissant n'a qu'à plier les espaules, hausser les espaules, souffrir &amp; se taire » (<ref target="bibliographie.html#furetiere">Furetière</ref>). L'expression n'est pas dans <ref target="bibliographie.html#huguet">Huguet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espèces</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« ESPECES, en termes d'Optique, se dit des rayons de lumiere diversement refleschis par l'inegalité de la surface des corps, &amp; qui font des impressions sur la retine de l'oeuil, qui sont causes de la vision » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espérance</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">L'esperance  de mon mariage</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#736">IV, 4, 736</ref>).<lb/>
+        « Attente. Possibilité » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espérer de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Espérer. « Ce verbe se construit quelquefois avec la préposition de, particulièrement quand il est à l'infinitif, &amp; que le verbe qui le suit immédiatement est aussi à l'infinitif. Peut-on espérer de vous revoir encore aujourd'hui ? » (<hi rend="italic">
+                  <ref target="bibliographie.html#academie">Dictionnaire de l'Académie</ref>
+                </hi>, 1762). <lb/>
+        • <hi rend="italics">Espérer de</hi> (ou <hi rend="italics">désespérer de</hi>) est un peu plus fréquent dans la deuxième partie (10 fois) que dans la première (9 fois). </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Espérer de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Elle esperoit de faire haster</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#4_verso">III, 1, 4 verso</ref>). <hi rend="italic"> <lb/>
+        Espérer de</hi> revient 17 fois dans la troisième partie.<lb/>
+        <hi rend="italic">Espere d'avoir</hi> est dans <ref target="bibliographie.html#richelet">Richelet</ref> (Article <hi rend="italic">Prétendre</hi>). <hi rend="italic">Espérer de</hi> est aussi dans Malherbe (<ref target="bibliographie.html#brunot">Brunot</ref>, III, p. 556).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Esperon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se dit aussi de la prouë &amp; de la pointe des vaisseaux &amp; galeres, qui fait une grande saillie &amp; avance en mer » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">J'ay eu advis par mes espies</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#111_verso">III, 3, 111 verso</ref>). « Espion » (<ref target="bibliographie.html#huguet">Huguet</ref>). « On se sert plustost aujourd'huy du mot d'espion » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Chercher à voir » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espieu</cell>
+              <cell colspan="1" rowspan="1">« Arme faite en forme de hallebarde, qui est garnie par un bout d'un fer large &amp; pointu, qui sert particulierement à la chasse du sanglier » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espineux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">-<hi rend="italic"> La Philosophie est espineuse</hi> (<ref target="../_roman/reference/21_3/21_3_liminaires.html#3_autheur_lignon">
+                  <hi rend="italic">L'Autheur à la riviere</hi>
+                </ref>).<lb/>
+        - <hi rend="italic">Un esprit si espineux et si mordant</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#278_verso">III, 7, 278 verso</ref>). « Plein de difficulté, d'embarras. Un homme espineux. Un esprit espineux [...] la Logique, la Grammaire est fort espineuse » (<hi rend="italic">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>
+                </hi>, 1694).<lb/>
+        - <hi rend="italic">Antres espineux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#288_verso">III, 7, 288 verso</ref>). « Qui a des piquants » (<hi rend="italic">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>
+                </hi>, 1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espouvantement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Épouvante » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Espreuver</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">Cette graphie archaïque est quelquefois remplacée par <hi rend="italic">
+                  <ref target="#esprouver">Esprouver</ref>
+                </hi> en 1621 (<ref target="../_roman/reference/21_3/21_3_livre_9.html#391_recto">III, 9, 391 recto</ref>). <ref target="bibliographie.html#vaugelas">Vaugelas</ref> (p. 134) préfère la forme avec <hi rend="italic">o</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Esprouver</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Experimenter, essayer la bonté d'une chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Essai</cell>
+              <cell colspan="1" rowspan="1">« Action par laquelle on taste, on examine une chose, pour en connoistre la qualité » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Essaissions</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Essayer</hi> à l'imparfait du subjonctif. On dirait aujourd'hui <hi rend="italics">essayassions</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Essayer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Essayer la volonté du peuple</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#546_verso">III, 12, 546 verso</ref>). « Éprouver, subir » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Essayer (s')</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Tu t'essayes de les guerir</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#105_recto">III, 3, 105 recto</ref>). <lb/>
+        <hi rend="italic">Ce sera chose bien difficile, si je ne m'essaye de le faire</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#341_recto">III, 8, 341 recto</ref>). <lb/>
+        « S'essayer de. Essayer de » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Essor</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je m'en allois à l'Essor</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#332_verso">III, 8, 332 verso</ref>). « À l'essor. À l'air, au vent » (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#cotgrave">Cotgrave</ref> donne <hi rend="italic">Aller à l'essor</hi>, « To goe out ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Establir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Establissez et ordonnez de moy et de ma fortune ce que vous voudrez</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#167_verso">III, 4, 167 verso</ref>). « Décider » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Establissement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Action par laquelle on fonde, on establit » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estancher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le sang s'estanche</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#239_recto">III, 6, 239 recto</ref>). « S'arrêter, cesser » (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> donne au verbe sa signification moderne : « Appaiser la soif ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estat</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">- Faire estat</hi> : « Se dit de la pensée, de l'estime, de l'opinion qu'on a de quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - <hi rend="italics">Les Estats</hi> : « Differens ordres du Royaume qu'on a fait assembler quelquefois pour reformer les desordres de l'Estat, pour appaiser les troubles de l'Estat » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        • Les États généraux se tiennent cinq fois au XVI<hi rend="supn">e</hi> siècle. Leur dernière assemblée, en 1593, aboutit à la conversion du futur <ref target="repertoire_hh.html#henri">Henri IV</ref>. Ils se réuniront ensuite en 1614 à la majorité de <ref target="repertoire_ll.html#3_louis">Louis XIII</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estat</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - <hi rend="italics">Faire estat que je ne suis point au monde</hi> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#723">II, 11, 723</ref>). « Faire estat que. Penser que » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estat</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">-<hi rend="italic"> Il laissa l'administration des Estats aux Druydes et aux Chevaliers Gaulois</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#90_recto">III, 3, 90 recto</ref>). « Royaume, Provinces ou estenduë de pays qui sont sous une même domination » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        <hi rend="italic">- Quel estat je pouvois faire de luy</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#64_verso">III, 3, 64 verso</ref>). <lb/>
+        <hi rend="italic">L'estat et  la vie du grand Thautates</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#90_recto">III, 3, 90 recto</ref>).<lb/>
+        <hi rend="italic">En quel estat vous m'avez mise</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#110_verso">III, 3, 110 verso</ref>).          « ESTAT, signifie aussi la qualité, la nature &amp; la constitution presente de quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Il me feroit paroistre l'estat qu'il faisoit de mon merite</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#343_verso">III, 8, 343 verso</ref>).<lb/>
+        « ESTAT, se dit aussi de la pensée, de l'estime, de l'opinion qu'on a de quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        -<hi rend="italic"> Estat de Chevalier</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#222_verso">III, 6, 222 verso</ref>).<lb/>
+        « ESTAT, se dit encore des differens degrez ou conditions des personnes distinguées par leurs charges, offices, professions ou emplois » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estat</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Toutes en estat de danser</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#669">IV, 4, 669</ref>).<lb/>
+        « En disposition » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estendue</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Dans l'estenduë de leur hameau</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#260_recto">III, 6, 260 recto</ref>). « Extension »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estimer</cell>
+              <cell colspan="1" rowspan="1">- « Faire cas de, prendre en considération » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estimer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - « Avoir quelque opinion, quelque croyance d'une chose bien ou mal fondée » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estomac</cell>
+              <cell colspan="1" rowspan="1">« Poitrine »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estonnement</cell>
+              <cell colspan="1" rowspan="1">« ESTONNEMENT. s. m. Action ou effet qui cause de la surprise, de l'admiration » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <hi rend="colonne1">Estonnement</hi>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Son estonnement procedoit de ce mal</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#45">IV, 1, 45</ref>). « Épouvante, sorte de surprise étonnante » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estonner</cell>
+              <cell colspan="1" rowspan="1">« Ébranler, étourdir, paralyser »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+        Dans certains cas, pour mieux comprendre le verbe ou ses dérivés, il faut se rappeler qu'ils viennent de <hi rend="italics">tonnerre</hi>. « Du lat. <hi rend="italics">ex-tonare</hi>, ébranler comme par un coup de tonnerre » (<ref target="bibliographie.html#littre">Littré</ref>). <lb/>
+        - <hi rend="italics">Sans s'estonner </hi>signifie sans avoir peur.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <hi rend="colonne1">
+                  Estourdie</hi>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Parler à l'estourdie</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#811">IV, 4, 811</ref>).<lb/>
+        « On dit aussi adverbialement, Faire une chose à l'estourdie, pour dire, brusquement &amp; sans reflexion » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                
+                <hi rend="colonne1">Estourdir</hi>
+              </cell>
+              <cell colspan="1" rowspan="1" style="background-color:#FFFFCC;">« Causer une émotion ou déreglement dans le cerveau, ou dans les sens, qui les empesche de faire bien leurs fonctions » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1">II</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estrange</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Étranger.
+        (En parlant d'un pays.) » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estrange</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Cet homme n'est pas si estrange</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#314">IV, 2, 314</ref>).<lb/>
+        « Il signifie figurément, Qui n'est pas dans l'ordre &amp; dans l'usage commun » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Aussi-tost qu'il est jour</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#438_recto">III, 10, 438 recto</ref>). On trouve « Il est jour » dans le <hi rend="italic">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>
+                </hi>, 1694 (Article <hi rend="italic">Jour</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Tu as dit [...] justement ce qui en est</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#465">IV, 3, 465</ref>).<lb/>
+        « Ce qui en est, la réalité, la vérité » (<ref target="bibliographie.html#littre">Littré</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estre à</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Si c'eust esté à mon choix</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#324">IV, 2, 324</ref>).<lb/>
+        Les dictionnaires donnent seulement « Estre en mon choix » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>). Mais on rencontre aussi une construction qui évoque celle de <hi rend="italic">L'Astrée</hi> : « Remettre  à son choix » (<hi rend="italic">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>
+                </hi>, 1694, Article <hi rend="italic">Choix</hi>).<lb/>
+        - <hi rend="italic">C'est à Dorinde maintenant à resoudre</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#819">IV, 4, 819</ref>).<lb/>
+        Après <hi rend="italic">estre</hi>, le premier <hi rend="italic">à</hi> indique « quelque domination ou proprieté » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Le second <hi rend="italic">à</hi> indique le futur :
+        « Le verbe estre servoit aussi à marquer les futurs comme dans cette phrase : " sont à rendre. " (S. Athanase, Symbole françois, 2e trad.) » (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estre de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">- Il ne seroit plus en moy d'en ressentir les effects</hi> (<ref target="../_roman/reference/21_2/21_2_livre_9.html#593">II, 9, 593</ref>). Être incapable de faire quelque chose.<lb/>
+        - <hi rend="italic">Tout ce qui estoit
+          d<ref target="#estre_de">'</ref>agreable</hi> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#702">II, 11, 702</ref>). « Spécifie la manière d'être du sujet ; le sens dépend entièrement du sens de la prép. ou du compl. » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estre de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Tout ce qui est de moy</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#67_verso">III, 3, 67 verso</ref>).<lb/>
+        <hi rend="italic">Outre ce qui estoit des <ref target="repertoire_gg.html#3_gaule">Gaules</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_recto">III, 3, 58 recto</ref>). <lb/>
+        En ce qui concerne.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estre de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Respect [...] pour tout ce qui a esté de vous</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#129">IV, 1, 129</ref>).<lb/>
+        « Être de quelque chose à quelqu'un, l'intéresser. Le Rhône et Lyon me sont de quelque chose, SÉV. 39 » (<ref target="bibliographie.html#littre">Littré</ref>).<lb/>
+        - <hi rend="italic">Avoir ce qui est de nouveau</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#312">IV, 2, 312</ref>).<lb/>
+        « Présenter telle ou telle propriété » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).<lb/>
+        - <hi rend="italic">Nous qui n'adorons pas le Ciel, ny rien qui soit de luy </hi>(<ref target="../_roman/reference/24_4/24_4_livre_3.html#480">IV, 3, 480</ref>).<lb/>
+        « Estre de Dieu. Appartenir à Dieu, être soumis à Dieu » (<ref target="bibliographie.html#huguet">Huguet</ref>). La personne qui parle n'adore que <ref target="repertoire_tt.html#4_tautates">Tautatès</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estre en volonté</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Elle estoit encore en volonté de suivre ses advis</hi> (<ref target="../_roman/reference/24_4/24_4_livre_5.html#941">IV, 5, 941</ref>).<lb/>
+        Vouloir. L'expression n'est pas dans les dictionnaires. Elle est  construite sur le modèle de <hi rend="italic">être en vie</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estre pour </cell>
+              <cell colspan="1" rowspan="1">« Être destiné à.
+        Être fait pour, être de nature à. <lb/>
+        Être disposé à, avoir l'intention de.
+        Être capable de »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estre pour </cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Il estoit pour causer tant de maux</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#796">IV, 4, 796</ref>).<lb/>
+        « Estre pour. Être destiné à » (<ref target="bibliographie.html#huguet">Huguet</ref>). « Je devoy avoir. J'estoy pour avoir. J'alloy avoir » (<ref target="bibliographie.html#maupas">Maupas</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estre sur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Les meschants sont tousjours sur les mesfiances</hi> (<ref target="../_roman/reference/24_4/24_4_livre_5.html#935">IV, 5, 935</ref>). <lb/>
+        « ESTRE, se dit aussi à l'égard de l'estat des choses, de la maniere d'exister [...] Estre sur le bon pied »        (<ref target="bibliographie.html#furetiere">Furetière</ref>). <ref target="bibliographie.html#cotgrave">Cotgrave</ref> donne un exemple plus clair :  « Estre sur. Femme qui n'est point sur les hommes.<hi rend="italic"> That is verie chast, or continent</hi> [...] Estre sur le vin. <hi rend="italic">To love Wine</hi> ». <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estrecir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Oster de la largeur, rendre plus estroit » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estreindre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Serrer fortement » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estreindre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Plus on vous veut serrer, et moins on vous estraint</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#9_recto">III, 1, 9 recto</ref>). « Serrer fortement »  (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        Le proverbe que le romancier adapte dit : « Qui trop embrasse, mal estreint, pour dire, qu'il ne faut pas se charger de plus d'employ qu'on n'en peut faire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">En quelle obligation vous vous estreigniez envers une personne</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#291_verso">III, 7, 291 verso</ref>). Ce verbe peut signifier <hi rend="italic">attacher</hi>. « ESTREINDRE, se dit figurément en Morale. Cette double alliance a estreint l'amitié de ces deux familles » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estrieux</cell>
+              <cell colspan="1" rowspan="1">« Estrier. On trouve souvent les anciennes formes <hi rend="italics">estrieu</hi> et <hi rend="italics">estrief</hi> »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> donne seulement <hi rend="italics">estrier</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:22px;">
+                Estude</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">- Un long estude</hi> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#733">II, 11, 733</ref>). <lb/>
+        Substantif masculin dans <ref target="bibliographie.html#huguet">Huguet</ref>. <ref target="bibliographie.html#la_curne">La Curne</ref> note :<lb/>
+        « Le mot est souvent employé au masculin, dans Montaigne, qui cependant le met quelquefois au féminin. Malherbe a fait aussi <hi rend="italics">étude</hi> masculin, sur quoi Ménage observe qu'il est aujourd'hui féminin ».<lb/>
+        • <hi rend="italic">Estudes</hi> était bien au féminin dans la première partie (<ref target="../_roman/reference/21_1/21_1_livre_8.html#227_verso">I, 8, 227 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estude</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">Dans la troisième partie,  le genre de <hi rend="italic">Estude</hi> fluctue, sans pour autant nécessiter une variante. <lb/>
+        - Masculin : <hi rend="italic">son principal estude</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#61_recto">III, 3, 61 recto</ref>).<lb/>
+        - Féminin : <hi rend="italic">toute leur estude</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#508_recto">III, 12, 508 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Estude</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Un estude continuel</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#82">IV, 1, 82</ref>). <lb/>
+        <ref target="repertoire_bb.html#3_baro">Baro</ref> en <ref target="bibliographie.html#1627">1627</ref> corrige : une continuelle estude (2, p. 185). </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Estudier (s')</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« S'estudier de. S'occuper de » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ethique</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Devenir ethique</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#304_recto">III, 7, 304 recto</ref>). « Ethique. Ectique
+        — Il se fera une fiévre hectique, ainsi nommée pource qu'elle est stable et difficile à guerir. AMBR. PARÉ, XX, I, 2 » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Être de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- Qu'est-il donc de faire (<ref target="../_roman/reference/21_2/21_2_livre_5.html#323">II, 5, 323</ref>). « Estre de. Il est de. Il convient de, il faut » (<ref target="bibliographie.html#huguet">Huguet</ref>). Voir aussi <ref target="#estre_de">
+                  <hi rend="italic">Estre de</hi>
+                </ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Être de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- S'adonnant de sorte à tout ce qui estoit de beau</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#509_verso">III, 12, 509 verso</ref>).  « Présenter telle ou telle propriété » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Étroit</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« ESTROIT, en termes de Jurisprudence, se dit de ce qui se doit executer à la rigueur avec toutes les formalitez » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        <ref target="bibliographie.html#richelet">Richelet</ref> donne « étroite amitié »
+        et « étroite familiarité ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Eubage</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Les Eubages (qui semblent aussi avoir esté nommez Semnothees et Saronides) taschoient de monstrer les choses secrettes de nature » (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 6 recto).<lb/>
+        « Chez les Gaulois, classe qui, nommée entre les druides et les bardes, avait pour principale occupation l'étude de l'astronomie, des choses naturelles et de la divination » (<ref target="bibliographie.html#littre">Littré</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Évanouir</cell>
+              <cell colspan="1" rowspan="1">Écrit aussi <hi rend="italics">Esvanouir</hi>. « Ne se dit gueres qu'avec le pronom personnel » (<ref target="bibliographie.html#furetiere">Furetière</ref>). D'Urfé utilise ce verbe sans pronom, usage confirmé dans <ref target="bibliographie.html#huguet">Huguet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Événement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Avènement » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Éventer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Evantez moy un peu la veine du bras</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#307_verso">III, 7, 307 verso</ref>). « On dit aussi, Eventer la veine, pour dire, Faire une legere saignée pour donner de l'air aux humeurs, &amp; eviter la repletion » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Éventer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Le feu que [...] j'évante</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#105">IV, 1, 105</ref>).<lb/>
+        <hi rend="italic">Eventer, Evanter</hi>, « Jeter au vent » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Exact</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Qui est fait, ou travaillé avec soin, soigneux » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Excuser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- Excuser que. « Nier que »  (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - S'excuser de. « Se dispenser de » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Execration</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Ses serments, ou plustost ses execrations</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#42">IV, 1, 42</ref>). « EXECRATION, se dit aussi d'un serment violent &amp; horrible, qu'on n'oseroit violer » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Exercice</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je leur donnerois bien de l'exercice</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#189_recto">III, 5, 189 recto</ref>). « Peine, travail, affliction » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Expérience</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">J'en ay veu l'experience</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#472">IV, 3, 472</ref>).<lb/>
+        « Preuve » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+          </table><p> </p><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

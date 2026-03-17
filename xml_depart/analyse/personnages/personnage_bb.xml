@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Personnages B - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_pers"
+  onclick="SetDisplay('legende_pers')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_pers')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p> Catégories</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Fiction</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px"> Histoire </cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="bordergreen" style="width:auto; height:20px">Poète</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="center_t intercalee" style="width:auto; height:20px">Intercalée</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="interruption" style="width:auto; height:20px">  Interruption  </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px">Remarque</cell>
+              </row>
+            </table><p> </p><lb/><p><graphic url="../images/relations/legende1.gif" rend="img" mimeType="image/gif"/></p><p> </p><ref target="personnage.html">
+              <hi rend="bold">PERSONNAGES</hi>
+              <lb/>Orientation</ref><p> </p><ref target="personnage_aa.html">A</ref><ref target="personnage_bb.html">B</ref><ref target="personnage_cc.html">C</ref><ref target="personnage_dd.html">D</ref><ref target="personnage_ee.html">E</ref><lb/><ref target="personnage_ff.html">F</ref><ref target="personnage_gg.html">G</ref><ref target="personnage_hh.html">H</ref><ref target="personnage_ik.html">I</ref><ref target="personnage_ik.html#j">J</ref><lb/><ref target="personnage_ik.html#k">K</ref><ref target="personnage_ll.html">L</ref><ref target="personnage_mm.html">M</ref><ref target="personnage_no.html">N</ref><ref target="personnage_no.html#o">O</ref><lb/><ref target="personnage_pp.html">P</ref><ref target="personnage_qr.html">Q</ref><ref target="personnage_qr.html#r">R</ref><ref target="personnage_ss.html">S</ref><ref target="personnage_tt.html">T</ref><lb/><ref target="personnage_uz.html">U</ref><ref target="personnage_uz.html#v">V</ref><ref target="personnage_uz.html#w">W</ref><ref target="personnage_uz.html#x">X</ref><ref target="personnage_uz.html#y">Y</ref><ref target="personnage_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>PERSONNAGES - B</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/basin.gif)">
+                Basin</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#3_basin">III</ref>
+          
+          <p>
+                  <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_3/21_3_livre_11.html#460_verso">III, 11, 460 verso</ref>. Écrit <hi rend="italic">Bissin</hi> et <hi rend="italic">Bisin</hi>.</p>
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : Son épouse se nomme Basine ; elle suivra <ref target="personnage_cc.html#3_childeric">Childéric</ref>. <ref target="bibliographie.html#du_haillan">Du Haillan</ref> raconte : Le peuple chasse <ref target="personnage_cc.html#3_childeric">Childéric</ref>,
+            « n'estant chose au monde qui plus anime et irrite les hommes de grand cœur à conjurer contre leurs Princes, que le violement de leurs femmes (...) Dont il fust contrainct se sauver vers Basin Roy de <ref target="repertoire_tt.html#3_thuringe">Thuringe</ref> (à present selon aucuns dicte Lorraine) par le conseil d'un sien fidelle serviteur nommé <ref target="personnage_gg.html#3_guyemant">Guyemans</ref>, qui luy conseilla de se retirer de la France »              (p. 25).</p>
+          <p>
+                  <hi rend="italics">Nommé</hi> par  un chevalier d'<ref target="personnage_aa.html#3_amasis">Amasis</ref> et dans l'<ref target="../_roman/reference/21_3/21_3_livre_12.html#h_childeric">Histoire de Childeric, de Silviane, et d'Andrimarte</ref> que raconte le chevalier de <ref target="personnage_ll.html#3_lindamor">Lindamor</ref>.</p>
+          <p>Roi de <ref target="repertoire_tt.html#3_thuringe">Thuringe</ref>, parent et ami de Childéric.</p>
+          
+          <p>
+                  <ref target="personnage_aa.html#3_amasis">Amasis</ref> envoie un chevalier à <ref target="repertoire_mm.html#3_montverdun">Montverdun</ref> pour donner à <ref target="personnage_gg.html#3_galathee">Galathée</ref> des nouvelles des Foréziens qui se trouvent auprès des <ref target="repertoire_ff.html#3_francs">Francs</ref>. Ils vont quitter <ref target="personnage_cc.html#3_childeric">Childéric</ref> qui a dû se retirer auprès du roi de <ref target="repertoire_tt.html#3_thuringe">Thuringe</ref> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#460_verso">III, 11, 460 verso</ref>).</p>
+          <p>Chez <ref target="personnage_aa.html#3_adamas">Adamas</ref>, devant le druide, <ref target="personnage_aa.html#3_amasis">Amasis</ref> et <ref target="personnage_gg.html#3_galathee">Galathée</ref>, le chevalier de <ref target="personnage_ll.html#3_lindamor">Lindamor</ref> raconte : </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_12.html#h_childeric">Histoire de Childeric, de Silviane, et d'Andrimarte</ref>
+                  </p>
+            <p>Quand le peuple  se soulève parce que le Roi attaque la maison où s'est réfugiée <ref target="personnage_ss.html#3_silviane">Silviane</ref>, <ref target="personnage_gg.html#3_guyemant">Guyemant</ref> conseille à <ref target="personnage_cc.html#3_childeric">Childéric</ref> de se retirer auprès de Basin en <ref target="repertoire_tt.html#3_thuringe">Thuringe</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#547_verso">III, 12, 547 verso</ref>).</p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/beliante.gif)">
+                Beliante</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#3_beliante">III</ref>
+          
+          <hi rend="italics">Première mention : </hi> <ref target="../_roman/reference/21_3/21_3_livre_6.html#233_verso">III, 6, 233 verso</ref>.
+          <p>
+                  <hi rend="italics">Caractéristique :</hi> « Par sa vertu [il] s'estoit acquis une grande authorité », dit son fils, <ref target="personnage_dd.html#3_damon_a">Damon d'Aquitaine</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#233_verso">III, 6, 233 verso</ref>).</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_3/21_3_livre_6.html#h_damon">Suitte de l'histoire de Damon et de Madonthe</ref> racontée par <ref target="personnage_dd.html#3_damon_a">Damon</ref>. </p>
+          <p>Père de <ref target="personnage_dd.html#3_damon_a">Damon</ref>. Grand Écuyer de <ref target="personnage_tt.html#3_thierry">Thierry I<hi rend="supn">er</hi>
+                  </ref>, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref> et père de <ref target="personnage_tt.html#3_torrismond">Torrismond</ref>.</p>
+          
+          
+            <p rend="center_t">
+                    <ref target="../_roman/preliminaire/19_3/19_3_livre_6.html#h_damon">Suitte de l'histoire de Damon et de Madonthe</ref>
+                  </p>
+            <p>Beliante  meurt laissant <ref target="personnage_dd.html#3_damon_a">Damon</ref> au berceau. Sa femme le suit dans la tombe peu après (<ref target="../_roman/reference/21_3/21_3_livre_6.html#234_recto">III, 6, 234 recto</ref>).</p>
+          
+          <p>
+                  <ref target="personnage_aa.html#3_amasis">Amasis</ref> dit à <ref target="personnage_dd.html#3_damon_a">Damon</ref> qu'elle lui est reconnaissante :  son père a empêché <ref target="personnage_tt.html#3_torrismond">Torrismond</ref> de passer par le <ref target="repertoire_ff.html#3_forez">Forez</ref> après la bataille des <ref target="repertoire_cc.html#3_champs_catalauniques">Champs Catalauniques</ref> : le Roi, amoureux d'une nymphe d'<ref target="personnage_aa.html#3_amasis">Amasis</ref>, ne voulait pas l'épouser mais l'enlever (<ref target="../_roman/reference/21_3/21_3_livre_6.html#261_recto">III, 6, 261 recto</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/belizar.gif)">
+                Belizar</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_belizar">II</ref>
+            
+            <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_6.html#422">II, 6, 422</ref>.
+          <p>
+                  <ref target="repertoire_ff.html#2_foreziens">Forézien</ref> décédé. Fils de <ref target="personnage_pp.html#2_pelion">Pélion</ref>,  frère d'<ref target="personnage_aa.html#2_adamas">Adamas</ref> et père de <ref target="personnage_ll.html#2_leonide">Léonide</ref>. </p>
+          
+            <p>Il est enterré dans un somptueux tombeau près de la maison du druide (<ref target="../_roman/reference/21_2/21_2_livre_10.html#628">II, 10, 628</ref>), écrit le romancier.</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/bellaris.gif)">
+                Bellaris</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#3_bellaris">III</ref>
+          
+          <p> <hi rend="italic">Première mention</hi> : Présent, <ref target="../_roman/reference/21_3/21_3_livre_7.html#304_verso">III, 7, 304 verso</ref> (« celuy qui m'apporta cette lettre »). Nommé, <ref target="../_roman/reference/21_3/21_3_livre_8.html#335_recto">III, 8, 335 recto</ref>.</p>
+          <p> <hi rend="italic">Remarque sur le nom</hi> : Écuyer ? <hi rend="italic">Bellone, </hi> divinité de la guerre ; <hi rend="italic">aris,</hi> suffixe ajouté au nom pour former un adjectif (<hi rend="italics">miles-aris</hi>, <hi rend="italic">militaris</hi>. militaire ; <hi rend="italic">Belluaire</hi>,  gladiateur).</p>
+          <p>
+                  <hi rend="italics">Caractéristiques :</hi> Longtemps présent sans être nommé par <ref target="personnage_cc.html#3_criseide">Criséide</ref>, ce
+            « jeune garçon »              (<ref target="../_roman/reference/21_3/21_3_livre_7.html#322_recto">III, 7, 322 recto</ref>)
+            « n'avoit point faute d'esprit ny de jugement » (<ref target="../_roman/reference/21_3/21_3_livre_7.html#317_recto">III, 7, 317 recto</ref>) et               « n'estoit point faible d'esprit » (<ref target="../_roman/reference/21_3/21_3_livre_7.html#322_recto">III, 7, 322 recto</ref>). Dans cette longue histoire, comme il le dit lui-même, « C'est luy qui a tout fait » (<ref target="../_roman/reference/21_3/21_3_livre_8.html#364_recto">III, 8, 364 recto</ref>), ou presque. Bellaris a les caractéristiques de <ref target="repertoire_mm.html#3_mercure">Mercure</ref> (<ref target="bibliographie.html#heneinp">Henein</ref>, pp. 256-257).</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_3/21_3_livre_7.html#h_cryseide">Histoire de Cryseide et d'Arimant</ref> racontée par <ref target="personnage_cc.html#3_criseide">Criséide</ref> et rapportée par <ref target="personnage_hh.html#3_hylas">Hylas</ref>, et <ref target="../_roman/reference/21_3/21_3_livre_8.html#h_cryseide2">Suitte de l'histoire de Cryseide et d'Arimant</ref> racontée par <ref target="personnage_cc.html#3_criseide">Criséide</ref> et rapportée par <ref target="personnage_ff.html#3_florice">Florice</ref>.</p>
+          <p>Serviteur étonnamment efficace d'<ref target="personnage_aa.html#3_arimant">Arimant</ref>, chevalier <ref target="repertoire_ll.html#3_libicins">Libicin</ref>.</p>
+          
+          <p>
+                  <ref target="personnage_hh.html#3_hylas">Hylas</ref> rapporte  le récit que lui a fait <ref target="personnage_cc.html#3_criseide">Criséide</ref> à <ref target="repertoire_ll.html#3_lyon">Lyon</ref>.</p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_7.html#h_cryseide">Histoire de Cryseide et d'Arimant</ref>
+                  </p>
+            <p>
+                    <ref target="personnage_cc.html#3_criseide">Criséide</ref> et <ref target="personnage_aa.html#3_arimant">Arimant</ref> s'aiment, mais appartiennent à des familles séparées par la haine de <ref target="personnage_qr.html#3_rithimer">Ricimer</ref> pour le père d'<ref target="personnage_aa.html#3_arimant">Arimant</ref>.  Le chevalier recourt à une vieille femme et à un
+              « médecin empirique »              (<ref target="../_roman/reference/21_3/21_3_livre_7.html#294_recto">III, 7, 294 recto</ref>) avant qu'un messager anonyme se charge d'une de ses lettres  (<ref target="../_roman/reference/21_3/21_3_livre_7.html#304_recto">III, 7, 304 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_7.html#308_verso">III, 7, 308 verso</ref>). Ce serviteur rapporte à son maître la nouvelle du suicide de <ref target="personnage_cc.html#3_criseide">Criséide</ref> et le mouchoir ensanglanté (<ref target="../_roman/reference/21_3/21_3_livre_7.html#311_recto">III, 7, 311 recto</ref>). Il sauve <ref target="personnage_aa.html#3_arimant">Arimant</ref> qui s'évanouit, puis lui raconte ce qu'il a vu (<ref target="../_roman/reference/21_3/21_3_livre_7.html#314_verso">III, 7, 314 verso</ref>). Le chevalier emmène
+              « ce jeune homme »              quand il retourne en ville pour tuer <ref target="personnage_cc.html#3_clorange">Clorange</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#315_verso">III, 7, 315 verso</ref>). Le serviteur seul est
+              « assez avisé »              pour reconnaître sur les routes le messager que la jeune fille envoie à <ref target="personnage_aa.html#3_arimant">Arimant</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#316_recto">III, 7, 316 recto</ref>) : <ref target="personnage_cc.html#3_criseide">Criséide</ref> n'est pas morte.<lb/>
+              <lb/>
+              Le jeune homme suggère à son maître de se déguiser  en marchand <ref target="repertoire_gg.html#3_gaulois">gaulois</ref>. Lui-même se présente en éclaireur habillé  aussi en marchand pour voir si <ref target="personnage_cc.html#3_clarine">Clarine</ref> le reconnaîtrait (<ref target="../_roman/reference/21_3/21_3_livre_7.html#318_recto">III, 7, 318 recto</ref>). Le chevalier et son serviteur entrent dans la maison même de <ref target="personnage_qr.html#3_rithimer">Ricimer</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#319_verso">III, 7, 319 verso</ref>). <lb/>
+              <lb/>
+              <ref target="personnage_cc.html#3_criseide">Criséide</ref> et <ref target="personnage_cc.html#3_clarine">Clarine</ref> s'enfuient habillées en homme.   Elles apprennent que le chevalier a été blessé en se battant contre <ref target="personnage_cc.html#3_clorange">Clorange</ref> qu'il a tué (<ref target="../_roman/reference/21_3/21_3_livre_7.html#321_verso">III, 7, 321 verso</ref>). Le jeune serviteur d'<ref target="personnage_aa.html#3_arimant">Arimant</ref> retrouve les fugitives. Il va s'enquérir au palais de ce qui passe. Il revient avec des provisions (<ref target="../_roman/reference/21_3/21_3_livre_7.html#323_recto">III, 7, 323 recto</ref>) et réunit les amants. « <ref target="personnage_cc.html#3_clarine">Clarine</ref> et ce jeune homme estoit tousjours de nostre conseil », affirme <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#325_verso">III, 7, 325 verso</ref>).<lb/>
+            </p>
+            Il n'est plus question de ce jeune homme dans la suite du récit de <ref target="personnage_cc.html#3_criseide">Criséide</ref>, mais nous saurons plus tard qu'il n'a pas quitté son maître
+            <lb/>
+          
+          <p>
+                  <ref target="personnage_ff.html#3_florice">Florice</ref> rapporte ce que <ref target="personnage_cc.html#3_criseide">Criséide</ref> lui a raconté à <ref target="repertoire_ll.html#3_lyon">Lyon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#333_verso">III, 8, 333 verso</ref>). </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_8.html#h_cryseide2">Suitte de l'histoire de Cryseide et d'Arimant</ref>
+                  </p>
+            <p> Dans le temple, un homme remet discrètement un livre à <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#334_recto">III, 8, 334 recto</ref>). Émue, la jeune fille qui  se souvient de la ruse des lettres grattées tombe à genoux pour prier <ref target="repertoire_mm.html#3_mercure">Mercure</ref>. Le porteur du livre, messager d'<ref target="personnage_aa.html#3_arimant">Arimant</ref>, est enfin nommé : Bellaris. <ref target="personnage_cc.html#3_criseide">Criséide</ref> s'étonne de n'avoir reconnu ni la voix ni le visage                 (<ref target="../_roman/reference/21_3/21_3_livre_8.html#335_recto">III, 8, 335 recto</ref>) de ce serviteur qui semble doté du don de transparence. Elle annonce la nouvelle  à <ref target="personnage_cc.html#3_clarine">Clarine</ref>, sa fidèle suivante. <lb/>
+              <lb/>
+              Le lendemain, au temple, <ref target="personnage_cc.html#3_clarine">Clarine</ref> donne rendez-vous à Bellaris  le soir même. Le jeune homme soudoie le jardinier en le payant et en  prétendant se promener dans les jardins pour raison de santé                 (<ref target="../_roman/reference/21_3/21_3_livre_8.html#337_verso">III, 8, 337 verso</ref>). Bellaris s'exclame en italien qu'il a pitié des prisonnières. Il accoste <ref target="personnage_cc.html#3_criseide">Criséide</ref> en se disant le serviteur <ref target="repertoire_ss.html#3_salassiens">Salassien</ref> de ses parents. Il ne l'aurait abandonnée que pour suivre <ref target="personnage_mm.html#3_marciante">Marciante</ref>, chevalier qui serait mort. <ref target="personnage_cc.html#3_criseide">Criséide</ref> se prête au jeu et prétend à son tour que <ref target="personnage_mm.html#3_marciante">Marciante</ref> et son serviteur seraient                 « par delà les <ref target="repertoire_pp.html#3_pyrenees">Pyrenees</ref> »  (<ref target="../_roman/reference/21_3/21_3_livre_8.html#338_verso">III, 8, 338 verso</ref>). Bellaris offre de faire payer une rançon pour  libérer la jeune fille. Quand les compagnes de <ref target="personnage_cc.html#3_criseide">Criséide</ref> s'éloignent, Bellaris rapporte ce qui s'est vraiment passé (<ref target="../_roman/reference/21_3/21_3_livre_8.html#339_verso">III, 8, 339 verso</ref>) :<lb/>
+              <lb/>
+              <ref target="personnage_aa.html#3_arimant">Arimant</ref> s'est battu  seul dans la ville des <ref target="repertoire_cc.html#3_caturges">Caturiges</ref>. Laissé pour mort, il a été sauvé par Bellaris qui a couvert son corps du sien. Le serviteur dissimule <ref target="personnage_aa.html#3_arimant">Arimant</ref> dans une écurie pour soigner ses blessures (<ref target="../_roman/reference/21_3/21_3_livre_8.html#340_recto">III, 8, 340 recto</ref>). Quand le chevalier revient à lui, Bellaris le tranquillise en prétendant que la femme de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> aurait fait mettre toutes les prisonnières dans le temple, et qu'elle  aurait gardé <ref target="personnage_cc.html#3_criseide">Criséide</ref> près d'elle. Des soldats envahissent l'écurie et se disputent le butin. Ils s'attaquent au  capitaine qui survient pour rétablir l'ordre. <ref target="personnage_aa.html#3_arimant">Arimant</ref> et Bellaris soutiennent le capitaine. Une fois victorieux grâce aux amis du capitaine venus à leur secours, <ref target="personnage_aa.html#3_arimant">Arimant</ref> se rend. Le capitaine va le traiter en chevalier non en prisonnier.<lb/>
+              <lb/>
+              Ce capitaine, un <ref target="repertoire_uz.html#3_visigoths">Wisigoth</ref> entré au service de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>, se nomme <ref target="#3_bellimart">Bellimart</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#341_verso">III, 8, 341 verso</ref>).  En apprenant la conduite d'<ref target="personnage_aa.html#3_arimant">Arimant</ref> dans la ville qui a été prise, il espère obtenir une rançon importance. Il déclare qu'il doit  lui faire passer les <ref target="repertoire_aa.html#3_alpes">Alpes</ref> soi-disant parce que <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> le recherche (<ref target="../_roman/reference/21_3/21_3_livre_8.html#342_recto">III, 8, 342 recto</ref>). Comme <ref target="personnage_aa.html#3_arimant">Arimant</ref> demande si la Reine et les prisonnières vont aussi repasser les <ref target="repertoire_aa.html#3_alpes">Alpes</ref>, il apprend qu'il n'y a pas de reine et que les femmes sont sorties d'<ref target="repertoire_ik.html#3_italie">Italie</ref> dans un convoi. <ref target="personnage_aa.html#3_arimant">Arimant</ref> et Bellaris sont enfermés dans un château à <ref target="repertoire_gg.html#3_gergovie">Gergovie</ref>. Le gardien autorise Bellaris à sortir pour négocier la libération de son maître. C'est ainsi  que le serviteur a pu se rendre à <ref target="repertoire_ll.html#3_lyon">Lyon</ref> où il a retrouvé <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#342_verso">III, 8, 342 verso</ref>). <lb/>
+              <lb/>
+              La jeune fille déclare qu'elle aime toujours <ref target="personnage_aa.html#3_arimant">Arimant</ref>. Elle apprend à Bellaris que <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> est amoureux d'elle. Elle a cru l'éloigner en lui parlant de sa famille et de ses alliances, elle n'a fait que le rendre plus amoureux. Comme <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> revient dans quelques  jours et qu'il est redoutable, Bellaris va délivrer <ref target="personnage_cc.html#3_criseide">Criséide</ref> et sa suivante.</p>
+            En 1619, le Roi reviendra dans<lb/>
+              « deux ou trois jours ». Ce délai devient ensuite de<lb/>
+              « quatre ou cinq jours »                pour donner plus de temps aux fugitifs <lb/>
+              (<ref target="../_roman/reference/21_3/21_3_livre_8.html#343_verso">III, 8, 343 verso</ref>). 
+            <p> La jeune fille propose de faire mettre un  bateau sur l'<ref target="repertoire_aa.html#3_arar">Arar</ref>, sous ses fenêtres. Elle  donne un diamant à Bellaris pour qu'il se procure ce qui est nécessaire. <ref target="personnage_cc.html#3_criseide">Criséide</ref> et <ref target="personnage_cc.html#3_clarine">Clarine</ref> s'enfuient en cotillon. Une fois libres, elles   s'habillent en <ref target="repertoire_gg.html#3_gaulois">gauloises</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#345_recto">III, 8, 345 recto</ref>) afin de se rendre à <ref target="repertoire_gg.html#3_gergovie">Gergovie</ref>, ville qui appartient à <ref target="personnage_ee.html#3_euric">Euric</ref>, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref>. <ref target="personnage_cc.html#3_criseide">Criséide</ref> donne une bague à Bellaris pour corrompre le gardien que <ref target="#3_bellimart">Bellimart</ref> a imposé à <ref target="personnage_aa.html#3_arimant">Arimant</ref>.<lb/>
+              <lb/>
+              Bellaris commence par prétendre que son voyage a été vain. Il dit la vérité dès que le gardien s'éloigne. Curieusement, <ref target="personnage_aa.html#3_arimant">Arimant</ref>, très heureux, attribue ces succès aux prières de son père (<ref target="../_roman/reference/21_3/21_3_livre_8.html#346_recto">III, 8, 346 recto</ref>). Bellaris dit à son maître que <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> a l'intention d'épouser <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#347_recto">III, 8, 347 recto</ref>). Il suggère l'échange de costumes qui permettra au chevalier de s'enfuir, mais qui  condamne le serviteur à rester seul en prison. Il  demande <ref target="personnage_cc.html#3_clarine">Clarine</ref> en récompense  si tout se passe bien, en  insistant pour avoir la
+              « gloire »                de se sacrifier pour son maître (<ref target="../_roman/reference/21_3/21_3_livre_8.html#347_verso">III, 8, 347 verso</ref>). <ref target="personnage_aa.html#3_arimant">Arimant</ref> se recommande à <ref target="repertoire_mm.html#3_mercure">Mercure</ref> et sort de sa prison (<ref target="../_roman/reference/21_3/21_3_livre_8.html#348_recto">III, 8, 348 recto</ref>). À son tour, Bellaris renverse les habits de son maître et réussit aussi à s'enfuir (<ref target="../_roman/reference/21_3/21_3_livre_8.html#348_verso">III, 8, 348 verso</ref>).<lb/>
+              <lb/>
+              Lors des retrouvailles, <ref target="personnage_cc.html#3_clarine">Clarine</ref> prend le chevalier  pour Bellaris, alors que <ref target="personnage_cc.html#3_criseide">Criséide</ref> reconnaît la voix d'<ref target="personnage_aa.html#3_arimant">Arimant</ref>. Bellaris les rejoint ; il
+              « usa de si grande diligence qu'il sembloit qu'il eust des aisles aux pieds » (<ref target="../_roman/reference/21_3/21_3_livre_8.html#350_recto">III, 8, 350 recto</ref>). Le petit groupe s'enfuit à cheval avec un guide. Seul Bellaris chemine à pied. Il raconte son évasion de manière à faire rire ses auditeurs (<ref target="../_roman/reference/21_3/21_3_livre_8.html#350_verso">III, 8, 350 verso</ref>). Le capitaine qui gardait <ref target="personnage_aa.html#3_arimant">Arimant</ref> parvient avant eux à l'endroit où ils comptent loger. Bellaris le reconnaît de loin et prévient les fugitifs (<ref target="../_roman/reference/21_3/21_3_livre_8.html#351_recto">III, 8, 351 recto</ref>). Ils vont donc se séparer, les deux hommes passeront par un autre chemin pour retrouver les jeunes filles et leur guide à <ref target="repertoire_uz.html#3_vienne">Vienne</ref>.<lb/>
+              <lb/>
+              <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> revient à <ref target="repertoire_ll.html#3_lyon">Lyon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#351_verso">III, 8, 351 verso</ref>) et fait proclamer une déclaration où il est dit que <ref target="personnage_cc.html#3_criseide">Criséide</ref> s'est enfuie aidée par un perfide,
+              « quelque personne à nous peu affectionnee »                  (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_verso">III, 8, 352 verso</ref>). Une récompense est promise à celui qui permettra de la retrouver. Des gens qui connaissent la jeune fille sont postés aux portes des villes. <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>, en revenant de la chasse, aperçoit <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#353_verso">III, 8, 353 verso</ref>). Il  la reconnaît à son accent étranger. Elle proclame son amour pour <ref target="personnage_aa.html#3_arimant">Arimant</ref>.<lb/>
+              <lb/>
+              Bellaris apprend tout cela. Il réussit non sans peine à prévenir son maître (<ref target="../_roman/reference/21_3/21_3_livre_8.html#355_recto">III, 8, 355 recto</ref>). Comme il pense que <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> va épouser <ref target="personnage_cc.html#3_criseide">Criséide</ref>, il  conseille à <ref target="personnage_aa.html#3_arimant">Arimant</ref> de rentrer en <ref target="repertoire_ik.html#3_italie">Italie</ref>, étant donnée
+              « la legereté des femmes »                (<ref target="../_roman/reference/21_3/21_3_livre_8.html#355_verso">III, 8, 355 verso</ref>). Le chevalier qui  a à peine entendu son serviteur l'envoie auprès de <ref target="personnage_cc.html#3_criseide">Criséide</ref> avec un nouveau message dissimulé dans un livre. Bellaris le remet dans le temple. La jeune fille répond par écrit en jurant de rester fidèle.
+              « Sa vertu a surpassé mon opinion », avoue Bellaris (<ref target="../_roman/reference/21_3/21_3_livre_8.html#357_recto">III, 8, 357 recto</ref>). Maître et serviteur se rendent à <ref target="repertoire_ll.html#3_lyon">Lyon</ref>.<lb/>
+              <lb/>
+              <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> prie <ref target="repertoire_tt.html#3_tautates">Tautatès</ref> puis <ref target="repertoire_tt.html#3_taramis">Taramis</ref> avant même d'aller avec sa prisonnière au tombeau des Deux-Amants<hi rend="cache"> </hi>
+                    <ref target="note_3.html#3_tombeau">η</ref>. Il               fait sacrifier des taureaux blancs dont les entrailles présentent des présages favorables (<ref target="../_roman/reference/21_3/21_3_livre_8.html#358_verso">III, 8, 358 verso</ref>). <ref target="personnage_cc.html#3_criseide">Criséide</ref> s'approche de l'autel du sacrifice soi-disant pour regarder les organes. Elle  s'empare du couteau.  Dans un discours pathétique, elle fait l'éloge de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>. Elle raconte ensuite son histoire, et prétend qu'<ref target="personnage_aa.html#3_arimant">Arimant</ref> et elle se sont promis le mariage devant <ref target="repertoire_ik.html#3_junon">Junon</ref> et <ref target="repertoire_hh.html#3_hymen">Hymen</ref>. Parce que <ref target="personnage_cc.html#3_criseide">Criséide</ref> jure sur le tombeau des Deux-Amants (<ref target="../_roman/reference/21_3/21_3_livre_8.html#359_verso">III, 8, 359 verso</ref>), les Vacies   protègent la jeune fille contre la fureur du Roi. <ref target="personnage_aa.html#3_arimant">Arimant</ref> s'approche (<ref target="../_roman/reference/21_3/21_3_livre_8.html#361_recto">III, 8, 361 recto</ref>).               Puisque c'est à cause de lui que <ref target="personnage_cc.html#3_criseide">Criséide</ref> s'est échappée, il réclame la  récompense promise à celui qui révèle la raison de la fuite de la prisonnière (<ref target="../_roman/reference/21_3/21_3_livre_8.html#361_recto">III, 8, 361 recto</ref>). Il  demande en échange la libération de la jeune fille. <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> doit accorder cette requête parce que le peuple prend le parti du couple, mais il va  se venger en faisant arrêter <ref target="personnage_aa.html#3_arimant">Arimant</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#362_recto">III, 8, 362 recto</ref>). Le jeune homme est enchaîné. <ref target="#3_bellimart">Bellimart</ref> intervient pour rappeler ses droits sur son prisonnier. <lb/>
+              <lb/>
+              Bellaris aussi survient (<ref target="../_roman/reference/21_3/21_3_livre_8.html#363_recto">III, 8, 363 recto</ref>). Il raconte sa vie pour  démontrer que
+              « c'est luy qui a tout fait, et qui par consequent merite tout le chastiment » (<ref target="../_roman/reference/21_3/21_3_livre_8.html#364_recto">III, 8, 364 recto</ref>).                Bellaris souligne aussi que, lors de la prise de la ville des <ref target="repertoire_cc.html#3_caturges">Caturiges</ref>, <ref target="#3_bellimart">Bellimart</ref> s'est mis dans son tort, et surtout qu'il a voulu garder son butin chez les <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#365_verso">III, 8, 365 verso</ref>).  Bellaris recommande que le Roi
+              « par une incomparable magnanimité<hi rend="cache"> </hi>
+                    <ref target="note_3.html#3_magnanimite">η</ref> » unisse les jeunes gens (<ref target="../_roman/reference/21_3/21_3_livre_8.html#364_verso">III, 8, 364 verso</ref>). <lb/>
+              <lb/>
+              <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> est ému par ces assauts de
+              générosité. À son tour, « il se trouva de sorte changé »            (<ref target="../_roman/reference/21_3/21_3_livre_8.html#365_verso">III, 8, 365 verso</ref>) qu'il  rend leur liberté aux jeunes gens et à Bellaris. Il déclare : je suis                 « plus desireux de rencontrer un  semblable amy et serviteur pour moy, qu'un autre Royaume égal à celuy que je possede »                 (<ref target="../_roman/reference/21_3/21_3_livre_8.html#366_recto">III, 8, 366 recto</ref>).</p>
+          
+          <p>Tous les auditeurs admirent les héros de cette histoire et louent la fidélité de Bellaris (<ref target="../_roman/reference/21_3/21_3_livre_9.html#366_verso">III, 9, 366 verso</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/bellimart.gif)">
+                Bellimart</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#3_bellimart">III</ref>
+          
+          <p>
+                  <hi rend="italics">Première mention : </hi> Présent : <ref target="../_roman/reference/21_3/21_3_livre_8.html#340_verso">III, 8, 340 verso</ref> ; Nommé : <ref target="../_roman/reference/21_3/21_3_livre_8.html#341_verso">III, 8, 341 verso</ref>. Écrit quelquefois <hi rend="italic">Belliman</hi> dans l'édition de 1619<hi rend="italic"/>. </p>
+          <p>
+                  <hi rend="italic">Remarque sur le nom</hi> : Les fluctuations de la graphie mettent en évidence l'étymologie du nom : <hi rend="italic">Bellum</hi> <hi rend="italic">martialis</hi> (guerre du dieu <ref target="repertoire_mm.html#2_mars">Mars</ref>).</p>
+          <p>
+                  <hi rend="italics">Caractéristiques :</hi> « Homme à la verité de grand credit » (<ref target="../_roman/reference/21_3/21_3_livre_8.html#341_verso">III, 8, 341 verso</ref>), doté d'un
+            « genereux courage »                (<ref target="../_roman/reference/21_3/21_3_livre_8.html#365_recto">III, 8, 365 recto</ref>), mais
+            « son avarice est telle, qu'elle ne le laissera guere en repos »              (<ref target="../_roman/reference/21_3/21_3_livre_8.html#346_verso">III, 8, 346 verso</ref>), dit <ref target="#3_bellaris">Bellaris</ref>, son prisonnier.</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_3/21_3_livre_8.html#h_cryseide2">Suitte de l'histoire de Cryseide et d'Arimant</ref> racontée par <ref target="personnage_cc.html#3_criseide">Criséide</ref> et rapportée par <ref target="personnage_ff.html#3_florice">Florice</ref>.</p>
+          <p>
+                  <ref target="glossaire_cc.html#capitaine">Capitaine</ref> <ref target="repertoire_uz.html#3_visigoths">Wisigoth</ref> qui se bat, par ambition, dans les armées de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>, roi des <ref target="repertoire_bb.html#3_bourguignons">Bourguignons</ref>. <lb/>
+             
+          </p>
+          
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_8.html#h_cryseide2">Suitte de l'histoire de Cryseide et d'Arimant</ref>
+                  </p>
+            <p> À <ref target="repertoire_ll.html#3_lyon">Lyon</ref>, <ref target="#3_bellaris">Bellaris</ref> raconte à <ref target="personnage_cc.html#3_criseide">Criséide</ref> les mésaventures d'<ref target="personnage_aa.html#3_arimant">Arimant</ref>, qui s'est battu  seul dans la ville des <ref target="repertoire_cc.html#3_caturges">Caturiges</ref>. Laissé pour mort, il a été sauvé par <ref target="#3_bellaris">Bellaris</ref> qui a couvert son corps du sien. Le serviteur dissimule <ref target="personnage_aa.html#3_arimant">Arimant</ref> dans une écurie pour soigner ses blessures. Des soldats envahissent l'écurie et se disputent le butin. Ils s'attaquent au  capitaine qui survient pour rétablir l'ordre (<ref target="../_roman/reference/21_3/21_3_livre_8.html#340_verso">III, 8, 340 verso</ref>). <ref target="personnage_aa.html#3_arimant">Arimant</ref> et <ref target="#3_bellaris">Bellaris</ref> soutiennent le capitaine. Une fois victorieux grâce des amis du capitaine  venus à leur secours, <ref target="personnage_aa.html#3_arimant">Arimant</ref> se rend. Le capitaine reconnaissant promet de  le traiter en chevalier et en ami, non en prisonnier.<lb/>
+              <lb/>
+              Ce capitaine, un <ref target="repertoire_uz.html#3_visigoths">Wisigoth</ref> entré au service de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>, se nomme Bellimart. Il se montre ingrat (<ref target="../_roman/reference/21_3/21_3_livre_8.html#341_verso">III, 8, 341 verso</ref>).  En apprenant la conduite d'<ref target="personnage_aa.html#3_arimant">Arimant</ref> dans la ville qui a été prise, il veut obtenir une rançon élevée.  Il déclare donc qu'il doit  lui faire passer les <ref target="repertoire_aa.html#3_alpes">Alpes</ref> soi-disant parce que <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> le recherche pour le tuer. <ref target="personnage_aa.html#3_arimant">Arimant</ref> et <ref target="#3_bellaris">Bellaris</ref> sont enfermés dans le château de Bellimart à <ref target="repertoire_gg.html#3_gergovie">Gergovie</ref>, ville qui appartient à <ref target="personnage_ee.html#3_euric">Euric</ref>, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref>. Le gardien qu'il donne à ses prisonniers se laisse persuader de laisser sortir <ref target="#3_bellaris">Bellaris</ref> pour  négocier la rançon de son maître (<ref target="../_roman/reference/21_3/21_3_livre_8.html#342_verso">III, 8, 342 verso</ref>). Il lui donne même une lettre qu'il adresse à Bellimart (<ref target="../_roman/reference/21_3/21_3_livre_8.html#349_recto">III, 8, 349 recto</ref>).<lb/>
+              <lb/>
+              Lorsque <ref target="personnage_cc.html#3_criseide">Criséide</ref> tente de se tuer devant le tombeau des Deux-Amants<hi rend="cache"> </hi>
+                    <ref target="note_3.html#3_tombeau">η</ref>, <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> s'apprête à tourner sa colère contre <ref target="personnage_aa.html#3_arimant">Arimant</ref>.                Le chevalier est enchaîné. Bellimart intervient pour rappeler ses droits sur son prisonnier.
+              « Je perds tout ce que la fortune m'avoit donné », si ce  chevalier est exécuté          (<ref target="../_roman/reference/21_3/21_3_livre_8.html#363_recto">III, 8, 363 recto</ref>). <ref target="#3_bellaris">Bellaris</ref> se présente  et  empêche le Roi de répondre. Il rappelle  que, lors de la prise de la ville des <ref target="repertoire_cc.html#3_caturges">Caturiges</ref>, <ref target="personnage_aa.html#3_arimant">Arimant</ref> a sauvé la vie de Bellimart. De plus, Bellimart s'est mis dans son tort, puisqu'il a voulu garder son butin chez les <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#365_verso">III, 8, 365 verso</ref>). <lb/>
+              <lb/>
+              <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> décrète que Bellimart a perdu ses droits (<ref target="../_roman/reference/21_3/21_3_livre_8.html#366_recto">III, 8, 366 recto</ref>). </p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/bellimarte.gif)">
+                Bellimarte</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#4_bellimarte">IV</ref>
+          
+          <hi rend="italic">Première mention</hi> : <ref target="../_roman/reference/24_4/24_4_livre_2.html#228">IV, 2, 228</ref>. Il s'agit du chevalier nommé <ref target="#3_bellimart">
+                  <hi rend="italic">Bellimart</hi>
+                </ref> précédemment - graphie qui revient une seule fois (<ref target="../_roman/reference/24_4/24_4_livre_4.html#648">IV, 4, 648</ref>).<lb/>
+          <lb/>
+          <hi rend="italic">Caractéristiques</hi> :
+          « Le grand aage qu'il avoit plus que moy, et sa rude façon ne ressenta[it] que le fer et le sang », dit <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> lorsqu'elle repousse son alliance (<ref target="../_roman/reference/24_4/24_4_livre_2.html#249">IV, 2, 249</ref>). Les présents qu'il  fait la gagnent. Elle explique alors qu'il
+          « estoit homme  de courage et qui avoit toute l'authorité et la force en la main » (<ref target="../_roman/reference/24_4/24_4_livre_2.html#327">IV, 2, 327</ref>).<lb/>
+                <lb/>
+
+                  <p><graphic url="../images/relations/dorinde.gif" rend="img" mimeType="image/gif" width="378px" height="96px"/></p>
+                
+                <lb/>
+
+          
+          <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, habillée en bergère, raconte son histoire à <ref target="personnage_dd.html#4_diane">Diane</ref> et <ref target="personnage_pp.html#4_phillis">Phillis</ref>, <ref target="personnage_aa.html#4_astree">Astrée</ref> et <ref target="personnage_aa.html#4_alexis">Alexis</ref>, <ref target="personnage_ff.html#4_florice">Florice</ref>, <ref target="personnage_pp.html#4_palinice">Palinice</ref> et <ref target="personnage_cc.html#4_circene">Circène</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#228">IV, 2, 228</ref>).<lb/>
+          <lb/>
+          <lb/>
+          
+            
+                    <ref target="../_roman/reference/24_4/24_4_livre_2.html#h_dorinde">Histoire de Dorinde, de Periandre, de Merindor et de Bellimarte</ref>
+                  
+            <lb/>
+            En présentant les hommes qui la recherchent, <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> nomme Bellimarte et rappelle le rôle qu'il a joué dans l'histoire de <ref target="personnage_cc.html#4_criseide">Criséide</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#244">IV, 2, 244</ref>). Elle souligne que Bellimarte obtient plusieurs gratifications de <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref>. Bellimarte est nommé à la tête des soldats étrangers qui gardent <ref target="repertoire_ll.html#4_lyon">Lyon</ref>. Cette charge l'enrichit considérablement. Comme il cherche une alliance dans la ville, il  jette son dévolu sur <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>. Soutenu par le Roi, il recherche la jeune fille au vu et au su de tous sans tenir compte de la place que tient déjà <ref target="personnage_pp.html#4_periandre">Périandre</ref> auprès de la jeune fille et de son père (<ref target="../_roman/reference/24_4/24_4_livre_2.html#248">IV, 2, 248</ref>).<lb/>
+            <lb/>
+            <ref target="personnage_mm.html#4_merindor">Mérindor</ref>, amoureux de <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, rapporte à <ref target="personnage_ee.html#4_euphrosias">Euphrosias</ref> les agissements de ses rivaux. On lui conseille de persévérer malgré l'avantage dont jouit <ref target="#4_bellimarte">Bellimarte</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#258">IV, 2, 258</ref>). <lb/>
+            <lb/>
+            <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> attrape la petite vérole. Bellimarte envoie demander de ses nouvelles (<ref target="../_roman/reference/24_4/24_4_livre_2.html#284">IV, 2, 284</ref>). Il lui rend visite sans se soucier de sa laideur (<ref target="../_roman/reference/24_4/24_4_livre_2.html#303">IV, 2, 303</ref>). <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> intercède pour Bellimarte auprès du père de <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> en vantant les mariages faits « par raison d'Estat » (<ref target="../_roman/reference/24_4/24_4_livre_2.html#306">IV, 2, 306</ref>). <ref target="personnage_aa.html#4_arcingentorix">Aringentorix</ref> ne sait pas comment contredire le Roi. Bellimarte, conseillé par un ami, entreprend de gagner le père et sa fille en multipliant les présents. <ref target="personnage_aa.html#4_arcingentorix">Aringentorix</ref> trouve de nouvelles qualités à ce chevalier (<ref target="../_roman/reference/24_4/24_4_livre_2.html#315">IV, 2, 315</ref>). <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> n'est pas insensible (<ref target="../_roman/reference/24_4/24_4_livre_2.html#321">IV, 2, 321</ref>) même si elle prétend que c'est <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> qui la force à épouser Bellimarte (<ref target="../_roman/reference/24_4/24_4_livre_2.html#326">IV, 2, 326</ref>). <ref target="personnage_mm.html#4_merindor">Mérindor</ref> envisage de se battre contre son rival. <ref target="personnage_ee.html#4_euphrosias">Euphrosias</ref> lui suggère d'essayer plutôt de faire parler au Roi. <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> déclare que les articles sont déjà signés (<ref target="../_roman/reference/24_4/24_4_livre_2.html#339">IV, 2, 339</ref>). <lb/>
+            <lb/>
+            Le jour où <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> se rend au temple, une femme accompagnée d'enfants survient : <ref target="personnage_aa.html#4_alderine">Alderine</ref> déclare qu'elle est depuis quatre ans la femme légitime de Bellimarte (<ref target="../_roman/reference/24_4/24_4_livre_2.html#341">IV, 2, 341</ref>). Bellimarte tente de nier. <ref target="personnage_aa.html#4_arcingentorix">Aringentorix</ref> lui fait des reproches auxquels  il répond  qu'il ne veut plus de cette alliance avec <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>. <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> reconnaît le bon droit d'<ref target="personnage_aa.html#4_alderine">Alderine</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#346">IV, 2, 346</ref>). <lb/>
+            <lb/>
+            <ref target="personnage_mm.html#4_merindor">Mérindor</ref> revient à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>. La jeune fille se plaint du fait que quatre hommes l'ont trompée : <ref target="personnage_tt.html#4_teombre">Téombre</ref>, <ref target="personnage_hh.html#4_hylas">Hylas</ref>, <ref target="personnage_pp.html#4_periandre">Périandre</ref> et Bellimarte (<ref target="../_roman/reference/24_4/24_4_livre_2.html#349">IV, 2, 349</ref>). <ref target="personnage_aa.html#4_arcingentorix">Aringentorix</ref> accorde la main de sa fille à <ref target="personnage_mm.html#4_merindor">Mérindor</ref> puisque Bellimarte est déjà marié (<ref target="../_roman/reference/24_4/24_4_livre_2.html#354">IV, 2, 354</ref>). <lb/>
+            <lb/>
+            <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> veut chasser Bellimarte de ses états. Il le gracie à condition qu'il vive avec <ref target="personnage_aa.html#4_alderine">Alderine</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#357">IV, 2, 357</ref>). <lb/>
+          
+          <lb/>
+Des soldats essaient d'enlever <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#365">IV, 3, 365</ref>). Trois chevaliers s'interposent. Quand ils ôtent leurs heaumes, la jeune femme est surprise de reconnaître Bellimarte, <ref target="personnage_mm.html#4_merindor">Mérindor</ref> et <ref target="personnage_pp.html#4_periandre">Périandre</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#377">IV, 3, 377</ref>). Bellimarte, mortellement blessé,  rend l'âme en lui demandant pardon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#379">IV, 3, 379</ref>). <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> pleure sa mort (<ref target="../_roman/reference/24_4/24_4_livre_3.html#382">IV, 3, 382</ref>), mais s'éloigne et laisse un  chevalier anonyme près du corps de Bellimarte (<ref target="../_roman/reference/24_4/24_4_livre_3.html#384">IV, 3, 384</ref>). Les druides lavent dans le <ref target="repertoire_ll.html#4_lignon">Lignon</ref> les cadavres de tous les chevaliers morts. Ils  les mettent dans des tombes creusées sur le lieu du combat (<ref target="../_roman/reference/24_4/24_4_livre_3.html#387">IV, 3, 387</ref>). Cette  cérémonie console un peu l'ami de Bellimarte (<ref target="../_roman/reference/24_4/24_4_livre_3.html#388">IV, 3, 388</ref>).<lb/>
+  <lb/>
+  <ref target="personnage_pp.html#4_periandre">Périandre</ref> apprend à <ref target="personnage_hh.html#4_hylas">Hylas</ref> qu'il y a eu un  combat dans les hameaux et que Bellimarte et <ref target="personnage_mm.html#4_merindor">Mérindor</ref> l'ont aidé à repousser les soldats de <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#393">IV, 3, 393</ref>). Pour protéger <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, ils restent près d'elle avec l'ami de Bellimarte (<ref target="../_roman/reference/24_4/24_4_livre_3.html#401">IV, 3, 401</ref>).<lb/>
+  <lb/>
+  <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> continue son histoire devant les trois dames lyonnaises :<lb/>
+  <lb/>
+  
+    
+                    <ref target="../_roman/reference/24_4/24_4_livre_4.html#h_dorinde2">Histoire de Dorinde, du Roy Gondebaut et du Prince Sigismond</ref>
+                  
+    <lb/>
+    <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> se trouve dans la suite de la princesse <ref target="personnage_cc.html#4_clotilde">Clotilde</ref>.
+    Elle se croit débarrassée de Bellimarte dont la tromperie a été avérée (<ref target="../_roman/reference/24_4/24_4_livre_4.html#645">IV, 4, 645</ref>).
+    Quand <ref target="personnage_aa.html#4_alderine">Alderine</ref> meurt, le chevalier s'adresse de nouveau à la jeune fille. <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> le trouve plus acceptable que ses rivaux, <ref target="personnage_pp.html#4_periandre">Périandre</ref> et <ref target="personnage_mm.html#4_merindor">Mérindor</ref>,  parce qu'il ne l'a jamais abandonnée volontairement.  Les trois chevaliers reprennent donc leur recherche. <lb/>
+    <lb/>
+    Quand Bellimarte veut la prendre sous le bras, elle lui dit qu'elle n'est pas <ref target="personnage_aa.html#4_alderine">Alderine</ref> et qu'elle ne veut pas devenir une <ref target="personnage_aa.html#4_alderine">Alderine</ref> pour une autre <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#654">IV, 4, 654</ref>). <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> répond de manière aussi spirituelle aux avances deux autres chevaliers. On rapporte à <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> les reparties de la jeune fille. Il tombe amoureux d'elle (<ref target="../_roman/reference/24_4/24_4_livre_4.html#657">IV, 4, 657</ref>).
+    Il  se demande s'il peut se servir des trois chevaliers pour faire avancer sa cause (<ref target="../_roman/reference/24_4/24_4_livre_4.html#672">IV, 4, 672</ref>). <ref target="personnage_aa.html#4_ardilan">Ardilan</ref> l'en dissuade. <lb/>
+    <lb/>
+    Bellimarte et ses compagnons ne remarquent pas la cour que le Roi fait à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#708">IV, 4, 708</ref>).
+    Les trois chevaliers repoussés  deviennent amis (<ref target="../_roman/reference/24_4/24_4_livre_4.html#710">IV, 4, 710</ref>).<lb/>
+    <lb/>
+    Lors des <ref target="repertoire_bb.html#4_bacchanales">Bacchanales</ref>, ils participent à un tournoi
+    habillés en sauvages. Ils  chantent des stances pour expliquer leur costume : si nous sommes déguisés en sauvages, c'est que nous ne le sommes pas (<ref target="../_roman/reference/24_4/24_4_livre_4.html#711">IV, 4, 711</ref>).<lb/>
+    <lb/>
+    Balthazar <ref target="bibliographie.html#1627">Baro</ref> supprime cet épisode.<lb/>
+      Il aurait dû se trouver au livre 7, après la page 707.
+    <lb/>
+    <lb/>
+    Bellimarte déguisé chante <lb/>
+      <ref target="../_roman/reference/24_4/24_4_livre_4.html#p_stances">les vers des Sauvages</ref> <lb/>
+      (<ref target="../_roman/reference/24_4/24_4_livre_4.html#711">IV, 4, 711</ref>).
+    <lb/>
+
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/bellinde.gif)">
+                Bellinde</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Présente dans :</hi> <ref target="#bellinde">I</ref>, <ref target="#2_bellinde">II</ref>, <ref target="#3_bellinde">III</ref>, <ref target="#4_bellinde">IV</ref>
+          
+          <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_1/21_1_livre_2.html#29_recto">I, 2, 29 recto</ref>.
+          Écrit aussi <hi rend="italic">Belinde</hi>.
+          <p>
+                  <hi rend="italics">Caractéristiques :</hi> « La sage <ref target="#bellinde">Bellinde</ref> » (<ref target="../_roman/reference/21_1/21_1_livre_2.html#29_recto">I, 2, 29 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_4.html#84_verso">I, 4, 84 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_4.html#97_recto">I, 4, 97 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_5.html#122_recto">I, 5, 122 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_8.html#231_recto">I, 8, 231 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_10.html#330_recto">I, 10, 330 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_10.html#345_recto">I, 10, 345 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_10.html#347_recto">I, 10, 347 recto</ref>). <lb/>
+            Mais aussi : « Orgueilleuse beauté, qui aymoit mieux estre jugée avec peu d'Amour, qu'avec peu de resolution ! », dit <ref target="personnage_cc.html#celadon">Céladon</ref> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#337_recto">I, 10, 337 recto</ref>). </p>
+          <p>
+                  <hi rend="italics">Nommée dans :</hi> <ref target="../_roman/reference/21_1/21_1_livre_2.html#histoire_d_alcippe">Histoire d'Alcippe</ref>, racontée par <ref target="personnage_cc.html#celadon">Céladon</ref> ; <lb/>
+            <ref target="../_roman/reference/21_1/21_1_livre_6.html#histoire_de_diane">Histoire de Diane</ref>, racontée par <ref target="personnage_dd.html#diane">Diane</ref> ; <lb/>
+            <ref target="../_roman/reference/21_1/21_1_livre_8.html#histoire_de_silvandre">Histoire de Silvandre</ref>, racontée par <ref target="personnage_ss.html#silvandre">Silvandre</ref> ;<lb/>
+              <ref target="../_roman/reference/21_1/21_1_livre_10.html#histoire_de_celion_et_bellinde">Histoire de Celion et Bellinde</ref>, racontée par <ref target="personnage_cc.html#celadon">Céladon</ref>. </p>
+          <p>Bergère du <ref target="repertoire_ll.html#lignon">Lignon</ref> puis druide à <ref target="repertoire_ee.html#evian">Évian</ref>.<lb/>
+            Fille de <ref target="personnage_pp.html#philemon">Philémon</ref>. Amie d'<ref target="personnage_aa.html#amaranthe">Amaranthe</ref>. Épouse de <ref target="personnage_cc.html#celion">Celion</ref>. Mère de <ref target="personnage_dd.html#diane">Diane</ref> et d'<ref target="personnage_ee.html#ergaste_j">Ergaste (junior)</ref>.</p>
+          
+                  <p><graphic url="../images/relations/celion.gif" rend="img" mimeType="image/gif"/></p>
+                
+          
+          <p>À <ref target="repertoire_ik.html#isoure">Isoure</ref>, <ref target="personnage_cc.html#celadon">Céladon</ref> raconte aux nymphes :</p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_2.html#histoire_d_alcippe">Histoire d'Alcippe</ref>
+                  </p>
+            <p>
+                    <ref target="personnage_aa.html#alcippe">Alcippe</ref>, dans sa jeunesse, a vu <ref target="personnage_cc.html#celion">Celion</ref> et <ref target="#bellinde">Bellinde</ref> contempler des tourterelles (<ref target="../_roman/reference/21_1/21_1_livre_2.html#35_recto">I, 2, 35 recto</ref>).</p>
+            
+          
+          <p>Dans le hameau, <ref target="personnage_dd.html#diane">Diane</ref> raconte à <ref target="personnage_aa.html#astree">Astrée</ref> et <ref target="personnage_pp.html#phillis">Phillis</ref> : </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_6.html#histoire_de_diane">Histoire de Diane</ref>
+                  </p>
+            <p>
+                    <ref target="personnage_dd.html#diane">Diane</ref> raconte  qu'elle est née après la mort de son père, <ref target="personnage_cc.html#celion">Celion</ref>. Elle explique que, pour finir d'un procès, <ref target="personnage_cc.html#celion">Celion</ref> et <ref target="#bellinde">Bellinde</ref> avaient promis qu'un de leurs enfants épouserait un enfant de <ref target="personnage_pp.html#phormion">Phormion</ref>. Comme leur fils aîné  a été enlevé, <ref target="#bellinde">Bellinde</ref>, veuve, est obligée de remettre sa fille, <ref target="personnage_dd.html#diane">Diane</ref>, à <ref target="personnage_pp.html#phormion">Phormion</ref>. Elle consulte l'oracle, et <ref target="personnage_cc.html#cleontine">Cléontine</ref> lui recommande de se retirer « pour estre maistresse des Vestalles et Druydes d'<ref target="repertoire_ee.html#evian">Eviens</ref> » (<ref target="../_roman/reference/21_1/21_1_livre_6.html#159_verso">I, 6, 159 verso</ref>). </p>
+          
+          <lb/>
+          
+                  <ref target="personnage_aa.html#astree">Astrée</ref> et <ref target="personnage_dd.html#diane">Diane</ref> parlent des « Nymphes » de <ref target="#bellinde">Bellinde</ref>. L'une de ces nymphes a entendu et noté un poème composé par <ref target="personnage_cc.html#celadon">Céladon</ref> au moment où il disait adieu à <ref target="personnage_aa.html#astree">Astrée</ref>
+                  <lb/>
+            (<ref target="../_roman/reference/21_1/21_1_livre_4.html#105_verso">I, 4, 105 verso</ref>). <lb/>
+            Cette aventure qui vient de <hi rend="italic">La Diane</hi> de <ref target="bibliographie.html#montemayor">Montemayor</ref> (p. 87) est aussi  dans <ref target="bibliographie.html#sireine">
+                    <hi rend="italic"> Le Sireine</hi>
+                  </ref> (p. 130).
+          <p>
+                  <ref target="personnage_ss.html#silvandre">Silvandre</ref> raconte à <ref target="personnage_aa.html#astree">Astrée</ref>, <ref target="personnage_pp.html#phillis">Phillis</ref>, <ref target="personnage_dd.html#diane">Diane</ref> et <ref target="personnage_ll.html#leonide">Léonide</ref> :</p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_8.html#histoire_de_silvandre">Histoire de Silvandre</ref>
+                  </p>
+            <p>À <ref target="repertoire_ee.html#evian">Évian</ref>, <ref target="#bellinde">Bellinde</ref>, « Maistresse des Vestales » (<ref target="../_roman/reference/21_1/21_1_livre_8.html#231_recto">I, 8, 231 recto</ref>), lui a rendu un oracle lui recommandant de se rendre en <ref target="repertoire_ff.html#forez">Forez</ref> pour consulter la fontaine de la Vérité d'amour. </p>
+          
+          <p>À <ref target="repertoire_ik.html#isoure">Isoure</ref>, <ref target="personnage_cc.html#celadon">Céladon</ref> raconte à <ref target="personnage_ss.html#silvie">Silvie</ref> l'histoire des parents de <ref target="personnage_dd.html#diane">Diane</ref> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#323_verso">I, 10, 323 verso</ref>). </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_10.html#histoire_de_celion_et_bellinde">Histoire de Celion et Bellinde</ref>
+                  </p>
+            <p> <ref target="personnage_cc.html#celion">Celion</ref> tombe amoureux de <ref target="#bellinde">Bellinde</ref> quand elle lui rend une de ses brebis. Les jeunes gens s'aiment, mais <ref target="#bellinde">Bellinde</ref> ne veut pas que le berger la demande en mariage. Elle veut l'aimer comme un frère. </p>
+            <p>
+                    <ref target="personnage_aa.html#amaranthe">Amaranthe</ref>, une amie de <ref target="#bellinde">Bellinde</ref>, tombe amoureuse de <ref target="personnage_cc.html#celion">Celion</ref> et le lui écrit. La réponse du jeune homme la rend malade ; il aime ailleurs. <ref target="#bellinde">Bellinde</ref> va rendre visite à son amie. Celle-ci avoue son amour pour le berger. <ref target="#bellinde">Bellinde</ref> a « honte oyant ce discours, de l'erreur de sa compagne » (<ref target="../_roman/reference/21_1/21_1_livre_10.html#330_recto">I, 10, 330 recto</ref>), mais demande quand même à <ref target="personnage_cc.html#celion">Celion</ref> de servir <ref target="personnage_aa.html#amaranthe">Amaranthe</ref>. Le berger refuse. <ref target="#bellinde">Bellinde</ref> menace de ne plus jamais le revoir. <ref target="personnage_cc.html#celion">Celion</ref>, désespéré, vit dans les bois pendant quelques jours. Un vieux berger lui conseille de faire semblant d'aimer <ref target="personnage_aa.html#amaranthe">Amaranthe</ref>. <ref target="personnage_cc.html#celion">Celion</ref> feint donc d'aimer la bergère. Quand son père s'entend avec le père d'<ref target="personnage_aa.html#amaranthe">Amaranthe</ref> pour marier les jeunes gens, <ref target="personnage_cc.html#celion">Celion</ref> refuse, expliquant qu'il apprécie la jeune fille comme maîtresse mais non comme épouse. Perdue de réputation, <ref target="personnage_aa.html#amaranthe">Amaranthe</ref> épouse le premier homme qui la demande en mariage.</p>
+            <p>Pendant ce temps, <ref target="personnage_pp.html#philemon">Philémon</ref>, le père de <ref target="#bellinde">Bellinde</ref>, accepte d'accorder la main de sa fille à <ref target="personnage_ee.html#ergaste">Ergaste</ref>. <ref target="#bellinde">Bellinde</ref> et <ref target="personnage_cc.html#celion">Celion</ref> sont désespérés. <ref target="#bellinde">Bellinde</ref> reconnaît qu'elle aime  le berger et qu'elle « esliroi[t] plutost d'espouser le tombeau » qu'<ref target="personnage_ee.html#ergaste">Ergaste</ref> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#337_verso">I, 10, 337 verso</ref>),  mais elle est décidée à obéir à son père. <ref target="personnage_cc.html#celion">Celion</ref> se réfugie dans les bois. <ref target="#bellinde">Bellinde</ref> lui accorde un dernier rendez-vous. Pour protéger sa réputation d'honnêteté, elle  demande au jeune homme de s'éloigner du hameau pour que personne n'entende ses plaintes.</p>
+            <p>
+                    <ref target="personnage_ee.html#ergaste">Ergaste</ref> surprend cette dernière conversation des jeunes gens. Lorsque <ref target="personnage_cc.html#celion">Celion</ref> s'en va, <ref target="personnage_ee.html#ergaste">Ergaste</ref> parle à <ref target="#bellinde">Bellinde</ref> et lui rend sa liberté en lui demandant de le traiter comme un frère.</p>
+            <p>
+                    <ref target="personnage_dd.html#diamis">Diamis</ref>, le frère de <ref target="personnage_cc.html#celion">Celion</ref>, part avec <ref target="personnage_ee.html#ergaste">Ergaste</ref> pour retrouver le berger et le ramener. <ref target="personnage_cc.html#celion">Celion</ref> est alors tenté de tuer <ref target="personnage_ee.html#ergaste">Ergaste</ref>, mais <ref target="personnage_dd.html#diamis">Diamis</ref> lui révèle la générosité de son rival.</p>
+            <p> <ref target="personnage_cc.html#celion">Celion</ref> et <ref target="#bellinde">Bellinde</ref> se marient et donnent à leur premier enfant le nom d'<ref target="personnage_ee.html#ergaste">Ergaste</ref>. Celui-ci en effet, décidé à ne jamais prendre femme, est devenu l'ami du couple. </p>
+            <p>Des étrangers pillent la province et enlèvent le petit <ref target="personnage_ee.html#ergaste">Ergaste</ref>. Quelque temps après, <ref target="#bellinde">Bellinde</ref> met au monde <ref target="personnage_dd.html#diane">Diane</ref>. Mais <ref target="personnage_cc.html#celion">Celion</ref> est alors mort, et son ami <ref target="personnage_ee.html#ergaste">Ergaste</ref> aussi.</p>
+             Dans l'édition de <ref target="bibliographie.html#vaganay">Vaganay</ref> (I, 10, p. 420), il est dit que <ref target="#bellinde">Bellinde</ref> meurt en même temps que son mari, ce qui est invraisemblable, puisque <ref target="personnage_dd.html#diane">Diane</ref> a précisé que sa mère était partie à <ref target="repertoire_ee.html#evian">Évian</ref> après le décès de son époux (<ref target="../_roman/reference/21_1/21_1_livre_6.html#159_verso">I, 6, 159 verso</ref>), et puisque <ref target="personnage_ss.html#silvandre">Silvandre</ref> a entendu un oracle transmis par <ref target="#bellinde">Bellinde</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#231_recto">I, 8, 231 recto</ref>). <lb/>
+              <lb/>
+              Le personnage qui meurt en même temps que <ref target="personnage_cc.html#celion">Celion</ref> est <ref target="personnage_ee.html#ergaste">Ergaste</ref> dans l'édition anonyme de 1607 ainsi que dans l'édition de 1621<lb/>
+              (<ref target="../_roman/reference/21_1/21_1_livre_10.html#350_recto">I, 10, 350 recto</ref>). 
+            <lb/>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/bellinde.gif)">
+                Bellinde</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#bellinde">I</ref>, <ref target="#2_bellinde">II</ref>, <ref target="#3_bellinde">III</ref>, <ref target="#4_bellinde">IV</ref>
+          
+          <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_7.html#463">II, 7, 463</ref>.
+          <p>
+                  <hi rend="italics">Caractéristique :</hi> « Sage » (<ref target="../_roman/reference/21_2/21_2_livre_7.html#463">II, 7, 463</ref>), dit <ref target="personnage_cc.html#2_celadon">Céladon</ref>. </p>
+          <p>Mère de <ref target="personnage_dd.html#2_diane">Diane</ref>. Elle habite avec les druides d'<ref target="repertoire_ee.html#evian">Évian</ref>.</p>
+          
+          <p>Quand <ref target="personnage_ll.html#2_leonide">Léonide</ref> apprend à <ref target="personnage_cc.html#2_celadon">Céladon</ref> que <ref target="personnage_pp.html#2_paris">Paris</ref> aime <ref target="personnage_dd.html#2_diane">Diane</ref>, le Berger demande s'il s'agit de la fille de <ref target="#2_bellinde">Bellinde</ref> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#463">II, 7, 463</ref>). </p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/bellinde.gif)">
+                Bellinde</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#bellinde">I</ref>, <ref target="#2_bellinde">II</ref>, <ref target="#3_bellinde">III</ref>, <ref target="#4_bellinde">IV</ref>
+          
+          <hi rend="italics">Première mention : </hi> <ref target="../_roman/reference/21_3/21_3_livre_11.html#487_verso">III, 11, 487 verso</ref>.
+          <p>
+                  <hi rend="italics">Caractéristique :</hi> Elle « peut disposer » de sa fille (<ref target="../_roman/reference/21_3/21_3_livre_11.html#487_verso">III, 11, 487 verso</ref>).</p>
+          <p>
+                  <hi rend="italics">Nommée</hi> par <ref target="personnage_dd.html#3_diane">Diane</ref>, <ref target="personnage_pp.html#3_paris">Paris</ref> et <ref target="personnage_aa.html#3_adamas">Adamas</ref>.</p>
+          <p>Mère de <ref target="personnage_dd.html#3_diane">Diane</ref>.</p>
+          
+          <p>
+                  <ref target="personnage_dd.html#3_diane">Diane</ref> autorise <ref target="personnage_pp.html#3_paris">Paris</ref> à demander sa main à sa mère (<ref target="../_roman/reference/21_3/21_3_livre_11.html#487_verso">III, 11, 487 verso</ref>). Le jeune homme le répète à <ref target="personnage_aa.html#3_adamas">Adamas</ref>, son père (<ref target="../_roman/reference/21_3/21_3_livre_11.html#489_verso">III, 11, 489 verso</ref>). Le druide va écrire à Bellinde pour qu'elle traite bien <ref target="personnage_pp.html#3_paris">Paris</ref> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#490_recto">III, 11, 490 recto</ref>). Il remet la lettre à son fils (<ref target="../_roman/reference/21_3/21_3_livre_12.html#551_recto">III, 12, 551 recto</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/bellinde.gif)">
+                Bellinde</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#bellinde">I</ref>, <ref target="#2_bellinde">II</ref>, <ref target="#3_bellinde">III</ref>, <ref target="#4_bellinde">IV</ref>
+          
+          <hi rend="italic">Première mention</hi> : <ref target="../_roman/reference/24_4/24_4_livre_1.html#90">IV, 1, 90</ref>
+                <lb/>
+          <lb/>
+          Nommée par <ref target="personnage_dd.html#4_diane">Diane</ref>, <ref target="personnage_aa.html#4_astree">Astrée</ref> et <ref target="personnage_aa.html#4_alexis">Alexis</ref>.<lb/>
+  
+          Comme <ref target="personnage_aa.html#4_astree">Astrée</ref> désire se rendre chez les <ref target="repertoire_cc.html#4_carnutes">Carnutes</ref>, <ref target="personnage_dd.html#4_diane">Diane</ref> propose de la suivre par amitié (<ref target="../_roman/reference/24_4/24_4_livre_1.html#90">IV, 1, 90</ref>). Elle pense que sa mère, Bellinde, et le prétendant à sa main, <ref target="personnage_pp.html#4_paris">Paris</ref>, ne peuvent pas s'opposer à la volonté de Dieu. Comment Bellinde  empêcherait-elle sa fille de l'imiter (<ref target="../_roman/reference/24_4/24_4_livre_1.html#91">IV, 1, 91</ref>) ?<lb/>
+  <lb/>
+  Diane oublie qu'elle a autorisé Paris à demander sa main à Bellinde<lb/>
+    (<ref target="../_roman/reference/21_3/21_3_livre_11.html#487_recto">III, 11, 487 recto</ref>).<lb/>
+    Elle n'a d'ailleurs pas révélé cela à ses compagnes.
+  <lb/>
+  <ref target="personnage_aa.html#4_astree">Astrée</ref> considère que Diane est orpheline parce que sa mère est au loin (<ref target="../_roman/reference/24_4/24_4_livre_3.html#440">IV, 3, 440</ref>).<lb/>
+  <lb/>
+          Diane décide qu'elle ne montrera pas ses sentiments avant de connaître la volonté de sa  mère. Elle est déterminée à lui obéir, comme <ref target="personnage_pp.html#4_phillis">Phillis</ref> a obéi à <ref target="personnage_aa.html#4_artemis">Artémis</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#596">IV, 3, 596</ref>).<lb/>
+  <lb/>
+          Bellinde approuverait l'alliance de sa fille et de <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> si elle connaissait ce berger, affirme <ref target="personnage_aa.html#4_alexis">Alexis</ref>, qui pourtant ne connaît pas Bellinde (<ref target="../_roman/reference/24_4/24_4_livre_3.html#597">IV, 3, 597</ref>).<lb/>
+  <lb/>
+  <ref target="personnage_dd.html#4_diane">Diane</ref> attend de savoir la volonté de Bellinde pour montrer publiquement ce qu'elle éprouve pour <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#632">IV, 3, 632</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/bellinus.gif)">
+                Bellinus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#3_bellinus">III</ref>
+          
+          <hi rend="italics">Première mention : </hi> <ref target="../_roman/reference/21_3/21_3_livre_12.html#507_recto">III, 12, 507 recto</ref>.
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_3/21_3_livre_12.html#h_childeric">Histoire de Childeric, de Silviane, et d'Andrimarte</ref> racontée par le chevalier de <ref target="personnage_ll.html#3_lindamor">Lindamor</ref>.<lb/>
+            <lb/>
+            Père de 
+            <ref target="personnage_mm.html#3_merovee">Mérovée</ref>.</p>
+          
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_12.html#h_childeric">Histoire de Childeric, de Silviane, et d'Andrimarte</ref>
+                  </p>
+            <p>Duc de <ref target="repertoire_tt.html#3_thuringe">Thuringe</ref>, Bellinus est l'époux d'<ref target="personnage_ik.html#3_ingrande">Ingrande</ref>,  la mère de <ref target="personnage_mm.html#3_merovee">Mérovée</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#507_recto">III, 12, 507 recto</ref>).</p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/belovese.gif)">
+                Belovese</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_belovese">II</ref>, <ref target="#3_belovese">III</ref>
+          
+          <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_1.html#35">II, 1, 35</ref>. Écrit aussi <hi rend="italic">Belovese</hi>, <hi rend="italics">Belovesus</hi>.
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : <ref target="#2_belovese">Bellovèse</ref> et <ref target="personnage_ss.html#2_sigovese">Sigovèse</ref>,  fils de la sœur d'Ambigat, un puissant roi celte, reçoivent l'ordre de sortir de la <ref target="repertoire_gg.html#2_gaule">Gaule</ref> surpeuplée avec de fortes troupes. <ref target="personnage_ss.html#2_sigovese">Sigovèse</ref> se rend vers la Forêt <ref target="repertoire_hh.html#2_hircinie">Hercynienne</ref> et <ref target="#2_belovese">Bellovèse</ref> vers l'<ref target="repertoire_ik.html#2_italie">Italie</ref> (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 12 verso). Les hommes de <ref target="#2_belovese">Bellovèse</ref> osent franchir les <ref target="repertoire_aa.html#2_alpes">Alpes</ref> quand ils découvrent le vin, ajoute <ref target="bibliographie.html#fauchet">Fauchet</ref> qui doute de cette information (f° 14 recto).<lb/>
+            D'après certains écrivains du XVI<hi rend="supn">e</hi> siècle, « les expéditions des <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> à <ref target="repertoire_qr.html#2_rome">Rome</ref> se justifient comme une nécessité de remettre l'État romain en ses mains légitimes » (<ref target="bibliographie.html#dubois">Dubois</ref>, p. 70). </p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_1.html#histoire_de_celidee">Histoire de Célidée, Thamyre et Calidon</ref>, racontée par eux-mêmes à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_pp.html#2_paris">Paris</ref>,  et aux bergers ;<lb/>
+            <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>, racontée par <ref target="personnage_uz.html#2_ursace">Ursace</ref>, puis répétée par <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_adamas">Adamas</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>, et un groupe de bergers.</p>
+          
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_1.html#histoire_de_celidee">Histoire de Célidée, Thamyre et Calidon</ref>
+                  </p>
+            <p>Les <ref target="repertoire_bb.html#2_boiens">Boïens</ref> ont suivi <ref target="#2_belovese">Bellovèse</ref> quand il a quitté la <ref target="repertoire_gg.html#2_gaule">Gaule</ref> et traversé les <ref target="repertoire_aa.html#2_alpes">Alpes</ref> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#35">II, 1, 35</ref>). </p>
+          
+          <p>
+                  <ref target="personnage_aa.html#2_adamas">Adamas</ref>, devant les portraits réunis dans sa galerie, raconte : </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</ref>
+                  </p>
+            <p>Les <ref target="repertoire_ff.html#2_francs">Francs</ref> ont quitté la <ref target="repertoire_gg.html#2_gaule">Gaule</ref> à la suite de « <ref target="personnage_ss.html#2_sigovese">Sigovese</ref>, et <ref target="#2_belovese">Belovese</ref>, de <ref target="#2_brennus">Breme</ref> ou
+              d'autres », affirme <ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#750">II, 11, 750</ref>). </p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/belovese.gif)">
+                Belovese</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_belovese">II</ref>, <ref target="#3_belovese">III</ref>
+          
+          <p>
+                  <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>. Écrit aussi <hi rend="italic">Bellovese</hi> et <hi rend="italic">Bellonesus</hi>. </p>
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : <ref target="bibliographie.html#tite_live">Tite-Live</ref> écrit : « À l'époque où Tarquin l'Ancien régnait à Rome »,                Ambigatus, roi des Bituriges, demande à ses neveux de prendre des hommes et de créer de nouvelles nations là où le diront les oracles.
+            « Le sort assigna à Ségovèse les forêts Hercyniennes ; à Bellovèse, les dieux montrèrent un plus beau chemin, celui de l'Italie. Il appela à lui, du milieu de ses surabondantes populations, des Bituriges, des Arvernes, des Éduens, des Ambarres, des Carnutes, des Aulerques » (<hi rend="italic">Histoire romaine</hi>, V, 34). <ref target="bibliographie.html#fauchet">Fauchet</ref> donne les mêmes renseignements au sujet de ceux qu'il appelle
+            « Sigouveze et Belloveze ». L'historien français se distingue de son modèle italien parce qu'il ajoute que les deux frères ont été traités avec équité par les augures : l'Italie est           « aussi malplaisant chemin que l'autre » (p. 14). Bellovèse traverse les Alpes avec ses hommes qui auraient désiré boire de nouveau le vin italien qu'ils avaient goûté (p. 15).
+            « D'arrivée, nos Gaulois conquirent toute ceste contrée qui commence aux pieds des monts vers l'Italie (et aujourd'huy nommée Lombardie) » (p. 15). Ces événements auraient eu lieu au VI<hi rend="supn">e</hi> siècle avant Jésus-Christ.</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> la description de la galerie d'<ref target="personnage_aa.html#3_adamas">Adamas</ref>.</p>
+          <p>Portrait ajouté, car la description de la galerie est trois fois plus longue après l'édition de 1619. </p>
+          
+          <p>Le portrait de Bellovèse est à côté de celui de son frère, <ref target="personnage_ss.html#3_sigovese">Sigovèse</ref>. Bellovèse a passé les <ref target="repertoire_aa.html#3_alpes">Alpes</ref>, puis vaincu et fondé la <ref target="repertoire_gg.html#3_gaule_cisalpine">Gaule Cisalpine</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/bleda.gif)">
+                Bleda</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_bleda">II</ref>
+          
+          <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_12.html#804">II, 12, 804</ref>.
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : Bléda, 390 ? - 445 ?. <ref target="personnage_aa.html#2_attila">Attila</ref>, « après avoir fait périr dans ses piéges Bléta, son frère, qui régnait sur une grande partie des <ref target="repertoire_hh.html#2_huns">Huns</ref>, il réduisit ce peuple entier sous son pouvoir » (<ref target="bibliographie.html#jordanes">Jordanès</ref>, ch. XXXV). </p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>, racontée par <ref target="personnage_uz.html#2_ursace">Ursace</ref>, puis répétée par <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_adamas">Adamas</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>, et un groupe de bergers.</p>
+          <p>Frère d'<ref target="personnage_aa.html#2_attila">Attila</ref>, roi des <ref target="repertoire_hh.html#2_huns">Huns</ref>. </p>
+          
+          <p>
+                  <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> rapporte puis complète le récit d'<ref target="personnage_uz.html#2_ursace">Ursace</ref>. </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe</ref>
+                  </p>
+            <p>
+                    <ref target="personnage_aa.html#2_attila">Attila</ref> tue son frère (<ref target="../_roman/reference/21_2/21_2_livre_12.html#804">II, 12, 804</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_12.html#824">II, 12, 824</ref>). </p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_histoire" style="background-image:url(../images/personnages/blisinde.gif)">
+                Blisinde</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#3_blisinde">III</ref>
+          
+          <p>
+                  <hi rend="italic">Première mention</hi> : <ref target="../_roman/reference/21_3/21_3_livre_3.html#59_verso">III, 3, 59 verso</ref>.</p>
+          <p>
+                  <hi rend="italic">Personnage historique</hi> : Grégoire de Tours et Frédegaire font d'<ref target="personnage_aa.html#3_athanaric">Athanaric</ref> un ancêtre de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="bibliographie.html#plancher">Plancher</ref>, pp. 455-456). <ref target="personnage_aa.html#3_athanaric">Athanaric</ref> et <hi rend="italic">Blesinde</hi> engendrent <ref target="personnage_gg.html#3_gaudiselle">Gaudisèle</ref>, roi des <ref target="repertoire_bb.html#3_bourguignons">Bourguignons</ref>, écrit <ref target="bibliographie.html#guichenon">Guichenon</ref> (p. 13). </p>
+          <p>
+                  <hi rend="italics">Nommée dans</hi> la description de la galerie d'<ref target="personnage_aa.html#3_adamas">Adamas</ref>.<hi rend="italics"> </hi>
+                </p>
+          <p>Mère de <ref target="personnage_gg.html#3_gaudiselle">Gaudisèle</ref>.</p>
+          
+          <p>Le portrait d'<ref target="personnage_aa.html#3_athanaric">Athanaric</ref> et celui de sa femme Blisinde figurent chez le druide bien que ces <ref target="repertoire_bb.html#3_bourguignons">Bourguignons</ref> ne soient pas entrés en <ref target="repertoire_gg.html#3_gaule">Gaule</ref>. Ils ont engendré <ref target="personnage_gg.html#3_gaudiselle">Gaudisèle</ref>, premier roi des <ref target="repertoire_bb.html#3_bourguignons">Bourguignons</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#59_verso">III, 3, 59 verso</ref>). </p>
+          <p>Portraits ajoutés, car la description de la galerie est trois fois plus longue après l'édition de 1619. </p>
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/boniface.gif)">
+                Boniface</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_boniface">II</ref>
+          
+          <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_11.html#755">II, 11, 755</ref>.
+          <p>
+                  <hi rend="italics"> Personnage historique </hi> : Le comte Boniface mort en 432. Gouverneur d'<ref target="repertoire_aa.html#2_afrique">Afrique</ref>. Ami de Saint <ref target="personnage_aa.html#2_augustin">Augustin</ref> dont il reçoit des lettres.  En 427, dans la lettre CCXX, <ref target="personnage_aa.html#2_augustin">Augustin</ref> fait des reproches à <ref target="#2_boniface">Boniface</ref> qui vient d'épouser une femme beaucoup plus jeune que lui : « Que dirai-je de l'<ref target="repertoire_aa.html#2_afrique">Afrique</ref> dévastée par les Barbares même de l'<ref target="repertoire_aa.html#2_afrique">Afrique</ref>, sans que personne les arrête ? Sous le poids de vos propres affaires, vous ne faites rien pour détourner ces malheurs ». Les <hi rend="italics">Lettres</hi> de saint <ref target="personnage_aa.html#2_augustin">Augustin</ref> se trouvent dans ce <ref target="http://www.abbaye-saint-benoit.ch/saints/augustin/lettres/index.htm">site</ref> (30 septembre 2010).<lb/>
+            <ref target="bibliographie.html#fauchet">Fauchet</ref> se montre indulgent pour <ref target="#2_boniface">Boniface</ref> : « <ref target="personnage_aa.html#2_aetius">Ætius</ref> portant envie à un vaillant Capitaine nommé <ref target="#2_boniface">Boniface</ref> Gouverneur d'<ref target="repertoire_aa.html#2_afrique">Afrique</ref>, le rendit suspect à l'Empereur <ref target="personnage_uz.html#2_valentinien">Valentinian</ref> ; l'accusant souz main de trahison : de sorte que <ref target="#2_boniface">Boniface</ref> voulant sauver sa vie, fut contraint avoir recours aux <ref target="repertoire_uz.html#2_vandales">Vandales</ref>, qu'il fit passer d'<ref target="repertoire_ee.html#2_espagne">Espagne</ref> en <ref target="repertoire_aa.html#2_afrique">Afrique</ref>. Toutesfois son innocence ayant esté depuis congnuë, <ref target="personnage_aa.html#2_aetius">Ætius</ref> vaincu par luy fut desapointé : mais les <ref target="repertoire_uz.html#2_vandales">Vandales</ref> demourerent en leur pays de conqueste, et travaillerent grandement l'<ref target="repertoire_aa.html#2_afrique">Afrique</ref> ; pource que <ref target="#2_boniface">Boniface</ref> blessé en la bataille, et mourant incontinent apres la victoire obtenuë contre <ref target="personnage_aa.html#2_aetius">Ætius</ref>, n'eut moyen de retourner en son ancien gouvernement » (pp. 89-90). Selon les historiens modernes, « il faut absoudre Boniface de l'accusation d'avoir réellement attiré les <ref target="repertoire_uz.html#2_vandales">Vandales</ref> en <ref target="repertoire_aa.html#2_afrique">Afrique</ref>. <ref target="personnage_gg.html#2_genseric">Genséric</ref> n'avait pas besoin d'être attiré, il venait de lui-même » (<ref target="bibliographie.html#gauthier_genseric">Gauthier</ref>, p. 167).</p>
+          <p>
+                  <hi rend="italics">Caractéristique :</hi> « Un grand <ref target="glossaire_cc.html#capitaine">Capitaine</ref> », dit <ref target="personnage_aa.html#2_adamas">Adamas</ref>, le narrateur (<ref target="../_roman/reference/21_2/21_2_livre_11.html#755">II, 11, 755</ref>).</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</ref>, racontée par <ref target="personnage_aa.html#2_adamas">Adamas</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>,  et un groupe de bergers ; <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>, racontée par <ref target="personnage_uz.html#2_ursace">Ursace</ref>, puis répétée par <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_adamas">Adamas</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>, et un groupe de bergers.</p>
+          
+          <p>
+                  <ref target="personnage_aa.html#2_adamas">Adamas</ref>, devant les portraits réunis dans sa galerie, raconte : </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</ref>
+                  </p>
+            <p>Après la mort d'<ref target="personnage_hh.html#2_honorius">Honorius</ref>, <ref target="personnage_aa.html#2_aetius">Ætius</ref> ne s'empare pas du pouvoir parce qu'il craint <ref target="#2_boniface">Boniface</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#755">II, 11, 755</ref>). </p>
+            <p>
+                    <ref target="personnage_pp.html#2_placidie">Placidie</ref> favorise <ref target="personnage_aa.html#2_aetius">Ætius</ref>. <ref target="#2_boniface">Boniface</ref>, jaloux, se rebelle. Les armées de <ref target="personnage_mm.html#2_mahortius">Mavorce</ref>, puis de <ref target="personnage_ss.html#2_sisulphus">Sigisvulte</ref> l'attaquent (<ref target="../_roman/reference/21_2/21_2_livre_11.html#760">II, 11, 760</ref>). </p>
+            <p>
+                    <ref target="#2_boniface">Boniface</ref> s'enfuit en <ref target="repertoire_mm.html#2_mauritanie">Mauritanie</ref> puis appelle <ref target="personnage_gg.html#2_genseric">Genséric</ref>, roi des <ref target="repertoire_uz.html#2_vandales">Vandales</ref>, lui promettant de partager l'<ref target="repertoire_aa.html#2_afrique">Afrique</ref> avec lui. <ref target="personnage_gg.html#2_genseric">Genséric</ref> survient, chasse <ref target="#2_boniface">Boniface</ref> et s'entend avec les <ref target="repertoire_qr.html#2_romains">Romains</ref> pour prendre ses territoires (<ref target="../_roman/reference/21_2/21_2_livre_11.html#760">II, 11, 760</ref>). </p>
+            <p>
+                    <ref target="#2_boniface">Boniface</ref> est l'ami d'<ref target="personnage_aa.html#2_augustin">Augustin</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#761">II, 11, 761</ref>). </p>
+          
+          <p>
+                  <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> rapporte puis complète le récit d'<ref target="personnage_uz.html#2_ursace">Ursace</ref>. </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe</ref>
+                  </p>
+            <p>
+                    <ref target="personnage_ik.html#2_isidore">Isidore</ref> rappelle à <ref target="personnage_uz.html#2_valentinien">Valentinien</ref> les signes que Dieu le favorise : il  l'a débarrassé de <ref target="#2_boniface">Boniface</ref>, usurpateur de l'<ref target="repertoire_aa.html#2_afrique">Afrique</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#814">II, 12, 814</ref>).</p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire">Breme</cell>
+              <cell colspan="1" rowspan="1">Voir <ref target="#2_brennus">Brennus</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/brennus.gif)">
+                Brennus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_brennus">II</ref>, <ref target="#3_brennus">III</ref>
+          
+          <p>
+                  <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_11.html#750">II, 11, 750</ref>.
+            Appelé <ref target="#2_brennus">
+                    <hi rend="italic">Breme </hi>
+                  </ref> dans la deuxième partie et <ref target="#3_brennus">
+                    <hi rend="italic">Brennus</hi>
+                  </ref> dans la troisième.</p>
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> :  ~IV<hi rend="supn">e</hi> siècle. <ref target="bibliographie.html#fauchet">Fauchet</ref> justifie longuement la prise de <ref target="repertoire_qr.html#2_rome">Rome</ref> : <hi rend="italic">Brennus</hi> ou <hi rend="italic">Brenne</hi>,  roi gaulois,  punit les ambassadeurs romains des  Clusiens (leurs voisins) pour  leur traîtrise  et leur lâcheté (f° 16 recto sq.). Le <hi rend="italics">Brenne</hi> qui se bat en Grèce est « un autre que celuy de <ref target="repertoire_qr.html#2_rome">Rome</ref> » (f° 19 verso). <lb/>
+            La légende fait de Brenne un chef gaulois peut-être Senon (tribu des Senones), qui réussit à envahir l'<ref target="repertoire_ik.html#2_italie">Italie</ref> (~390) mais subit une défaite cuisante en <ref target="repertoire_gg.html#2_grece">Grèce</ref> après avoir volé l'or du Temple<hi rend="cache"> </hi>
+                  <ref target="note_2.html#2_or_du_temple">η</ref>. Il se tue.
+            Pour donner un exemple d'« une grande Fortune qui se soit ruinee peu à peu », Honoré d'Urfé allègue le cas de « Brênus Roy des <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref>, ayant surmonté toute l'<ref target="repertoire_ik.html#2_italie">Italie</ref>, vaincu les <ref target="repertoire_qr.html#2_romains">Romains</ref>, pris et saccagé <ref target="repertoire_qr.html#2_rome">Rome</ref>, d'un Soleil à l'autre se veit entre les mains de ses vaincus, son armee deffaicte, et sa <ref target="repertoire_ff.html#2_fortune_dieu">Fortune</ref> tellement tout à coup accablee, qu'il n'y avoit plus rien qui peust agmenter d'avantage son malheur que la continuation de sa vie » (<ref target="bibliographie.html#epistres">
+                    <hi rend="italic">Epistres morales</hi>
+                  </ref>, II, 5, pp. 247-248).</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</ref>, racontée par <ref target="personnage_aa.html#2_adamas">Adamas</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>, et un groupe de bergers.</p>
+          
+          <p>
+                  <ref target="personnage_aa.html#2_adamas">Adamas</ref>, devant les portraits réunis dans sa galerie, raconte : </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</ref>
+                  </p>
+            <p>Les <ref target="repertoire_ff.html#2_francs">Francs</ref> ont quitté la <ref target="repertoire_gg.html#2_gaule">Gaule</ref> à la suite de « <ref target="personnage_ss.html#2_sigovese">Sigovese</ref>,  et <ref target="#2_belovese">Belovese</ref>, de <ref target="#2_brennus">Breme</ref> ou
+              d'autres », affirme <ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#750">II, 11, 750</ref>). </p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/brennus.gif)">
+                Brennus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_brennus">II</ref>, <ref target="#3_brennus">III</ref>
+          
+          <p>
+                  <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>. Appelé <ref target="#2_brennus">
+                    <hi rend="italic">Breme</hi>
+                  </ref> dans la deuxième partie.</p>
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : <ref target="bibliographie.html#tite_live">Tite-Live</ref> raconte la victoire de Brennus à Rome, et l'explique ainsi :
+            « La science militaire aussi bien que la fortune se trouva du côté des Barbares. Dans l'armée opposée, il n'y avait rien de romain » (V, 38).</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> la description de la galerie d'<ref target="personnage_aa.html#3_adamas">Adamas</ref>.<hi rend="italics"> </hi>
+                </p>
+          <p>Portrait ou tableau ajouté, car la description de la galerie est trois fois plus longue après l'édition de 1619. </p>
+          
+          <p>Brennus est représenté avec les <ref target="repertoire_gg.html#3_gaulois">Gaulois</ref> qui l'accompagnent. Ils ont ajouté une épée à la balance à <ref target="repertoire_qr.html#3_rome">Rome</ref>, puis en <ref target="repertoire_gg.html#3_grece">Grèce</ref> ils ont pris l'or du temple<hi rend="cache"> </hi>
+                  <ref target="note_2.html#2_or_du_temple">η</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>-59 recto).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/bybliene.gif)">
+                Bybliene</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#2_bybliene">II</ref>
+          
+          <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_9.html#592">II, 9, 592</ref>.
+          <p>
+                  <hi rend="italics">Caractéristique :</hi> « La Bergere <ref target="#2_bybliene">Bybliene</ref>, qui meurt pour vous » (<ref target="../_roman/reference/21_2/21_2_livre_9.html#592">II, 9, 592</ref>), dit <ref target="personnage_dd.html#2_doris">Doris</ref> à <ref target="personnage_aa.html#2_adraste">Adraste</ref>.</p>
+          <p>
+                  <hi rend="italics">Remarque sur le nom :</hi> <ref target="bibliographie.html#ovide">Ovide</ref> appelle Byblis une jeune fille qui aime son frère jumeau. Repoussée, elle  devient folle de désespoir. Elle sera transformée en fontaine (<hi rend="italics">Métamorphoses</hi>, IX, 453-663). Comme le suffixe <hi rend="italic">ien</hi> peut désigner l'agent (<hi rend="italic">gardien</hi>), la jeune fille nommée <hi rend="italic">Bybliene</hi> joue peut-être le rôle de Byblis. Elle est vengée puisque c'est <ref target="personnage_aa.html#2_adraste">Adraste</ref> qui deviendra fou de désespoir.</p>
+          <p>
+                  <hi rend="italics">Nommée dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_9.html#histoire_de_doris">Histoire de Doris et Palémon</ref>, racontée par <ref target="personnage_dd.html#2_doris">Doris</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_cc.html#2_chrisante">Chrisante</ref>, <ref target="personnage_pp.html#2_paris">Paris</ref> et la troupe de bergers. </p>
+          <p>Bergère du <ref target="repertoire_ff.html#2_forez">Forez</ref>.</p>
+            
+                  <p><graphic url="../images/relations/doris.gif" rend="img" mimeType="image/gif"/></p>
+                
+          
+          <p>
+                  <ref target="personnage_dd.html#2_doris">Doris</ref> rappelle à <ref target="personnage_aa.html#2_adraste">Adraste</ref> que <ref target="#2_bybliene">Bybliene</ref> l'aime en vain (<ref target="../_roman/reference/21_2/21_2_livre_9.html#592">II, 9, 592</ref>). </p>
+          <p> <ref target="personnage_ll.html#2_leonide">Léonide</ref>, dans le jugement qu'elle rend, conseille à <ref target="personnage_aa.html#2_adraste">Adraste</ref> de se tourner vers <ref target="#2_bybliene">Bybliene</ref> s'il le désire (<ref target="../_roman/reference/21_2/21_2_livre_9.html#597">II, 9, 597</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+          </table><lb/><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

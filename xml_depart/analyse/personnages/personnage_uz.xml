@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Personnages U-Z - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_pers"
+  onclick="SetDisplay('legende_pers')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_pers')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p> Catégories</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Fiction</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px"> Histoire </cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="bordergreen" style="width:auto; height:20px">Poète</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="center_t intercalee" style="width:auto; height:20px">Intercalée</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="interruption" style="width:auto; height:20px">  Interruption  </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px">Remarque</cell>
+              </row>
+            </table><p> </p><lb/><p><graphic url="../images/relations/legende1.gif" rend="img" mimeType="image/gif"/></p><p> </p><ref target="personnage.html">
+              <hi rend="bold">PERSONNAGES</hi>
+              <lb/>Orientation</ref><p> </p><ref target="personnage_aa.html">A</ref><ref target="personnage_bb.html">B</ref><ref target="personnage_cc.html">C</ref><ref target="personnage_dd.html">D</ref><ref target="personnage_ee.html">E</ref><lb/><ref target="personnage_ff.html">F</ref><ref target="personnage_gg.html">G</ref><ref target="personnage_hh.html">H</ref><ref target="personnage_ik.html">I</ref><ref target="personnage_ik.html#j">J</ref><lb/><ref target="personnage_ik.html#k">K</ref><ref target="personnage_ll.html">L</ref><ref target="personnage_mm.html">M</ref><ref target="personnage_no.html">N</ref><ref target="personnage_no.html#o">O</ref><lb/><ref target="personnage_pp.html">P</ref><ref target="personnage_qr.html">Q</ref><ref target="personnage_qr.html#r">R</ref><ref target="personnage_ss.html">S</ref><ref target="personnage_tt.html">T</ref><lb/><ref target="personnage_uz.html">U</ref><ref target="personnage_uz.html#v">V</ref><ref target="personnage_uz.html#w">W</ref><ref target="personnage_uz.html#x">X</ref><ref target="personnage_uz.html#y">Y</ref><ref target="personnage_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>PERSONNAGES - U à Z</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/ursace.gif)">
+                Ursace</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_ursace">II</ref>, <ref target="#3_ursace">III</ref>, <ref target="#4_ursace">IV</ref>
+          
+          <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_10.html#639">II, 10, 639</ref>.
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : « Quant à <ref target="personnage_mm.html#2_maxime">Maxime</ref>, il prit la fuite ; mais il fut tué par un certain Ursus, soldat romain » (<ref target="bibliographie.html#jordanes">Jordanès</ref>, ch. XLV). « <ref target="personnage_mm.html#2_maxime">Maximus</ref> mis en pieces par les gens d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>,
+            ou tué par <ref target="#2_ursace">Ursace</ref> Romain » (<ref target="bibliographie.html#fauchet">Fauchet</ref>,
+            p. 100).</p>
+          <p> <hi rend="italics">Caractéristiques :</hi> « Miserable <ref target="#2_ursace">Ursace</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#639">II, 10, 639</ref>), dit-il de lui-même. Il « meritoit bien toute sorte de
+            contentement, pour la fidelité qui estoit en luy » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#884">II, 12, 884</ref>), dit <ref target="personnage_ss.html#2_silvandre">Silvandre</ref>, le narrateur.</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_10.html#histoire_d_ursace">Histoire d'Ursace et d'Olymbre</ref>, racontée par <ref target="personnage_cc.html#2_celadon">Céladon</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref> ;<lb/>
+            <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>, racontée par <ref target="#2_ursace">Ursace</ref>, puis répétée par <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_adamas">Adamas</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>, et un groupe de bergers. </p>
+          <p>Chevalier <ref target="repertoire_qr.html#2_romains">romain</ref>. </p>
+          
+                  <p><graphic url="../images/relations/eudoxe.gif" rend="img" mimeType="image/gif"/></p>
+                
+          
+          <p>
+                  <ref target="#2_ursace">Ursace</ref>, raconte ses aventures aux deux <ref target="repertoire_ff.html#2_foreziens">Foréziens</ref> qui lui sauvent la vie, <ref target="personnage_cc.html#2_celadon">Céladon</ref> puis <ref target="personnage_ss.html#2_silvandre">Silvandre</ref>.</p>
+          <p>
+                  <ref target="personnage_cc.html#2_celadon">Céladon</ref>, en décrivant à <ref target="personnage_ll.html#2_leonide">Léonide</ref> son voyage en <ref target="repertoire_ik.html#2_italie">Italie</ref>, fait ce récit : </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_10.html#histoire_d_ursace">Histoire d'Ursace et d'Olymbre</ref>
+                  </p>
+            <p>En <ref target="repertoire_ik.html#2_italie">Italie</ref>, <ref target="personnage_cc.html#2_celadon">Céladon</ref> entend un homme se plaindre en prononçant un sonnet (<ref target="../_roman/reference/21_2/21_2_livre_10.html#638">II, 10, 638</ref>). Puisque la femme qu'il aime, l'impératrice <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, a été enlevée, il n'est plus « ce mesme <ref target="#2_ursace">Ursace</ref> <ref target="repertoire_qr.html#2_romains">Romain</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#640">II, 10, 640</ref>). <ref target="personnage_cc.html#2_celadon">Céladon</ref> voit ensuite <ref target="#2_ursace">Ursace</ref> essayer de se tuer. Un autre homme accourt et cherche à retenir le glaive de son ami. C'est <ref target="personnage_no.html#2_olimbre">Olimbre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#640">II, 10, 640</ref>).</p>
+            <p> <ref target="personnage_cc.html#2_celadon">Céladon</ref> intervient parce qu'<ref target="personnage_no.html#2_olimbre">Olimbre</ref>, blessé, s'est évanoui. Le berger bande la plaie pendant qu'<ref target="#2_ursace">Ursace</ref> mouille le visage de son ami. Dieu l'a envoyé, dit le <ref target="personnage_cc.html#2_celadon">Céladon</ref>, pour rappeler aux chevaliers que leur vie ne leur appartient pas. <ref target="#2_ursace">Ursace</ref> se prosterne  devant ce messager céleste (<ref target="../_roman/reference/21_2/21_2_livre_10.html#644">II, 10, 644</ref>). </p>
+            
+                    <ref target="personnage_ll.html#2_leonide">Léonide</ref> interrompt <ref target="personnage_cc.html#2_celadon">Céladon</ref> pour déclarer que les <ref target="repertoire_qr.html#2_romains">Romains</ref> l'ont pris pour <ref target="repertoire_mm.html#2_mercure">Mercure</ref> parce qu'il est « jeune et beau » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#644">II, 10, 644</ref>).
+            <lb/>
+            Ce type d'apparition est dans <hi rend="italic">l'Énéide</hi> de Virgile. D'Urfé le rappelle dans son <hi rend="italic">
+                      <ref target="jugemant.html#mercure">Jugemant sur l'Amedeide</ref>
+                    </hi>.
+            <p>
+                    <ref target="personnage_cc.html#2_celadon">Céladon</ref> donne du vin aux deux chevaliers et les engage à se faire soigner dans la ville voisine. Un mire s'occupe d'<ref target="personnage_no.html#2_olimbre">Olimbre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#645">II, 10, 645</ref>). Pendant que son ami dort, <ref target="#2_ursace">Ursace</ref> se rend dans le logis où se trouve <ref target="personnage_cc.html#2_celadon">Céladon</ref>, et s'étonne de le voir manger. <ref target="personnage_cc.html#2_celadon">Céladon</ref> se nomme (<ref target="../_roman/reference/21_2/21_2_livre_10.html#646">II, 10, 646</ref>). Voyant la déception du chevalier, le berger l'invite à raconter ses malheurs (<ref target="../_roman/reference/21_2/21_2_livre_10.html#649">II, 10, 649</ref>).</p>
+          
+          <p>L'entrée d'<ref target="personnage_aa.html#2_adamas">Adamas</ref> arrête la conversation de <ref target="personnage_cc.html#2_celadon">Céladon</ref> et de <ref target="personnage_ll.html#2_leonide">Léonide</ref>. </p>
+          <p>
+                  <ref target="personnage_aa.html#2_adamas">Adamas</ref>, devant les portraits réunis dans sa galerie, raconte : </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</ref>
+                  </p>
+            <p>
+                    <ref target="personnage_pp.html#2_placidie">Placidie</ref> se rend à <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref> avec ses enfants. Plusieurs fils de seigneurs  accompagnent <ref target="#2_valentinien">Valentinien</ref>, entre autres le jeune <ref target="#2_ursace">Ursace</ref>. « Je nomme celuy-cy, parce que depuis il fit la vengeance de la mort de <ref target="#2_valentinien">Valentinian</ref> », dit le druide (<ref target="../_roman/reference/21_2/21_2_livre_11.html#753">II, 11, 753</ref>).</p>
+            Quand <ref target="personnage_aa.html#2_adamas">Adamas</ref> nomme <ref target="#2_ursace">Ursace</ref>, <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> l'interrompt pour dire qu'il a sauvé la vie à ce chevalier et à son ami, <ref target="personnage_no.html#2_olimbre">Olimbre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#754">II, 11, 754</ref>).
+            <lb/>
+          
+          <p>
+                  <ref target="personnage_aa.html#2_alexis">Alexis</ref>, curieuse d'entendre la suite des aventures d'<ref target="#2_ursace">Ursace</ref>, demande à <ref target="personnage_ll.html#2_leonide">Léonide</ref> de rappeler à <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> qu'il a promis de raconter l'histoire du chevalier (<ref target="../_roman/reference/21_2/21_2_livre_11.html#763">II, 11, 763</ref>). </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>
+                  </p>
+            <p>Un navire fait naufrage près de Marseille. <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> voit deux hommes se débattre dans l'eau. Celui qui sait nager porte sur le dos son jeune compagnon  (<ref target="../_roman/reference/21_2/21_2_livre_12.html#770">II, 12, 770</ref>). <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> les secourt et apprend qu'ils s'appellent <ref target="#2_ursace">Ursace</ref> et <ref target="personnage_no.html#2_olimbre">Olimbre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#772">II, 12, 772</ref>). <ref target="#2_ursace">Ursace</ref> prend la parole un soir et raconte son histoire après avoir demandé le secret pour des raisons de sécurité (<ref target="../_roman/reference/21_2/21_2_livre_12.html#773">II, 12, 773</ref>) : </p>
+            <p>
+                    <ref target="#2_ursace">Ursace</ref> a grandi à la Cour, près de <ref target="personnage_pp.html#2_placidie">Placidie</ref> et de ses enfants. « J'avois pris une si grande amitié à <ref target="#2_valentinien">Valentinian</ref> et luy à moy, que l'on ne nous pouvoit separer » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#775">II, 12, 775</ref>), dit-il. Il se rend donc à <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref> avec eux. <ref target="#2_ursace">Ursace</ref>, qui a une quinzaine d'années,  tombe amoureux d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, la fille de l'Empereur d'<ref target="repertoire_no.html#2_orient">Orient</ref>,  âgée de douze ans. La princesse est promise à <ref target="#2_valentinien">Valentinien</ref>. </p>
+            <p>Un jour, en visitant une galerie de tableaux, <ref target="#2_ursace">Ursace</ref> explique à <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> une peinture représentant <ref target="repertoire_ik.html#2_icare">Icare</ref>, et en vient à définir l'honneur et l'amour (<ref target="../_roman/reference/21_2/21_2_livre_12.html#778">II, 12, 778</ref>). Il décrit les sentiments qu'il éprouve en utilisant les métaphores conventionnelles, <hi rend="italics">brûler</hi> et <hi rend="italics">mourir</hi>. <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> comprend qu'il s'agit d'une brûlure et refuse de se brûler pour soulager <ref target="#2_ursace">Ursace</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#779">II, 12, 779</ref>).</p>
+            <p>
+                    <ref target="#2_valentinien">Valentinien</ref> préfère la compagne de la princesse, <ref target="personnage_ik.html#2_isidore">Isidore</ref>. <ref target="#2_valentinien">Valentinien</ref> et <ref target="#2_ursace">Ursace</ref> participent à des tournois auxquels assistent <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> et <ref target="personnage_ik.html#2_isidore">Isidore</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#780">II, 12, 780</ref>).</p>
+            <p>Quand <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, endormie dans le jardin, est piquée par une abeille, <ref target="#2_ursace">Ursace</ref>, à la requête de <ref target="#2_valentinien">Valentinien</ref> lui suce la lèvre (<ref target="../_roman/reference/21_2/21_2_livre_12.html#781">II, 12, 781</ref>). Il compose un sonnet sur la joie qu'il a connue (<ref target="../_roman/reference/21_2/21_2_livre_12.html#784">II, 12, 784</ref>). Quelque temps après, toujours dans le jardin, <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> sourit quand elle voit <ref target="#2_valentinien">Valentinien</ref> suivre <ref target="personnage_ik.html#2_isidore">Isidore</ref>. <ref target="#2_ursace">Ursace</ref> saisit l'occasion pour dire son amour (<ref target="../_roman/reference/21_2/21_2_livre_12.html#785">II, 12, 785</ref>). La Princesse s'en offense. Il promet de n'en plus parler, mais annonce que chacune de ses salutations  signifiera « Je meurs d'amour pour vous Madame » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#788">II, 12, 788</ref>). <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> enfin permet à <ref target="#2_ursace">Ursace</ref> de l'appeler « Ma Princesse » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#790">II, 12, 790</ref>). La conduite de <ref target="#2_valentinien">Valentinien</ref> engage <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> à se montrer de moins en moins sévère avec <ref target="#2_ursace">Ursace</ref>. </p>
+            <p> <ref target="personnage_hh.html#2_honorius">Honorius</ref> meurt. <ref target="personnage_pp.html#2_placidie">Placidie</ref>, sa sœur, se rend en <ref target="repertoire_ik.html#2_italie">Italie</ref> pour que son fils succède à l'Empereur. <ref target="#2_ursace">Ursace</ref> se réjouit d'être obligé de rester près d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>. Il lui chante un sonnet « sur le départ d'un Rival » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#792">II, 12, 792</ref>). <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> lui accorde une entrevue dans un cabinet en présence d'<ref target="personnage_ik.html#2_isidore">Isidore</ref>. Elle rappelle qu'elle doit épouser <ref target="#2_valentinien">Valentinien</ref> parce qu'elle descend d'une lignée d'empereurs (<ref target="../_roman/reference/21_2/21_2_livre_12.html#796">II, 12, 796</ref>). <ref target="#2_ursace">Ursace</ref> tente de profiter du fait qu'<ref target="personnage_ik.html#2_isidore">Isidore</ref> s'éloigne d'eux (<ref target="../_roman/reference/21_2/21_2_livre_12.html#799">II, 12, 799</ref>). <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> rappelle sa compagne et plaisante avec elle (<ref target="../_roman/reference/21_2/21_2_livre_12.html#802">II, 12, 802</ref>). </p>
+            <p>
+                    <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> épouse <ref target="#2_valentinien">Valentinien</ref> et s'en va en <ref target="repertoire_ik.html#2_italie">Italie</ref>. <ref target="#2_ursace">Ursace</ref> tombe malade (<ref target="../_roman/reference/21_2/21_2_livre_12.html#803">II, 12, 803</ref>). Il accompagne ensuite l'armée d'<ref target="personnage_aa.html#2_ariobinde">Ariobinde</ref> que <ref target="personnage_tt.html#2_theodose2">Théodose II</ref> envoie  soutenir <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#804">II, 12, 804</ref>). Quand <ref target="#2_ursace">Ursace</ref> se joint  à l'armée d'<ref target="personnage_aa.html#2_aetius">Ætius</ref>, <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, en lui disant adieu, déclare : « Ressouviens-toy, [...] mon Chevalier, de revenir bien tost, et de m'estre tousjours fidelle » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#806">II, 12, 806</ref>). </p>
+            <p>
+                    <ref target="#2_valentinien">Valentinien</ref> trompe <ref target="personnage_ik.html#2_isidore">Isidore</ref> en la convoquant dans les appartements de son épouse (<ref target="../_roman/reference/21_2/21_2_livre_12.html#809">II, 12, 809</ref>).  Il la viole avec l'aide de son eunuque, <ref target="personnage_hh.html#2_heracle">Héracle</ref>. </p>
+            <p> <ref target="#2_ursace">Ursace</ref> rencontre <ref target="personnage_no.html#2_olimbre">Olimbre</ref> dans l'armée, « jamais depuis il n'y a rien eu qui nous ayt peu separer » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#831">II, 12, 831</ref>), ajoute le narrateur. À la Cour, <ref target="personnage_no.html#2_olimbre">Olimbre</ref> deviendra sénateur et tombera amoureux de la jeune <ref target="personnage_pp.html#2_placidie">Placidie</ref>, la fille d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>. Au moment où <ref target="#2_ursace">Ursace</ref> fait la connaissance d'<ref target="personnage_no.html#2_olimbre">Olimbre</ref>, <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> a une trentaine d'années, <ref target="#2_ursace">Ursace</ref> en a trente-cinq et <ref target="personnage_no.html#2_olimbre">Olimbre</ref> vingt-sept (<ref target="../_roman/reference/21_2/21_2_livre_12.html#832">II, 12, 832</ref>). </p>
+            <p>
+                    <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> encourage <ref target="#2_ursace">Ursace</ref> à ne pas quitter l'armée. Il explique ainsi l'attitude de la jeune femme : elle craint que « l'ordinaire recherche que je luy faisois, n'emportast quelque chose par dessus son dessein, ou que quelqu'un s'en prit garde » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#829">II, 12, 829</ref>). <ref target="#2_ursace">Ursace</ref> et <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> échangent des lettres. L'Impératrice félicite le chevalier qui a sauvé la vie d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#830">II, 12, 830</ref>). </p>
+            
+                    <ref target="bibliographie.html#fauchet">Fauchet</ref> écrit : <ref target="personnage_aa.html#2_aetius">Ætius</ref> « combattant vaillamment, [...] fut blessé en la teste, et jetté bas de son cheval, en bien grand danger, s'il n'eust esté retiré de la presse »
+              (p. 97).
+            <p>Au bout de douze ans de guerre, <ref target="#2_ursace">Ursace</ref> rentre en <ref target="repertoire_ik.html#2_italie">Italie</ref> avec <ref target="personnage_aa.html#2_aetius">Ætius</ref>. Le peuple les acclame (<ref target="../_roman/reference/21_2/21_2_livre_12.html#833">II, 12, 833</ref>). <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> reçoit <ref target="#2_ursace">Ursace</ref> et lui parle du changement d'<ref target="personnage_ik.html#2_isidore">Isidore</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#834">II, 12, 834</ref>). Quand la Princesse apprend la mésaventure de son amie, elle pleure avec elle, mais refuse de se venger en trompant cet époux qui ne la mérite pas (<ref target="../_roman/reference/21_2/21_2_livre_12.html#838">II, 12, 838</ref>). <ref target="#2_ursace">Ursace</ref> dit : « Si c'eust esté autre que l'Empereur, je luy eusse offert et ma main et mon espee pour venger un si grand outrage, mais contre celuy que j'avois recogneu pour mon Seigneur,  et à qui j'avois tant de fois promis fidelité, et duquel j'avois eu plusieurs bien-faits, et receu beaucoup d'honneur, je fusse mort plustost que d'y songer » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#835">II, 12, 835</ref>).</p>
+            <p>Quand Valentinien fait tuer <ref target="personnage_aa.html#2_aetius">Ætius</ref>, <ref target="personnage_aa.html#2_attila">Attila</ref> envahit l'<ref target="repertoire_ik.html#2_italie">Italie</ref>. À la demande de l'Empereur et d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, <ref target="#2_ursace">Ursace</ref> va à <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref> chercher du secours (<ref target="../_roman/reference/21_2/21_2_livre_12.html#844">II, 12, 844</ref>). Il tombe malade et s'absente plus de huit mois. <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> est pleine de regrets. </p>
+            <p>
+                    <ref target="#2_ursace">Ursace</ref> rentre en <ref target="repertoire_ik.html#2_italie">Italie</ref>. <ref target="#2_valentinien">Valentinien</ref> est assassiné (<ref target="../_roman/reference/21_2/21_2_livre_12.html#847">II, 12, 847</ref>). <ref target="#2_ursace">Ursace</ref> blâme l'action de <ref target="personnage_mm.html#2_maxime">Maxime</ref> : </p>
+            <quote>
+              <p>Ce n'est point au subject de mettre la main sur son seigneur, et [...] il doit bien essayer par toutes voyes, et par bon conseil de le retirer de son vice : Mais non pas de l'en chastier et moins encores d'oster la vie à celuy pour lequel il est obligé de mettre la sienne (<ref target="../_roman/reference/21_2/21_2_livre_12.html#847">II, 12, 847</ref>).</p>
+            </quote>
+            <p> <ref target="personnage_mm.html#2_maxime">Maxime</ref> se fait nommer empereur. <ref target="#2_ursace">Ursace</ref> et <ref target="personnage_no.html#2_olimbre">Olimbre</ref> ne quittent pas <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> et ses filles, et s'enfuient avec elles (<ref target="../_roman/reference/21_2/21_2_livre_12.html#848">II, 12, 848</ref>). </p>
+            <p>Pendant la nuit, <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> s'étend la tête sur le cœur d'<ref target="#2_ursace">Ursace</ref>. Il la caresse. Elle l'arrête, mais lui  jure de l'épouser dès qu'elle pourra librement le faire :  « Peut-estre que la fortune disposera de sorte de vous, que je pourray vous contenter avec honneur », ajoute-t-elle (<ref target="../_roman/reference/21_2/21_2_livre_12.html#850">II, 12, 850</ref>). </p>
+            <p>Les fugitifs  sont retrouvés le lendemain par les envoyés de <ref target="personnage_mm.html#2_maxime">Maxime</ref>, l'usurpateur. <ref target="#2_ursace">Ursace</ref> et <ref target="personnage_no.html#2_olimbre">Olimbre</ref> se battent en vain. Ils sont blessés. Les trois femmes sont ramenées à la Cour (<ref target="../_roman/reference/21_2/21_2_livre_12.html#851">II, 12, 851</ref>). <ref target="personnage_no.html#2_olimbre">Olimbre</ref> guérit plus vite que son ami. Il lui apprend que <ref target="personnage_mm.html#2_maxime">Maxime</ref> a épousé <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> de force (<ref target="../_roman/reference/21_2/21_2_livre_12.html#852">II, 12, 852</ref>). <ref target="personnage_no.html#2_olimbre">Olimbre</ref> empêche <ref target="#2_ursace">Ursace</ref> de se tuer (<ref target="../_roman/reference/21_2/21_2_livre_12.html#854">II, 12, 854</ref>). </p>
+            <p>
+                    <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> écrit à <ref target="#2_ursace">Ursace</ref> se plaignant de la fortune (<ref target="../_roman/reference/21_2/21_2_livre_12.html#853">II, 12, 853</ref>). Quand elle vient le voir parce qu'il est  encore alité, <ref target="personnage_no.html#2_olimbre">Olimbre</ref> entretient la jeune <ref target="personnage_pp.html#2_placidie2">Placidie</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#854">II, 12, 854</ref>). <ref target="#2_ursace">Ursace</ref> dit son malheur à <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> : il ne vit encore que parce qu'<ref target="personnage_no.html#2_olimbre">Olimbre</ref> l'empêche de mourir (<ref target="../_roman/reference/21_2/21_2_livre_12.html#856">II, 12, 856</ref>).</p>
+            <p> <ref target="#2_ursace">Ursace</ref> conseille à <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> d'appeler au secours <ref target="personnage_gg.html#2_genseric">Genséric</ref>, roi des <ref target="repertoire_uz.html#2_vandales">Vandales</ref>, et de charger <ref target="personnage_no.html#2_olimbre">Olimbre</ref> de présenter sa requête en <ref target="repertoire_aa.html#2_afrique">Afrique</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#860">II, 12, 860</ref>). <ref target="personnage_no.html#2_olimbre">Olimbre</ref> se montre « si sage et si diligent », qu'il convainc <ref target="personnage_gg.html#2_genseric">Genséric</ref> en quinze jours (<ref target="../_roman/reference/21_2/21_2_livre_12.html#861">II, 12, 861</ref>). </p>
+            <p>Entre-temps <ref target="#2_ursace">Ursace</ref> défie <ref target="personnage_mm.html#2_maxime">Maxime</ref>. Il veut se battre contre lui pour « la meschanceté qu'il a faite, en la mort de l'Empereur, en l'usurpation de l'<ref target="repertoire_ik.html#2_italie">Italie</ref>, et en la force commise contre la belle <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#862">II, 12, 862</ref>). <ref target="personnage_mm.html#2_maxime">Maxime</ref> s'enfuit. <ref target="#2_ursace">Ursace</ref> l'abat. </p>
+            <p>Deux mois après, <ref target="personnage_gg.html#2_genseric">Genséric</ref> entre dans <ref target="repertoire_qr.html#2_rome">Rome</ref>. <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> le reçoit avec tous les honneurs (<ref target="../_roman/reference/21_2/21_2_livre_12.html#863">II, 12, 863</ref>). Le roi des <ref target="repertoire_uz.html#2_vandales">Vandales</ref> pille la ville et le pays. Il décide d'enlever <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> et ses filles. <ref target="personnage_no.html#2_olimbre">Olimbre</ref> ne quitte pas le roi « qui l'avoit pris en amitié » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#864">II, 12, 864</ref>). En prétendant avoir des renseignements grâce à <ref target="personnage_no.html#2_olimbre">Olimbre</ref>, <ref target="#2_ursace">Ursace</ref> réunit quelques hommes pour attaquer le convoi des prisonnières de <ref target="personnage_gg.html#2_genseric">Genséric</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#865">II, 12, 865</ref>). <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> n'y est pas. Blessé encore une fois, <ref target="#2_ursace">Ursace</ref> passe pour mort. <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> voit ses habits portés par un soldat. <ref target="personnage_no.html#2_olimbre">Olimbre</ref> interroge ce soldat et retrouve <ref target="#2_ursace">Ursace</ref> vivant (<ref target="../_roman/reference/21_2/21_2_livre_12.html#866">II, 12, 866</ref>). </p>
+            <p>
+                    <ref target="#2_ursace">Ursace</ref> regrette d'avoir été sauvé. C'est parce qu'il a survécu qu'<ref target="personnage_no.html#2_olimbre">Olimbre</ref> n'a pas pu suivre <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> et ses filles en <ref target="repertoire_aa.html#2_afrique">Afrique</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#866">II, 12, 866</ref>). <ref target="#2_ursace">Ursace</ref> se rend dans la montagne pour se tuer. <ref target="personnage_no.html#2_olimbre">Olimbre</ref> le retrouve et le sauve avec l'aide de <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#868">II, 12, 868</ref>).</p>
+            <p> Le vieux <ref target="personnage_cc.html#2_chirurgien">Chirurgien</ref> qui soigne <ref target="personnage_no.html#2_olimbre">Olimbre</ref> recommande aux chevaliers de consulter le Conseil des <ref target="personnage_ss.html#2_six_cents">Six-Cents</ref> pour obtenir la permission de mourir (<ref target="../_roman/reference/21_2/21_2_livre_12.html#871">II, 12, 871</ref>). <ref target="#2_ursace">Ursace</ref> et <ref target="personnage_no.html#2_olimbre">Olimbre</ref> s'embarquent pour Marseille avec le <ref target="personnage_cc.html#2_chirurgien">Chirurgien</ref> et ses filles (<ref target="../_roman/reference/21_2/21_2_livre_12.html#872">II, 12, 872</ref>). </p>
+            <p rend="center_t">
+                    <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> poursuit le récit des aventures des chevaliers : </p>
+            <p>Le navire d'<ref target="#2_ursace">Ursace</ref> et d'<ref target="personnage_no.html#2_olimbre">Olimbre</ref> fait naufrage. <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> leur sauve la vie et leur indique comment s'adresser au Conseil des <ref target="personnage_ss.html#2_six_cents">Six-Cents</ref> pour obtenir la permission de mourir. Il remarque qu'<ref target="personnage_no.html#2_olimbre">Olimbre</ref> ne désire se tuer que par amitié pour <ref target="#2_ursace">Ursace</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#875">II, 12, 875</ref>). </p>
+            <p>Devant les juges, <ref target="personnage_no.html#2_olimbre">Olimbre</ref> présente sa demande après son ami : « L'aymant plus que tout ce qui est en l'Univers, je ne puis, ny ne dois consentir qu'il se separe de moy » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#877">II, 12, 877</ref>), déclare-t-il. Les juges décrètent qu'<ref target="personnage_no.html#2_olimbre">Olimbre</ref> ne peut mourir que si <ref target="#2_ursace">Ursace</ref> le lui permet (<ref target="../_roman/reference/21_2/21_2_livre_12.html#878">II, 12, 878</ref>). Quant à <ref target="#2_ursace">Ursace</ref>, il ne peut mourir que si <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> le lui permet. Le chevalier est « si affligé de n'avoir peu obtenir ce qu'il demandoit, qu'il faisoit estonner chacun de sa constance, et ferme resolution à la mort » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#879">II, 12, 879</ref>).</p>
+            <p>Un vieil <ref target="personnage_aa.html#2_astrologue">Astrologue</ref> offre ses services aux <ref target="repertoire_qr.html#2_romains">Romains</ref>. Il prédit qu'<ref target="personnage_no.html#2_olimbre">Olimbre</ref> épousera celle qu'il aime, la ramener en <ref target="repertoire_ik.html#2_italie">Italie</ref>, puis devenir Empereur (<ref target="../_roman/reference/21_2/21_2_livre_12.html#881">II, 12, 881</ref>).</p>
+            <p> L'<ref target="personnage_aa.html#2_astrologue">Astrologue</ref> leur conseille de se rendre en <ref target="repertoire_aa.html#2_afrique">Afrique</ref> : <ref target="#2_ursace">Ursace</ref> déguisé en esclave sera dans la suite d'<ref target="personnage_no.html#2_olimbre">Olimbre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#882">II, 12, 882</ref>). Pour tromper ceux qui pourraient les chercher, <ref target="#2_ursace">Ursace</ref> fait semblant de se tuer en se jetant à la mer (<ref target="../_roman/reference/21_2/21_2_livre_12.html#883">II, 12, 883</ref>). </p>
+            <p>
+                    <ref target="personnage_no.html#2_olimbre">Olimbre</ref> trouve sur la plage le corps du vieillard qui les a secourus en <ref target="repertoire_ik.html#2_italie">Italie</ref>. Il le fait enterrer et renvoie ses filles en leur faisant des dons. Le chevalier se rend ensuite en <ref target="repertoire_aa.html#2_afrique">Afrique</ref>. <ref target="#2_ursace">Ursace</ref> est déguisé dans sa suite (<ref target="../_roman/reference/21_2/21_2_livre_12.html#884">II, 12, 884</ref>). </p>
+          
+          <p>
+                  <lb/>
+            <ref target="personnage_hh.html#2_hylas">Hylas</ref> commente le récit en notant que le déguisement d'<ref target="#2_ursace">Ursace</ref> en esclave est une juste décision des dieux, puisque le chevalier s'est toujours conduit en esclave (<ref target="../_roman/reference/21_2/21_2_livre_12.html#885">II, 12, 885</ref>). </p>
+          
+                  <ref target="#2_ursace">Ursace</ref> est souvent présenté comme un homme affaibli. <lb/>
+            Blessé trois fois, il est malade deux fois, et il essaie quatre fois de se tuer.<lb/>
+            <lb/>
+            Le déguisement en esclave illustre une condamnation du personnage (<ref target="bibliographie.html#heneinp">Henein</ref>, pp. 250-252). 
+          <lb/>
+          L'amitié d'<ref target="#2_ursace">Ursace</ref> et  d'<ref target="personnage_no.html#2_olimbre">Olimbre</ref> est une invention d'Honoré d'Urfé, comme les amours d'<ref target="#2_ursace">Ursace</ref> et d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>. <lb/>
+            Le romancier part de  faits avérés : <ref target="#2_valentinien">Valentinien</ref> viole la femme de <ref target="personnage_mm.html#2_maxime">Maxime</ref>, puis il est assassiné ; <ref target="#2_ursace">Ursace</ref> tue <ref target="personnage_mm.html#2_maxime">Maxime</ref>, le deuxième mari d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> ; <ref target="personnage_gg.html#2_genseric">Genséric</ref> enlève <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> ; <ref target="personnage_no.html#2_olimbre">Olimbre</ref> épouse la fille d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>.
+          <lb/>
+          
+                  <ref target="#2_ursace">Ursace</ref> compose des vers<lb/>
+            (<ref target="../_roman/reference/21_2/21_2_livre_10.html#638">II, 10, 638</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_12.html#792">II, 12, 792</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_12.html#806">II, 12, 806</ref>).
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/ursace.gif)">
+                Ursace</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_ursace">II</ref>, <ref target="#3_ursace">III</ref>, <ref target="#4_ursace">IV</ref>
+          
+          <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_3/21_3_livre_6.html#256_verso">III, 6, 256 verso</ref>.
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : Les historiens ignorent Ursace après la mort de <ref target="personnage_mm.html#2_maxime">Maxime</ref>.</p>
+          <p>
+                  <hi rend="italics">Caractéristique :</hi> « La longue perseverance de l'amour d'Ursace », dit <ref target="personnage_dd.html#3_damon_a">Damon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#256_verso">III, 6, 256 verso</ref>).</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_3/21_3_livre_6.html#h_damon">Suitte de l'histoire de Damon et de Madonthe</ref> racontée par <ref target="personnage_dd.html#3_damon_a">Damon d'Aquitaine</ref>.</p>
+          
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_6.html#h_damon">Suitte de l'histoire de Damon et de Madonthe</ref>
+                  </p>
+            <p>En <ref target="repertoire_aa.html#3_afrique">Afrique</ref>, <ref target="personnage_dd.html#3_damon_a">Damon</ref> apprend « les fortunes d'Usace et d'<ref target="personnage_no.html#3_olimbre">Olimbre</ref> ». « L'heureuse conclusion de leurs Amours »                l'encourage à se montrer patient  (<ref target="../_roman/reference/21_3/21_3_livre_6.html#256_verso">III, 6, 256 verso</ref>).</p>
+            C'est en 462 que <ref target="personnage_gg.html#3_genseric">Genséric</ref> libère ses prisonniers.
+            <lb/>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/ursace.gif)">
+                Ursace</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_ursace">II</ref>, <ref target="#3_ursace">III</ref>, <ref target="#4_ursace">IV</ref>
+          
+          Nommé par le romancier.
+  
+          Quand <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> prend <ref target="personnage_aa.html#4_astree">Astrée</ref> habillée en druide pour un secours envoyé du Ciel,  Honoré d'Urfé rappelle que <ref target="personnage_cc.html#4_celadon">Céladon</ref> avait eu la même fonction auprès d'Ursace (<ref target="../_roman/reference/24_4/24_4_livre_2.html#171">IV, 2, 171</ref>).<lb/>
+  <lb/>
+  <lb/>
+  La scène est dans la deuxième partie (<ref target="../_roman/reference/21_2/21_2_livre_10.html#644">II, 10, 644</ref>). 
+  <lb/>
+  <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/valamer.gif)">
+                
+                Valamer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_valamer">II</ref>
+          
+          <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_12.html#805">II, 12, 805</ref>.
+          Écrit aussi <hi rend="italics">Valamar</hi>.
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : Valamir, ~420 - ~465. <ref target="personnage_aa.html#2_attila">Attila</ref> « avoit en son armee, les Roys <ref target="#2_valamer">Valamer</ref> des <ref target="repertoire_no.html#2_ostrogoths">Ostrogots</ref> : <ref target="personnage_aa.html#2_ardaric">Ardaric</ref> des <ref target="repertoire_gg.html#2_gepides">Gepides</ref> » (<ref target="bibliographie.html#fauchet">Fauchet</ref>,
+            p. 93). « Ce Roy et <ref target="#2_valamer">Valamer</ref> <ref target="repertoire_no.html#2_ostrogoths">Ostrogoth</ref>, estoient aymez d'<ref target="personnage_aa.html#2_attila">Atila</ref> pardessus tous autres Roys. <ref target="#2_valamer">Valamer</ref> pour estre secret, courtois et sans malice, et <ref target="personnage_aa.html#2_ardaric">Ardaric</ref> à cause de sa fidelité et prudence » (<ref target="bibliographie.html#fauchet">Fauchet</ref>,
+            p. 96).</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>, racontée par <ref target="#2_ursace">Ursace</ref>, puis répétée par <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_adamas">Adamas</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>,  et un groupe de bergers.</p>
+          <p>Roi des <ref target="repertoire_no.html#2_ostrogoths">Ostrogoths</ref>. </p>
+          
+          <p>
+                  <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> rapporte puis complète le récit d'<ref target="#2_ursace">Ursace</ref>. </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe</ref>
+                  </p>
+            <p>
+                    <ref target="personnage_aa.html#2_attila">Attila</ref> a soumis les <ref target="repertoire_no.html#2_ostrogoths">Ostrogoths</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#823">II, 12, 823</ref>). <ref target="#2_valamer">Valamir</ref>, leur roi, doit se joindre à lui  (<ref target="../_roman/reference/21_2/21_2_livre_12.html#805">II, 12, 805</ref>).</p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/valentinien.gif)">
+                Valentinan</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Présent dans :</hi> <ref target="#valentinien">I</ref>, <ref target="#2_valentinien">II</ref>, <ref target="#3_valentinien">III</ref>
+          
+          <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_1/21_1_livre_3.html#63_verso">I, 3, 63 verso</ref>.
+          <p>Personnage historique : Flavius Placidus Valentinianus. Valentinien III, 419 - 455. Empereur romain, 425 - 455, fils de <ref target="personnage_cc.html#2_constance">Constance</ref> et de <ref target="personnage_pp.html#2_placidie">Placidie</ref>. </p>
+          <p>
+                  <hi rend="italics">Nommé dans : </hi>
+                  <ref target="../_roman/reference/21_1/21_1_livre_3.html#histoire_de_silvie">Histoire de Silvie</ref>, racontée par <ref target="personnage_ll.html#leonide">Léonide</ref> ;<lb/>
+            <ref target="../_roman/reference/21_1/21_1_livre_8.html#histoire_de_silvandre">Histoire de Silvandre</ref>, racontée par <ref target="personnage_ss.html#silvandre">Silvandre</ref>. </p>
+          
+          <p>À <ref target="repertoire_ik.html#isoure">Isoure</ref>, en parlant à <ref target="personnage_cc.html#celadon">Céladon</ref>, <ref target="personnage_ll.html#leonide">Léonide</ref> rapporte un récit fait par <ref target="personnage_gg.html#guyemant">Guyemant</ref> :</p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_3.html#histoire_de_silvie">Histoire de Silvie</ref>
+                  </p>
+            <p>
+                    <ref target="#valentinien">Valentinien</ref> nomme <ref target="personnage_aa.html#aetius">Ætius</ref> lieutenant général en <ref target="repertoire_gg.html#gaule">Gaule</ref> (<ref target="../_roman/reference/21_1/21_1_livre_3.html#63_verso">I, 3, 63 verso</ref>).</p>
+          
+          <p>Dans le hameau, <ref target="personnage_ss.html#silvandre">Silvandre</ref>, en parlant aux bergères et à <ref target="personnage_ll.html#leonide">Léonide</ref>, dit : </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_8.html#histoire_de_silvandre">Histoire de Silvandre</ref>
+                  </p>
+            <p>
+                    <ref target="#valentinien">Valentinien</ref> oblige <ref target="personnage_aa.html#aetius">Ætius</ref> à faire la paix avec les <ref target="repertoire_bb.html#bourguignons">Bourguignons</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#226_recto">I, 8, 226 recto</ref>).</p>
+          
+          <p>Voir <ref target="galerie.html#valentinien">Galerie des portraits</ref>.
+          </p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/valentinien.gif)">
+                Valentinian</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#valentinien">I</ref>, <ref target="#2_valentinien">II</ref>, <ref target="#3_valentinien">III</ref>
+          
+          <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_11.html#736">II, 11, 736</ref>.
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : Valentinien III, 419 - 455. « Dès les premières années de sa jeunesse, il fit paraître de pernicieuses inclinations. Il faisait sa société familière des alchimistes et des astrologues, et se livrait éperdument à sa passion pour les femmes d'autrui, quoiqu'il en eût une d'une beauté très remarquable » (<ref target="bibliographie.html#procope">Procope</ref>, III, 3). <ref target="personnage_aa.html#2_aetius">Ætius</ref> « fut tué de la main propre de l'Empereur » (<ref target="bibliographie.html#fauchet">Fauchet</ref>, f° 48 verso). <ref target="#2_valentinien">Valentinien</ref> « fut si mal advisé apres la mort d'<ref target="personnage_aa.html#2_aetius">Aetie</ref>, qu'il approcha de soy les amis et conseillers du deffunct » (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 49 recto). </p>
+          <p> <hi rend="italics">Caractéristiques :</hi> D'« humeur soupçonneuse », il « se conduisoit par des ames viles et basses » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#839">II, 12, 839</ref>), dit <ref target="#2_ursace">Ursace</ref>, citant <ref target="personnage_mm.html#2_maxime">Maxime</ref>. « La nonchalance, et le peu de courage de <ref target="#2_valentinien">Valentinian</ref>, qui n'avoit jamais faict la guerre que de son cabinet » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#846">II, 12, 846</ref>), dit <ref target="#2_ursace">Ursace</ref>. </p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</ref>, racontée par <ref target="personnage_aa.html#2_adamas">Adamas</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>,  et un groupe de bergers ;<lb/>
+            <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>, racontée par <ref target="#2_ursace">Ursace</ref>, puis répétée par <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_adamas">Adamas</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>, et un groupe de bergers. </p>
+          <p>Empereur d'<ref target="repertoire_no.html#2_occident">Occident</ref>. Fils de <ref target="personnage_pp.html#2_placidie">Placidie</ref> et <ref target="personnage_cc.html#2_constance">Constance</ref>. </p>
+          
+                  <p><graphic url="../images/relations/eudoxe.gif" rend="img" mimeType="image/gif"/></p>
+                
+          
+          <p>
+                  <ref target="personnage_hh.html#2_hylas">Hylas</ref> aperçoit dans la demeure d'<ref target="personnage_aa.html#2_adamas">Adamas</ref> des tableaux représentant de belles femmes.  Le druide explique qu'il s'agit de <ref target="personnage_pp.html#2_placidie">Placidie</ref> et d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, la mère et l'épouse de <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#736">II, 11, 736</ref>). </p>
+          <p>
+                  <ref target="personnage_aa.html#2_adamas">Adamas</ref> désigne de nouveau les tableaux au cours du récit.</p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</ref>
+                  </p>
+            <p>En face, du portrait de <ref target="#2_valentinien">Valentinien</ref>, Empereur d'<ref target="repertoire_no.html#2_occident">Occident</ref>, se trouve le portrait d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, la fille de l'Empereur d'<ref target="repertoire_no.html#2_orient">Orient</ref>
+                  </p>
+            <p>
+                    <ref target="personnage_hh.html#2_honorius">Honorius</ref>, Empereur d'<ref target="repertoire_no.html#2_occident">Occident</ref>, marie sa sœur, <ref target="personnage_pp.html#2_placidie">Placidie</ref>, avec <ref target="personnage_cc.html#2_constance">Constance</ref>, un général qu'il désirait « associer à l'Empire » (<ref target="../_roman/reference/21_2/21_2_livre_11.html#746">II, 11, 746</ref>). Ils ont deux enfants, <ref target="#2_valentinien">Valentinien</ref> et <ref target="personnage_hh.html#2_honorique">Honorique</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#747">II, 11, 747</ref>). Après la mort de <ref target="personnage_cc.html#2_constance">Constance</ref>, <ref target="personnage_pp.html#2_placidie">Placidie</ref>, mécontente de la conduite d'<ref target="personnage_hh.html#2_honorius">Honorius</ref>, quitte l'<ref target="repertoire_ik.html#2_italie">Italie</ref> pour s'installer à <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref>, près de <ref target="personnage_tt.html#2_theodose2">Théodose II</ref>, son neveu (<ref target="../_roman/reference/21_2/21_2_livre_11.html#753">II, 11, 753</ref>). « Le jeune <ref target="#2_valentinien">Valentinian</ref> commençoit de donner une grande esperance de luy » (<ref target="../_roman/reference/21_2/21_2_livre_11.html#753">II, 11, 753</ref>). L'un de ses compagnons est <ref target="#2_ursace">Ursace</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#753">II, 11, 753</ref>).</p>
+            <p>À la mort d'<ref target="personnage_hh.html#2_honorius">Honorius</ref>, <ref target="personnage_tt.html#2_theodose2">Théodose II</ref> donne l'Empire d'<ref target="repertoire_no.html#2_occident">Occident</ref> à <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#756">II, 11, 756</ref>). <ref target="personnage_pp.html#2_placidie">Placidie</ref> retourne à <ref target="repertoire_qr.html#2_ravenne">Ravenne</ref> avec son fils. Elle fait arrêter <ref target="personnage_aa.html#2_aetius">Ætius</ref> et <ref target="personnage_cc.html#2_castinus">Castinus</ref>, les généraux qui ont soutenu <ref target="personnage_ik.html#2_jean">Jean</ref>, l'usurpateur du trône. Elle  les gracie pour les gagner à la cause de <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#757">II, 11, 757</ref>). <ref target="#2_valentinien">Valentinien</ref> nomme <ref target="personnage_aa.html#2_aetius">Ætius</ref> patrice et  gouverneur de la <ref target="repertoire_gg.html#2_gaule">Gaule</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#758">II, 11, 758</ref>). </p>
+            <p>Quand <ref target="personnage_bb.html#2_boniface">Boniface</ref>,  gouverneur de l'<ref target="repertoire_aa.html#2_afrique">Afrique</ref>, se rebelle, <ref target="#2_valentinien">Valentinien</ref> envoie l'armée de <ref target="personnage_mm.html#2_mahortius">Mavorce</ref> puis celle de <ref target="personnage_ss.html#2_sisulphus">Sigisvulte</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#757">II, 11, 757</ref> suc 759). <ref target="personnage_gg.html#2_genseric">Genséric</ref>, appelé par <ref target="personnage_bb.html#2_boniface">Boniface</ref>, se retourne contre lui, et s'entend avec <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#760">II, 11, 760</ref>). <ref target="personnage_gg.html#2_genseric">Genséric</ref> s'empare de toute l'<ref target="repertoire_aa.html#2_afrique">Afrique</ref>.</p>
+            <p>
+                    <ref target="personnage_pp.html#2_placidie">Placidie</ref> décide de marier <ref target="#2_valentinien">Valentinien</ref> avec <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, la fille de <ref target="personnage_tt.html#2_theodose2">Théodose II</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#762">II, 11, 762</ref>). <ref target="#2_valentinien">Valentinien</ref> se rend à <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref> et revient avec son épouse et une grande armée. </p>
+          
+          <p>
+                  <ref target="personnage_ss.html#2_silvandre">Silvandre</ref>, qui a entendu <ref target="personnage_aa.html#2_adamas">Adamas</ref> nommer <ref target="#2_ursace">Ursace</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#753">II, 11, 753</ref>), dit que ce chevalier <ref target="repertoire_qr.html#2_romains">romain</ref> lui a raconté ses aventures. Le berger rapporte puis complète le récit d'<ref target="#2_ursace">Ursace</ref>, qu'il annonce comme « la fortune de la belle <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#765">II, 12, 765</ref>). </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>
+                  </p>
+            <p>Mécontente de la conduite d'<ref target="personnage_hh.html#2_honorius">Honorius</ref>, <ref target="personnage_pp.html#2_placidie">Placidie</ref> se retire à <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref>, auprès de <ref target="personnage_tt.html#2_theodose2">Théodose II</ref>, avec <ref target="#2_valentinien">Valentinien</ref> et <ref target="personnage_hh.html#2_honorique">Honorique</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#775">II, 12, 775</ref>).</p>
+            <p>Voyant qu'<ref target="personnage_hh.html#2_honorius">Honorius</ref> n'a pas d'enfants, <ref target="personnage_tt.html#2_theodose2">Théodose II</ref> décide de marier sa fille avec <ref target="#2_valentinien">Valentinien</ref>, le neveu d'<ref target="personnage_hh.html#2_honorius">Honorius</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#775">II, 12, 775</ref>). </p>
+            <p> <ref target="personnage_pp.html#2_placidie">Placidie</ref> recommande à <ref target="#2_valentinien">Valentinien</ref> de rechercher <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, mais le jeune homme se contente de faire semblant. Il  tombe amoureux d'<ref target="personnage_ik.html#2_isidore">Isidore</ref>, la compagne d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, dès qu'il la voit (<ref target="../_roman/reference/21_2/21_2_livre_12.html#776">II, 12, 776</ref>). Comme <ref target="personnage_ik.html#2_isidore">Isidore</ref> le repousse, <ref target="#2_valentinien">Valentinien</ref> organise des tournois ; « il luy sembloit que c'estoit un bon moyen pour acquerir les bonnes graces de ceste sage fille » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#780">II, 12, 780</ref>). </p>
+            <p>Quand <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, endormie dans le jardin, est piquée par une abeille, elle blâme <ref target="personnage_ik.html#2_isidore">Isidore</ref> de son peu de soin. <ref target="#2_valentinien">Valentinien</ref>, pour réparer la faute d'<ref target="personnage_ik.html#2_isidore">Isidore</ref>, demande à <ref target="#2_ursace">Ursace</ref> de sucer la lèvre d'<ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#781">II, 12, 781</ref>). Toujours au jardin, lorsqu'<ref target="personnage_ik.html#2_isidore">Isidore</ref> entre dans un cabinet, <ref target="#2_valentinien">Valentinien</ref> la suit et la retient par sa robe (<ref target="../_roman/reference/21_2/21_2_livre_12.html#786">II, 12, 786</ref>). <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> note alors que c'est <ref target="#2_ursace">Ursace</ref> qui devrait rechercher <ref target="personnage_ik.html#2_isidore">Isidore</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#787">II, 12, 787</ref>). Voyant la conduite de <ref target="#2_valentinien">Valentinien</ref>, <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> « se resolut de ne l'aymer aussi que pour estre femme d'un Empereur » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#790">II, 12, 790</ref>). </p>
+            <p>
+                    <ref target="personnage_hh.html#2_honorius">Honorius</ref> meurt sans enfants (<ref target="../_roman/reference/21_2/21_2_livre_12.html#790">II, 12, 790</ref>). <ref target="personnage_tt.html#2_theodose2">Théodose II</ref> décide que son cousin héritera de l'Empire d'<ref target="repertoire_no.html#2_occident">Occident</ref>. <ref target="#2_valentinien">Valentinien</ref> se rend en <ref target="repertoire_ik.html#2_italie">Italie</ref> avec <ref target="personnage_pp.html#2_placidie">Placidie</ref>. <ref target="#2_ursace">Ursace</ref> compose un sonnet où il se réjouit du départ de son rival (<ref target="../_roman/reference/21_2/21_2_livre_12.html#792">II, 12, 792</ref>). <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> se lamente : « Si je n'espouse <ref target="#2_valentinien">Valentinian</ref>, que sera-ce que de moy,  et si je l'espouse, ô Dieu, à quel supplice me vois-je destinee ! » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#799">II, 12, 799</ref>). La Princesse plaisante pourtant avec <ref target="personnage_ik.html#2_isidore">Isidore</ref> au sujet des sentiments de <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#802">II, 12, 802</ref>). </p>
+            <p>
+                    <ref target="#2_valentinien">Valentinien</ref> revient à <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref> épouser <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> et l'emmener  en <ref target="repertoire_ik.html#2_italie">Italie</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#803">II, 12, 803</ref>). </p>
+            <p>
+                    <ref target="personnage_tt.html#2_theodose2">Théodose II</ref> meurt. <ref target="#2_valentinien">Valentinien</ref> apprend que sa cousine, <ref target="personnage_pp.html#2_pulcheria">Pulchéria</ref>, a épousé <ref target="personnage_mm.html#2_martian">Marcien</ref>, et l'a fait élire Empereur d'<ref target="repertoire_no.html#2_orient">Orient</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#804">II, 12, 804</ref>).</p>
+            <p>
+                    <ref target="#2_valentinien">Valentinien</ref> recherche toujours <ref target="personnage_ik.html#2_isidore">Isidore</ref>. Il la marie à <ref target="personnage_mm.html#2_maxime">Maxime</ref> pour qu'elle accepte ensuite de lui accorder ses faveurs (<ref target="../_roman/reference/21_2/21_2_livre_12.html#807">II, 12, 807</ref>). Quelques jours après, l'Empereur s'approche d'<ref target="personnage_ik.html#2_isidore">Isidore</ref> qui le repousse.  Dépité, <ref target="#2_valentinien">Valentinien</ref> ne va plus se contenter de supplier « la sage <ref target="personnage_ik.html#2_isidore">Isidore</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#808">II, 12, 808</ref>).</p>
+            <p>
+                    <ref target="personnage_mm.html#2_maxime">Maxime</ref>, en jouant avec l'Empereur, perd  la bague qui lui sert de cachet. <ref target="#2_valentinien">Valentinien</ref> cède sa place au jeu. Il  commande que l'on joue contre <ref target="personnage_mm.html#2_maxime">Maxime</ref> jusqu'à ce qu'il se renfloue (<ref target="../_roman/reference/21_2/21_2_livre_12.html#808">II, 12, 808</ref>). Il envoie <ref target="personnage_hh.html#2_heracle">Héracle</ref> chez <ref target="personnage_ik.html#2_isidore">Isidore</ref> avec la bague. </p>
+            <p>
+                    <ref target="personnage_ik.html#2_isidore">Isidore</ref>, se croyant appelée par son mari, retrouve <ref target="#2_valentinien">Valentinien</ref> dans un cabinet du jardin. <ref target="personnage_ik.html#2_isidore">Isidore</ref> refuse d'entrer. <ref target="#2_valentinien">Valentinien</ref> la tire de force  (<ref target="../_roman/reference/21_2/21_2_livre_12.html#809">II, 12, 809</ref>). L'Empereur prétend que la bague lui prouve que son mari autorise cette rencontre (<ref target="../_roman/reference/21_2/21_2_livre_12.html#810">II, 12, 810</ref>). </p>
+            <p>
+                    <ref target="#2_valentinien">Valentinien</ref> essaie d'embrasser <ref target="personnage_ik.html#2_isidore">Isidore</ref>. Elle recourt à la douceur et aux flatteries pour l'arrêter : Le fils de <ref target="personnage_cc.html#2_constance">Constance</ref> et de <ref target="personnage_pp.html#2_placidie">Placidie</ref> ne lui fera pas de mal (<ref target="../_roman/reference/21_2/21_2_livre_12.html#811">II, 12, 811</ref>). Puisque <ref target="personnage_mm.html#2_maxime">Maxime</ref>, son époux, l'a mise entre les mains de <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#812">II, 12, 812</ref>), elle compte sur la générosité de l'Empereur, déclare-t-elle. Le discours pathétique d'<ref target="personnage_ik.html#2_isidore">Isidore</ref> fléchit <ref target="#2_valentinien">Valentinien</ref>, « honteux de ce qu'il avoit  faict » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#815">II, 12, 815</ref>).  Il lui promet de l'épouser si <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> et <ref target="personnage_mm.html#2_maxime">Maxime</ref> meurent (<ref target="../_roman/reference/21_2/21_2_livre_12.html#815">II, 12, 815</ref>).</p>
+            <p>L'Empereur appelle <ref target="personnage_hh.html#2_heracle">Héracle</ref> pour qu'il raccompagne <ref target="personnage_ik.html#2_isidore">Isidore</ref> chez elle (<ref target="../_roman/reference/21_2/21_2_livre_12.html#816">II, 12, 816</ref>). L'eunuque alors, dans un discours d'une trentaine de lignes,  excite <ref target="#2_valentinien">Valentinien</ref> à faire ce que bon lui semble. Quoi qu'il arrive, si <ref target="personnage_mm.html#2_maxime">Maxime</ref> apprend que sa femme était avec <ref target="#2_valentinien">Valentinien</ref>, il croira qu'elle s'est donnée à lui. « Si vous laissez perdre ceste commodité, elle vous mes-estimera, et se mocquera de vous » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#817">II, 12, 817</ref>), affirme-t-il. </p>
+            <p>
+                    <ref target="personnage_hh.html#2_heracle">Héracle</ref>, voyant l'hésitation de <ref target="#2_valentinien">Valentinien</ref>, met la main sur <ref target="personnage_ik.html#2_isidore">Isidore</ref>. Elle lui donne un coup qui le fait saigner du nez. Il la renverse sur le lit et lui attache les bras. </p>
+            <quote>
+              <p> L'Empereur en eut par l'ayde d'<ref target="personnage_hh.html#2_heracle">Heracle</ref> tout ce qu'il en voulut : Et lors qu'elle estoit en cest estat : - Ah <ref target="#2_valentinien">Valentinian</ref>, luy dit-elle, ressouviens-toy que tu fais un acte indigne de toy, et que je mourray vengee de ceste offence (<ref target="../_roman/reference/21_2/21_2_livre_12.html#818">II, 12, 818</ref>). </p>
+            </quote>
+            <p>Aussitôt qu'<ref target="personnage_hh.html#2_heracle">Héracle</ref> la détache, <ref target="personnage_ik.html#2_isidore">Isidore</ref> se jette sur lui, le frappe et l'égratigne. Elle cherche une arme pour tuer l'Empereur. <ref target="#2_valentinien">Valentinien</ref> demande pardon  à <ref target="personnage_ik.html#2_isidore">Isidore</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#819">II, 12, 819</ref>). Pour la rassurer, il lui explique  que <ref target="personnage_mm.html#2_maxime">Maxime</ref> n'a pas vraiment donné sa bague,   et qu'il ne sait rien de ce viol. La jeune femme se calme : elle va pouvoir se venger. Elle demande donc à l'Empereur le plus grand secret (<ref target="../_roman/reference/21_2/21_2_livre_12.html#820">II, 12, 820</ref>). </p>
+            <p>
+                    <ref target="personnage_mm.html#2_maxime">Maxime</ref> « aimoit ceste femme pour sa sagesse, et
+              pour sa beauté » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#821">II, 12, 821</ref>). Elle lui raconte le viol, lui montre la bague et le sang d'<ref target="personnage_hh.html#2_heracle">Héracle</ref> qui était tombé sur elle. <ref target="personnage_mm.html#2_maxime">Maxime</ref> prie <ref target="personnage_ik.html#2_isidore">Isidore</ref> de ne pas se tuer pour ne pas déplaire à Dieu. Il  lui promet de la venger. Mari et femme vont feindre en attendant un moment propice. <ref target="personnage_ik.html#2_isidore">Isidore</ref> rend la bague à <ref target="#2_valentinien">Valentinien</ref> pour qu'il la remette lui-même à <ref target="personnage_mm.html#2_maxime">Maxime</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#822">II, 12, 822</ref>).</p>
+            <p>
+                    <ref target="personnage_aa.html#2_attila">Attila</ref>, pour affaiblir l'Empire, s'entend avec diverses tribus établies en <ref target="repertoire_gg.html#2_gaule">Gaule</ref> en les montant contre <ref target="#2_valentinien">Valentinien</ref>. <ref target="personnage_aa.html#2_aetius">Ætius</ref> déjoue cette ruse (<ref target="../_roman/reference/21_2/21_2_livre_12.html#823">II, 12, 823</ref>). Il rappelle aux <ref target="repertoire_bb.html#2_bourguignons">Bourguignons</ref> que <ref target="#2_valentinien">Valentinien</ref> leur a donné leur territoire, et aux <ref target="repertoire_uz.html#2_visigoths">Wisigoths</ref> qu'ils doivent leurs terres à <ref target="personnage_cc.html#2_constance">Constance</ref>, le père de <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#824">II, 12, 824</ref>).</p>
+            <p>L'Empereur  envoie <ref target="personnage_pp.html#2_priscus">Priscus</ref>, son secrétaire, auprès d'<ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#826">II, 12, 826</ref>). À cause du rapport qu'elle entend, <ref target="personnage_hh.html#2_honorique">Honorique</ref>, la sœur de <ref target="#2_valentinien">Valentinien</ref>, désire épouser <ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#827">II, 12, 827</ref>). </p>
+            <p>
+                    <ref target="#2_valentinien">Valentinien</ref> est jaloux des succès remportés par <ref target="personnage_aa.html#2_aetius">Ætius</ref>, vainqueur d'<ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#834">II, 12, 834</ref>). </p>
+            <p>
+                    <ref target="#2_ursace">Ursace</ref> rend visite à <ref target="personnage_ik.html#2_isidore">Isidore</ref>. S'étonnant de sa tristesse, il lui demande si l'amour de <ref target="#2_valentinien">Valentinien</ref> continue (<ref target="../_roman/reference/21_2/21_2_livre_12.html#834">II, 12, 834</ref>). Il s'entend avec <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> pour interroger la jeune femme  en faisant semblant que <ref target="#2_valentinien">Valentinien</ref> les a mis au courant. <ref target="personnage_ik.html#2_isidore">Isidore</ref> s'effondre et raconte le crime de l'Empereur (<ref target="../_roman/reference/21_2/21_2_livre_12.html#835">II, 12, 835</ref>).</p>
+            <p>
+                    <ref target="personnage_ik.html#2_isidore">Isidore</ref> suggère à <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> de  se donner à <ref target="#2_ursace">Ursace</ref> pour rendre la pareille à <ref target="#2_valentinien">Valentinien</ref>, ce mari qui n'est pas digne d'elle (<ref target="../_roman/reference/21_2/21_2_livre_12.html#836">II, 12, 836</ref>). Elle punirait ainsi l'outrage reçu par une de ses dames. <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> refuse. </p>
+            <p>Mécontente, <ref target="personnage_ik.html#2_isidore">Isidore</ref> poursuit son mari de ses plaintes (<ref target="../_roman/reference/21_2/21_2_livre_12.html#838">II, 12, 838</ref>). <ref target="personnage_mm.html#2_maxime">Maxime</ref> veut perdre <ref target="personnage_aa.html#2_aetius">Ætius</ref> pour affaiblir <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#838">II, 12, 838</ref>). Il s'adresse à <ref target="personnage_hh.html#2_heracle">Héracle</ref> et lui décrit la prétendue trahison d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> qui s'entend avec les barbares (<ref target="../_roman/reference/21_2/21_2_livre_12.html#840">II, 12, 840</ref>). <ref target="personnage_hh.html#2_heracle">Héracle</ref> à son tour persuade <ref target="#2_valentinien">Valentinien</ref>. Le jour même, l'Empereur ordonne à des eunuques de tuer <ref target="personnage_aa.html#2_aetius">Ætius</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#840">II, 12, 840</ref>).</p>
+            <p> <ref target="personnage_aa.html#2_attila">Attila</ref> envahit l'<ref target="repertoire_ik.html#2_italie">Italie</ref>. <ref target="#2_valentinien">Valentinien</ref>, « perdu de courage », accepte de lui donner la main d'<ref target="personnage_hh.html#2_honorique">Honorique</ref>, sa sœur (<ref target="../_roman/reference/21_2/21_2_livre_12.html#843">II, 12, 843</ref>). L'Empereur envoie <ref target="#2_ursace">Ursace</ref> à <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref> chercher du secours. <ref target="personnage_tt.html#2_theodose2">Théodose II</ref> refuse, considérant que <ref target="#2_valentinien">Valentinien</ref> s'est affaibli lui-même  « par sa mauvaise conduite et sans raison »  (<ref target="../_roman/reference/21_2/21_2_livre_12.html#844">II, 12, 844</ref>). Quand l'Empereur demande à <ref target="personnage_pp.html#2_proxime">Proxime</ref> s'il a eu raison d'ordonner l'assassinat d'<ref target="personnage_aa.html#2_aetius">Ætius</ref>, <ref target="personnage_pp.html#2_proxime">Proxime</ref> répond que l'Empereur s'est coupé la main droite avec la main gauche  (<ref target="../_roman/reference/21_2/21_2_livre_12.html#840">II, 12, 840</ref>). </p>
+            <p>
+                    <ref target="#2_valentinien">Valentinien</ref> réside à <ref target="repertoire_qr.html#2_ravenne">Ravenne</ref>, « ayant abandonné <ref target="repertoire_qr.html#2_rome">Rome</ref>, à toute sorte de violence » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#845">II, 12, 845</ref>). Comme des années ont passé depuis le viol d'<ref target="personnage_ik.html#2_isidore">Isidore</ref>, l'Empereur ne se méfie plus  (<ref target="../_roman/reference/21_2/21_2_livre_12.html#846">II, 12, 846</ref>). Il suit les conseils de <ref target="personnage_mm.html#2_maxime">Maxime</ref> qui le convainc de ne pas récompenser les soldats et de maltraiter le peuple.</p>
+            <p> <ref target="personnage_mm.html#2_maxime">Maxime</ref> s'entend  avec <ref target="personnage_tt.html#2_thrasile">Thraustila</ref>, capitaine de la garde de <ref target="#2_valentinien">Valentinien</ref> et ami d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#847">II, 12, 847</ref>). <ref target="personnage_mm.html#2_maxime">Maxime</ref> promet de favoriser <ref target="personnage_tt.html#2_thrasile">Thraustila</ref> quand il sera empereur. Les deux hommes  assassinent <ref target="#2_valentinien">Valentinien</ref> à table. Ils tuent aussi <ref target="personnage_hh.html#2_heracle">Héracle</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#847">II, 12, 847</ref>). <lb/>
+              L'Empereur est mort après trente ans de règne. </p>
+            <p>
+                    <ref target="#2_ursace">Ursace</ref>, le narrateur, blâme l'action de <ref target="personnage_mm.html#2_maxime">Maxime</ref> :</p>
+            <quote>
+              <p> Ce n'est point au subject de mettre la main sur son seigneur, et [...] il doit bien essayer par toutes voyes, et par bon conseil de le retirer de son vice : Mais non pas de l'en chastier et moins encores d'oster la vie à celuy pour lequel il est obligé de mettre la sienne  (<ref target="../_roman/reference/21_2/21_2_livre_12.html#847">II, 12, 847</ref>). </p>
+            </quote>
+            <p> <ref target="personnage_ik.html#2_isidore">Isidore</ref> apprend la mort de <ref target="#2_valentinien">Valentinien</ref>, mais tient à voir de ses yeux le cadavre. Elle s'approche du corps décapité,  se lave les mains dans le sang, et tombe morte de joie (<ref target="../_roman/reference/21_2/21_2_livre_12.html#848">II, 12, 848</ref>).</p>
+            <p>
+                    <ref target="personnage_mm.html#2_maxime">Maxime</ref> se fait élire empereur (<ref target="../_roman/reference/21_2/21_2_livre_12.html#848">II, 12, 848</ref>). <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref>, qui craint que <ref target="personnage_mm.html#2_maxime">Maxime</ref> ne continue à venger <ref target="personnage_ik.html#2_isidore">Isidore</ref> en s'en prenant à elle, s'enfuit avec ses filles (<ref target="../_roman/reference/21_2/21_2_livre_12.html#849">II, 12, 849</ref>). <ref target="personnage_mm.html#2_maxime">Maxime</ref> les rattrape le lendemain  (<ref target="../_roman/reference/21_2/21_2_livre_12.html#851">II, 12, 851</ref>). Dix ou douze jours après la mort de <ref target="#2_valentinien">Valentinien</ref>, <ref target="personnage_mm.html#2_maxime">Maxime</ref> oblige la veuve à l'épouser pour que son règne semble plus légitime (<ref target="../_roman/reference/21_2/21_2_livre_12.html#852">II, 12, 852</ref>). </p>
+            <p> <ref target="personnage_mm.html#2_maxime">Maxime</ref> confesse à <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> que c'est pour l'épouser qu'il a lui-même tué <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#858">II, 12, 858</ref>).</p>
+            <p> <ref target="#2_ursace">Ursace</ref> conseille alors à <ref target="personnage_ee.html#2_eudoxe">Eudoxe</ref> de demander l'aide de <ref target="personnage_gg.html#2_genseric">Genséric</ref>, le roi des <ref target="repertoire_uz.html#2_vandales">Vandales</ref> et l'ami de <ref target="#2_valentinien">Valentinien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#859">II, 12, 859</ref>).</p>
+          
+          <p>Voir <ref target="galerie.html#valentinien">Galerie des portraits</ref>.</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/valentinien.gif)">
+                Valentinian</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#valentinien">I</ref>, <ref target="#2_valentinien">II</ref>, <ref target="#3_valentinien">III</ref>
+          
+          <p>
+                  <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_3/21_3_livre_3.html#59_recto">III, 3, 59 recto</ref>. </p>
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : Valentinien III.</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> la description de la galerie d'<ref target="personnage_aa.html#3_adamas">Adamas</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_6.html#h_damon">Suitte de l'histoire de Damon et de Madonthe</ref> racontée par <ref target="personnage_dd.html#3_damon_a">Damon</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_7.html#h_cryseide">Histoire de Cryseide et de Hylas</ref> racontée par <ref target="personnage_hh.html#3_hylas">Hylas</ref>.</p>
+          
+          <p>Le romancier précise qu'il s'agit du
+            « troisiesme Valentinian » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#59_recto">III, 3, 59 recto</ref>).</p>
+          <p>En 1619, le lecteur pouvait croire que Valentinien était le dernier des Empereurs. D'Urfé se corrige ensuite. </p>
+          <p>
+                  <ref target="personnage_dd.html#3_damon_a">Damon</ref> raconte à <ref target="personnage_gg.html#3_galathee">Galathée</ref> : </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_6.html#h_damon">Suitte de l'histoire de Damon et de Madonthe</ref>
+                  </p>
+            <p>En <ref target="repertoire_aa.html#3_afrique">Afrique</ref>, le chevalier a appris l'histoire de la femme de Valentinien, <ref target="personnage_ee.html#3_eudoxe">Eudoxe</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#256_verso">III, 6, 256 verso</ref>).</p>
+          
+          <p>
+                  <ref target="personnage_cc.html#3_criseide">Criséide</ref> raconte à <ref target="personnage_hh.html#3_hylas">Hylas</ref> : </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_7.html#h_cryseide">Histoire de Cryseide et de Hylas</ref>
+                  </p>
+            <p>Le père de la jeune fille a été favorisé par tous les Empereurs romains (<ref target="../_roman/reference/21_3/21_3_livre_7.html#284_verso">III, 7, 284 verso</ref>).</p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/vieux_homme.gif)">
+                Vieux homme</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#4_vieux_homme">IV</ref>
+          
+          <hi rend="italic">Première mention</hi> : <ref target="../_roman/reference/24_4/24_4_livre_4.html#898">IV, 4, 898</ref>.<lb/>
+          <ref target="bibliographie.html#vaugelas">Vaugelas</ref> accepte « un vieux homme », mais juge que « vieil y est beaucoup meilleur » (p. 378).<lb/>
+          <lb/>
+          <hi rend="italic">Modèle</hi> : Un pauvre vieillard, au chant VII de l<hi rend="italic">a Jérusalem délivrée</hi> du Tasse, reçoit Herminie  et fait l'éloge de la vie rustique (p. 213 sq.). <lb/>
+          <lb/>
+          <hi rend="italic">Caractéristique</hi> : <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> considère qu'elle n'a « jamais trouvé homme de bien que celuy là seul » (<ref target="../_roman/reference/24_4/24_4_livre_4.html#913">IV, 4, 913</ref>).<lb/>
+          <lb/>
+          Nommé par <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>.<lb/>
+  
+  À <ref target="repertoire_mm.html#4_marcilly">Marcilly</ref>, <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> raconte son histoire aux  dames lyonnaises  (<ref target="../_roman/reference/24_4/24_4_livre_4.html#638">IV, 4, 638</ref>).<lb/>
+  <lb/>
+  <lb/>
+  
+    
+                    <ref target="../_roman/reference/24_4/24_4_livre_4.html#h_dorinde2">Histoire de Dorinde, du Roy Gondebaut et du Prince Sigismond</ref>
+                  
+    <lb/>
+    <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> doit se rendre en <ref target="repertoire_ff.html#4_forez">Forez</ref>. Elle se retrouve seule sur les routes habillée en bergère   (<ref target="../_roman/reference/24_4/24_4_livre_4.html#895">IV, 4, 895</ref>). <lb/>
+    Elle voit dans une cabane un vieil homme qui nourrit six petites filles (<ref target="../_roman/reference/24_4/24_4_livre_4.html#898">IV, 4, 898</ref>) et lui demande de lui indiquer son chemin. Les enfants accueillent chaleureusement la fugitive. Le Vieillard l'invite à entrer chez lui. Il lui conseille de ne jamais perdre espoir et  décrit la <ref target="repertoire_ff.html#4_fortune_dieu">fortune</ref> (« une roüe qui tourne ») sans la nommer (<ref target="../_roman/reference/24_4/24_4_livre_4.html#900">IV, 4, 900</ref>). Il recommande à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> de lui raconter ses malheurs pour  soulager sa peine (<ref target="../_roman/reference/24_4/24_4_livre_4.html#905">IV, 4, 905</ref>). <lb/>
+    <lb/>
+    <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> refuse.<lb/>
+    <lb/>
+<p>Craint-elle des reproches ?</p>
+<lb/>
+Elle  lui demande de la conduire en <ref target="repertoire_ff.html#4_forez">Forez</ref>, prétendant qu'il s'agit du lieu de sa naissance. Le Vieillard hésite à abandonner ses enfants parce  qu'il est veuf et pauvre. Il accepte d'escorter la jeune femme. Il lui cède son lit qu'elle va partager avec ses deux fille aînées (<ref target="../_roman/reference/24_4/24_4_livre_4.html#908">IV, 4, 908</ref>). <lb/>
+    <lb/>
+    Le lendemain, le Vieillard parcourt avec <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> les quatre lieues qui séparent sa cabane du <ref target="repertoire_ff.html#4_forez">Forez</ref>. Pour retrouver vite ses enfants il aura des ailes aux pieds (<ref target="../_roman/reference/24_4/24_4_livre_4.html#910">IV, 4, 910</ref>). <lb/>
+    <lb/>
+    <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> et le Vieillard  évitent  les grands chemins. Ils  parviennent sur une montagne qui surmonte <ref target="repertoire_ff.html#4_feurs">Feurs</ref>. Le Vieillard   explique la topographie des lieux et désigne le <ref target="repertoire_ll.html#4_lignon">Lignon</ref>. <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> offre une bague à son guide (<ref target="../_roman/reference/24_4/24_4_livre_4.html#913">IV, 4, 913</ref>).
+  <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/walia.gif)">
+                Vualia</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_walia">II</ref>, <ref target="#3_walia">III</ref>
+          
+          <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_11.html#745">II, 11, 745</ref>.
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> :  Walia, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref> de 415 à 418. « Vallia sage et bien advisé Seigneur » (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 83 recto). « Wallia, successeur d'<ref target="personnage_aa.html#2_ataulfe">Ataulphe</ref>, agissant toujours au nom de l'empereur d'Occident, arracha d'autres provinces aux tribus barbares qui s'étaient établies dans la péninsule Ibérique » (<hi rend="italic">
+                    <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi> siècle</hi>, Article <hi rend="italic">Wisigoths</hi>).</p>
+          <p> <hi rend="italics">Caractéristique :</hi> « Un grand et sage <ref target="glossaire_cc.html#capitaine">Capitaine</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_11.html#745">II, 11, 745</ref>), dit <ref target="personnage_aa.html#2_adamas">Adamas</ref>.</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</ref>, racontée par <ref target="personnage_aa.html#2_adamas">Adamas</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>,  et un groupe de bergers ; <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>, racontée par <ref target="#2_ursace">Ursace</ref>, puis répétée par <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_adamas">Adamas</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>, et un groupe de bergers.</p>
+          <p>Roi des <ref target="repertoire_uz.html#2_visigoths">Wisigoths</ref>. </p>
+          
+          <p>
+                  <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> rapporte puis complète le récit d'<ref target="#2_ursace">Ursace</ref>. </p>
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe</ref>
+                  </p>
+            <p>L'amitié de <ref target="#2_walia">Walia</ref> avec <ref target="personnage_cc.html#2_constance">Constance</ref> a permis aux <ref target="repertoire_uz.html#2_visigoths">Wisigoths</ref> d'avoir des territoires en <ref target="repertoire_gg.html#2_gaule">Gaule</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#824">II, 12, 824</ref>).</p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/walia.gif)">
+                Vualia</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_walia">II</ref>, <ref target="#3_walia">III</ref>
+          
+          <p>
+                  <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_3/21_3_livre_3.html#61_recto">III, 3, 61 recto</ref>. </p>
+          <p>
+                  <hi rend="italics"> Personnage historique</hi> : Walia, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref> de 415 à 418.</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_3/21_3_livre_3.html#h_euric">Histoire d'Euric, Daphnide, et Alcidon</ref> racontée par <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>.</p>
+          
+          <p>
+                  <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> raconte à <ref target="personnage_aa.html#3_adamas">Adamas</ref> :</p>
+          
+            <p rend="center_t"> <ref target="../_roman/reference/21_3/21_3_livre_3.html#h_euric">Histoire d'Euric, Daphnide, et Alcidon</ref>
+                  </p>
+            <p>La Cour d'<ref target="personnage_ee.html#3_euric">Euric</ref> comprend plus de dames et de chevaliers que celle de tous ses prédécesseurs, y compris Walia (<ref target="../_roman/reference/21_3/21_3_livre_3.html#61_recto">III, 3, 61 recto</ref>). </p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Walia</cell>
+              <cell colspan="1" rowspan="1"> Voir <ref target="#2_walia">Vualia</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                
+                 XY</cell>
+              <cell colspan="1" rowspan="1">Aucune entrée ne  commence par <hi rend="bold"> X ou Y</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/zeuxide.gif)">
+                
+                Zeuxide</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_zeuxide">II</ref>
+          
+          <p>
+                  <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_4.html#224">II, 4, 224</ref>. </p>
+          <p>
+                  <hi rend="italic">Remarque sur le nom</hi> : Zeuxide est un dérivé de Zeuxis. <ref target="bibliographie.html#littre">Littré</ref> note que le suffixe -<hi rend="italic">ide</hi> peut indiquer  la descendance, comme pour
+            « Héraclide ». -<hi rend="italic">ide</hi> indique aussi l'appartenance et la ressemblance.</p>
+          <p>
+                  <hi rend="italics"> Personnage historique :</hi> Zeuxis, ~455 ? à ~397 ?
+            Dans l'<hi rend="italics">Histoire naturelle</hi> de <ref target="bibliographie.html#pline">Pline</ref> se trouvent plusieurs anecdotes sur ce célèbre artiste (XXXV, 61-66). C'est un  descendant imaginaire qui fait le portrait d'Hylas<hi rend="cache"> </hi>
+                  <ref target="note_2.html#2_portrait_hylas">η</ref> (<ref target="bibliographie.html#heneinpeintres">Henein</ref>).  Retenons que des raisins que le vrai Zeuxis a peints ont trompé des oiseaux, mais que l'enfant qui tenait les fruits n'a pas fait peur aux animaux. <ref target="bibliographie.html#equicola">Equicola</ref> résume l'une des spécialités de ce peintre qui a réuni plusieurs modèles pour faire une Hélène :
+            « Il acheva son œuvre brave et gentil, et assemblant tant de vives beautez en une figuré » (Livre 2, f° 133 recto). </p>
+          <p> <hi rend="italics">Caractéristique :</hi> Le « renommé <ref target="#2_zeuxide">Zeuxide</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#224">II, 4, 224</ref>), dit <ref target="personnage_hh.html#2_hylas">Hylas</ref>.</p>
+          <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_4.html#histoire_de_parthenope">Histoire de Parthenopé, Florice et Dorinde</ref>, racontée par <ref target="personnage_hh.html#2_hylas">Hylas</ref> à un groupe de bergers devant les dames lyonnaises. </p>
+          
+          
+            <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_4.html#histoire_de_parthenope">Histoire de Parthenopé, Florice et Dorinde</ref>
+                  </p>
+            <p>Pour démontrer qu'il est le préféré de <ref target="personnage_dd.html#2_dorinde">Dorinde</ref>, <ref target="personnage_hh.html#2_hylas">Hylas</ref> veut que la jeune fille possède son portrait. Il s'adresse à <ref target="#2_zeuxide">Zeuxide</ref> pour se faire peindre « le plus au naturel qu'il fut possible » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#224">II, 4, 224</ref>).</p>
+          
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

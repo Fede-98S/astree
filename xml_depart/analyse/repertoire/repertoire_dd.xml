@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Répertoire D - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_rep"
+  onclick="SetDisplay('legende_rep')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_rep')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p>Catégories</p><table rend="center_o center_t" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" style="width:auto; height:20px; background-color:#FFCCFF">Actualité</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Géographie </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px">Histoire</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue" style="width:auto; height:20px">Littérature</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue_hashed" style="width:auto; height:20px">Mythologie</cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px"> Remarque </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+            </table><p> </p><ref target="repertoire.html">
+              <hi rend="bold">RÉPERTOIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="repertoire_aa.html">A</ref><ref target="repertoire_bb.html">B</ref><ref target="repertoire_cc.html">C</ref><ref target="repertoire_dd.html">D</ref><ref target="repertoire_ee.html">E</ref><lb/><ref target="repertoire_ff.html">F</ref><ref target="repertoire_gg.html">G</ref><ref target="repertoire_hh.html">H</ref><ref target="repertoire_ik.html">I</ref><ref target="repertoire_ik.html#j">J</ref><lb/><ref target="repertoire_ik.html#k">K</ref><ref target="repertoire_ll.html">L</ref><ref target="repertoire_mm.html">M</ref><ref target="repertoire_no.html">N</ref><ref target="repertoire_no.html#o">O</ref><lb/><ref target="repertoire_pp.html">P</ref><ref target="repertoire_qr.html">Q</ref><ref target="repertoire_qr.html#r">R</ref><ref target="repertoire_ss.html">S</ref><ref target="repertoire_tt.html">T</ref><lb/><ref target="repertoire_uz.html">U</ref><ref target="repertoire_uz.html#v">V</ref><ref target="repertoire_uz.html#w">W</ref><ref target="repertoire_uz.html#x">X</ref><ref target="repertoire_uz.html#y">Y</ref><ref target="repertoire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>
+              <ref target="repertoire.html">RÉPERTOIRE - D</ref>
+            </head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Danae</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#4_danae">IV</ref>
+            
+            <p> <ref target="repertoire_ik.html#4_jupiter">Jupiter</ref>, amoureux d'une jeune fille enfermée par son père dans une tour se transforme en pluie d'or pour la séduire.  Les mythographes rapportent cette métamorphose pour expliquer la naissance merveilleuse de Persée, demi-dieu. De très nombreux peintres ont représenté la pluie qui se déverse sur Danaé (Voir par exemple le site de <ref target="https://fr.wikipedia.org/wiki/Dana%C3%A9">Wikipédia</ref>, 8 décembre 2016).<lb/>
+              L'aventure est  une façon imagée de dire la vénalité. « Jupiter se changea en pluie d'or pour jouïr de Danaé, c'est à dire, à force d'argent », affirme <ref target="bibliographie.html#furetiere">Furetière</ref> dans son <hi rend="italic">Dictionnaire</hi> (Article <hi rend="italic">Pluie</hi>). <ref target="bibliographie.html#ronsard">Ronsard</ref>, plus nuancé, écrit que l'or qui dompte tout trompe la vertu de Danaé (<hi rend="italic">Sonnets pour Hélène</hi>, sonnet 48. Éd. Blanchemain, I,  p. 307). <lb/>
+              <lb/>
+              • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> recourt à ce mythe pour expliquer comment <ref target="personnage_bb.html#4_bellimarte">Bellimarte</ref> a réussi à se faire agréer par toute la maisonnée - y compris par le père de la jeune fille (<ref target="../_roman/reference/24_4/24_4_livre_2.html#312">IV, 2, 312</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Danois</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_danois">II</ref>
+            
+            Peuple d'origine germanique<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#germains">η</ref>. Au IV<hi rend="supn">e</hi> siècle, l'Empire hunnique allait jusqu'à la mer Baltique.<lb/>
+            <lb/>
+            • Peuple associé aux <ref target="repertoire_hh.html#2_huns">Huns</ref> et conduit par <ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#824">II, 12, 824</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Danube</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#danube">I</ref>
+            
+            Ce fleuve qui marque la limite de l'<ref target="repertoire_ee.html#2_empire_romain">Empire romain</ref> est le plus long des fleuves nommés dans <hi rend="italics">L'Astrée</hi>.<lb/>
+            <lb/>
+            • Le fait que <ref target="personnage_cc.html#cleomir">Cleomir</ref> se rende jusqu'au Danube, au service d'<ref target="personnage_aa.html#amasis">Amasis</ref>, indique son dévouement (<ref target="../_roman/reference/21_1/21_1_livre_3.html#63_verso">I, 3, 63 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Daphne</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#daphne_m">I</ref>, <ref target="#3_daphne_m">III</ref>
+            
+            Mythologie. Nymphe dont le nom signifie « laurier ». Aimée par <ref target="repertoire_aa.html#apollon">Apollon</ref>, elle lui résiste et obtient d'être transformée en laurier (<ref target="bibliographie.html#ovide">Ovide</ref>, I, 452-567). <lb/>
+            <lb/>
+            • Dans un madrigal de <ref target="personnage_ff.html#filandre">Filandre</ref>, <ref target="repertoire_aa.html#amour">Amour</ref> rend <ref target="repertoire_aa.html#apollon">Apollon</ref> amoureux de Daphné pour prouver sa puissance (<ref target="../_roman/reference/21_1/21_1_livre_6.html#165_recto">I, 6, 165 recto</ref>).<lb/>
+            <lb/>
+            Comme <ref target="personnage_ff.html#filandre">Filandre</ref> est un Berger  travesti, il se peut que d'Urfé songe à un épisode moins connu du mythe de Daphné, une aventure qui précède la métamorphose : <lb/>
+              Un prince s'habille en femme pour vivre près de Daphné. Lorsque la Nymphe découvre cette ruse, elle essaie de tuer ce prince que  les dieux protègent <lb/>
+              (Pierre <ref target="bibliographie.html#grimal">Grimal</ref>, Article <hi rend="italics">Daphné</hi>). 
+            <lb/>
+            •  On peut voir la sculpture de Bernini (1598 - 1680)  représentant la métamorphose de Daphné dans ce <ref target="http://digilander.libero.it/debibliotheca/Arte/bernini/bernini_apollo_and_daphne.jpg">site</ref> (30 septembre 2010).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Daphne</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#daphne_m">I</ref>, <ref target="#3_daphne_m">III</ref>
+            
+            Dans le discours volontairement ambigu de <ref target="personnage_dd.html#3_delie">Délie</ref>, l'édition de 1621 remplace le <hi rend="italic">Daphnide</hi> de l'édition de 1619 par <hi rend="italic">Daphné</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#82_recto">III, 3, 82 recto</ref>).
+            <lb/>
+            • Daphné est une « nymphe » qui serait inférieure à la déesse <ref target="#3_diane_m">Diane</ref>.  Mais <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> aussi pourrait être supérieure à sa sœur, <ref target="personnage_dd.html#3_delie">Délie</ref>, qui porte l'un des surnoms de la déesse <ref target="#3_diane_m">Diane</ref>.<lb/>
+            <lb/>
+            Les noms de <hi rend="italic">Daphné</hi> et de <hi rend="italic">Daphnide</hi> conviennent fort bien à la situation des personnages.<lb/>
+              <lb/>
+              Cependant, comme cette<lb/>
+              <hi rend="italic">Daphné</hi>/<hi rend="italic">Daphnide</hi> va se laisser séduire par le Roi, la variante attire l'attention du lecteur sur ce qui distingue <hi rend="italic">Daphnide</hi> de la mythique <hi rend="italic">Daphné</hi> : <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> n'est pas <ref target="#3_daphne_m">Daphné</ref>, elle a seulement la forme d'une <hi rend="italic">Daphné</hi>. <lb/>
+              <lb/>
+              Le « suffixe <hi rend="italic">ide</hi> signifie en forme de, et [...] vient du mot grec signifiant forme » (<ref target="bibliographie.html#littre">Littré</ref>). 
+            <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Dedale</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#dedale">I</ref>
+            
+            Mythologie. Cet architecte athénien, à la demande du roi Minos, construit un labyrinthe en tant que prison pour abriter le Minotaure. Dédale suggère à <ref target="repertoire_aa.html#adriane">Ariane</ref> la ruse du fil qui permettra à Thésée de sortir du labyrinthe après avoir  tué le Minotaure. Le roi alors  enferme Dédale et son fils, <ref target="repertoire_ik.html#icare">Icare</ref>, dans cette prison (<ref target="bibliographie.html#ovide">Ovide</ref>, VIII, 159-234). <lb/>
+            Dédale est un nom commun dans <ref target="bibliographie.html#huguet">La Curne  de Sainte-Palaye<hi rend="bibliographie"/>
+                </ref> (Article <hi rend="italics">Dedalu</hi>) ou dans <ref target="bibliographie.html#furetiere">Furetière</ref> (« On le dit aussi figurément d'un grand embarras », Article <hi rend="italics">Dédale</hi>), mais non dans <ref target="bibliographie.html#huguet">Huguet</ref>. <ref target="bibliographie.html#guizot">Guizot</ref> fait une distinction intéressante dans son <hi rend="italics">Dictionnaire des synonymes</hi> : « Selon sa valeur primitive, labyrinthe désigne le dessin de l'ouvrage ; dédale marque l'habileté de l'ouvrier » (Article <hi rend="italics">Dédale</hi>). Il ajoute : « Dédale est un mot noble ; labyrinthe est un mot commun à tous les styles ». <lb/>
+            <lb/>
+            • « Dédale » et « Labyrinthe »   sont des  noms communs dans <hi rend="italics">L'Astrée</hi>. Le premier a un sens concret, le second un sens figuré. <lb/>
+            Les jardins d'<ref target="repertoire_ik.html#isoure">Isoure</ref>, dans le palais de <ref target="personnage_gg.html#galathee">Galathée</ref>, forment un « gratieux Dedale » (<ref target="../_roman/reference/21_1/21_1_livre_2.html#22_verso">I, 2, 22 verso</ref>).<lb/>
+            Le « dangereux Labyrinthe » est celui des pensées d'<ref target="personnage_aa.html#astree">Astrée</ref> (<ref target="../_roman/reference/21_1/21_1_livre_3.html#49_recto">I, 3, 49 recto</ref>). <lb/>
+            <lb/>
+            • Voir la chute d'<ref target="repertoire_ik.html#icare">Icare</ref> de Carlo Saraceni (1579 -1620) dans ce <ref target="http://p6.storage.canalblog.com/67/73/562116/34946856.jpg">site</ref> (10 avril 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Demon de Sorgues</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_demond">III</ref>
+            
+            Mythologie. L'épopée représente les fleuves sous forme de Démons. Honoré d'Urfé s'inspire du Scamandre d'<ref target="bibliographie.html#homere">Homère</ref> (<hi rend="italic">L'Iliade</hi>, ch. XXI). L'ensemble du récit s'inspire des <hi rend="italic">Lettres de Vaucluse</hi> de <ref target="bibliographie.html#petrarque_vaucluse">Pétrarque</ref>, et d'une vision rapportée par <ref target="bibliographie.html#petrarque_afrique">Pétrarque</ref> lui-même dans son épopée, <hi rend="italic">L'Afrique</hi> (<ref target="bibliographie.html#heneinf">Henein</ref>, pp. 103-104). <lb/>
+            <lb/>
+            Le Démon de <hi rend="italic">L'Astrée</hi> est nommé  par <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> quand il raconte à Adamas l'<ref target="../_roman/reference/21_3/21_3_livre_3.html#h_euric">Histoire d'Euric, Daphnide, et Alcidon</ref>.<lb/>
+            <lb/>
+            • En revenant de sa première visite chez <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>, un soir d'orage, dans une vallée<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_vallee">η</ref>, le chevalier voit apparaître un vieillard<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_vieillard">η</ref> entouré de <ref target="repertoire_no.html#3_nayades">Naïades</ref>
+                <hi rend="cache"> </hi>
+                <ref target="note_3.html#3_nayades">η</ref> qui l'honorent.<lb/>
+            <lb/>
+            Elles lui baisent le genou en 1619, mais  la main dans les éditions suivantes (<ref target="../_roman/reference/21_3/21_3_livre_3.html#101_verso">III, 3, 101 verso</ref>). 
+            <lb/>
+            Les  nobles baisaient la main des Empereurs, mais
+              « le menu peuple leur baisoit le genouil »<lb/>
+              (<ref target="bibliographie.html#la_curne">La Curne</ref>, Article <hi rend="italic">Baiser</hi>).
+            <lb/>
+            • Le Démon  recommande aux nymphes des eaux de ne pas se plaindre de vivre dans la modeste fontaine de <ref target="repertoire_ss.html#3_sorgues">Sorgues</ref>. Le destin lui a promis que cette fontaine recevrait le « <ref target="personnage_pp.html#3_petrarque">Cigne</ref> Florentin<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_cigne">η</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#102_recto">III, 3, 102 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Diane</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#diane_m">I</ref>, <ref target="#2_diane_m">II</ref>, <ref target="#3_diane_m">III</ref>
+            
+            Mythologie. Le nom de la déesse Diane, fille de <ref target="repertoire_ik.html#jupiter">Jupiter</ref> et de Léto, sœur jumelle d'<ref target="repertoire_aa.html#apollon">Apollon</ref> survient dans plusieurs contextes chez d'Urfé. Dans <ref target="bibliographie.html#sireine">
+                  <hi rend="italic"> Le Sireine</hi>
+                </ref>, la rivière lui est consacrée (p. 46) ;  dans <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref>, la déesse de la chasse et de la chasteté est suivie de nymphes au costume suggestif (p. 38).<lb/>
+            <lb/>
+            • Une Diane « gauloise » et chaste, patronne du <ref target="repertoire_ff.html#forez">Forez</ref>, apparaît  (<ref target="../_roman/reference/21_1/21_1_livre_2.html#30_recto">I, 2, 30 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_2.html#31_recto">31 recto</ref> et <ref target="../_roman/reference/21_1/21_1_livre_9.html#282_verso">I, 9, 286 verso</ref>) dans le récit des origines du pays et dans la description de la gynécocratie (pouvoir politique détenu par les femmes). <lb/>
+            <lb/>
+            Après la première édition de <hi rend="italics">L'Astrée</hi>, d'Urfé  adjoint à Diane une <ref target="repertoire_gg.html#galathee_m">Galathée</ref> mythique qui n'aura jamais la même importance que Diane dans le roman.
+            <lb/>
+            • La déesse Diane, supérieure à ses Nymphes (<ref target="../_roman/reference/21_1/21_1_livre_6.html#165_verso">I, 6, 165 verso</ref>), est la patronne de la Bergère <ref target="personnage_dd.html#diane">Diane</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#160_verso">I, 6, 160 verso</ref>).<lb/>
+            <lb/>
+            • Diane est aussi la patronne du bois de <ref target="repertoire_ss.html#savignieu">Savigneux</ref> où s'installe <ref target="personnage_cc.html#climanthe">Climanthe</ref>, le faux druide (<ref target="../_roman/reference/21_1/21_1_livre_5.html#136_recto">I, 5, 136 recto</ref>). <lb/>
+            <lb/>
+            •          La déesse Diane aime <ref target="repertoire_ee.html#endymion">Endymion</ref>, rappellent <ref target="personnage_pp.html#polemas">Polémas</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#272_verso">I, 9, 272 verso</ref>) et <ref target="personnage_aa.html#adamas">Adamas</ref> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#314_verso">I, 10, 314 verso</ref>). <lb/>
+            <lb/>
+            • On trouve dans ce <ref target="http://www.educnet.education.fr/louvre/diane/dianeacteon.jpg">site</ref> (30 septembre 2010) Diane et <ref target="repertoire_aa.html#2_acteon">Actéon</ref> peints par le Cavalier d'Arpin (1568 - 1640). Ce mythe éclaire l'aventure de <ref target="personnage_dd.html#diane">Diane</ref> et <ref target="personnage_ff.html#filandre">Filandre</ref>. <lb/>
+            <lb/>
+            • Le plus célèbre des temples de <ref target="#diane_m">Diane</ref> se trouvait à Éphèse. Il a été brûlé par Erostrate à l'époque d'<ref target="personnage_aa.html#2_alexandre">Alexandre</ref>. <ref target="bibliographie.html#pline">Pline</ref> décrit avec admiration l'édifice qui a remplacé le premier temple : « On mit cent vingt ans à l'achever, avec la contribution de l'Asie entière » (XVI, 213). Honoré d'Urfé évoque ce temple de Diane dans ses <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Epistres morales</hi>
+                </ref> (<hi rend="italic">Au lecteur</hi>, non-paginé)<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#chretien">η</ref>.<lb/>
+            <lb/>
+            • Le temple d'après un peintre du XVI<hi rend="supn">e</hi> siècle dans ce <ref target="http://fr.wikipedia.org/wiki/Temple_d%27Art%C3%A9mis_%C3%A0_%C3%89ph%C3%A8se#mediaviewer/Fichier:Temple_of_Artemis.jpg">site</ref> (10 juillet 2014).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Diane</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#diane_m">I</ref>, <ref target="#2_diane_m">II</ref>, <ref target="#3_diane_m">III</ref>
+            
+            Mythologie.
+            Il y avait un temple de Diane en <ref target="repertoire_ff.html#2_forez">Forez</ref> puisque, selon <ref target="bibliographie.html#la_mure">La Mure</ref>, à Randan,  ville proche de <ref target="repertoire_ff.html#2_feurs">Feurs</ref>, la tradition veut que ce soit « en haine et horreur de cette Diane des Gentils qui avoit son temple à <ref target="repertoire_ff.html#2_feurs">Feurs</ref>, que la Sacrée Vierge a esté prise pour la protectrice et Patrone de cette ville » (I, p. 109). <lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#2_adamas">Adamas</ref> explique que les <ref target="repertoire_qr.html#2_romains">Romains</ref> ont respecté cette déesse que la principale Nymphe du <ref target="repertoire_ff.html#2_forez">Forez</ref> représente (<ref target="../_roman/reference/21_2/21_2_livre_8.html#515">II, 8, 515</ref>). Cette information a déjà   été donnée par <ref target="personnage_gg.html#galathee">Galathée</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#30_recto">I, 2, 30 recto</ref>). <lb/>
+            <lb/>
+            • <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> s'adresse à la Lune dans un poème sans lui donner le nom de Diane (<ref target="../_roman/reference/21_2/21_2_livre_2.html#112">II, 2, 112</ref>). Il rappelle alors <ref target="repertoire_aa.html#2_acteon">Actéon</ref> et <ref target="repertoire_ee.html#endymion">Endymion</ref>, les amants de la déesse. <lb/>
+            <lb/>
+            Le traitement des mythes d'<ref target="repertoire_ee.html#echo">Écho</ref>, de <ref target="repertoire_pp.html#pan">Pan</ref> et de Diane dans la deuxième partie de <hi rend="italics">L'Astrée</hi> prouve que le romancier, en 1610,  ne fait plus appel de la même manière aux ressources de la mythologie classique. 
+            <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Diane</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#diane_m">I</ref>, <ref target="#2_diane_m">II</ref>, <ref target="#3_diane_m">III</ref>
+            
+            Dans la troisième partie, Honoré d'Urfé parle de Diane sur un ton plus jovial. Il s'inspire de  sources différentes :<lb/>
+            « Accorde, ô mon père ! accorde à ta fille de rester toujours vierge, et de porter assez de noms divers pour que Phébus ne puisse le lui disputer » (<ref target="bibliographie.html#callimaque">Callimaque</ref>, <hi rend="italic">Hymnes</hi>). Cette prière de Diane à <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> explique pourquoi Diane est la « déesse aux mille noms ». Quand elle s'appelle <hi rend="italic">Délie</hi>, nom favorisé par Maurice Scève, elle évoque l'île de Délos où elle est née. Sous le nom de <hi rend="italic">Séléné</hi>, personnification de la lune, Diane a aimé le dieu <ref target="repertoire_pp.html#3_pan">Pan</ref> parce qu'il lui a offert des taureaux blancs comme neige. <ref target="bibliographie.html#virgileb">Virgile</ref> le rapporte dans les <hi rend="italic">Géorgiques</hi> (III, 392). D'autres pensent que le dieu lui a présenté la toison d'une chèvre blanche (<ref target="bibliographie.html#cartari">Cartari</ref>, p. 146), scène qui a inspiré des artistes (voir ce <ref target="http://www.culture.gouv.fr/Wave/image/joconde/0535/m505203_04-001455_p.jpg">site</ref>, 20 juin 2013). Par ailleurs, notons que la lune, quand elle n'est pas pleine, est une figure cornue. D'après <ref target="bibliographie.html#pierius">Pierius</ref>, la lune serait ainsi l'hiéroglyphe du mois (II, p. 297) ; elle est aussi pourtant une figure de la nature humaine parce qu'elle change (II, p. 12),  de l'éternité, parce qu'elle se renouvelle (II, p. 295) ou encore de la sottise : « le fol change comme la lune », selon Salomon (II, p. 298).<lb/>
+            <lb/>
+            « Chantons Diane !<lb/>
+(malheur aux poètes qui l'oublient !) », <lb/>
+conseille <ref target="bibliographie.html#callimaque">Callimaque</ref> tout au début de son « Hymne à Diane ».<lb/>
+            
+            <lb/>
+            •  La déesse, si elle se baignait dans le <ref target="repertoire_ll.html#3_lignon">Lignon</ref>, ne serait pas choquée par le récit des amours de l'auteur (<hi rend="italic">
+                  <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_autheur_lignon">III, l'Autheur à la riviere de Lignon</ref>
+                </hi>).<lb/>
+            <lb/>
+            • <ref target="personnage_aa.html#3_adamas">Adamas</ref> rappelle que les <ref target="repertoire_qr.html#3_romains">Romains</ref> n'imposent pas leur religion en <ref target="repertoire_ff.html#3_forez">Forez</ref> parce qu'ils considèrent que la contrée appartient à Diane (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_verso">III, 2, 27 verso</ref>).<lb/>
+            <lb/>
+            • <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> explique à <ref target="personnage_pp.html#3_phillis">Phillis</ref> ses sentiments en confondant la bergère et la déesse : « Cette <ref target="personnage_dd.html#3_diane">Diane</ref>, que je n'idolatre pas comme vous, mais que j'adore pour la vraye Diane en terre, qui esclaire dans le Ciel, et qui commande dans les Enfers » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#397_verso">III, 9, 397 verso</ref>). La déesse n'obéit pas à l'amour (<ref target="../_roman/reference/21_3/21_3_livre_9.html#406_verso">III, 9, 406 verso</ref>).<lb/>
+            <lb/>
+            Les vingt-et-une autres mentions de la déesse se trouvent dans le livre 3, cette mise en abyme  écrite sur un mode parodique pour rapporter l'<ref target="../_roman/reference/21_3/21_3_livre_3.html#h_euric">histoire d'Euric</ref>. D'Urfé pratique le burlesque avec maestria !<lb/>
+            <lb/>
+            • Quand il arrive chez <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>, <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> voit d'abord une jeune femme  portant le costume de la Diane chasseresse (<ref target="../_roman/reference/21_3/21_3_livre_3.html#78_verso">III, 3, 78 verso</ref>). Il s'agit de <ref target="personnage_dd.html#3_delie">Délie</ref>, la sœur de <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>. Elle explique qu'elle s'est déguisée de cette manière parce  qu'elle porte un des noms de Diane (<ref target="../_roman/reference/21_3/21_3_livre_3.html#78_verso">III, 3, 78 verso</ref>). Elle demande au chevalier de lui obéir comme il obérait à la déesse (<ref target="../_roman/reference/21_3/21_3_livre_3.html#79_recto">III, 3, 79 recto</ref>) afin d'éprouver la « perilleuse avanture » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#78_verso">III, 3, 78 verso</ref>).  Obéissant, le chevalier s'adresse à <ref target="personnage_dd.html#3_delie">Délie</ref> en l'appelant toujours <hi rend="italic">Diane</hi> (par exemple <ref target="../_roman/reference/21_3/21_3_livre_3.html#79_verso">III, 3, 79 verso</ref>). « La Lune est le plus beau flambeau qui reluise maintenant au Ciel », affirme <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#81_recto">III, 3, 81 recto</ref>), mais sa maîtresse, <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>, est plus belle.
+            Les dieux d'ailleurs n'ont-ils pas préféré des nymphes aux déesses ? <lb/>
+            <ref target="personnage_dd.html#3_delie">Délie</ref> affirme qu'<ref target="personnage_aa.html#3_alcidon">Alcidon</ref> est sa proie, le butin de sa chasse (<ref target="../_roman/reference/21_3/21_3_livre_3.html#82_recto">III, 3, 82 recto</ref>). Elle refuse de le laisser seul avec <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>, parce que Diane est l'ennemie d'<ref target="repertoire_aa.html#3_amour">Amour</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#89_recto">III, 3, 89 recto</ref>).
+            La déesse a pourtant aimé <ref target="repertoire_ee.html#3_endymion">Endymion</ref> et même le dieu <ref target="repertoire_pp.html#3_pan">Pan</ref>, rétorque <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#90_verso">III, 3, 90 verso</ref>). <ref target="personnage_dd.html#3_delie">Délie</ref> alors se distingue de sa patronne : elle ne pourrait aimer ni celui qui s'endort quand elle l'embrasse, ni celui qui porte des cornes ; elle même préfère donner des cornes qu'en porter  (<ref target="../_roman/reference/21_3/21_3_livre_3.html#90_verso">III, 3, 90 verso</ref>). De plus, le don d'une toison ne suffirait pas pour la gagner. Le chevalier, conclut-elle, doit absolument apprendre à dire du bien de la déesse Diane (<ref target="../_roman/reference/21_3/21_3_livre_3.html#91_verso">III, 3, 91 verso</ref>). <lb/>
+            <lb/>
+            Les amusantes remarques de <ref target="personnage_dd.html#3_delie">Délie</ref> sur la déesse  rappellent étrangement <hi rend="italic">le Tiers livre</hi> de Rabelais (1552). <lb/>
+            Dans l'interprétation du songe de Panurge, on lit : « Vous (pardonnez moy si je mesprens) me semblez evidemment errer   interpretant cornes pour cocuage. Diane les porte en teste à forme de   beau croissant. Est elle coqüe pourtant ? Comment diable seroyt elle   coqüe, qui ne feut oncques mariée ? Parlez de grace correct, craignant   qu’elle vous en face au patron que feist à  <ref target="repertoire_aa.html#2_acteon">Acteon</ref> »<lb/>
+ (ch. 14. <ref target="https://fr.wikisource.org/wiki/Le_Tiers_Livre/14">Wikisource</ref>).
+            <lb/>
+
+            <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> n'oubliera jamais que l'aimable <ref target="personnage_dd.html#3_delie">Délie</ref> l'a reçu « sous l'habit et sous la faveur » de la déesse (<ref target="../_roman/reference/21_3/21_3_livre_3.html#95_verso">III, 3, 95 verso</ref>).<lb/>
+            <lb/>
+            • La leçon que <ref target="personnage_ll.html#3_leonide">Léonide</ref> donne à la bergère <ref target="personnage_dd.html#3_diane">Diane</ref> renferme une allusion au mythe de Diane et d'<ref target="repertoire_aa.html#2_acteon">Actéon</ref> tel que le rapporte <ref target="bibliographie.html#ovide">Ovide</ref> dans ses <hi rend="italics">Métamorphoses</hi> (III, 171-211) : Si la jeune fille repousse sévèrement <ref target="personnage_ss.html#3_silvandre">Silvandre</ref>, elle va « servir d'entretien,
+            à toutes les assemblees qui se feront » (<ref target="../_roman/reference/21_3/21_3_livre_10.html#436_recto">III, 10, 436 recto</ref>). <lb/>
+            <lb/>
+            • On peut voir une Diane chasseresse du XVI<hi rend="supn">e</hi> siècle (attribuée à Penni Luca) dans le site <ref target="http://www.culture.gouv.fr/Wave/image/joconde/0002/m503604_87ee1580_p.jpg">Joconde</ref> (7 décembre 2012).<lb/>
+            <lb/>
+            • <ref target="repertoire_pp.html#3_pan">Pan</ref> et Diane sont réunis dans un médaillon peint par Annibal Carrache (1560 - 1609). Fresque des Amours des Dieux, galerie Farnèse (<ref target="http://www.ambafrance-it.org/IMG/jpg/pan_et_diane-2.jpg">Site</ref> de l'ambassade de France, 7 décembre 2013).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Didon</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#didon">I</ref>
+            
+            Mythologie. <ref target="bibliographie.html#virgile">Virgile</ref> raconte dans <hi rend="italics">l'Énéide</hi> les malheurs de cette reine de <ref target="repertoire_cc.html#2_carthage">Carthage</ref> aimée puis abandonnée par <ref target="repertoire_ee.html#enee">Énée</ref> (Livre IV).<lb/>
+ <lb/>
+            • <ref target="personnage_pp.html#polemas">Polémas</ref> se compare à ce « corsaire » aimé par une princesse (<ref target="../_roman/reference/21_1/21_1_livre_9.html#272_verso">I, 9, 272 verso</ref>) dans un poème dédié à la Nymphe <ref target="personnage_gg.html#galathee">Galathée</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Dis</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_dis">II</ref>, <ref target="#3_dis">III</ref>
+              
+            « Les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> se vantent d'être issus de <ref target="#2_dis">Dis</ref> Pater, tradition qu'ils disent tenir des druides » (Jules <ref target="bibliographie.html#cesar">César</ref>, <hi rend="italic">Commentaires</hi>, VI, 6, § 18). C'est une divinité assimilée à <ref target="repertoire_pp.html#2_pluton">Pluton</ref> (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 575). <lb/>
+            « Ce Dis <ref target="repertoire_ss.html#2_samothes">Samothes</ref> constitué Roy de <ref target="repertoire_gg.html#2_gaule">Gaule</ref> par son aïeul Noé, ainsi que dit est, vint d'Arménie<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#armenie">η</ref> audit païs, l'an après le déluge quarantiesme et en print possession » (Lemaire de Belges, cité par <ref target="bibliographie.html#gaumei">Gaume</ref>, p. 110).  Lemaire de Belges donne la même généalogie que <ref target="bibliographie.html#le_fevre">Le Fèvre de la Boderie</ref> (Voir <ref target="#2_druys">Druys</ref>) :<lb/>
+    <ref target="repertoire_ss.html#2_samothes">Samothes</ref> —&gt; Magnus —&gt; Saron —&gt; Dryus<lb/>
+            (<ref target="bibliographie.html#dubois">Dubois</ref>, p. 29). Les informations sur le druidisme qui circulaient au XVI<hi rend="supn">e</hi> siècle  viennent en grande partie des <hi rend="italics">Antiquités</hi> d'Annius de Viterbe<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#viterbe">η</ref>,  une compilation peu fiable.<lb/>
+            <lb/>
+            • Les druides enseignent que les Enfers sont le royaume de Dis (<ref target="../_roman/reference/21_2/21_2_livre_5.html#298">II, 5, 298</ref>) ; les <ref target="repertoire_qr.html#2_romains">Romains</ref> l'ont donc assimilé à <ref target="repertoire_pp.html#2_pluton">Pluton</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#515">II, 8, 515</ref>). Mais Dis serait un homme non un dieu (<ref target="../_roman/reference/21_2/21_2_livre_8.html#515">II, 8, 515</ref>). Il est venu en <ref target="repertoire_gg.html#2_gaule">Gaule</ref> par l'Océan <ref target="repertoire_aa.html#2_armorique">Armorique</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#508">II, 8, 508</ref>) et il a donné leurs statuts aux druides (<ref target="../_roman/reference/21_2/21_2_livre_8.html#504">II, 8, 504</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Dis</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_dis">II</ref>, <ref target="#3_dis">III</ref>
+            
+            • Dans la demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref>, l'histoire des <ref target="repertoire_gg.html#3_gaule">Gaules</ref> est peinte sur la voûte. On y voit en premier Dis Samothes (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>). Voir <ref target="repertoire_ss.html#3_samothes">Samothes</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Doire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#3_doire">III</ref>
+            
+            <ref target="bibliographie.html#guichenon_savoie">Guichenon</ref> considérait que la Doire prenait le nom de  Doire la Balte « pour la differencier d'une autre petite rivière de mesme nom » (I, p. 21). Il signale une autre Doire qui passe par Suze (I, p. 22). « Une rivière dite la Doire longe, mais obliquement, toute la Vallée d'Aoste de l'Ouest au Sud-est. Cette rivière prend le nom de <ref target="#3_doire_baltee">Doire Baltée</ref> dès qu'elle associe ses eaux à celles du Buthier [...] à une petite distance de la Cité d'Aoste ». Elle mouille les murs de la ville d'Ivrée avant de se jeter dans le Pô (<ref target="bibliographie.html#orsieres">Orsières</ref>, pp. 104 et 105). <ref target="bibliographie.html#strabon">Strabon</ref> raconte que les chercheurs d'or de la Doire  se disputent (VI, 7).<lb/>
+            <lb/>
+            • Les <ref target="repertoire_ss.html#3_salasses">Salasses</ref> trouvent de l'or dans cette rivière (<ref target="../_roman/reference/21_3/21_3_livre_7.html#283_verso">III, 7, 283 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Doire Baltee</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#3_doire_baltee">III</ref>
+            
+            • Le pays de <ref target="personnage_cc.html#3_criseide">Criséide</ref> est arrosé par la Doire Baltée (<ref target="../_roman/reference/21_3/21_3_livre_7.html#283_verso">III, 7, 283 verso</ref>), rivière qui traverse la ville d'<ref target="repertoire_ee.html#3_eporedes">Éporèdes</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#284_recto">III, 7, 284 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFFFFF;">
+                Dragon</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#dragon">I</ref>
+            
+            Mythologie. Constellation. Chez certains mythographes, deux Nymphes auraient élevé le petit <ref target="repertoire_ik.html#jupiter">Jupiter</ref>. Pour les protéger de l'ire de son père, le dieu les transforme en constellations, la <ref target="repertoire_no.html#ourse_grande">Grande</ref> et la <ref target="repertoire_no.html#ourse_petite">Petite Ourse</ref>, et se transforme lui-même en constellation du Dragon. <lb/>
+            <lb/>
+            • Ces groupes d'étoiles sont représentés dans l'<ref target="../_roman/reference/21_1/21_1_livre_11.html#histoire_de_damon_et_de_fortune">Histoire de Damon et de Fortune</ref> racontée par le druide <ref target="personnage_aa.html#adamas">Adamas</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#373_verso">I, 11, 373 verso</ref>). <lb/>
+            <lb/>
+            • Voir la configuration du Dragon dans ce <ref target="http://www.constellationsofwords.com/images/dracp.jpg">site</ref> (23 février 2013), et dans ce <ref target="http://lamap93.free.fr/cours/lml/images/dragon.gif">site</ref> un dessin de toutes les constellations nommées dans <hi rend="italic">L'Astrée</hi> (5 mai 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Dreux</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#dreux">I</ref>, <ref target="#2_dreux">II</ref>, <ref target="#3_dreux">III</ref>
+            
+            <p>Ce nom de ville n'apparaît que dans l'édition anonyme de la première partie, en 1607. </p>
+            <lb/>
+            • Dreux est à l'origine du nom des druides, dit <ref target="personnage_gg.html#galathee">Galathée</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#30_recto">I, 2, 30 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Dreux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#dreux">I</ref>, <ref target="#2_dreux">II</ref>, <ref target="#3_dreux">III</ref>
+            
+            Les druides « se trouv[aient]  à certains jours de l'an, au pays Chartrain en un lieu consacré (on pense que ce soit à Dreux, d'autant que le nom approche de celuy des Druides) » (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 6 verso). Les druides tiennent leurs Grands-jours dans « la Cité que Drius nomma de son nom Dreux » (<ref target="bibliographie.html#le_fevre">Le Fèvre de la Boderie</ref>, Cercle III, vers 258). <lb/>
+            <lb/>
+            • Les druides, dit <ref target="personnage_aa.html#2_adamas">Adamas</ref>, se rassemblent à Dreux (<ref target="../_roman/reference/21_2/21_2_livre_10.html#624">II, 10, 624</ref> et <ref target="../_roman/reference/21_2/21_2_livre_10.html#668">II, 10, 668</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Dreux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#dreux">I</ref>, <ref target="#2_dreux">II</ref>, <ref target="#3_dreux">III</ref>
+            
+            • <ref target="personnage_aa.html#3_alexis">Alexis</ref> est venue de Dreux (<ref target="../_roman/reference/21_3/21_3_livre_10.html#442_verso">III, 10, 442 verso</ref>), elle « retournera à <ref target="#3_dreux">Dreux</ref>, ou vers les <ref target="repertoire_cc.html#3_carnutes">Carnutes</ref> »   (<ref target="../_roman/reference/21_3/21_3_livre_5.html#184_verso">III, 5, 184 verso</ref>), et <ref target="personnage_aa.html#3_astree">Astrée</ref> désire la suivre (<ref target="../_roman/reference/21_3/21_3_livre_11.html#484_recto">III, 11, 484 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Druys</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_druys">II</ref>, <ref target="#3_druys">III</ref> <lb/>
+            
+            Écrit aussi <hi rend="italics">Dryus</hi>. <hi rend="italics">Drius</hi> vient de <hi rend="italics">chêne,</hi> rappelle <ref target="bibliographie.html#le_fevre">Le Fèvre de la Boderie</ref> (Cercle III, v. 388) qui donne cette
+            généalogie :<lb/>
+                          <ref target="repertoire_ss.html#2_samothes">Samothes</ref> —&gt; Magnus —&gt; Saron —&gt; <ref target="#2_druys">Druys</ref>. <lb/>
+            De Saron, qui « fonda le premier les Universitez » viennent les <ref target="glossaire_ss.html#saronide">saronides</ref> (<ref target="bibliographie.html#le_fevre">Le Fèvre de la Boderie</ref>, Cercle III, v. 9-11). <lb/>
+            Druys « commença son règne en 410 après le déluge » (<ref target="bibliographie.html#dubois">Dubois</ref>, p. 50). Voir <ref target="#3_druys">Dryus</ref>.<lb/>
+            <lb/>
+            • Dans sa leçon de théologie, <ref target="personnage_aa.html#2_adamas">Adamas</ref> explique que Druys est le quatrième roi de <ref target="repertoire_gg.html#2_gaule">Gaule</ref> après <ref target="#2_dis">Dis</ref> <ref target="repertoire_ss.html#2_samothes">Samothes</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#509">II, 8, 509</ref>). Il a institué les druides (<ref target="../_roman/reference/21_2/21_2_livre_8.html#504">II, 8, 504</ref>) et leur a donné son nom.  Certains pensent que ce nom signifie <hi rend="italics">chêne</hi> ; il signifie <hi rend="italics">contemplateur</hi> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#509">II, 8, 509</ref>). Druys a enseigné aux hommes comment adorer Dieu (<ref target="../_roman/reference/21_2/21_2_livre_8.html#510">II, 8, 510</ref>) sans l'enfermer dans une image ou dans un temple (<ref target="../_roman/reference/21_2/21_2_livre_8.html#513">II, 8, 513</ref>). Druys vint jadis à <ref target="repertoire_mm.html#2_montverdun">Montverdun</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#493">II, 8, 493</ref>).<lb/>
+            <lb/>
+            La phrase « il pensa estre à propos d'en laisser quelque marque à la posterité » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#493">II, 8, 493</ref>) pourrait signifier que Druys a fondé à <ref target="repertoire_mm.html#2_montverdun">Montverdun</ref> le temple à trois portes où une druide rend des oracles.
+            <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Druys</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_druys">II</ref>, <ref target="#3_druys">III</ref> <lb/>
+            
+            • Celui qui a institué l'ordre des druides est représenté sur la voûte de la demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>). Il s'agit de <ref target="#2_druys">Druys</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Dryades</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#dryades">I</ref>, <ref target="#3_dryades">III</ref>, <ref target="#4_dryades">IV</ref>
+            
+            Mythologie. Divinités secondaires qui font partie de la classe des Nymphes souvent suivantes de grandes déesses. Les mythologues divisent les Nymphes selon leur lieu de résidence. Les Dryades vivent dans les forêts et sont associées aux chênes. <lb/>
+            <lb/>
+            • Chez d'Urfé, les Dryades sont des compagnes de la déesse <ref target="#diane_m">Diane</ref> qui vivent dans des bois et des montagnes où se trouvent de grandes étendues d'eau (<ref target="../_roman/reference/21_1/21_1_livre_2.html#30_recto">I, 2, 30 recto</ref>) avec les <ref target="repertoire_aa.html#amadryades">Hamadryades</ref> et les <ref target="repertoire_no.html#nayades">Naïades</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Dryades</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#dryades">I</ref>, <ref target="#3_dryades">III</ref>, <ref target="#4_dryades">IV</ref>
+               
+             Honoré d'Urfé ne distingue toujours pas les catégories de nymphes. À la fin de <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref> aussi, il se contente d'énumérer les divinités champêtres :<lb/>     « Les <ref target="repertoire_pp.html#3_pan">Pans</ref>, les <ref target="repertoire_ee.html#3_egipans">Égipans</ref>,<lb/>    Les Nymphes, les Dryades » (v. 9291-9292).<lb/>
+             <lb/>
+             • <ref target="repertoire_no.html#3_nayades">Naïades</ref>, Dryades, et <ref target="repertoire_no.html#3_napees">Napées</ref> fréquentent les rives du <ref target="repertoire_ll.html#3_lignon">Lignon</ref> dans la préface, <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_autheur_lignon">
+                  <hi rend="italic">l'Autheur à la rivière de Lignon</hi>
+                </ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_mythe">
+                Dryades</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#dryades">I</ref>, <ref target="#3_dryades">III</ref>, <ref target="#4_dryades">IV</ref>
+             
+             <lb/>
+             • Pendant les <ref target="repertoire_bb.html#4_bacchanales">Bacchanales</ref>, <ref target="personnage_cc.html#4_clotilde">Clotilde</ref> et ses suivantes vont s'habiller en « <ref target="repertoire_dd.html#4_dryades">Dryades</ref>, <ref target="repertoire_no.html#4_napees">Nappees</ref> et <ref target="repertoire_no.html#4_nayades">Nayades</ref> ». <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> les surprend pendant qu'elles se déguisent (<ref target="../_roman/reference/24_4/24_4_livre_4.html#654">IV, 4, 654</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Durance</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#durance">I</ref>, <ref target="#3_durance">III</ref>
+             
+             Fleuve des <ref target="repertoire_aa.html#alpes">Alpes</ref> qui se jette dans le <ref target="repertoire_qr.html#rhone">Rhône</ref>.<lb/>
+             <lb/>
+             • <ref target="personnage_hh.html#hylas">Hylas</ref> le nomme en parlant de la <ref target="repertoire_cc.html#camargue">Camargue</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#243_verso">I, 8, 243 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Durance</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#durance">I</ref>, <ref target="#3_durance">III</ref>
+             
+             Le <ref target="repertoire_qr.html#3_rhone">Rhône</ref> mesure   plus de 800 kilomètres, et la Durance  plus de 300. La <ref target="repertoire_ss.html#3_sorgues">Sorgues</ref> qui sort de la fontaine de <ref target="repertoire_uz.html#3_vaucluse">Vaucluse</ref> mesure moins de 40 kilomètres. <ref target="bibliographie.html#petrarque_sans_titre">Pétrarque</ref>, dans ses <hi rend="italic">Lettres sans titre</hi>, considère que la Durance,
+             « fleuve rapide et dangereux », doit son nom à « la dureté » des eaux et des riverains (p. 31).<lb/>
+             <lb/>
+             <lb/>
+             • Dans sa vision, <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> entend les nymphes de la fontaine de la <ref target="repertoire_ss.html#3_sorgues">Sorgues</ref> se plaindre de ne pas nager dans « le large sein du <ref target="repertoire_qr.html#3_rhone">Rosne</ref> et de la Durance » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#101_verso">III, 3, 101 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

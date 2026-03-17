@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Personnages F - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_pers"
+  onclick="SetDisplay('legende_pers')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_pers')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p> Catégories</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Fiction</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px"> Histoire </cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="bordergreen" style="width:auto; height:20px">Poète</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="center_t intercalee" style="width:auto; height:20px">Intercalée</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="interruption" style="width:auto; height:20px">  Interruption  </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px">Remarque</cell>
+              </row>
+            </table><p> </p><lb/><p><graphic url="../images/relations/legende1.gif" rend="img" mimeType="image/gif"/></p><p> </p><ref target="personnage.html">
+              <hi rend="bold">PERSONNAGES</hi>
+              <lb/>Orientation</ref><p> </p><ref target="personnage_aa.html">A</ref><ref target="personnage_bb.html">B</ref><ref target="personnage_cc.html">C</ref><ref target="personnage_dd.html">D</ref><ref target="personnage_ee.html">E</ref><lb/><ref target="personnage_ff.html">F</ref><ref target="personnage_gg.html">G</ref><ref target="personnage_hh.html">H</ref><ref target="personnage_ik.html">I</ref><ref target="personnage_ik.html#j">J</ref><lb/><ref target="personnage_ik.html#k">K</ref><ref target="personnage_ll.html">L</ref><ref target="personnage_mm.html">M</ref><ref target="personnage_no.html">N</ref><ref target="personnage_no.html#o">O</ref><lb/><ref target="personnage_pp.html">P</ref><ref target="personnage_qr.html">Q</ref><ref target="personnage_qr.html#r">R</ref><ref target="personnage_ss.html">S</ref><ref target="personnage_tt.html">T</ref><lb/><ref target="personnage_uz.html">U</ref><ref target="personnage_uz.html#v">V</ref><ref target="personnage_uz.html#w">W</ref><ref target="personnage_uz.html#x">X</ref><ref target="personnage_uz.html#y">Y</ref><ref target="personnage_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>PERSONNAGES - F</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Faramond</cell>
+              <cell colspan="1" rowspan="1">Voir <ref target="personnage_pp.html#2_pharamond">Pharamond</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/filandre.gif)">
+                Filandre</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Présent dans :</hi> <ref target="#filandre">I</ref>, <ref target="#2_filandre">II</ref>, <ref target="#3_filandre">III</ref>, <ref target="#4_filandre">IV</ref>
+                
+                <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_1/21_1_livre_4.html#109_verso">I, 4, 109 verso</ref>.  Écrit « Phillandre » dans le livre 4.
+              <p>
+                  <hi rend="italics">Caractéristiques :</hi> « Un si honneste Berger », dit <ref target="personnage_dd.html#diane">Diane</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#164_recto">I, 6, 164 recto</ref>), et qui « avoit la voix tres-bonne » (<ref target="../_roman/reference/21_1/21_1_livre_6.html#163_recto">I, 6, 163 recto</ref>). </p>
+              <p>
+                  <hi rend="italics">Remarque sur le nom :</hi> <hi rend="italic">philos</hi> + <hi rend="italic">andros</hi>. L'étymologie de ce nom est <hi rend="italics">ami des hommes</hi> (<ref target="bibliographie.html#heneinp">Henein</ref>, p. 290). </p>
+<p>
+                  <hi rend="italics">Nommé dans : </hi>
+                  <ref target="../_roman/reference/21_1/21_1_livre_4.html#histoire_d_astree_et_phillis">Histoire d'Astrée et Phillis</ref>, racontée par <ref target="personnage_aa.html#astree">Astrée</ref> ;<lb/>
+                    <ref target="../_roman/reference/21_1/21_1_livre_6.html#histoire_de_diane">Histoire de Diane</ref>, racontée par <ref target="personnage_dd.html#diane">Diane</ref>. </p>
+              <p>Berger du <ref target="repertoire_ff.html#forez">Forez</ref>. Frère jumeau de <ref target="personnage_cc.html#calliree">Callirée</ref>. Parent de <ref target="personnage_dd.html#daphnis">Daphnis</ref>.</p>
+              
+                  <p><graphic url="../images/relations/diane.gif" rend="img" mimeType="image/gif"/></p>
+                
+              
+                <p> <ref target="personnage_dd.html#diane">Diane</ref> interrompt le récit que fait <ref target="personnage_aa.html#astree">Astrée</ref> pour répéter une aventure que lui a racontée <ref target="#filandre">Filandre</ref>, parce qu'elle croit qu'il s'agissait de l'accouchement d'<ref target="personnage_no.html#olimpe">Olimpe</ref>. <ref target="#filandre">Filandre</ref> a rapporté à <ref target="personnage_dd.html#diane">Diane</ref> la description d'un accouchement secret que lui a confiée <ref target="personnage_ll.html#lucine">Lucine</ref> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#109_verso">I, 4, 109 verso</ref>). </p>
+              <p> <ref target="personnage_aa.html#astree">Astrée</ref> s'étonne de n'avoir rien su des amours de <ref target="personnage_dd.html#diane">Diane</ref> et <ref target="#filandre">Filandre</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#160_verso">I, 6, 160 verso</ref>).</p>
+              
+                  <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_6.html#histoire_de_diane">Histoire de Diane</ref>
+                  </p>
+                <p>
+                    <ref target="#filandre">Filandre</ref> et sa jumelle, <ref target="personnage_cc.html#calliree">Callirée</ref>, arrivent dans le hameau de <ref target="personnage_dd.html#diane">Diane</ref> le jour de la fête d'<ref target="repertoire_aa.html#apollon">Apollon</ref> et de sa sœur, la déesse <ref target="repertoire_dd.html#diane_m">Diane</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#160_verso">I, 6, 160 verso</ref>). Le jeune homme tombe amoureux de la bergère et fait semblant de devenir l'ami de <ref target="#filidas">Filidas</ref>, jeune fille travestie, et de son cousin, <ref target="personnage_aa.html#amidor">Amidor</ref>, pour fréquenter leur demeure.</p>
+                <p>
+                    <ref target="#filandre">Filandre</ref> accepte une suggestion de <ref target="personnage_cc.html#calliree">Callirée</ref> quand il échange de vêtements avec elle (<ref target="../_roman/reference/21_1/21_1_livre_6.html#169_recto">I, 6, 169 recto</ref>). Lorsque les jeunes gens reviennent près de <ref target="personnage_dd.html#diane">Diane</ref>, <ref target="#filidas">Filidas</ref> (qui passe pour un homme) tombe amoureuse de <ref target="personnage_cc.html#calliree">Callirée</ref> travestie. <ref target="personnage_aa.html#amidor">Amidor</ref> tombe amoureux de <ref target="#filandre">Filandre</ref> travesti.</p>
+                 <ref target="personnage_dd.html#diane">Diane</ref> explique en 1607 que « la beauté, le jugement, et la courtoisie » de <ref target="#filandre">Filandre</ref> ne démentaient pas<lb/>
+                  « les perfections d'une fille ».<lb/>
+                  En 1621, la « curiosité » remplace la « courtoisie » (<ref target="../_roman/reference/21_1/21_1_livre_6.html#171_verso">I, 6, 171 verso</ref>).
+                <p>
+                    <ref target="#filandre">Filandre</ref>, devenu la feinte <ref target="personnage_cc.html#calliree">Callirée</ref>, parle d'amour à <ref target="personnage_dd.html#diane">Diane</ref>, et <ref target="personnage_dd.html#daphnis">Daphnis</ref> l'encourage. Une nuit, alors qu'il chante dans le jardin, <ref target="personnage_dd.html#daphnis">Daphnis</ref> le surprend. Croyant qu'elle a appris son secret, <ref target="#filandre">Filandre</ref> se nomme (<ref target="../_roman/reference/21_1/21_1_livre_6.html#174_verso">I, 6, 174 verso</ref>).</p>
+                <p>Conseillé par <ref target="personnage_dd.html#daphnis">Daphnis</ref>, <ref target="#filandre">Filandre</ref> désire habituer <ref target="personnage_dd.html#diane">Diane</ref> au langage de l'amour. <ref target="personnage_dd.html#daphnis">Daphnis</ref> voudrait qu'il confesse sa ruse. Comme il craint de le faire, <ref target="personnage_dd.html#daphnis">Daphnis</ref> emmène <ref target="personnage_dd.html#diane">Diane</ref> une nuit au jardin. La jeune fille découvre l'identité de la feinte <ref target="personnage_cc.html#calliree">Callirée</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#184_recto">I, 6, 184 recto</ref>).</p>
+                <p>
+                    <ref target="personnage_dd.html#diane">Diane</ref> finit par pardonner à <ref target="#filandre">Filandre</ref>. Elle accepte même que les jeunes gens restent travestis pour donner le temps aux cheveux de <ref target="personnage_cc.html#calliree">Callirée</ref> de repousser (<ref target="../_roman/reference/21_1/21_1_livre_6.html#186_recto">I, 6, 186 recto</ref>).</p>
+                <p>
+                    <ref target="personnage_cc.html#calliree">Callirée</ref> apprend que <ref target="#filidas">Filidas</ref> est une femme  habillée en homme et le répète à ses compagnons. <ref target="personnage_dd.html#diane">Diane</ref> et <ref target="#filandre">Filandre</ref> filent le parfait amour, sans jamais exposer la situation à <ref target="#filidas">Filidas</ref> et <ref target="personnage_aa.html#amidor">Amidor</ref>. </p>
+                <p>
+                    <ref target="#filandre">Filandre</ref> et <ref target="personnage_cc.html#calliree">Callirée</ref> abandonnent leur travestissement.</p>
+                <p>
+                    <ref target="#filandre">Filandre</ref> rend souvent visite à <ref target="#filidas">Filidas</ref>. Un jour, un <ref target="personnage_cc.html#chevalier_barbare">chevalier</ref> noir essaie d'embrasser <ref target="personnage_dd.html#diane">Diane</ref> endormie (<ref target="../_roman/reference/21_1/21_1_livre_6.html#188_verso">I, 6, 188 verso</ref>). <ref target="#filidas">Filidas</ref> meurt en essayant de punir l'agresseur. <ref target="#filandre">Filandre</ref> atteint le <ref target="personnage_cc.html#chevalier_barbare">chevalier</ref> à la tête avec une pierre de sa fronde puis le transperce avec sa houlette. Le <ref target="personnage_cc.html#chevalier_barbare">chevalier</ref> meurt et blesse <ref target="#filandre">Filandre</ref>.</p>
+                <p>
+                    <ref target="#filandre">Filandre</ref> obtient le « glorieux nom de mary » avant de rendre l'âme (<ref target="../_roman/reference/21_1/21_1_livre_6.html#191_verso">I, 6, 191 verso</ref>). </p>
+              
+              <lb/>
+                <lb/>
+                
+                  <ref target="#filandre">Filandre</ref> chante ses vers (<ref target="../_roman/reference/21_1/21_1_livre_6.html#163_recto">I, 6, 163 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_6.html#165_recto">165 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_6.html#173_verso">173 verso</ref>).
+              <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/filandre.gif)">
+                Filandre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#filandre">I</ref>, <ref target="#2_filandre">II</ref>, <ref target="#3_filandre">III</ref>, <ref target="#4_filandre">IV</ref>
+              
+              <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_6.html#421">II, 6, 421</ref>. Écrit aussi <hi rend="italics">Philandre</hi> et <hi rend="italics">Phylandre.</hi>
+              <p>Berger décédé. </p>
+              
+              <p>
+                  <ref target="personnage_aa.html#2_astree">Astrée</ref> juge plus malheureuses les personnes dont les infortunes sont « au
+                veu et au sceu du public », ce qui n'est pas le cas de <ref target="personnage_dd.html#2_diane">Diane</ref> lors de son aventure avec <ref target="#2_filandre">Filandre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#421">II, 6, 421</ref>).</p>
+              <p>
+                  <ref target="personnage_dd.html#2_diane">Diane</ref> dit qu'elle a résolu de ne plus aimer  après la mort de <ref target="#2_filandre">Filandre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#424">II, 6, 424</ref>). Mais ce qu'elle éprouve pour <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> lui rappelle ce qu'elle a senti au début de ses relations avec <ref target="#2_filandre">Filandre</ref> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#425">II, 6, 425</ref>).</p>
+              <p>
+                  <ref target="personnage_pp.html#2_phillis">Phillis</ref> dit à <ref target="personnage_aa.html#2_astree">Astrée</ref> que les sentiments de <ref target="personnage_dd.html#2_diane">Diane</ref> pour <ref target="#2_filandre">Filandre</ref> prouvent que cette Bergère n'est pas insensible (<ref target="../_roman/reference/21_2/21_2_livre_8.html#534">II, 8, 534</ref>). Elle déduit « que <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> peut bien avoir la mesme  fortune que <ref target="#2_filandre">Philandre</ref> a euë » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#535">II, 8, 535</ref>). </p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/filandre.gif)">
+                Filandre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#filandre">I</ref>, <ref target="#2_filandre">II</ref>, <ref target="#3_filandre">III</ref>, <ref target="#4_filandre">IV</ref>
+              
+              <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_3/21_3_livre_1.html#7_recto">III, 1, 7 recto</ref>.
+              Écrit aussi <hi rend="italic">Philandre</hi>.
+              <p>
+                  <hi rend="italics">Caractéristique :</hi> « Un berger si parfaict », pense <ref target="personnage_dd.html#3_diane">Diane</ref> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#197_recto">III, 5, 197 recto</ref>). </p>
+              <p>
+                  <hi rend="italics">Nommé </hi>par <ref target="personnage_dd.html#3_diane">Diane</ref>, <ref target="personnage_pp.html#3_paris">Paris</ref> et le romancier.</p>
+              
+              <p> <ref target="personnage_dd.html#3_diane">Diane</ref>, attirée par <ref target="personnage_ss.html#3_silvandre">Silvandre</ref>, sait qu'elle n'a jamais éprouvé ce genre de sentiment depuis la mort de Filandre (<ref target="../_roman/reference/21_3/21_3_livre_1.html#7_recto">III, 1, 7 recto</ref>).<lb/>
+                <lb/>
+                Quand il voit <ref target="personnage_dd.html#3_damon_a">Damon d'Aquitaine</ref> à <ref target="repertoire_bb.html#3_bonlieu">Bonlieu</ref>, <ref target="personnage_pp.html#3_paris">Paris</ref> se souvient de la mort de Filandre et de <ref target="#3_filidas">Filidas</ref> tués par le <ref target="personnage_cc.html#chevalier_barbare">Chevalier barbare</ref> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref>).<lb/>
+                <lb/>
+                Depuis la mort de Filandre, écrit le romancier, <ref target="personnage_dd.html#3_diane">Diane</ref> ne veut pas aimer (<ref target="../_roman/reference/21_3/21_3_livre_5.html#187_recto">III, 5, 187 recto</ref>). Elle croit que c'est pour cela qu'elle n'a pas d'affection pour <ref target="personnage_pp.html#3_paris">Paris</ref> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#197_verso">III, 5, 197 verso</ref>).<lb/>
+                <lb/>
+                <ref target="personnage_dd.html#3_diane">Diane</ref> commence à donner à <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> la place qu'avait Filandre (<ref target="../_roman/reference/21_3/21_3_livre_11.html#480_recto">III, 11, 480 recto</ref>).<lb/>
+                <lb/>
+                <ref target="personnage_dd.html#3_diane">Diane</ref> explique à ses compagnes que la recherche de <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> l'a touchée et qu'elle s'en inquiète parce qu'elle ne sait pas aimer peu, comme son aventure avec Filandre l'a montré (<ref target="../_roman/reference/21_3/21_3_livre_11.html#480_recto">III, 11, 480 recto</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/filandre.gif)">
+                Filandre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#filandre">I</ref>, <ref target="#2_filandre">II</ref>, <ref target="#3_filandre">III</ref>, <ref target="#4_filandre">IV</ref>
+              
+              <hi rend="italic">Première mention</hi> : <ref target="../_roman/reference/24_4/24_4_livre_3.html#407">IV, 3, 407</ref>.  Écrit aussi <hi rend="italic">Philandre</hi>.<lb/>
+              <lb/>
+              <hi rend="italic">Caractéristique</hi> : Toujours comparé à <ref target="personnage_cc.html#4_celadon">Céladon</ref>.<lb/>
+              <lb/>
+              Nommé par <ref target="personnage_aa.html#4_astree">Astrée</ref>, <ref target="personnage_dd.html#4_diane">Diane</ref> et <ref target="personnage_pp.html#4_phillis">Phillis</ref>. <lb/>
+  
+              Lorsque <ref target="personnage_dd.html#4_diane">Diane</ref>, influencée par <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, se plaint de tous les hommes, elle rappelle qu'<ref target="personnage_aa.html#4_astree">Astrée</ref> a eu sujet de se plaindre de <ref target="personnage_cc.html#4_celadon">Céladon</ref>. <ref target="personnage_aa.html#4_astree">Astrée</ref> réplique qu'elle ne se plaint pas plus de <ref target="personnage_cc.html#4_celadon">Céladon</ref> que <ref target="personnage_dd.html#4_diane">Diane</ref> de   Filandre (<ref target="../_roman/reference/24_4/24_4_livre_3.html#406">IV, 3, 406</ref>). <ref target="personnage_dd.html#4_diane">Diane</ref> souligne  que Filandre est mort jeune et qu'il n'était pas trompeur.<lb/>
+              <lb/>
+<p>La mémoire embellit ou pardonne ?</p>
+                <lb/>
+                <ref target="personnage_aa.html#4_alexis">Alexis</ref> aurait voulu que la conversation continue pour apprendre ce que <ref target="personnage_dd.html#4_diane">Diane</ref> pense du berger décédé. La généreuse <ref target="personnage_pp.html#4_phillis">Phillis</ref> intervient pour que <ref target="personnage_dd.html#4_diane">Diane</ref> ne soit pas obligée de révéler ses sentiments. <ref target="personnage_dd.html#4_diane">Diane</ref>, dit-elle, ne regrette que l'infortune de Filandre (<ref target="../_roman/reference/24_4/24_4_livre_3.html#409">IV, 3, 409</ref>).<lb/>
+  <lb/>
+  <ref target="personnage_pp.html#4_phocion">Phocion</ref>, apprenant l'agression dont <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> a été victime, rappelle Filandre et l'aventure de <ref target="personnage_dd.html#4_diane">Diane</ref> attaquée par un étranger (<ref target="../_roman/reference/24_4/24_4_livre_3.html#438">IV, 3, 438</ref>). Le jour de la mort de ce berger est inoubliable, dit <ref target="personnage_dd.html#4_diane">Diane</ref>. <ref target="personnage_aa.html#4_astree">Astrée</ref> rétorque que, pour elle, c'est le jour de la mort de <ref target="personnage_cc.html#4_celadon">Céladon</ref> qui est inoubliable (<ref target="../_roman/reference/24_4/24_4_livre_3.html#439">IV, 3, 439</ref>).<lb/>
+  <lb/>
+  <ref target="personnage_dd.html#4_diane">Diane</ref> conseille à <ref target="personnage_aa.html#4_astree">Astrée</ref> de ne pas jurer qu'aucun homme n'est  entré dans sa chambre. Elle-même l'aurait fait, mais elle aurait eu tort puisque Filandre  travesti y avait eu accès (<ref target="../_roman/reference/24_4/24_4_livre_3.html#581">IV, 3, 581</ref>). <ref target="personnage_aa.html#4_astree">Astrée</ref> remarque que  seule <ref target="personnage_dd.html#4_diane">Diane</ref> a mérité de recevoir un berger dans sa chambre, et que seul Filandre a osé le faire.<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/filidas.gif)">
+                Filidas</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Présente dans :</hi> <ref target="#filidas">I</ref>, <ref target="#2_filidas">II</ref>, <ref target="#3_filidas">III</ref>, <ref target="#4_filidas">IV</ref>
+              
+              <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_1/21_1_livre_6.html#159_recto">I, 6, 159 recto</ref>.
+              <p>
+                  <hi rend="italics">Caractéristique :</hi> « L'humeur de <ref target="#filidas">Filidas</ref> m'estoit de sorte insupportable, que je ne pouvois presque la souffrir », dit <ref target="personnage_dd.html#diane">Diane</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#160_recto">I, 6, 160 recto</ref>). </p>
+              <p>
+                  <hi rend="italics">Remarque sur le nom</hi> : L'étymologie de ce nom est <hi rend="italics">la forme d'un fils</hi> (<ref target="bibliographie.html#heneinp">Henein</ref>, p. 280). </p>
+              Les femmes travesties portent souvent des  noms menteurs. <ref target="#filidas">Filidas</ref> n'est pas <hi rend="italic">filius</hi>, <ref target="personnage_mm.html#melandre">Mélandre</ref> n'est pas <hi rend="italic">andros,</hi>
+                  <hi rend="italic"> </hi> <ref target="personnage_cc.html#3_criseide">Criséide</ref> n'est pas la <hi rend="italic">Criséide</hi> du <hi rend="italic">Roman de Troie</hi>, <ref target="personnage_cc.html#calliree">Callirée</ref> n'est pas Callirhoé, une jeune fille métamorphosée en fontaine parce qu'elle  a préféré mourir que se marier (<ref target="bibliographie.html#heneinp">Henein</ref>, p. 306).
+              <p>
+                  <hi rend="italics">Nommée dans : </hi>
+                  <ref target="../_roman/reference/21_1/21_1_livre_6.html#histoire_de_diane">Histoire de Diane</ref>, racontée par <ref target="personnage_dd.html#diane">Diane</ref> ; <lb/>
+                <ref target="../_roman/reference/21_1/21_1_livre_10.html#histoire_de_celion_et_bellinde">Histoire de Celion et Bellinde</ref>, racontée par <ref target="personnage_cc.html#celadon">Céladon</ref>. </p>
+              <p>Bergère habillée en homme depuis son enfance. Fille de <ref target="personnage_pp.html#phormion">Phormion</ref>. Cousine d'<ref target="personnage_aa.html#amidor">Amidor</ref>.</p>
+              
+                  <p><graphic url="../images/relations/filidas.gif" rend="img" mimeType="image/gif"/></p>
+                
+              
+              <p>
+                  <ref target="personnage_dd.html#diane">Diane</ref> raconte à <ref target="personnage_aa.html#astree">Astrée</ref> et <ref target="personnage_pp.html#phillis">Phillis</ref> : </p>
+              
+                <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_6.html#histoire_de_diane">Histoire de Diane</ref>
+                  </p>
+                <p>
+                    <ref target="personnage_pp.html#phormion">Phormion</ref> élève sa fille comme un garçon pour la faire passer pour le futur mari de <ref target="personnage_dd.html#diane">Diane</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#159_recto">I, 6, 159 recto</ref>). Quand son père meurt, <ref target="#filidas">Filidas</ref> décide de conserver ce travestissement qu'elle trouve pratique (<ref target="../_roman/reference/21_1/21_1_livre_6.html#160_recto">I, 6, 160 recto</ref>).</p>
+                <p>Une des prérogatives du maître : <ref target="personnage_dd.html#diane">Diane</ref> et ses compagnes se lèvent lorsque <ref target="#filidas">Filidas</ref> entre dans la pièce (<ref target="../_roman/reference/21_1/21_1_livre_6.html#180_verso">I, 6, 180 verso</ref>).</p>
+                <p>
+                    <ref target="#filandre">Filandre</ref> tombe amoureux de <ref target="personnage_dd.html#diane">Diane</ref>. <ref target="personnage_cc.html#calliree">Callirée</ref>, sa sœur jumelle, propose d'échanger de vêtements pour qu'ils puissent tous les deux séjourner près de <ref target="personnage_dd.html#diane">Diane</ref>, chez <ref target="#filidas">Filidas</ref>. Quand les jeunes gens reviennent près de <ref target="personnage_dd.html#diane">Diane</ref>, <ref target="#filidas">Filidas</ref> tombe amoureuse de <ref target="personnage_cc.html#calliree">Callirée</ref> travestie (<ref target="../_roman/reference/21_1/21_1_livre_6.html#170_recto">I, 6, 170 recto</ref>). </p>
+                <p>Les déclarations de <ref target="#filidas">Filidas</ref> scandalisent <ref target="personnage_cc.html#calliree">Callirée</ref>. <ref target="#filidas">Filidas</ref> lui révèle son travestissement (<ref target="../_roman/reference/21_1/21_1_livre_6.html#187_recto">I, 6, 187 recto</ref>). </p>
+                <p>Même lorsque <ref target="personnage_cc.html#calliree">Callirée</ref> et <ref target="#filandre">Filandre</ref> abandonnent leurs costumes d'emprunt, <ref target="#filidas">Filidas</ref> garde le sien. </p>
+                <p>Un jour, un <ref target="personnage_cc.html#chevalier_barbare">chevalier</ref> noir essaie d'embrasser <ref target="personnage_dd.html#diane">Diane</ref> endormie. <ref target="#filidas">Filidas</ref> veut la défendre. Elle meurt amputée d'un bras en essayant de punir l'agresseur (<ref target="../_roman/reference/21_1/21_1_livre_6.html#189_verso">I, 6, 189 verso</ref>). </p>
+              
+              <p>À <ref target="repertoire_ik.html#isoure">Isoure</ref>, <ref target="personnage_cc.html#celadon">Céladon</ref> raconte à <ref target="personnage_ss.html#silvie">Silvie</ref> :</p>
+              
+                <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_10.html#histoire_de_celion_et_bellinde">Histoire de Celion et Bellinde</ref>
+                  </p>
+                <p> Le père de <ref target="#filidas">Filidas</ref> a trompé <ref target="personnage_dd.html#diane">Diane</ref> et sa mère (<ref target="../_roman/reference/21_1/21_1_livre_10.html#323_verso">I, 10, 323 verso</ref>). </p>
+              
+              <lb/>
+              <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/filidas.gif)">
+                Filidas</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#filidas">I</ref>, <ref target="#2_filidas">II</ref>, <ref target="#3_filidas">III</ref>, <ref target="#4_filidas">IV</ref>
+              
+              <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_6.html#424">II, 6, 424</ref>.
+              Écrit aussi <hi rend="italics">Philidas</hi> et <hi rend="italics">Phyllidas</hi>.
+              <p>Bergère décédée.</p>
+              
+              <p>
+                  <ref target="personnage_dd.html#2_diane">Diane</ref> affirme qu'elle aurait épousé <ref target="#2_filandre">Filandre</ref> s'il avait survécu à <ref target="#2_filidas">Filidas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#424">II, 6, 424</ref>).</p>
+              <p>La bergère dit aussi qu'<ref target="personnage_aa.html#2_amidor">Amidor</ref> cherchait à l'épouser avec le consentement de son  cousin, <ref target="#2_filidas">Filidas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#424">II, 6, 424</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/filidas.gif)">
+                Filidas</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#filidas">I</ref>, <ref target="#2_filidas">II</ref>, <ref target="#3_filidas">III</ref>, <ref target="#4_filidas">IV</ref>
+              
+              <hi rend="italics">Première mention :</hi> <ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref>.
+              Écrit aussi <hi rend="italic">Philidas</hi>.
+              <p>
+                  <hi rend="italics">Nommée </hi> par <ref target="personnage_pp.html#3_paris">Paris</ref> et le romancier</p>
+              
+              <p>Quand il voit <ref target="personnage_dd.html#3_damon_a">Damon d'Aquitaine</ref> à <ref target="repertoire_bb.html#3_bonlieu">Bonlieu</ref>, <ref target="personnage_pp.html#3_paris">Paris</ref> se souvient de la mort de <ref target="#3_filandre">Filandre</ref> et de Filidas tués par le <ref target="personnage_cc.html#chevalier_barbare">Chevalier barbare</ref> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref>).<lb/>
+                <lb/>
+                Le neveu de Filidas, <ref target="personnage_aa.html#3_amintor_2">Amintor</ref>, vient assister au sacrifice d'action de grâce
+                (<ref target="../_roman/reference/21_3/21_3_livre_9.html#370_verso">III, 9, 370 verso</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/filidas.gif)">
+                Filidas</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#filidas">I</ref>, <ref target="#2_filidas">II</ref>, <ref target="#3_filidas">III</ref>, <ref target="#4_filidas">IV</ref>
+              
+              <hi rend="italic">Première mention</hi> : <ref target="../_roman/reference/24_4/24_4_livre_3.html#438">IV, 3, 438</ref>. Écrit <hi rend="italic">Phillidas</hi>.<lb/>
+              <lb/>
+              Nommée par <ref target="personnage_dd.html#4_diane">Diane</ref> et <ref target="personnage_aa.html#4_astree">Astrée</ref>.<lb/>
+  
+  <ref target="personnage_dd.html#4_diane">Diane</ref> déclare que depuis le jour de la mort de <ref target="#4_filandre">Filandre</ref> et de Filidas elle n'est pas heureuse (<ref target="../_roman/reference/24_4/24_4_livre_3.html#438">IV, 3, 438</ref>). <ref target="personnage_aa.html#4_astree">Astrée</ref> déduit que chacun se souvient de la mort dont il est responsable.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/fleurial.gif)">
+                Fleurial</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Présent dans :</hi> <ref target="#fleurial">I</ref>, <ref target="#2_fleurial">II</ref>
+              
+              <hi rend="italics">Première mention :</hi> <ref target="../_roman/reference/21_1/21_1_livre_9.html#277_verso">I, 9, 277 verso</ref>. Écrit aussi <hi rend="italic">Florial</hi>.
+              <p>
+                  <hi rend="italics">Caractéristique :</hi> « Il n'a guere plus d'esprit que ce qu'en peut tenir son jardin », dit <ref target="personnage_ll.html#leonide">Léonide</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#281_verso">I, 9, 281 verso</ref>).</p>
+              <p>
+                  <hi rend="italics">Remarque sur le nom</hi> : Dérivé de <hi rend="italics">fleur</hi>. </p>
+              <p>Jardinier, il s'occupe des jardins de <ref target="repertoire_mm.html#montbrison">Montbrison</ref>.</p>
+              
+               Le jardinier était le neveu de la nourrice de <ref target="personnage_gg.html#galathee">Galathée</ref> en 1607. D'Urfé (prudemment ?) le vieillit considérablement ensuite : <ref target="#fleurial">Fleurial</ref> devient « nepveu de la nourrice d'<ref target="personnage_aa.html#amasis">Amasis</ref>, et frere de » celle de <ref target="personnage_gg.html#galathee">Galathée</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#277_verso">I, 9, 277 verso</ref>).
+              <p>En revenant à <ref target="repertoire_ik.html#isoure">Isoure</ref> avec <ref target="personnage_aa.html#adamas">Adamas</ref>, <ref target="personnage_ll.html#leonide">Léonide</ref> raconte l'<ref target="../_roman/reference/21_1/21_1_livre_9.html#histoire_de_galathee_et_lindamor">Histoire de Galathée et Lindamor</ref> et révèle au druide que <ref target="#fleurial">Fleurial</ref> sert de messager à la nymphe et au chevalier.</p>
+              
+                <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_9.html#histoire_de_galathee_et_lindamor">Histoire de Galathée et Lindamor</ref>
+                  </p>
+                <p>
+                    <ref target="personnage_ll.html#leonide">Léonide</ref> explique que le père de <ref target="#fleurial">Fleurial</ref> était déjà jardinier à <ref target="repertoire_mm.html#montbrison">Montbrison</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#277_verso">I, 9, 277 verso</ref>). <ref target="#fleurial">Fleurial</ref> aime <ref target="personnage_gg.html#galathee">Galathée</ref> parce qu'il l'a prise dans ses bras quand elle était petite et lui a donné les fleurs qu'elle désirait. Par ailleurs, comme <ref target="#fleurial">Fleurial</ref> aime l'argent, « tous vieillards estants avares » (<ref target="../_roman/reference/21_1/21_1_livre_9.html#277_verso">I, 9, 277 verso</ref>), il accepte de rendre service à la nymphe. Il sait qu'il doit choisir de déplaire soit à <ref target="personnage_gg.html#galathee">Galathée</ref>, soit à <ref target="personnage_aa.html#amasis">Amasis</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#278_verso">I, 9, 278 verso</ref>). </p>
+                 En 1607, <ref target="personnage_ll.html#lindamor">Lindamor</ref> « dit : - <ref target="#fleurial">Fleurial</ref>, puis-je faire quelque chose pour toy ? »<lb/>
+                  Le chevalier devient plus distant en 1621 : « Il demanda s'il avoit quelque affaire à luy » <lb/>
+                  (<ref target="../_roman/reference/21_1/21_1_livre_9.html#278_verso">I, 9, 278 verso</ref>).
+                <p>
+                    <ref target="#fleurial">Fleurial</ref> remet à <ref target="personnage_gg.html#galathee">Galathée</ref> les lettres de <ref target="personnage_ll.html#lindamor">Lindamor</ref>, prétendant qu'il s'agit de requêtes à présenter à <ref target="personnage_aa.html#amasis">Amasis</ref>. Il joue si bien son rôle, dit <ref target="personnage_ll.html#leonide">Léonide</ref>, que « si <ref target="personnage_gg.html#galathee">Galathee</ref> ne me l'eust dit, jamais je n'y eusse pris garde » (<ref target="../_roman/reference/21_1/21_1_livre_9.html#280_verso">I, 9, 280 verso</ref>). </p>
+                <p>Un jour, offensée par ce que <ref target="personnage_pp.html#polemas">Polémas</ref> dit de <ref target="personnage_ll.html#lindamor">Lindamor</ref>, <ref target="personnage_gg.html#galathee">Galathée</ref> voudrait refuser une lettre que lui remet <ref target="#fleurial">Fleurial</ref>. </p>
+                 En 1607, <ref target="personnage_ll.html#leonide">Léonide</ref> s'étonne en disant : « J'ay veu autrefois que vous estiez si aise d'en recevoir ».<lb/>
+                  Elle s'étonne en 1621 pour une raison différente : « Depuis quand, Madame, vous en donne-t'il ? »<lb/>
+                  (<ref target="../_roman/reference/21_1/21_1_livre_9.html#281_recto">I, 9, 281 recto</ref>) 
+                <p>
+                    <ref target="personnage_ll.html#leonide">Léonide</ref> ajoute que pour éviter d'éveiller les soupçons de <ref target="#fleurial">Fleurial</ref>, <ref target="personnage_gg.html#galathee">Galathée</ref> devrait répondre au chevalier. La nymphe donne donc une feuille blanche au jardinier.</p>
+                <p> <ref target="personnage_ll.html#leonide">Léonide</ref>, pour soutenir la cause de <ref target="personnage_ll.html#lindamor">Lindamor</ref>, laisse <ref target="#fleurial">Fleurial</ref> entrer dans la chambre de <ref target="personnage_gg.html#galathee">Galathée</ref> avec une missive du chevalier (<ref target="../_roman/reference/21_1/21_1_livre_9.html#282_verso">I, 9, 282 verso</ref>). Elle confie à <ref target="#fleurial">Fleurial</ref> une lettre qu'elle a écrite elle-même à <ref target="personnage_ll.html#lindamor">Lindamor</ref> lui expliquant que <ref target="personnage_pp.html#polemas">Polémas</ref> a médit de lui. </p>
+                <p> <ref target="personnage_ll.html#lindamor">Lindamor</ref> se bat incognito contre <ref target="personnage_pp.html#polemas">Polémas</ref> et l'oblige à confesser ses mensonges. Pour soigner ses blessures, <ref target="personnage_ll.html#lindamor">Lindamor</ref> s'installe chez une des tantes de <ref target="#fleurial">Fleurial</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#288_verso">I, 9, 288 verso</ref>). La tante et la sœur du jardinier ne le connaissent qu'en tant que Chevalier inconnu (<ref target="../_roman/reference/21_1/21_1_livre_9.html#291_recto">I, 9, 291 recto</ref>). </p>
+                <p>Comme <ref target="personnage_gg.html#galathee">Galathée</ref> ne veut toujours pas écrire à <ref target="personnage_ll.html#lindamor">Lindamor</ref>, <ref target="personnage_ll.html#leonide">Léonide</ref> décide de lui faire croire que le chevalier est mort. Cette ruse aurait été impossible sans la complicité de <ref target="#fleurial">Fleurial</ref>. </p>
+                <p>D'abord <ref target="personnage_ll.html#leonide">Léonide</ref> s'entend avec le jardinier pour qu'il demande la permission d'aller chez une de ses tantes qui serait malade (<ref target="../_roman/reference/21_1/21_1_livre_9.html#291_recto">I, 9, 291 recto</ref>). Ensuite, quand <ref target="#fleurial">Fleurial</ref> revient, la nymphe a une longue conversation avec lui et fait des gestes pour montrer qu'elle est triste (<ref target="../_roman/reference/21_1/21_1_livre_9.html#291_verso">I, 9, 291 verso</ref>). Deux jours après, <ref target="personnage_gg.html#galathee">Galathée</ref>, intriguée par la conduite de sa compagne, lui pose des questions. <ref target="personnage_ll.html#leonide">Léonide</ref> dit d'abord que la tante de <ref target="#fleurial">Fleurial</ref> est décédée, et ensuite que <ref target="personnage_ll.html#lindamor">Lindamor</ref> est mort. Il aurait chargé le jardinier d'offrir son cœur à <ref target="personnage_gg.html#galathee">Galathée</ref>. « Ce fol de <ref target="#fleurial">Fleurial</ref> », conclut <ref target="personnage_ll.html#leonide">Léonide</ref>, a apporté le cœur (<ref target="../_roman/reference/21_1/21_1_livre_9.html#294_recto">I, 9, 294 recto</ref>). </p>
+                <p>
+                    <ref target="personnage_ll.html#leonide">Léonide</ref> écrit à <ref target="personnage_ll.html#lindamor">Lindamor</ref> pour lui demander de venir la voir dès qu'il sera remis. Elle lui rapporte ce qu'elle a dit à <ref target="personnage_gg.html#galathee">Galathée</ref>. Le chevalier aussitôt se déguise en jardinier et se rend à <ref target="repertoire_mm.html#montbrison">Montbrison</ref> avec <ref target="#fleurial">Fleurial</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#296_recto">I, 9, 296 recto</ref>).</p>
+                <p>
+                    <ref target="#fleurial">Fleurial</ref> présente le nouveau jardinier comme son cousin. <ref target="personnage_gg.html#galathee">Galathée</ref> lui parle et se moque de son jargon. <ref target="#fleurial">Fleurial</ref> défend le jeune homme (<ref target="../_roman/reference/21_1/21_1_livre_9.html#297_recto">I, 9, 297 recto</ref>). </p>
+                <p>Le jardinier dit à <ref target="personnage_ll.html#leonide">Léonide</ref> qu'il a une lettre à remettre à <ref target="personnage_gg.html#galathee">Galathée</ref> en mains propres pour obéir à <ref target="personnage_ll.html#lindamor">Lindamor</ref>. <ref target="personnage_ll.html#leonide">Léonide</ref> insiste pour prendre cette lettre, le jardinier refuse.</p>
+                <p>
+                    <ref target="personnage_ll.html#leonide">Léonide</ref> explique à <ref target="personnage_gg.html#galathee">Galathée</ref> que <ref target="#fleurial">Fleurial</ref> tient à la voir. Mais au lieu de lui dire que le jardinier veut lui remettre une lettre, elle prétend qu'il veut remettre le cœur du chevalier (<ref target="../_roman/reference/21_1/21_1_livre_9.html#297_verso">I, 9, 297 verso</ref>).</p>
+                <p>
+                    <ref target="personnage_gg.html#galathee">Galathée</ref> voudrait que <ref target="#fleurial">Fleurial</ref> mette le cœur dans un panier de fruits qu'il confierait à <ref target="personnage_ll.html#leonide">Léonide</ref>. <ref target="#fleurial">Fleurial</ref>, inébranlable, refuse. Finalement, <ref target="personnage_gg.html#galathee">Galathée</ref> accepte de recevoir le cœur de nuit, dans le jardin. <ref target="personnage_ll.html#lindamor">Lindamor</ref> lui offre un cœur vivant (<ref target="../_roman/reference/21_1/21_1_livre_9.html#299_verso">I, 9, 299 verso</ref>). Les jeunes gens se réconcilient. </p>
+              
+              <p>La tromperie de <ref target="personnage_cc.html#climanthe">Climanthe</ref> sépare de nouveau <ref target="personnage_gg.html#galathee">Galathée</ref> de <ref target="personnage_ll.html#lindamor">Lindamor</ref>. Le chevalier se trouve dans les armées de <ref target="personnage_mm.html#merovee">Mérovée</ref> ; la nymphe se trouve à <ref target="repertoire_ik.html#isoure">Isoure</ref> où elle a recueilli <ref target="personnage_cc.html#celadon">Céladon</ref>. <ref target="#fleurial">Fleurial</ref> survient (<ref target="../_roman/reference/21_1/21_1_livre_10.html#320_recto">I, 10, 320 recto</ref>). Il ne faut pas qu'il voie le berger. </p>
+              <p>
+                  <ref target="personnage_ll.html#leonide">Léonide</ref> reçoit le jardinier qui lui donne des nouvelles apportées par un envoyé de <ref target="personnage_ll.html#lindamor">Lindamor</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#351_verso">I, 11, 351 verso</ref>). Il a une lettre pour <ref target="personnage_gg.html#galathee">Galathée</ref>. </p>
+              <p>Comme <ref target="personnage_gg.html#galathee">Galathée</ref> ne veut pas répondre à cette lettre, <ref target="personnage_ll.html#leonide">Léonide</ref> écrit au chevalier de revenir en <ref target="repertoire_ff.html#forez">Forez</ref> le plus vite possible. Elle confie à <ref target="#fleurial">Fleurial</ref> que <ref target="personnage_ll.html#lindamor">Lindamor</ref> devra se rendre chez <ref target="personnage_aa.html#adamas">Adamas</ref> où il « sçaura la plus remarquable trahison d'<ref target="repertoire_aa.html#amour">Amour</ref> qui ait jamais esté inventée, mais qu'il vienne sans qu'on le sçache, s'il est possible » (<ref target="../_roman/reference/21_1/21_1_livre_11.html#367_recto">I, 11, 367 recto</ref>). </p>
+              <p>
+                  <ref target="#fleurial">Fleurial</ref> va se rendre lui-même auprès de <ref target="personnage_ll.html#lindamor">Lindamor</ref> au lieu de compter sur le jeune homme que le chevalier avait envoyé.<lb/>
+                <lb/>
+                <lb/>
+              </p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/fleurial.gif)">
+                Fleurial</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#fleurial">I</ref>, <ref target="#2_fleurial">II</ref>
+              
+              <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_10.html#651">II, 10, 651</ref>.
+              <p>
+                  <hi rend="italics">Caractéristique :</hi> Il est « d'assez peu d'esprit » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#660">II, 10, 660</ref>), dit <ref target="personnage_ss.html#2_silvie">Silvie</ref>. </p>
+              <p>Jardinier et messager <ref target="repertoire_ff.html#2_foreziens">forézien</ref>. </p>
+              
+              <p>
+                  <ref target="personnage_ss.html#2_silvie">Silvie</ref> apprend à <ref target="personnage_ll.html#2_leonide">Léonide</ref> que <ref target="#2_fleurial">Fleurial</ref> est revenu à <ref target="repertoire_mm.html#2_marcilly">Marcilly</ref> en son absence. Il a remis à <ref target="personnage_gg.html#2_galathee">Galathée</ref> les lettres de <ref target="personnage_ll.html#2_lindamor">Lindamor</ref>. Il  lui a aussi révélé qu'il était parti à la requête de <ref target="personnage_ll.html#2_leonide">Léonide</ref> lorsque les nymphes séjournaient à <ref target="repertoire_ik.html#2_isoure">Isoure</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#651">II, 10, 651</ref>).</p>
+              <p>
+                  <ref target="personnage_ss.html#2_silvie">Silvie</ref> a suggéré à <ref target="personnage_gg.html#2_galathee">Galathée</ref> d'interroger <ref target="#2_fleurial">Fleurial</ref>. Elle a d'abord recommandé au jardinier de ne pas dire la
+                date du retour de <ref target="personnage_ll.html#2_lindamor">Lindamor</ref> et le lieu où devait se rendre le chevalier (<ref target="../_roman/reference/21_2/21_2_livre_10.html#660">II, 10, 660</ref>). </p>
+              <p>
+                  <ref target="personnage_gg.html#2_galathee">Galathée</ref> a ordonné à <ref target="personnage_ss.html#2_silvie">Silvie</ref> d'aller voir <ref target="personnage_ll.html#2_leonide">Léonide</ref> chez <ref target="personnage_aa.html#2_adamas">Adamas</ref> et de lui demander d'apprendre au chevalier la ruse de <ref target="personnage_pp.html#2_polemas">Polémas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#661">II, 10, 661</ref>). <ref target="personnage_ss.html#2_silvie">Silvie</ref> a amené <ref target="#2_fleurial">Fleurial</ref> avec elle.</p>
+              <p> Le jardinier, craignant les reproches de <ref target="personnage_ll.html#2_leonide">Léonide</ref>, commence par assurer qu'il n'a jamais voulu trahir <ref target="personnage_ll.html#2_lindamor">Lindamor</ref>. Il raconte ensuite  ce qu'il a vu et entendu à <ref target="repertoire_pp.html#2_paris_ville">Paris</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#662">II, 10, 662</ref>).</p>
+              <p>Il a remis au chevalier la lettre de <ref target="personnage_ll.html#2_leonide">Léonide</ref>.</p>
+              La nymphe l'interrompt pour réciter ce qu'elle avait écrit (<ref target="../_roman/reference/21_2/21_2_livre_10.html#663">II, 10, 663</ref>).
+              <p>
+                  <ref target="#2_fleurial">Fleurial</ref> reprend la parole : L'écuyer de <ref target="personnage_ll.html#2_lindamor">Lindamor</ref> lui a expliqué que le chevalier a été blessé lors des combats des <ref target="repertoire_ff.html#2_francs">Francs</ref> contre les <ref target="repertoire_no.html#neustriens">Neustriens</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#664">II, 10, 664</ref>). <ref target="#2_fleurial">Fleurial</ref> résume en une dizaine de lignes les aventures de <ref target="personnage_mm.html#2_melandre">Mélandre</ref> ; il a oublié les noms des  protagonistes. « Ce discours embroüillé de <ref target="#2_fleurial">Fleurial</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#666">II, 10, 666</ref>) fait rire les nymphes. <ref target="personnage_ll.html#2_leonide">Léonide</ref> le corrige.</p>
+              <p>
+                  <ref target="#2_fleurial">Fleurial</ref> a dû passer quelque temps à <ref target="repertoire_pp.html#2_paris_ville">Paris</ref>, bien que <ref target="personnage_ll.html#2_lindamor">Lindamor</ref> lui ait commandé à leur première rencontre de partir le lendemain (<ref target="../_roman/reference/21_2/21_2_livre_10.html#667">II, 10, 667</ref>). Le jardinier rapporte en effet que les blessures ont tenu <ref target="personnage_ll.html#2_lindamor">Lindamor</ref> au lit pendant un mois. Le chevalier lui a remis des lettres et lui a annoncé qu'il serait chez <ref target="personnage_aa.html#2_adamas">Adamas</ref> « dans le dixiesme de la lune suivante » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#667">II, 10, 667</ref>).</p>
+              <p>
+                  <ref target="#2_fleurial">Fleurial</ref> termine son discours en disant qu'il a oublié « les belles paroles » qu'il devait répéter (<ref target="../_roman/reference/21_2/21_2_livre_10.html#668">II, 10, 668</ref>).</p>
+              
+                  <ref target="#2_fleurial">Fleurial</ref> semble infiniment plus attaché à <ref target="personnage_ll.html#2_lindamor">Lindamor</ref> qu'à <ref target="personnage_gg.html#2_galathee">Galathée</ref> ou <ref target="personnage_ll.html#2_leonide">Léonide</ref>. Il déclare :<lb/>
+                J'ai  « voüé tant de service  à <ref target="personnage_ll.html#2_lindamor">Lindamor</ref>, que
+                s'il recognoit  en moy quelque faute d'esprit, je
+                sçay bien pour le moins qu'il n'en trouvera jamais
+                de fidelité, ny d'affection » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#662">II, 10, 662</ref>)
+              <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/florette.gif)">
+                Florette</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_florette">II</ref>
+              
+              <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_1.html#25">II, 1, 25</ref>.
+              <p>
+                  <hi rend="italics">Caractéristique :</hi> « Chere brebis qui se meurt » (<ref target="../_roman/reference/21_2/21_2_livre_1.html#25">II, 1, 25</ref>), dit <ref target="personnage_pp.html#2_phillis">Phillis</ref>. </p>
+              <p>Brebis de <ref target="personnage_dd.html#2_diane">Diane</ref>.</p>
+              
+              <p>Quand <ref target="#2_florette">Florette</ref> souffre d'une insolation, <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> l'examine (<ref target="../_roman/reference/21_2/21_2_livre_1.html#27">II, 1, 27</ref>). Il la soigne avec le jus d'une herbe qu'il lui met dans les oreilles (<ref target="../_roman/reference/21_2/21_2_livre_1.html#28">II, 1, 28</ref>). Il s'agit d'une plante<hi rend="cache"> </hi>
+                  <ref target="note_2.html#2_maladie_brebis">η</ref> appelée Orval,
+
+                la Toute bonne, ou  Scarlee (<ref target="../_roman/reference/21_2/21_2_livre_1.html#29">II, 1, 29</ref>). </p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/floriante.gif)">
+                Floriante</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Présente dans :</hi> <ref target="#floriante">I</ref>, <ref target="#3_floriante">III</ref>
+              
+              <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_1/21_1_livre_8.html#255_recto">I, 8, 255 recto</ref>.
+              <p>
+                  <hi rend="italics">Caractéristique :</hi> « Elle se découvroit comme je croy à dessein, pour faire voir sa <ref target="glossaire_cc.html#charnure">charnure</ref> blanche », dit <ref target="personnage_hh.html#hylas">Hylas</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#254_verso">I, 8, 254 verso</ref>). </p>
+              <p>
+                  <hi rend="italics">Nommée dans : </hi>
+                  <ref target="../_roman/reference/21_1/21_1_livre_8.html#histoire_de_hylas">Histoire de Hylas</ref>, racontée par <ref target="personnage_hh.html#hylas">Hylas</ref>.</p>
+              <p>Fille d'un chevalier.</p>
+              
+                  <p><graphic url="../images/relations/hylas.gif" rend="img" mimeType="image/gif"/></p>
+                
+              
+              
+                <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_8.html#histoire_de_hylas">Histoire de Hylas</ref>
+                  </p>
+                <p>Fille « d'un tres-honneste Chevalier » des rives de l'<ref target="repertoire_aa.html#arar">Arar</ref>, (<ref target="../_roman/reference/21_1/21_1_livre_8.html#255_recto">I, 8, 255 recto</ref>), elle séjourne chez une sœur, en <ref target="repertoire_aa.html#arles">Arles</ref>. Elle rencontre <ref target="personnage_hh.html#hylas">Hylas</ref> sur le bateau qui la ramène près de son père malade.</p>
+                <p>Lors d'une escale dans une île près d'<ref target="repertoire_aa.html#avignon">Avignon</ref>, <ref target="#floriante">Floriante</ref> taquine <ref target="personnage_hh.html#hylas">Hylas</ref> en lui mettant la main devant les yeux. Le jeune homme la poursuit et lui donne une fessée (<ref target="../_roman/reference/21_1/21_1_livre_8.html#254_verso">I, 8, 254 verso</ref>). Ce qu'il découvre lui plaît. Bien que <ref target="#floriante">Floriante</ref> ait le visage brun, ses « affetteries » (<ref target="../_roman/reference/21_1/21_1_livre_8.html#255_recto">I, 8, 255 recto</ref>) font qu'<ref target="personnage_hh.html#hylas">Hylas</ref> oublie un moment <ref target="personnage_aa.html#aymee">Aimée</ref>. Le jeune homme courtise les deux femmes à tour de rôle. </p>
+                <p>Quand le bateau arrive à <ref target="repertoire_uz.html#vienne">Vienne</ref>, <ref target="personnage_hh.html#hylas">Hylas</ref> les abandonne pour <ref target="personnage_cc.html#cloris">Cloris</ref>. </p>
+                <p>À <ref target="repertoire_ll.html#lyon">Lyon</ref>, <ref target="personnage_hh.html#hylas">Hylas</ref> revient à <ref target="#floriante">Floriante</ref> et <ref target="personnage_aa.html#aymee">Aimée</ref> qu'il espère voir dans le temple de <ref target="repertoire_uz.html#venus">Vénus</ref>. Il tombe amoureux d'une autre femme. </p>
+              
+              <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/floriante.gif)">
+                Floriante</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#floriante">I</ref>, <ref target="#3_floriante">III</ref>
+              
+              <hi rend="italics">Première mention : </hi> <ref target="../_roman/reference/21_3/21_3_livre_7.html#271_verso">III, 7, 271 verso</ref>.
+              <p>
+                  <hi rend="italics">Caractéristique :</hi> « Folastre », dit <ref target="personnage_hh.html#3_hylas">Hylas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#271_verso">III, 7, 271 verso</ref>).</p>
+              <p>
+                  <hi rend="italics">Nommée dans</hi> : <ref target="../_roman/reference/21_3/21_3_livre_7.html#h_cryseide">Histoire de Cryseide et de Hylas</ref> racontée par <ref target="personnage_hh.html#3_hylas">Hylas</ref>. </p>
+              
+              <p>
+                  <ref target="personnage_hh.html#3_hylas">Hylas</ref> rappelle au début de son récit qu'il a aimé Floriante (<ref target="../_roman/reference/21_3/21_3_livre_7.html#271_verso">III, 7, 271 verso</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/florice.gif)">
+                Florice</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#2_florice">II</ref>, <ref target="#3_florice">III</ref>, <ref target="#4_florice">IV</ref>
+              
+              <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_3.html#164">II, 3, 164</ref> (présente) ; <ref target="../_roman/reference/21_2/21_2_livre_3.html#181">II, 3, 181</ref> (nommée).
+              <p>
+                  <hi rend="italics">Caractéristique :</hi> « Elle avoit la taille si belle et la façon  si pleine de Majesté, qu'on pouvoit aisément juger qu'elle n'estoit pas née parmy  le peuple », dit <ref target="personnage_hh.html#2_hylas">Hylas</ref> qui l'a aimée (<ref target="../_roman/reference/21_2/21_2_livre_4.html#210">II, 4, 210</ref>). </p>
+              <p>
+                  <hi rend="italic">Modèle</hi> :  Mme de Beaumarchais serait <ref target="#2_florice">Florice</ref>, et <ref target="personnage_hh.html#2_hylas">Hylas</ref>, Henri de Lorraine,  duc d'Aiguillon (<ref target="bibliographie.html#patru">Patru</ref>, II, p. 565). Pourtant, d'après <ref target="bibliographie.html#tallemant">Tallemant</ref>, Mme de Beaumarchais (Marie Hotman, épouse de Vincent Bouhier, sieur de Beaumarchais) aurait été fort laide (I, p. 174).<lb/>
+              Dans l'<hi rend="italic">Inconstance d'Hylas</hi>, lorsque <ref target="bibliographie.html#mareschal">Mareschal</ref> adapte <hi rend="italic">L'Astrée</hi> au théâtre, il nomme le père de Florice   « Alcandre ». Ce personnage désire conserver « l'honneur acquis à [sa] Maison » (I, 4, p. 19).  L'histoire galante appelle <ref target="repertoire_hh.html#henri">Henri IV</ref> lui-même « le grand Alcandre » en 1629. Malherbe déjà avait donné ce nom au roi dans plusieurs poèmes, comme par exemple dans les « Stances pour Henri IV, sous le nom d'Alcandre » (1609).</p>
+              <p>
+                  <hi rend="italics">Remarque sur le nom</hi> : De <hi rend="italics">fleur</hi> (<hi rend="italic">flos</hi>, <hi rend="italic">floris</hi>). <lb/>
+              <ref target="personnage_hh.html#2_hylas">Hylas</ref> rapporte ainsi sa première conversation avec <ref target="#2_florice">Florice</ref> :<lb/>
+               « Je faisois semblant de luy ayder à cueillir les fleurs » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#213">II, 4, 213</ref>). Merci à Fékri Henein.</p>
+              <p>
+                  <hi rend="italics">Auditrice</hi> : <ref target="../_roman/reference/21_2/21_2_livre_4.html#histoire_de_parthenope">Histoire de Parthenopé, Florice et Dorinde</ref>, racontée par <ref target="personnage_hh.html#2_hylas">Hylas</ref> à <ref target="personnage_pp.html#2_paris">Paris</ref>, aux bergers et aux dames lyonnaises ; <lb/>
+                <ref target="../_roman/reference/21_2/21_2_livre_9.html#histoire_de_doris">Histoire de Doris et Palémon</ref>, racontée par <ref target="personnage_dd.html#2_doris">Doris</ref>.</p>
+              <p>
+                  <hi rend="italics">Narratrice</hi> : <ref target="../_roman/reference/21_2/21_2_livre_3.html#histoire_de_palinice">Histoire de Palinice et de Circène</ref>, racontée  à <ref target="personnage_pp.html#2_paris">Paris</ref>. <lb/>
+                <lb/>
+                Dame lyonnaise déguisée en bergère. Compagne de <ref target="personnage_pp.html#2_palinice">Palinice</ref>, <ref target="personnage_cc.html#2_circene">Circène</ref> et <ref target="personnage_dd.html#2_dorinde">Dorinde</ref>.</p>
+              
+                  <p><graphic url="../images/relations/florice.gif" rend="img" mimeType="image/gif"/></p>
+                
+              
+              <p>
+                  <ref target="personnage_aa.html#2_astree">Astrée</ref> et ses compagnons voient de loin <ref target="personnage_pp.html#2_paris">Paris</ref> avec trois bergères inconnues (<ref target="../_roman/reference/21_2/21_2_livre_3.html#164">II, 3, 164</ref>). Seul <ref target="personnage_hh.html#2_hylas">Hylas</ref> reconnaît les jeunes femmes, mais il ne se montre pas (<ref target="../_roman/reference/21_2/21_2_livre_3.html#165">II, 3, 165</ref>). <ref target="personnage_pp.html#2_paris">Paris</ref> chante une chanson où il nomme l'inconstant. Les étrangères lui posent des questions sur <ref target="personnage_hh.html#2_hylas">Hylas</ref>. L'une d'entre elles, <ref target="#2_florice">Florice</ref>, lui raconte alors les aventures d'<ref target="personnage_hh.html#2_hylas">Hylas</ref> à <ref target="repertoire_ll.html#2_lyon">Lyon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_3.html#168">II, 3, 168</ref>) : </p>
+              
+                <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_3.html#histoire_de_palinice">Histoire de Palinice et de Circène</ref>
+                  </p>
+                <p>
+                    <ref target="personnage_hh.html#2_hylas">Hylas</ref>, sorti du temple grâce à une veuve nommée <ref target="personnage_pp.html#2_palinice">Palinice</ref>, fréquente le frère de cette femme, <ref target="personnage_cc.html#2_clorian">Clorian</ref>.</p>
+                <p> <ref target="personnage_cc.html#2_clorian">Clorian</ref> aime <ref target="personnage_cc.html#2_circene">Circène</ref> sans oser le lui dire (<ref target="../_roman/reference/21_2/21_2_livre_3.html#170">II, 3, 170</ref>). <ref target="personnage_hh.html#2_hylas">Hylas</ref> reçoit les confidences de son ami, lui sert de messager et tombe amoureux de la jeune fille.</p>
+                <p> <ref target="#2_florice">Florice</ref> explique que <ref target="personnage_cc.html#2_clorian">Clorian</ref> a répété ces discours à sa sœur, et que <ref target="personnage_pp.html#2_palinice">Palinice</ref> les lui a rapportés (<ref target="../_roman/reference/21_2/21_2_livre_3.html#177">II, 3, 177</ref>).</p>
+                <p> <ref target="personnage_hh.html#2_hylas">Hylas</ref> courtise <ref target="personnage_pp.html#2_palinice">Palinice</ref> et <ref target="personnage_cc.html#2_circene">Circène</ref>, quand un jour il rencontre <ref target="#2_florice">Florice</ref>. </p>
+              
+              <p>
+                  <ref target="personnage_hh.html#2_hylas">Hylas</ref> se montre à ce moment et coupe la parole à la narratrice (<ref target="../_roman/reference/21_2/21_2_livre_3.html#181">II, 3, 181</ref>).  C'est ainsi que les personnages apprennent le nom de <ref target="#2_florice">Florice</ref>. Quand il reproche à  la « belle discoureuse » de « renouveller [s]es playes » (<ref target="../_roman/reference/21_2/21_2_livre_3.html#182">II, 3, 182</ref>) en lui rappelant ses premières amours, celle-ci réplique qu'il n'en mourra pas. Ce n'est pas pour le voir qu'elle se trouve en <ref target="repertoire_ff.html#2_forez">Forez</ref>, souligne-t-elle (<ref target="../_roman/reference/21_2/21_2_livre_3.html#182">II, 3, 182</ref>).  L'arrivée des bergers interrompt le débat. </p>
+              <p>
+                  <ref target="personnage_aa.html#2_astree">Astrée</ref> et <ref target="personnage_dd.html#2_diane">Diane</ref> offrent leurs services aux étrangères. <ref target="#2_florice">Florice</ref> répond qu'un Dieu leur a défendu de dire pourquoi elles ont voyagé (<ref target="../_roman/reference/21_2/21_2_livre_4.html#184">II, 4, 184</ref>). Apprenant qu'elle s'adresse à <ref target="personnage_aa.html#2_astree">Astrée</ref>, <ref target="#2_florice">Florice</ref> fait l'éloge de la bergère dont « la beauté ne pouvant se renfermer en un si petit pays que les <ref target="repertoire_ff.html#2_forez">Forests</ref>, remplit de sa loüange toutes les contrees d'alentour » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#185">II, 4, 185</ref>). Elle ajoute qu'<ref target="personnage_hh.html#2_hylas">Hylas</ref> se trouve dans le seul endroit au monde où il pourrait cesser d'être inconstant (<ref target="../_roman/reference/21_2/21_2_livre_4.html#185">II, 4, 185</ref>).</p>
+              <p> <ref target="personnage_hh.html#2_hylas">Hylas</ref> abandonne <ref target="personnage_cc.html#2_circene">Circène</ref>, <ref target="#2_florice">Florice</ref> et <ref target="personnage_pp.html#2_palinice">Palinice</ref> pour courir vers <ref target="personnage_pp.html#2_phillis">Phillis</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#188">II, 4, 188</ref>). À la demande de la bergère (<ref target="../_roman/reference/21_2/21_2_livre_4.html#191">II, 4, 191</ref>), l'inconstant raconte la suite de ses amours (<ref target="../_roman/reference/21_2/21_2_livre_4.html#193">II, 4, 193</ref>) :</p>
+              
+                <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_4.html#histoire_de_parthenope">Histoire de Parthenopé, Florice et Dorinde</ref>
+                  </p>
+                <p>
+                    <ref target="personnage_hh.html#2_hylas">Hylas</ref> accompagne <ref target="personnage_pp.html#2_palinice">Palinice</ref> et <ref target="personnage_cc.html#2_circene">Circène</ref> lors d'une promenade en bateau  (<ref target="../_roman/reference/21_2/21_2_livre_4.html#209">II, 4, 209</ref>). Il rencontre <ref target="personnage_tt.html#2_teombre">Téombre</ref>, un homme qui a « presque passé son Automne », et qui a été aimé par <ref target="#2_florice">Florice</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#210">II, 4, 210</ref>). <ref target="#2_florice">Florice</ref> elle-même le séduit : </p>
+                <quote>
+                  <p>Cette <ref target="#2_florice">Florice</ref> à la verité estoit belle, et pouvoit conserver ce nom entre celles qui sont estimées belles. Elle estoit blanche et blonde, avoit tous les traicts de visage tres-beaux, mais sur tout les yeux si doux et attrayans, que j'advoüe n'en avoir jamais veu de semblables. Elle avoit la taille si belle et la façon si pleine de Majesté, qu'on pouvoit aisément juger qu'elle n'estoit pas née parmy  le peuple : aussi estoit-elle de cette race qui se vante d'estre issuë du grand <ref target="personnage_aa.html#2_arioviste">Arioviste</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#210">II, 4, 210</ref>).</p>
+                </quote>
+                
+                    <ref target="personnage_hh.html#2_hylas">Hylas</ref> décrit <ref target="#2_florice">Florice</ref> en utilisant l'imparfait de l'indicatif, alors que la jeune femme est présente, et que rien n'indique qu'elle ait  changé. 
+                <lb/>
+                Un tableau de François-André Vincent (1746-1816), spécialiste de peinture d'histoire, s'intitule « La Fille d'Arioviste faite prisonnière par César lors de la défaite des Germains ».<lb/>
+                  Il se trouve dans le site de <ref target="http://www.sothebys.com/en/auctions/ecatalogue/2009/old-master-and-19th-century-drawings-and-paintings-pf9011/lot.61.html">Sotheby</ref> (28 octobre 2014).
+                <p>
+                    <ref target="#2_florice">Florice</ref> et <ref target="personnage_tt.html#2_teombre">Téombre</ref> s'aiment depuis si longtemps que leur amitié est « languissante ». Pour la raviver, <ref target="personnage_tt.html#2_teombre">Téombre</ref> fait semblant d'aimer <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> pour rendre <ref target="#2_florice">Florice</ref> jalouse (<ref target="../_roman/reference/21_2/21_2_livre_4.html#211">II, 4, 211</ref>). <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> est absente, mais <ref target="personnage_tt.html#2_teombre">Téombre</ref> chante des vers où il se dit plus heureux qu'un Dieu d'être aimé de cette dame. <ref target="#2_florice">Florice</ref> réplique par un sonnet (<ref target="../_roman/reference/21_2/21_2_livre_4.html#211">II, 4, 211</ref>) avec tant d'à propos que l'inconstant  décide de la servir en même temps que <ref target="personnage_pp.html#2_palinice">Palinice</ref> et <ref target="personnage_cc.html#2_circene">Circène</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#212">II, 4, 212</ref>). </p>
+                <p>
+                    <ref target="personnage_hh.html#2_hylas">Hylas</ref> aide <ref target="#2_florice">Florice</ref> à cueillir des fleurs sans rien dire. Il la traite avec plus de respect à cause de son rang. Elle le remercie de l'aider ; il la félicite d'avoir si bien blâmé la vanité de <ref target="personnage_tt.html#2_teombre">Téombre</ref>. Il lui dit son amour en chantant un sonnet (<ref target="../_roman/reference/21_2/21_2_livre_4.html#215">II, 4, 215</ref>).</p>
+                <p> <ref target="personnage_cc.html#2_circene">Circène</ref> cherche en vain à lui nuire  auprès de <ref target="#2_florice">Florice</ref>. La jalousie de sa rivale prouve à <ref target="#2_florice">Florice</ref> que <ref target="personnage_hh.html#2_hylas">Hylas</ref> l'aime (<ref target="../_roman/reference/21_2/21_2_livre_4.html#217">II, 4, 217</ref>). Elle lui demande de renoncer à <ref target="personnage_pp.html#2_palinice">Palinice</ref>, et elle-même renonce à <ref target="personnage_tt.html#2_teombre">Téombre</ref>. <ref target="personnage_cc.html#2_circene">Circène</ref> et <ref target="personnage_pp.html#2_palinice">Palinice</ref> parlent à tout venant des relations d'<ref target="personnage_hh.html#2_hylas">Hylas</ref> et de <ref target="#2_florice">Florice</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#218">II, 4, 218</ref>). </p>
+                <p>Pour faire taire les rumeurs, <ref target="#2_florice">Florice</ref> demande à <ref target="personnage_hh.html#2_hylas">Hylas</ref> de faire semblant d'aimer <ref target="personnage_dd.html#2_dorinde">Dorinde</ref>. <ref target="personnage_hh.html#2_hylas">Hylas</ref> obéit et finit par aimer en même temps les deux jeunes femmes (<ref target="../_roman/reference/21_2/21_2_livre_4.html#221">II, 4, 221</ref>). <ref target="#2_florice">Florice</ref> se méfie et exige les lettres de sa rivale. <ref target="personnage_hh.html#2_hylas">Hylas</ref> lui remet les moins explicites. Un jour cinq lettres qu'il avait gardées tombent de sa poche. <ref target="#2_florice">Florice</ref> s'en empare et en lit trois (<ref target="../_roman/reference/21_2/21_2_livre_4.html#236">II, 4, 236</ref>). Dans l'une des lettres, <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> écrit qu'elle envoie son portrait à <ref target="personnage_hh.html#2_hylas">Hylas</ref>, et qu'il a autant de puissance sur l'objet que sur le modèle (<ref target="../_roman/reference/21_2/21_2_livre_4.html#238">II, 4, 238</ref>). <ref target="#2_florice">Florice</ref> se rend chez <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> et lui donne les lettres. <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> rougit, reconnaît les faits et jure de ne plus aimer <ref target="personnage_hh.html#2_hylas">Hylas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#240">II, 4, 240</ref>).</p>
+                <p>
+                    <ref target="#2_florice">Florice</ref> juge qu'<ref target="personnage_hh.html#2_hylas">Hylas</ref> l'aime plus qu'il n'aime <ref target="personnage_dd.html#2_dorinde">Dorinde</ref>, puisqu'il n'a pas révélé leurs relations. Elle se considère coupable, mais n'a pas l'occasion de le lui dire (<ref target="../_roman/reference/21_2/21_2_livre_4.html#242">II, 4, 242</ref>). </p>
+                <p>Comme <ref target="personnage_hh.html#2_hylas">Hylas</ref> se réconcilie avec <ref target="personnage_dd.html#2_dorinde">Dorinde</ref>, <ref target="#2_florice">Florice</ref> fait semblant d'aimer <ref target="personnage_tt.html#2_teombre">Téombre</ref>, espérant attiser la jalousie de l'inconstant (<ref target="../_roman/reference/21_2/21_2_livre_4.html#246">II, 4, 246</ref>). Les parents de <ref target="#2_florice">Florice</ref> rabrouent leur fille. Sa mère condamne  sa conduite tant et si bien que <ref target="#2_florice">Florice</ref> doit prier <ref target="personnage_tt.html#2_teombre">Téombre</ref> de la demander en mariage (<ref target="../_roman/reference/21_2/21_2_livre_4.html#247">II, 4, 247</ref>). Le jour même, les accords sont faits. <ref target="#2_florice">Florice</ref> pleure. Son père ne se laisse pas fléchir. Elle écrit à <ref target="personnage_hh.html#2_hylas">Hylas</ref>, lui dit son amour, et lui propose de demander sa main (<ref target="../_roman/reference/21_2/21_2_livre_4.html#251">II, 4, 251</ref>). </p>
+                <p>L'inconstant reconnaît qu'il aime <ref target="#2_florice">Florice</ref> et déteste <ref target="personnage_tt.html#2_teombre">Téombre</ref>, mais il ne veut pas se marier : « Il n'y a point de tyrannie entre les humains si grande que celle du mariage » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#252">II, 4, 252</ref>). </p>
+                <p>Faisant semblant de n'avoir pas reçu l'appel au secours de <ref target="#2_florice">Florice</ref>, il lui fait des reproches par écrit, et puis feint de quitter la ville. <ref target="personnage_hh.html#2_hylas">Hylas</ref> pousse la malice jusqu'à renvoyer à <ref target="#2_florice">Florice</ref> sa lettre après l'avoir cachetée de nouveau (<ref target="../_roman/reference/21_2/21_2_livre_4.html#255">II, 4, 255</ref>). </p>
+                <p>
+                    <ref target="#2_florice">Florice</ref> écrit encore une fois à <ref target="personnage_hh.html#2_hylas">Hylas</ref> pour qu'il la sauve (<ref target="../_roman/reference/21_2/21_2_livre_4.html#256">II, 4, 256</ref>). En allant au temple pour épouser <ref target="personnage_tt.html#2_teombre">Téombre</ref>, elle aperçoit <ref target="personnage_hh.html#2_hylas">Hylas</ref> à la fenêtre de sa demeure, et s'évanouit. </p>
+                <p>De tristesse, l'inconstant se met au lit, mais aussi il charge un ami de dire à <ref target="#2_florice">Florice</ref> qu'il est parti puis revenu, incapable de se condamner à ne pas la revoir. <ref target="#2_florice">Florice</ref> lui envoie un diamant (<ref target="../_roman/reference/21_2/21_2_livre_4.html#258">II, 4, 258</ref>). Pendant la nuit, à l'heure où <ref target="personnage_tt.html#2_teombre">Téombre</ref> prend son épouse « entre ses bras », la bague blesse <ref target="personnage_hh.html#2_hylas">Hylas</ref> à la place du cœur.</p>
+                
+                    <ref target="personnage_hh.html#2_hylas">Hylas</ref> interrompt son récit pour assurer <ref target="personnage_pp.html#2_phillis">Phillis</ref> de son amour.<lb/>
+                  La bergère lui demande comment il a laissé <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#259">II, 4, 259</ref>).
+                <p>
+                    <ref target="personnage_pp.html#2_periandre">Périandre</ref> revient à <ref target="repertoire_ll.html#2_lyon">Lyon</ref> pour revoir <ref target="personnage_dd.html#2_dorinde">Dorinde</ref>. <ref target="personnage_hh.html#2_hylas">Hylas</ref> lui offre la jeune fille, en prétendant se sacrifier (<ref target="../_roman/reference/21_2/21_2_livre_4.html#260">II, 4, 260</ref>). <ref target="#2_florice">Florice</ref>,  pour s'assurer de la fidélité d'<ref target="personnage_hh.html#2_hylas">Hylas</ref>, lui demande  de rompre avec <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> « par quelque espece d'affront » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#261">II, 4, 261</ref>). Un jour de fête, <ref target="personnage_hh.html#2_hylas">Hylas</ref> décide d'agir. Il commence par prévenir <ref target="personnage_pp.html#2_periandre">Périandre</ref> : il   veut désabuser <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> une fois pour toutes. Ensuite, devant <ref target="#2_florice">Florice</ref> et un grand groupe, il déclare à <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> qu'elle se trompe si elle croit qu'il l'aime (<ref target="../_roman/reference/21_2/21_2_livre_4.html#262">II, 4, 262</ref>).</p>
+                <p>
+                    <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> se venge. Elle raconte à <ref target="personnage_pp.html#2_periandre">Périandre</ref> la tromperie du miroir. Elle obtient qu'il lui  donne une des lettres que <ref target="#2_florice">Florice</ref> écrit quotidiennement à <ref target="personnage_hh.html#2_hylas">Hylas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#264">II, 4, 264</ref>). <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> lit que <ref target="#2_florice">Florice</ref> invite <ref target="personnage_hh.html#2_hylas">Hylas</ref> à venir la voir parce que <ref target="personnage_tt.html#2_teombre">Téombre</ref>, son époux, va quitter la ville (<ref target="../_roman/reference/21_2/21_2_livre_4.html#265">II, 4, 265</ref>). <ref target="personnage_dd.html#2_dorinde">Dorinde</ref> envoie la lettre à <ref target="personnage_tt.html#2_teombre">Téombre</ref>. Celui-ci oblige <ref target="#2_florice">Florice</ref> à l'accompagner. La jeune femme, qui a reconnu l'écriture de <ref target="personnage_dd.html#2_dorinde">Dorinde</ref>, écrit une lettre d'injure à <ref target="personnage_hh.html#2_hylas">Hylas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#267">II, 4, 267</ref>). Une servante de <ref target="#2_florice">Florice</ref> raconte à l'inconstant ce qui s'est passé. <ref target="personnage_hh.html#2_hylas">Hylas</ref> fait des reproches à <ref target="personnage_pp.html#2_periandre">Périandre</ref>, puis « converti[t] le tout en gausserie » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#269">II, 4, 269</ref>).</p>
+                <p>Comme <ref target="personnage_tt.html#2_teombre">Téombre</ref> garde <ref target="#2_florice">Florice</ref> à la campagne, <ref target="personnage_hh.html#2_hylas">Hylas</ref> ne peut pas s'expliquer. Il voit <ref target="personnage_cc.html#2_criseide">Criséide</ref>. « Et si je la vis je l'aymay », ajoute-t-il (<ref target="../_roman/reference/21_2/21_2_livre_4.html#269">II, 4, 269</ref>). </p>
+                L'absence de réaction de <ref target="#2_florice">Florice</ref>,<lb/>
+                  la première femme adultère du roman, est étonnant ! 
+                <lb/>
+              
+              <p>
+                  <ref target="personnage_aa.html#2_astree">Astrée</ref> profite d'un bref silence d'<ref target="personnage_hh.html#2_hylas">Hylas</ref>, pour engager les bergers à poursuivre leur chemin (<ref target="../_roman/reference/21_2/21_2_livre_5.html#270">II, 5, 270</ref>).</p>
+              <p>
+                  <ref target="personnage_hh.html#2_hylas">Hylas</ref> et les trois dames lyonnaises rencontrent <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_cc.html#2_chrisante">Chrisante</ref>, <ref target="personnage_pp.html#2_paris">Paris</ref> et le groupe de bergers après la cérémonie du vain tombeau (<ref target="../_roman/reference/21_2/21_2_livre_9.html#558">II, 9, 558</ref>). <ref target="#2_florice">Florice</ref>, <ref target="personnage_pp.html#2_palinice">Palinice</ref> et <ref target="personnage_cc.html#2_circene">Circène</ref> écoutent en silence l'<ref target="../_roman/reference/21_2/21_2_livre_9.html#histoire_de_doris">Histoire de Doris, et Palemon</ref>. (<ref target="../_roman/reference/21_2/21_2_livre_9.html#562">II, 9, 562</ref>). </p>
+              <p>Les dames déguisées sont dans le grand pré avec les bergères lorsqu'<ref target="personnage_hh.html#2_hylas">Hylas</ref> parle de sa visite au druide <ref target="personnage_aa.html#2_adamas">Adamas</ref> et de son nouvel amour, <ref target="personnage_aa.html#2_alexis">Alexis</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#887">II, 12, 887</ref>). L'inconstant explique qu'il choisit toujours la plus belle femme qu'il trouve. « Demandez à <ref target="#2_florice">Florice</ref>, à <ref target="personnage_cc.html#2_circene">Circène</ref>, à <ref target="personnage_pp.html#2_palinice">Palinice</ref>, à <ref target="personnage_mm.html#2_madonthe">Madonthe</ref>, et à <ref target="personnage_ll.html#2_laonice">Laonice</ref> »  (<ref target="../_roman/reference/21_2/21_2_livre_12.html#888">II, 12, 888</ref>), ajoute-t-il. Les intéressées ne répliquent pas.</p>
+              <p> <ref target="#2_florice">Florice</ref> dit à <ref target="personnage_hh.html#2_hylas">Hylas</ref> que <ref target="repertoire_tt.html#2_taramis">Taramis</ref> peut foudroyer ceux qui osent rechercher une religieuse.  Non sans mauvaise foi, l'inconstant répond que <ref target="personnage_tt.html#2_teombre">Téombre</ref> n'a pas été foudroyé bien que <ref target="#2_florice">Florice</ref> elle-même soit religieuse envers les dieux (<ref target="../_roman/reference/21_2/21_2_livre_12.html#890">II, 12, 890</ref>).</p>
+              
+                  <ref target="#2_florice">Florice</ref> compose des vers<lb/>
+                (<ref target="../_roman/reference/21_2/21_2_livre_4.html#211">II, 4, 211</ref>).
+              <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/florice.gif)">
+                Florice</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#2_florice">II</ref>, <ref target="#3_florice">III</ref>, <ref target="#4_florice">IV</ref>
+              
+              <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_3/21_3_livre_1.html#21_recto">III, 1, 21 recto</ref>. Écrit aussi <hi rend="italic">Elorice</hi> et <hi rend="italic">Florisse</hi>.
+              <p>
+                  <hi rend="italics">Caractéristique :</hi> « La glorieuse Florice », dit <ref target="personnage_hh.html#3_hylas">Hylas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#271_verso">III, 7, 271 verso</ref>).</p>
+              <p>
+                  <hi rend="italics">Auditrice</hi> : <ref target="../_roman/reference/21_3/21_3_livre_7.html#h_cryseide">Histoire de Cryseide et de Hylas</ref> racontée par <ref target="personnage_hh.html#3_hylas">Hylas</ref>.</p>
+              <p>
+                  <hi rend="italics">Narratrice</hi> : <ref target="../_roman/reference/21_3/21_3_livre_8.html#h_cryseide2">Suitte de l'histoire de Cryseide et d'Arimant</ref> racontée par <ref target="#3_florice">Florice</ref>.</p>
+              
+              <p>Florice fait partie du groupe de bergers qui se rend chez <ref target="personnage_aa.html#3_adamas">Adamas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#21_recto">III, 1, 21 recto</ref>).</p>
+              <p> <ref target="personnage_hh.html#3_hylas">Hylas</ref> annonce au druide qu'il va recevoir des étrangers déguisés en bergers (comme Florice et <ref target="personnage_cc.html#3_circene">Circène</ref>) qui n'ont pas autant d'importance que d'autres (<ref target="personnage_dd.html#3_daphnide">Daphnide</ref> et <ref target="personnage_aa.html#3_alcidon">Alcidon</ref>) (<ref target="../_roman/reference/21_3/21_3_livre_2.html#45_recto">III, 2, 45 recto</ref>).</p>
+              <p> <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> est obligé de cheminer entre <ref target="personnage_cc.html#3_celidee">Célidée</ref> et Florice (<ref target="../_roman/reference/21_3/21_3_livre_2.html#50_recto">III, 2, 50 recto</ref>), <ref target="personnage_hh.html#3_hylas">Hylas</ref> se moque de sa déception.</p>
+              <p>Quand les jeunes femmes interrogent l'inconstant sur l'effet qu'elles ont eu sur lui, Florice s'entend dire :
+                « Je ne me souviens plus [...] si vous en avez jamais eu » (<ref target="../_roman/reference/21_3/21_3_livre_2.html#50_verso">III, 2, 50 verso</ref>).<lb/>
+              </p>
+              
+                <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_7.html#h_cryseide">Histoire de Cryseide et de Hylas</ref>
+                  </p>
+                <p> En faisant le récit de ses amours, <ref target="personnage_hh.html#3_hylas">Hylas</ref> rappelle qu'il n'était plus apprenti sur les bord de l'<ref target="repertoire_aa.html#3_arar">Arar</ref> quand il  recherchait Florice (<ref target="../_roman/reference/21_3/21_3_livre_5.html#182_recto">III, 5, 182 recto</ref>). La jeune femme lui fait remarquer qu'il a été en même temps l'écolier de trois maîtres, elle-même, <ref target="personnage_pp.html#3_palinice">Palinice</ref> et <ref target="personnage_cc.html#3_circene">Circène</ref> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#182_verso">III, 5, 182 verso</ref>).</p>
+                <p> <ref target="personnage_hh.html#3_hylas">Hylas</ref> va débuter le récit de ses amours. Il  rappelle qu'il a perdu Florice à cause de la ruse de <ref target="personnage_dd.html#3_dorinde">Dorinde</ref> : celle-ci à donné à <ref target="personnage_tt.html#3_teombre">Téombre</ref>, l'époux de Florice, les lettres que la jeune femme écrivait à <ref target="personnage_hh.html#3_hylas">Hylas</ref> :
+                  « il l'emmena hors de la ville » (<ref target="../_roman/reference/21_3/21_3_livre_7.html#271_verso">III, 7, 271 verso</ref>). L'inconstant ne se laisse pas abattre par ce départ et cherche
+                  « un autre feu » (<ref target="../_roman/reference/21_3/21_3_livre_7.html#272_recto">III, 7, 272 recto</ref>). Quand il voit <ref target="personnage_cc.html#3_criseide">Criséide</ref>, il oublie toutes les dames lyonnaises (<ref target="../_roman/reference/21_3/21_3_livre_7.html#273_recto">III, 7, 273 recto</ref>).<lb/>
+                  <lb/>
+                  <ref target="personnage_hh.html#3_hylas">Hylas</ref> est incapable de raconter la suite des aventures de <ref target="personnage_cc.html#3_criseide">Criséide</ref>, Florice offre de le faire parce que la prisonnière de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> lui a dit son histoire (<ref target="../_roman/reference/21_3/21_3_livre_8.html#333_recto">III, 8, 333 recto</ref>).</p>
+              
+              <lb/>
+              Nous ne connaîtrons pas les circonstances de ce récit. <lb/>
+                La narratrice a-t-elle assisté au dénouement ? 
+              <p>Les auditeurs admirent les héros de l'aventure rapportée par Florice (<ref target="../_roman/reference/21_3/21_3_livre_9.html#366_verso">III, 9, 366 verso</ref>).</p>
+              <p>Encouragé par <ref target="personnage_ss.html#3_silvandre">Silvandre</ref>, <ref target="personnage_hh.html#3_hylas">Hylas</ref> passe en revue les femmes qui l'entourent. Que pense-t-il de Florice ?
+                « Qu'elle a un mary jaloux » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#378_verso">III, 9, 378 verso</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/florice.gif)">
+                Florice</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Présente dans :</hi> <ref target="#2_florice">II</ref>, <ref target="#3_florice">III</ref>, <ref target="#4_florice">IV</ref>
+              
+              <hi rend="italic">Première mention</hi>: <ref target="../_roman/reference/24_4/24_4_livre_1.html#53">IV, 1, 53</ref>.<lb/>
+              <lb/>
+              <hi rend="italic">Caractéristiques</hi> :
+              « La belle et discrette Florice » dit <ref target="personnage_aa.html#4_astree">Astrée</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#244">IV, 2, 244</ref>).<lb/>
+              Dans la quatrième partie de <ref target="bibliographie.html#1624">1624</ref>, <ref target="#4_florice">Florice</ref>, <ref target="personnage_pp.html#4_palinice">Palinice</ref> et <ref target="personnage_cc.html#4_circene">Circène</ref>, les dames lyonnaises
+                habillées en bergères, sont inséparables mais non interchangeables. 
+              <lb/>
+              Florice préfère la vie des villes à la vie des champs (<ref target="../_roman/reference/24_4/24_4_livre_1.html#58">IV, 1, 58</ref>). C'est elle qui prend le plus d'initiatives.<lb/>
+  
+              Florice, <ref target="personnage_pp.html#4_palinice">Palinice</ref> et <ref target="personnage_cc.html#4_circene">Circène</ref> discutent ensemble lorsque <ref target="personnage_pp.html#4_phillis">Phillis</ref> les aperçoit (<ref target="../_roman/reference/24_4/24_4_livre_1.html#53">IV, 1, 53</ref>). La bergère se cache pour les entendre. <lb/>
+              Florice se plaint du fait que l'oracle qui les a fait venir en <ref target="repertoire_ff.html#4_forez">Forez</ref> tarde à se réaliser. Elle apprécie la compagnie des bergères du <ref target="repertoire_ll.html#4_lignon">Lignon</ref>, mais les passe-temps des champs lui déplaisent. Elle romprait houlette et panetière si elle devait rester longtemps bergère. <ref target="personnage_cc.html#4_circene">Circène</ref> n'est pas d'accord. <lb/>
+  <ref target="personnage_pp.html#4_palinice">Palinice</ref> les interrompt pour leur rappeler les termes de l'oracle (<ref target="../_roman/reference/24_4/24_4_livre_1.html#62">IV, 1, 62</ref>). Florice juge qu'attendre qu'on les interroge est une perte de temps. <ref target="personnage_cc.html#4_circene">Circène</ref> se moque de sa compagne qui ne sait pas faire bon visage à la nécessité. Le remède semble plus fâcheux que la peine, pense Florice. Peut-être que les dieux la punissent en lui imposant un grand mal pour la guérir d'un petit mal, propose <ref target="personnage_cc.html#4_circene">Circène</ref> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#67">IV, 1, 67</ref>).<lb/>
+  <lb/>
+              Peu après, en se promenant,  Florice et ses compagnes voient une étrangère habillée en bergère en compagnie de <ref target="personnage_dd.html#4_diane">Diane</ref> et de <ref target="personnage_pp.html#4_phillis">Phillis</ref> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#73">IV, 1, 73</ref>). Il s'agit de <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>. L'étrangère et les Lyonnaises se reconnaissent surtout à la voix. <ref target="personnage_pp.html#4_phillis">Phillis</ref> dit à Florice que <ref target="personnage_dd.html#4_diane">Diane</ref> et elle  vont  amener <ref target="personnage_aa.html#4_astree">Astrée</ref> près des dames lyonnaises (<ref target="../_roman/reference/24_4/24_4_livre_1.html#76">IV, 1, 76</ref>).<lb/>
+  <lb/>
+              Les dames lyonnaises voient <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> soupirer des vers. Florice le nomme à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>. Elle recommande à ses compagnes d'aller lui parler maintenant qu'il est loin de Diane. Elle explique qu'il aime cette bergère mais que nul ne sait s'il est payé de retour (<ref target="../_roman/reference/24_4/24_4_livre_2.html#204">IV, 2, 204</ref>). Comme <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> s'étonne de voir un homme pleurer, Florice note que sa compagne a une mauvaise opinion des hommes. <lb/>
+  <lb/>
+              Les jeunes femmes abordent <ref target="personnage_ss.html#4_silvandre">Silvandre</ref>. Florice se félicite d'apporter une distraction à sa tristesse (<ref target="../_roman/reference/24_4/24_4_livre_2.html#209">IV, 2, 209</ref>). <lb/>
+  <lb/>
+  À midi, Florice propose à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> de s'abriter de la chaleur dans sa cabane (<ref target="../_roman/reference/24_4/24_4_livre_2.html#219">IV, 2, 219</ref>). En y allant, les Lyonnaises rencontrent les bergères. Florice souligne la courtoisie de celles qui viennent leur rendre visite pour leur épargner la peine d'aller jusque chez elles (<ref target="../_roman/reference/24_4/24_4_livre_2.html#221">IV, 2, 221</ref>).<lb/>
+  <lb/>
+  <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> raconte son histoire. Elle  rappelle qu'elle a été courtisée d'abord par <ref target="personnage_tt.html#4_teombre">Téombre</ref>, celui qui épousa ensuite Florice (<ref target="../_roman/reference/24_4/24_4_livre_2.html#234">IV, 2, 234</ref>). Comme elle  note la mauvaise grâce de cet homme elle s'excuse auprès de Florice.<lb/>
+  <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> passe au récit de ses aventures avec <ref target="personnage_hh.html#4_hylas">Hylas</ref> et <ref target="personnage_pp.html#4_periandre">Périandre</ref>.  Florice témoigne de la véracité du récit que l'inconstant a fait (<ref target="../_roman/reference/24_4/24_4_livre_2.html#239">IV, 2, 239</ref>).<lb/>
+  <lb/>
+  Ce récit est dans la deuxième partie<lb/>
+    (<ref target="../_roman/reference/21_2/21_2_livre_4.html#193">II, 4, 193</ref>).
+  <ref target="personnage_dd.html#4_dorinde">
+                  <lb/>
+    Dorinde</ref> rappelle aussi que Florice a quitté <ref target="repertoire_ll.html#4_lyon">Lyon</ref> avec <ref target="personnage_tt.html#4_teombre">Téombre</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#240">IV, 2, 240</ref>). <lb/>
+              Lorsque <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> nomme <ref target="personnage_cc.html#4_criseide">Criséide</ref>, <ref target="personnage_aa.html#4_astree">Astrée</ref> rappelle que Florice a raconté la fin des aventures de cette jeune femme (<ref target="../_roman/reference/24_4/24_4_livre_2.html#244">IV, 2, 244</ref>).<lb/>
+  <lb/>
+  Ce récit est dans la troisième partie<lb/>
+    (<ref target="../_roman/reference/21_3/21_3_livre_7.html#270_verso">III, 7, 270 verso</ref>). 
+  <lb/>
+              Pendant qu'on enterre les soldats morts, Florice et les dames lyonnaises tiennent compagnie à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#388">IV, 3, 388</ref>).<lb/>
+  <lb/>
+  <ref target="personnage_hh.html#4_hylas">Hylas</ref> explique que son cœur a été souvent volé. Florice note que celles qui l'ont pris l'ont bien vite rendu (<ref target="../_roman/reference/24_4/24_4_livre_3.html#396">IV, 3, 396</ref>).<lb/>
+  <lb/>
+  <ref target="personnage_hh.html#4_hylas">Hylas</ref> inclut Florice dans une première liste des femmes qu'il a aimées  (<ref target="../_roman/reference/24_4/24_4_livre_3.html#397">IV, 3, 397</ref>). <lb/>
+  <lb/>
+              Florice et les dames lyonnaises vont accompagner <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> à <ref target="repertoire_mm.html#4_marcilly">Marcilly</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#402">IV, 3, 402</ref>). <lb/>
+  <lb/>
+  <ref target="personnage_hh.html#4_hylas">Hylas</ref> inclut Florice parmi les femmes qu'il a aimées et qu'il a laissées belles (<ref target="../_roman/reference/24_4/24_4_livre_3.html#449">IV, 3, 449</ref>). <lb/>
+  <lb/>
+  <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> s'étonne qu'<ref target="personnage_hh.html#4_hylas">Hylas</ref> n'ait pas demandé l'histoire de Florice et de ses compagnes (<ref target="../_roman/reference/24_4/24_4_livre_3.html#479">IV, 3, 479</ref>).
+              Florice explique que le Ciel leur a interdit de raconter leur histoire à l'inconstant. <ref target="personnage_hh.html#4_hylas">Hylas</ref> se moque de ce que les dames prétendent communiquer avec les dieux. Il se tourne quand même vers Florice pour lui demander pourquoi elle ne lui a rien raconté (<ref target="../_roman/reference/24_4/24_4_livre_3.html#481">IV, 3, 481</ref>).<lb/>
+              <lb/>
+              Dans l'après-midi, <ref target="personnage_dd.html#4_diane">Diane</ref>, <ref target="personnage_pp.html#4_phillis">Phillis</ref>, <ref target="personnage_aa.html#4_astree">Astrée</ref> et <ref target="personnage_aa.html#4_alexis">Alexis</ref> se rendent sur le chemin de <ref target="repertoire_mm.html#4_marcilly">Marcilly</ref> pour y rencontrer Florice et les dames lyonnaises  (<ref target="../_roman/reference/24_4/24_4_livre_3.html#585">IV, 3, 585</ref>). <lb/>
+  <lb/>
+  À <ref target="repertoire_mm.html#4_marcilly">Marcilly</ref>, chez <ref target="personnage_cc.html#4_clindor">Clindor</ref>, Florice et ses compagnes veulent partager une chambre avec <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#634">IV, 4, 634</ref>).<lb/>
+  <lb/>
+              Florice demande à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (qu'elle appelle « ma parente ») pourquoi <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> a voulu la faire enlever (<ref target="../_roman/reference/24_4/24_4_livre_4.html#635">IV, 4, 635</ref>). Elle promet ensuite de l'aider de ses conseils et elle juge que  son histoire ne devrait pas être racontée devant un trop large public (<ref target="../_roman/reference/24_4/24_4_livre_4.html#637">IV, 4, 637</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/forelle.gif)">
+                Forelle</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Présent dans :</hi> <ref target="#forelle">I</ref>
+              
+              <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_1/21_1_livre_4.html#105_verso">I, 4, 105 verso</ref>.
+              <p>
+                  <hi rend="italics">Nommé dans :</hi> <ref target="../_roman/reference/21_1/21_1_livre_4.html#histoire_d_astree_et_phillis">Histoire d'Astrée et Phillis</ref>, racontée par <ref target="personnage_aa.html#astree">Astrée</ref>. </p>
+              <p>Berger du <ref target="repertoire_ll.html#lignon">Lignon</ref>. Voisin d'<ref target="personnage_aa.html#alcippe">Alcippe</ref>. Père de <ref target="personnage_mm.html#malthee">Malthée</ref>.</p>
+              
+              
+                <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_4.html#histoire_d_astree_et_phillis">Histoire d'Astrée et Phillis</ref>
+                  </p>
+                <p>À la demande d'<ref target="personnage_aa.html#alcippe">Alcippe</ref>, il reçoit chez lui <ref target="personnage_cc.html#celadon">Céladon</ref> espérant le marier avec <ref target="personnage_mm.html#malthee">Malthée</ref>. Ennuyé par les résistances du jeune homme, <ref target="#forelle">Forelle</ref> le renvoie et renonce à son entente avec <ref target="personnage_aa.html#alcippe">Alcippe</ref> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#112_recto">I, 4, 112 recto</ref>).</p>
+              
+              <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/fortune.gif)">
+                Fortune</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Présente dans :</hi> <ref target="#fortune">I</ref>
+              
+              <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_1/21_1_livre_11.html#367_verso">I, 11, 367 verso</ref>.
+              <p>
+                  <hi rend="italics">Caractéristique :</hi> « Elle est belle, et proprement vestuë », dit <ref target="personnage_aa.html#adamas">Adamas</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#370_verso">I, 11, 370 verso</ref>). </p>
+              <p>
+                  <hi rend="italics">Remarque sur le nom :</hi> Honoré d'Urfé lui-même joue sur le nom du personnage et celui de sa patronne, la déesse <ref target="repertoire_ff.html#fortune_dieu">Fortune</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#368_verso">I, 11, 368 verso</ref>). Le berger qui croit que la jeune fille mérite  ce nom ignominieux se trompe ; il en meurt (<ref target="bibliographie.html#heneinfortune">Henein</ref>). </p>
+              <p> <hi rend="italics">Nommée dans : </hi>
+                  <ref target="../_roman/reference/21_1/21_1_livre_11.html#histoire_de_damon_et_de_fortune">Histoire de Damon et de Fortune</ref>, racontée par <ref target="personnage_aa.html#adamas">Adamas</ref>. </p>
+              <p>Bergère du <ref target="repertoire_ll.html#lignon">Lignon</ref>. </p>
+              
+                  <p><graphic url="../images/relations/damon.gif" rend="img" mimeType="image/gif"/></p>
+                
+              
+              <p>À <ref target="repertoire_ik.html#isoure">Isoure</ref>, <ref target="personnage_mm.html#mandrague">Mandrague</ref>, la magicienne, a fait peindre sa mésaventure avec <ref target="personnage_dd.html#damon_b">Damon</ref> et <ref target="#fortune">Fortune</ref> sur la fontaine de la Vérité d'amour, tombe d'une bergère qui est morte parce qu'elle n'espérait plus être aimée de celui qu'elle aimait. </p>
+              <p>Les six tableaux qui décorent la fontaine, décrits par <ref target="personnage_aa.html#adamas">Adamas</ref>, constituent l'<ref target="../_roman/reference/21_1/21_1_livre_11.html#histoire_de_damon_et_de_fortune">Histoire de Damon et de Fortune</ref> telle que l'entendent <ref target="personnage_gg.html#galathee">Galathée</ref>, <ref target="personnage_ll.html#leonide">Léonide</ref>, <ref target="personnage_ss.html#silvie">Silvie</ref> et <ref target="personnage_cc.html#celadon">Céladon</ref>.</p>
+              
+                <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_11.html#histoire_de_damon_et_de_fortune">Histoire de Damon et de Fortune</ref>
+                  </p>
+                <p>
+                    <ref target="personnage_mm.html#mandrague">Mandrague</ref>, vieille et laide, tombe amoureuse du jeune et beau <ref target="personnage_dd.html#damon_b">Damon</ref> qu'elle voit se baignant. Pour le séparer de <ref target="#fortune">Fortune</ref>, la bergère qu'il aime, elle envoie au jeune homme et à sa maîtresse des songes<hi rend="cache"> </hi>
+                    <ref target="note_4.html#4_songe">η</ref> néfastes qui les engagent à douter de la fidélité de leur partenaire. <ref target="personnage_dd.html#damon_b">Damon</ref> voit <ref target="personnage_mm.html#maradon">Maradon</ref> près de <ref target="#fortune">Fortune</ref>. <ref target="#fortune">Fortune</ref> voit <ref target="personnage_mm.html#melinde">Melinde</ref> près de <ref target="personnage_dd.html#damon_b">Damon</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#375_verso">I, 11, 375 verso</ref>). <ref target="personnage_mm.html#mandrague">Mandrague</ref> enchante la fontaine de la Vérité d'amour pour que les eaux merveilleuses trompent les bergers en confirmant leurs songes. <ref target="personnage_dd.html#damon_b">Damon</ref> se tue. <ref target="#fortune">Fortune</ref> le suit dans la tombe. Ainsi moururent « deux si fideles et parfaicts Amants » (<ref target="../_roman/reference/21_1/21_1_livre_11.html#378_recto">I, 11, 378 recto et verso</ref>). </p>
+              
+              <lb/>
+              <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/frideric.gif)">
+                Frideric</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_frideric">II</ref>
+              
+              <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_12.html#828">II, 12, 828</ref>.
+              <p>
+                  <hi rend="italics"> Personnage historique</hi> : Frédéric (? - 463). <ref target="bibliographie.html#fauchet">Fauchet</ref> se contredit. Il écrit  que <ref target="personnage_tt.html#2_torrismond">Torrismond</ref> seul accompagne son père,  lors de la bataille des <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref>. Le Roi a « laissé à la maison quatre de ses enfans : <ref target="#2_frideric">Frideric</ref>, <ref target="personnage_tt.html#2_thierry2">Thierri</ref>, <ref target="personnage_qr.html#2_rotemer">Rotemer</ref> et <ref target="personnage_hh.html#2_honoric">Hunneric</ref> » (p. 99). Ailleurs il affirme que <ref target="personnage_tt.html#2_torrismond">Torrismond</ref> et <ref target="personnage_tt.html#2_thierry2">Thierry</ref> suivent leur père (p. 95).<lb/>
+                <ref target="personnage_aa.html#2_aetius">Ætius</ref> trompe <ref target="personnage_tt.html#2_torrismond">Torrismond</ref> et son frère quand il leur recommande de s'en aller (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p. 99). </p>
+              <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>, racontée par <ref target="personnage_uz.html#2_ursace">Ursace</ref>, puis répétée par <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_adamas">Adamas</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>,  et un groupe de bergers.</p>
+              <p>
+                  <ref target="repertoire_uz.html#2_visigoths">Wisigoth</ref>. Fils de <ref target="personnage_tt.html#2_thierry">Thierry I<hi rend="supn">er</hi>
+                  </ref>.</p>
+              
+              <p>
+                  <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> rapporte puis complète le récit d'<ref target="personnage_uz.html#2_ursace">Ursace</ref>. </p>
+              
+                <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe</ref>
+                  </p>
+                <p>
+                    <ref target="personnage_uz.html#2_ursace">Ursace</ref> explique la ruse d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> qui veut éloigner des <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref> <ref target="personnage_tt.html#2_torrismond">Torrismond</ref> et <ref target="personnage_tt.html#2_thierry2">Thierry II</ref> après la mort de leur père, le roi des <ref target="repertoire_uz.html#2_visigoths">Wisigoths</ref>. </p>
+                <p>
+                    <ref target="personnage_aa.html#2_aetius">Ætius</ref> leur dit  que leurs frères, restés en <ref target="repertoire_aa.html#2_aquitaine">Aquitaine</ref>, <ref target="#2_frideric">Frédéric</ref>, <ref target="personnage_hh.html#2_honoric">Honoric</ref> et <ref target="personnage_qr.html#2_rotemer">Rotemer</ref>, risquent de  s'emparer du pouvoir (<ref target="../_roman/reference/21_2/21_2_livre_12.html#828">II, 12, 828</ref>).</p>
+                <p>Les frères n'y avaient pas même pensé. </p>
+              
+              <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

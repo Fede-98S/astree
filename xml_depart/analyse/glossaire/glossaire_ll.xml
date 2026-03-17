@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Glossaire L - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><ref target="glossaire.html">
+              <hi rend="bold">GLOSSAIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="glossaire_aa.html">A</ref><ref target="glossaire_bb.html">B</ref><ref target="glossaire_cc.html">C</ref><ref target="glossaire_dd.html">D</ref><ref target="glossaire_ee.html">E</ref><lb/><ref target="glossaire_ff.html">F</ref><ref target="glossaire_gg.html">G</ref><ref target="glossaire_hh.html">H</ref><ref target="glossaire_ik.html">I</ref><ref target="glossaire_ik.html#j">J</ref><lb/><ref target="glossaire_ik.html#k">K</ref><ref target="glossaire_ll.html">L</ref><ref target="glossaire_mm.html">M</ref><ref target="glossaire_no.html">N</ref><ref target="glossaire_no.html#o">O</ref><lb/><ref target="glossaire_pp.html">P</ref><ref target="glossaire_qr.html">Q</ref><ref target="glossaire_qr.html#r">R</ref><ref target="glossaire_ss.html">S</ref><ref target="glossaire_tt.html">T</ref><lb/><ref target="glossaire_uz.html">U</ref><ref target="glossaire_uz.html#v">V</ref><ref target="glossaire_uz.html#w">W</ref><ref target="glossaire_uz.html#x">X</ref><ref target="glossaire_uz.html#y">Y</ref><ref target="glossaire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><lb/><!--<header>--><div><head>
+              
+              <lb/>GLOSSAIRE - L</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lacs</cell>
+              <cell colspan="1" rowspan="1">« Un ou plusieurs cordons lacez, noüez, ou entremeslez, pour servir à prendre, serrer, ou pendre quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        •          En 1607, d'Urfé écrit  <hi rend="italics">lassets</hi>. Ce mot est un diminutif de <hi rend="italics">lacs</hi> dans <ref target="bibliographie.html#huguet">Huguet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Laict</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Donner quelque laict à manger</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#898">IV, 4, 898</ref>).<lb/>
+        « Laitage. Lait Tout ce qu'on fait seulement de lait, &amp; qu'on mange » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lairrer</cell>
+              <cell colspan="1" rowspan="1"> Ancienne forme du verbe <hi rend="italics">Laisser</hi>, remplacée après l'édition de 1607 (exception : <ref target="../_roman/reference/21_1/21_1_livre_12.html#395_recto">I, 12, 395 recto</ref>). <lb/>
+          <ref target="bibliographie.html#brunot">Brunot</ref> affirme que « <hi rend="italic">L'Astrée</hi> offre de nombreux exemples de <hi rend="italic">lairray</hi> » (III, p. 324) ; corrigés, selon Mme <ref target="bibliographie.html#sanciere">Sancier-Chateau</ref> (p. 156). En fait, la première partie de 1607 renferme 18 <hi rend="italic">lairrer</hi> dont 17 sont remplacés en 1621.  On ne retrouve plus ce verbe dans les éditions préliminaires de la deuxième et de la troisième partie.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Laisser</cell>
+              <cell colspan="1" rowspan="1">- « Cesser »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - À la forme négative signifie  ne pas manquer (<ref target="../_roman/reference/21_1/21_1_livre_8.html#222_verso">I, 8, 222 verso</ref>). <lb/>
+        - « Signifie aussi, Estre, demeurer malgré quelque obstacle » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Laisser à</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Je devrois laisser aux belles à vous respondre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#286_verso">III, 7, 286 verso</ref>).  « Signifie aussi, Endurer, permettre » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Laisser lui dire</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#439_recto">III, 10, 439 recto</ref>). « Laisser, avec le sens de souffrir, permettre, suivi d'un infinitif, peut avoir un régime par <hi rend="italic">à</hi> [...] Laissez faire aux dieux CORN. Hor. II, 8 » (<ref target="bibliographie.html#littre">Littré</ref>). « Laissez lui rosser         sa femme tout son saoul. Molière » (<ref target="bibliographie.html#richelet">Richelet</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Laisser courre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">Quand nous fusmes au laissé courre</hi> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#367">II, 6, 367</ref>).<lb/>
+        « Laisser courre les chiens, pour dire, les Lascher ; &amp; même le lieu destiné à les lascher s'appelle, Le Laisser courre » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lambris</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Les lambris dorez de leurs Palais</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#439">IV, 3, 439</ref>).<lb/>
+          « LAMBRIS, Ouvrages de menuiserie dont on revêt les murailles »        (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lambrisser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Couvrir d'un lambris de plastre, ou de menuiserie. Tout le principal appartement de ce logis est lambrissé &amp; doré » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+          <ref target="bibliographie.html#richelet">Richelet</ref> est plus précis : « Lambrisser, v.a. [...] Revétir de bois par le haut
+        &amp; par les côtez. [Lambrisser une sale. Chambre bien lambrissée.] »</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lancette</cell>
+              <cell colspan="1" rowspan="1">« Petite lance », dit <ref target="bibliographie.html#huguet">Huguet</ref>. Dans <hi rend="italics">L'Astrée</hi>, le substantif a la signification que lui donne <ref target="bibliographie.html#furetiere">Furetière</ref> : un « petit instrument de Chirurgie fait d'un acier fort pliant &amp; pointu, qui sert principalement à ouvrir la veine ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Langages</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il m'a tenu des langages que je n'ay jamais voulu vous redire</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#537_recto">III, 12, 537 recto</ref>). <lb/>        « Au plur., manière de parler hautaine et arrogante, mensonge audacieux » (<ref target="bibliographie.html#godefroy">Godefroy</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Langue</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ayant la langue Gauloise, il luy estoit fort facile de se faire croire marchand Gaulois</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#318_verso">III, 7, 318 verso</ref>). Posséder, connaître le Gaulois. Les dictionnaires ne donnent pas cette locution, mais elle figure dans un proverbe cité par <ref target="bibliographie.html#cotgrave">Cotgrave</ref> : « Qui langue a à Rome va », « <hi rend="italic">He that knowes what, and when, to speake, may travell any wither</hi> ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Languir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italics">Je sors de la prison où j'ay  pour vous</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#9_verso">III, 1, 9 verso</ref>). « Mourir d'amour, soupirer pour quelque belle » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Languissement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Langueur amoureuse : "Le languissement sans cause apparente suit les amans" (Maladie d'amour, page 87.) » (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Larve</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Jamais je n'avois ouy faire conte des larves et fantosmes</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#892">IV, 4, 892</ref>).<lb/>
+        « Terme de Philosophie, qui signifie les Démons de l'air, &amp; les esprits folets » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Sources de terreur, puisque <ref target="bibliographie.html#huguet">Huguet</ref> donne : « Tu ressemble à l'enfant dont le cerveau fantasque Se peint or' d'un demon, or' d'un larve le masque. P. MATTHIEU, Aman, IV, p. 91 ».<lb/>
+        <ref target="bibliographie.html#robert">
+                  <hi rend="italic">Le Grand Robert</hi>
+                </ref> explique que  la larve était « considérée comme le masque de l'insecte parfait ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Laschement</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Les unes ruminent laschement</hi> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#372_recto">I, 11, 372 recto</ref>).<lb/>
+        « Mollement » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lasser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Vous pourrez vous tenir cachee icy sans vous lasser</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#889">IV, 4, 889</ref>).<lb/>
+        « Espuiser ses forces » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Laurier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Elle mit du Laurier dans sa bouche</hi> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#494">II, 8, 494</ref>). Le laurier est l'arbre consacré à <ref target="repertoire_aa.html#2_apollon">Apollon</ref>. La Pythie  mâche des feuilles de laurier pour être à même de prédire l'avenir. On représente les devins tenant une branche de laurier. Voir ce <ref target="http://www.anthropologieenligne.com/images/theseusdelphes.jpg">site</ref> (30 septembre 2010).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Laurier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Maschant du laurier</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#457_verso">III, 11, 457 verso</ref>).<lb/>
+        Comme dans la deuxième partie (<ref target="../_roman/reference/21_2/21_2_livre_8.html#494">II, 8, 494</ref>), le laurier est une plante sacrée. Il a été souvent chanté  par <ref target="personnage_pp.html#3_petrarque">Pétrarque</ref>. Notons que, dans la première partie, le faux druide n'en possédait  pas  (<ref target="../_roman/reference/21_1/21_1_livre_5.html#126_recto">I, 5, 126 recto</ref> par exemple). <lb/>
+        « Arbre qui est toûjours verd, &amp; qui a une grosse feuille longue, large par enbas ; &amp; pointuë par le bout, qui est solide, odorante &amp; fort lissée. Il y a des lauriers masles &amp; femelles, qui different en ce que le premier a ses feuilles larges, &amp; l'autre plus estroites. Sa fleur est blancheastre &amp; petite, pleine de mousse, presque semblable à celle de l'olive. Elle rend des perles premierement verdes, qui deviennent noires estant meures. Elles sont garnies d'un gros noyau, comme le fruit de bruscus. On les cueille à la fin de l'automne, &amp; on en fait de l'huile appellé laurin. Les ramiers, les merles, les corbeaux &amp; autres oiseaux se purgent des perles de laurier, &amp; en usent comme de contrepoison. Si on frotte ensemble deux feuilles de laurier seches sur du soulfre pulverisé, il en sortira du feu. [...] Les Anciens ont mis au rang des prodiges un laurier frappé du foudre. [...] Se dit figurémement en Morale, pour signifier la gloire d'un triomphe, d'une conqueste. [...] parce que autrefois les couronnes de laurier estoient la recompense de la valeur &amp; de la vertu. On en donnoit aussi aux excellents Poëtes, parce que le laurier estoit consacré à Apollon. Scuderi s'est fait peindre avec cette devise, <hi rend="italic">Poete &amp; guerrier, il aura du laurier</hi> » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Layette</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Une layette où j'ay mis le papier</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#152_recto">III, 4, 152 recto</ref>). « LAYETTE, est aussi un tiroir d'une armoire, ou cabinet, ou buffet, où l'on serre plusieurs choses qu'on veut separer &amp; mettre en ordre. On le dit particulierement des papiers dans un Tresor » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Leans</cell>
+              <cell colspan="1" rowspan="1">« Là dedans, là »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Légèreté</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Facilité, promptitude. »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lequel (Laquelle)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Quel que soit celui que » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - « Quel » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Lequel (Laquelle)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <ref target="bibliographie.html#vaugelas">Vaugelas</ref> note que <hi rend="italics">lequel</hi> et <hi rend="italics">laquelle</hi> « sont rudes pour l'ordinaire, et l'on doit plustost se servir de <hi rend="italics">qui</hi> » (p. 115). La Cour apprécie <hi rend="italic">lequel</hi> seulement au début de « quelque narration considerable », et sans préposition (p. 116), situation qu'on ne rencontre pas dans <hi rend="italic">L'Astrée</hi>.<lb/>
+        La remarque de Vaugelas est reprise par <ref target="bibliographie.html#richelet">Richelet</ref> : « Ce pronom <hi rend="italic">lequel</hi> &amp; <hi rend="italic">laquelle</hi> est rude au nominatif  tant singulier que pluriel &amp; on se   doit plutôt servir du pronom <hi rend="italic">qui</hi> à moins que le <hi rend="italic">qui</hi> ne fasse quelque équivoque ». Dans un poème, <hi rend="italic">lequel</hi> appartiendrait même au burlesque, selon <ref target="bibliographie.html#patru">Patru</ref> (II, p. 636).<lb/>
+        <lb/>
+        <hi rend="italics">Lequel</hi> et ses composés reviennent 76 fois dans la troisième partie. <lb/>
+        -
+        Quelquefois ils suivent une préposition et sont donc légitimes (<hi rend="italic">par lesquels</hi>, <ref target="../_roman/reference/21_3/21_3_livre_2.html#55_verso">III, 2, 55 verso</ref>).<lb/>
+        Il est rare alors que l'édition de 1621 remplace <hi rend="italic">lequel</hi> par <hi rend="italic">qui</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#396_recto">III, 9, 396 recto</ref>). <lb/>
+        <lb/>
+        - Dans la grande majorité des autres cas, <hi rend="italic">lequel</hi> et ses composés auraient pu être aisément remplacés par <hi rend="italics">qui</hi> ou <hi rend="italic">que</hi> : <hi rend="italic">Une telle tromperie, qui se peut dire trahison, et laquelle je n'eusse jamais sceuë</hi>, <ref target="../_roman/reference/21_3/21_3_livre_4.html#126_recto">III, 4, 126 recto</ref>. (Voir aussi <ref target="../_roman/reference/21_3/21_3_livre_4.html#152_recto">III, 4, 152 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_4.html#167_recto">III, 4, 167 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_5.html#185_verso">III, 5, 185 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_5.html#202_verso">III, 5, 202 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_5.html#212_recto">III, 5, 212 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_6.html#263_verso">III, 6, 263 verso</ref>). Ils auraient souvent pu être remplacés par <hi rend="italic">dont</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#166_verso">III, 4, 166 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_5.html#200_recto">III, 5, 200 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_5.html#208_verso">III, 5, 208 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_7.html#293_recto">III, 7, 293 recto</ref>).<lb/>
+        <lb/>
+        - Parfois, il aurait fallu refaire la phrase pour remplacer <hi rend="italic">lequel</hi> : <hi rend="italics">Il disoit tels vers, et lesquels il sembloit que</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#9_recto">III, 1, 9 recto</ref>). Voir aussi <ref target="../_roman/reference/21_3/21_3_livre_2.html#55_verso">III, 2, 55 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_4.html#138_recto">III, 4, 138 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_5.html#209_recto">III, 5, 209 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_5.html#212_verso">III, 5, 212 verso</ref>. <lb/> <lb/>
+        - Il semble  que l'auteur utilise <hi rend="italic">lequel</hi> pour éviter de répéter un pronom : <hi rend="italic">Il la remercioit grandement des offres qu'elle luy faisoit, lesquelles il ne refusoit point</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#197_recto">III, 5, 197 recto</ref>). Voir aussi <ref target="../_roman/reference/21_3/21_3_livre_5.html#204_recto">III, 5, 204 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_5.html#205_verso">III, 5, 205 verso</ref>.<lb/>
+        <lb/>
+        • La fréquence des pronoms relatifs contractés avec <hi rend="italic">à</hi> (<hi rend="italic">auquel</hi> 39 fois, <hi rend="italic">à laquelle</hi> 20 fois), et surtout avec <hi rend="italic">de</hi> (<hi rend="italic">duquel </hi>76 fois, <hi rend="italic">de</hi> <hi rend="italic">laquelle</hi>, 60 fois, <hi rend="italic">desquels</hi> 33 fois et <hi rend="italic">desquelles</hi> 23 fois) est particulièrement surprenante :<lb/>
+        - Notons par exemple que <hi rend="italic">Desquels</hi> est souvent déroutant. Il est mis pour <hi rend="italic">avec lesquels</hi> : <hi rend="italic">Je fis des vers, desquels je me suis bien souvent consolé</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#248_verso">III, 6, 248 verso</ref>).<lb/>
+        <hi rend="italic">Desquels</hi> signifie aussi <hi rend="italic">par lesquels</hi> : <hi rend="italic">La verité de ses paroles : desquelles enfin je fus persuadee de le croire</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#287_recto">III, 7, 287 recto</ref>).<lb/>
+        <hi rend="italic">Desquels</hi> prend souvent la place de <hi rend="italic">dont</hi> : <hi rend="italic">Ces deux fideles Amants [...] desquels les ames jouyssent</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#359_verso">III, 8, 359 verso</ref>).<lb/>
+        <lb/>
+        • Mme <ref target="bibliographie.html#sanciere">Sancier-Chateau</ref> analyse les pronoms relatifs qui subissent des variantes, et souligne l'importance de la nature de l'antécédent (pp. 100-108). Elle ne relève malheureusement pas le cas où, quel que soit l'antécédent, la variante remplace <hi rend="italic">que</hi> par <hi rend="italic">desquels</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#159_verso">III, 4, 159 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Lequel (Laquelle)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Lequel</hi> et ses dérivés restent fréquents. Il arrive même que <hi rend="italic">lequel</hi> prenne la place donnée à <hi rend="italic">dont</hi> précédemment. <lb/>
+        - <hi rend="italic">Une chose [...] de laquelle le souvenir ne peut revenir</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#115">IV, 1, 115</ref>).<lb/>
+        - <hi rend="italic">Mes raisons desquelles [...] toute cette trouppe jugera</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#136">IV, 1, 136</ref>).<lb/>
+        - <hi rend="italic">Les enchantemens desquels tu m'as menacé</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#142">IV, 1, 142</ref>).<lb/>
+        - <hi rend="italic">Les choses ausquelles il le peut desobeïr</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#310">IV, 2, 310</ref>).<lb/>
+        [<hi rend="italic">Ausquelles</hi> : graphie que l'on rencontre dans <ref target="bibliographie.html#richelet">Richelet</ref> et dans <ref target="bibliographie.html#furetiere">Furetière</ref>.]<lb/>
+        - <hi rend="italic">Ancestres desquels  il estoit descendu</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#344">IV, 2, 344</ref>).<lb/>
+        - <hi rend="italic">Les yeux desquels Sigismond vous void</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#755">IV, 4, 755</ref>).<lb/>
+        <ref target="bibliographie.html#furetiere">Furetière</ref> donne seulement voir « d'un autre oeuil ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lequel que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Lequel que tu voudras</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#378_recto">III, 9, 378 recto</ref>). <lb/>        « Celui que »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lettre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Elle recognut fort bien la lettre d'<ref target="personnage_aa.html#3_alcyre">Alcire</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#152_recto">III, 4, 152 recto</ref>).<lb/>« LETTRE, se dit aussi du caractere particulier dont chacun escrit. Je connois la lettre d'un tel, cela n'est pas de son escriture » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lettres</cell>
+              <cell colspan="1" rowspan="1">« Se dit aussi des sciences. C'est un homme de <hi rend="italics">Lettres</hi> [...] On appelle les <hi rend="italics">Lettres</hi> humaines, &amp; abusivement les belles <hi rend="italics">Lettres</hi>, la connoissance des Poëtes &amp; des Orateurs ; au lieu que les vrayes belles <hi rend="italics">Lettres</hi> sont la Physique, la Geometrie, &amp; les sciences solides » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Levée</cell>
+              <cell colspan="1" rowspan="1">« Lever guerre. Entrer en guerre »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lever</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Élever »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Libre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se dit aussi de ce qui agit sans obstacle, sans opposition. Je suis libre de mes actions » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Librement</cell>
+              <cell colspan="1" rowspan="1">« Volontiers »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). Furetière ne donne pas cette acception.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Licencier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Donner permission de se retirer » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Licencieux</cell>
+              <cell colspan="1" rowspan="1">« Qui prend trop de liberté &amp; de licence » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Licol</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Chercher quelque malheureux licol pour finir sa vie</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#557">IV, 3, 557</ref>). Forme ancienne de <hi rend="italic">Licou</hi>.<lb/>
+        « Licol. Corde servant à pendre, à étrangler, à se pendre, à s'étrangler » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lict ouvert</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Voyant le lict tout ouvert</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#435_verso">III, 10, 435 verso</ref>). Lit dont les rideaux sont tirés.<lb/>
+        « Un lit bien garny est composé de ces pieces : d'un chalit, ou bois de lit, d'une paillasse, d'un lit de plume, d'un matelas, d'un traversin, de deux draps, &amp; d'une couverture, d'un dossier, d'un ciel ou d'un fond de lit, des <hi rend="italic">pentes</hi>, rideaux, <hi rend="italic">bonnes graces</hi> a <hi rend="italic">cantonieres</hi> » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        [« PENTE. s.f. La garniture qu'on met au haut d'un lit, ou d'un dais.<lb/>
+BONNE GRACE. s.f.  Petit rideau qui est au chevet d'un lit.<lb/>
+        CANTONNIERE. s. f. Petit rideau qu'on tend des deux costez des <hi rend="italic">quenouilles</hi> d'un lit vers les pieds. <lb/>
+        QUENOUILLE. s.f. les bastons d'une couche à haut piliers qui soustiennent le ciel &amp; les rideaux » (<ref target="bibliographie.html#furetiere">Furetière</ref>).]</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lierre</cell>
+              <cell colspan="1" rowspan="1">« Plante reptile qui s'attache sur les arbres ou sur les murailles, parce qu'elle ne peut se soûtenir toute seule » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+ <ref target="../_roman/reference/21_1/21_1_livre_12.html#400_recto">I, 12, 400 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#531_recto">III, 12, 531 recto</ref>. Image qui rappelle le lai du chèvrefeuille dans <hi rend="italic">Le Roman de Tristan et Iseult</hi> et dans un Lai de Marie de France dont le thème est :
+    « Ni vous sans moi ni moi sans vous ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Liette</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Layette. Coffre, boîte, coffret » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lieu</cell>
+              <cell colspan="1" rowspan="1">- « Condition, naissance, origine. En bon lieu. Noble, élevé »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Lieu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Donner de  lieu  à la raison</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#131_verso">III, 4, 131 verso</ref>). Donner de la place à la raison. <lb/>
+
+        - <hi rend="italic">Tout ce que nous avons allegué [...] pourroit bien avoir lieu pour le regard de quelque autre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#406_recto">III, 9, 406 recto</ref>). « Avoir lieu. Avoir effet » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Lieu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Lieu de desastre et d'abomination</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#491">IV, 3, 491</ref>).<lb/>
+        « Terme de philosophie. Espace qui contient quelque  corps  »  (<ref target="bibliographie.html#richelet">Richelet</ref>). <lb/>
+        <hi rend="italic">Lieu</hi> a son sens courant dans les autres instances (par exemple, <ref target="../_roman/reference/24_4/24_4_livre_3.html#490">IV, 3, 490</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lieue</cell>
+              <cell colspan="1" rowspan="1">Aujourd'hui, environ 4 kilomètres ou 2 miles et demi. <lb/>
+          <ref target="bibliographie.html#richelet">Richelet</ref> précise : « La <hi rend="italics">lieuë</hi> des anciens Gaulois étoit de mile cinq cens <ref target="glossaire_pp.html#pas">pas</ref> géométriques. Les autres croient que  les <hi rend="italics">lieuës</hi> ont chacune quatre  milles ». <ref target="bibliographie.html#furetiere">Furetière</ref> rappelle qu'on estime une lieue « à une heure de chemin » (Article <hi rend="italic">Lieue</hi>), et que la lieue de France est de trois mille <ref target="glossaire_pp.html#pas">pas</ref> (Article <hi rend="italic">Pas</hi>). Dans sa définition de  <hi rend="italic">Heure</hi>, <ref target="bibliographie.html#furetiere">Furetière</ref> note que c'« est aussi une mesure de chemin chez la plus-part des nations. On dit, Il y a tant d'heures de chemin, pour dire, un chemin qu'on peut faire en tant d'heures : cela se rapporte à une grande lieuë de France ». <lb/>
+          La  lieue   française est encore de trois mille pas dans l'<ref target="bibliographie.html#encyclopedie">
+                  <hi rend="italic">Encyclopédie</hi>
+                </ref> de Diderot. Pour <ref target="bibliographie.html#littre">Littré</ref>, « La lieue commune de France, ou lieue géographique, était de deux mille deux cent quatre-vingt-deux toises (4 444 mètres et demi) ». Il corrige et écrit « La lieue commune de France, ou lieue de 25 au degré, était de deux mille deux cent quatre-vingt-une toises environ (4 445 mètres) ».<lb/>
+          <lb/>
+        •          D'Urfé n'utilise pas la lieue gauloise mais la lieue française.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lieutenant</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Lieutenant d'<ref target="personnage_aa.html#3_amasis">Amasis</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#500_verso">III, 12, 500 verso</ref>). « Officier qui tient le lieu d'un Superieur, qui exerce une charge en son absence, ou qu'il devroit exercer luy-même » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lièvre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Lèvre. Seul <ref target="bibliographie.html#la_curne">La Curne  de Sainte-Palaye</ref> donne <hi rend="italics">lièvre</hi> (Article <hi rend="italics">Lèvre</hi>). <lb/>
+        •                   L'édition de 1621 le remplace par <hi rend="italics">lèvre</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ligne de faveur</cell>
+              <cell colspan="1" rowspan="1">
+                <ref target="../_roman/reference/21_1/21_1_livre_5.html#147_recto">I, 5, 147 recto</ref>. Adaptation de « ligne de compte » ? « Mettre en ligne de compte, les graces qu'on reçoit de ses amis, les services qu'on leur rend, suivant qu'on en fait plus ou moins d'estat » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> ne donne pas cette expression.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Limon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Un siege couvert de mousse et de limon</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#101_verso">III, 3, 101 verso</ref>). « Terre destrempée avec de l'eau, qui fait de la bouë » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Linceul</cell>
+              <cell colspan="1" rowspan="1">« Linceul. Linge.
+        Drap de lit »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Linéament</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La figure et les lineamens qu'elle luy veut donner</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#204_verso">III, 5, 204 verso</ref>). « Trait ou ligne delicate qu'on observe en quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Linomple</cell>
+              <cell colspan="1" rowspan="1">« Coiffe de linon »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+        « On dit aussi <hi rend="italics">Linomple</hi>. s. m. Toile fort déliée faite de fin lin, qu'on vend en couppons, &amp; dont on fait des rabats &amp; des manchettes » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italics">Linon</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Littiere</cell>
+              <cell colspan="1" rowspan="1">« On emploie les formes lettiere et lectiere.  1° (au sens de véhicule). 2° (au sens de lit d'herbe) »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+        « Sorte de voiture ou corps de carosse suspendu sur des brancarts, &amp; porté ordinairement par des mulets. La plus douce des voitures est celle de la <hi rend="italics">litiere</hi> » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Livrée</cell>
+              <cell colspan="1" rowspan="1">« Couleur qu'une personne aime, &amp; dont elle se sert pour se distinguer des autres » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loge</cell>
+              <cell colspan="1" rowspan="1">« Habitation, demeure.
+        Cabane, chaumière »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). « Petit lieu serré où on se retire en quelques occasions » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:68px;">
+                Loger</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Établir, marier » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+          <ref target="bibliographie.html#furetiere">Furetière</ref> ignore cette acception. Il  donne : « On dit proverbialement qu'on a logé quelqu'un, pour dire, qu'on l'a mis prisonnier, ou enfermé dans quelque loge ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Logette</cell>
+              <cell colspan="1" rowspan="1">« Logette. Petit logis, échoppe »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loing</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Je ne suis pas de si loing</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#833">IV, 4, 833</ref>).<lb/>
+        « Éloigné » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italic">Il a premedité de loing</hi> (<ref target="../_roman/reference/24_4/24_4_livre_5.html#930">IV, 5, 930</ref>).<lb/>
+        « De loin. En s'y prenant à l'avance, en anticipant » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loisible</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Il n'est loisible de se plaindre desmesurément</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#854">IV, 4, 854</ref>).<lb/>
+        « Vieux mot qui ne se dit plus qu'au Palais. Ce qui est permis » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+                <ref target="bibliographie.html#ronsard">Ronsard</ref> encore utilise <hi rend="italic">loisible</hi> dans une ode à Remy Belleau (II, <hi rend="italic">Les Odes</hi>, p. 293).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loisir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Nous sommes de loisir</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#232_verso">III, 6, 232 verso</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> donne : « Les jeunes gens de la Cour sont fort faineants, sont de grand loisir ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Loisir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">J'ay bien eu loisir d'apprendre </hi>(<ref target="../_roman/reference/24_4/24_4_livre_5.html#921">IV, 5, 921</ref>).<lb/>
+Le <ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref> donne « Avoir loisir de, avoir la possibilité de ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Long</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se dit adverbialement en plusieurs phrases avec l'adjonction de quelques particules, comme, a, de, le, &amp;c. [...] Au long aller on s'ennuye » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:42px;">Long</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Raconter [...] assez au long</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#162_verso">III, 4, 162 verso</ref>). « Au Long, tout au long, adv. D'une maniere prolixe, d'une façon difuse » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:117px;">
+                Long temps</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Le sens exact de l'adverbe peut surprendre :<lb/>
+          <hi rend="italics">- Il y a (avoit) long temps</hi> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#796">II, 12, 796</ref>) : depuis longtemps.<lb/>
+          <hi rend="italics">- De long temps</hi> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#836">II, 12, 836</ref>) : pendant longtemps. <lb/>
+          <hi rend="italics">- Dès long temps</hi> : depuis longtemps (<ref target="../_roman/reference/21_2/21_2_livre_11.html#762">II, 11, 762</ref>). <lb/>
+          <hi rend="italics">- De long temps </hi>(<ref target="../_roman/reference/21_2/21_2_livre_12.html#785">II, 12, 785</ref>) : depuis longtemps. <lb/>
+        • Les dictionnaires anciens donnent « <hi rend="italics">long temps</hi> » qui s'écrit en deux mots encore en 1762 dans le <hi rend="italic">
+                  <ref target="bibliographie.html#academie">Dictionnaire de l'Académie</ref>
+                </hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Long temps</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je n'en sçeus rien de long temps apres</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#116_recto">III, 3, 116 recto</ref>). Pendant longtemps.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Longueur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se dit aussi de la negligence, de la lenteur avec laquelle on fait quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lors</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">J'ay autrefois aymé une fille et lors j'eusse juré</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#21">IV, 1, 21</ref>).<lb/>
+        « Ce mot est vieux et en sa place on dit alors » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loüer (se)</cell>
+              <cell colspan="1" rowspan="1">« Avec le pronom personnel, signifie, Estre satisfait » (<ref target="bibliographie.html#furetiere">Furetière</ref>).   <ref target="bibliographie.html#huguet">Huguet</ref> ne donne pas ce sens au verbe.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loy</cell>
+              <cell colspan="1" rowspan="1">« Permission » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        •          Ce substantif est remplacé en 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Loy</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">Il revient dans la troisième partie où il n'est pas remplacé (<ref target="../_roman/reference/21_3/21_3_livre_8.html#365_recto">III, 8, 365 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loyer</cell>
+              <cell colspan="1" rowspan="1">« Salaire, recompense » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Luitter</cell>
+              <cell colspan="1" rowspan="1">« Lutter » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Luitter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Voir luitter vos Bergers</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#58">IV, 1, 58</ref>). <lb/>
+        Cette graphie de <hi rend="italic">lutter</hi> n'est pas dans <ref target="bibliographie.html#huguet">Huguet</ref>, mais elle est dans <ref target="bibliographie.html#la_curne">La Curne</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lune</cell>
+              <cell colspan="1" rowspan="1">  <ref target="bibliographie.html#huguet">Huguet</ref> ne donne pas au substantif le sens qu'il a dans <hi rend="italics">L'Astrée</hi>. <lb/>
+        « Une mesure de temps dont se sont servis plusieurs peuples de l'Antiquité qui avoient des mois &amp; des années lunaires. Les Romanciers se servent de cette supputation » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        L'information vient de ce que <ref target="bibliographie.html#pline">Pline</ref> dit des Gaulois (XVI).<lb/>
+        « A la sixiesme Lune (ainsi alloient contans<lb/>
+        De leurs mois, de leurs ans, et du siecle à trente ans<lb/>
+        Tous les commencemens) » <lb/>
+        (<ref target="bibliographie.html#le_fevre">Le Fèvre de la Boderie</ref>, Cercle III, v.  49).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lussiez</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> Verbe <hi rend="italics">Lire</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lustral</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Eau lustrale</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#28_verso">III, 2, 28 verso</ref> ;  <ref target="../_roman/reference/21_3/21_3_livre_8.html#337_recto">III, 8, 337 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_8.html#356_verso">III, 8, 356 verso</ref>). « Adject. fem. Se dit en cette phrase : Eau lustrale, qui servoit aux anciennes ceremonies des Payens, pour arroser le peuple. Les Chrêtiens l'ont imitée &amp; sanctifiée en faisant l'eau beniste des Eglises »  (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        • Dans la deuxième partie, cette eau était dite <ref target="glossaire_aa.html#arferial">arferiale</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lustre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Le cinquiesme lustre </hi>(<ref target="../_roman/reference/24_4/24_4_livre_3.html#417">IV, 3, 417</ref>).<lb/>
+        « Terme de cinq ans. C'est une supputation qu'on fait plus communément en Poësie. A peine a t-il atteint son cinquiéme lustre » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+          </table><p> </p><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Astrée fonctionnelle, I, Tables - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../../../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../../../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="../../../_analyse/index_noms_propres.html">Index des noms propres</ref><lb/><ref target="../../../_analyse/personnage.html">Tableaux des personnages</ref><lb/><ref target="../../../_analyse/repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="../../../_analyse/glossaire.html">Glossaire</ref><lb/><ref target="../../../_analyse/dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="../../../_analyse/notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="../../../_analyse/plan_du_site.html">Plan du site</ref><lb/><ref target="../../../_analyse/plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="../../../_analyse/bibliographie.html">Bibliographie</ref><lb/><ref target="../../../_analyse/liens.html">Liens externes</ref><lb/><ref target="../../../_analyse/liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="../../../_analyse/guide.html">Guide de la navigation</ref><lb/><ref target="../../../_analyse/faq.html">FAQ</ref><lb/><ref target="../../../_analyse/nouveautes.html">Nouveautés</ref><lb/><ref target="../../../_analyse/remerciements.html">Remerciements</ref><lb/><ref target="../../../_analyse/cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../../../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><hi rend="white">
+            <hi rend="bold">MONTRER</hi>
+            <lb/>
+<!--<input
+  type="checkbox"
+  id="chk_annotation"
+  name="chk_annotation"
+  onclick="ToggleAnnotation()">--><!--</input>-->
+            <hi rend="leftmenu" onclick="ToggleCheck('annotation')">Annotations</hi>
+     <hi xml:id="couleurs">
+              <lb/>
+   <!--<input
+  type="checkbox"
+  id="chk_couleur"
+  name="chk_couleur"
+  onclick="ToggleCouleur()">--><!--</input>-->
+              <hi rend="leftmenu" onclick="ToggleCheck('couleur')">colorées</hi>
+     </hi>
+            <lb/>
+<hi xml:id="chk_var">
+  <!--<input
+  type="checkbox"
+  id="chk_variante"
+  name="chk_variante"
+  onclick="ToggleVariante()">--><!--</input>-->
+              <hi rend="leftmenu" onclick="ToggleCheck('variante')">Variantes</hi>
+	<hi xml:id="explicite">
+                <lb/>
+   <!--<input
+  type="checkbox"
+  id="chk_explicite"
+  onclick="ToggleExplicite()">--><!--</input>-->
+                <hi rend="leftmenu" onclick="ToggleCheck('explicite')">explicites</hi>
+    </hi>
+              <lb/>
+    </hi>
+</hi><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="../../../_analyse/accueil.html">Accueil</ref><lb/><ref target="../../../_analyse/preface.html">Préface</ref><lb/><ref target="../../../_analyse/choix.html">Choix éditoriaux</ref><lb/><ref target="../../../_analyse/quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="../../../_analyse/astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="../../../_analyse/vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="../../../_analyse/texte.html">Présentation des textes</ref><lb/><ref target="../../../_analyse/feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../../reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../../reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../../reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../../reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../../reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../../preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../../preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../../preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../../preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="../../../_analyse/resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="../../../_analyse/plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="../../../_analyse/evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="../../../_analyse/variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="../../../_analyse/variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/illustrations.html">Analyse des illustrations</ref><lb/><ref target="../../../_analyse/paralleles.html">Parallèles suggérés</ref><lb/><ref target="../../../_analyse/resume.html">Résumé des intrigues</ref><lb/><ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref><lb/><ref target="../../../_analyse/temoignages.html">Témoignages</ref><lb/><ref target="../../../_analyse/temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="../../../_analyse/temoignages.html#sorel">Sorel</ref><lb/><ref target="../../../_analyse/temoignages.html#gueret">Guéret</ref><lb/><ref target="../../../_analyse/lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="../../../_analyse/urfe.html">Biographie</ref><lb/><ref target="../../../_analyse/biographes.html">Biographes, critiques</ref><lb/><ref target="../../../_analyse/evenements.html">Événements</ref><lb/><lb/><ref target="../../../_analyse/genealogie.html">Généalogie</ref><lb/><ref target="../../../_analyse/testament.html">Testament</ref><lb/><ref target="../../../_analyse/inventaire.html">Inventaire</ref><lb/><ref target="../../../_analyse/heritages.html">Héritages</ref><lb/><lb/><ref target="../../../_analyse/poemes.html">Poèmes</ref><lb/><ref target="../../../_analyse/epitres.html">Épîtres</ref><lb/><ref target="../../../_analyse/lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="../../../_analyse/jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="../../../_analyse/malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="../../../_analyse/bibliographie.html">Bibliographie</ref><lb/><ref target="../../../_analyse/liens.html">Liens externes</ref><lb/><ref target="../../../_analyse/liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="../../../_analyse/cartotheque.html">Cartothèque</ref><lb/><ref target="../../../_analyse/galerie.html">Galerie de portraits</ref><lb/><ref target="../../../_analyse/rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="../../../_analyse/partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="../../../_analyse/photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../../../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../../../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../../../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../../../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="../../../_analyse/recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="../../../_analyse/recherche.html">Fils d'Arianne</ref><lb/><ref target="../../../_analyse/hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="../../../_analyse/recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="../../../_analyse/concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="../../../_analyse/guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><hi rend="italic">L'Astrée </hi><!--<script>--><!--</script>--><table rend="small8 nocellborder" style=" background-image:url(../../../images/parchemin4.gif); text-align:left; z-index:4; width:100%">
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_liminaires.html">Liminaires</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_1_livre_7.html">Livre 7</ref>
+	
+	</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_livre_1.html">Livre 1</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	<ref target="fonctionnelle_1_livre_8.html">Livre 8</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_livre_2.html">Livre 2</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_1_livre_9.html">Livre 9</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_livre_3.html">Livre 3</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_1_livre_10.html">Livre 10</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_livre_4.html">Livre 4</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_1_livre_11.html">Livre 11</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_livre_5.html">Livre 5</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_1_livre_12.html">Livre 12</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+    
+ 	  <ref target="fonctionnelle_1_livre_6.html">Livre 6</ref>
+    
+    </cell>
+                <cell colspan="1" rowspan="1">
+	
+    <ref target="fonctionnelle_1_tables.html">Tables</ref>	
+		</cell>
+              </row>
+              <row>
+                <cell colspan="2" rowspan="1">
+	  
+    <ref target="fonctionnelle_1_liminaires.html#privilege">Privilège</ref>	  
+	  	    </cell>
+              </row>
+            </table><lb/><lb/><ref target="../../../_analyse/resume.html">Résumé du roman</ref><lb/><ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref><lb/><ref target="../../../_analyse/choix.html">Choix éditoriaux</ref><lb/><ref target="../../../_analyse/texte.html">Présentation des textes</ref><lb/><ref target="../../../_analyse/evolution.html">Évolution</ref><lb/><ref target="../../../_analyse/illustrations.html">Illustrations</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../../../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../../../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><!--<script>--><!--</script>--><hi rend="italic">L'Astrée fonctionnelle</hi><lb/><hi rend="italic">L'Astrée</hi><ref target="fonctionnelle_1_livre_12.html">
+          <graphic url="../../../images/fleche_g.gif" rend="img" mimeType="image/gif"/>
+          <hi style="float:left; margin-top:6px">Livre 12</hi>
+        </ref><ref target="../fonctionnelle_2/fonctionnelle_2_liminaires.html">
+          <graphic url="../../../images/fleche_d.gif" rend="img" mimeType="image/gif"/>
+          <hi style="float:right; margin-top:6px">Deuxième partie</hi>
+        </ref><lb/><lb/><lb/><!--<header>--><div><div><head>
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>
+              <hi rend="italic">L'Astrée</hi>
+	    d'Honoré d'Urfé<lb/>
+    Première partie </head><!--</header>--><!--<header>--></div></div><div><head>Tables</head><!--</header>--><hi rend="italicspage">
+            
+            <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>(Aller
+      à <ref target="../../preliminaire/07_1/07_1_tables.html">1607</ref> <ref target="../../reference/21_1/21_1_tables.html">1621</ref>)</hi><p rend="center_t">
+            
+            <hi rend="titres">Table des livres</hi>
+            <hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#table_livres">η</ref> </p><table rend="center_t full-width high-middle nocellborder">
+            <row>
+              <cell colspan="1" rowspan="1" style="width:50%;">
+                <ref target="fonctionnelle_1_livre_1.html">Livre 1</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">1 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_2.html">Livre 2</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">21 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_3.html">Livre 3</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">47 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html">Livre 4</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">77 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_5.html">Livre 5</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">122 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_6.html">Livre 6</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">157 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_7.html">Livre 7</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">193 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_8.html">Livre 8</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">222 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_9.html">Livre 9</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">266 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html">Livre 10</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">306  recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_11.html">Livre 11</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="small_sic">361 recto sic</hi> 351 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_12.html">Livre 12</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">380 recto</cell>
+            </row>
+          </table><lb/><p><graphic url="../../../images/divider.jpg" rend="img" mimeType="image/jpeg"/></p><p rend="center_t">
+            
+            <hi rend="titres">Table des histoires conte-<lb/>
+nues en la première <lb/>
+partie d'Astrée </hi>
+            <hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#table_histoires">η</ref>
+          </p><p>Édition de <ref target="../../../_analyse/bibliographie.html#vaganay">Vaganay</ref>, p. 489. </p><table rend="full-width high-middle nocellborder">
+            <row>
+              <cell colspan="1" rowspan="1" style="width:50%;"> <ref target="fonctionnelle_1_livre_2.html#histoire_d_alcippe">Histoire d'Alcippe</ref>
+              </cell>
+              <cell colspan="1" rowspan="1" style="width:20%;">2, 33 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Céladon</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_3.html#histoire_de_silvie">Histoire de Silvie</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">3, 56 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Léonide</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_4.html#histoire_d_astree_et_phillis">Histoire d'Astrée et Phillis</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">4, 86 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Astrée</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_5.html#histoire_de_la_tromperie_de_climanthe">Histoire de la tromperie de Climanthe</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">5, 124 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Climanthe</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_5.html#histoire_de_stelle_et_corilas">Histoire de Stelle et Corilas</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">5, 145 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Corilas</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_6.html#histoire_de_diane">Histoire de Diane</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">6, 158 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Diane</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_7.html#histoire_de_tircis_et_de_laonice">Histoire de Tircis et  Laonice</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">7, 202 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Laonice</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_7.html#haranguehylas">Harangue de Hylas pour Laonice</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">7, 214 verso</cell>
+              <cell colspan="1" rowspan="1"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_7.html#responsephillis">Réponse de Phillis pour Tircis</ref>
+              </cell>
+              <cell colspan="1" rowspan="1" style="">7, 216 recto</cell>
+              <cell colspan="1" rowspan="1" style=""> </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_8.html#histoire_de_silvandre">Histoire de Silvandre</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">8, 226 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Silvandre</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_8.html#histoire_de_hylas">Histoire de Hylas</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">8, 242 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Hylas</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_9.html#histoire_de_galathee_et_lindamor">Histoire de Galathée et Lindamor</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">9, 266 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Léonide</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_10.html#histoire_de_leonide">Histoire de Léonide</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">10, 308 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Silvie</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_10.html#histoire_de_celion_et_bellinde">Histoire de Celion et Bellinde</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">10, 324 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Céladon</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_11.html#histoire_de_ligdamon">Histoire de Ligdamon</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">11, <hi rend="small_sic">365 verso sic</hi> 355 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Égide</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_11.html#histoire_de_damon_et_de_fortune">Histoire de Damon et de Fortune</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">11, 369  recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Adamas</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1"> <ref target="fonctionnelle_1_livre_12.html#histoire_de_lydias_et_de_melandre">Histoire de Lydias et de Mélandre</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">12, 382 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Amasis</hi>
+              </cell>
+            </row>
+          </table><lb/><p><graphic url="../../../images/divider.jpg" rend="img" mimeType="image/jpeg"/></p><p rend="center_t">
+            
+            <hi rend="titres">Table des lettres</hi>
+            <hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#table_lettres">η</ref>
+          </p><p>Édition de <ref target="../../../_analyse/bibliographie.html#vaganay">Vaganay</ref>, p. 490.</p><table rend="full-width high-middle nocellborder">
+            <row>
+              <cell colspan="1" rowspan="1" style="width:65%;">
+                <ref target="fonctionnelle_1_livre_1.html#reponse_celadon_lycidas">Réponse de Céladon à Lycidas</ref>
+              </cell>
+              <cell colspan="1" rowspan="1" style="width:20%;">1, 10 verso</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_1.html#lettre_celadon_astree1">Lettre de Céladon à la Bergère Astrée</ref> (1)</cell>
+              <cell colspan="1" rowspan="1">1, 12 verso</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <p>
+                  <ref target="fonctionnelle_1_livre_2.html#lettre_amarillis_alcippe">Lettre d'Amarillis à Alcippe</ref>
+                </p>
+              </cell>
+              <cell colspan="1" rowspan="1">2, 36 verso</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <p>
+                  <ref target="fonctionnelle_1_livre_3.html#lettre_astree_celadon1">Lettre d'Astrée à Céladon</ref> (1)</p>
+              </cell>
+              <cell colspan="1" rowspan="1">3, 48 verso</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <p>
+                  <ref target="fonctionnelle_1_livre_3.html#lettre_astree_celadon2">Autre Lettre d'Astrée à Céladon</ref> (2)</p>
+              </cell>
+              <cell colspan="1" rowspan="1">3, 49 verso</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <p>
+                  <ref target="fonctionnelle_1_livre_3.html#lettre_astree_celadon3">Lettre d'Astrée à Céladon</ref> (3)<hi rend="cache"> </hi>
+                  <ref target="../../../_analyse/note_1.html#table_lettres_erreur">η</ref>
+                </p>
+              </cell>
+              <cell colspan="1" rowspan="1">3, 50 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_3.html#lettre_astree_celadon1">Lettre de Ligdamon à Silvie</ref> (1)</cell>
+              <cell colspan="1" rowspan="1">3, 58 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_3.html#response_silvie_ligdamon">Réponse de Silvie à Ligdamon</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">3, 61 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <p>
+                  <ref target="fonctionnelle_1_livre_3.html#lettre_aristandre_silvie">Lettre d'Aristandre à Silvie</ref>
+                </p>
+              </cell>
+              <cell colspan="1" rowspan="1">3, 67 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_3.html#billet_leonide_ligdamon">Billet de Léonide à Ligdamon</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">3, 70 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#lettre_celadon_astree2">Lettre de Céladon à la Bergère Astrée</ref> (2)<hi rend="cache"> </hi>
+                <ref target="../../../_analyse/note_1.html#table_lettres_lacunes">η</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">4, 95 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#lettre_lycidas_phillis">Lettre de Lycidas à Phillis</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">4, 100 verso</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#lettre_astree_celadon4">Lettre d'Astrée à Céladon</ref> (4)</cell>
+              <cell colspan="1" rowspan="1">4, 104 verso</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#lettre_celadon_astree3">Lettre de Céladon à la Bergère Astrée</ref> (3)</cell>
+              <cell colspan="1" rowspan="1">4, 105 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#lettre_contrefaite_astree_celadon">Lettre contrefaite d'Astrée à Céladon</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">4, 113 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#lettre_astree_celadon5">Lettre d'Astrée à Céladon</ref> (5)</cell>
+              <cell colspan="1" rowspan="1">4, 117 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_5.html#lettre_corilas_stelle">Lettre de Corilas à Stelle</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">5, 152 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_6.html#lettre_filandre_diane">Lettre de Filandre à Diane</ref>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="bgalt">6, 166 verso</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_8.html#lettre_hylas_carlis">Lettre de Hylas à Carlis</ref>
+              </cell>
+              <cell colspan="1" rowspan="1" style="">8, 247 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_8.html#response_carlis_hylas">Réponse de Carlis à Hylas</ref>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="bgalt">8, 248 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_8.html#responce_stilliane_hylas">Réponcse de Stilliane à Hylas</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">8, 249 verso</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_9.html#lettre_lindamor_galathee1">Lettre de Lindamor à Galathée</ref> (1)</cell>
+              <cell colspan="1" rowspan="1">9, 280 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_9.html#lettre_lindamor_galathee2">Autre Lettre de Lindamor à Galathée</ref> (2)</cell>
+              <cell colspan="1" rowspan="1">9, 284 verso</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_9.html#reponse_leonide_lindamor_galathee">Réponse de Léonide à Lindamor  pour Galathée</ref>
+                <hi rend="cache"> </hi>
+                <ref target="../../../_analyse/note_1.html#table_lettres_lacunes">η</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">9, 285 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_9.html#billet_leonide_lindamor">Billet de Léonide à Lindamor</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">9, 285 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_9.html#billet_leonide_lindamor">Billet de Lindamor à Léonide</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">9, 290 verso</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_9.html#reponse_leonide_lindamor">Réponse de Léonide  à Lindamor</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">9, 295 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_9.html#replique_lindamor_leonide">Réplique de Lindamor à Léonide</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">9, 295 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html#lettre_celion_bellinde1">Lettre de Celion à Bellinde</ref> (1)</cell>
+              <cell colspan="1" rowspan="1">10, 327 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html#lettre_amaranthe_celion">Lettre d'Amaranthe à Celion</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">10, 328 recto</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html#response_celion_amaranthe">Réponse de Celion à Amaranthe</ref>
+                <hi rend="cache"> </hi>
+                <ref target="../../../_analyse/note_1.html#table_lettres_erreur_a">η</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">10, 328 verso</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html#lettre_celion_bellinde2">Lettre de Celion à Bellinde</ref> (2)</cell>
+              <cell colspan="1" rowspan="1">10, 333 verso</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html#lettre_celion_bellinde_transport">Autre Lettre de Celion à Bellinde</ref> (3)<hi rend="cache"> </hi>
+                <ref target="../../../_analyse/note_1.html#table_lettres_lacunes">η</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">10, 349 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html#lettre_bellinde_celion">Lettre de Bellinde à Celion</ref>
+                <hi rend="cache"> </hi>
+                <ref target="../../../_analyse/note_1.html#table_lettres_lacunes">η</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">10, <hi rend="small_sic">350 recto sic</hi> 340 recto</cell>
+            </row>
+            <row style="">
+              <cell colspan="1" rowspan="1">
+                <p>
+                  <ref target="fonctionnelle_1_livre_11.html#lettre_lindamor_leonide">Lettre de Lindamor à Léonide</ref>
+                </p>
+              </cell>
+              <cell colspan="1" rowspan="1">11, 362 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <p>
+                  <ref target="fonctionnelle_1_livre_11.html#lettre_lindamor_galathee">Lettre de Lindamor à Galathée</ref> (3)</p>
+              </cell>
+              <cell colspan="1" rowspan="1">11, 362 verso</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_11.html#lettre_ligdamon_silvie2">Lettre de Ligdamon à Silvie</ref> (2)</cell>
+              <cell colspan="1" rowspan="1">11, 375 recto</cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_12.html#lettre_astree_celadon6">Lettre d'Astrée à Céladon</ref> (6)<hi rend="cache"> </hi>
+                <ref target="../../../_analyse/note_1.html#table_lettres_erreur_b">η</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">12, 405 recto</cell>
+            </row>
+          </table><lb/><p><graphic url="../../../images/divider.jpg" rend="img" mimeType="image/jpeg"/></p><p rend="center_t">
+            <hi rend="titres">
+              Table des Poésies</hi>
+            <hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#table_poesies">η</ref>
+          </p><p>Édition de <ref target="../../../_analyse/bibliographie.html#vaganay">Vaganay</ref>, p. 491.</p><table rend="full-width high-middle nocellborder">
+            <row>
+              <cell colspan="1" rowspan="1" style="width:60%;">
+                <ref target="fonctionnelle_1_livre_6.html#a_la_fin">À la fin celui l'aura</ref>.</cell>
+              <cell colspan="1" rowspan="1" style="width:20%;">6, 162 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Amidor</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_6.html#ainsi_ma_diane">Ainsi ma Diane surpasse</ref>
+                <hi rend="cache"> </hi>
+                <ref target="../../../_analyse/note_1.html#table_lacunes">η</ref>.</cell>
+              <cell colspan="1" rowspan="1">6, 173 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Filandre</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_2.html#amarillis_toute">Amarillis toute pleine de grâce</ref>.</cell>
+              <cell colspan="1" rowspan="1">2, 37 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Alcippe</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_3.html#amour_en">Amour en trahison</ref>
+                <hi rend="cache"> </hi>
+                <ref target="../../../_analyse/note_1.html#table_lacunes">η</ref>.</cell>
+              <cell colspan="1" rowspan="1">3, 68 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Ligdamon</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_3.html#amour_pourquoi">Amour pourquoi</ref>.</cell>
+              <cell colspan="1" rowspan="1">3, 75 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Ligdamon</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_5.html#cependant_que_l_amour">Cependant que l'Amour</ref>.</cell>
+              <cell colspan="1" rowspan="1">5, 130 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Agis</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html#ceste_source">Cette source éternelle</ref>.</cell>
+              <cell colspan="1" rowspan="1">10, 351 sic 341 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Celion</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_2.html#chers_oiseaux">Chers Oiseaux de Vénus</ref>.</cell>
+              <cell colspan="1" rowspan="1">2, 35 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Alcippe</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html#dans_le_temple">Dans le Temple sacré</ref>.</cell>
+              <cell colspan="1" rowspan="1">10, 309 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Polémas</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_5.html#despit_foible_guerrier">Dépit faible guerrier</ref>.</cell>
+              <cell colspan="1" rowspan="1">5, 146 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Lysis</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#dessus_les_bords">Dessus les bords d'une fontaine</ref>.</cell>
+              <cell colspan="1" rowspan="1">4, 96 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Céladon</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_11.html#dessous_son">Dessous son pâle effroi</ref>.</cell>
+              <cell colspan="1" rowspan="1">11, 375  sic 365 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Céladon</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_9.html#reponse_leonide_lindamor_galathee">Donc le Ciel content</ref>.</cell>
+              <cell colspan="1" rowspan="1">10, 338 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Celion</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_6.html#d_un_coeur">D'un cœur outrecuidé</ref>.</cell>
+              <cell colspan="1" rowspan="1">6, 165 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Filandre</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_2.html#elle_a_le">Elle a le cœur de glace</ref>.</cell>
+              <cell colspan="1" rowspan="1">2, 36 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Alcippe</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#elle_faint">Elle feint de m'aimer</ref>.</cell>
+              <cell colspan="1" rowspan="1">4, 120 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Céladon</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_3.html#elle_le_veut_ainsi">Elle le veut ainsi</ref>.</cell>
+              <cell colspan="1" rowspan="1">3, 76 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Ligdamon</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_8.html#espoirs">Espoirs Ixions en audace</ref>.</cell>
+              <cell colspan="1" rowspan="1">8, 222 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Silvandre</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_12.html#ici_mon">Ici mon beau Soleil repose</ref>.</cell>
+              <cell colspan="1" rowspan="1">12, 398 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Céladon</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#il_faudrait_bien">Il faudrait bien que la Constance</ref>.</cell>
+              <cell colspan="1" rowspan="1">4, 114 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Céladon</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_7.html#j_ayme_a_changer">J'aime à changer</ref>.</cell>
+              <cell colspan="1" rowspan="1">7, 200 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Hylas</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#je_puis">Je puis bien dire</ref>.</cell>
+              <cell colspan="1" rowspan="1">4, 120 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Céladon</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html#je_ne_puis">Je ne puis excuser</ref>.</cell>
+              <cell colspan="1" rowspan="1">10, 349 sic 339 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Celion</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_1.html#je_pourray">Je pourrai bien dessus moi-même</ref>.</cell>
+              <cell colspan="1" rowspan="1">1, 10 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Céladon</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_1.html#la_beaute_que">La beauté que la mort</ref>.</cell>
+              <cell colspan="1" rowspan="1">1, 13 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Tircis</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_3.html#le_phenix">Le Phœnix de la cendre sort</ref>.</cell>
+              <cell colspan="1" rowspan="1">3, 75 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Silvie</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_7.html#mon_dieu_quel">Mon Dieu quel est le mal</ref>.</cell>
+              <cell colspan="1" rowspan="1">7, 204 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Tircis</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_10.html#outre_par">Outré par la douleur</ref>.</cell>
+              <cell colspan="1" rowspan="1">10, 358  sic 348 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Celion</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#pensons_nous">Pensons-nous en l'aimant</ref>.</cell>
+              <cell colspan="1" rowspan="1">4, 99 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Lycidas</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_3.html#pour_faire">Pour faire en elle quelque effet</ref>.</cell>
+              <cell colspan="1" rowspan="1">3, 75 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Léonide</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_7.html#pourquoi_cacher">Pourquoi cacher nos pleurs</ref>.</cell>
+              <cell colspan="1" rowspan="1">7, 211 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Tircis</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_6.html#pourquoi_semble">Pourquoi semble-il tant étrange</ref>.</cell>
+              <cell colspan="1" rowspan="1">6, 163 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Diane</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_9.html#pourquoy_si">Pourquoi si vous m'aimez</ref>.</cell>
+              <cell colspan="1" rowspan="1">9, 272 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Polémas</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_6.html#puisqu_en">Puisqu'en naissant belle Diane</ref>.</cell>
+              <cell colspan="1" rowspan="1">6, 162 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Daphnis</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_1.html#puis_qu_il">Puisqu'il faut arracher</ref>.</cell>
+              <cell colspan="1" rowspan="1">1, 18 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Hylas</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_4.html#quand_je_vis">Quand je vis ces beaux yeux</ref>.</cell>
+              <cell colspan="1" rowspan="1">4, 98 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Lycidas</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_8.html#quand_ma">Quand ma Bergère parle</ref>.</cell>
+              <cell colspan="1" rowspan="1">8,  244 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Hylas</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_6.html#que_ses_desirs">Que ses désirs soient grands</ref>.</cell>
+              <cell colspan="1" rowspan="1">6, 163 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Filandre</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_3.html#quel_est">Quel est ce mal</ref>.</cell>
+              <cell colspan="1" rowspan="1">3, 72 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Ligdamon</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_2.html#riviere_de">Rivière de Lignon</ref>.</cell>
+              <cell colspan="1" rowspan="1">2, 37 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Alcippe</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_1.html#si_l_on_me">Si l'on me dédaigne je laisse</ref>.</cell>
+              <cell colspan="1" rowspan="1">1, 15 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Hylas</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_7.html#sur_les_bords">Sur les bords où Lignon</ref>.</cell>
+              <cell colspan="1" rowspan="1">7, 213 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">ORACLE</hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_8.html#tu_naquis">Tu naquis dans la terre</ref>.<hi rend="cache"> </hi>
+                <ref target="../../../_analyse/note_1.html#table_tu_nasquis">η</ref>
+              </cell>
+              <cell colspan="1" rowspan="1">8, 227 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">ORACLE</hi>
+              </cell>
+            </row>
+            <row rend="bgalt">
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_5.html#voudriez_vous_estre">Voudriez-vous être mon Berger</ref>.</cell>
+              <cell colspan="1" rowspan="1">5, 142 recto</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Corilas et Stelle </hi>
+              </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1">
+                <ref target="fonctionnelle_1_livre_12.html#vous_qui">Vous qui voyez mes tristes pleurs</ref>.</cell>
+              <cell colspan="1" rowspan="1">12, 399 verso</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Tircis</hi>
+              </cell>
+            </row>
+          </table><p rend="center_t"> </p><p rend="center_t"> </p><p rend="center_t"> </p><!--<script>--><!--</script>--><!--<script>--><!--</script>--><!--<script>--><!--</script>--><ref target="fonctionnelle_1_livre_12.html">
+            <graphic url="../../../images/fleche_g.gif" rend="img" mimeType="image/gif"/>
+            <hi style="float:left; margin-top:6px">Livre 12</hi>
+          </ref><ref target="../fonctionnelle_2/fonctionnelle_2_liminaires.html">
+            <graphic url="../../../images/fleche_d.gif" rend="img" mimeType="image/gif"/>
+            <hi style="float:right; margin-top:6px">Deuxième partie</hi>
+          </ref><lb/><lb/><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../../../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

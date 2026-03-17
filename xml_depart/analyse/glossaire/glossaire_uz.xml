@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Glossaire U-Z - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><ref target="glossaire.html">
+              <hi rend="bold">GLOSSAIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="glossaire_aa.html">A</ref><ref target="glossaire_bb.html">B</ref><ref target="glossaire_cc.html">C</ref><ref target="glossaire_dd.html">D</ref><ref target="glossaire_ee.html">E</ref><lb/><ref target="glossaire_ff.html">F</ref><ref target="glossaire_gg.html">G</ref><ref target="glossaire_hh.html">H</ref><ref target="glossaire_ik.html">I</ref><ref target="glossaire_ik.html#j">J</ref><lb/><ref target="glossaire_ik.html#k">K</ref><ref target="glossaire_ll.html">L</ref><ref target="glossaire_mm.html">M</ref><ref target="glossaire_no.html">N</ref><ref target="glossaire_no.html#o">O</ref><lb/><ref target="glossaire_pp.html">P</ref><ref target="glossaire_qr.html">Q</ref><ref target="glossaire_qr.html#r">R</ref><ref target="glossaire_ss.html">S</ref><ref target="glossaire_tt.html">T</ref><lb/><ref target="glossaire_uz.html">U</ref><ref target="glossaire_uz.html#v">V</ref><ref target="glossaire_uz.html#w">W</ref><ref target="glossaire_uz.html#x">X</ref><ref target="glossaire_uz.html#y">Y</ref><ref target="glossaire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>GLOSSAIRE - U à Z</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Un</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">-
+        « Un. Un homme. Une. Une femme » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italics">De l'un en l'autre</hi>. D'une chose à l'autre. <lb/>
+        « <hi rend="italic">Un</hi>, au singulier, sans <hi rend="italic">pas</hi>, devient tout à fait rare et populaire » (<ref target="bibliographie.html#brunot">Brunot</ref>, III, p. 300).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Un</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Il sçavoit si bien contrefaire la fille qu'une seule de ses actions n'en démentoit point le nom</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#222">IV, 2, 222</ref>).<lb/>
+        « Un. Pas un. Nul, aucun » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Unguent</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Unguent de la Sympathie</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#454_recto">III, 11, 454 recto</ref>). « Unguent. Parfum » (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> explique :  « Dans l'Antiquité c'estoit un parfum liquide dont on se frottoit [...] aujourd'huy ne se dit que d'une composition dont se servent les Chirurgiens pour faire des emplastres, &amp; panser des playes » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> ajoute : « Vitalis a fait un Traitté pour justifier les effets de la poudre de sympathie, &amp; de l'onguent de Paracelse, &amp; qu'on s'en peut servir sans superstition » (Article <hi rend="italic">Sympathie</hi>). Il considère pourtant que « C'est une erreur populaire, de croire qu'il y a des remedes sympathiques, qui agissent sur les corps esloignés » (Article <hi rend="italic">Sympathique</hi>). Voir Sympathie<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_sympathie">η</ref>.<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Uni</cell>
+              <cell colspan="1" rowspan="1">« On dit aussi, que la force <hi rend="italics">unie</hi> est la plus forte, a de l'avantage sur une autre » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                User</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Il en use avec tant de discretion</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#731">IV, 4, 731</ref>).<lb/>
+        Agir. « ESTIENNE cite en user comme une nouveauté à la mode » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italic">Cependant qu'il useroit envers moy d'une telle charité</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#909">IV, 4, 909</ref>).<lb/>
+        « USER, se dit aussi en Morale, des manieres de vivre, de se comporter avec les autres » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Usissions</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">User</hi> à l'imparfait du subjonctif. On dit aujourd'hui <hi rend="italics">usassions</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Usurper (s')</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Usurper » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                
+                Vacation</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le <ref target="glossaire_dd.html#deu">deu</ref> de la vacation que je fais</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#231_recto">III, 6, 231 recto</ref>). « Profession d'un certain mestier auquel on vaque, on s'exerce » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vacie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Les <hi rend="italics">vacies</hi> sont   les <hi rend="italics">ovates</hi> ou <hi rend="italics">vatès</hi>. <lb/>
+        <ref target="bibliographie.html#strabon">Strabon</ref> écrit : « Chez tous les peuples gaulois sans exception se retrouvent trois classes d'hommes qui sont l'objet d'honneurs extraordinaires, à savoir les <ref target="glossaire_bb.html#barde">Bardes</ref>, les Vatès et les <ref target="glossaire_dd.html#druide">Druides</ref>, les <ref target="glossaire_bb.html#barde">Bardes</ref>, autrement dits les chantres sacrés, les Vatès, autrement dits les devins qui président aux sacrifices et interrogent la nature, enfin les <ref target="glossaire_dd.html#druide">Druides</ref>, qui, indépendamment de la physiologie ou philosophie naturelle, professent l'éthique ou philosophie morale » (Livre V, XXIX, 3). <lb/>
+        Dans le roman, les fonctions du  Vacie sont celles des curés (<ref target="../_roman/reference/21_2/21_2_livre_8.html#549">II, 8, 549</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vain</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Qui n'a point de solidité, de principes certains &amp; asseurez » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - « Se dit aussi de ce qui n'est qu'en apparence, qui trompe les yeux, qui est chymerique » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vain tombeau</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« On appelle un vain tombeau, ou cenotaphe, un monument eslevé à la gloire d'un mort, quoy que son corps n'y ait pas été enterré » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italics">Tombeau)</hi>. <lb/>
+        <lb/>
+        • Tombeau représenté dans une <ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_livre_8.html#gravure">gravure</ref>
+                <hi rend="cache"> </hi>
+                <ref target="note_2.html#2_sepulture">η</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Valet de pied</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Un valet de pied, qu'<ref target="personnage_aa.html#3_andrimarte">Andrimarte</ref> luy avoit laissé</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#538_verso">III, 12, 538 verso</ref>). « Valets qui servent à pied, &amp; qui portent les livrées. Il y a des grands &amp; des petits Valets de pied chez le Roy. Les laquais chez les Princes se font appeller Valets de pied » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vallon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il se jetta à corps perdu dans un vallon</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#353_verso">III, 8, 353 verso</ref>). « VALON. s. m. Lieu bas enfermé entre des montagnes » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vanger</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Se vanger de ceste injure</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#324_verso">III, 7, 324 verso</ref>). Graphie que l'on trouve dans <ref target="bibliographie.html#nicot">Nicot</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vantail</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ouvrir les vanteaux des fenestres</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#292_recto">III, 7, 292 recto</ref>). « VANTAIL. s. m. Manteau ou battant d'une porte, qui s'ouvre de deux costez. On appelle aussi vantaux de fenestres, les volets qui ferment une fenestre de haut en bas » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vanter (se)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Se vanter de le sçavoir</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#578">IV, 3, 578</ref>).<lb/>
+        « Se proclamer » (<ref target="bibliographie.html#huguet">Huguet</ref>). Chez <ref target="bibliographie.html#furetiere">Furetière</ref>, ce verbe a son sens moderne : « Se vanter, se loüer soy-même. Les Poëtes sont sujets à se vanter. Malherbe sur tout, Ciceron &amp; Balsac se sont bien vantez dans leurs ouvrages ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vapeur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Les vapeurs des viandes ne peuvent plus faire d'effect</hi> [sur les songes] (<ref target="../_roman/reference/24_4/24_4_livre_3.html#570">IV, 3, 570</ref>).<lb/>
+        « On appelle aussi Vapeur, les fumées qui s'élèvent de l'estomac ou du bas ventre vers le cerveau » (<ref target="bibliographie.html#academie">
+                  <hi rend="italic">Dictionnaire de l'Académie</hi>
+                </ref>, 1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vaquer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Vaquer plus librement à la contemplation</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#237_recto">III, 6, 237 recto</ref>). « Se dit aussi en Morale, &amp; signifie, S'appliquer à des exercices paisibles, de pieté, d'estude, d'affaires » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Veid</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Elle veid</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#52">IV, 1, 52</ref>). Vit.<lb/>
+        Forme archaïque proche du latin : <hi rend="italic">videre</hi>, <hi rend="italic">video</hi>.<lb/>
+        <ref target="bibliographie.html#maupas">Maupas</ref> donne « il void, ou voit » (p. 122). <ref target="bibliographie.html#huguet">Huguet</ref> donne « Veoir » et « veoit ».<lb/>
+        On ne rencontrait pas <hi rend="italic">veid</hi> dans les éditions antérieures de <hi rend="italic">L'Astrée</hi>. </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Veiller</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi, Faire la garde » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Veneur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Les Chevaliers se mirent apres les veneurs</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#718">IV, 4, 718</ref>).<lb/>
+        « Celuy qui conduit la chasse &amp; les chiens, qui queste, qui detourne, qui lance la beste, qui laisse courre, qui la suit, &amp;c. » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Venimeux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Vénéreux. Malsain » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Venir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Alderine vient  à mourir</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#646">IV, 4, 646</ref>).<lb/>
+        « VENIR, se dit aussi des choses qui se font fortuitement » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Venir à</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Venir à la Couronne</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#128_recto">III, 4, 128 recto</ref>). « Parvenir » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Venir ça</cell>
+              <cell colspan="1" rowspan="1">« Approcher » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Écrit <hi rend="italics">Viença</hi> en 1607.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vent</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Avoir quelque vent</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#686">IV, 4, 686</ref>).<lb/>
+        « Il signifie figurément un bruit confus, une connoissance imparfaite qu'on a de quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        <ref target="bibliographie.html#cotgrave">Cotgrave</ref> donne « Avoir vent » et « Avoir le vent de ». Il explique aussi « Autant en emporte le vent » : « <hi rend="italic">So much breadth is wasted, so many speeches lost</hi> ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ventre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le petit ventre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#492_recto">III, 12, 492 recto</ref>). « Se dit aussi de l'estomac qui est enfermé dans la même capacité, &amp; qu'on appelle pour cela petit ventre » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vérifier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Prouver la verité d'un fait, d'une allegation » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:24px;">
+                Véritable</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Véridique » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:24px;">Véritable</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Un Chevalier qui doit plus que les autres hommes avoir soing d'estre veritable</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#289">IV, 2, 289</ref>).<lb/>
+        « Ce mot se dit des choses et des personnes. lorsqu'il se dit des choses. il signifie vrai. Et lorsqu'il se dit des personnes, il signifie qui dit la vérité » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:24px;">
+                Vérité</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">En declarant la verité de ma victoire</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#411_verso">III, 10, 411 verso</ref>). « Réalité » (<ref target="bibliographie.html#littre">Littré</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:24px;">
+                Verolle</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">La petite verolle parut </hi>(<ref target="../_roman/reference/24_4/24_4_livre_2.html#272">IV, 2, 272</ref>).<lb/>
+        <hi rend="italic">Elle mourust de la petite verolle</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#652">IV, 4, 652</ref>).<lb/>
+        « On escrivoit autrefois vairole. Maladie contagieuse qui couvre le corps de gales ou de pustules, qui espaissit la peau, &amp; qui y laisse de petits creux. Les Medecins tiennent que la verole &amp; que la rougeole ont beaucoup d'affinité &amp; de ressemblance, en sorte que les deux ou trois premiers jours on a de la peine à les distinguer l'une de l'autre. Elles viennent toutes deux d'un sang impur, &amp; d'humeurs corrompuës. Elles different pourtant, comme la bosse fait du charbon en matiere de peste : car la verole est faite de matiere plus crasse &amp; visqueuse, sanguine &amp; pituiteuse ; &amp; la rougeole d'une matiere chaude, subtile &amp; bilieuse. La verole s'eleve en pustules pointuës &amp; blanchissantes, avec une petite tumeur qui pique &amp; demange, &amp; laisse des marques qui gravent le cuir ; au lieu que la rougeole laisse seulement des taches passageres comme des morsures de puces, le plus souvent rouges, quelquefois verdes &amp; noires ; &amp; ne sort gueres hors du cuir, mais s'estend en large, &amp; ne demange point. La petite verole est la maladie des petits enfants. Elle vient quelquefois aux grandes personnes, &amp; elle leur est tres-dangereuse. On tient qu'on n'a gueres qu'une fois la petite verole » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:24px;">
+                Vers (prép.)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Auprès de » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        « Vers est pour le lieu et envers pour la personne », écrit <ref target="bibliographie.html#vaugelas">Vaugelas</ref> (p. 374), mais il lui arrive de mettre <hi rend="italic">vers</hi> devant un nom de personne (p. 213).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:24px;">
+                Vertu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Puissance d'agir qui est dans tous les corps naturels suivant leurs qualitez ou proprietez » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Verveine</cell>
+              <cell colspan="1" rowspan="1">« Herbe qui jette plusieurs tiges. [...]  Les Payens la cueilloient avec grandes ceremonies &amp; superstitions, &amp; s'en servoient à benir les maisons pour en chasser les mauvais esprits » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        • Voir ce <ref target="https://booksofdante.files.wordpress.com/2014/06/verveine-officinale.jpg">site</ref> sur la verveine officinale (20 mai 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vesquismes</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Vivre</hi> au passé simple. On dit aujourd'hui <hi rend="italics">vécumes</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vesquisse</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Vivre</hi> à l'imparfait du subjonctif. On dit aujourd'hui <hi rend="italics">vécusse</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vesquist</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Vivre</hi> à l'imparfait du subjonctif. Écrit aussi <hi rend="italics">vesquit</hi>. On dit aujourd'hui <hi rend="italics">vécût</hi>. <ref target="bibliographie.html#patru">Patru</ref> accepte <hi rend="italic">vesquis</hi> et <hi rend="italic">vescus</hi>, « mais <hi rend="italic">tu vescus</hi> est moins usité que t<hi rend="italic">u vesqui</hi>s » (II, p. 635).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vestale</cell>
+              <cell colspan="1" rowspan="1">« Fille vierge chez les Romains, qui étoit consacrée au service de la Deesse Vesta, qui gardoit le feu sacré des Romains, &amp; dont la pureté devoit estre telle, que lors qu'elle y avoit forfait, on l'enterroit toute vive. [...] » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <ref target="bibliographie.html#richelet">Richelet</ref> ajoute :  « On les prenoit à l'âge de six ans, jusques à dix. Il faloit  qu'elles fussent bien  faites &amp;  que leurs péres &amp; leurs méres n'eussent pas été dans la
+        servitude ». <ref target="bibliographie.html#du_choul">Du Choul</ref> note qu'au bout de trente ans elles pouvaient se marier, mais « quasi toutes celles (comme nous lisons) qui le furent, demeurerent inforutnées et malheureuses » (p. 238).<lb/>
+        Tous ces renseignements découlent de la <hi rend="italic">Vie de Numa</hi> dans <ref target="bibliographie.html#plutarque_vies">Plutarque</ref> :  « La surveillance des vierges sacrées qu'on nomme Vestales était aussi une charge du grand Pontife ; car c'est à Numa qu'on rapporte l'institution des Vestales, la consécration du feu qui brûle éternellement, confié à leur garde, ainsi que les rites et les cérémonies qu'elles observent.[...] peut-être voyait-il dans le feu, stérile de sa nature et infécond, un rapport sensible avec la virginité.[...] Nous avons écrit, dans la Vie de Camille, tout ce qu'il est permis de savoir et de dire au sujet de ces mystères. [...] Numa prescrivit aux vierges sacrées de   			garder pendant trente ans la chasteté. Les dix premières années,   			elles apprennent leurs devoirs ; les dix suivantes, elles pratiquent   			ce qu'elles ont appris, et, les dix dernières, elles instruisent les   			novices. [...] C'est Numa qui construisit, dit-on, le temple   			circulaire de Vesta,   			pour servir d'abri au feu perpétuel. La forme préférée était   			l'imitation de la figure non de la terre prise pour Vesta, mais de   			l'univers, dont le milieu, suivant les pythagoriciens, est occupé   			par le feu ».<lb/>
+        • <ref target="bibliographie.html#furetiere">Furetière</ref> donne un renseignement curieux : « On dit maintenant, quand on veut adoucir le nom d'une femme qui se divertit publiquement, qu'elle ne se pique pas d'estre <hi rend="italics">Vestale</hi>, que c'est une <hi rend="italics">Vestale</hi> du Marais ». Voir <ref target="repertoire_uz.html#3_vesta">Vesta</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:23px;">
+                Vesti</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Vêtu. Cette forme de <hi rend="italics">Vestir</hi> se trouve dans <ref target="bibliographie.html#huguet">Huguet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Veuë</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- À la veuë de la maison</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#107_verso">III, 3, 107 verso</ref>). Devant.<lb/>
+        - <hi rend="italic">À sa veuë</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#510_verso">III, 12, 510 verso</ref>).  « Être à vuë, avoir la vue » (<ref target="bibliographie.html#richelet">Richelet</ref>). L'expression signifie <hi rend="italic">Être visible</hi>. La Reine ne  perd pas de vue les jeunes gens.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Veuf</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Si vous estiez veufve de pere et de mere comme nous</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#440">IV, 3, 440</ref>).<lb/>
+        « Ce mot se dit au figuré, et signifie qui est privé de quelque chose » (<ref target="bibliographie.html#richelet">Richelet</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> donne la graphie « veufve ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Viande</cell>
+              <cell colspan="1" rowspan="1">« Se dit par extension de plusieurs autres nourritures de l'homme » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Victimaire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Les Victimaires conduisent les Taureaux blancs</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#358_recto">III, 8, 358 recto</ref>). « Celui qui immole les victimes »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vidimus</cell>
+              <cell colspan="1" rowspan="1">Attestation par laquelle on certifie qu'un acte est  conforme à l'original (<ref target="bibliographie.html#robert">
+                  <hi rend="italics">Le Grand Robert</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vieillir</cell>
+              <cell colspan="1" rowspan="1">« Signifie aussi, Avoir passé sa vie dans quelque employ » (<ref target="bibliographie.html#furetiere">Furetière</ref>). D'Urfé utilise le verbe avec l'auxiliaire <hi rend="italics">être</hi> dans <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#306_verso">I, 10, 306 verso</ref>) et dans <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Les Epistres morales</hi>
+                </ref> (II, 3, p. 221), usage que <ref target="bibliographie.html#furetiere">Furetière</ref> ne signale pas. Le <ref target="bibliographie.html#littre">Littré</ref> explique que <hi rend="italics">vieillir</hi> « Se conjugue avec l'auxiliaire <hi rend="italics">avoir</hi>, quand on veut marquer l'action progressive de <hi rend="italics">vieillir</hi> [...] avec l'auxiliaire <hi rend="italics">être</hi>, quand on veut exprimer l'état qui résulte de cette action ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vierge</cell>
+              <cell colspan="1" rowspan="1">« On appelle cire <hi rend="italics">vierge</hi>, celle qu'on tire des ruches sans avoir passé par le feu » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vif</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Le mort  qui sera vif</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#62">IV, 1, 62</ref>).<lb/>
+        « Vivant » (<ref target="bibliographie.html#huguet">Huguet</ref>). « En termes de Pratique, on dit que le mort saisit le vif, son plus prochain heritier » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vilain</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">
+                  <ref target="repertoire_pp.html#3_pan">Pan</ref> le vilain</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#91_verso">III, 3, 91 verso</ref>). « Ce qui n'est pas agreable, qui deplaist » (<ref target="bibliographie.html#furetiere">Furetière</ref>). « Ce mot se dit des personnes, et veut dire taquin, avare et ladre fiefé »  (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vilainement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Avoir esté si vilainement trompé</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#250_verso">III, 6, 250 verso</ref>). « Crüellement. Avec infamie »  (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Villanelle</cell>
+              <cell colspan="1" rowspan="1">Écrit aussi <hi rend="italics">Vilanelle</hi>. « Chanson de village qui a un refrain. Il y a plusieurs exemples de <hi rend="italics">Villanelles</hi> dans <hi rend="italics">L'Astrée</hi> de Mr. d'Urfé » (<ref target="bibliographie.html#furetiere">Furetière</ref>). « Monsieur d'Urfé nous a laissé dans <hi rend="italic">l'Astrée</hi> d'assez belles vilanelles » (<ref target="bibliographie.html#richelet">Richelet</ref>).<lb/>
+        • Il y en a deux dans la première partie.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Villanelle</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- Dans la troisième partie, l'unique villanelle est chantée par <ref target="personnage_hh.html#3_hylas">Hylas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#266_verso">III, 7, 266 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vindrent</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Venir</hi> au passé simple. On écrit aujourd'hui <hi rend="italics">vinrent</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vinsmes</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Venir</hi> au passé simple. On écrit aujourd'hui <hi rend="italics">vînmes</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vinsse(nt), Vinssions</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Venir</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:25px;">
+                Vinstes</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Venir</hi> au passé simple. On écrit aujourd'hui <hi rend="italics">vîntes</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:39px;">
+                Visage</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se dit aussi en parlant du bon ou mauvais accueil qu'on fait aux personnes » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Visière</cell>
+              <cell colspan="1" rowspan="1">« Pour désigner la visière d'un casque, on tend à préférer <hi rend="italics">veue</hi> à <hi rend="italics">visière</hi> »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+        D'Urfé préfère <hi rend="italics">visière</hi>. « Ouverture d'un casque, &amp; la petite grille qui s'abat devant les yeux » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vision</cell>
+              <cell colspan="1" rowspan="1">Spectacle. « Impression qui se fait sur la veuë » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Visiter</cell>
+              <cell colspan="1" rowspan="1">« Lire. Regarder, considérer. Examiner. Éprouver. Châtier, punir » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Visiter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se dit aussi en parlant des rapports que font les Medecins, Chirurgiens Jurez de la Cour, quand on a ordonné qu'ils visiteront un blessé ou un malade » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Visiter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Aller  visiter la desguisee <ref target="personnage_aa.html#3_alexis">Alexis</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#1_recto">III, 1, 1 recto</ref>).<lb/>
+        - <hi rend="italic">Les entrailles que  nous avons visitees</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#459_recto">III, 11, 459 recto</ref>).<lb/>
+        « Visiter. Faire une visite. Il se dit en tous les cas &amp; significations du mot de visite » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Visse(nt)</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Voir</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vissions</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Voir</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:23px;">
+                Viste</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Rapide. C'est un  adjectif dans <ref target="bibliographie.html#huguet">Huguet</ref>, un adjectif ou un adverbe dans <ref target="bibliographie.html#furetiere">Furetière</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vistement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Laissez moy habiller vistement</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#541_recto">III, 12, 541 recto</ref>). « Vite ». <hi rend="italic">Vistement</hi> ne sera considéré familier qu'au XVIII<hi rend="supn">e</hi> siècle (<hi rend="italic">
+                  <ref target="bibliographie.html#academie">Dictionnaire de l'Académie</ref>
+                </hi>, 1762)</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vitupère</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Vieux mot. Reproche, blasme qu'on fait à une personne, ou à une famille. Un homme executé dans une famille est un vitupere qui dure long-temps » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vivacité</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La vivacité de vostre veuë</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#196_verso">III, 5, 196 verso</ref>). « Activité, promptitude à agir, à se mouvoir [...] Avoir de la vivacité dans les yeux, pour dire, Avoir les yeux pleins de feu » (<hi rend="italic">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>
+                </hi>, 1694). <lb/>
+        • <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> aurait dû dire <hi rend="italic">acuité</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Vivre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Le vivre est une action immediate  de l'ame</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#33_verso">III, 2, 33 verso</ref>). « Vie »                                    (<ref target="bibliographie.html#huguet">Huguet</ref>).  Ce verbe substantivé est aussi dans <ref target="bibliographie.html#sireine">
+                  <hi rend="italic"> Le Sireine </hi>
+                </ref>(p. 156).<lb/>
+        - <hi rend="italic">Chercher à vivre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#225_verso">III, 6, 225 verso</ref>). « Nourriture, ou pension suffisante pour se nourrir » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Vivre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Voulez vous que nous vivions tousjours ensemble</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#683">IV, 4, 683</ref>).<lb/>
+        « Passer sa vie d'une certaine maniere, en certains lieux, sous certaines conditions » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vivre (subst.)</cell>
+              <cell colspan="1" rowspan="1">« Nourriture » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vœu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le vœu que je fais de mon service</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#449_recto">III, 10, 449 recto</ref>). « Don, promesse que l'on fait à Dieu de sa personne, ou des choses dont on peut disposer » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Voire</cell>
+              <cell colspan="1" rowspan="1">« Vraiment, oui, certes. Voire bien. Oui vraiment. Voire. Même »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> ajoute : « Terme populaire &amp; ironique ». « Patru déclare qu'il n'est plus en usage ; Oudin le juge trop vulgraire » (<ref target="bibliographie.html#brunot">Brunot</ref>, III, p. 373).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Voix</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi, Cri, gemissement, priere » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Voix</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">On ouyt dans la sale une voix d'estonnement de tous ceux qui y estoient</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#343">IV, 2, 343</ref>).<lb/>
+        « Ce mot signifie quelquefois la même chose que cri » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Volant</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">Robbes volantes</hi> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#387">II, 6, 387</ref>).  « Une juppe volante, c'est une juppe d'esté faite de taffetas fort leger » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Volée (à la)</cell>
+              <cell colspan="1" rowspan="1">« A la légère, sans réflexion »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        « On dit aussi, faire une chose à la volée, dire quelque chose à la volée, pour dire, legerement, imprudemment, ou peu serieusement » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Voler</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Faire voler expres</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#111_verso">III, 3, 111 verso</ref>). « VOLER, en termes de Fauconnerie signifie, Prendre ou poursuivre le gibier avec des oiseaux de proye. Un des plaisirs des Grands, c'est de voler, de faire voler l'oiseau, le lascher sur le gibier » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Volontaire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ne me monstrer point si volontaire à sa premiere supplication, mais de le laisser un peu en ceste incertitude</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#65_verso">III, 3, 65 verso</ref>). « Empressé, de bonne volonté »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Volonté</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Avoir volonté, desirer, souhaiter »  (<ref target="bibliographie.html#richelet">Richelet</ref>, Article <hi rend="italics">Vouloir</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Volonté</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Le bien qu'elle aura perdu de sa volonté</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#64">IV, 1, 64</ref>).<lb/>
+        « Tous contracts sont faits avec cette formule, Un tel de son gré &amp; de sa franche volonté s'est obligé à &amp;c. » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Il fut en volonté de s'en prendre à luy</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#255">IV, 2, 255</ref>).<lb/>
+        « Dans l'intention de » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> donne « estre en volonté ou en pouvoir de » faire quelque chose (Article <hi rend="italic">Estocade</hi>).<lb/>
+        - <hi rend="italic">Separer nostre bonne volonté</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#825">IV, 4, 825</ref>).<lb/>
+        « VOLONTÉ, signifie aussi, Bienveillance, ou haine qu'on a pour quelqu'un » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        Voir aussi <ref target="glossaire_ee.html#en_volonte">
+                  <hi rend="italic">En volonté</hi>
+                </ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Volontiers</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Ordinairement, souvent » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vouer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Rendre à <ref target="repertoire_tt.html#3_tautates">Tautates</ref> ce qu'elle avoit voué</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#461_recto">III, 11, 461 recto</ref>). « Promettre à Dieu quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Vouer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Je vouë [...] qu'éternellement je veux vivre avec vous</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#35">IV, 1, 35</ref>). « Faire voeu de »  (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vouloir</cell>
+              <cell colspan="1" rowspan="1">- Ce verbe peut signifier rechercher (<ref target="../_roman/reference/21_1/21_1_livre_10.html#325_verso">I, 10, 325 verso</ref>) : « C'est un homme qui en veut à toutes les filles, qui fait l'amour à toutes celles qu'il rencontre ; il en veut particulierement à celle-là, il veut l'espouser » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Vouloir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Son oncle [...] pour son vieil aage n'estoit voulu venir</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#426_verso">III, 10, 426 verso</ref>).<lb/>
+        <ref target="bibliographie.html#littre">Littré</ref> explique : « Au XVII<hi rend="supn">e</hi> siècle, quand vouloir était suivi d'un verbe réfléchi, on mettait souvent le pronom personnel avant le verbe vouloir ; cela peut encore être employé. Je me suis voulu jeter dans le hasard, CORN. Héracl. II, 2 ».<lb/>
+        Bien que <hi rend="italic">venir</hi> ne soit pas un verbe réfléchi, la même règle semble appliquée ici.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Vouloir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Nous vous aymons, plus que vous ne le voulez pas estre de nous</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#378">IV, 3, 378</ref>).<lb/>
+        « Admettre » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italic">Il a bien voulu espouser</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#746">IV, 4, 746</ref>).<lb/>
+        « Vouloir bien, trouver bon » (<ref target="bibliographie.html#richelet">Richelet</ref>, Article <hi rend="italic">Consentir</hi>). Mais en fait <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> tenait à épouser sa prisonnière. Comme c'est <ref target="personnage_dd.html#4_darinee">Darinée</ref> qui utilise cette expression, elle peut ignorer les faits, ou encore mal parler.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vouloir (subst.)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - Le verbe substantivé est défini par <ref target="bibliographie.html#furetiere">Furetière</ref> comme « l'action de la volonté », mais <ref target="bibliographie.html#vaugelas">Vaugelas</ref> condamne ce « terme qui a vieilly » (p. 442).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Vouloir (subst.)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Nostre present vouloir sera cogneu</hi> [dit un roi] (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>). <hi rend="italic">Le vouloir des Dieux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#359_verso">III, 8, 359 verso</ref>). Ce « mot poëtique » (<ref target="bibliographie.html#richelet">Richelet</ref>) semble réservé à une volonté supérieure dans <hi rend="italic">L'Astrée</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Voulusse, voulussay</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Vouloir</hi> à l'imparfait du subjonctif. En cas d'inversion, le <hi rend="italic">e</hi> final peut s'écrire <hi rend="italic">ay</hi> selon <ref target="bibliographie.html#maupas">Maupas</ref> (p. 11).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Voulussiez</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Vouloir</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Voute</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Les voutes où il faisoit conserver grande quantité d'Orangers </hi>(<ref target="../_roman/reference/24_4/24_4_livre_4.html#650">IV, 4, 650</ref>).<lb/>
+        Serres. « VOUTE. s. f. Toit rond basti en arcade, de telle sorte que les pierres se soustiennent l'une l'autre par la disposition de leur couppe, à cause que toutes les lignes de leurs parements aboutissent à un centre » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Voy</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Voy</hi> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#285_recto">I, 9, 285 recto</ref>). « <hi rend="italics">Voy</hi>. Impératif du verbe voir ; il entre en diverses exclamations » (<ref target="bibliographie.html#la_curne">La Curne</ref>). Le<hi rend="italics"> i</hi> final devient <hi rend="italics">y</hi> « selon le genie de nostre langue, qui aime fort l'usage des <hi rend="italics">y</hi> grecs à la fin de la pluspart des mots terminez en <hi rend="italics">i</hi> », note <ref target="bibliographie.html#vaugelas">Vaugelas</ref> (p. 131).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Voyager</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Il estoit allé voyager</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#692">IV, 4, 692</ref>).<lb/>
+        « Parcourir en voyageant » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Voyant</cell>
+              <cell colspan="1" rowspan="1">« Qui éclate, qui brille. Il ne se dit gueres que des couleurs hautes, comme le rouge, le bleu, le verd, de ce qui est le plus vif dans une nuance » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Dans <hi rend="italic">L'Astrée</hi>, il peut signifier simplement visible (<ref target="../_roman/reference/21_1/21_1_livre_11.html#373_verso">I, 11, 373 verso</ref>), acception que l'on trouve dans le <hi rend="italic">Complément</hi> du <ref target="bibliographie.html#godefroy">Godefroy</ref> : « Qui attire la vue ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vray</cell>
+              <cell colspan="1" rowspan="1">- « Au vray. Avec vérité, exactement »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        « Au vrai, loc. adv. Selon le vrai, conformément à la vérité » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Vray</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - <hi rend="italics">Tout vray</hi>. Très vrai. <lb/>
+        <ref target="bibliographie.html#huguet">Huguet</ref> donne : « Pour tout vray. Vraiment, à dire la vérité ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vuide</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Vuide de raison</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#105_recto">III, 3, 105 recto</ref>). « Se dit figurément en choses morales. Son cœur est vuide de passions, pour dire, Il n'a ni amour, ni haine, ni ambition » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Vuider</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Question  vuidee</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#23_verso">III, 1, 23 verso</ref>). « Terminer, finir une affaire, un differend » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:37px;">
+                Vulgaire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Commun, trivial, ordinaire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                
+                WX</cell>
+              <cell colspan="1" rowspan="1">Aucune entrée ne  commence par <hi rend="bold">W ou X</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                
+                Y</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Vous y sçavez quelque meilleur moyen</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#130_verso">III, 4, 130 verso</ref>).<lb/>
+        « Pléonasme de y » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Y</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Elle estoit d'advis de s'y en aller</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#412">IV, 3, 412</ref>). <lb/>
+        Anne <ref target="bibliographie.html#sanciere">Sancier-Chateau</ref> relève un « il s'y en alla au petit pas » dans la troisième partie de <hi rend="italic">L'Astrée</hi>, et considère que les pronoms contribuent à la précision (p. 119).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                
+                Zèle</cell>
+              <cell colspan="1" rowspan="1">« Ardeur, passion qu'on a pour quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Zéphyrs</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Voir <ref target="repertoire_uz.html#zephir">Zéphyr</ref>.<lb/>
+        - « Se dit poëtiquement des vents doux &amp; agreables, &amp; de ceux qui viennent au printemps » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+          </table><p> </p><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

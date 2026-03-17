@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Répertoire S - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_rep"
+  onclick="SetDisplay('legende_rep')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_rep')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p>Catégories</p><table rend="center_o center_t" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" style="width:auto; height:20px; background-color:#FFCCFF">Actualité</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Géographie </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px">Histoire</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue" style="width:auto; height:20px">Littérature</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue_hashed" style="width:auto; height:20px">Mythologie</cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px"> Remarque </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+            </table><p> </p><ref target="repertoire.html">
+              <hi rend="bold">RÉPERTOIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="repertoire_aa.html">A</ref><ref target="repertoire_bb.html">B</ref><ref target="repertoire_cc.html">C</ref><ref target="repertoire_dd.html">D</ref><ref target="repertoire_ee.html">E</ref><lb/><ref target="repertoire_ff.html">F</ref><ref target="repertoire_gg.html">G</ref><ref target="repertoire_hh.html">H</ref><ref target="repertoire_ik.html">I</ref><ref target="repertoire_ik.html#j">J</ref><lb/><ref target="repertoire_ik.html#k">K</ref><ref target="repertoire_ll.html">L</ref><ref target="repertoire_mm.html">M</ref><ref target="repertoire_no.html">N</ref><ref target="repertoire_no.html#o">O</ref><lb/><ref target="repertoire_pp.html">P</ref><ref target="repertoire_qr.html">Q</ref><ref target="repertoire_qr.html#r">R</ref><ref target="repertoire_ss.html">S</ref><ref target="repertoire_tt.html">T</ref><lb/><ref target="repertoire_uz.html">U</ref><ref target="repertoire_uz.html#v">V</ref><ref target="repertoire_uz.html#w">W</ref><ref target="repertoire_uz.html#x">X</ref><ref target="repertoire_uz.html#y">Y</ref><ref target="repertoire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>
+              <ref target="repertoire.html">RÉPERTOIRE - S</ref>
+            </head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                
+                <hi>Salasses</hi>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_salasses">III</ref>
+                      
+                      L'édition <ref target="bibliographie.html#vaganay">Vaganay</ref> donne <hi rend="italic">Salastes</hi> (III, p. 366), et M. <ref target="bibliographie.html#gaumei">Gaume</ref> ne dit rien de  ceux qu'il appelle <hi rend="italic">Salastres</hi> (p. 227). Il s'agit pourtant d'un peuple auquel Honoré d'Urfé s'est beaucoup intéressé à cause de ses liens  avec la Maison de Savoie. L'écriture de la <hi rend="italic">Savoisiade</hi>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#savoisiade">η</ref> et celle de <hi rend="italic">L'Astrée</hi> se chevauchent.<lb/>
+                      <lb/>
+                      Les Salasses sont un peuple des Alpes « dont Strabon a parlé fort avantageusement », écrit <ref target="bibliographie.html#guichenon_savoie">Guichenon</ref> dans son <hi rend="italic">Histoire [...] de Savoye</hi> (I, p. 12). Ce peuple aborigène de la Vallée d'Aoste faisait partie de la vaste tribu des <ref target="repertoire_ll.html#3_ligurie">Liguriens</ref>. Ils auraient adoré un dieu Penn, <hi rend="italic">Penn</hi> signifiant la hauteur de la montagne (<ref target="bibliographie.html#orsieres">Orsières</ref>, pp. 18, 26). Les Salasses  contrôlent  deux cols des Alpes, les Saint-Bernard, et terrifient les voyageurs (<ref target="bibliographie.html#berchem">Berchem</ref>, p. 70). Ils ont même réussi à piller la caisse militaire de <ref target="personnage_cc.html#3_cesar">César</ref>, d'après Strabon (<ref target="bibliographie.html#orsieres">Orsières</ref>, p. 41). <lb/>
+                      Dans les livres Sibyllins, les <ref target="repertoire_qr.html#3_romains">Romains</ref> devaient passer par le pays des Salasses et sacrifier à leur dieu, avant de déclarer la guerre aux <ref target="repertoire_gg.html#3_gaulois">Gaulois</ref> (<ref target="bibliographie.html#orsieres">Orsières</ref>, p. 40). « <ref target="personnage_aa.html#2_auguste">Auguste</ref> réussit à les réduire complètement : il les fit alors transporter en masse à <ref target="repertoire_ee.html#3_eporedes">Eporedia</ref>, et donna ordre qu'on les vendît comme esclaves sur le marché de cette ville » (<ref target="bibliographie.html#strabon">Strabon</ref>, Livre 4, 10). <ref target="personnage_aa.html#2_auguste">Auguste</ref> installe ensuite des colons dans <hi rend="italic">Augusta Praetoria</hi> (Aoste) pour exploiter les mines d'or. Les quelques Salasses qui survivent à l'invasion forment une classe avec des droits inférieurs aux droits des citoyens romains (<ref target="bibliographie.html#berchem">Berchem</ref>, p. 136). Voir <ref target="repertoire_aa.html#3_augustes_salasses">Augustes-Salasses</ref>.<lb/>
+                      Au début du V<hi rend="supn">e</hi> siècle, les Salasses sont passés sous la domination des rois <ref target="repertoire_bb.html#3_bourguignons">Burgondes</ref> (<ref target="bibliographie.html#orsieres">Orsières</ref>, p. 52).
+                      Ils se sont soumis à la Maison de Savoie au Moyen Âge, dès le temps de Humbert<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#humbert">η</ref> aux blanches mains (<ref target="bibliographie.html#orsieres">Orsières</ref>, p. 62). Leur terre, le Pays d'Aoste devient duché au XIII<hi rend="supn">e</hi> siècle.              « C'est pour avoir été constamment fidèle à ses Souverains légitimes [...] que ce Duché fut alors surnommé le Val d'Aoste la Pucelle » (<ref target="bibliographie.html#orsieres">Orsières</ref>, p. 71).<lb/>
+                      <lb/>
+                      • Dans la troisième partie, les Salasses  habitent une région qui correspond au Piémont : Les limites de ce territoire sont les <ref target="repertoire_aa.html#3_alpes_pennines">Alpes Pennines</ref> au Nord et le <ref target="repertoire_pp.html#3_po">Pô</ref> au Sud. Leurs voisins sont les <ref target="repertoire_ll.html#3_libices">Libices</ref> du côté de l'Orient et
+                      les <ref target="repertoire_tt.html#3_taurinois">Taurinois</ref>, <ref target="repertoire_cc.html#3_centurons">Centurons</ref>, et <ref target="repertoire_cc.html#3_caturges">Caturiges</ref> du côté de l'Occident (<ref target="../_roman/reference/21_3/21_3_livre_7.html#283_verso">III, 7, 283 verso</ref>).  Leur <hi rend="italic">oppidum</hi> est Eporedia (<ref target="repertoire_ee.html#3_eporedes">Éporèdes</ref>). La description de <hi rend="italic">L'Astrée</hi> suit de près celle que donne <ref target="bibliographie.html#strabon">Strabon</ref> (IV, 6 et 7).<lb/>
+                      <lb/>
+                      • L'une des  principales villes des Salasses est <ref target="repertoire_ee.html#3_eporedes">Éporèdes</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#284_verso">III, 7, 284 verso</ref>).<lb/>
+                      <lb/>
+                      • <ref target="personnage_aa.html#3_arimant">Arimant</ref> fait partie des Salasses (<ref target="../_roman/reference/21_3/21_3_livre_7.html#286_recto">III, 7, 286 recto</ref>).<lb/>
+                      <lb/>
+                      • <ref target="personnage_cc.html#3_criseide">Criséide</ref> appartient à l'une des plus grandes familles des Salasses (<ref target="../_roman/reference/21_3/21_3_livre_8.html#344_recto">III, 8, 344 recto</ref>). Son père, s'il avait vécu plus longtemps, aurait pu s'emparer du pays entier (<ref target="../_roman/reference/21_3/21_3_livre_7.html#284_verso">III, 7, 284 verso</ref>). <lb/>
+                      <lb/>
+                      • Carte des peuples celtes dans ce <ref target="http://upload.wikimedia.org/wikipedia/commons/c/c2/Gallia_cisalpina.jpg">site</ref> (10 février 2014).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Salassiens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_salassiens">III</ref>
+                      
+                      • <ref target="personnage_bb.html#3_bellaris">Bellaris</ref> se dit Salassien et compatriote de <ref target="personnage_cc.html#3_criseide">Criséide</ref> et <ref target="personnage_aa.html#3_arimant">Arimant</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#338_recto">III, 8, 338 recto</ref>). <hi rend="italic">Salassien</hi> est donc un dérivé de <hi rend="italic">
+                  <ref target="#3_salasses">Salasse</ref>
+                </hi> et sans doute un synonyme.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Samothées</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_samothees">II</ref>
+                      
+                      • Les disciples de <ref target="#2_samothes">Samothes</ref> sont appelés <ref target="#2_samothees">Samothées</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#509">II, 8, 509</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Samothes</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_samothes">II</ref>, <ref target="#3_samothes">III</ref>
+                      
+                      Voir <ref target="repertoire_dd.html#2_dis">Dis Samothes</ref>.
+                      Le « roi <ref target="#2_samothes">Samothes</ref> (appelé aussi <hi rend="italics">
+                  <ref target="#saturne">Saturne</ref>
+                </hi> ou <hi rend="italics">
+                  <ref target="repertoire_dd.html#2_dis">Dis</ref>
+                </hi>) qui enseigna les bonnes lettres, l'éthique, le cours des astres, la physique, les sciences naturelles et les mathématiques aux <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref>, en utilisant la langue qui plus tard s'appellera le grec. Son enseignement religieux comportait la croyance en l'immortalité et au jugement des âmes » (<ref target="bibliographie.html#dubois">Dubois</ref>, p. 50). <lb/>
+                      En <ref target="repertoire_gg.html#2_gaule">Gaule</ref>, « tant fermement s'y croioit l'immortalité de l'ame, qu'ils ne faisoient difficulté de prester icy argent à tel credit que devant Dieu en la vie eternele en auroient la raison » (Guillaume Postel, cité par <ref target="bibliographie.html#dubois">Dubois</ref>, p. 73). C'est le quatrième fils de l'ancêtre biblique des Européens, Japhet.<lb/>
+                      <lb/>
+                      • Une seule fois le nom de <ref target="#2_samothes">Samothes</ref> n'est pas juxtaposé à celui de <ref target="repertoire_dd.html#2_dis">Dis</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#509">II, 8, 509</ref>).<lb/>
+                      <lb/>
+                      • <ref target="#2_samothes">Samothes</ref>, roi des <ref target="repertoire_gg.html#2_gaule">Gaules</ref>, est représenté dans une somptueuse pièce murale à Beauvais, voir ce <ref target="https://inventaire.picardie.fr/dossier/piece-murale-samothes-premier-roi-des-gaules-et-jupiter-celte-neuvieme-roi-des-gaules/e312bb7a-6a6f-4a02-a1cb-d528b51f762a/illustration/0">site</ref> (10 mai 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Samothes</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_samothes">II</ref>, <ref target="#3_samothes">III</ref>
+                      
+                      Écrit <hi rend="italic">Samehtes</hi>. <lb/>
+                      <lb/>
+                      Dans l'édition de 1619 seulement, Samothes est roi des <ref target="repertoire_gg.html#3_gaule">Gaules</ref>. Son portrait figure chez <ref target="personnage_aa.html#3_adamas">Adamas</ref>
+                  <lb/>
+                        (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_recto">III, 3, 58 recto</ref>).<lb/>
+                      
+                      <lb/>
+                      • Dans les éditions suivantes, ce personnage légendaire est appelé <ref target="repertoire_dd.html#3_dis">Dis Samothes</ref> et il n'est pas traité de roi (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#99FFFF;">
+                Sannazare</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#sannazar">I</ref>
+                      
+                      Écrit <hi rend="italic">Sannazare</hi>. Iacopo Sannazzaro est un poète italien (1456 - 1530). Auteur de l'<hi rend="italics">Arcadie</hi> (1505), poème pastoral traduit en français en 1544.<lb/>
+                      <lb/>
+                      • Dans sa préface, <ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                  <hi rend="italic">L'Autheur à la Bergere Astrée</hi>
+                </ref>, d'Urfé  reproche à Sannazar d'avoir chanté un pays imaginaire dans son œuvre. Le romancier reprend une remarque de Ronsard<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#ronsard">η</ref> : « Il ne faut point vanter cette vieille <ref target="repertoire_aa.html#arcadie">Arcadie</ref> [...], la France la surpasse » (cité par <ref target="bibliographie.html#lazard">Lazard</ref>, p. 37). De plus, comme le remarque  F. <ref target="bibliographie.html#lavocat_arcadies">Lavocat</ref>, « cette distance exhibée avec le modèle sannazarien repose sur un contresens, car l'éloge du fleuve, métonymie de la terre natale, est justement un motif directement issu de l'imitation de <hi rend="italics">l'Arcadia</hi> » (p. 310). D'Urfé choisit d'oublier que le héros de Sannazar est un exilé qui regrette Naples.<lb/>
+                      <lb/>
+                      D'Urfé souligne surtout les choix onomastiques de Sannazar. Le poète italien a remplacé le  nom de son pays par un nom mythique, alors que d'Urfé, lui, veut transformer le nom de son pays en mythe.<lb/>
+                        <lb/>
+                        Honoré d'Urfé, dans ses préfaces, ne nomme pas d'autres auteurs de pastorales, comme Théocrite, Virgile, Guarini ou  même Montemayor<lb/>
+                        (malgré tout ce qu'il doit à ce dernier, voir <ref target="paralleles.html">Parallèles</ref>).<lb/>
+                        Il semble tenir à rattacher son roman  à une tradition littéraire<lb/>
+                        plus large que la tradition pastorale. 
+                      <lb/>
+                      • Voir le frontispice de <hi rend="italic">L'Arcadia</hi> de 1548 dans ce <ref target="https://covers.openlibrary.org/b/id/7171596-L.jpg">site</ref> (6 octobre 2013).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sarmates</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_sarmates">II</ref>
+                      
+                      La Sarmatie est un « vaste pays » qui « renfermoit ceux qui sont connus aujourd'hui sous le nom de Pologne, de Russie, &amp; une partie de la Tartarie [...] En 358, en 407, ils firent une irruption dans les <ref target="repertoire_gg.html#2_gaule">Gaules</ref> avec plusieurs autres nations barbares. Leur pays fut ensuite subjugué par les <ref target="repertoire_hh.html#2_huns">Huns</ref> sous <ref target="personnage_aa.html#2_attila">Attila</ref> » (<ref target="bibliographie.html#encyclopedie">
+                  <hi rend="italic">Encyclopédie de Diderot</hi>
+                </ref>, Article anonyme, <hi rend="italics">Sarmates</hi>). Voir une carte de la Sarmatie dans ce <ref target="http://upload.wikimedia.org/wikipedia/commons/3/38/Tabula_Asiae_II_-_Sarmatia_Asiatica.jpg">site</ref> (12 mai 2015).<lb/>
+                      <lb/>
+                      • Des Sarmates servent dans les armées d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> comme dans celles d'<ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#825">II, 12, 825</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Saturne</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#saturne">I</ref>, <ref target="#3_saturne">III</ref>
+                      
+                      Mythologie. « Saturne est moins grand que <ref target="repertoire_ik.html#jupiter">Jupiter</ref> », affirme <ref target="bibliographie.html#ovide">Ovide</ref> (XII, 858). Croyant éviter cette infortune, Saturne a dévoré ses enfants. <ref target="repertoire_ik.html#jupiter">Jupiter</ref> a survécu, puis  détrôné son père. D'Urfé  considère Saturne comme le dieu du Temps, celui qui encourage  la contemplation (<ref target="bibliographie.html#epistres">
+                  <hi rend="italics">Epistres morales</hi>
+                </ref>, III, 3, p. 379). <lb/>
+                      <lb/>
+                      • Ce dieu est représenté dans les « peintures esclatantes » (<ref target="../_roman/reference/21_1/21_1_livre_2.html#26_verso">I, 2, 26 verso</ref>) comme un vieillard qui  dévore ses enfants. <lb/>
+                      <lb/>
+                      • On trouvera dans ce <ref target="http://www.artchive.com/artchive/G/goya/saturn.jpg.html">site</ref> (30 septembre 2010), le Saturne de Goya (1746-1828). Il rappelle  celui d'Honoré d'Urfé.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Saturne</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#saturne">I</ref>, <ref target="#3_saturne">III</ref>
+                      
+                      Le plus savant des chantres de Saturne est Marsile <ref target="bibliographie.html#ficin">Ficin</ref>, médecin, philosophe et astrologue du XV<hi rend="supn">e</hi> siècle. Saturne, protecteur des intellectuels, les  rend mélancoliques, explique <ref target="bibliographie.html#ficin">Ficin</ref> (pp. 113-121). Patron du samedi, Saturne encourage la contemplation (pp. 363-369). <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> en revanche est le signe des avocats. Il rend  jovial (pp. 377-379).<lb/>
+                      <lb/>
+                      • Dans une prière de la <ref target="personnage_mm.html#3_maxime_vestale">Maxime</ref> vestale,  le « puissant Saturne » est l'époux de <ref target="repertoire_qr.html#3_rhee">Rhéa</ref>,  le père de <ref target="repertoire_uz.html#3_vesta">Vesta</ref> et  de <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#30_verso">III, 2, 30 verso</ref>) <lb/>
+                      <lb/>
+                      • Un chevalier impatient  doit prier Saturne, celui « qui conduit les heures, le temps, et les saisons » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#97_recto">III, 3, 97 recto</ref>).<lb/>
+                      <lb/>
+                      • <ref target="personnage_aa.html#3_adamas">Adamas</ref> explique à <ref target="personnage_hh.html#3_hylas">Hylas</ref> que l'influence de Saturne rend mélancolique et celle de <ref target="repertoire_ik.html#3_jupiter">Jupiter</ref> rend joyeux (<ref target="../_roman/reference/21_3/21_3_livre_5.html#205_recto">III, 5, 205 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Savignieu</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#savignieu">I</ref>, <ref target="#4_savignieu">IV</ref>
+                      
+                      Écrit aussi <hi rend="italics">Savigneu</hi>. Nom d'un bois qui se trouve près des jardins de <ref target="repertoire_mm.html#montbrison">Montbrison</ref>. Savigneux, aujourd'hui « ville fleurie », a son <ref target="http://www.savigneux.fr/decouvrir-savigneux/histoire.htm">site</ref> (13 mai 2015).<lb/>
+                      <lb/>
+                      • <ref target="personnage_cc.html#climanthe">Climanthe</ref>, le faux druide, s'installe dans ce bois où les Nymphes viennent le consulter (<ref target="../_roman/reference/21_1/21_1_livre_5.html#125_recto">I, 5, 125 recto</ref> et <ref target="../_roman/reference/21_1/21_1_livre_9.html#302_verso">I, 9, 302 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Savignieu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#savignieu">I</ref>, <ref target="#4_savignieu">IV</ref>
+                      
+                      • <ref target="personnage_ll.html#4_leonide">Léonide</ref> dit à <ref target="personnage_gg.html#4_galathee">Galathée</ref> que <ref target="personnage_cc.html#4_climanthe">Climanthe</ref> est resté quelque temps dans les bois de Savigneux, et qu'on aurait pu l'interroger (<ref target="../_roman/reference/24_4/24_4_livre_5.html#925">IV, 5, 925</ref>). <lb/>
+                      <lb/>
+                      • <ref target="personnage_gg.html#4_galathee">Galathée</ref> rappelle à <ref target="personnage_ll.html#4_leonide">Léonide</ref> qu'elles se sont rendues auprès du faux druide à Savigneux (<ref target="../_roman/reference/24_4/24_4_livre_5.html#928">IV, 5, 928</ref>).<lb/>
+                      <lb/>
+                      Renvois à des épisodes de la première partie<lb/>
+                        (<ref target="../_roman/reference/21_1/21_1_livre_5.html#125_recto">I, 5, 125 recto</ref> et <ref target="../_roman/reference/21_1/21_1_livre_9.html#302_verso">I, 9, 302 verso</ref>).
+                      <lb/>
+                      • <ref target="personnage_cc.html#4_climanthe">Climanthe</ref> est revenu dans ce même lieu, dit <ref target="personnage_gg.html#4_galathee">Galathée</ref> (<ref target="../_roman/reference/24_4/24_4_livre_5.html#931">IV, 5, 931</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Saxons</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_saxons">II</ref>, <ref target="#3_saxons">III</ref>
+                      
+                      <ref target="bibliographie.html#jordanes">Jordanès</ref>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#jordanes">η</ref>, en décrivant la bataille des <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref>, donne une liste similaire à celle d'Honoré d'Urfé, mais il ne dit pas que les armées ennemies étaient composées exactement des mêmes tribus !  Il écrit : « Aux <ref target="repertoire_qr.html#2_romains">Romains</ref>, en effet, se joignirent, comme auxiliaires, des <ref target="repertoire_ff.html#2_francs">Francs</ref>, des <ref target="#2_sarmates">Sarmates</ref>, des <ref target="repertoire_aa.html#2_armoricains">Armoricains</ref>, des Litiens [?], des <ref target="repertoire_bb.html#2_bourguignons">Burgondes</ref>, des <ref target="#2_saxons">Saxons</ref>, des Ripuaires, des Ibrions, jadis soldats de l'empire, mais alors appelés seulement comme auxiliaires, et quelques autres nations celtiques ou germaniques<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#germains">η</ref> » (ch. XXXVIII).<lb/>
+                      <lb/>
+                      • Des <ref target="#2_saxons">Saxons</ref> servent dans les armées d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> comme dans celles d'<ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#825">II, 12, 825</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Saxons</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_saxons">II</ref>, <ref target="#3_saxons">III</ref>
+                      
+                      Les Saxons ont combattu aux côtés des <ref target="repertoire_ff.html#3_francs">Francs</ref> avant de devenir leurs rivaux à la fin du V<hi rend="supn">e</hi> siècle (Voir ce <ref target="http://www.cosmovisions.com/ChronoSaxons.htm">site</ref>, 16 janvier 2013). <ref target="bibliographie.html#du_haillan">Du Haillan</ref> montre les Saxons opposés aux <ref target="repertoire_ff.html#3_francs">Francs</ref> (I, pp. 25, 47, 49) ; <ref target="bibliographie.html#fauchet">Fauchet</ref> aussi (p. 109) <lb/>
+                      <lb/>
+                      •                    Les fils de <ref target="personnage_cc.html#3_clodion">Clodion</ref> s'allient avec les Saxons contre <ref target="personnage_mm.html#3_merovee">Mérovée</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#523_verso">III, 12, 523 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Scithie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_scythie">II</ref>
+                      
+                      La Scythie figure dans l'édition de 1610 seulement.<lb/>
+                        Elle est remplacée en 1621 par <hi rend="italics">Syrie</hi>, ce qui est sans aucun doute une coquille. 
+                      <lb/>
+                      Grand pays de l'Asie aux frontières mouvantes. « Les Scythes ont esté cruelles gens, et de grand resistence : ils vivoyent de chair humaine » (<ref target="bibliographie.html#bouchet_jean">Bouchet</ref>, f° 3 verso)<lb/>
+                      En introduisant le discours de <ref target="personnage_pp.html#2_priscus">Priscus</ref>, <ref target="bibliographie.html#jordanes">Jordanès</ref>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#jordanes">η</ref> écrit : « <ref target="personnage_aa.html#2_attila">Attila</ref>, chef suprême de tous les <ref target="repertoire_hh.html#2_huns">Huns</ref>, et le premier, depuis que le monde existe, dont la domination ait embrassé la Scythie presque entière. Aussi sa gloire éclatante faisait-elle l'étonnement de tous les peuples » (ch. XXXIV). <lb/>
+                      <lb/>
+                      • <ref target="personnage_pp.html#2_priscus">Priscus</ref>, secrétaire de <ref target="personnage_uz.html#2_valentinien">Valentinien</ref>, s'est rendu en Scythie pour y  rencontrer <ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#826">II, 12, 826</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sebusiens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_sebusiens">II</ref>, <ref target="#3_sebusiens">III</ref>
+                      
+                      Le nom de ce peuple ne figure pas dans les <hi rend="italics">Commentaires</hi> de Jules César, mais, selon <ref target="bibliographie.html#la_mure">La Mure</ref>, c'est le nom des <ref target="#2_segusiens">Ségusiens</ref> du Bugey, voisins des <ref target="repertoire_aa.html#2_allobroges">Allobroges</ref>, nommés maintenant Savoyards  (I, p. 5). Honoré d'Urfé est du même avis. <ref target="bibliographie.html#guichenon">Guichenon</ref> souligne :
+                      « Il n'y a que Delbene [Alphonse Delbene 1538 - 1608] qui dit que les Sebusiens furent les fruits des premieres conquestes des <ref target="repertoire_bb.html#2_bourguignons">Bourguignons</ref> à leur arrivée aux Gaules » (p. 13).<lb/>
+                      <lb/>
+                      • Les <ref target="#2_sebusiens">Sébusiens</ref> figurent dans une histoire intercalée et dans le récit que <ref target="personnage_cc.html#2_celadon">Céladon</ref> fait de son voyage en <ref target="repertoire_ik.html#2_italie">Italie</ref>.<lb/>
+                      <lb/>
+                      • <ref target="personnage_cc.html#2_circene">Circène</ref>, raconte <ref target="personnage_ff.html#2_florice">Florice</ref>, va voir son  père qui tombe malade et meurt dans « une ville du costé des <ref target="repertoire_aa.html#2_allobroges">Allobroges</ref> dans le pays des Sebusiens » (<ref target="../_roman/reference/21_2/21_2_livre_3.html#171">II, 3, 171</ref>).<lb/>
+                      <lb/>
+                      • À <ref target="repertoire_ll.html#2_lyon">Lyon</ref>, <ref target="personnage_cc.html#2_clorian">Clorian</ref>, qui aime <ref target="personnage_cc.html#2_circene">Circène</ref>,   regarde du côté de la plaine des Sébusiens (<ref target="../_roman/reference/21_2/21_2_livre_3.html#172">II, 3, 172</ref>).<lb/>
+                      <lb/>
+                      •                      Les Sébusiens de <ref target="personnage_cc.html#2_celadon">Céladon</ref> vivent dans un milieu  sinistre,  une région de « rochers et precipices
+                      affreux » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#633">II, 10, 633</ref>) et de « destroits » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#634">II, 10, 634</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sebusiens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_sebusiens">II</ref>, <ref target="#3_sebusiens">III</ref>
+                      
+                      • Les Sébusiens font partie des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Secusiens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_secusiens">II</ref>, <ref target="#3_secusiens">III</ref>
+                      
+                      Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> se demande s'il s'agit des habitants du pays de Suse (Drôme provençale) et reconnaît que d'Urfé confond quelquefois <hi rend="italics">Secusiens</hi> et <hi rend="italics">Segusiens</hi> (p. 217). <lb/>
+                      <lb/>
+                      • De sa maison, à <ref target="repertoire_ll.html#2_lyon">Lyon</ref>, <ref target="personnage_cc.html#2_clorian">Clorian</ref> aurait pu voir jusqu'aux monts Sécusiens (<ref target="../_roman/reference/21_2/21_2_livre_3.html#172">II, 3, 172</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Secusiens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_secusiens">II</ref>, <ref target="#3_secusiens">III</ref>
+                      
+                      • Les Sécusiens font partie des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>). <lb/>
+                      <lb/>
+                      L'édition de 1619 donne <hi rend="italic">Secusiens</hi> là où les éditions suivantes donnent <ref target="#3_segusiens">
+                    <hi rend="italic">Segusiens</hi>
+                  </ref> <lb/>
+                        (<ref target="../_roman/reference/21_3/21_3_livre_12.html#501_recto">III, 12, 501 recto</ref>).
+                      <lb/>
+                      Dans la liste des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>, on ne rencontre pas de <ref target="#3_segusiens">Ségusiens</ref> mais des<lb/>
+                        « Secusiens [et] <ref target="#3_secusienses">Secusiences</ref> »<lb/>
+                        (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>).<lb/>
+                      
+                      <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Secusienses</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_secusienses">III</ref>
+                      
+                      <ref target="bibliographie.html#guichenon_savoie">Guichenon</ref> nomme les <hi rend="italic">Secusienses</hi> dans un texte latin où il s'agit des <ref target="#3_secusiens">Sécusiens</ref> (I, p. 42). Je distinguerai les noms de ces peuples, parce que d'Urfé a jugé nécessaire de le faire.<lb/>
+                      <lb/>
+                      • Les Sécusienses et les <ref target="#3_secusiens">Sécusiens</ref> font partie des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sedunois</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_sedunois">III</ref>
+                      
+                      Habitants de la ville de Sion, dans le Valais, en Suisse. <ref target="bibliographie.html#pline">Pline</ref> les nomme <hi rend="italic">Sedunes</hi> (III, 4), mais on les appelle aujourd'hui <hi rend="italic">Sédunois</hi>. <lb/>
+                      <lb/>
+                      • Les Sédunois font partie des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:183px; background-color:#CCCCCC;">
+                
+                <hi>Segovellauniens</hi>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_segovellauniensiens">III</ref>
+                      
+                      Les <hi rend="italic">Segovellauniens</hi> habitent la colonie romaine de Valence. Les traducteurs de <ref target="bibliographie.html#pline">Pline</ref> les appellent <hi rend="italic">Segovellaunes</hi> (III, 4), ce qui est leur nom moderne. <lb/>
+                      <lb/>
+                      • Les Segovellauniens font partie des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>). <lb/>
+                      <lb/>
+                      L'édition de 1619 donne bien <hi rend="italic">Segovellauniens</hi>, malheureusement les éditions suivantes donnent <hi rend="italic">Segovellauniensiens</hi>.
+                      <lb/>
+                      • Carte des territoires des Segovellauniens dans ce <ref target="http://archeograv.fr/wp-content/uploads/2013/06/carte-des-peuples-de-la-fin-du-Second-age-du-Fer-dans-le-sud-est-du-Massif-central.jpg">site</ref> (15 mai 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Segusiences</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_segusiences">II</ref>
+                      
+                      En étudiant l'itinéraire suivi par <ref target="personnage_cc.html#2_celadon">Céladon</ref> entre le <ref target="repertoire_ff.html#2_forez">Forez</ref> et l'<ref target="repertoire_ik.html#2_italie">Italie</ref>, Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> s'étonne de l'ordre suivi dans l'énumération des lieux, car les monts <ref target="#2_segusiens">Ségusiens</ref> devraient être nommés les premiers  non les derniers (pp. 221-222).<lb/>
+                      D'Urfé  recourt alors à la forme <hi rend="italics">Segusiences</hi> (et non <hi rend="italics">Ségusiens</hi> comme ailleurs). Il veut  indiquer une différence et désigner les <hi rend="italic">Ségusiens</hi> qui vivent dans les <ref target="repertoire_aa.html#2_alpes">Alpes</ref>. Ceux-ci ont pour capitale « la ville de Suse [...] appellée des Romains <hi rend="italic">Segusia</hi> » (<ref target="bibliographie.html#guichenon_savoie">Guichenon</ref>, I, p. 12). <lb/>
+                      <lb/>
+                      • Ces monts étendent jusqu'aux <ref target="repertoire_aa.html#2_alpes">Alpes</ref> <ref target="repertoire_aa.html#2_alpes_coties">Cottiennes</ref> leurs « rochers et precipices affreux » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#633">II, 10, 633</ref>). Au bas de la montagne  se trouve la ville des Segusiences (<ref target="../_roman/reference/21_2/21_2_livre_10.html#636">II, 10, 636</ref>), Suse.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Segusiens</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#segusiens">I</ref>, <ref target="#2_segusiens">II</ref>, <ref target="#3_segusiens">III</ref>
+                      
+                      Ancien nom du peuple qui habite le <ref target="repertoire_ff.html#forez">Forez</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#29_verso">I, 2, 29 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_10.html#349_verso">I, 10, 349 verso</ref>). <lb/>
+                      <lb/>
+                      • Un seul personnage se dit « Ségusien », dans la première partie, le chevalier <ref target="personnage_ll.html#ligdamon">Ligdamon</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#358_recto">I, 11, 358 recto</ref>). Il se trouve alors en <ref target="repertoire_no.html#neustrie">Neustrie</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Segusiens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#segusiens">I</ref>, <ref target="#2_segusiens">II</ref>, <ref target="#3_segusiens">III</ref>
+                      
+                      Écrit aussi <hi rend="italics">Seguziens.</hi> Les Ségusiens ou Ségusiaves  étaient un « petit peuple du centre de la <ref target="repertoire_gg.html#2_gaule">Gaule</ref>. Clients des <ref target="repertoire_ee.html#2_eduois">Éduois</ref>, ils étaient au moment de la guerre des <ref target="repertoire_gg.html#2_gaule">Gaules</ref> leurs voisins du Sud et c'est avec eux qu'il fournirent un contingent à la coalition de l'an 52 avant J.-C. Le cours de la Saône les séparait des Ambarres et des <ref target="repertoire_aa.html#2_allobroges">Allobroges</ref>. Ils étaient le premier peuple sur la rive droite du <ref target="repertoire_qr.html#2_rhone">Rhône</ref>, au Nord de la Narbonnaise, où leurs voisins étaient les Helviens. À l'Ouest se trouvaient les Arvernes et plus au Sud les Vellaves, clients de ces derniers. Leur agglomération centrale était à l'époque gallo-romaine <hi rend="italics">Forum Seguiavorum</hi> (<ref target="repertoire_ff.html#feurs">Feurs</ref>), un site occupé dès le II<hi rend="supn">e</hi> siècle avant  J.-C. La deuxième agglomération importante était <hi rend="italics">Rodunna</hi> (Roanne). Strabon leur attribue <hi rend="italics">Lugdunum</hi> », <ref target="repertoire_ll.html#lyon">Lyon</ref> (<ref target="bibliographie.html#kruta">Kruta</ref>, pp. 813-814). <lb/>
+                      Jules <ref target="bibliographie.html#cesar">César</ref> signale qu'il a « conduit ses troupes dans le pays des <ref target="repertoire_aa.html#2_allobroges">Allobroges</ref>, puis chez les Ségusiaves. C'est le premier peuple hors de la province, au-delà du <ref target="repertoire_qr.html#2_rhone">Rhône</ref> » (I, 10).<lb/>
+                      <ref target="bibliographie.html#la_mure">La Mure</ref> écrit que les Ségusiens habitaient <ref target="repertoire_ff.html#2_feurs">Feurs</ref> du temps de Jules <ref target="personnage_cc.html#cesar">César</ref>, une inscription le prouve (I, pp. 2-3). Ils font partie des premières armées qui ont affronté les <ref target="repertoire_qr.html#2_romains">Romains</ref> (I, p. 7). Premiers clients des <ref target="repertoire_ee.html#2_eduois">Éduois</ref>, ils deviennent comme eux des amis de <ref target="repertoire_qr.html#rome">Rome</ref> (I, p. 9). Ils évitent l'emprise des <ref target="repertoire_aa.html#2_auvergnats">Auvergnats</ref> (I, p. 14) et  « leur redoutable et entreprenante domination » (I, p. 57). <lb/>
+                      <lb/>
+                      • Les <ref target="repertoire_bb.html#2_boiens">Boïens</ref> habitent chez les Ségusiens (<ref target="../_roman/reference/21_2/21_2_livre_1.html#36">II, 1, 36</ref>).<lb/>
+                      <lb/>
+                      •  À <ref target="repertoire_ll.html#2_lyon">Lyon</ref>, du haut de sa demeure, <ref target="personnage_cc.html#2_clorian">Clorian</ref> voit jusqu'aux monts des Ségusiens (<ref target="../_roman/reference/21_2/21_2_livre_3.html#171">II, 3, 171</ref>).<lb/>
+                      <lb/>
+                      • <ref target="personnage_cc.html#2_celadon">Céladon</ref> se déclare Ségusien <hi rend="italics">et</hi> <ref target="repertoire_ff.html#2_foreziens">Forézien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#647">II, 10, 647</ref>).<lb/>
+                      <lb/>
+                      • <ref target="personnage_ss.html#2_silvandre">Silvandre</ref>, lui, dit qu'il pense être Ségusien <hi rend="italics">ou</hi> <ref target="repertoire_ff.html#2_foreziens">Forézien</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#771">II, 12, 771</ref>). <lb/>
+                      <lb/>
+                      •                      Les Chevaliers <ref target="repertoire_qr.html#2_romains">romains</ref>, <ref target="personnage_uz.html#2_ursace">Ursace</ref> et <ref target="personnage_no.html#2_olimbre">Olimbre</ref>, déduisent que les Ségusiens sont destinés à les sauver (<ref target="../_roman/reference/21_2/21_2_livre_12.html#773">II, 12, 773</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Segusiens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#segusiens">I</ref>, <ref target="#2_segusiens">II</ref>, <ref target="#3_segusiens">III</ref>
+                      
+                      « Les Segusiens sont ceux de la Ville de Suze et de tout le Pays d'alentour » (<ref target="bibliographie.html#guichenon_savoie">Guichenon</ref>, I, p. 12). Il faut donc distinguer les Ségusiens gaulois - ceux du <ref target="repertoire_ff.html#3_forez">Forez</ref> - des  Ségusiens alpins que d'Urfé  appelle aussi <hi rend="italics">
+                  <ref target="#2_segusiences">Segusiences</ref>.</hi>
+                <lb/>
+                      <lb/>
+                      • <ref target="personnage_aa.html#3_adamas">Adamas</ref> explique à <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> que les <ref target="repertoire_qr.html#3_romains">Romains</ref> ont ménagé les états ségusiens  (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_verso">III, 2, 27 verso</ref>), et que Dieu a sauvegardé la religion du pays (<ref target="../_roman/reference/21_3/21_3_livre_9.html#373_recto">III, 9, 373 recto</ref>).<lb/>
+                      <lb/>
+                      • Pour devenir « Seigneur absolu des Segusiens » (<ref target="../_roman/reference/21_3/21_3_livre_6.html#221_recto">III, 6, 221 recto</ref>), <ref target="personnage_pp.html#3_polemas">Polémas</ref> se montre libéral envers les soldats, les chevaliers et les druides du pays  (<ref target="../_roman/reference/21_3/21_3_livre_12.html#501_recto">III, 12, 501 recto</ref>). <lb/>
+                      <lb/>
+                      L'édition de 1619 donne <hi rend="italic">Secusiens</hi> là où les éditions suivantes donnent <ref target="#3_segusiens">
+                    <hi rend="italic">Segusiens</hi>
+                  </ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#501_recto">III, 12, 501 recto</ref>).
+                      <lb/>
+                      • <ref target="personnage_gg.html#3_galathee">Galathée</ref> explique à <ref target="personnage_dd.html#3_damon_a">Damon d'Aquitaine</ref> que le pays des Ségusiens « s'appelle communément » le <ref target="repertoire_ff.html#3_forez">Forez</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#258_recto">III, 6, 258 recto</ref>).<lb/>
+                      <lb/>
+                      • Prisonniers de <ref target="personnage_bb.html#3_bellimart">Bellimart</ref>, <ref target="personnage_aa.html#3_arimant">Arimant</ref> et <ref target="personnage_bb.html#3_bellaris">Bellaris</ref> passent par le pays des Ségusiens avant d'arriver à <ref target="repertoire_gg.html#3_gergovie">Gergovie</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#342_verso">III, 8, 342 verso</ref>).<lb/>
+                      <lb/>
+                      • <ref target="personnage_cc.html#3_criseide">Criséide</ref> et <ref target="personnage_cc.html#3_clarine">Clarine</ref>, prisonnières, quittent <ref target="repertoire_ll.html#3_lyon">Lyon</ref> et passent par le pays des Ségusiens (<ref target="../_roman/reference/21_3/21_3_livre_8.html#345_recto">III, 8, 345 recto</ref>).<lb/>
+                      <lb/>
+                      • Les Ségusiens qui escortent <ref target="personnage_cc.html#3_clidaman">Clidaman</ref> et <ref target="personnage_ll.html#3_lindamor">Lindamor</ref> soutiennent <ref target="personnage_cc.html#3_childeric">Childéric</ref> à <ref target="repertoire_pp.html#3_paris_ville">Paris</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#545_recto">III, 12, 545 recto</ref>). <ref target="personnage_ll.html#3_lindamor">Lindamor</ref> conseille de les ramener en <ref target="repertoire_ff.html#3_forez">Forez</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#546_recto">III, 12, 546 recto</ref>). Mais <ref target="personnage_cc.html#3_clidaman">Clidaman</ref> veut que les Ségusiens accompagnent <ref target="personnage_cc.html#3_childeric">Childéric</ref> hors de la ville (<ref target="../_roman/reference/21_3/21_3_livre_12.html#548_recto">III, 12, 548 recto</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Seine</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#seine">I</ref>, <ref target="#3_seine">III</ref>
+                      
+                      D'après <ref target="bibliographie.html#piganiol">Piganiol de La Force</ref>, l'eau de la Seine « surpasse toutes les autres en salubrité. Elle est sur-tout salutaire dans les fiévres ardentes et dans les maladies d'obstruction » (I, p. 42).<lb/>
+                      <lb/>
+                      • Sur les rives de ce fleuve vivent des Bergers, disent <ref target="personnage_ll.html#laonice">Laonice</ref> (<ref target="../_roman/reference/21_1/21_1_livre_7.html#207_recto">I, 7, 207 recto</ref>) et <ref target="personnage_tt.html#tircis">Tircis</ref> (<ref target="../_roman/reference/21_1/21_1_livre_12.html#400_verso">I, 12, 400 verso</ref>). La peste va les accabler.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Seine</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#seine">I</ref>, <ref target="#3_seine">III</ref>
+                      
+                      Clovis, le premier Mérovingien à <ref target="repertoire_pp.html#3_paris_ville">Paris</ref>, aurait quitté l'Île de la Cité et traversé la Seine pour s'installer au Palais des Thermes, au-delà du Petit-Pont (<ref target="bibliographie.html#piganiol">Piganiol</ref>, I, p. 7).<lb/>
+                      <lb/>
+                      Dans <hi rend="italic">L'Astrée</hi>, la Seine est liée aux <ref target="repertoire_ff.html#3_francs">Francs</ref> au livre 12.<lb/>
+                      <lb/>
+                      • La reine <ref target="personnage_mm.html#3_methine">Méthine</ref> se promène sur les rives du fleuve (<ref target="../_roman/reference/21_3/21_3_livre_12.html#510_recto">III, 12, 510 recto</ref>), <ref target="personnage_ss.html#3_silviane">Silviane</ref> et <ref target="personnage_aa.html#3_andrimarte">Andrimarte</ref> sont auprès d'elle (<ref target="../_roman/reference/21_3/21_3_livre_12.html#514_verso">III, 12, 514 verso</ref>).<lb/>
+                      <lb/>
+                      • La Seine entoure <ref target="repertoire_pp.html#3_paris_ville">Paris</ref> d'un fossé, et l'enserre de ses deux bras (<ref target="../_roman/reference/21_3/21_3_livre_12.html#510_verso">III, 12, 510 verso</ref>). <lb/>
+                      <lb/>
+                      <p>La description est plus longue après l'édition de 1619.</p>
+                      <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Semele</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#semele">I</ref>, <ref target="#3_semele">III</ref>
+                      
+                      Mythologie. Sémélé est la fille de Cadmos, l'ancêtre d'Œdipe. Elle suit un conseil de <ref target="repertoire_ik.html#junon">Junon</ref> quand elle insiste pour voir <ref target="repertoire_ik.html#jupiter">Jupiter</ref>, son amant, dans toute sa splendeur. Elle meurt foudroyée. <ref target="repertoire_ik.html#jupiter">Jupiter</ref> met l'enfant qu'elle attendait dans sa cuisse pour lui donner le temps de grandir. L'enfant est <ref target="repertoire_bb.html#bacchus">Bacchus</ref> (le Dionysos grec, né deux fois) qui peut se vanter d'« être sorti de la cuisse de <ref target="repertoire_ik.html#jupiter">Jupiter</ref> », d'être supérieur aux autres.<lb/>
+                      <lb/>
+                      • Dans <hi rend="italics">L'Astrée</hi>, Sémélé, comme <ref target="repertoire_pp.html#psyche">Psyché</ref>, ne figure pas  dans les « peintures esclatantes » que <ref target="personnage_cc.html#celadon">Céladon</ref> voit à <ref target="repertoire_ik.html#isoure">Isoure</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#27_verso">I, 2, 27 verso</ref>). D'Urfé nomme les deux jeunes femmes pour expliquer l'origine des cicatrices de <ref target="repertoire_ik.html#jupiter">Jupiter</ref> et de <ref target="repertoire_cc.html#cupidon">Cupidon</ref>. Sémélé est
+                      victime de « son imprudence », note d'Urfé (<ref target="../_roman/reference/21_1/21_1_livre_2.html#27_recto">I, 2, 27 recto</ref>).<lb/>
+                      <lb/>
+                      • <ref target="personnage_aa.html#aristandre">Aristandre</ref>, prêt à tout pour voir <ref target="personnage_ss.html#silvie">Silvie</ref>, se compare à Sémélé qui meurt pour voir <ref target="repertoire_ik.html#jupiter">Jupiter</ref> (<ref target="../_roman/reference/21_1/21_1_livre_3.html#65_verso">I, 3, 65 verso</ref>).<lb/>
+                      <lb/>
+                      • Dans sa réponse à la lettre envoyée par l'Académie des Parfaits Amants, d'Urfé évoque cette « imprudente Nymphe » (Voir <ref target="lettres.html#reponse_parfaits">Lettres</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Semele</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#semele">I</ref>, <ref target="#3_semele">III</ref>
+                      
+                      <ref target="personnage_cc.html#3_celadon">Céladon</ref> travesti se compare à deux femmes punies pour avoir voulu voir celui qu'elles aimaient et qu'elles n'avaient pas le droit de regarder, <ref target="repertoire_pp.html#3_psyche">Psyché</ref> et Sémélé.<lb/>
+                      <lb/>
+                      • <ref target="personnage_aa.html#3_alexis">Alexis</ref> se demande dans un poème pourquoi elle ne meurt pas comme Sémélé « pour voir la Deité » (<ref target="../_roman/reference/21_3/21_3_livre_11.html#464_verso">III, 11, 464 verso</ref>).<lb/>
+                      <lb/>
+                      • Sémélé vue par Rubens dans ce <ref target="http://lesamoursdejupiter.files.wordpress.com/2012/04/rubens-jupiter-et-sc3a9mc3a9lc3a9-huile-sur-bois-27-x-395-cm-1625-musc3a9es-royaux-des-beaux-arts-belgique.jpg">site</ref> (10 février 2014).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Sens</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#sens">I</ref>
+                      
+                      • L'une des villes qui reçoivent <ref target="personnage_mm.html#merovee">Mérovée</ref>, roi des <ref target="repertoire_ff.html#francs">Francs</ref>, comme Seigneur (<ref target="../_roman/reference/21_1/21_1_livre_3.html#64_recto">I, 3, 64 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">Séquanes</cell>
+              <cell colspan="1" rowspan="1">Voir <ref target="#sequanois">Séquanois</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sequanois</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#sequanois">I</ref>, <ref target="#2_sequanois">II</ref>, <ref target="#3_sequanois">III</ref>
+                      
+                      Les Séquanes sont un peuple établi entre les sources de la <ref target="#seine">Seine</ref> et le Jura. Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> les place dans le Bugey, dont la capitale est Belley (p. 216). Ils semblent avoir résidé plutôt dans le Doubs, dont la capitale est Besançon. <lb/>
+                      <lb/>
+                      • Cette  région donnée aux <ref target="repertoire_bb.html#bourguignons">Bourguignons</ref> par les <ref target="repertoire_qr.html#romains">Romains</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#226_recto">I, 8, 226 recto</ref>) est envahie par des étrangers au moment de l'enlèvement du frère de la Bergère <ref target="personnage_dd.html#diane">Diane</ref> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#349_verso">I, 10, 349 verso</ref>).<lb/>
+                      <lb/>
+                      • Voir dans ce <ref target="http://voyagesenduo.com/italie/rome_antique_gaule.html#4">site</ref> une  carte de la conquête des Gaules (20 avril 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sequanois</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#sequanois">I</ref>, <ref target="#2_sequanois">II</ref>, <ref target="#3_sequanois">III</ref>
+                      
+                      « Entre la Saône et le Jura, occupant la région qui sera appelée dix siècles plus tard la Franche-Comté de Bourgogne, [se trouvent] les <hi rend="italics">Sequani</hi>. Leur nom [...] peut être emprunté au nom que porte l'<ref target="repertoire_aa.html#2_arar">Arar</ref> en son cours supérieur, <hi rend="italics">Sagona</hi> » (<ref target="bibliographie.html#lot">Lot</ref>, p. 38).  Les Séquanois sont séparés des <ref target="repertoire_ee.html#2_eduois">Éduois</ref>, leurs adversaires traditionnels au moment de la guerre des <ref target="repertoire_gg.html#2_gaule">Gaules</ref>, et des Lingons par le cours de la Saône (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 816).
+                      Les Séquanois sont à Vesontio (Besançon) (<ref target="bibliographie.html#flutsch">Flutsch</ref>, pp. 27-28).<lb/>
+                      Les Séquanois avaient toutes les raisons d'intéresser Honoré d'Urfé puisqu'ils ont servi de prétexte à la guerre des <ref target="repertoire_gg.html#2_gaule">Gaules</ref>. En effet, ils sont à l'origine de l'invasion romaine :  les <ref target="repertoire_ee.html#2_eduois">Éduois</ref> appellent <ref target="personnage_cc.html#cesar">César</ref> au secours lorsque les Séquanois les envahissent. De plus, les Séquanois s'étaient alors alliés aux Germains d'<ref target="personnage_aa.html#2_arioviste">Arioviste</ref> (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 33 recto), ce roi que le romancier admire. <lb/>
+                      <lb/>
+                      • Le <ref target="personnage_mm.html#2_mire">Mire</ref> qui soigne <ref target="personnage_cc.html#2_calidon">Calidon</ref> a également traité des Séquanois (<ref target="../_roman/reference/21_2/21_2_livre_1.html#46">II, 1, 46</ref>). <lb/>
+                      <lb/>
+                      •                      De sa maison, à <ref target="repertoire_ll.html#2_lyon">Lyon</ref>, <ref target="personnage_cc.html#2_clorian">Clorian</ref> peut voir jusqu'aux Séquanois (<ref target="../_roman/reference/21_2/21_2_livre_3.html#171">II, 3, 171</ref>). <lb/>
+                      <lb/>
+                      •                    Les <ref target="repertoire_bb.html#2_bourguignons">Bourguignons</ref> veulent s'emparer du pays des Séquanois (<ref target="../_roman/reference/21_2/21_2_livre_11.html#749">II, 11, 749</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sequanois</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#sequanois">I</ref>, <ref target="#2_sequanois">II</ref>, <ref target="#3_sequanois">III</ref>
+                      
+                      <ref target="bibliographie.html#pline">Pline</ref> précise que les <ref target="repertoire_ee.html#3_eduois">Éduois</ref> sont des alliés de <ref target="repertoire_qr.html#3_rome">Rome</ref> alors que le pays des Séquanois est une colonie (IV, 31)<lb/>
+                      <lb/>
+                      • Dans la demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref> se trouve « la carte des Séquanois et <ref target="repertoire_ee.html#3_eduois">Heduois</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#59_verso">III, 3, 59 verso</ref>). <lb/>
+                      <lb/>
+                      <p>La description de la demeure est considérablement allongée après l'édition de 1619</p>
+                      <lb/>
+                      • Le père de <ref target="personnage_dd.html#3_damon_a">Damon</ref> d'Aquitaine,  après la bataille des <ref target="repertoire_cc.html#3_champs_catalauniques">champs Catalauniques</ref>, a protégé le <ref target="repertoire_ff.html#3_forez">Forez</ref> en encourageant <ref target="personnage_tt.html#3_torrismond">Torrismond</ref> à traverser  plutôt  les terres des Séquanois (<ref target="../_roman/reference/21_3/21_3_livre_6.html#261_recto">III, 6, 261 recto</ref>). Comme ce jeune Prince était amoureux d'une nymphe forézienne qu'il ne voulait pas épouser, <ref target="personnage_aa.html#3_amasis">Amasis</ref> aurait eu du mal à protéger la jeune fille (<ref target="../_roman/reference/21_3/21_3_livre_6.html#261_recto">III, 6, 261 recto</ref>).<lb/>
+                      <lb/>
+                      • Les Séquanois font partie des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Serant</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_serant">III</ref>
+                      
+                      Le Séran est un  affluent du <ref target="repertoire_qr.html#3_rhone">Rhône</ref> dans l'Ain (<ref target="bibliographie.html#longnon">Longnon</ref>, p. 274). « Seran passe à Rumilly, et entre au <ref target="repertoire_qr.html#3_rhone">Rosne</ref> proche de Seyssel » (<ref target="bibliographie.html#guichenon_savoie">Guichenon</ref>, I, p. 20). D'Urfé évoque des rivières qui passent près de chez lui, à Virieu-le-Grand<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#virieu">η</ref>, le Séran et le Furan.<lb/>
+                      <lb/>
+                      • <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> entend vanter « la douce vie des bergers et bergeres de <ref target="repertoire_ll.html#3_loire">Loire</ref>, de <ref target="repertoire_ff.html#3_furan">Furant</ref>, d'<ref target="repertoire_aa.html#3_argent">Argent</ref> et de Serant :
+
+                      mais sur tous de <ref target="repertoire_ll.html#3_lignon">Lygnon</ref> »   (<ref target="../_roman/reference/21_3/21_3_livre_4.html#159_recto">III, 4, 159 recto</ref>). <lb/>
+                      <lb/>
+                      Grâce aux rivières nommées ici,  le domaine pastoral  s'élargit pour entourer  l'auteur de <hi rend="italic">L'Astrée</hi>. <lb/>
+                        Le présent se juxtapose au souvenir.
+                      <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sesnes</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans </hi> <ref target="#2_sesnes">II</ref>
+                      
+                      Le mot <hi rend="italics">Sesnes</hi> se trouve dans <hi rend="italics">le Roman de Brut de Wace,</hi> numérisé pour la base <hi rend="italics">Textes de Français Ancien</hi> dans ce <ref target="http://www.uottawa.ca/academic/arts/lfa/activites/textes/brut/brut2.html">site</ref> (30 septembre 2010. Adresse introuvable  en 2018).  Au vers 12, on lit que  Colgrin « Maintint les Sesnes », c'est-à-dire, de toute évidence, les <ref target="#2_saxons">Saxons</ref>. Ce peuple originaire du Jutland (Danemark) envahit les Îles britanniques au V<hi rend="supn">e</hi> siècle. Je remercie Pierre Kunstmann, l'auteur du site <hi rend="italics">Textes de Français Ancien</hi> et le fondateur de la base (Voir ce <ref target="https://journals.openedition.org/peme/2245?lang=en">site</ref>, 20 septembre 2018). Malheureusement, les textes sont maintenant hébergés par <ref target="http://artfl-project.uchicago.edu/content/tfa">
+                  <hi rend="italic">ARTFL</hi>
+                </ref> dont l'accès est réservé aux membres.<lb/>
+                      <lb/>
+                      Claude <ref target="bibliographie.html#fauchet_langue">Fauchet</ref> explique dans son <hi rend="italic">Recueil de l'origine de la langue</hi> : « Les Anglosaxons peuple Germain que nos Romans appellent Sesnes » ( p. 12).<lb/>
+                      Il nomme les Sesnes une vingtaine de fois dans ses <hi rend="italics">Antiquitez</hi>. Il appelle par exemple les habitants de la région de Bayeux « Sesnes Bessins, dits en Latin, <hi rend="italic">Saxones Bayocassini</hi> » (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p. 109).
+                      <lb/>
+                      <lb/>
+                      • Les <ref target="repertoire_bb.html#2_bretons">Bretons</ref> attaqués par les <ref target="repertoire_pp.html#2_pictes">Pictes</ref> appellent au secours « les Sesnes <ref target="repertoire_aa.html#2_anglois">Anglois</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_11.html#762">II, 11, 762</ref>).<lb/>
+                      <lb/>
+                      
+                  <ref target="bibliographie.html#vaganay">Vaganay</ref> écrit « <hi rend="italics">seigneurs</hi> <ref target="repertoire_aa.html#2_anglois">Anglois</ref> » (II, 11, p. 483). L'édition de 1610 et celle de 1621 donnent bien pourtant « <ref target="#2_sesnes">Sesnes</ref> <ref target="repertoire_aa.html#2_anglois">Anglois</ref> »<lb/>
+                        (<ref target="../_roman/reference/21_2/21_2_livre_11.html#762">II, 11, 762</ref>). 
+                      <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sicambriens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_sicambriens">III</ref>
+                      
+                      <ref target="bibliographie.html#fauchet">Fauchet</ref> estime que les <ref target="repertoire_ff.html#3_francs">Francs</ref> sont Sicambriens (p. 65) ;  il explique que les Troyens ont fondé dans les <ref target="repertoire_pp.html#3_palus_meotides">Palus Méotides</ref> une ville nommée Sicambrie (p. 64). Martial, dans une épigramme, mentionne un Sicambrien, rappelle <ref target="bibliographie.html#fauchetr">Fauchet</ref> dans son <hi rend="italic">Recueil</hi> (f° 89 recto). <ref target="bibliographie.html#du_haillan">Du Haillan</ref>, lui, précise que ces Sicambriens habitaient la <ref target="repertoire_pp.html#2_pannonie">Pannonie</ref> (I, Discours, n. p.), c'est le domaine des <ref target="repertoire_hh.html#3_huns">Huns</ref>.<lb/>
+                      <lb/>
+                      • Dans sa cour, <ref target="personnage_mm.html#3_methine">Méthine</ref> réunit <ref target="repertoire_gg.html#3_gaulois">Gaulois</ref> et <ref target="repertoire_ff.html#3_francs">Francs</ref> pour « adoucir le farouche naturel de ces vieux Sicambriens » (<ref target="../_roman/reference/21_3/21_3_livre_12.html#509_recto">III, 12, 509 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Sicile</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_sicile">II</ref>
+                      
+                      L'île de Sicile fait partie de l'<ref target="repertoire_ee.html#2_empire_romain">Empire romain</ref> depuis les guerres puniques. Les <ref target="repertoire_uz.html#vandales">Vandales</ref> l'attaquent au V<hi rend="supn">e</hi> siècle.<lb/>
+                      <lb/>
+                      • L'armée d'<ref target="personnage_aa.html#2_ariobinde">Ariobinde</ref> s'arrête en Sicile (<ref target="../_roman/reference/21_2/21_2_livre_12.html#803">II, 12, 803</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Sireines</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#2_sirenes">II</ref>, <ref target="#4_sirenes">IV</ref>
+                      
+                      Mythologie. Écrit aussi <hi rend="italic">Syrene</hi> et <hi rend="italic">Syreine</hi>.
+                      Les Sirènes sont filles d'<ref target="repertoire_aa.html#2_achelois">Achéloos</ref> et de <ref target="repertoire_cc.html#2_calliope">Calliope</ref>, muse de la musique. Certains mythographes leur donnent  pour mère Melpomène, muse de la Tragédie, d'autres Terpsichore, muse de la Danse. <lb/>
+                      « Les Payens ont feint que c'étoient des monstres marins, ayant le visage de femmes, &amp; la queuë de poisson. Ils ont creu qu'il y avoit trois filles du Fleuve <ref target="repertoire_aa.html#2_achelois">Achelous</ref>, nommées <ref target="repertoire_pp.html#2_parthenope_m">Parthenope</ref>, <ref target="repertoire_ll.html#2_ligee">Ligée</ref>, &amp; <ref target="repertoire_ll.html#2_leucosie">Leucosie</ref>, habitantes du rivage de <ref target="#2_sicile">Sicile</ref>, qui chantoient excellemment, qui se jetterent dans la mer pour avoir été mesprisées par <ref target="repertoire_uz.html#2_ulysse">Ulysse</ref>, ou de douleur d'avoir perdu leur compagne Proserpine ; &amp; que les Dieux les avoient transformées en ces monstres, qui attiroient les passagers dans des rochers, où elles les faisoient perir &amp; les devoroient. De là vient qu'on dit, Elle chante comme une Sirene. Dangereux comme un chant de Sirenes. A la reserve du chant, les Sirenes ne sont pas tout à fait fabuleuses » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+                      Les sirènes ne sont que deux dans <hi rend="italics">L'Odyssée</hi> d'Homère (ch. XII). C'est dans les commentaires à <hi rend="italics">L'Odyssée</hi> et aux <hi rend="italics">Géorgiques</hi> de Virgile qu'elles sont trois, et que l'une d'entre elles se nomme <ref target="repertoire_pp.html#2_parthenope_m">Parthénopé</ref>, explique Desfontaines dans son édition de <ref target="bibliographie.html#virgile_desfontaines">Virgile</ref> (III, p. 99 note 51). <lb/>
+                      <lb/>
+                      • La deuxième partie de <hi rend="italics">L'Astrée</hi> donne leur nom à trois sirènes : <ref target="repertoire_ll.html#2_ligee">Ligée</ref>, <ref target="repertoire_ll.html#2_leucosie">Leucosie</ref>, et <ref target="repertoire_pp.html#2_parthenope_m">Parthénopé</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#203">II, 4, 203</ref>). Elles sont nommées par un vieillard qui explique aux dames les armes d'<ref target="personnage_hh.html#2_hylas">Hylas</ref>. Le jeune homme a choisi de peindre une sirène dans ses armes. Il se représente lui-même en <ref target="repertoire_uz.html#2_ulysse">Ulysse</ref> enchaîné et ajoute la devise : « Quels liens faudroit-il » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#201">II, 4, 201</ref>). L'inconstant a tout à fait raison, il faudrait des liens solides pour l'empêcher d'approcher une sirène ! <lb/>
+                      <lb/>
+                      • <ref target="personnage_hh.html#2_heracle">Héracle</ref> compare <ref target="personnage_ik.html#2_isidore">Isidore</ref> à une sirène en pensant uniquement au pouvoir de sa voix. La jeune femme cherche à éloigner l'Empereur non à l'attirer (<ref target="../_roman/reference/21_2/21_2_livre_12.html#818">II, 12, 818</ref>).<lb/>
+                      <lb/>
+                      • Dans <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Les Epistres morales</hi>
+                </ref>, Honoré d'Urfé admire celui qui a « rendu ces Sereines enroüees » (I, 15, p. 132), c'est-à-dire celui qui résiste aux faveurs de <ref target="repertoire_ff.html#2_fortune_dieu">Fortune</ref>.<lb/>
+                      <lb/>
+                      • Sirènes et <ref target="repertoire_cc.html#2_circe">Circé</ref> se trouvent juxtaposées dans une même phrase       dans <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Les Epistres</hi>
+                </ref> (I, 15, p. 132).<lb/>
+                      <lb/>
+                       Pierre <ref target="bibliographie.html#larousse">Larousse</ref> donne une maxime intéressante qu'il attribue à Racine : « L'amour a tous les charmes d'une sirène, et les transports d'une furie » (Article <hi rend="italics">Sirène</hi>). 
+                      <lb/>
+                      • <hi rend="italics"> Le Sireine</hi>, héros de la pastorale lyrique d'Honoré d'Urfé, doit son nom au personnage de <hi rend="italics">La Diana</hi> de Montemayor, Sereno. Le mot  signifie <hi rend="italics">paisible</hi>, <hi rend="italics">serein</hi>, et décrit l'état d'âme du Berger à la fin de l'œuvre. <lb/>
+                      L'homonyme français de Sireine, la sirène, a une  étymologie complexe. <hi rend="italics">Sirène</hi> vient soit de chant (<ref target="bibliographie.html#littre">Littré</ref>), soit de chaîne (<hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi>
+                </hi>). Quoi qu'il en soit, le romancier qui a si bien joué sur les mots <hi rend="italics">Forez</hi> et <hi rend="italics">forêt</hi> a certainement pensé à l'ambiguïté<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#sexe_des_noms">η</ref> du sexe et du sens de son « Sireine ». <lb/>
+                      Louis <ref target="bibliographie.html#moreri">Moréri</ref> et Pierre <ref target="bibliographie.html#larousse">Larousse</ref>, dans leurs <hi rend="italics">Dictionnaires</hi> respectifs, commettent la même erreur et intitulent la pastorale d'Honoré d'Urfé <hi rend="italics">La Sireine</hi>. <lb/>
+                      <lb/>
+                      • Ce <ref target="http://classe.bilingue.free.fr/fr/TDM-lecture/txt/TDM-Odyssee/txt/images/sirenes.jpg">site</ref> (20 septembre 2018) montre <ref target="repertoire_uz.html#2_ulysse">Ulysse</ref> devant des sirènes monstrueuses sur un vase grec, et <ref target="http://www.1oeuvre-1histoire.com/ulysse-sirenes-sarcophage.jpg">celui-là</ref> <ref target="repertoire_uz.html#2_ulysse">Ulysse</ref> devant de belles sirènes (20 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Sireines</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnées dans :</hi> <ref target="#2_sirenes">II</ref>, <ref target="#4_sirenes">IV</ref>
+                      
+                      « La volupté est une sirene qui perd la plu-part des jeunes gens » (<ref target="bibliographie.html#richelet">Richelet</ref>).<lb/>
+                      <lb/>
+                      • Parce que les discours de <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref> lui plaisent, <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> déclare qu'elle devait s'en méfier comme du chant des sirènes (<ref target="../_roman/reference/24_4/24_4_livre_4.html#726">IV, 4, 726</ref>).<lb/>
+                      <lb/>
+                      Inversion des rôles traditionnels ! <lb/>
+                        La femme tente de résister à l'appel de l'homme.
+                      <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Sisiphe</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_sisyphe">III</ref>
+                      
+                      Mythologie. Les mythologues ne s'accordent ni sur la généalogie de Sisyphe, ni sur la nature de sa faute, mais tous lui imposent le châtiment décrit  dans <hi rend="italic">l'Odyssée</hi> d'<ref target="bibliographie.html#homereo">Homère</ref> : Sisyphe recommence sans cesse à pousser une roche  sur le flanc d'une montagne (XI, 600).<lb/>
+                      <lb/>
+                      « Je ne loüe, ny ne mesloüe telle action », écrit Honoré d'Urfé, car n'est-il pas aussi honteux                  de demeurer immobile que « de travailler en une chose inutile » (<ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Epistres morales</hi>
+                </ref>, I, 23, p. 201). Dans <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref>, quand la constance fait de l'amant un Sisyphe  attaché à une roue (p. 123), l'auteur semble confondre  deux figures du châtiment, Sisyphe et <ref target="repertoire_ik.html#3_ixion">Ixion</ref>.<lb/>
+                      <lb/>
+                      • Dans un poème, <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> se compare à Sisyphe et compare <ref target="personnage_dd.html#3_diane">Diane</ref> à la roche qui retombe (<ref target="../_roman/reference/21_3/21_3_livre_1.html#9_verso">III, 1, 9 verso</ref>).<lb/>
+                      <lb/>
+                      • Voir Sisyphe surveillé par Proserpine dans ce <ref target="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Nekyia_Staatliche_Antikensammlungen_1494.jpg/800px-Nekyia_Staatliche_Antikensammlungen_1494.jpg?1537731542195">site</ref> (20 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Soissons</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_soissons">III</ref>
+                      
+                      Soissons,  ville de Picardie, est l'un des derniers bastions romains en Gaule. Clovis s'en empare en 486 et s'y installe quelque temps. L'histoire du vase de Soissons assied l'autorité du Roi.<lb/>
+                      <ref target="bibliographie.html#fauchet">Fauchet</ref> (p. 102) et <ref target="bibliographie.html#du_haillan">Du Haillan</ref> (I, p. 23) ne nomment ni Soissons, ni <ref target="repertoire_pp.html#3_provins">Provins</ref>, ni <ref target="repertoire_bb.html#3_beauvais">Beauvais</ref> en racontant l'exil forcé de <ref target="personnage_cc.html#3_childeric">Childéric</ref>. Ils disent seulement que <ref target="personnage_cc.html#3_childeric">Childéric</ref>, à son retour d'exil, condamnera <ref target="personnage_gg.html#3_gillon">Gillon</ref> à demeurer à Soissons (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p. 195 ; <ref target="bibliographie.html#du_haillan">Du Haillan</ref>, I, p. 24). D'Urfé nomme-t-il cette ville parce qu'il songe à l'histoire récente ? Soissons,  place forte du duc de Guise sous Henri III, est la place forte du duc de Mayenne sous <ref target="repertoire_hh.html#henri">Henri IV</ref>. Le duc de Mayenne est l'époux d'Henrye de Savoie, la cousine germaine de la mère du romancier (Voir <ref target="genealogie.html#savoie">Généalogie</ref>).<lb/>
+                      <lb/>
+                      • Élu par les <ref target="repertoire_ff.html#3_francs">Francs</ref>, <ref target="personnage_cc.html#3_childeric">Childéric</ref> passe en triomphe dans les rues de Soissons (<ref target="../_roman/reference/21_3/21_3_livre_12.html#507_recto">III, 12, 507 recto</ref>).<lb/>
+                      <lb/>
+                      • Ironie du romancier ? Lorsque <ref target="personnage_cc.html#3_childeric">Childéric</ref> est déchu, les <ref target="repertoire_ff.html#3_francs">Francs</ref> le remplacent par <ref target="personnage_gg.html#3_gillon">Gillon</ref>, le gouverneur de Soissons (<ref target="../_roman/reference/21_3/21_3_livre_12.html#535_verso">III, 12, 535 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Sone</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#saone">I</ref>
+                      
+                      La Saône est un affluent du <ref target="repertoire_qr.html#rhone">Rhône</ref>. D'après un historien du XVI<hi rend="supn">e</hi> siècle, l'Arar a pris le nom de Saone quand on y a jeté les ossements des martyrs catholiques que les protestants voulaient priver de sépulture (Gabriel de Saconay, cité par <ref target="bibliographie.html#crouzet">Crouzet</ref>, p. 199). La rivière est  appelée <ref target="repertoire_aa.html#2_arar">Arar</ref> dans les autres parties de <hi rend="italic">L'Astrée</hi>. <hi rend="italic">La Savoisiade<hi rend="cache"> </hi>
+                  <ref target="note_analyses.html#savoisiade">η</ref>
+                </hi> la nomme Saone (<ref target="bibliographie.html#melanges_urfe">
+                  <hi rend="italic">Mélanges</hi>
+                </ref>, f° 81 verso).<lb/>
+                      <lb/>
+                       La Saône est nommée en 1607 puis remplacée en 1621 par l'<ref target="repertoire_aa.html#arar">Arar</ref>.
+                      <lb/>
+                      • Honoré d'Urfé décrit alors la région où s'installent les <ref target="repertoire_bb.html#bourguignons">Bourguignons</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#42_verso">I, 2, 42 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Sorgues</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#3_sorgues">III</ref>
+                      
+                      Sorgues (avec s) est le nom du canton, le pays des Sorgues. Le <hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi>
+                </hi>, comme Honoré d'Urfé, appelle aussi <hi rend="italic">Sorgues</hi>, la petite rivière qui sort de la fontaine « avec une abondance extraordinaire » (18 mètres cubes par seconde). La Sorgue (sans s) vient de la fontaine de <ref target="repertoire_uz.html#3_vaucluse">Vaucluse</ref> (Voir le <ref target="http://www.provenceweb.fr/f/vaucluse/fontaine/fontaine.htm">site</ref> de la fontaine, 15 octobre 2013, et <ref target="http://fr.wikipedia.org/wiki/Fontaine-de-Vaucluse">Wikipédia</ref>, 19 janvier 2013). René <ref target="bibliographie.html#char">Char</ref>, originaire de l'Isle-sur-Sorgue, lui consacre un poème : <lb/>                      « Rivière des égards au songe, rivière qui rouille le fer,<lb/>
+                      Où les étoiles ont cette ombre qu'elles refusent à la mer »<lb/>
+                      (« La Fontaine narrative », p. 274).<lb/>
+                      <lb/>
+                      <ref target="personnage_pp.html#3_petrarque">Pétrarque</ref>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#petrarque">η</ref> a vécu sur les rives de la Sorgue   de 1337 (ou 1339) à 1353. Il a rendu célèbre la fontaine de <ref target="repertoire_uz.html#3_vaucluse">Vaucluse</ref> et « le doux gazouillement de ses eaux » (<ref target="bibliographie.html#petrarque_vaucluse">
+                  <hi rend="italic">Lettres de Vaucluse</hi>
+                </ref>, p. 58).   Dans ses <hi rend="italic">Lettres de vieillesse</hi>, il écrit à un ami que « cette belle fontaine de la Sorgues [...] jadis fameuse par elle-même [...] est devenue plus fameuse par le long séjour que j'y fis [...] et par mes vers » (<ref target="bibliographie.html#petrarque_vaucluse">Pétrarque</ref>, pp. 5-6). La Sorgues elle-même semble à ses yeux
+                      « pleine d'arrogance » (<ref target="bibliographie.html#petrarque_sans_titre">
+                  <hi rend="italic">Lettres sans titre</hi>
+                </ref>, p. 31) parce que, sortie d'une
+                      « imposante caverne », elle est
+                      « la rivière la plus transparente qui soit » (<ref target="bibliographie.html#petrarque_remedes">Pétrarque</ref>, <hi rend="italic">Contre la bonne et la mauvaise fortune</hi>, p. 205).<lb/>
+                      <lb/>
+                      • <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> et sa mère se retirent en <ref target="repertoire_uz.html#3_venaissin">Venaissin</ref>, près de la rivière de Sorgues (<ref target="../_roman/reference/21_3/21_3_livre_3.html#66_verso">III, 3, 66 verso</ref>). <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> se rend auprès de la jeune fille.<lb/>
+                      <lb/>
+                      • Au retour il s'arrête devant la « fontaine merveilleuse » dont jaillit la rivière de Sorgues (<ref target="../_roman/reference/21_3/21_3_livre_3.html#78_recto">III, 3, 78 recto</ref>).<lb/>
+                      <lb/>
+                      • Le Démon de Sorgues apparaît au chevalier<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_vieillard">η</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#102_recto">III, 3, 102 recto</ref>).<lb/>
+                      <lb/>
+                      • On trouvera dans le site de <ref target="http://upload.wikimedia.org/wikipedia/commons/2/2d/04_Fontaine_de_Vaucluse_Dessin_de_P%C3%A9trarque_%28manuscrit_de_Pline%29_BN_fonds_latin_n%C2%B0_6802.jpg">Wikimedia</ref> un curieux dessin de la fontaine de Vaucluse fait par Pétrarque lui-même (17 janvier 2013) : un héron domine la source. Peut-être l'auteur veut-il  opposer la fontaine naturelle à la fontaine mécanique inventée par Héron d'Alexandrie. Ce <ref target="http://digitalcommons.wpi.edu/summits-images/3/">site</ref> offre un commentaire (2 septembre 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Stix</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#stix">I</ref>
+                      
+                      Mythologie. Le Styx est un fleuve  dont les eaux ont des pouvoirs magiques. Ses neuf anneaux entourent les Enfers.<lb/>
+                      Ovide rapporte les mythes liés au  Styx dans ses <hi rend="italic">
+                  <ref target="bibliographie.html#ovide">Métamorphoses</ref>
+                </hi> (I, 139) et dans ses <hi rend="italic">
+                  <ref target="bibliographie.html#ovidef">Fastes</ref>
+                </hi> (III, 223).  Le dieu du Styx a soutenu <ref target="repertoire_ik.html#jupiter">Jupiter</ref> contre les Titans, en lui envoyant ses filles, Victoire et Force. Pour le récompenser, <ref target="repertoire_ik.html#jupiter">Jupiter</ref> rend son nom sacré : le dieu parjure qui a invoqué le  nom du Styx ne peut plus  s'approcher  de <ref target="repertoire_ik.html#jupiter">Jupiter</ref>.  <lb/>
+                      « Le serment par le Styx » figure  dans <hi rend="italic">
+                  <ref target="bibliographie.html#homere">L'Iliade</ref>
+                </hi> (XV, 37) et <hi rend="italic">
+                  <ref target="bibliographie.html#hesiode">La Théogonie</ref>
+                </hi> (739-806) (<hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi>
+                </hi>).<lb/>
+                      <lb/>
+                      • <ref target="personnage_cc.html#climanthe">Climanthe</ref>, le faux druide, demande à <ref target="personnage_gg.html#galathee">Galathée</ref>, <ref target="personnage_ll.html#leonide">Léonide</ref> et <ref target="personnage_ss.html#silvie">Silvie</ref> de se déshabiller pour que les « Deitez de Stix » ne leur fassent pas de mal (<ref target="../_roman/reference/21_1/21_1_livre_5.html#135_verso">I, 5, 135 verso</ref>). Les Nymphes obtempèrent. <lb/>
+                      <lb/>
+• Comme l'écrit <ref target="bibliographie.html#homere">Homère</ref> <hi rend="italic">(Iliade</hi>, 15, 37-38), le serment par le Styx est « le plus grand, le plus terrible des         serments, pour tous les dieux bienheureux ». <lb/>
+<lb/>
+                      • Voir le Styx dans la carte des Enfers de Virgile dans ces sites (20 juin 2016) : <ref target="http://www.histoire-fr.com/images/enfers_selon_virgile.gif">http://www.histoire-fr.com/images/enfers_selon_virgile.gif</ref> ; <ref target="http://mythologica.fr/grec/pic/enfers.jpg">http://mythologica.fr/grec/pic/enfers.jpg</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sueves</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_sueves">II</ref>, <ref target="#3_sueves">III</ref>
+                      
+                      Peuple germanique<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#germains">η</ref> qui émigre vers le <ref target="repertoire_qr.html#rhin">Rhin</ref> et qui formera le pays de la <ref target="#suobe">Souabe</ref>. <ref target="bibliographie.html#fauchetr">Fauchet</ref>,  commentant Strabon, explique que les <ref target="#2_sueves">Suèves</ref> viennent de <ref target="#suobe">Souabe</ref>, pays voisin d'Augsbourg, appelé  Franconie (f° 58 verso). Ils  sont associés non seulement avec <ref target="personnage_aa.html#2_arioviste">Arioviste</ref> (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 424), mais encore  avec les <ref target="repertoire_hh.html#2_huns">Huns</ref>.<lb/>
+                      <lb/>
+                      • Les Suèves, associés aux <ref target="repertoire_aa.html#2_alains">Alains</ref>, prennent la <ref target="repertoire_mm.html#2_meride">Méride</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#750">II, 11, 750</ref>). <lb/>
+                      <lb/>
+                      • Voir la <ref target="cartotheque.html#carte_invasions">Carte des invasions</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Sueves</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_sueves">II</ref>, <ref target="#3_sueves">III</ref>
+                      
+                      « Les orgueilleux Suèves », écrit <ref target="bibliographie.html#jordanes">Jordanès</ref>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#jordanes">η</ref> (ch. XXXIV). Ils résident dans la région qui deviendra le Portugal (<ref target="bibliographie.html#favrod_2">Favrod</ref>, p. 24). <ref target="bibliographie.html#chastagnol">Chastagnol</ref> nomme leurs rois : Herméric, Réchila et Réchiarius, le <ref target="personnage_qr.html#3_richard">Richard</ref> de <hi rend="italic">L'Astrée</hi> (pp. 40 et 41). La  mort de ce dernier en 456 marque la fin de la grande période suève. <ref target="bibliographie.html#fauchet">Fauchet</ref> associe ceux qu'il appelle <hi rend="italic">Suaves</hi> avec les <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref> : ils chassent les Romains d'Espagne au début du V<hi rend="supn">e</hi> siècle (p. 84). <ref target="bibliographie.html#cesar_baudoin">Vigenère</ref> aussi écrit <hi rend="italic">Suaves</hi> (<hi rend="italic">Annotations</hi>, p. 179).<lb/>
+                      <lb/>
+                      • <ref target="personnage_tt.html#3_thierry">Thierry</ref>, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref>, arrête l'avancée des Suèves, bien que son épouse soit la sœur du roi des Suèves, <ref target="personnage_qr.html#3_richard">Richard</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#64_recto">III, 3, 64 recto</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Suobe</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#suobe">I</ref>
+                      
+                      La Souabe est une région de l'Allemagne méridionale. Autour de 1579, <ref target="bibliographie.html#thou">De Thou</ref> passe par ce « païs agreable » qui est alors protestant, et qu'il décrit (pp. 45-46).<lb/>
+                      Le chanoine <ref target="bibliographie.html#reure">Reure</ref> précise : « Un Wulphe, dit le Vaillant, selon d'autres un Henry, surnommé le Lion orgueilleux, chassé d'Allemagne et passant dans le <ref target="repertoire_ff.html#forez">Forez</ref> avec Louis le Gros, en 1129, aurait épousé Aymée, parente du comte Guy, se serait alors fixé dans le <ref target="repertoire_ff.html#forez">Forez</ref>, et y aurait bâti le château d'Urfé » (p. 5). L'information se trouve chez <ref target="bibliographie.html#anne">Anne</ref> d'Urfé<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#anne">η</ref> et elle est citée partiellement par Auguste <ref target="bibliographie.html#bernard">Bernard</ref> (p. 4). <lb/>
+                      En même temps que sa généalogie, <ref target="bibliographie.html#anne">Anne</ref> d'Urfé<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#anne">η</ref> compose ou fait composer   la « <hi rend="italics">Description du Pais de Forez</hi> ». Si l'historiographie est partiellement mythique, la topographie se rattache plus solidement à la réalité  ... Curieuse incohérence qui caractérise aussi <hi rend="italic">L'Astrée</hi>.<lb/>
+                      <lb/>
+                      En 1971, Le baron de <ref target="bibliographie.html#meaux">Meaux</ref>, dont la famille a été  propriétaire des ruines du château d'Urfé, explique que la généalogie offerte par Anne d'Urfé<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#anne">η</ref> remonte à « Guarin, "duc en Souabe", en 750 » (p. 57). Elle comprend un Vulphe qui participe aux croisades,  un autre qui serait le chef des Guelfes italiens et un autre encore qui rentrerait en Allemagne et figurerait dans la tige  les ducs de Brunswick, des Welfes authentiques (p. 62). C'est à partir de 1240 seulement que cette liste des ascendants devient  fiable selon le baron de Meaux.  <lb/>
+
+                      <lb/>
+                      • Dans sa préface, en 1607, <ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                  <hi rend="italic">I, L'Autheur à la Bergere Astrée</hi>
+                </ref>, d'Urfé affirme que ses ancêtres viennent de Souabe.<lb/>
+                      <lb/>
+                      • Les d'Urfé viennent donc de <ref target="repertoire_gg.html#germanie">Germanie</ref>, ce ne sont pas des <ref target="repertoire_gg.html#gaulois">Gaulois</ref>, comme le relève K. <ref target="bibliographie.html#wine">Wine</ref> (p. 119). Ce ne sont pas non plus des <ref target="repertoire_ff.html#francs">Francs</ref> - ce qui autoriserait les lectures nationalistes de <hi rend="italic">L'Astrée</hi>. Comme Honoré d'Urfé précise que ses ancêtres sont originaires de <ref target="#suobe">Souabe</ref>, ils appartiennent au peuple des <ref target="#2_sueves">Suèves</ref>. Or, dans le roman, la fille d'<ref target="personnage_aa.html#2_arioviste">Arioviste</ref>,  roi  des <ref target="#2_sueves">Suèves</ref>, a fait souche à <ref target="repertoire_ll.html#lyon">Lyon</ref>, et engendré les aïeux de <ref target="personnage_ff.html#2_florice">Florice</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#210">II, 4, 210</ref>). Peut-être qu'Honoré d'Urfé voudrait se donner pour ancêtre un ennemi de <ref target="personnage_cc.html#cesar">César</ref>, le « conquéreur » dans <hi rend="italic">L'Astrée</hi> de 1607 (<ref target="../_roman/reference/21_1/21_1_livre_2.html#29_verso">I, 2, 29 verso</ref>), le substitut d'<ref target="repertoire_hh.html#henri">Henri IV</ref>. Voir <ref target="feux.html#romains_usurpateurs">Feux</ref>.<lb/>
+                      <lb/>
+                      • Un écrivain que d'Urfé a beaucoup admiré s'est aussi attribué des aïeux germaniques. <ref target="bibliographie.html#ronsard">Ronsard</ref>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#ronsard">η</ref> écrit :<lb/>
+     « Or, quant à mon ancêtre, il a tiré sa race<lb/>
+      D'où le glacé Danube est voisin de la Thrace »<lb/>
+(« Élégie à Remy Belleau », éd. Blanchemain, IV, p. 296). <lb/>
+                      Jean-Paul <ref target="bibliographie.html#fernon">Fernon</ref>, en 2005, réunit et analyse les multiples interprétations données à  ces deux vers au fil des siècles. Même s'il faut conclure avec Pierre Bayle qu'il s'agit  probablement de chimères nobiliaires qui éloignent l'origine dans le temps comme dans l'espace, on doit s'interroger sur la préférence accordée à tel ou tel pays. Ici, Ronsard se fait probablement le voisin de cet Orphée, qui est le « chantre de  la Thrace » dans les <hi rend="italic">Métamorphoses</hi> d'<ref target="bibliographie.html#ovide">Ovide</ref> (X, 40).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Surieu</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#surieu">I</ref>, <ref target="#2_surieu">II</ref>, <ref target="#3_surieu">III</ref>
+                      
+                      Surieu est l'ancien nom de Sury-le-Comtal, précise <ref target="bibliographie.html#la_mure">La Mure</ref> (I, p. 134). Cette commune est au Sud du <ref target="repertoire_ff.html#forez">Forez</ref>. Le chanoine <ref target="bibliographie.html#reure">Reure</ref> écrit qu'en octobre 1593 Honoré d'Urfé (qui n'était pas encore nemouriste) défendit  Sury-le-Comtal contre le frère du duc de Nemours (p. 44).<lb/>
+                      Il semble que, quelques années après, les d'Urfé n'aient pas réussi à acquérir  le domaine de Sury quand il a été mis en vente. Pierre-Maxime <ref target="bibliographie.html#relave">Relave</ref> donne ces informations : Sury, en 1609, devient la propriété des  descendants de Tristan de Rostaing (p. 161). Entre 1614 et 1625, Jacques de la Veuhe, époux d'Anne de Rostaing, fait construire le château (p. 197).
+                      Les guerres de la Ligue<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#ligue">η</ref> et l'intervention d'Honoré d'Urfé sont décrites pp. 174-176.<lb/>
+                      Il est possible que la transaction de 1609 (vente du domaine) ait suggéré l'introduction du  nom de Surieu dans la deuxième partie de 1610. Surieu devient alors le lieu d'origine d'un personnage peu sympathique, l'antihéros, celui qui n'a aucune des qualités chevaleresques.<lb/>
+                      <lb/>
+                      Dans l'édition anonyme de 1607, <ref target="personnage_pp.html#polemas">Polémas</ref> appartient à la Maison de <ref target="repertoire_ll.html#lavieu">Lavieu</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#267_recto">I, 9, 267 recto</ref>).
+                      <lb/>
+                      • <ref target="personnage_pp.html#polemas">Polémas</ref> appartient à la Maison de Surieu dans l'édition de 1621 (<ref target="../_roman/reference/21_1/21_1_livre_9.html#267_recto">I, 9, 267 recto</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Surieu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#surieu">I</ref>, <ref target="#2_surieu">II</ref>, <ref target="#3_surieu">III</ref>
+                      
+                      Sury-le-Comtal a aujourd'hui son <ref target="http://fr.geneawiki.com/index.php/42304_-_Sury-le-Comtal#histoire_de_la_commune">site</ref> (30 septembre 2010). On y retrouve les informations données par <ref target="bibliographie.html#relave">Relave</ref>. <lb/>
+                      <lb/>
+                      • La maison de Surieu ne s'entend pas avec les maisons de <ref target="repertoire_ll.html#2_lavieu">Lavieu</ref> et de <ref target="repertoire_ff.html#2_feurs">Feurs</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#658">II, 10, 658</ref>). Cela explique, dit <ref target="personnage_ss.html#2_silvie">Silvie</ref>, pourquoi <ref target="personnage_pp.html#2_polemas">Polémas</ref> ne s'entend pas avec <ref target="personnage_ll.html#2_lindamor">Lindamor</ref> et <ref target="personnage_ll.html#2_leonide">Léonide</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Surieu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#surieu">I</ref>, <ref target="#2_surieu">II</ref>, <ref target="#3_surieu">III</ref>
+                      
+                      • Debout dans le bois de <ref target="repertoire_bb.html#3_bonlieu">Bonlieu</ref>, <ref target="personnage_dd.html#3_damon_a">Damon d'Aquitaine</ref> admire un paysage de  collines et de plaines, dont celles de Surieu (<ref target="../_roman/reference/21_3/21_3_livre_6.html#218_verso">III, 6, 218 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Sybille</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#3_sybille">III</ref>
+                      
+                      Mythologie. « C'estoit chez les Payens une Prophetesse qu'on croyoit inspirée de Jupiter. Amalthée est celle qu'on croit avoir fait les vers des Sibylles qui nous restent. [...]  On appelle proverbialement une vieille fille &amp; sçavante, une Sibylle. Ainsi dans ce siecle les Poëtes ont appellé la Sibylle de Gournay, une personne de grand merite, fille d'alliance de Mr. de Montagne » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+                      <lb/>
+                      • <ref target="personnage_hh.html#3_hylas">Hylas</ref> refuse de parler du futur : il n'a rien à voir avec les Sybilles, dit-il (<ref target="../_roman/reference/21_3/21_3_livre_2.html#35_recto">III, 2, 35 recto</ref>)</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Sylvain</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_sylvain">II</ref>
+                      
+                      Mythologie. « Dieu fabuleux de l'Antiquité, qui presidoit aux forests. Quelques-uns l'ont confondu avec <ref target="repertoire_pp.html#pan">Pan</ref>. Ils ont creu aussi qu'il y avoit des <ref target="repertoire_ff.html#2_faune">Faunes</ref>, des Sylvains &amp; des <ref target="repertoire_ee.html#2_egipans">Aegipans</ref> ou demi-Dieux habitans dans les forests » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Le nom du Dieu Sylvain se trouve sur une inscription antique à <ref target="repertoire_ff.html#2_feurs">Feurs</ref> ; c'est le « Dieu des Forests » et le « Dieu des Bergers », dit <ref target="bibliographie.html#la_mure">La Mure</ref> (I, p. 77).  Le plus grand plaisir de ce Dieu « estoit de venir tourmenter la nuit les personnes qui dorment » (d'après Cartari cité par <ref target="bibliographie.html#la_mure">La Mure</ref>, I, p. 79). <lb/>
+                      <lb/>
+                      • Dans un poème de <ref target="personnage_cc.html#2_celadon">Céladon</ref>, des sylvains sont amoureux d'<ref target="personnage_aa.html#2_astree">Astrée</ref> endormie (<ref target="../_roman/reference/21_2/21_2_livre_10.html#619">II, 10, 619</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Syringue</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#syringue">I</ref>
+                      
+                      Mythologie. Écrit aussi <hi rend="italics">Siringue</hi>.  Il s'agit de Syrinx,  une <ref target="repertoire_aa.html#amadryades">hamadryade</ref>. <ref target="bibliographie.html#ovide">Ovide</ref> rapporte sa métamorphose (I, 691-726). Syrinx n'aimait pas <ref target="repertoire_pp.html#pan">Pan</ref>. Pour l'éviter, elle se transforme en roseau. Le dieu alors, avec les roseaux, fabrique un instrument de musique qu'il appelle « syrinx ». Sur ce mythe, voir Françoise <ref target="bibliographie.html#lavocat_syrinx">Lavocat</ref>.<lb/>
+                      <lb/>
+                      • Syrinx est honorée par les Bergers en même temps que le dieu <ref target="repertoire_pp.html#pan">Pan</ref> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#104_verso">I, 4, 104 verso</ref>). <lb/>
+                      <lb/>
+                      • Dans les jardins d'<ref target="repertoire_ik.html#isoure">Isoure</ref>, près de la fontaine de la Vérité d'amour, se trouvent deux piliers représentant <ref target="repertoire_pp.html#pan">Pan</ref> et Syrinx (<ref target="../_roman/reference/21_1/21_1_livre_11.html#368_recto">I, 11, 368 recto</ref>). <lb/>
+                      <lb/>
+                      • On trouvera dans ce <ref target="https://www.rct.uk/collection/404637/pan-and-syrinx">site</ref> (30 octobre 2020) Le « <ref target="repertoire_pp.html#pan">Pan</ref> et  Syrinx » de Rubens.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">Syrinx</cell>
+              <cell colspan="1" rowspan="1">Voir <ref target="#syringue">Syringue</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

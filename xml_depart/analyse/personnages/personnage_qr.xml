@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Personnages Q, R - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_pers"
+  onclick="SetDisplay('legende_pers')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_pers')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p> Catégories</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Fiction</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px"> Histoire </cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="bordergreen" style="width:auto; height:20px">Poète</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="center_t intercalee" style="width:auto; height:20px">Intercalée</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="interruption" style="width:auto; height:20px">  Interruption  </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px">Remarque</cell>
+              </row>
+            </table><p> </p><lb/><p><graphic url="../images/relations/legende1.gif" rend="img" mimeType="image/gif"/></p><p> </p><ref target="personnage.html">
+              <hi rend="bold">PERSONNAGES</hi>
+              <lb/>Orientation</ref><p> </p><ref target="personnage_aa.html">A</ref><ref target="personnage_bb.html">B</ref><ref target="personnage_cc.html">C</ref><ref target="personnage_dd.html">D</ref><ref target="personnage_ee.html">E</ref><lb/><ref target="personnage_ff.html">F</ref><ref target="personnage_gg.html">G</ref><ref target="personnage_hh.html">H</ref><ref target="personnage_ik.html">I</ref><ref target="personnage_ik.html#j">J</ref><lb/><ref target="personnage_ik.html#k">K</ref><ref target="personnage_ll.html">L</ref><ref target="personnage_mm.html">M</ref><ref target="personnage_no.html">N</ref><ref target="personnage_no.html#o">O</ref><lb/><ref target="personnage_pp.html">P</ref><ref target="personnage_qr.html">Q</ref><ref target="personnage_qr.html#r">R</ref><ref target="personnage_ss.html">S</ref><ref target="personnage_tt.html">T</ref><lb/><ref target="personnage_uz.html">U</ref><ref target="personnage_uz.html#v">V</ref><ref target="personnage_uz.html#w">W</ref><ref target="personnage_uz.html#x">X</ref><ref target="personnage_uz.html#y">Y</ref><ref target="personnage_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>PERSONNAGES - Q, R</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Q</cell>
+              <cell colspan="1" rowspan="1">Aucune entrée ne  commence par <hi rend="bold">Q</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/radagryse.gif)">
+                
+                Radagryse</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Présent dans :</hi> <ref target="#radagryse">I</ref>
+                <lb/>
+              
+              <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_1/21_1_livre_8.html#226_recto">I, 8, 226 recto</ref>. Écrit <hi rend="italic">Radagayse</hi> en 1607.
+              <p>Personnage historique : Il s'agit de <hi rend="italic">Radagaise</hi>. Mort en 406. À la tête de ses armées de Goths, il entre en Italie où <ref target="personnage_ss.html#2_stilicon">Stilicon</ref>, général romain, le bat. « Radagaze Roy Got, ayant assemblé quatre cents mil hommes s'acheminoit » vers l'Italie (contre <ref target="personnage_ss.html#2_stilicon">Stilicon</ref>) (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 72 verso). </p>
+              <p>
+                  <hi rend="italics">Nommé dans : </hi>
+                  <ref target="../_roman/reference/21_1/21_1_livre_8.html#histoire_de_silvandre">Histoire de Silvandre</ref>, racontée par <ref target="personnage_ss.html#silvandre">Silvandre</ref>.</p>
+              
+                <p>Dans le hameau, <ref target="personnage_ss.html#silvandre">Silvandre</ref>, en parlant aux bergères et à <ref target="personnage_ll.html#leonide">Léonide</ref>, dit : </p>
+              
+                  <p rend="center_t">
+                    <hi rend="italics"> </hi>
+                    <ref target="../_roman/reference/21_1/21_1_livre_8.html#histoire_de_silvandre">Histoire de Silvandre</ref>
+                  </p>
+                        <p>
+                    <ref target="personnage_ss.html#stilicon">Stilicon</ref> a donné des terres à <ref target="personnage_gg.html#gondioch">Gondioc</ref>, roi des <ref target="repertoire_bb.html#bourguignons">Bourguignons</ref>, pour le remercier d'avoir défait ce chef d'armée <ref target="repertoire_gg.html#goths">goth</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#226_recto">I, 8, 226 recto</ref>).</p>
+                
+            <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/remy.gif)">
+                Remy</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#3_remy">III</ref>
+    
+    <p>
+                  <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_3/21_3_livre_12.html#536_verso">III, 12, 536 verso</ref>. On écrit  aujourd'hui <hi rend="italic">Remi</hi> ou <hi rend="italic">Remy</hi>, <hi rend="italic">Rémi</hi> ou <hi rend="italic">Rémy</hi>.</p>
+    <p>
+                  <hi rend="italics"> Personnage historique</hi> : 437 - 533. Évêque de Reims en 459. Du temps de Clovis,
+      « Remy lors Evesque, fort estimé pour sa grande noblesse, et son eloquence »                (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p.
+      110). Saint Remi doit sa notoriété au fait qu'il a converti le roi des Francs. L'huile qui a servi lors de ce baptême est conservée dans la Sainte Ampoule, dans la cathédrale de Reims. Le récipient sera brisé par la Révolution en 1793 (Voir ce <ref target="http://catreims.free.fr/rel006.html">site</ref>, 10 mai 2013). Dix  tapisseries du début du XVI<hi rend="supn">e</hi> siècle représentant le baptême de Clovis se trouvent au Musée de Reims (Voir  ce <ref target="http://www.maisons-champagne.com/orga_prof/images/clovis2.jpg">site</ref>, 10 octobre 2014).</p>
+    <p>
+                  <hi rend="italics">Caractéristique :</hi> « Jamais personne affligee ne part d'aupres de luy sans estre soulagee de sa peine » (<ref target="../_roman/reference/21_3/21_3_livre_12.html#536_verso">III, 12, 536 verso</ref>).</p>
+    <p>
+                  <hi rend="italic">Remarque sur le nom </hi>: <hi rend="italic">Remi</hi> vient du latin <hi rend="italic">Remigius</hi> ou <hi rend="italic">remedius</hi>, remède  (Voir Saint Remi dans la <hi rend="italic">Légende dorée</hi> dans ce <ref target="http://www.abbaye-saint-benoit.ch/voragine/tome03/148.htm">site</ref>). </p>
+    <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_3/21_3_livre_12.html#h_childeric">Histoire de Childeric, de Silviane, et d'Andrimarte</ref> racontée par le chevalier de <ref target="personnage_ll.html#3_lindamor">Lindamor</ref>.</p>
+    
+    
+      <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_12.html#h_childeric">Histoire de Childeric, de Silviane, et d'Andrimarte</ref>
+                  </p>
+      <p>Après la mort de <ref target="personnage_mm.html#3_merovee">Mérovée</ref>, <ref target="personnage_mm.html#3_methine">Méthine</ref> se retire à Reims pour être près de Remi
+        « encore que le Dieu qu'il adore soit incogneu aux <ref target="repertoire_ff.html#3_francs">Francs</ref> et à nous », ajoute le narrateur forézien.</p>
+      Anachronisme ? <lb/>
+        Remi est contemporain de Clovis, le petit-fils de <ref target="personnage_mm.html#3_merovee">Mérovée</ref> et <ref target="personnage_mm.html#3_methine">Méthine</ref>.
+      <lb/>
+    
+    <p>
+                  <lb/>
+      • Voir dans ce <ref target="http://lidil.revues.org/docannexe/image/2273/img-1.png">site</ref> saint Remi baptisant Clovis dans une enluminure (12 mai 2015). La basilique Saint Remi, à Reims, a son <ref target="http://stremi-reims.cef.fr/index.php?option=com_content&amp;view=article&amp;id=56&amp;Itemid=60">site</ref> (10 juin 2015).</p>
+    <p>V0ir  <ref target="galerie.html#remi">Galerie des portraits</ref>.</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/renaud.gif)">
+                Renaud</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#3_renaud">III</ref>
+    
+    <p>
+                  <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_3/21_3_livre_12.html#523_verso">III, 12, 523 verso</ref>.              Écrit aussi <hi rend="italic">Regnaud</hi>, <hi rend="italic">Renault</hi> et <hi rend="italic">Renaut</hi>.<lb/>
+    </p>
+    <p>
+                  <hi rend="italics"> Personnage historique</hi> : Deuxième fils de <ref target="personnage_cc.html#3_clodion">Clodion</ref>. <ref target="bibliographie.html#du_haillan_histoire">Du Haillan</ref> appelle les enfants de <ref target="personnage_cc.html#3_clodion">Clodion</ref>, Auberon, Regnault et Rancaire. Ils
+      « furent (à ce que quelques uns veulent dire) privez du royaume de France par <ref target="personnage_mm.html#3_merovee">Merovee</ref> successeur de <ref target="personnage_cc.html#3_clodion">Clodion</ref>, et furent Rois des pays, qui sont maintenant appellez les pays de Hainault, Lorraine, Brabant et Namur ». <ref target="personnage_cc.html#3_clodion">Clodion</ref> les laissa
+      « au gouvernement de <ref target="personnage_mm.html#3_merovee">Merovee</ref>, qui en la presence des Seigneurs François leur jura loyauté : mais qu'apres la mort de <ref target="personnage_cc.html#3_clodion">Clodion</ref> il les chassa, et se fit eslire Roy par les François, et               d'autres disent que le dit <ref target="personnage_mm.html#3_merovee">Merovee</ref> estoit fils de <ref target="personnage_cc.html#3_clodion">Clodion</ref> »              (p. 19).</p>
+    <p>
+                  <hi rend="italic">Caractéristique</hi> :
+      « La pusillanimité et lasche courage de <ref target="#3_renaud">Renaud</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_12.html#523_verso">III, 12, 523 verso</ref>)</p>
+    <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_3/21_3_livre_12.html#h_childeric">Histoire de Childeric, de Silviane, et d'Andrimarte</ref> racontée par le chevalier de <ref target="personnage_ll.html#3_lindamor">Lindamor</ref>.</p>
+    <p>Prince <ref target="repertoire_ff.html#3_francs">Franc</ref>.</p>
+    
+    
+      <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_12.html#h_childeric">Histoire de Childeric, de Silviane, et d'Andrimarte</ref>
+                  </p>
+      <p>
+                    <ref target="personnage_mm.html#3_merovee">Mérovée</ref> a été préféré aux  fils de <ref target="personnage_cc.html#3_clodion">Clodion</ref>, <ref target="personnage_aa.html#3_alberic">Alberic</ref> et  Renaud. Renaud devient « Duc d'<ref target="repertoire_aa.html#3_austrasie">Austrasie</ref> » et épouse <ref target="personnage_hh.html#3_hasemide">Hasemide</ref>, fille du roi des <ref target="repertoire_tt.html#3_tongres">Tongres</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#523_verso">III, 12, 523 verso</ref>). Son frère et lui  s'allient avec les <ref target="repertoire_ss.html#3_saxons">Saxons</ref> et reviennent attaquer les <ref target="repertoire_ff.html#3_francs">Francs</ref> de <ref target="personnage_mm.html#3_merovee">Mérovée</ref>. <ref target="personnage_aa.html#3_andrimarte">Andrimarte</ref> oblige les fils de <ref target="personnage_cc.html#3_clodion">Clodion</ref> à demeurer en <ref target="repertoire_aa.html#3_austrasie">Austrasie</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#528_verso">III, 12, 528 verso</ref>).<lb/>
+        <lb/>
+        <ref target="personnage_mm.html#3_merovee">Mérovée</ref> s'écrie qu'il préférerait rendre le royaume à <ref target="personnage_aa.html#3_alberic">Alberic</ref> et Renaud que  voir régner un <ref target="personnage_cc.html#3_childeric">Childéric</ref> méprisable (<ref target="../_roman/reference/21_3/21_3_livre_12.html#528_recto">III, 12, 528 recto</ref>).</p>
+      <p>Quand <ref target="repertoire_pp.html#3_paris_ville">Paris</ref> se soulève contre <ref target="personnage_cc.html#3_childeric">Childéric</ref>, <ref target="personnage_gg.html#3_guyemant">Guyemant</ref> explique que les mécontents risquent de rappeler les enfants de <ref target="personnage_cc.html#3_clodion">Clodion</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#547_recto">III, 12, 547 recto</ref>). </p>
+    
+    <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/richard.gif)">
+                Richard</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#3_richard">III</ref>
+    
+    <p>
+                  <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_3/21_3_livre_3.html#64_recto">III, 3, 64 recto</ref>. </p>
+    <p>
+                  <hi rend="italics"> Personnage historique</hi> : Il s'agit de <hi rend="italic">Réchiarus</hi>.  <ref target="bibliographie.html#chastagnol">Chastagnol</ref> nomme les rois <ref target="repertoire_ss.html#3_sueves">Suèves</ref> : Herméric, Réchila, Réchiarius (pp. 40 et 41). La  mort de ce dernier en 456, vaincu par les <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref>, marque la fin de la grande période suève. Voir aussi ce <ref target="http://crdp.ac-bordeaux.fr/cddp40/Espaces/QuiEsTuWisigoth/genealogie.htm">site</ref> sur les <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref> (2 mai 2013).</p>
+    <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_3/21_3_livre_3.html#h_euric">Histoire d'Euric, Daphnide, et Alcidon</ref> racontée par <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> et <ref target="personnage_aa.html#3_alcidon">Alcidon</ref>.</p>
+    Roi des <ref target="repertoire_ss.html#3_sueves">Suèves</ref>.
+  
+  
+    <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_3.html#h_euric">Histoire d'Euric, Daphnide, et Alcidon</ref>
+                  </p>
+    <p>Parce que Richard veut conquérir l'<ref target="repertoire_ee.html#3_espagne">Espagne</ref>, <ref target="personnage_tt.html#3_thierry2">Thierry II</ref>, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref>, s'oppose à lui et le défait (<ref target="../_roman/reference/21_3/21_3_livre_3.html#64_recto">III, 3, 64 recto</ref>). <ref target="personnage_tt.html#3_thierry2">Thierry II</ref> a pourtant épousé la sœur de Richard.</p>
+  
+  <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/rithimer.gif)">
+                Rithimer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#3_rithimer">III</ref>
+    
+    <p>
+                  <hi rend="italics"> Première mention : </hi>
+                  <ref target="../_roman/reference/21_3/21_3_livre_7.html#285_recto">III, 7, 285 recto</ref>. Écrit aussi <hi rend="italic">Rhitimer </hi>et<hi rend="italic"> Ritimer</hi>. On écrit aujourd'hui <hi rend="italic">Ricimer</hi>. </p>
+    <p>
+                  <hi rend="italic">Personnage historique</hi> : Flavius Ricimer (405 ? - 472). <ref target="bibliographie.html#fauchet">Fauchet</ref> présente
+      un « Recimer tres-vaillant homme » en 464, et le fait mourir trois mois après l'assassinat d'<ref target="personnage_aa.html#3_anthemius">Anthémius</ref> en 472 (p. 103).<lb/>
+      Le Comte Ricimer, fils d'une fille de <ref target="personnage_uz.html#3_walia">Walia</ref>, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref> (<ref target="bibliographie.html#labouysse">Labouysse</ref>, p. 58), est <ref target="repertoire_ss.html#3_sueves">Suève</ref> par son père, le roi Rechila (<ref target="#3_richard">Richard</ref> dans <hi rend="italic">L'Astrée</hi>). Ricimer est aussi l'allié des rois <ref target="repertoire_bb.html#3_bourguignons">bourguignons</ref> parce que sa sœur a épousé <ref target="personnage_gg.html#3_gondioch">Gondioc</ref> (<ref target="bibliographie.html#favrod_2">Favrod</ref>, p. 60).  Ricimer   devient patrice en 456 grâce à l'empereur Majorien (appelé <ref target="personnage_mm.html#3_majoranus">Majoranus</ref> dans <hi rend="italic">L'Astrée</hi>). Il  profite de la série d'empereurs faibles qui se succèdent. Quand <ref target="personnage_aa.html#3_anthemius">Anthémius</ref>, envoyé par <ref target="personnage_tt.html#2_theodose2">Théodose II</ref>, l'empereur d'Orient, devient empereur d'Occident, Ricimer épouse sa fille, Alypia ;  le mariage a lieu en 467 (<ref target="bibliographie.html#favrod_histoire">Favrod</ref>, p. 249). Ricimer soutient ensuite <ref target="personnage_no.html#3_olimbre">Olimbre</ref>, époux de la jeune <ref target="personnage_pp.html#3_placidie2">Placidie</ref>.  Il assiège Rome et fait assassiner <ref target="personnage_aa.html#3_anthemius">Anthémius</ref> en juillet 472. Quelques semaines après, Ricimer meurt brusquement. Il est remplacé comme patrice par son neveu, <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="bibliographie.html#chastagnol">Chastagnol</ref>, p. 22). <lb/>
+      Sidoine Apollinaire appelle Ricimer
+      « un objet d'effroi »              (cité par <ref target="bibliographie.html#chastagnol">Chastagnol</ref>, p. 129).</p>
+    <p>
+                  <hi rend="italic">Caractéristiques</hi> :
+      « Encores que tres-vaillant et tres-accomply d'ailleurs, il  avoit toutesfois tousjours du naturel <ref target="repertoire_gg.html#3_goths">Gothique</ref> », dit <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#285_recto">III, 7, 285 recto</ref>). « Il disposoit absolument de tout ce qui estoit » en <ref target="repertoire_gg.html#3_gaule_cisalpine">Gaule Cisalpine</ref>, précise-t-elle (<ref target="../_roman/reference/21_3/21_3_livre_7.html#301_recto">III, 7, 301 recto</ref>).</p>
+    <p>
+                  <hi rend="italics">Nommé dans </hi>: <ref target="../_roman/reference/21_3/21_3_livre_7.html#h_cryseide">Histoire de Cryseide et d'Arimant</ref> racontée par <ref target="personnage_cc.html#3_criseide">Criséide</ref> et rapportée par <ref target="personnage_hh.html#3_hylas">Hylas</ref> dans l'<ref target="../_roman/reference/21_3/21_3_livre_7.html#h_cryseide">Histoire de Cryseide et d'Hylas</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_8.html#h_cryseide2">Suitte de l'histoire de Cryseide et d'Arimant</ref> racontée par <ref target="personnage_ff.html#3_florice">Florice</ref>. </p>
+    <p>
+                  <ref target="repertoire_gg.html#3_goths">Goth</ref> devenu patricien <ref target="repertoire_qr.html#3_romains">Romain</ref> et gouverneur de la <ref target="repertoire_gg.html#3_gaule_cisalpine">Gaule cisalpine</ref>. Sa femme est parente de <ref target="personnage_ll.html#3_lucie">Lucie</ref>, la mère de <ref target="personnage_cc.html#3_criseide">Criséide</ref>.</p>
+    
+                  <p><graphic url="../images/relations/criseide.gif" rend="img" mimeType="image/gif"/></p>
+                
+    
+    <p> <ref target="personnage_hh.html#3_hylas">Hylas</ref> rapporte  le récit que lui a fait <ref target="personnage_cc.html#3_criseide">Criséide</ref> à <ref target="repertoire_ll.html#3_lyon">Lyon</ref>.</p>
+    
+      <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_7.html#h_cryseide">Histoire de Cryseide et d'Arimant</ref>
+                  </p>
+      <p>À cause de la haine que Ricimer, gouverneur de la <ref target="repertoire_gg.html#3_gaule_cisalpine">Gaule Cisalpine</ref>, éprouve pour son père, <ref target="personnage_aa.html#3_arimant">Arimant</ref>, chevalier <ref target="repertoire_ll.html#3_libicins">Libicin</ref>, vit seul à <ref target="repertoire_ee.html#3_eporedes">Éporèdes</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#285_recto">III, 7, 285 recto</ref>). <ref target="personnage_aa.html#3_arimant">Arimant</ref> et <ref target="personnage_cc.html#3_criseide">Criséide</ref> s'aiment.
+        Ricimer a pour femme une parente de la mère de <ref target="personnage_cc.html#3_criseide">Criséide</ref>. Il  veut marier la jeune fille avec son allié, le riche <ref target="personnage_cc.html#3_clorange">Clorange</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#301_recto">III, 7, 301 recto</ref>). Comme la mère de <ref target="personnage_cc.html#3_criseide">Criséide</ref> approuve ce projet, elle  emmène sa fille dans la maison de Ricimer, chez les <ref target="repertoire_ll.html#3_libicins">Libicins</ref>.  Le Prince soutient cette alliance pour pouvoir disposer ensuite de <ref target="personnage_cc.html#3_criseide">Criséide</ref>. La jeune fille tente de se tuer en se faisant couper les veines. Les cris de <ref target="personnage_cc.html#3_clarine">Clarine</ref>, sa suivante, ameutent  la maisonnée. Ricimer accourt et sauve la vie de <ref target="personnage_cc.html#3_criseide">Criséide</ref> dont il tombe amoureux.
+        « Depuis il me dit, qu'il ne m'avoit jamais veuë si belle, qu'estant en cét estat toute soüillee de mon sang », raconte la jeune fille (<ref target="../_roman/reference/21_3/21_3_livre_7.html#309_recto">III, 7, 309 recto</ref>).                Quand la suivante remarque que sa maîtresse ne laisse pas Ricimer indifférent, elle lui révèle que <ref target="personnage_cc.html#3_criseide">Criséide</ref> ne veut pas épouser <ref target="personnage_cc.html#3_clorange">Clorange</ref>. Le Prince admire le courage de la jeune fille, cette tentative de suicide lui paraît une
+        « genereuse action » (<ref target="../_roman/reference/21_3/21_3_livre_7.html#309_verso">III, 7, 309 verso</ref>). Il  jure
+        « par la vie<hi rend="cache"> </hi>
+                    <ref target="note_3.html#3_jure">η</ref> d'<ref target="personnage_aa.html#3_anthemius">Anthémius</ref> » de ne jamais consentir à cette union (<ref target="../_roman/reference/21_3/21_3_livre_7.html#309_verso">III, 7, 309 verso</ref>).<lb/>
+        <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> entre en <ref target="repertoire_gg.html#3_gaule_cisalpine">Gaule cisalpine</ref> ; Ricimer, au lieu de l'arrêter, ne quitte pas <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#318_verso">III, 7, 318 verso</ref>). Déguisé en marchand, <ref target="personnage_aa.html#3_arimant">Arimant</ref> se rend auprès de <ref target="personnage_cc.html#3_criseide">Criséide</ref>.                Ricimer survient  et ne reconnaît pas le prétendu marchand (<ref target="../_roman/reference/21_3/21_3_livre_7.html#320_recto">III, 7, 320 recto</ref>).<lb/>
+        La femme de Ricimer, jalouse, s'entend avec la mère de <ref target="personnage_cc.html#3_criseide">Criséide</ref> pour marier la jeune fille à <ref target="personnage_cc.html#3_clorange">Clorange</ref> dès que le Prince s'éloignera. <ref target="personnage_cc.html#3_criseide">Criséide</ref> et <ref target="personnage_cc.html#3_clarine">Clarine</ref> vont  s'enfuir habillées en homme pour rejoindre <ref target="personnage_aa.html#3_arimant">Arimant</ref>. On ne cherche pas la jeune fille parce que Ricimer et sa femme se soupçonnent mutuellement, tandis que  la mère de <ref target="personnage_cc.html#3_criseide">Criséide</ref> les soupçonne tous les deux (<ref target="../_roman/reference/21_3/21_3_livre_7.html#322_verso">III, 7, 322 verso</ref>).<lb/>
+        Les jeunes gens s'enfuient sans se marier pour que Ricimer ne les retrouve pas (<ref target="../_roman/reference/21_3/21_3_livre_7.html#324_verso">III, 7, 324 verso</ref>). Ils se rendent chez le père d'<ref target="personnage_aa.html#3_arimant">Arimant</ref> où <ref target="personnage_cc.html#3_criseide">Criséide</ref> travestie se fait appeler <ref target="personnage_cc.html#3_cleomire">Cléomire</ref>. <ref target="personnage_cc.html#3_cleomire">Cléomire</ref> s'enhardit jusqu'à proposer au père de marier <ref target="personnage_aa.html#3_arimant">Arimant</ref> à <ref target="personnage_cc.html#3_criseide">Criséide</ref>, bien que celle-ci soit parente de Ricimer, son ennemi (<ref target="../_roman/reference/21_3/21_3_livre_7.html#327_recto">III, 7, 327 recto</ref>). Lorsque le père consent, <ref target="personnage_aa.html#3_arimant">Arimant</ref> et <ref target="personnage_cc.html#3_cleomire">Cléomire</ref> décident de s'en aller pour revenir avec <ref target="personnage_cc.html#3_criseide">Criséide</ref> habillée en femme. Ils vont cacher leur union pour tenter de se réconcilier avec Ricimer et avec la mère de <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#329_verso">III, 7, 329 verso</ref>). </p>
+    
+    <p>
+                  <ref target="personnage_ff.html#3_florice">Florice</ref> rapporter ce que <ref target="personnage_cc.html#3_criseide">Criséide</ref> lui a raconté à <ref target="repertoire_ll.html#3_lyon">Lyon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#333_verso">III, 8, 333 verso</ref>).</p>
+    
+      <p rend="center_t">
+                    <ref target="../_roman/reference/21_3/21_3_livre_8.html#h_cryseide2">Suitte de l'histoire de Cryseide et d'Arimant</ref>
+                  </p>
+      <p>Prisonnière, <ref target="personnage_cc.html#3_criseide">Criséide</ref> est recherchée par le roi <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>. Elle croit l'éloigner en lui parlant de sa famille et de son alliance avec Ricimer (<ref target="../_roman/reference/21_3/21_3_livre_8.html#343_recto">III, 8, 343 recto</ref>). En fait, le roi des <ref target="repertoire_bb.html#3_bourguignons">Bourguignons</ref> veut épouser la jeune fille pour s'allier avec Ricimer (<ref target="../_roman/reference/21_3/21_3_livre_8.html#355_recto">III, 8, 355 recto</ref>).</p>
+      <p>
+                    <ref target="personnage_bb.html#3_bellimart">Bellimart</ref> dit à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> que
+        « ce grand soldat Rithimer » ne craint que le père d'<ref target="personnage_aa.html#3_arimant">Arimant</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#363_recto">III, 8, 363 recto</ref>).</p>
+    
+    <p>Les auditeurs de l'histoire de <ref target="personnage_cc.html#3_criseide">Criséide</ref> admirent la jeune fille qui a repoussé les Princes, Ricimer et <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>, pour rester fidèle à <ref target="personnage_aa.html#3_arimant">Arimant</ref> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#366_verso">III, 9, 366 verso</ref>).</p>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url(../images/personnages/rosidor.gif)">
+                Rosidor</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Présent dans :</hi> <ref target="#rosidor">I</ref>
+    
+    <hi rend="italics">Première mention : </hi>
+                <ref target="../_roman/reference/21_1/21_1_livre_8.html#256_verso">I, 8, 256 verso</ref>.
+    <p>
+                  <hi rend="italics">Caractéristique :</hi> « Il estoit jeune, beau, quand à son bien, il en avoit beaucoup plus que je ne devois esperer », dit <ref target="personnage_cc.html#cloris">Cloris</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#256_verso">I, 8, 256 verso</ref>). </p>
+    <p>
+                  <hi rend="italics">Nommé dans : </hi>
+                  <ref target="../_roman/reference/21_1/21_1_livre_8.html#histoire_de_hylas">Histoire de Hylas</ref>, racontée par <ref target="personnage_hh.html#hylas">Hylas</ref>. </p>
+    <p>Berger de la <ref target="repertoire_pp.html#province_viennoise">province Viennoise</ref>. Époux de <ref target="personnage_cc.html#cloris">Cloris</ref>. </p>
+    
+                  <p><graphic url="../images/relations/cloris.gif" rend="img" mimeType="image/gif"/></p>
+                
+    
+    <p>
+                  <ref target="personnage_hh.html#hylas">Hylas</ref>, en narrant sa propre histoire aux bergers et à <ref target="personnage_pp.html#paris">Paris</ref>, inclut le récit de <ref target="personnage_cc.html#cloris">Cloris</ref>. </p>
+    
+      <p rend="center_t">
+                    <ref target="../_roman/reference/21_1/21_1_livre_8.html#histoire_de_hylas">Histoire de Hylas</ref>
+                  </p>
+      <p>
+                    <ref target="personnage_cc.html#cloris">Cloris</ref> rencontre <ref target="personnage_hh.html#hylas">Hylas</ref> sur le bateau qui la mène de <ref target="repertoire_uz.html#vienne">Vienne</ref> à <ref target="repertoire_ll.html#lyon">Lyon</ref>. Elle doit retrouver son mari blessé. Elle raconte son histoire à <ref target="personnage_hh.html#hylas">Hylas</ref> pour expliquer sa tristesse (<ref target="../_roman/reference/21_1/21_1_livre_8.html#256_recto">I, 8, 256 recto</ref>) :</p>
+      <p>
+                    <ref target="personnage_cc.html#cloris">Cloris</ref> rencontre <ref target="#rosidor">Rosidor</ref> dans le temple d'<ref target="repertoire_hh.html#hercule">Hercule</ref>, près des rives du <ref target="repertoire_ff.html#furan">Furan</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#246_verso">I, 8, 246 verso</ref>). Il la sert pendant quatre ans. Les jeunes gens se marient dans un temple, à <ref target="repertoire_uz.html#vienne">Vienne</ref>. Pendant les réjouissances, quelques « debauchez » de hameaux proches de <ref target="repertoire_ll.html#lyon">Lyon</ref> attaquent le jeune couple et jettent une bouteille d'encre sur <ref target="personnage_cc.html#cloris">Cloris</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#257_verso">I, 8, 257 verso</ref>). </p>
+      <p>
+                    <ref target="#rosidor">Rosidor</ref> tue un des assaillants et, avec ses amis, chasse les autres. Pour échapper à la Justice, <ref target="#rosidor">Rosidor</ref> s'enfuit. Déguisé, il revient de nuit près de <ref target="personnage_cc.html#cloris">Cloris</ref>. Le jeune homme est arrêté et emmené à <ref target="repertoire_ll.html#lyon">Lyon</ref>. Quand il obtient sa grâce, il demande à <ref target="personnage_cc.html#cloris">Cloris</ref> d'aller préparer des réjouissances à <ref target="repertoire_uz.html#vienne">Vienne</ref>. Lui-même, malade, reste à <ref target="repertoire_ll.html#lyon">Lyon</ref>. Les « debauchez » reviennent et l'attaquent (<ref target="../_roman/reference/21_1/21_1_livre_8.html#258_verso">I, 8, 258 verso</ref>). </p>
+      <p>À son retour à <ref target="repertoire_ll.html#lyon">Lyon</ref>, <ref target="personnage_cc.html#cloris">Cloris</ref> trouve <ref target="#rosidor">Rosidor</ref> guéri (<ref target="../_roman/reference/21_1/21_1_livre_8.html#259_recto">I, 8, 259 recto</ref>). </p>
+    
+    <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="couleur_histoire" style="background-image:url(../images/personnages/rotemer.gif)">
+                Rotemer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Présent dans :</hi> <ref target="#2_rotemer">II</ref>
+    
+    <hi rend="italics">Première mention</hi> : <ref target="../_roman/reference/21_2/21_2_livre_12.html#828">II, 12, 828</ref>
+    <p>
+                  <hi rend="italics"> Personnage historique</hi> : Prince <ref target="repertoire_uz.html#2_visigoths">Wisigoth</ref> appelé aujourd'hui <hi rend="italic">Ricimer</hi> ou <hi rend="italic">Rethemeris</hi>. <ref target="bibliographie.html#fauchet">Fauchet</ref> se contredit quand il en parle. L'historien écrit  que <ref target="personnage_tt.html#2_torrismond">Torrismond</ref> seul accompagne son père,  lors de la bataille des <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref>. Le Roi a « laissé à la maison quatre de ses enfans : <ref target="personnage_ff.html#2_frideric">Frideric</ref>, <ref target="personnage_tt.html#2_thierry2">Thierri</ref>, <ref target="#2_rotemer">Rotemer</ref> et <ref target="personnage_hh.html#2_honoric">Hunneric</ref> » (p. 99). Ailleurs il affirme que <ref target="personnage_tt.html#2_torrismond">Torrismond</ref> et <ref target="personnage_tt.html#2_thierry2">Thierry</ref> suivent leur père (p. 95).<lb/>
+      <ref target="personnage_aa.html#2_aetius">Ætius</ref> trompe <ref target="personnage_tt.html#2_torrismond">Torrismond</ref> et son frère quand il leur recommande de s'en aller (<ref target="bibliographie.html#fauchet">Fauchet</ref>, p. 99). </p>
+    <p>
+                  <hi rend="italics">Nommé dans</hi> : <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</ref>, racontée par <ref target="personnage_uz.html#2_ursace">Ursace</ref>, puis répétée par <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> à <ref target="personnage_ll.html#2_leonide">Léonide</ref>, <ref target="personnage_aa.html#2_adamas">Adamas</ref>, <ref target="personnage_aa.html#2_alexis">Alexis</ref>, et un groupe de bergers.</p>
+    <p>
+                  <ref target="repertoire_uz.html#2_visigoths">Wisigoth</ref>. Fils de <ref target="personnage_tt.html#2_thierry">Thierry</ref> I<hi rend="supn">er</hi>.</p>
+    
+    <p>
+                  <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> rapporte puis complète le récit d'<ref target="personnage_uz.html#2_ursace">Ursace</ref>. </p>
+    
+      <p rend="center_t">
+                    <ref target="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe</ref>
+                  </p>
+      <p>
+                    <ref target="personnage_uz.html#2_ursace">Ursace</ref> explique la ruse d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> qui veut éloigner des <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref> <ref target="personnage_tt.html#2_torrismond">Torrismond</ref> et <ref target="personnage_tt.html#2_thierry2">Thierry II</ref> après la mort de leur père, le roi des <ref target="repertoire_uz.html#2_visigoths">Wisigoths</ref>. </p>
+      <p>
+                    <ref target="personnage_aa.html#2_aetius">Ætius</ref> leur dit  que leurs frères, restés en <ref target="repertoire_aa.html#2_aquitaine">Aquitaine</ref>, <ref target="personnage_ff.html#2_frideric">Frédéric</ref>, <ref target="personnage_hh.html#2_honoric">Honoric</ref> et <ref target="#2_rotemer">Rotemer</ref>, risquent de  s'emparer du pouvoir (<ref target="../_roman/reference/21_2/21_2_livre_12.html#828">II, 12, 828</ref>).</p>
+      <p>Les frères n'y avaient pas même pensé. </p>
+    
+    <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Répertoire M - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_rep"
+  onclick="SetDisplay('legende_rep')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_rep')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p>Catégories</p><table rend="center_o center_t" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" style="width:auto; height:20px; background-color:#FFCCFF">Actualité</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Géographie </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px">Histoire</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue" style="width:auto; height:20px">Littérature</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue_hashed" style="width:auto; height:20px">Mythologie</cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px"> Remarque </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+            </table><p> </p><ref target="repertoire.html">
+              <hi rend="bold">RÉPERTOIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="repertoire_aa.html">A</ref><ref target="repertoire_bb.html">B</ref><ref target="repertoire_cc.html">C</ref><ref target="repertoire_dd.html">D</ref><ref target="repertoire_ee.html">E</ref><lb/><ref target="repertoire_ff.html">F</ref><ref target="repertoire_gg.html">G</ref><ref target="repertoire_hh.html">H</ref><ref target="repertoire_ik.html">I</ref><ref target="repertoire_ik.html#j">J</ref><lb/><ref target="repertoire_ik.html#k">K</ref><ref target="repertoire_ll.html">L</ref><ref target="repertoire_mm.html">M</ref><ref target="repertoire_no.html">N</ref><ref target="repertoire_no.html#o">O</ref><lb/><ref target="repertoire_pp.html">P</ref><ref target="repertoire_qr.html">Q</ref><ref target="repertoire_qr.html#r">R</ref><ref target="repertoire_ss.html">S</ref><ref target="repertoire_tt.html">T</ref><lb/><ref target="repertoire_uz.html">U</ref><ref target="repertoire_uz.html#v">V</ref><ref target="repertoire_uz.html#w">W</ref><ref target="repertoire_uz.html#x">X</ref><ref target="repertoire_uz.html#y">Y</ref><ref target="repertoire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>
+              <ref target="repertoire.html">RÉPERTOIRE - M</ref>
+            </head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Manes</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#manes">I</ref>, <ref target="#2_manes">II</ref>, <ref target="#4_manes">IV</ref>
+             
+             Mythologie.  Nom donné aux âmes des morts dans la mythologie romaine. Dans <ref target="bibliographie.html#sireine">
+                  <hi rend="italic"> Le Sireine</hi>
+                </ref>, les Mânes du héros qui se considère mort font une
+             « vaine plainte » (p. 99).<lb/>
+                 <ref target="bibliographie.html#vaugelas">Vaugelas</ref> explique : « On se sert de ce mot en vers, &amp; en prose, tousjours masculin, &amp; tousjours au pluriel ; Mais il faut prendre garde à ne l'employer jamais comme les Latins pour les <hi rend="italics">Dieux infernaux</hi> [...]. Les François ne s'en servent jamais ni en prose, ni en poësie, qu'en cette derniere signification, c'est à dire pour <hi rend="italics">l'ame d'une personne</hi> » (pp. 240-241). C'est ce que fait Honoré d'Urfé.<lb/>
+                 <lb/>
+             • <ref target="personnage_gg.html#galathee">Galathée</ref> se dit hantée par les Mânes de <ref target="personnage_ll.html#lindamor">Lindamor</ref> qui  passe pour mort (<ref target="../_roman/reference/21_1/21_1_livre_9.html#298_verso">I, 9, 298 verso</ref>). <lb/>
+
+             <lb/>
+             
+                  <ref target="bibliographie.html#vaganay">Vaganay</ref> a lu <hi rend="italics">menaces</hi> et non <hi rend="italics">manes</hi> <lb/>
+               (I, 9, p. 360). 
+                <lb/>
+
+             </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Manes</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#manes">I</ref>, <ref target="#2_manes">II</ref>, <ref target="#4_manes">IV</ref>
+             
+             Les Mânes appartiennent seulement à des hommes dans <hi rend="italics">L'Astrée</hi>. Mais on évoque les Mânes de Sylvanire dans la pièce éponyme (<ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref>, v. 6970).<lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#2_celidee">Célidée</ref> parle des Mânes du père de <ref target="personnage_cc.html#2_calidon">Calidon</ref>, auxquels <ref target="personnage_tt.html#2_thamire">Thamire</ref> l'a sacrifiée (<ref target="../_roman/reference/21_2/21_2_livre_2.html#95">II, 2, 95</ref>). <lb/>
+             <lb/>
+             • <ref target="personnage_ff.html#2_florice">Florice</ref> évoque les Mânes du père de <ref target="personnage_cc.html#2_circene">Circène</ref> (<ref target="../_roman/reference/21_2/21_2_livre_3.html#178">II, 3, 178</ref>). <lb/>
+               <ref target="repertoire_no.html">
+                  <lb/>
+             </ref>
+             •             Lors de la cérémonie du vain tombeau de <ref target="personnage_cc.html#2_celadon">Céladon</ref>, les dieux Mânes sont invoqués deux fois (<ref target="../_roman/reference/21_2/21_2_livre_8.html#550">II, 8, 550</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#552">II, 8, 552</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_mythe">
+                Manes</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#manes">I</ref>, <ref target="#2_manes">II</ref>, <ref target="#4_manes">IV</ref>
+             
+             D'après les <hi rend="italic">Commentaires</hi> de <ref target="bibliographie.html#cesar">César</ref>, les druides présidaient les cérémonies où les <ref target="repertoire_gg.html#4_gaulois">Gaulois</ref> brûlaient vivants les criminels.  (VI, 16). Il n'est pas question alors de Mânes.<lb/>
+             <lb/>
+             • Les druides organisent une cérémonie pour brûler les cadavres des soldats qui ont tué les défenseurs de <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>. Les cendres des coupables sont offertes aux Mânes des  chevaliers décédés (<ref target="../_roman/reference/24_4/24_4_livre_3.html#388">IV, 3, 388</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mantoue</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans : </hi>
+                <ref target="#2_mantoue">II</ref>
+             
+             Cette ville italienne en Lombardie a donné naissance à Virgile au I<hi rend="supn">er</hi> siècle avant J.-C. <ref target="personnage_aa.html#2_attila">Attila</ref> l'envahit en 452 (<ref target="bibliographie.html#bouvier">Bouvier-Ajam</ref>, p. 365).<lb/>
+             <lb/>
+             • Les habitants de Mantoue abandonnent la ville quand <ref target="personnage_aa.html#2_attila">Attila</ref> s'en empare. Ils se réfugient près de <ref target="repertoire_uz.html#2_venise">Venise</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#842">II, 12, 842</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Marcilly</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#marcilly">I</ref>, <ref target="#2_marcilly">II</ref>, <ref target="#3_marcilly">III</ref>, <ref target="#4_marcilly">IV</ref>
+             
+             Écrit aussi <hi rend="italics">Marsilly</hi>. Le château de Marcilly est le cœur politique du <ref target="repertoire_ff.html#forez">Forez</ref> astréen. Il est à 6 km de Saint-Étienne-le-Molard, la demeure des bergers (Voir ce <ref target="http://www.communes.com/rhone-alpes/loire/marcilly-le-chatel_42130/">site</ref>, 20 avril 2015).<lb/>
+             <lb/>
+             En 1607 seulement, d'Urfé explique que le nom de la ville vient du nom d'un lieutenant de <ref target="personnage_cc.html#cesar">César</ref>
+                  <lb/>
+               (<ref target="../_roman/reference/21_1/21_1_livre_2.html#29_verso">I, 2, 29 verso</ref>). 
+             <lb/>
+             •  C'est le lieu de résidence d'<ref target="personnage_aa.html#amasis">Amasis</ref>, dame du <ref target="repertoire_ff.html#forez">Forez</ref> (<ref target="../_roman/reference/21_1/21_1_livre_12.html#382_recto">I, 12, 382 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_12.html#396_recto">I, 12, 396 recto</ref>), et de sa cour (<ref target="../_roman/reference/21_1/21_1_livre_2.html#24_recto">I, 2, 24 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#alcippe">Alcippe</ref> s'y rend quand il veut renoncer à la condition pastorale (<ref target="../_roman/reference/21_1/21_1_livre_2.html#38_recto">I, 2, 38 recto</ref>). Il y retourne dès que <ref target="personnage_pp.html#pimandre">Pimandre</ref> l'y autorise (<ref target="../_roman/reference/21_1/21_1_livre_2.html#44_verso">I, 2, 44 verso</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#silvandre">Silvandre</ref> connaît la ville (<ref target="../_roman/reference/21_1/21_1_livre_1.html#19_recto">I, 1, 19 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Marcilly</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#marcilly">I</ref>, <ref target="#2_marcilly">II</ref>, <ref target="#3_marcilly">III</ref>, <ref target="#4_marcilly">IV</ref>
+             
+             Écrit aussi <hi rend="italics">Marcylli</hi> et <hi rend="italics">Marsilly</hi>. La ville de Marcilly et sa voisine, Marcoux, auraient été fondées<hi rend="cache"> </hi>
+                <ref target="note_4.html#4_fonder">η</ref> par un <ref target="repertoire_qr.html#2_romains">Romain</ref> nommé Marcus Marcellus (<ref target="bibliographie.html#la_mure">La Mure</ref>, I, p. 140). <lb/>
+             <lb/>
+             • Marcilly forme une pointe comme <ref target="repertoire_ik.html#2_isoure">Isoure</ref> et <ref target="#2_montverdun">Montverdun</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>) ; c'est  un mont - dont le nom rime avec « assailli » - (<ref target="../_roman/reference/21_2/21_2_livre_10.html#619">II, 10, 619</ref>). <lb/>
+             <lb/>
+             •             D'Urfé rappelle qu'<ref target="personnage_aa.html#2_amasis">Amasis</ref>, dame du <ref target="repertoire_ff.html#2_forez">Forez</ref>, réside à Marcilly, que <ref target="personnage_gg.html#2_galathee">Galathée</ref> a quitté <ref target="repertoire_ik.html#2_isoure">Isoure</ref> pour s'y rendre (<ref target="../_roman/reference/21_2/21_2_livre_7.html#432">II, 7, 432</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#451">II, 7, 451</ref>), et qu'elle a constaté alors la disparition de <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#454">II, 7, 454</ref>). <lb/>
+             <lb/>
+             • <ref target="personnage_ll.html#2_leonide">Léonide</ref> raconte que <ref target="personnage_ss.html#2_silvie">Silvie</ref> retourne à Marcilly après lui avoir transmis un message de <ref target="personnage_gg.html#2_galathee">Galathée</ref> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#453">II, 7, 453</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_10.html#669">II, 10, 669</ref>). Elle-même décide de ne pas revenir à la cour (<ref target="../_roman/reference/21_2/21_2_livre_7.html#468">II, 7, 468</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_10.html#656">II, 10, 656</ref>) malgré l'invitation de <ref target="personnage_gg.html#2_galathee">Galathée</ref> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#484">II, 7, 484</ref>). <ref target="personnage_ff.html#2_fleurial">Fleurial</ref> s'étonne de l'absence de <ref target="personnage_ll.html#2_leonide">Léonide</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#651">II, 10, 651</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#2_silvie">Silvie</ref> découvre que <ref target="personnage_pp.html#2_polemas">Polémas</ref> ne se trouvait pas à Marcilly mais à <ref target="repertoire_ff.html#2_feurs">Feurs</ref> à l'époque de la noyade de <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#671">II, 10, 671</ref>). </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Marcilly</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#marcilly">I</ref>, <ref target="#2_marcilly">II</ref>, <ref target="#3_marcilly">III</ref>, <ref target="#4_marcilly">IV</ref>
+             
+             Le site <ref target="http://www.cartesfrance.fr/carte-france-ville/42134_Marcilly-le-Chatel.html">CartesFrance</ref> (20 avril 2015) donne les renseignements suivants : Aujourd'hui,  le village de  Marcilly-le-Châtel est à 480 mètres d'altitude. À vol d'oiseau, il est à 3.62 km de <ref target="#3_montverdun">Montverdun</ref> et à 2.51 km de Marcoux (demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref>).<lb/>
+             Dans la troisième partie, Marcilly,  le séjour de la Cour, n'est pas décrit.<lb/>
+             <lb/>
+             • Debout dans la plaine du <ref target="repertoire_ff.html#3_forez">Forez</ref>, <ref target="personnage_dd.html#3_damon_a">Damon</ref> aperçoit le château et la ville (<ref target="../_roman/reference/21_3/21_3_livre_6.html#218_recto">III, 6, 218 recto</ref>). Sur la pointe d'un rocher, avec « sa grandeur,  ses tours, et la somptuosité du bastiment », le château lui rappelle la demeure de <ref target="personnage_mm.html#3_madonthe">Madonthe</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#218_verso">III, 6, 218 verso</ref>).
+             Le chevalier voit venir de Marcilly <ref target="personnage_gg.html#3_galathee">Galathée</ref> et sa suite (<ref target="../_roman/reference/21_3/21_3_livre_6.html#222_recto">III, 6, 222 recto</ref>).<lb/>
+             <lb/>
+             •             Blessé, <ref target="personnage_dd.html#3_damon_a">Damon</ref> sera emporté « en la grande ville de Marcilly » (<ref target="../_roman/reference/21_3/21_3_livre_6.html#261_recto">III, 6, 261 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_amasis">Amasis</ref> rentre à Marcilly  (<ref target="../_roman/reference/21_3/21_3_livre_6.html#261_verso">III, 6, 261 verso</ref>) où elle fait des reproches à <ref target="personnage_pp.html#3_polemas">Polémas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#262_recto">III, 6, 262 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#3_cleontine">Cléontine</ref> conseille à <ref target="personnage_gg.html#3_galathee">Galathée</ref> de retourner à Marcilly (<ref target="../_roman/reference/21_3/21_3_livre_11.html#461_recto">III, 11, 461 recto</ref>). La nymphe convoque <ref target="personnage_aa.html#3_adamas">Adamas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#462_recto">III, 11, 462 recto</ref>). <ref target="personnage_cc.html#3_chrisante">Chrisante</ref>, à <ref target="repertoire_bb.html#3_bonlieu">Bonlieu</ref>, hâte le sacrifice pour que <ref target="personnage_gg.html#3_galathee">Galathée</ref> puisse s'en aller (<ref target="../_roman/reference/21_3/21_3_livre_11.html#462_recto">III, 11, 462 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_gg.html#3_galathee">Galathée</ref> et <ref target="personnage_dd.html#3_damon_a">Damon</ref> vont  à Marcilly ; <ref target="personnage_tt.html#3_tersandre">Tersandre</ref> y sera enterré (<ref target="../_roman/reference/21_3/21_3_livre_12.html#498_verso">III, 12, 498 verso</ref>). <ref target="personnage_pp.html#3_polemas">Polémas</ref> pense que c'est <ref target="personnage_dd.html#3_damon_a">Damon</ref> qui est mort (<ref target="../_roman/reference/21_3/21_3_livre_12.html#500_recto">III, 12, 500 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_amasis">Amasis</ref>, apprenant la conduite de <ref target="personnage_pp.html#3_polemas">Polémas</ref>, quitte Marcilly et se rend chez <ref target="personnage_aa.html#3_adamas">Adamas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#501_verso">III, 12, 501 verso</ref>). Elle reviendra au château le jour même (<ref target="../_roman/reference/21_3/21_3_livre_12.html#506_recto">III, 12, 506 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_amasis">Amasis</ref> dit à <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> que « les Nymphes de Marcilly ne cedent point aux bergeres de <ref target="repertoire_ll.html#3_lignon">Lignon</ref> »
+             (<ref target="../_roman/reference/21_3/21_3_livre_12.html#505_verso">III, 12, 505 verso</ref>).<lb/>
+
+             <lb/>
+             Cette compétition entre les Bergeres <hi rend="italic">de <ref target="repertoire_ll.html#3_lignon">Lignon</ref>
+                  </hi> et les Nymphes <hi rend="italic">de <ref target="#3_marcilly">Marcilly</ref>
+                  </hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#259_recto">III, 6, 259 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_9.html#370_recto">III, 9, 370 recto</ref>)
+               rappelle la compétition des <ref target="repertoire_no.html#3_nayades">Naïades</ref> de la <ref target="repertoire_ss.html#3_sorgues">Sorgues</ref> et des Muses chez Pétrarque<hi rend="cache"> </hi>
+                  <ref target="note_3.html#3_nayades">η</ref>. 
+             <lb/>
+             <ref target="personnage_aa.html#3_adamas">Adamas</ref> conseille à <ref target="personnage_aa.html#3_amasis">Amasis</ref> de se retirer à Marcilly et promet de lui envoyer solduriers et chevaliers (<ref target="../_roman/reference/21_3/21_3_livre_12.html#549_verso">III, 12, 549 verso</ref>). <ref target="personnage_aa.html#3_amasis">Amasis</ref> rentre avec <ref target="personnage_gg.html#3_galathee">Galathée</ref> et les Aquitaniens (<ref target="../_roman/reference/21_3/21_3_livre_12.html#551_recto">III, 12, 551 recto</ref>). <ref target="personnage_aa.html#3_adamas">Adamas</ref> et <ref target="personnage_ll.html#3_leonide">Léonide</ref> les rejoignent ensuite (<ref target="../_roman/reference/21_3/21_3_livre_12.html#552_recto">III, 12, 552 recto</ref>). </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Marcilly</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#marcilly">I</ref>, <ref target="#2_marcilly">II</ref>, <ref target="#3_marcilly">III</ref>, <ref target="#4_marcilly">IV</ref>
+             
+             • D'après <ref target="personnage_ll.html#4_lycidas">Lycidas</ref>, c'est dans cette ville que <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> sera à l'abri (<ref target="../_roman/reference/24_4/24_4_livre_3.html#402">IV, 3, 402</ref>).<lb/>
+             <lb/>
+             • Les dames lyonnaises accompagnent <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> à Marcilly (<ref target="../_roman/reference/24_4/24_4_livre_3.html#445">IV, 3, 445</ref>).<lb/>
+             <lb/>
+             • Fondée<hi rend="cache"> </hi>
+                <ref target="note_4.html#4_fonder">η</ref> par un <ref target="repertoire_qr.html#4_romains">Romain</ref>, la capitale du <ref target="repertoire_ff.html#4_forez">Forez</ref> abrite des temples romains (<ref target="../_roman/reference/24_4/24_4_livre_3.html#473">IV, 3, 473</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#4_adamas">Adamas</ref> n'a pas emmené <ref target="personnage_aa.html#4_alexis">Alexis</ref> à Marcilly (<ref target="../_roman/reference/24_4/24_4_livre_3.html#541">IV, 3, 541</ref>). <lb/>
+             <lb/>
+             Décision prise dans la troisième partie (<ref target="../_roman/reference/21_3/21_3_livre_11.html#481_recto">III, 11, 481 recto</ref>).
+             <lb/>
+             • <ref target="personnage_pp.html#4_phillis">Phillis</ref> prétend que ses compagnes et elle doivent se rendre sur le chemin par lequel passeront les dames lyonnaises à leur retour de Marcilly (<ref target="../_roman/reference/24_4/24_4_livre_3.html#585">IV, 3, 585</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> et ses compagnons parviennent à Marcilly à l'heure du souper. Ils ne vont pas « au Chasteau, qui paroissoit en lieu si haut et  si malaisé » (<ref target="../_roman/reference/24_4/24_4_livre_3.html#484">IV, 3, 484</ref>).
+             Ils se rendent chez <ref target="personnage_cc.html#4_clindor">Clindor</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#633">IV, 4, 633</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> raconte que  le <ref target="personnage_uz.html#4_vieux_homme">Vieil homme</ref> lui a montré que deux villes encadrent la plaine de <ref target="repertoire_ff.html#4_forez">Forez</ref>, <ref target="repertoire_ff.html#4_feurs">Feurs</ref> et Marcilly (<ref target="../_roman/reference/24_4/24_4_livre_4.html#911">IV, 4, 911</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_ll.html#4_leonide">Léonide</ref> est revenue à Marcilly depuis un peu moins de trois jours (<ref target="../_roman/reference/24_4/24_4_livre_5.html#915">IV, 5, 915</ref>).<lb/>
+             <lb/>
+             • Voir <ref target="photos_forez.html#marcilly">Photos du Forez</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Marcomancs</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_marcomancs">II</ref>
+             
+             Aujourd'hui <hi rend="italics">Marcomans</hi>.  « Peuple germanique<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#germains">η</ref> de la coalition conduite par <ref target="personnage_aa.html#2_arioviste">Arioviste</ref> et vaincue avec lui par <ref target="personnage_cc.html#cesar">César</ref> en 58 avant J.-C. » (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 722). Ils attaquent les <ref target="repertoire_bb.html#2_boiens">Boïens</ref>, puis sont vaincus par <ref target="personnage_aa.html#2_attila">Attila</ref>. <ref target="bibliographie.html#pierius">Pierius</ref> les dit originaires de Bohème quand il décrit leurs armes : un demi serpent et une petite lune (I, p. 294).<lb/>
+             <lb/>
+             • Ce peuple est devenu presque sujet d'<ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#805">II, 12, 805</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                <hi rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                  Mars</hi>
+              </cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mars">I</ref>, <ref target="#2_mars">II</ref>,  <ref target="#3_mars">III</ref>, <ref target="#4_mars">IV</ref>
+             
+  Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> explique que la forêt de Mars astréenne est la forêt d'Heyrieux, au Sud-ouest de <ref target="repertoire_ll.html#lyon">Lyon</ref> (p. 216).<lb/>
+  <lb/>
+  • Dans l'histoire de <ref target="personnage_cc.html#cloris">Cloris</ref>, racontée par <ref target="personnage_hh.html#hylas">Hylas</ref>, les jeunes voyous qui attaquent <ref target="personnage_qr.html#rosidor">Rosidor</ref> vivent dans cette forêt qui s'appelle aussi forêt d'<ref target="repertoire_aa.html#airieu">Airieu</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#257_recto">I, 8, 257 recto</ref>), déformation d'Arès, nom grec du dieu <ref target="repertoire_mm.html#2_mars">Mars</ref>. </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1
+           </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Mars</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#mars">I</ref>, <ref target="#2_mars">II</ref>, <ref target="#3_mars">III</ref>, <ref target="#4_mars">IV</ref>
+             
+             • Cette forêt qui se trouve du côté du <ref target="repertoire_qr.html#2_rhone">Rhône</ref> ne représente plus le moindre danger (<ref target="../_roman/reference/21_2/21_2_livre_3.html#171">II, 3, 171</ref>). <lb/>
+             <lb/>
+             • Les habitants de <ref target="repertoire_ll.html#2_lyon">Lyon</ref> y trouvent le gui sacré (<ref target="../_roman/reference/21_2/21_2_livre_4.html#261">II, 4, 261</ref>). </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Mars</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mars">I</ref>, <ref target="#2_mars">II</ref>, <ref target="#3_mars">III</ref>, <ref target="#4_mars">IV</ref>
+             
+             En 473, les <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref> sont vainqueurs dans la vallée du <ref target="repertoire_qr.html#3_rhone">Rhône</ref>. Sidoine Apollinaire écrit alors : « Le Mars de la Garonne [<ref target="personnage_ee.html#3_euric">Euric</ref>] protège le Tibre [<ref target="repertoire_qr.html#3_rome">Rome</ref>] affaibli » (cité par <ref target="bibliographie.html#labouysse">Labouysse</ref>, p. 28).<lb/>
+             <lb/>
+             Le dieu Mars est nommé uniquement dans l'<ref target="../_roman/reference/21_3/21_3_livre_3.html#h_euric">histoire d'Euric, Daphnide, et Alcidon</ref>. Il est toujours en conflit avec deux autres divinités, <ref target="repertoire_aa.html#3_amour">Amour</ref> et <ref target="repertoire_uz.html#3_venus">Vénus</ref>.<lb/>
+             Dans <hi rend="italic">le Banquet</hi>, <ref target="bibliographie.html#platon_banquet">Platon</ref> souligne :
+             « Ce n'est point Mars qui est le maître de l'Amour, mais l'Amour qui est le maître de Mars » (196 d). <lb/>
+             Du Bellay, dans son <ref target="https://fr.wikisource.org/wiki/Ode_Au_Seigneur_des_Essars_sur_le_discours_de_son_Amadis">
+                  <hi rend="italic">Ode au Seigneur des Essars</hi>
+                </ref> (Site de Wikisource, 10 décembre 2016), réunit Mars et Vénus, mais les montre enchaînés -  ils le sont dans <hi rend="italic">Les Amadis</hi>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#amadis">η</ref> traduits par Herberay des Essarts (Voir aussi une enluminure dans ce <ref target="https://runglaz.files.wordpress.com/2014/01/mars-et-venus-enchac3aenc3a9s-par-vulcain.jpg?w=764">site</ref>, 10 décembre 2016).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> déclare qu'<ref target="personnage_ee.html#3_euric">Euric</ref> est un bon guide pour les entreprises qui concernent le dieu Mars, non pour celles qui concernent <ref target="repertoire_aa.html#3_amour">Amour</ref>. Le Roi réplique qu'il n'est  « pas moins soldat d'<ref target="repertoire_aa.html#3_amour">Amour</ref> que de Mars » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#69_recto">III, 3, 69 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> pense qu'<ref target="repertoire_aa.html#3_amour">Amour</ref> commande à Mars (<ref target="../_roman/reference/21_3/21_3_livre_3.html#77_verso">III, 3, 77 verso</ref>).<lb/>
+             <lb/>
+             • En arrivant devant un château, le chevalier se demande si c'est Mars ou <ref target="repertoire_uz.html#3_venus">Vénus</ref> qui va l'accueillir  (<ref target="../_roman/reference/21_3/21_3_livre_3.html#78_verso">III, 3, 78 verso</ref>).<lb/>
+             <lb/>
+             • Quand <ref target="personnage_ee.html#3_euric">Euric</ref> « faisoit treve avec Mars, il recommencoit la guerre avec l'<ref target="repertoire_aa.html#3_amour">Amour</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#105_verso">III, 3, 105 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_mythe">
+                Mars</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mars">I</ref>, <ref target="#2_mars">II</ref>, <ref target="#3_mars">III</ref>, <ref target="#4_mars">IV</ref>
+             
+             • C'est  encore une fois à propos de la forêt d'<ref target="repertoire_ee.html#4_erieu">Heyrieux</ref> qu'Honoré d'Urfé nomme le dieu Mars (<ref target="../_roman/reference/24_4/24_4_livre_4.html#713">IV, 4, 713</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Massiliens</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#massiliens">I</ref>, <ref target="#2_massiliens">II</ref>, <ref target="#3_massiliens">III</ref>, <ref target="#4_massiliens">IV</ref>
+             
+             Habitants de Marseille. <ref target="bibliographie.html#strabon">Strabon</ref> appelle Marseille <hi rend="italics">Massalia</hi> (IV, Ch. I, 4). Daniel <ref target="bibliographie.html#huet">Huet</ref> déduit que d'Urfé aurait lui-même étudié à Marseille (p. 857). Voir Escoles<hi rend="cache"> </hi>
+                <ref target="note_2.html#2_escoles">η</ref>.<lb/>
+
+             <lb/>
+             • <ref target="personnage_ss.html#silvandre">Silvandre</ref> étudie dans les universités des <ref target="#massiliens">Massiliens</ref>  (<ref target="../_roman/reference/21_1/21_1_livre_8.html#226_verso">I, 8, 226 verso</ref>) situées à Marseille. <lb/>
+             <lb/>             <p> « Marsilliens » dans l'édition anonyme de 1607.</p>
+                <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Massiliens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#massiliens">I</ref>, <ref target="#2_massiliens">II</ref>, <ref target="#3_massiliens">III</ref>, <ref target="#4_massiliens">IV</ref>
+             
+             • Dans la deuxième partie, les <ref target="#2_massiliens">Massiliens</ref>
+                <hi rend="cache"> </hi>
+                <ref target="note_2.html#2_escoles">η</ref> restent souvent liés à <ref target="personnage_ss.html#2_silvandre">Silvandre</ref>. Il a étudié dans leurs écoles (<ref target="../_roman/reference/21_2/21_2_livre_1.html#8">II, 1, 8</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_6.html#418">II, 6, 418</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#464">II, 7, 464</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_9.html#607">II, 9, 607</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_9.html#610">II, 9, 610</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_11.html#754">II, 11, 754</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_12.html#766">II, 12, 766</ref>). <lb/>
+             <ref target="personnage_hh.html#2_hylas">Hylas</ref> a fréquenté les mêmes écoles (<ref target="../_roman/reference/21_2/21_2_livre_9.html#610">II, 9, 610</ref>). Voir Escoles<hi rend="cache"> </hi>
+                <ref target="note_2.html#2_escoles">η</ref>.<lb/>
+             <lb/>
+             • Le sénat des <ref target="#2_massiliens">Massiliens</ref> peut autoriser le suicide (<ref target="../_roman/reference/21_2/21_2_livre_12.html#871">II, 12, 871</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_12.html#874">II, 12, 874</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_12.html#877">II, 12, 877</ref>). Il écoute deux requêtes (<ref target="../_roman/reference/21_2/21_2_livre_12.html#878">II, 12, 878</ref>) et les rejette (<ref target="../_roman/reference/21_2/21_2_livre_12.html#880">II, 12, 880</ref>). Voir <ref target="personnage_ss.html#2_six_cents">Six-Cents</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Massiliens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#massiliens">I</ref>, <ref target="#2_massiliens">II</ref>, <ref target="#3_massiliens">III</ref>, <ref target="#4_massiliens">IV</ref>
+             
+             Dans la troisième partie, « la ville des Massiliens » est évoquée pour être associée à <ref target="personnage_ee.html#3_euric">Euric</ref>, roi des <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref>. <lb/>
+             En fait, en 475, les <ref target="repertoire_uz.html#3_visigoths">Wisigoths</ref> s'emparent de la vallée du <ref target="repertoire_qr.html#3_rhone">Rhône</ref> et prennent <ref target="repertoire_aa.html#3_arles">Arles</ref> en 476 (<ref target="bibliographie.html#labouysse">Labouysse</ref>, p. 66). Les <ref target="repertoire_bb.html#3_bourguignons">Bourguignons</ref> doivent leur demander la paix (<ref target="bibliographie.html#favrod_2">Favrod</ref>, p. 476).<lb/>
+             À la fin du XVI<hi rend="supn">e</hi> siècle, <ref target="repertoire_aa.html#3_arles">Arles</ref> résiste aux troupes d'<ref target="repertoire_hh.html#3_henri">Henri IV</ref> pendant trois ans.
+             <lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#3_silvandre">Silvandre</ref>, dans les écoles des Massiliens, a entendu parler de <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>, et il a su qu'<ref target="personnage_ee.html#3_euric">Euric</ref> avait pris la ville des Massiliens (<ref target="../_roman/reference/21_3/21_3_livre_2.html#41_recto">III, 2, 41 recto</ref>). Le berger dit aussi à <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> que les bardes l'ont chantée dans les écoles des Massiliens (<ref target="../_roman/reference/21_3/21_3_livre_2.html#41_verso">III, 2, 41 verso</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> rappelle qu'<ref target="personnage_ee.html#3_euric">Euric</ref> a pris la ville des Massiliens (<ref target="../_roman/reference/21_3/21_3_livre_3.html#64_recto">III, 3, 64 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_3.html#66_recto">III, 3, 66 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#3_criseide">Criséide</ref> va « prendre la mer vers les Massiliens, jusques en la coste de la <ref target="repertoire_ll.html#3_ligurie">Ligurie</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_8.html#348_recto">III, 8, 348 recto</ref>).<lb/>
+             <lb/>
+             • Lors du jugement de la gageure, <ref target="personnage_ss.html#3_silvandre">Silvandre</ref>, dans sa harangue, répète qu'il a fréquenté les écoles des Massiliens (<ref target="../_roman/reference/21_3/21_3_livre_10.html#411_recto">III, 10, 411 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_10.html#413_verso">III, 10, 413 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Massiliens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#massiliens">I</ref>, <ref target="#2_massiliens">II</ref>, <ref target="#3_massiliens">III</ref>, <ref target="#4_massiliens">IV</ref>
+             
+             • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> impose à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> une  succession d'arguments qu'il juge logiques, parce que les Massiliens lui auraient appris à ne pas discuter avec ceux qui nient des points de départ irréfutables (<ref target="../_roman/reference/24_4/24_4_livre_2.html#214">IV, 2, 214</ref>). Il va donc obliger la jeune femme à admettre d'abord que l'amour existe.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFCCFF;">
+                Matheus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_matheus">II</ref>
+             
+             Jean-Mathieu dit <ref target="#2_matheus">Matheus</ref> (1590-1672). Pascale <ref target="bibliographie.html#cugy">Cugy</ref> donne les renseignements suivants : <lb/>
+             <ref target="#2_matheus">Matheus</ref> est maître graveur à Paris au moins depuis 1617. Il a gravé des images pour <hi rend="italics">Les Métamorphoses</hi> d'Ovide en 1619. <lb/>
+             <lb/>
+             • Voir ses gravures dans le <ref target="http://gallica.bnf.fr/ark:/12148/btv1b22000826">site</ref> de Gallica (20 septembre 2018).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Matisques</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_matisques">III</ref>
+             
+             Habitants de « Matisco, ville de la <ref target="repertoire_gg.html#3_gaule">Gaule</ref>, dans la Lyonnaise I<hi rend="supn">e</hi>, sur les confins de la Grande-Séquanaise. Aujourd'hui Mâcon » (<hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi>
+                </hi>).<lb/>
+             <lb/>
+             • Les Matisques           font partie des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>). </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mauriac</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_mauriac">II</ref>
+             
+             Nom du camp appelé <hi rend="italics">Mariacus</hi>, <hi rend="italics">Mauriacus</hi> ou <hi rend="italics">Mauricus</hi>, dans les textes antiques. Il est appelé jusqu'au V<hi rend="supn">e</hi> siècle <hi rend="italics">camp de Mauriac</hi> et aujourd'hui Méry-sur-Seine (<ref target="bibliographie.html#bouvier">Bouvier-Ajam</ref>, p. 294). <lb/>
+             <ref target="bibliographie.html#fauchetr">Fauchet</ref> situe les <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref> à Mauriac en s'appuyant sur Grégoire  de Tours (f° 95 recto). <lb/>
+             <ref target="personnage_aa.html#2_attila">Attila</ref> a effectivement convoqué astrologues et sorciers avant la bataille des <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref> (<ref target="bibliographie.html#fauchetr">Fauchet</ref> f° 92 verso ; <ref target="bibliographie.html#bouvier">Bouvier-Ajam</ref>, p. 301). <lb/>
+             <lb/>
+             • Plaine où <ref target="personnage_aa.html#2_attila">Attila</ref> s'arrête pour consulter les oracles avant la bataille des <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#825">II, 12, 825</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Mauriciens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_mauriciens">III</ref>
+             
+             Les Mauriciens aujourd'hui sont les habitants de l'Île Maurice. Dans <hi rend="italic">L'Astrée</hi>, ils sont plutôt les habitants de Saint-Maurice-en-Gourgois, commune de la Loire dans le canton de Saint-Bonnet-le-Château (<hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi>
+                </hi>, Article <hi rend="italic">Maurice</hi>).<lb/>
+             <lb/>
+             • Les Mauriciens font partie des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mauritanie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_mauritanie">II</ref>
+               
+             Vaste région d'<ref target="repertoire_aa.html#2_afrique">Afrique</ref> du Nord. Une partie se nomme <hi rend="italic">Mauritanie</hi> <hi rend="italics">Tingitane</hi> (capitale Tingis, ville du Maroc d'aujourd'hui), et une autre la <hi rend="italic">Mauritanie</hi> <hi rend="italics">Césarienne</hi> (capitale Césarée, aujourd'hui Cherchell, ville d'Algérie). La Mauritanie est occupée par les <ref target="repertoire_qr.html#2_romains">Romains</ref> au I<hi rend="supn">e</hi> siècle puis par les <ref target="repertoire_uz.html#vandales">Vandales</ref> au V<hi rend="supn">e</hi>.<lb/>
+             <lb/>
+             • <ref target="personnage_bb.html#2_boniface">Boniface</ref>, gouverneur nommé par <ref target="repertoire_qr.html#rome">Rome</ref>, doit s'enfuir dans la Mauritanie Césarienne. Il y appelle au secours <ref target="personnage_gg.html#2_genseric">Genséric</ref> qui l'oblige à s'exiler dans les montagnes (<ref target="../_roman/reference/21_2/21_2_livre_11.html#760">II, 11, 760</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Medee</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#3_medee">III</ref>
+             
+             Fille de <ref target="repertoire_cc.html#3_circe">Circé</ref> selon certains mythologues, « elle faisoit de merveilleuses besongnes, ayant appris d'<ref target="repertoire_hh.html#hecate">Hecate</ref> tout ce qui se peut sçavoir en mariage » (<ref target="bibliographie.html#conti">Conti</ref>, p. 463). <lb/>
+     « Si les charmes forçoient la fleche desbandée<lb/>
+     De l'arc que porte <ref target="repertoire_aa.html#3_amour">Amour</ref>, la sorciere Medée<lb/>
+     Eust arresté Jason, et <ref target="repertoire_cc.html#3_circe">Circe</ref> eust arresté<lb/>
+                  <ref target="repertoire_uz.html#2_ulysse">Ulysse</ref> dans son lict si doucement traité »<lb/>
+             (<ref target="bibliographie.html#ronsard">Ronsard</ref>, éd. Blanchemain, IV, Élégie XXIX, p. 345).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_adelonde">Adelonde</ref>, la femme qui use de charmes magiques pour séduire <ref target="personnage_ee.html#3_euric">Euric</ref>, est comparée à <ref target="repertoire_cc.html#3_circe">Circé</ref> et à Médée (<ref target="../_roman/reference/21_3/21_3_livre_4.html#155_recto">III, 4, 155 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Medes</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_medes">II</ref>
+             
+             Peuple d'origine iranienne qui cohabite avec les Scythes. <ref target="bibliographie.html#jordanes">Jordanès</ref> affirme qu'<ref target="personnage_aa.html#2_attila">Attila</ref> fut « le premier, depuis que le monde existe, dont la domination ait embrassé la <ref target="repertoire_ss.html#2_scythie">Scythie</ref> presque entière » (ch. XXXIII).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#2_attila">Attila</ref> prend « le nom de Roy des <ref target="repertoire_hh.html#2_huns">Huns</ref>, des <ref target="#2_medes">Medes</ref>, <ref target="repertoire_gg.html#2_goths">Goths</ref>, des <ref target="repertoire_dd.html#2_danois">Danois</ref>,  et des <ref target="repertoire_gg.html#2_gepides">Gepides</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#826">II, 12, 826</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mediterranée</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#mediterranee">I</ref>
+             
+             Nommée par <ref target="personnage_hh.html#hylas">Hylas</ref> dans la description de la <ref target="repertoire_cc.html#camargue">Camargue</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#243_verso">I, 8, 243 verso</ref>), dans l'édition de 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Meduse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_meduse">II</ref>
+             
+             Mythologie. Méduse est celle des trois <ref target="repertoire_gg.html#gorgonne">Gorgones</ref> qui a les caractéristiques les plus humaines parce qu'elle connaît l'amour et la mort. Persée la décapite. La tête de Méduse épouvante qui la regarde. Les hommes demeurent « comme pierre immobile, de merveille » (<ref target="bibliographie.html#cartari">Cartari</ref>, p. 490).<lb/>
+             <lb/>
+             • Lorsque <ref target="personnage_hh.html#2_hylas">Hylas</ref> dit que <ref target="personnage_pp.html#2_periandre">Périandre</ref> croit voir « le visage de Meduse » (<ref target="../_roman/reference/21_2/21_2_livre_4.html#228">II, 4, 228</ref>), l'image est particulièrement bien choisie.  En effet, <ref target="personnage_pp.html#2_periandre">Périandre</ref>, qui vient d'apprendre que le portrait de son rival est à l'intérieur du miroir de <ref target="personnage_dd.html#2_dorinde">Dorinde</ref>, est stupéfié. Nous dirions qu'il est <hi rend="italics">médusé</hi> - mais ce verbe n'est entré dans la langue qu'au XIX<hi rend="supn">e</hi> siècle (<ref target="bibliographie.html#littre">Littré</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Megere</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#4_megere">IV</ref>
+             
+             Nom donné à l'une des trois Furies (<ref target="bibliographie.html#virgile">Virgile</ref>, <hi rend="italic">L'Énéide</hi>, XII par exemple). <ref target="bibliographie.html#cartari">Cartari</ref> énumère tous les attributs des Furies et les montre  conduites par Mégère (p. 372). Il n'est pas question de leur progéniture. En principe,  Mégère doit punir les méchants. Dans <hi rend="italic">L'Astrée</hi>, elle peut leur donner le jour. Racine reprendra l'image dans son <hi rend="italic">Iphigénie</hi>, en l'appliquant à Ériphile : « Ce monstre que Mégère en ses flancs a porté » (V, 4, v. 1679).<lb/>
+             <lb/>
+             • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> se demande si les hommes infidèles ne seraient pas nés de Mégère (<ref target="../_roman/reference/24_4/24_4_livre_1.html#44">IV, 1, 44</ref>).<lb/>
+             <lb/>
+             Comme la jeune femme  dit « <hi rend="italic">quelque </hi>Megere », il pourrait s'agir d'une antonomase. <lb/>
+               <hi rend="italic">Mégère</hi> n'est  pas un nom commun dans le <hi rend="italic">Dictionnaire de l'Académie </hi>de <ref target="bibliographie.html#academie_94">1694</ref>, mais dans celui de <ref target="bibliographie.html#academie">1762</ref>.
+             <lb/>
+             • <ref target="personnage_tt.html#4_tircis">Tircis</ref> traite <ref target="personnage_ll.html#4_laonice">Laonice</ref> de quatrième Mégère (<ref target="../_roman/reference/24_4/24_4_livre_3.html#552">IV, 3, 552</ref>). <lb/>
+             <lb/>
+             Sœur de Mégère et des « deux pestes nommées Furies » (<ref target="bibliographie.html#virgile">Virgile</ref>, <hi rend="italic">L'Énéide</hi>, XII, 845), Alecto, l'implacable, et Tisiphone, la vengeance, <ref target="personnage_ll.html#4_laonice">Laonice</ref> veut implacablement se venger de la sentence qu'elle a reçue.
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Mercure</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mercure">I</ref>, <ref target="#2_mercure">II</ref>, <ref target="#3_mercure">III</ref>
+             
+             Mythologie. Fils et serviteur de <ref target="repertoire_ik.html#jupiter">Jupiter</ref>, Mercure est le patron des voyageurs et des marchands (<hi rend="italics">merx</hi> signifie marchandise). <lb/>
+             <lb/>
+             En 1607<hi rend="italics"/>, des voyageurs s'adressent à ce dieu qui doit les guider. 
+             <lb/>
+             • Dans les éditions suivantes, Mercure est remplacé par <ref target="repertoire_tt.html#tautates">Tautatès</ref> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#347_verso">I, 10, 347 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Mercure</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mercure">I</ref>, <ref target="#2_mercure">II</ref>, <ref target="#3_mercure">III</ref>
+             
+             D'Urfé a pu apprendre dans les <hi rend="italic">Commentaires</hi> de Jules <ref target="bibliographie.html#cesar">César</ref> que les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> vénéraient ce Dieu (VI, 6, § 17). Il a pu aussi s'inspirer de
+             l'interprétation de <ref target="bibliographie.html#fauchetr">Fauchet</ref> : « Ils adoroient pardessus tous les Dieux, Mercure, appellé en leur langue <ref target="repertoire_tt.html#tautates">Teutates</ref> : et en tenoient plusieurs images, le disans inventeur de tous les arts » (f° 4 verso). <lb/>
+             Honoré d'Urfé relève dans son <hi rend="italics">Jugement sur l'Amadéide</hi> que Mercure seconde le héros dans le premier chant de <hi rend="italics">L'Énéide</hi> de <ref target="bibliographie.html#virgile">Virgile</ref> (p. 13). Voir <ref target="jugemant.html#mercure">
+                  <hi rend="italic">Jugemant</hi>
+                </ref>.<lb/>
+             <lb/>
+             Dans la deuxième partie, Mercure survient dans trois contextes, sous trois formes et dans trois livres différents. <lb/>
+             <lb/>
+             • Au livre 1, il est question cinq fois du carrefour consacré à Mercure où se rencontrent les Bergers et leurs visiteurs  (<ref target="../_roman/reference/21_2/21_2_livre_1.html#9">II, 1, 9</ref>) ; quatre chemins s'y croisent et  un <ref target="glossaire_tt.html#terme">terme</ref> posé sur trois marches s'y trouve (<ref target="../_roman/reference/21_2/21_2_livre_1.html#30">II, 1, 30</ref>). Dans <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref> aussi les bergers se retrouvent dans le carrefour de Mercure (v. 789).<lb/>
+             <lb/>
+             • Au livre 8, dans la leçon de théologie, <ref target="personnage_aa.html#2_adamas">Adamas</ref> explique que le <ref target="repertoire_tt.html#2_tautates">Tautatès</ref> des <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> est appelé Mercure par les <ref target="repertoire_qr.html#2_romains">Romains</ref> : « Dieu, non seulement de l'eloquence, mais presidant  aux chemins, inventeur des arts, et le protecteur des marchands et de ceux qui traffiquent » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#511">II, 8, 511</ref>). <lb/>
+             Les usurpateurs ont voulu forcer les druides à représenter leurs divinités avec les figures et les noms des dieux païens  (<ref target="../_roman/reference/21_2/21_2_livre_8.html#514">II, 8, 514</ref>).<lb/>
+             <lb/>
+             • Au livre 10, il s'agit d'un « jeune et beau » messager du Ciel que les <ref target="repertoire_qr.html#2_romains">Romains</ref> prennent pour Mercure, et qui n'est autre que <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#644">II, 10, 644</ref>). Voir dans ce <ref target="http://fr.wikipedia.org/wiki/Herm%C3%A8s#mediaviewer/File:Hermes_Ingenui_Pio-Clementino_Inv544.jpg">site</ref> la copie d'un <hi rend="italic">Hermes Ingenui</hi> grec (Wikipédia) et dans <ref target="http://mythologica.fr/grec/pic/hermes_rubens.jpg">celui-là</ref> l'Hermès de Rubens (12 février 2015).<lb/>
+             <lb/>
+             • Le terme de Mercure est représenté dans une <ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_livre_1.html#gravure">gravure</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Mercure</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mercure">I</ref>, <ref target="#2_mercure">II</ref>, <ref target="#3_mercure">III</ref>
+             
+             Selon <ref target="bibliographie.html#du_choul">Du Choul</ref>, il y avait en Auvergne une statue de Mercure haute de quatre cents pieds (p. 169). À Virieu<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#virieu">η</ref>, d'après Albert <ref target="bibliographie.html#callet_2">Callet</ref>, les fouilles ont dégagé des monuments dédiés à Mercure (p. 28). Dans <hi rend="italic">La Symbolique de L'Astrée</hi>,  Jacques <ref target="bibliographie.html#bonnet">Bonnet</ref> consacre plusieurs pages à Mercure (pp. 58 sq.,  84 sq.).<lb/>
+             <lb/>
+             Honoré d'Urfé mentionne  souvent Mercure dans ses œuvres. On rencontre six fois dans <ref target="bibliographie.html#triomphante">
+                  <hi rend="italic">La Triomphante entrée</hi>
+                </ref> le
+             « tant renommé »             Mercure  (p. 52).  Dans <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Les Epistres morales</hi>
+                </ref> aussi il revient six fois. Il peut s'appeler Trismégiste, mais il peut aussi être le dieu de la marchandise (III, 3, p. 379). Dans <hi rend="italic">
+                  <ref target="bibliographie.html#sylvanire">La Sylvanire</ref>
+                </hi>, Mercure n'est pas seulement  un carrefour, c'est un dieu capable de ressusciter les morts (p. 125).<lb/>
+             <lb/>
+             • Les bergers se réunissent autour du terme du carrefour de Mercure (<ref target="../_roman/reference/21_3/21_3_livre_1.html#6_verso">III, 1, 6 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_1.html#8_verso">III, 1, 8 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_1.html#11_recto">III, 1, 11 recto</ref>). On y trouve aussi un berger solitaire (<ref target="../_roman/reference/21_3/21_3_livre_1.html#4_verso">III, 1, 4 verso</ref>).<lb/>
+             <lb/>
+             Mercure joue un rôle important dans la <ref target="../_roman/reference/21_3/21_3_livre_8.html#h_cryseide2">Suitte de l'histoire de Cryseide et d'Arimant</ref> (<ref target="bibliographie.html#heneinp">Henein</ref>, pp. 256-257) :<lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#3_criseide">Criséide</ref> prie le Mercure romain, « porteur de nouvelles » (<ref target="../_roman/reference/21_3/21_3_livre_8.html#333_verso">III, 8, 333 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_8.html#334_recto">III, 8, 334 recto</ref>). <ref target="personnage_aa.html#3_arimant">Arimant</ref> aussi (<ref target="../_roman/reference/21_3/21_3_livre_8.html#348_recto">III, 8, 348 recto</ref>).<lb/>
+             <lb/>
+             • Mercure est aussi désigné de manière détournée. Quand <ref target="personnage_aa.html#3_arimant">Arimant</ref> se déguise en marchand (<ref target="../_roman/reference/21_3/21_3_livre_8.html#338_verso">III, 8, 338 verso</ref>), il appartient  à une confrérie mise sous le patronage de Mercure.<lb/>
+             <lb/>
+             • Lorsque <ref target="personnage_bb.html#3_bellaris">Bellaris</ref>, son écuyer, se dépêche : « il sembloit qu'il eust des aisles aux pieds » (<ref target="../_roman/reference/21_3/21_3_livre_8.html#349_recto">III, 8, 349 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Meride</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_meride">II</ref>
+             
+             Il s'agit de Mérida en <ref target="repertoire_ee.html#espagne">Espagne</ref> (Estrémadure). <lb/>
+             <lb/>
+             • Les <ref target="repertoire_ss.html#2_sueves">Suèves</ref> prennent la Méride (<ref target="../_roman/reference/21_2/21_2_livre_11.html#747">II, 11, 747</ref>). Ils y entrent avec les <ref target="repertoire_aa.html#2_alains">Alains</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#750">II, 11, 750</ref>).<lb/>
+             <lb/>
+             • Voir <ref target="cartotheque.html#carte_invasions">Carte des Invasions</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Milan</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_milan">II</ref>
+             
+             Ville de l'<ref target="repertoire_ik.html#2_italie">Italie</ref> du Nord. Construite par <ref target="personnage_ss.html#2_sigovese">Sigovèse</ref> et ses armées, d'après <ref target="bibliographie.html#la_mure">La Mure</ref> (I, p. 40), Milan est envahi par <ref target="personnage_aa.html#2_attila">Attila</ref> en 452 (<ref target="bibliographie.html#bouvier">Bouvier-Ajam</ref>, p. 365).<lb/>
+             <lb/>
+             •  Les habitants de <ref target="#2_milan">Milan</ref> s'enfuient devant <ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#841">II, 12, 841</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_mythe">
+                Minerve</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#4_minerve">IV</ref>
+             
+             Mythologie. Déesse confondue avec Athéna et <ref target="repertoire_pp.html#pallas">Pallas</ref>. <ref target="bibliographie.html#hesiode">Hésiode</ref> le premier rapporte dans sa <hi rend="italic">Théogonie</hi> que Minerve, « déesse aux yeux bleus », a été conçue lors de  l'union de <ref target="repertoire_ik.html#jupiter">Jupiter</ref> et de Métis. Craignant que l'enfant à naître ne le détrône grâce à sa sagesse, <ref target="repertoire_ik.html#jupiter">Jupiter</ref> avale Métis, la mère. L'enfant sortira du crâne de <ref target="repertoire_ik.html#jupiter">Jupiter</ref> - grâce aux instruments de Vulcain, selon Apollodore, le 19 mars, selon Varron. Le nom de Minerve pourrait signifier « pensée ». <lb/>
+             Déesse guerrière, Minerve est également la protectrice des sciences,  des arts et même de l'artisanat (<ref target="bibliographie.html#cartari">Cartari</ref>, pp. 462-463). <ref target="bibliographie.html#equicola">Equicola</ref> donne ces deux adages : « On ne faict bien là où repugne Minerve [...] Contre Minerve, rien ne diras ny feras » (Livre 1, f° 22 verso).<lb/>
+             Les mythologues latins réunissent <ref target="repertoire_ik.html#jupiter">Jupiter</ref>, <ref target="repertoire_ik.html#junon">Junon</ref> et Minerve, la triade capitoline (du Capitole. Voir ce <ref target="https://fr.wikipedia.org/wiki/Minerve_(mythologie)#/media/File:PalestrinaMuseoTriadeCapitolina.jpg">site</ref>, 20 décembre 2016). Les trois divinités sont honorées à Rome dans le temple de <ref target="repertoire_ik.html#jupiter">Jupiter</ref> Capitolin. On plantait des clous<hi rend="cache"> </hi>
+                <ref target="note_4.html#4_clou">η</ref> dans le mur mitoyen  des temples.<lb/>
+             <lb/>
+             • Grâce à une question posée par <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, le lecteur apprend que les <ref target="repertoire_qr.html#4_romains">Romains</ref> ont laissé en <ref target="repertoire_ff.html#4_forez">Forez</ref> des temples que les bergers ne fréquentent pas, dont un temple de <ref target="repertoire_ik.html#4_jupiter">Jupiter</ref> et un temple de Minerve (<ref target="../_roman/reference/24_4/24_4_livre_3.html#472">IV, 3, 472</ref>).<lb/>
+             <lb/>
+             • C'est encore <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> qui dit aux bergers comment guérir <ref target="personnage_aa.html#4_adraste">Adraste</ref>, en décrivant  la cérémonie du clou qui  réunit les temples mitoyens de <ref target="repertoire_ik.html#4_jupiter">Jupiter</ref> et de Minerve (<ref target="../_roman/reference/24_4/24_4_livre_3.html#474">IV, 3, 474</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_pp.html#4_palemon">Palémon</ref>, <ref target="personnage_dd.html#4_doris">Doris</ref> et <ref target="personnage_aa.html#4_adraste">Adraste</ref> vont donc accompagner le groupe lyonnais à Marcilly (<ref target="../_roman/reference/24_4/24_4_livre_3.html#475">IV, 3, 475</ref>). Le malheureux <ref target="personnage_aa.html#4_adraste">Adraste</ref> consent à partir avec eux (<ref target="../_roman/reference/24_4/24_4_livre_3.html#476">IV, 3, 476</ref>).<lb/>
+             <lb/>
+             • Il faut traverser le <ref target="repertoire_ll.html#4_lignon">Lignon</ref> pour y parvenir (<ref target="../_roman/reference/24_4/24_4_livre_3.html#477">IV, 3, 477</ref>). </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Moin</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#moin">I</ref>
+             
+             Moingt-la-Romaine est l'ancienne <hi rend="italic">Aquae Segetae</hi>, « en l'honneur de la déesse des moissons », c'est « le Vichy des Ségusiaves », écrit Marguerite Fournier dans deux articles numérisés (Voir ce <ref target="http://forezhistoire.free.fr/marguerite-fournier.html">site</ref>, 30 septembre 2018). <hi rend="italic">Aquae Segetae</hi> est ruiné au III<hi rend="supn">e</hi> siècle par une invasion barbare. <hi rend="italic">Mondonium</hi> est son nouveau  nom au Moyen Âge. <lb/>
+             <ref target="bibliographie.html#la_mure">La Mure</ref> précise que « Moind » « fait comme le Fauxbourg » de <ref target="#montbrison">Montbrison</ref> (I, p. 57). Il note aussi que  la ville avait un temple dédié à <ref target="repertoire_cc.html#2_ceres">Cérès</ref>. C'est pourquoi l'église qui a remplacé ce temple garde  « à la cime [...] une faux à couper les bleds comme l'on l'y void encor aujourd'huy » (I, p. 49). <lb/>
+             Moingt inspire les internautes : voir ce <ref target="http://docplayer.fr/45466992-Joseph-barou-petites-histoires-montbrisonnaises-et-foreziennes-cahiers-de-village-de-forez.html">site</ref> de Joseph Barou  et ce <ref target="https://www.vin-et-pic.com/un-vin-un-village-for%C3%A9zien/moingt/">site</ref> sur le vin de Moingt (22 septembre 2018).<lb/>
+             <lb/>
+             •          Ville où réside la sage-femme, <ref target="personnage_ll.html#lucine">Lucine</ref>.<lb/>
+             <ref target="personnage_aa.html#astree">Astrée</ref> et <ref target="personnage_dd.html#diane">Diane</ref> nomment Moingt en racontant des accouchements (<ref target="../_roman/reference/21_1/21_1_livre_4.html#109_verso">I, 4, 109 verso et 110 recto</ref>).<lb/>
+             <lb/>
+             Est-ce à cause de <ref target="repertoire_cc.html#2_ceres">Cérès</ref>, déesse de la reproduction, que la ville de Moingt est associée à l'unique sage-femme de <hi rend="italic">L'Astrée</hi> ?
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont de Mars</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_mont_de_mars">III</ref>
+             
+             Il s'agit de Montmartre. Ce lieu doit son nom soit à un temple de <ref target="#3_mars">Mars</ref>, soit à des martyrs, mais Honoré d'Urfé ne donne pas d'étymologie. Les carrières de Montmartre, depuis le temps des Romains, produisaient un plâtre réputé dit « plâtre de Paris » (Voir ce <ref target="http://fr.wikipedia.org/wiki/Carri%C3%A8res_de_Montmartre">site</ref>, 10 décembre 2012).<lb/>
+             <lb/>
+             • Le valet d'<ref target="personnage_aa.html#3_andrimarte">Andrimarte</ref> mène <ref target="personnage_ss.html#3_silviane">Silviane</ref> à <ref target="repertoire_uz.html#3_ville_des_remois">Reims</ref>. Ils passent derrière la montagne dans une carrière de plâtre (<ref target="../_roman/reference/21_3/21_3_livre_12.html#541_verso">III, 12, 541 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Montbrison</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#montbrison">I</ref>, <ref target="#2_montbrison">II</ref>, <ref target="#3_montbrison">III</ref>
+             
+             Écrit aussi <hi rend="italics">Mont-brison</hi>. Capitale du comté de <ref target="repertoire_ff.html#forez">Forez</ref>, carrefour important au XVI<hi rend="supn">e</hi> siècle. « Elle est encore considérable par la résidence du Corps de Justice [...] et compte quatre à cinq mille habitans » au XVIII<hi rend="supn">e</hi> siècle (<ref target="bibliographie.html#piganiol">Piganiol</ref>, V, p. 467). <lb/>
+             Honoré d'Urfé est arrêté à Montbrison en 1595. C'est à ce moment qu'il commence ses <hi rend="italics">Epistres morales</hi> (<ref target="bibliographie.html#reure">Reure</ref>, p. 55). <lb/>
+             <lb/>
+             • Cette ville est nommée dans <hi rend="italics">L'Astrée</hi> surtout  à cause de  ses jardins (<ref target="../_roman/reference/21_1/21_1_livre_3.html#73_verso">I, 3, 73 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_5.html#126_verso">I, 5, 126 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_9.html#294_verso">I, 9, 294 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_10.html#308_verso">I, 10, 308 verso</ref>) qui semblent être le lieu de prédilection de la Nymphe <ref target="personnage_gg.html#galathee">Galathée</ref>. Elle y retrouve secrètement <ref target="personnage_ll.html#lindamor">Lindamor</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#296_verso">I, 9, 296 verso</ref>). <lb/>
+             <lb/>
+             • Les Bergers situent leurs déplacements par rapport à <ref target="#montbrison">Montbrison</ref> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#87_recto">I, 4, 87 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_4.html#109_verso">I, 4, 109 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Montbrison</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#montbrison">I</ref>, <ref target="#2_montbrison">II</ref>, <ref target="#3_montbrison">III</ref>
+             
+             Écrit aussi <hi rend="italics">Mont-brison</hi> et <hi rend="italics">Monbrison</hi>. <ref target="bibliographie.html#la_mure">La Mure</ref>, historien forézien, explique que les <ref target="repertoire_qr.html#2_romains">Romains</ref> avaient érigé dans ce lieu un temple dédié à Briso, déesse des prédictions tirées des songes (I, p. 46 et p. 184). Les chrétiens ont remplacé le temple par une église dédiée à Notre-Dame de l'Espérance (I, p. 44). La ville a particulièrement souffert de « la barbare cruauté des Huguenots » sous Charles IX (I, p. 203 et II, pp. 286-291). Le cruel Baron des Adrets y a sévi (II, p. 320). La ville de Montbrison a souffert « et plus longuement et plus furieusement qu'aucune autre de ce Royaume » (<ref target="bibliographie.html#fodere">Fodéré</ref>, p. 489). De plus,
+             « deux ou trois pestes [...] décimèrent cruellement sa population » (<ref target="bibliographie.html#papon">Papon</ref>, Notice, p. XIII). Une gravure montre la prise de la ville en 1562 (Voir ce <ref target="http://www.mediatheque.grand-troyes.fr/webmat/content/gravures-numerisees">site</ref>, 20 avril 2015).<lb/>
+             Comme  Briso est la déesse du Sommeil, Michel <ref target="bibliographie.html#chaillou">Chaillou</ref> propose un rêve de <ref target="repertoire_ff.html#2_forez">Forez</ref> lit (p. 284).<lb/>
+             <lb/>
+             • Montbrison est du côté de <ref target="#2_montverdun">Montverdun</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>). <ref target="personnage_ll.html#2_lindamor">Lindamor</ref> a vu <ref target="personnage_ff.html#2_fleurial">Fleurial</ref>, le jardinier,  dans les jardins de <ref target="#2_montbrison">Montbrison</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#664">II, 10, 664</ref>). <lb/>
+             <lb/>
+             • Photos et histoire de la ville se trouvent dans ce <ref target="http://forezhistoire.free.fr/16-ph-felix-thiollier.html">site</ref> (30 septembre 2010). Sur l'église de Notre-Dame d'Espérance, voir ce <ref target="http://www.ville-montbrison.fr/spip.php?rubrique16">site</ref> (30 novembre 2012). Voir <ref target="cartotheque.html#carte_montbrison">Carte de Montbrison</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Montbrison</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#montbrison">I</ref>, <ref target="#2_montbrison">II</ref>, <ref target="#3_montbrison">III</ref>
+             
+             Écrit aussi <hi rend="italic">Mont-brison</hi>. <lb/>
+             « Un beau Baillage et siege de Justice d'un tresgrand ressort »  (<ref target="bibliographie.html#fodere">Fodéré</ref>, p. 475). Voir le <ref target="http://forezhistoire.free.fr/montbrison-1848-1914.html">site</ref> de Forez-histoire (10 mai 2015). Le site <ref target="http://www.cartesfrance.fr/carte-france-ville/42147_Montbrison.html">CartesFrance</ref> (14 janvier 2013) donne les renseignements suivants : Aujourd'hui, la ville de Montbrison est à 420 mètres d'altitude.  À vol d'oiseau, elle est à 3.62 km  de <ref target="#3_montverdun">Montverdun</ref>, à 4.24 km de Marcoux (demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref>), et à 2.73 km de Saint-Étienne-le-Molard (hameaux des bergers). <lb/>
+             <lb/>
+             • <ref target="personnage_dd.html#3_damon_a">Damon</ref> admire des plaines du <ref target="repertoire_ff.html#3_forez">Forez</ref> qui vont jusqu'à Montbrison (<ref target="../_roman/reference/21_3/21_3_livre_6.html#218_verso">III, 6, 218 verso</ref>).<lb/>
+             <lb/>
+             • Au livre 12, on rappelle que <ref target="personnage_cc.html#3_climanthe">Climanthe</ref> était  près des jardins de Montbrison (<ref target="../_roman/reference/21_3/21_3_livre_12.html#549_recto">III, 12, 549 recto</ref>). Il y revient (<ref target="../_roman/reference/21_3/21_3_livre_12.html#501_recto">III, 12, 501 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#550_recto">III, 12, 550 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont-d'Or</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mont_d_or">I</ref>, <ref target="#2_mont_d_or">II</ref>, <ref target="#3_mont_d_or">III</ref>
+             
+             Massif montagneux, près de Clermont-Ferrand. On dit aujourd'hui Mont-Dore. Au XVII<hi rend="supn">e</hi> siècle, un traducteur allemand est tellement sensible à la  signification de ce nom qu'il le traduit par « <hi rend="italics">goldberg</hi> » (<ref target="bibliographie.html#jurgensen">Jürgensen</ref>, p. 318). <ref target="repertoire_bb.html#bonlieu">Bonlieu</ref> subit le même sort, alors que les autres noms de lieu gardent la graphie française. <lb/>
+             <lb/>
+             • <ref target="personnage_ll.html#laonice">Laonice</ref>, qui vient de <ref target="repertoire_pp.html#3_paris_ville">Paris</ref>, rencontre <ref target="personnage_mm.html#madonthe">Madonthe</ref>, qui vient d'<ref target="repertoire_aa.html#aquitaine">Aquitaine</ref> (<ref target="../_roman/reference/21_1/21_1_livre_7.html#212_verso">I, 7, 212 verso</ref>), au Mont-d'Or.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont-d'Or</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mont_d_or">I</ref>, <ref target="#2_mont_d_or">II</ref>, <ref target="#3_mont_d_or">III</ref>
+             
+             • Comme <ref target="personnage_dd.html#2_damon_a">Damon</ref> a dit qu'il donnerait de ses nouvelles au Mont-d'Or (<ref target="../_roman/reference/21_2/21_2_livre_6.html#412">II, 6, 412</ref>), <ref target="personnage_mm.html#2_madonthe">Madonthe</ref> s'y rend (<ref target="../_roman/reference/21_2/21_2_livre_6.html#413">II, 6, 413</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont-d'Or</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mont_d_or">I</ref>, <ref target="#2_mont_d_or">II</ref>, <ref target="#3_mont_d_or">III</ref>
+               
+             Une des plus hautes montagnes d'Auvergne (<ref target="bibliographie.html#piganiol">Piganiol</ref>, V, p. 462).
+             Selon le Père Menestrier, ce nom provient de la couleur jaunâtre de sa terre (<ref target="bibliographie.html#champdor">Champdor</ref>, p. 25). On y trouve une maison de la Reine Margot, Marguerite de Valois<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#marguerite">η</ref> (voir ce <ref target="http://www.circuitsderando.com/auvergne/images/j5/maison-besse.jpg">site</ref>, 20 mai 2015).<lb/>
+               <lb/>
+             • <ref target="personnage_dd.html#3_damon_a">Damon</ref> raconte qu'il a donné rendez vous à <ref target="personnage_mm.html#3_madonthe">Madonthe</ref> « du costé du Mont-d'or » (<ref target="../_roman/reference/21_3/21_3_livre_6.html#254_verso">III, 6, 254 verso</ref>).<lb/>
+             <lb/>
+             En 1619 seulement, Hylas rencontre au Mont-d'or <ref target="personnage_mm.html#3_madonthe">Madonthe</ref>, <ref target="personnage_tt.html#3_tersandre">Tersandre</ref>, <ref target="personnage_ll.html#3_laonice">Laonice</ref>, et <ref target="personnage_tt.html#3_tircis">Tircis</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#331_verso">III, 7, 331 verso</ref>).
+             <lb/>
+             • <ref target="personnage_mm.html#3_madonthe">Madonthe</ref> raconte à <ref target="personnage_dd.html#3_damon_a">Damon</ref> que la nourrice qui l'accompagnait est morte au Mont-d'Or (<ref target="../_roman/reference/21_3/21_3_livre_12.html#503_recto">III, 12, 503 recto</ref>). </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont-Lune</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mont_lune">I</ref>
+             
+             « Montlune. Sommet des Bois-Noirs, à la limite de la Loire et du Puy de Dôme (1 198 m.) » (Voir ce <ref target="http://data.bnf.fr/11981021/montlune__rocher_de__france_/">site</ref>, 10 décembre 2012).<lb/>
+             <lb/>
+             • Massif montagneux aux « valons gelez » dont viennent deux Bergers, <ref target="personnage_ll.html#lysis">Lysis</ref> et <ref target="personnage_ss.html#semire">Semire</ref> (<ref target="../_roman/reference/21_1/21_1_livre_5.html#145_verso">I, 5, 145 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont-Rond</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_montrond">III</ref>
+             
+             Montrond-les-bains est aujourd'hui une station thermale. Le château de Montrond a son <ref target="http://www.chateau-de-montrond-les-bains.eu/le-chateau/l-histoire-du-chateau.html">site</ref> ; on y lit : « Le mont rond, seul point élevé de la plaine, sur la rive droite du fleuve Loire [...] Au sommet de la tour de guet, haute de 28 mètres, le regard balaye un panorama de 360° sur la plaine du Forez » (3 janvier 2019).<lb/>
+             <lb/>
+             • <ref target="personnage_dd.html#3_damon_a">Damon</ref>, debout dans la plaine du <ref target="repertoire_ff.html#3_forez">Forez</ref>,            admire les collines qui vont jusqu'à Montrond (<ref target="../_roman/reference/21_3/21_3_livre_6.html#218_verso">III, 6, 218 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont-Suc</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#mont_suc">I</ref>
+             
+             Ou Montsup, propose Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> (p. 187). Il peut s'agir de Saint-Romain-le-Puy et de son prieuré, selon lui (<ref target="bibliographie.html#gaumei">Gaume</ref>, p. 196). Il faut cependant souligner que l'appellation mystérieuse est une tautologie, car un <hi rend="italic">suc</hi> est un mont (plus exactement un sommet volcanique). Le <ref target="repertoire_ll.html#lignon">Lignon</ref> « parcourt le Pays des Sucs », affirme le <ref target="http://www.office-de-tourisme-des-sucs-aux-bords-de-loire.fr/je-decouvre/nature-paysages/le-lignon-et-ses-gorges-sauvages/">site</ref> de l'Office de tourisme (20 avril 2015).<lb/>
+             <lb/>
+              D'Urfé, souvent si précis pourtant, choisit de placer la première rencontre des héros près de ce mystérieux « Mont-Suc »<hi rend="cache"> </hi>
+                  <ref target="note_analyses.html#anonymat">η</ref>. 
+             <lb/>
+             • À une lieue de <ref target="#montbrison">Montbrison</ref>, se trouve ce massif en face duquel il y a le temple de <ref target="repertoire_uz.html#venus">Vénus</ref> où <ref target="personnage_cc.html#celadon">Céladon</ref> se travestit pour déclarer son amour à <ref target="personnage_aa.html#astree">Astrée</ref> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#86_verso">I, 4, 86 verso</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#semire">Semire</ref> tombe amoureux de la Bergère dans le même lieu et en même temps (<ref target="../_roman/reference/21_1/21_1_livre_5.html#145_verso">I, 5, 145 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont-Verdun</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#montverdun">I</ref>, <ref target="#2_montverdun">II</ref>, <ref target="#3_montverdun">III</ref>, <ref target="#4_montverdun">IV</ref>
+             
+             Écrit aussi <hi rend="italics">Mont-verdun</hi>. Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> signale que sur le rocher de Montverdun se trouve un prieuré dont trois frères d'Honoré d'Urfé ont été les prieurs, Anne<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#anne">η</ref>, Christophe<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#christophe">η</ref> et Antoine<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#antoine">η</ref> (p. 198). En fait, Christophe n'a jamais été prieur puisqu'il s'est marié deux fois avant de mourir jeune encore au service du duc de Savoie<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#altesse">η</ref>.<lb/>
+             <lb/>
+             • Le Berger <ref target="personnage_dd.html#damon_b">Damon</ref> est originaire de ce lieu (<ref target="../_roman/reference/21_1/21_1_livre_11.html#369_verso">I, 11, 369 verso</ref>) dont le nom désigne aussi bien une élévation (<ref target="../_roman/reference/21_1/21_1_livre_2.html#29_recto">I, 2, 29 recto</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_5.html#139_recto">I, 5, 139 recto</ref>) que la plaine qui l'entoure (<ref target="../_roman/reference/21_1/21_1_livre_2.html#32_verso">I, 2, 32 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_5.html#140_verso">I, 5, 140 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont-Verdun</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#montverdun">I</ref>, <ref target="#2_montverdun">II</ref>, <ref target="#3_montverdun">III</ref>, <ref target="#4_montverdun">IV</ref>
+             
+             Écrit aussi <hi rend="italics">Mont-verdun</hi>. <ref target="bibliographie.html#la_mure">La Mure</ref> affirme que c'est le point le plus haut du <ref target="repertoire_ff.html#2_forez">Forez</ref> (II, p. 224). <lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#2_celidee">Célidée</ref> et ses compagnons habitent un hameau du côté de <ref target="#2_montverdun">Montverdun</ref> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#30">II, 1, 30</ref>). Un gros orme se trouve dans la plaine (<ref target="../_roman/reference/21_2/21_2_livre_1.html#56">II, 1, 56</ref>). <ref target="personnage_pp.html#2_palemon">Palémon</ref> et <ref target="personnage_dd.html#2_doris">Doris</ref> demeurent dans les environs puisqu'ils vont du côté de Montverdun quand ils quittent les hameaux (<ref target="../_roman/reference/21_2/21_2_livre_9.html#598">II, 9, 598</ref>).<lb/>
+             <lb/>
+             • On voit Montverdun de la demeure d'<ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#630">II, 10, 630</ref>). <lb/>
+             <lb/>
+             • Le rocher de Montverdun est décrit par le romancier avec un grand luxe de détails (<ref target="../_roman/reference/21_2/21_2_livre_8.html#493">II, 8, 493</ref>). Son  nom est une corruption de <hi rend="italics">Mont-Vatodun</hi>, demeure des sacrificateurs (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>). Il mesure  plus de quatre cents pas de haut (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>), près de 300 mètres. <lb/>
+             <lb/>
+             • On y trouve un temple dédié depuis le temps de <ref target="repertoire_dd.html#2_druys">Druys</ref> à <ref target="repertoire_tt.html#2_tautates">Tautatès</ref>, <ref target="repertoire_hh.html#2_hesus">Hésus</ref>, <ref target="repertoire_tt.html#2_taramis">Taramis</ref> et <ref target="repertoire_bb.html#2_belenus">Bélénus</ref>. Les druides y font leurs assemblées (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>), et  une druide y rend les oracles (<ref target="../_roman/reference/21_2/21_2_livre_8.html#493">II, 8, 493</ref>). Ce temple est un assemblage de grottes dotées de trois ouvertures. <lb/>
+             <lb/>
+             • Le prieuré de Montverdun, classé monument historique, a son <ref target="http://prieure-montverdun.monsite.orange.fr/">site</ref> (30 septembre 2010).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont-Verdun</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#montverdun">I</ref>, <ref target="#2_montverdun">II</ref>, <ref target="#3_montverdun">III</ref>, <ref target="#4_montverdun">IV</ref>
+             
+             Le site <ref target="http://www.cartesfrance.fr/carte-france-ville/42150_Montverdun.html">CartesFrance</ref> (14 janvier 2013) donne les renseignements suivants : Montverdun est à 368 mètres d'altitude environ. Aujourd'hui, à vol d'oiseau, le village est à 3.62 km de Marcilly-le-Châtel (demeure des nymphes), à 4.24 km de Marcoux (demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref>), et à 2.73 km de Saint-Étienne-le-Molard (hameaux des bergers).<lb/>
+             <lb/>
+             •  Montverdun, vu de chez <ref target="personnage_aa.html#3_adamas">Adamas</ref>, ressemble à « un écueil dans la mer » (<ref target="../_roman/reference/21_3/21_3_livre_5.html#172_verso">III, 5, 172 verso</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_gg.html#3_galathee">Galathée</ref> se rend à Montverdun pour consulter l'oracle (<ref target="../_roman/reference/21_3/21_3_livre_6.html#227_recto">III, 6, 227 recto</ref>). Elle rencontre <ref target="personnage_dd.html#3_damon_a">Damon</ref> et l'emmène (<ref target="../_roman/reference/21_3/21_3_livre_6.html#227_verso">III, 6, 227 verso</ref>). <ref target="personnage_cc.html#3_cleontine">Cléontine</ref> les reçoit dans le temple (<ref target="../_roman/reference/21_3/21_3_livre_6.html#228_verso">III, 6, 228 verso</ref>). <ref target="personnage_gg.html#3_galathee">Galathée</ref> fait informer <ref target="personnage_aa.html#3_amasis">Amasis</ref>, et celle-ci  vient retrouver sa fille (<ref target="../_roman/reference/21_3/21_3_livre_6.html#260_verso">III, 6, 260 verso</ref>). <ref target="personnage_gg.html#3_galathee">Galathée</ref> va rester à Montverdun pour être près des bergères (<ref target="../_roman/reference/21_3/21_3_livre_6.html#261_verso">III, 6, 261 verso</ref>).<lb/>
+             <lb/>
+             • Deux attaques ont lieu dans la plaine de Montverdun, celle d'un chevalier misogyne et celle d'un lion : <lb/>
+             <ref target="personnage_aa.html#3_argantee">Argantée</ref>, cousin de <ref target="personnage_pp.html#3_polemas">Polémas</ref>, est vaincu par <ref target="personnage_dd.html#3_damon_a">Damon</ref>, qui réussit aussi à éloigner  le lion de la fontaine de la Vérité d'amour<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_fontaine_verite">η</ref>. La bête  qu'on croyait enchantée s'approche dangereusement des passants (<ref target="../_roman/reference/21_3/21_3_livre_9.html#369_recto">III, 9, 369 recto</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_adamas">Adamas</ref> dit à <ref target="personnage_ll.html#3_lerindas">Lérindas</ref>, l'envoyé de <ref target="personnage_gg.html#3_galathee">Galathée</ref>, qu'il va lui amener les bergères à Montverdun (<ref target="../_roman/reference/21_3/21_3_livre_9.html#369_verso">III, 9, 369 verso</ref>). <lb/>             <ref target="personnage_ll.html#3_lerindas">Lérindas</ref> transmet ce message à la nymphe qui est toujours à Montverdun (<ref target="../_roman/reference/21_3/21_3_livre_10.html#445_verso">III, 10, 445 verso</ref>). <lb/>
+             <lb/>
+             • L'oracle de Montverdun a rendu la paix à <ref target="personnage_dd.html#3_damon_a">Damon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#459_verso">III, 11, 459 verso</ref>). Le chevalier retrouve <ref target="personnage_mm.html#3_madonthe">Madonthe</ref>, et lui répète l'oracle (<ref target="../_roman/reference/21_3/21_3_livre_12.html#503_verso">III, 12, 503 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Mont-Verdun</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#montverdun">I</ref>, <ref target="#2_montverdun">II</ref>, <ref target="#3_montverdun">III</ref>, <ref target="#4_montverdun">IV</ref>
+             
+             Écrit aussi <hi rend="italic">Monverdun</hi>.<lb/>
+             <lb/>
+             • Le temple de Montverdun est appelé « l'Oracle de Montverdun ». Des <ref target="glossaire_uz.html#vacie">vacies</ref> y vivent (<ref target="../_roman/reference/24_4/24_4_livre_3.html#587">IV, 3, 587</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> traverse le <ref target="repertoire_ll.html#4_lignon">Lignon</ref> pour se rendre à Montverdun consulter l'oracle (<ref target="../_roman/reference/24_4/24_4_livre_3.html#591">IV, 3, 591</ref>).<lb/>
+             <lb/>
+             • Désespéré par l'oracle qu'il a reçu, <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> quitte Montverdun sans dire un seul mot (<ref target="../_roman/reference/24_4/24_4_livre_3.html#593">IV, 3, 593</ref>).
+             Il rapporte ce qui s'est passé à <ref target="personnage_pp.html#4_phillis">Phillis</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#614">IV, 3, 614</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Mores</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_mores">II</ref>, <ref target="#4_mores">IV</ref>
+             
+             Habitants de la <ref target="#2_mauritanie">Mauritanie</ref>. Voir dans ce <ref target="http://amenhotep-amenhotep.blogspot.ca/2010/12/la-tapisserie-aux-maures.html">site</ref> (20 mai 2015) l'étrange « Tapisserie aux Maures et aux hommes sauvages », bien que d'Urfé ne la connaisse probablement pas.<lb/>
+             <lb/>
+             • Des Mores se trouvent dans les armées de <ref target="personnage_gg.html#2_genseric">Genséric</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#861">II, 12, 861</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_histoire">
+                Mores</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_mores">II</ref>, <ref target="#4_mores">IV</ref>
+             
+             • Honoré d'Urfé pense-t-il comme <ref target="personnage_hh.html#4_hylas">Hylas</ref> que les Mores, parce qu'ils sont noirs, préfèrent les  femmes noires (<ref target="../_roman/reference/24_4/24_4_livre_1.html#102">IV, 1, 102</ref>) ? <lb/>
+             <lb/>
+             Le More de la première partie, le <ref target="personnage_cc.html#chevalier_barbare">Chevalier barbare</ref>, est séduit par <ref target="personnage_dd.html#diane">Diane</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#188_verso">I, 6, 188 verso</ref>).
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Morphee</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#morphee">I</ref>
+             
+             Mythologie. Selon les mythologues, ce fils du Sommeil prend diverses formes pour se montrer aux mortels dans leurs rêves.<lb/>
+             <lb/>
+             • <ref target="personnage_mm.html#mandrague">Mandrague</ref>, la magicienne, a réussi à peindre les « démons » de ce dieu entourant la Bergère <ref target="personnage_ff.html#fortune">Fortune</ref> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#377_recto">I, 11, 377 recto</ref>) et lui envoyant des songes.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

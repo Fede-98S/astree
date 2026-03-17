@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Glossaire B - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><ref target="glossaire.html">
+              <hi rend="bold">GLOSSAIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="glossaire_aa.html">A</ref><ref target="glossaire_bb.html">B</ref><ref target="glossaire_cc.html">C</ref><ref target="glossaire_dd.html">D</ref><ref target="glossaire_ee.html">E</ref><lb/><ref target="glossaire_ff.html">F</ref><ref target="glossaire_gg.html">G</ref><ref target="glossaire_hh.html">H</ref><ref target="glossaire_ik.html">I</ref><ref target="glossaire_ik.html#j">J</ref><lb/><ref target="glossaire_ik.html#k">K</ref><ref target="glossaire_ll.html">L</ref><ref target="glossaire_mm.html">M</ref><ref target="glossaire_no.html">N</ref><ref target="glossaire_no.html#o">O</ref><lb/><ref target="glossaire_pp.html">P</ref><ref target="glossaire_qr.html">Q</ref><ref target="glossaire_qr.html#r">R</ref><ref target="glossaire_ss.html">S</ref><ref target="glossaire_tt.html">T</ref><lb/><ref target="glossaire_uz.html">U</ref><ref target="glossaire_uz.html#v">V</ref><ref target="glossaire_uz.html#w">W</ref><ref target="glossaire_uz.html#x">X</ref><ref target="glossaire_uz.html#y">Y</ref><ref target="glossaire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>GLOSSAIRE - B</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Baailler</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il se mit à baailler, et rendit l'esprit</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#496_verso">III, 12, 496 verso</ref>). « Baailler, avoir la bouche ouverte » (<ref target="bibliographie.html#la_curne">La Curne</ref>). L'édition de 1619 donne <hi rend="italic">bailler</hi> que l'édition de 1621 remplace par la forme archaïque. « On écrivoit autrefois Baailler » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bachelier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il mettoit les jeunes Bacheliers et Escuyers au rang des Chevaliers</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#520_verso">III, 12, 520 verso</ref>). « On a aussi appellé Bacheliers, les jeunes Escuyers ou Chevaliers qui faisoient leur premiere campagne. Dans les Coustumes d'Anjou, du Maine &amp; autres, on appelle Bacheliers, les Seigneurs qui ont Chasteaux, Forteresses, ou maisons sorties de Comtés, Vicomtés, Baronnies ou Chastelenies, &amp; qui ont pareille Justice » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bacque</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Petites bacques ou fruicts</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#163">IV, 2, 163</ref>).<lb/>
+          « Baie, grain » (<ref target="bibliographie.html#huguet">Huguet</ref>). « Bacques, subst. fém. plur. Ce mot est employé dans un sens obscène par Cretin, p. 156 » (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Badinage</cell>
+              <cell colspan="1" rowspan="1">« Sottise, niaiserie » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+            Dans <hi rend="italics">L'Astrée</hi> le substantif a plutôt le sens que lui donne <ref target="bibliographie.html#furetiere">Furetière</ref> : « Petite folastrerie, divertissement peu serieux, jeu d'enfants ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bague (course de)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Des courses de bagues, des joüstes et des tournois</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#62_verso">III, 3, 62 verso</ref>). « COURSE DE BAGUE, est un exercice de Manege que font les Gentilshommes pour monstrer leur adresse, lors qu'avec une lance en courant à toute bride ils emportent une bague suspenduë au milieu de la carriere à une potence » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bahour</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Quant aux tournois et bahours de nos Chevaliers</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#59">IV, 1, 59</ref>).<lb/>
+            « Joute, tournoi »          (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>, Article <hi rend="italic">Behort</hi>).
+              « On trouve aussi BIHOURT, BOHOURT,
+          BOUHOURT, BEHOURD et BEHOURDIS » (<ref target="bibliographie.html#larousse">
+                  <hi rend="italic">Larousse du XIX<hi rend="supn">e</hi>
+                  </hi>
+                </ref>). <lb/>
+          Au cœur du « Statut de l'ordre des Chevaliers errans », Jacques Gohory<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#gohory">η</ref> accorde de nombreuses pages à la description détaillée des règles qui régissent les tournois (<hi rend="italic">
+                  <ref target="bibliographie.html#amadis">Amadis</ref>
+                </hi>, XIII, ch. 57). Ces développements ne figurent pas dans l'original espagnol (<ref target="bibliographie.html#bowen">Bowen</ref>, p. 264).<lb/>
+          <lb/>
+          • À la suite des romanciers, les lecteurs oublient que l'Église condamne cette activité : « Celuy qui exerce le tournoy, et autres jeux et spectacles où il y a danger de mort il peche » (p. 116). Les spectateurs même seraient excommuniés.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bailler</cell>
+              <cell colspan="1" rowspan="1">« Donner, mettre en main » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+            « Ce verbe <hi rend="italics">bailler</hi>, a vieilli, &amp; l'on ne s'en sert plus en escrivant que fort rarement » (<ref target="bibliographie.html#vaugelas">Vaugelas</ref>, p. 349). <ref target="bibliographie.html#patru">Patru</ref> note que Malherbe, « presque partout »,  préfère <hi rend="italic">bailler</hi> à <hi rend="italic">donner</hi> (II, p. 655).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Baiser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Elle alla baiser <ref target="personnage_aa.html#3_astree">Astree</ref> et <ref target="personnage_dd.html#3_diane">Diane</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#429_recto">III, 10, 429 recto</ref>). « Donner un témoignage d'amitié, d'amour, de respect, d'humilité, par le même attouchement de la bouche. Les peres &amp; meres doivent baiser leurs enfants au front. les amis se baisent à la jouë, &amp; les amants à la bouche » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+            - <hi rend="italic">Baisant la main, et luy prenant la sienne</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#498_recto">III, 12, 498 recto</ref>). « Baiser la main, signifie, Porter sa main par respect près de sa bouche, quand on veut présenter ou recevoir quelque chose, ou quand on veut saluer quelqu'un » (<ref target="bibliographie.html#academie">
+                  <hi rend="italics">Dictionnaire de l'Académie, </hi>
+                </ref>1694)</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Baiser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- L'une la baisoit à la bouche</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#74">IV, 1, 74</ref>).<lb/>
+Donner un baiser.  <ref target="bibliographie.html#richelet">Richelet</ref> donne dès 1680 : « Avoir la dernière faveur d'une Dame ». <lb/>
+- <hi rend="italic">Apres vous avoir baisé les mains, de ceste grace</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#355">IV, 2, 355</ref>).<lb/>
+« Le Baise-main est fort commun en France, non pas de faict, mais de parole. Car, quand on prend congé de quelcun, c'est l'ordinaire de dire Je vous baise la main, ou, Je baise la main de vostre seigneurie, pour sentir doublement son italianisme [...] J'oublies à vous dire qu'on a appliqué ces termes de Baiser la main encores à autre usage, de sorte qu'on dit communement, Je vous baise la main, pour dire, Je vous remercie...H. ESTIENNE, Dial. du lang. franç. ital., II, 108-109. »</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bal</cell>
+              <cell colspan="1" rowspan="1">« Assemblée pour danser » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+            « Danse » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+            •          Ce substantif revient huit fois dans la première partie ; il a trois fois le sens que lui donne Huguet (<ref target="../_roman/reference/21_1/21_1_livre_9.html#269_verso">I, 9, 269 verso</ref> et <ref target="../_roman/reference/21_1/21_1_livre_9.html#274_recto">274 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bal</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> Il revient deux fois dans la deuxième partie (<ref target="../_roman/reference/21_2/21_2_livre_11.html#686">II, 11, 686 ;</ref> <ref target="../_roman/reference/21_2/21_2_livre_11.html#689">689</ref>) avec le sens que donne <ref target="bibliographie.html#furetiere">Furetière</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bal</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- Dans la troisième partie,  le <hi rend="italic">bal</hi> moderne et le <hi rend="italic">bal</hi> archaïque sont rapprochés : <hi rend="italic">bal</hi> signifie <hi rend="italic">assemblée</hi> (<hi rend="italic">Le Roy faisoit <ref target="glossaire_tt.html#tenir">tenir</ref> le bal</hi>, <ref target="../_roman/reference/21_3/21_3_livre_3.html#63_verso">III, 3, 63 verso</ref>) aussi bien que <hi rend="italic">danse</hi> ou <hi rend="italic">ballet</hi> (<hi rend="italic">Ces Egyptiennes eurent finy leur bal</hi>, <ref target="../_roman/reference/21_3/21_3_livre_10.html#426_recto">III, 10, 426 recto</ref>).<lb/>
+            - Quand des personnages dansent <hi rend="italic">le grand bal</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#62_verso">III, 3, 62 verso</ref> et <ref target="../_roman/reference/21_3/21_3_livre_7.html#285_verso">III, 7, 285 verso</ref>), il s'agit de la pavane. Voir Grand bal<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_grand_bal">η</ref>.<lb/>
+            •             « Bal est signalé comme italianisme.
+          — Il se faudret bien garder d'user en la cour de ce mot Danse, ni de Danser, ni de Danseur. — Pourquoy ? — Pource qu'il y a long temps que tout cela a esté banni, et qu'on a fait venir d'Italie Bal et Baller et Balladin. H. ESTIENNE, Dial. du lang. franç. ital., I, 269 » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Balancer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ayant bien et meurement balancé, et consideré le tout</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#409_verso">III, 10, 409 verso</ref>). « Se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, &amp; qui le font incliner de part &amp; d'autre » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bale</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il replia et refit ses bales</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#320_verso">III, 7, 320 verso</ref>). Voir <ref target="#balle">Balle</ref>. La graphie <hi rend="italic">bale</hi> se trouve dans <ref target="bibliographie.html#huguet">Huguet</ref> et <ref target="bibliographie.html#richelet">Richelet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Balle</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Des marchandises ou meubles qu'on veut transporter au loin, &amp; qu'on empaquette dans de la toile, aprés les avoir bien garnies de paille pour empêcher qu'elles ne se mouillent, ou qu'elles ne se brisent » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Balotte</cell>
+              <cell colspan="1" rowspan="1">« Petite balle » (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> est plus précis : « Petite balle dont on se sert pour donner les suffrages, ou pour tirer au sort ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Balustre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ceste fenestre où il y a des balustres qui se jettent un peu en dehors</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#80_verso">III, 3, 80 verso</ref>). « Petite colonne qu'on met sous des apuis pour faire des clôtures » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Banc</cell>
+              <cell colspan="1" rowspan="1">« Un lieu dans la mer où il n'y a pas assez d'eau pour porter un vaisseau » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Ce mot n'est pas dans   <ref target="bibliographie.html#huguet">Huguet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bandé</cell>
+              <cell colspan="1" rowspan="1">« Tendu.
+            Se raidir, faire effort » (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> aussi donne cette acception au verbe <hi rend="italic">bander</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bannir (se)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« On dit aussi, Se bannir de la Cour, se bannir du monde, pour dire, s'en retirer » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Barde</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Descendants de Bardus, fils de <ref target="repertoire_dd.html#2_druys">Druys</ref> (<ref target="bibliographie.html#dubois">Dubois</ref>, p. 50).<lb/>
+            - « Quant aux Bardes, ils chantoient au son de la lyre, ou autre instrument de Musique, les faits des vaillants hommes mis en vers Heroïques. Et donnerent telle authorité à la Poësie qu'aucuns Poëtes se mettans entre deux armees, appaisèrent maintefois la fureur des gens-d'armes, prest à choquer » (<ref target="bibliographie.html#fauchetr">Fauchet</ref>, f° 6 recto). <lb/>
+            - « BARDES, parmi les anciens Gaulois étoient les Chantres &amp; Poëtes, ou faiseurs de Romans, qui chantoient les loüanges des Heros. Bochart dit que mot vient de l'Hebreu <hi rend="italics">parat</hi>, qui signifie chanter » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+            - La musique « prit son commencement des Bardes oreillez, / Qui les premiers ont joint les vers à Musique » (<ref target="bibliographie.html#le_fevre">Le Fèvre de la Boderie</ref>, Cercle IV, vers 1778-1779, p. 507). <lb/>
+            - « Nos vieils poëtes Gaulois appelez Bards chantoyent au son des insturuments les faits des hommes illustres : dont (possible) vient qu’en Bretagne ils nomment Bards, ceux que nous appellons Menestriers » (<ref target="bibliographie.html#fauchet_langue">Fauchet</ref>, p. 50).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bardiac</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le Bardiac, qui est une certaine sorte de vestement que les Lingones ont accoustumé de porter, luy estoit si juste qu'il sembloit avoir esté faict sur son corps</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#540_recto">III, 12, 540 recto</ref>). <lb/>
+            « Subst. masc. Habit saintongeois. - Habit des anciens bardes »  (<ref target="bibliographie.html#la_curne">La Curne</ref>). <ref target="bibliographie.html#fauchet">Fauchet</ref> prête un <hi rend="italic">bardiac</hi> aux gens de Saintonge et à ceux de Langres. C'est un vêtement « qui leur couvroit et le corps et la teste, appellé Bardocuccul er Bardiac : ressemblant possible à la chape que les religieux de S. Benoist appellent encores Coule » (p. 11). Notons que <hi rend="italic">Chape</hi> et <hi rend="italic">Coule</hi> sont des vêtements amples alors que le <hi rend="italic">Bardiac</hi> de <hi rend="italic">L'Astrée</hi> est moulant.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Barre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Jetter la Barre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#418_verso">III, 10, 418 verso</ref>).  « Jeter, ruer, ou tirer la barre. Sorte d'exercice. Ce jeu consistoit à jeter une barre de fer, le plus loin que l'on pouvoit »  (<ref target="bibliographie.html#la_curne">La Curne</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Barrière</cell>
+              <cell colspan="1" rowspan="1">« Un petit parc fermé [...], où on fait des combats de taureaux, &amp; où on faisoit des joustes, des tournois, des courses de bague. Les anciens Chevaliers faisoient autrefois plusieurs combats de barriere » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+            • Il y a eu un combat à la barrière en 1603 ; c'est un événement exceptionnel. Honoré d'Urfé peut y avoir assisté. (Voir <ref target="urfe.html">Urfé</ref>)</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:36px;">
+                Bas</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <ref target="../_roman/reference/21_3/21_3_livre_6.html#261_recto">III, 6, 261 recto</ref>. <hi rend="italic">Les bas <ref target="repertoire_aa.html#3_allobroges">Allobroges</ref>
+                </hi> sont au sud, plus près de la mer. « BAS, se dit aussi des pays qui approchent prés de la mer à comparaison de ceux qui sont vers les montagnes, ou vers la source des rivieres. La basse Bretagne. la basse Normandie » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Basse</cell>
+              <cell colspan="1" rowspan="1">Cet adjectif a un sens différent selon le nom qu'il qualifie.<lb/>
+            - Une galerie <hi rend="italics">basse</hi> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#22_verso">I, 2, 22 verso</ref>) est un « passage qui va tout autour d'un chasteau » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+            - La <hi rend="italics">basse</hi> ville (<ref target="../_roman/reference/21_1/21_1_livre_2.html#42_recto">I, 2, 42 recto</ref>) est la partie la plus basse de la ville.<lb/>
+            - Une révérence <hi rend="italics">basse</hi> (<ref target="../_roman/reference/21_1/21_1_livre_12.html#396_verso">I, 12, 396 verso</ref>) est une révérence profonde.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bassecour</cell>
+              <cell colspan="1" rowspan="1">Écrit en un mot ou en deux mots. <lb/>
+                    « Dans un palais, un château, etc., cour où se trouvaient les écuries et d'autres dépendances » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bast</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Selle grossiere qu'on met sur le dos des bestes de somme » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bataille</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Armée, corps de troupe » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bataillon</cell>
+              <cell colspan="1" rowspan="1">« Corps d'Infanterie rangé en bataille » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> aussi donne ce substantif mais sans définition (l'exemple alors vient des <hi rend="italics">Amadis</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Battu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Batue. batuë. Fraié » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Baudrier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">L'escharpe qui luy servoit de baudrier</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref>). « Escharpe de cuir qu'on porte sur l'espaule droite, &amp; qui descend sur le costé gauche, qui sert à tenir l'espée »  (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Beau</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se dit ironiquement. Vous estes [...] un beau discoureur, pour dire, Vous ne dites rien qui vaille » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Beaucoup</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Dire beaucoup sur ce sujet</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#142">IV, 1, 142</ref>).<lb/>
+                  « Employé comme un nom signifie "Quantité de chose" » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Beaucoup (de)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ce qui luy servit de beaucoup, fut que [...]</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#224_verso">III, 6, 224 verso</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> donne « Coucher de beaucoup. Dire beaucoup, faire une affirmation de beaucoup de portée ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Beaucoup meilleur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il est beaucoup meilleur [...] d'avoir le corps imparfait  que l'ame</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#26_recto">III, 1, 26 recto</ref>). La locution est dans <ref target="bibliographie.html#richelet">Richelet</ref> : « Il est beaucoup meilleur de dire ... »  (Article <hi rend="italics">Si</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Behourt</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Tournois et bahours</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#59">IV, 1, 59</ref>). <lb/>
+                    <hi rend="italic">- Tant de tournois et de Behours</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#643">IV, 4, 643</ref>).<lb/>
+                     BEHOURT, « Joute, tournoi », <ref target="bibliographie.html#huguet">Huguet</ref>.
+                    <lb/>
+                    BEHOURD, « Vieux mot qui signifioit une jouste, un choc de lances. Les anciens Romans font souvent mention de behourds &amp; tournois »,  <ref target="bibliographie.html#furetiere">Furetière</ref>. <lb/>
+                    Le <hi rend="italic">
+                  <ref target="bibliographie.html#larousse">LAROUSSE DU XIX<hi rend="supn">e</hi> SIÈCLE</ref>
+                </hi> explique : « BEHOUR s.m. (be-our  — du v. mot <hi rend="italic">behourt</hi>, qui a signifié lance ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Belier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Les Cathapultes, Belliers et Janclides, et autres tels instruments</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#70_recto">III, 3, 70 recto</ref>). « BELIER, est aussi une grosse poutre de bois ferrée par le bout, &amp; qui a quelquefois des pointes en forme de cornes de belier. Les Anciens s'en servoient auparavant l'invention du canon pour battre les murailles d'une ville » (<ref target="bibliographie.html#furetiere">Furetière</ref>). En commentant <ref target="jugemant.html">
+                  <hi rend="italic">L'Amadéide</hi>
+                </ref>, d'Urfé déplore que l'auteur ne présente pas :
+                    « Belliers, Catapultes, Bricolles, &amp; samblables instrumants, necessaires, &amp; qui portent estonnemant au lecteur, &amp; admiration outre que cette recherche de la batterie des anciens est curieuse, &amp; agreable » (p. 154). « BRICOLE, a signifié chez les Anciens, une machine à jetter des pierres » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Belle</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Sçachez les belles que ...</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#712">IV, 4, 712</ref>).<lb/>
+                    Le substantif ne semble pas encore familier.
+                  « BELLE, se dit aussi absolument des Dames bien faites. Ce galant court de belle en belle. il faut avoir toûjours du respect pour les belles » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italic">Beau</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Besoin (de)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Nous nous prevaudrons de leur ayde, si nous en avons de besoing</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#550_recto">III, 12, 550 recto</ref>). <ref target="bibliographie.html#nicot">Nicot</ref> donne : « J'espere qu'on n'en aura point de besoing ». <ref target="bibliographie.html#huguet">Huguet</ref> donne « Estre de besoin. Être nécessaire ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bien</cell>
+              <cell colspan="1" rowspan="1">Cet adverbe a plusieurs sens : <lb/>
+                    - « Mais, mais bien. Non, mais » (<ref target="bibliographie.html#huguet">Huguet</ref>). Par exemple <ref target="../_roman/reference/21_1/21_1_livre_10.html#335_recto">I, 10, 335 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_12.html#387_recto">I, 12, 387 recto</ref>.<lb/>
+                    - « Bien, bien » (<ref target="../_roman/reference/21_1/21_1_livre_9.html#290_recto">I, 9, 290 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_9.html#299_verso">I, 9, 299 verso</ref>) :  « On dit aussi, <hi rend="italics">bien bien</hi>, quand on veut témoigner quelque approbation, ou faire quelque menace » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+                    - « Bien s'en alla-t-il » (<ref target="../_roman/reference/21_1/21_1_livre_9.html#301_recto">I, 9, 301 recto</ref>). « Quelquefois il ne s'emploie que par redondance. &amp; pour donner plus de force à ce qu'on dit » (<hi rend="italic">
+                  <ref target="bibliographie.html#academie">Dictionnaire de l'Académie</ref>
+                </hi>, 1762). « L'adverbe <hi rend="italics">bien</hi>, au commencement de la periode, sent son ancienne façon d'escrire, qui aujourd'huy n'est plus guere en usage » (<ref target="bibliographie.html#vaugelas">Vaugelas</ref> p. 525). <lb/>
+                    <lb/>
+                  Voir aussi <ref target="glossaire_no.html#ouy_bien">Ouy bien</ref> et <ref target="glossaire_no.html#or_bien">or bien</ref>. <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bien</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- <hi rend="italics">Bien luy sembla-t-il</hi> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#525">II, 8, 525</ref>). <lb/>
+                    <ref target="bibliographie.html#littre">Littré</ref> est plus tolérant que Vaugelas : « <hi rend="italics">Bien</hi>, dans le style élevé, se met parfois en tête de la phrase, et alors le sujet se place après le verbe. Cette tournure a un peu vieilli ; cependant elle est encore usitée, et, quand on l'emploie bien, elle fait bon effet ». <lb/>
+                    - <hi rend="italic">Et bien</hi> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#97">II, 2, 97</ref>)  « <hi rend="italic">Et bien. Well then, agreed, I will then ; also (interrogatively) Will you [...]</hi> » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bien</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">L'épizeuxe (<ref target="bibliographie.html#dupriez">Dupriez</ref>, p. 388) revient : <hi rend="italic">Et bien, bien,  repliqua <ref target="personnage_aa.html#3_adamas">Adamas</ref>, je voy bien que vostre mal n'est pas encores en estat </hi>(<ref target="../_roman/reference/21_3/21_3_livre_5.html#185_verso">III, 5, 185 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bien</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Je dis bien que j'ay esté trompee</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#576">IV, 3, 576</ref>).<lb/>
+                  « Bien. Il s'employe aussi pour Veritablement, ou, à la verité » (<ref target="bibliographie.html#academie">
+                  <hi rend="italic">Dictionnaire de l'Académie</hi>
+                </ref>, 1694).<lb/>
+                  - <hi rend="italic">Croyez vous bien qu'Ardilan soit veritable</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#780">IV, 4, 780</ref>).<lb/>
+                  « Adv. de certitude concessive » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bienheurer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Dieu commence à bien-heurer nostre dessein</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#325_recto">III, 7, 325 recto</ref>). « Bénir, proclamer bon, heureux »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bien-heureux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le chesne bien-heureux, qui porte le Guy sacré</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#172_verso">III, 5, 172 verso</ref>). « BIENHEUREUX, se dit en Morale de ceux qui ont quelque bien, quelque avantage » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bienséance</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Sa taille, son adresse, sa bien-seance en toutes choses</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#61_verso">III, 3, 61 verso</ref>). <hi rend="italic">Sa beauté et sa bien-seance en tout ce qu'il faisoit</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#461_verso">III, 11, 461 verso</ref>). La bienséance est une qualité attribuée aux  chevaliers dans <hi rend="italic">L'Astrée</hi>. « <hi rend="italic">A comelinesse, becomming, seemelinesse, agreeablenesse</hi> » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>). « Qui se trouve à sa juste place » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Biez</cell>
+              <cell colspan="1" rowspan="1">« Canal qui renferme et conduit des eaux dans quelque élevation pour les faire tomber sur la rouë d'un moulin » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bijarre</cell>
+              <cell colspan="1" rowspan="1">ou <hi rend="italic">Bigearre</hi>. « Capricieux, inconstant, déraisonnable »                    (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bijarre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Elle s'estoit tellement avantagée par ce bijarre habit</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#79_verso">III, 3, 79 verso</ref>). <hi rend="italic">Bijarre</hi> est dans <ref target="bibliographie.html#huguet">Huguet</ref>. Voir <ref target="evolution.html#bizarre">Évolution</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Blesseur</cell>
+              <cell colspan="1" rowspan="1">« Celui qui blesse »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+                    • Ce substantif n'est pas dans <ref target="bibliographie.html#furetiere">Furetière</ref>. Comme <hi rend="italics">déceveur </hi>et<hi rend="italics"> dévoreur</hi>, <hi rend="italics">blesseur</hi> est un archaïsme et non un néologisme précieux. Il est remplacé dans l'édition de 1621, mais il ne disparaît pas dans <ref target="bibliographie.html#sireine">
+                  <hi rend="italic"> Le Sireine</hi>
+                </ref> (p. 125).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bois</cell>
+              <cell colspan="1" rowspan="1">Dans  la première partie, le  bois est une partie de l'épieu (<ref target="../_roman/reference/21_1/21_1_livre_11.html#376_verso">I, 11, 376 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bois</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">  Dans la deuxième partie, le bois est une lance.<lb/>                    BOIS « Se dit aussi de la lance d'un Gendarme » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bois</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme"> C'est une lance dans la troisième partie aussi.<lb/>
+                      <hi rend="italic">L'épée ne sembloit estre que le reste des bois</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bon</cell>
+              <cell colspan="1" rowspan="1">- <hi rend="italics">C'est le bon, que suivant l'humeur des Amants</hi> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#83_verso">I, 4, 83 verso</ref>) : « Bon, s.m. Ce qui est de plus-avantageux, ce qui  est de meilleur » (<ref target="bibliographie.html#richelet">Richelet</ref>). <lb/>
+                    - <hi rend="italics">Il est</hi> <hi rend="italics">bon</hi> <hi rend="italics">de vous</hi> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#325_verso">I, 10, 325 verso</ref>) : « Bon, bonne. Ce mot se dit en raillant, &amp; il veut dire  qui n'est pas solide,  foible, ridicule, plaisant » (<ref target="bibliographie.html#richelet">Richelet</ref>). <lb/>
+                    - <hi rend="italics">Il est bon là</hi> (<ref target="../_roman/reference/21_1/21_1_livre_7.html#197_recto">I, 7, 197 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_8.html#223_recto">I, 8, 223 recto</ref>). « Sérieusement »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>). Le <ref target="bibliographie.html#academie">
+                  <hi rend="italics">Dictionnaire de l'Académie</hi>
+                </ref> (1694),  ajoute :          « On dit aussi [...] <hi rend="italics">Il         est bon là, pour dire</hi>, Serieusement, ou ironiquement, qu'on apprend         quelque chose de ce qui vient d'estre dit, ou que l'on s'en mocque ». <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">- </hi> Bon homme, Bonne femme. « <hi rend="italics">A title commonly bestowed on an old man, or woman in reverence of their age ; whereupon some will merily answer to such as thinke to grace them with that title, Je ne vas pas encores au baston</hi> » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>). <lb/>
+                  - <hi rend="italic">Bonne compagnie</hi>.  Grande compagnie. « Ce Prince est entré dans les terres de son ennemi avec bonne compagnie, c'est à dire, avec une grande armée » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- <hi rend="italic">Bonne maison</hi> </hi>(<ref target="../_roman/reference/21_3/21_3_livre_3.html#66_verso">III, 3, 66 verso</ref>)<hi rend="italic">. </hi>Maison accueillante.<hi rend="italic"> « On dit un bon logis, en parlant d'une hostelerie où on est bien traitté » </hi>(<ref target="bibliographie.html#furetiere">Furetière</ref>). « <hi rend="italic">En bonne maison l'on a tost appresté »</hi> (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>).<lb/>
+                    - <hi rend="italic">Tous ces discours sont bons</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#91_recto">III, 3, 91 recto</ref>). Bon. « Ce mot se dit en raillant, et il veut dire qui n'est pas solide, foible, ridicule, plaisant » (<ref target="bibliographie.html#richelet">Richelet</ref>).<lb/>
+                  - <hi rend="italic">Bonne mere </hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#108_recto">III, 3, 108 recto</ref>). « On dit dans le discours familier, Bon homme, bonne femme &amp; bonnes gens, pour signifier Un homme &amp; une femme qui sont déjà dans un âge avancé » (<ref target="bibliographie.html#academie">
+                  <hi rend="italic">Dictionnaire de l'Académie</hi>
+                </ref>, 1762).<lb/>
+ - <hi rend="italic">Sa bonne amie</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#139_recto">III, 4, 139 recto</ref>). « Celle qui est souvant avec une autre fille ou femme [...] est sa bonne amie » (<ref target="bibliographie.html#richelet">Richelet</ref>, Article <hi rend="italic">Compagne</hi>).
+                    Il s'agit de <ref target="personnage_ll.html#3_laonice">Laonice</ref>, une femme qui se prétend l'amie d'un homme dans <hi rend="italic">L'Astrée</hi>.<lb/>
+- <hi rend="italic">Avoir l'esprit fort bon</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#480_verso">III, 11, 480 verso</ref>). « BON. On le dit aussi de l'habileté. C'est une bonne teste, un bon sens, un bon esprit » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italic">Bon</hi>). « Ingenieux » (<ref target="bibliographie.html#estienne">Estienne</ref>, Article <hi rend="italic">Ingenieux</hi>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">La bonne amie de <ref target="personnage_ss.html#4_silvandre">Sylvandre</ref>
+                </hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#544">IV, 3, 544</ref>). Remarque ironique, car il s'agit de <ref target="personnage_ll.html#4_laonice">Laonice</ref>, la pire ennemie du jeune homme.<lb/>
+                  - <hi rend="italic">Le bon office que je leur ay rendu</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#551">IV, 3, 551</ref>), dit <ref target="personnage_ll.html#4_laonice">Laonice</ref>  décrivant ses néfastes mensonges.<lb/>
+                  « Et ironiquement on dit, Vous avez bonne grace à faire cela, pour dire tout le contraire » (<ref target="bibliographie.html#academie">
+                  <hi rend="italic">Dictionnaire de l'Académie</hi>
+                </ref>, 1594).<lb/>
+                  Plus loin, <ref target="personnage_pp.html#4_phillis">Phillis</ref> reprend ce <hi rend="italic">bon office</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#577">IV, 3, 577</ref>) pour décrire le service rendu involontairement par <ref target="personnage_ll.html#4_laonice">Laonice</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bonasse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Ce que nous estimons des tempestes [...] est la plus grande bonasse</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#442">IV, 3, 442</ref>).<lb/>
+                  <ref target="bibliographie.html#huguet">Huguet</ref> signale la graphie <hi rend="italic">Bonasse</hi>. Aujourd'hui, on distingue  la <hi rend="italic">bonace</hi> maritime du caractère <hi rend="italic">bonasse</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bonde</cell>
+              <cell colspan="1" rowspan="1">« Piece de bois qui sert à boucher la rigole [...] On dit figurément, <hi rend="italics">Lascher la bonde à ses soûpirs, à ses larmes, et à ses passions</hi>, pour dire, les laisser couler, ou agir en pleine liberté » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bonde</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Sortez à pleine bonde</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#415">IV, 3, 415</ref>). Librement.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bonheur</cell>
+              <cell colspan="1" rowspan="1">Bon-heur. « Heur. Chance favorable »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>). Voir <ref target="glossaire_hh.html#heur">Heur</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bonne</cell>
+              <cell colspan="1" rowspan="1">- <hi rend="italics">Bonne ville</hi> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#255_verso">I, 8, 255 verso</ref>) : « On dit aussi, que la ville est <hi rend="italics">bonne</hi>, quand on veut donner un repas impreveu à un survenant » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+                    - <hi rend="italics">Bonne maison</hi> (<ref target="../_roman/reference/21_1/21_1_livre_12.html#382_verso">I, 12, 382 verso</ref>) : « De famille noble »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bonnement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Vraiment »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+                    - « Il marque quelquefois de l'incertitude » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bouche</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Dire de bouche, parler de bouche, parler bouche à bouche, pour dire, Parler à la personne même à qui on veut faire sçavoir quelque chose, sans la luy expliquer par message, ou par lettres » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bouger</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">-  <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> [...] n'estoit bougee de la cabanne</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#388">IV, 3, 388</ref>).<lb/>
+                    <ref target="bibliographie.html#huguet">Huguet</ref> conjugue <hi rend="italic">Bouger</hi> avec l'auxiliaire <hi rend="italic">Être</hi>.<lb/>
+                    - <hi rend="italic">Sans se bouger</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#476">IV, 3, 476</ref>).<lb/>
+La forme pronominale est dans <ref target="bibliographie.html#huguet">Huguet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bouillon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je detrousseray ces boüillons et ces plis</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#467_recto">III, 11, 467 recto</ref>). « On le dit encore des estoffes qui sortent avec enflure à travers les bandes &amp; ouvertures d'un habit » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <ref target="bibliographie.html#richelet">Richelet</ref> note que ce « ruban enjolivé pour mettre au bas des hauts de chausse [...] est hors de mode ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Boutique</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Venuë de la mesme boutique</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#151_verso">III, 4, 151 verso</ref>). « On dit prov. et fig. que Cela vient de la boutique d'un tel, pour dire, Cela est de son invention » (<ref target="bibliographie.html#academie_94">
+                  <hi rend="italic">Dictionnaire de l'Académie</hi>
+                </ref>, 1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Brandon</cell>
+              <cell colspan="1" rowspan="1">« Branche parasite »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+                    Dans <hi rend="italics">L'Astrée </hi> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#365_verso">I, 11, 365 verso</ref>), il s'agit du <hi rend="italics">brandon</hi> que décrit <ref target="bibliographie.html#furetiere">Furetière</ref> : « Se dit figurément &amp; poëtiquement, des feux celestes, &amp; du flambeau que porte l'Amour ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Branle</cell>
+              <cell colspan="1" rowspan="1">- <ref target="../_roman/reference/21_1/21_1_livre_5.html#147_recto">I, 5, 147 recto</ref>. « Defaut de fermeté ou d'arrest, qui fait qu'une chose s'agite en deçà &amp; en delà » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+                    - <ref target="../_roman/reference/21_1/21_1_livre_4.html#87_verso">I, 4, 87 verso</ref>. Le branle est aussi une danse.<lb/>
+                    <lb/>
+                    Branle simple :
+ <media url="../music/branle_simple.mp3" rend="audio" mimeType="audio/mpeg"/>
+                    <lb/>
+                <lb/>
+                    Branle gai :    
+                    <media url="../music/branle_gai.mp3" rend="audio" mimeType="audio/mpeg"/>
+                  <lb/>
+                    <lb/>
+                    - « BRANSLE, en termes de Musique, est un air ou une danse par où on commence tous les bals, où plusieurs personnes dansent en rond, &amp; non pas en avant, en se tenant par la main » (<ref target="bibliographie.html#furetiere">Furetière</ref>).   <ref target="bibliographie.html#huguet">Huguet</ref> signale : « Gay, tremoussant, joyeux, amoureux, gentil, doux. C'est une des dances la plus commune. M. DE LA PORTE, <hi rend="italics">Epithetes</hi>, 57 r°. »<lb/>
+                    « À veoir le geste du danceur, il sembleroit qu'il voulust finir et prendre congé [.. ] remuant le corps doucement du cousté gauche pour la premiere mesure, puis du cousté droit en regardant les assistans modestement pour la deuxieme mesure, puis encor du cousté gauche pour la troisieme mesure. Et pour la quatrieme mesure du cousté droit, en regardant la Damoiselle d'une œillade desrobee doulcement et directement »
+                    (<ref target="bibliographie.html#arbeau">Arbeau</ref>, f° 27 recto).   Un danseur peut intervenir comme le fait <ref target="personnage_cc.html#celadon">Céladon</ref> - « Quand vous commencerez un branle plusieurs aultres se joindront avec vous » (<ref target="bibliographie.html#arbeau">Arbeau</ref>, f° 70 recto). Mais le danseur n'est pas supposé baiser la main de sa partenaire, geste permis aux danseurs de   la gavote (<ref target="bibliographie.html#arbeau">Arbeau</ref>, f° 93 recto). <lb/>
+                    • Les branles que vous avez entendus sont d'Alain <ref target="http://anaigeon.free.fr/">Naigeon</ref>. Pour lire les partitions, cliquez <ref target="partitions.html">ici</ref>. On trouvera diverses pièces de musique de la Renaissance sur son <ref target="http://anaigeon.free.fr/e_index.html">site</ref> personnel (30 septembre 2010).  Pour voir un bal dans une gravure d'Abraham Bosse (1634), cliquez <ref target="http://expositions.bnf.fr/bosse/grand/093.htm">ici</ref> (30 septembre 2010). Les branles de Brueghel, « danses paysannes » sont dans ce <ref target="https://dominiquepillette.files.wordpress.com/2015/08/danse-de-la-maric3a9e-dc3a9tail.jpg">site</ref> (20 mai 2016).<lb/>
+                    • Les deux danses mentionnées dans la première partie de <hi rend="italics">L'Astrée</hi> illustrent des contrastes. Les gens du hameau dansent un branle gai pour marquer une première rencontre, alors que les gens du château dansent une <ref target="glossaire_aa.html#allemande">allemande</ref> grave pour marquer le début d'une rivalité. <lb/>
+                    • La danse qui sépare <ref target="personnage_hh.html#hylas">Hylas</ref> de sa partenaire ne porte pas de nom (<ref target="../_roman/reference/21_1/21_1_livre_8.html#246_recto">I, 8, 246 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Branler</cell>
+              <cell colspan="1" rowspan="1">« Arrêter un bateau à un lieu de péage »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Branler</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Après avoir branlé la teste contre Diane</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#554">IV, 3, 554</ref>).<lb/>
+                  <ref target="bibliographie.html#cotgrave">Cotgrave</ref> traduit <hi rend="italic">Branler</hi> par : « <hi rend="italic">To shake the head, in signe of contempt, scorne, mockerie, or discontentment</hi> ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Branslement</cell>
+              <cell colspan="1" rowspan="1">« Mouvement en deçà &amp; en delà » (<ref target="bibliographie.html#furetiere">Furetière</ref>).   <ref target="bibliographie.html#huguet">Huguet</ref> ne donne pas ce substantif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bras</cell>
+              <cell colspan="1" rowspan="1">- « Tenir quelqu'un sous le bras, avoir le bras passé au bras de quelqu'un » (<ref target="bibliographie.html#littre">Littré</ref>, Article <hi rend="italics">Sous)</hi>. <ref target="bibliographie.html#furetiere">Furetière</ref> ne donne pas cette expression. <lb/>
+                  • La formule est fréquente dans les <hi rend="italic">
+                  <ref target="bibliographie.html#amadis">Amadis</ref>
+                </hi> (par exemple XIII, ch. 31, XIV, ch. 48, XV, ch. 11). <ref target="bibliographie.html#magendie">Magendie</ref> la commente (p. 134).<lb/>
+                  - L'homme qui a les bras croisés est contrarié - ce renseignement survient dans toutes les parties de <hi rend="italic">L'Astrée</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bras</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <ref target="bibliographie.html#huguet">Huguet</ref> donne plusieurs exemples tous tirés des <hi rend="italics">Amadis</hi> : « Or la conduysoient [la reine] soubz les bras Amadis et l'Empereur. Amadis, IV, 26. - [Quedragant] luy faisant une tresgrande reverance ... puis la prenant soubz le bras la conduict en la tente ou les seigneurs estoient assemblez. Amadis, V, 52. - Amadis ... la print doulcement soubz le bras, et la mena ou sa compaignie l'attendoit. Amadis, V, 52 ». La formule revient effectivement très souvent dans ce roman.<lb/>
+                    - <hi rend="italics">Bras pour bras</hi> (<ref target="../_roman/reference/21_2/21_2_livre_9.html#585">II, 9, 585</ref>). « Bras à bras. Corps à corps » (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#cotgrave">Cotgrave</ref> traduit l'expression par « <hi rend="italics">equally</hi> ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bras</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- La prenant soubs les bras</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#536">IV, 3, 536</ref>). Tenir sous le bras. <lb/>
+                    - <hi rend="italic">Le long du petit bras de Lignon</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#72">IV, 1, 72</ref>).<lb/>                    « BRAS, se dit aussi de la mer &amp; des rivieres, quand leurs eaux se separent, &amp; font un petit canal entre deux terres » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Brassal</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La cane du brassal</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref>).<lb/>
+                    L'édition de 1619 donne <hi rend="italic">brasal</hi> et celle de 1621 <hi rend="italic">brassal</hi>. « Brassal. Brassard, partie de l'armure protégeant le bras » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bref</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« En un mot, en fin, bref vieillit fort » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bref</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Bref, c'est la misere commune</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#458">IV, 3, 458</ref>)<lb/>
+                  « Enfin, pour conclusion » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Briefve</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« BRIEF, IEFVE. adj. Vieux mot qui n'est demeuré en usage que dans le Palais »
+                    (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Brisée</cell>
+              <cell colspan="1" rowspan="1">« Marque, signe. Retourner, rentrer, se remettre sur ses brisées, reprendre sa brisée. Revenir à son sujet »
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Brodequin</cell>
+              <cell colspan="1" rowspan="1">« Chaussure à l'antique faite en façon de petite botte, qui ne va que jusqu'à mi-jambe, &amp; qui est ornée &amp; delicate » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Broncher</cell>
+              <cell colspan="1" rowspan="1">« Tomber, s'abattre »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Brouillart</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le broüillart qu'il avoit fait</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#138_verso">III, 4, 138 verso</ref>). « Brouillon »  (<ref target="bibliographie.html#la_curne">La Curne</ref>). Pour <ref target="bibliographie.html#furetiere">Furetière</ref>, le <hi rend="italic">brouillard</hi> est notre moderne buvard.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Broüiller</cell>
+              <cell colspan="1" rowspan="1">« Mêler plusieurs choses ensemble » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Broüillon</cell>
+              <cell colspan="1" rowspan="1">« Brouillon. Celui qui mélange, qui altère »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Broüillon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Vivre parmy ces esprits brouillons</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#557">IV, 3, 557</ref>). <lb/>
+                  « BROUILLON, ONNE. adj. &amp; subst. Remuant, qui tasche de brouiller les affaire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bruit</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">- Le bruit de ma vie fut si grand</hi> (<ref target="../_roman/reference/21_1/21_1_livre_5.html#126_verso">I, 5, 126 verso</ref>). <lb/>
+                    « Renommée, réputation »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+                    - L'expression « <hi rend="italics">le bruit de la cour</hi> » (<ref target="../_roman/reference/21_1/21_1_livre_9.html#291_recto">I, 9, 291 recto</ref>) ne se trouve ni dans   <ref target="bibliographie.html#huguet">Huguet</ref> ni dans <ref target="bibliographie.html#furetiere">Furetière</ref>, mais <ref target="bibliographie.html#furetiere">Furetière</ref> donne : « C'est un <hi rend="italics">bruit de ville</hi>, on n'en dit rien à la Cour ». <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bruit</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - « Se dit aussi des affaires qui font de l'éclat, où plusieurs personnes prennent interest, ou qui sont de consequence » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Bruit</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Il craint que quelque bruit ne leur découvrist</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#7">IV, 1, 7</ref>). <lb/>                    « BRUIT, se dit aussi des discours, du temps, des nouvelles dont on s'entretient dans le monde » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Brutal</cell>
+              <cell colspan="1" rowspan="1">Dans   <ref target="bibliographie.html#huguet">Huguet</ref>, le substantif signifie seulement « Animal, brute ». <hi rend="italics">L'Astrée</hi> donne à ce nom le sens qu'il a dans <ref target="bibliographie.html#furetiere">Furetière</ref> : « Celuy qui a des appetits déreglez, qui vit en beste, ou qui n'a pas plus d'esprit &amp; de conduitte qu'une beste ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Bureau</cell>
+              <cell colspan="1" rowspan="1">« Substantif masculin. Bureau. Sorte de grosse étoffe de laine brune »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+                    « Grosse estoffe faite de laine : c'est la même chose que la bure, sinon que c'est un drap plus fort » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <ref target="bibliographie.html#cotgrave">Cotgrave</ref> précise : « <hi rend="italics">A thicke and course cloth, of a browne russet, or darke mingled, colour</hi> ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Butte</cell>
+              <cell colspan="1" rowspan="1">« Objet sur lequel porte la vue »
+
+                    (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+                    
+                  <ref target="bibliographie.html#la_curne">La Curne</ref> explique :  « Ce mot s'est dit pour <hi rend="italics">but</hi> ; en général, point marqué où l'on doit arriver, où il faut viser ».<lb/>
+                  Dans <hi rend="italics">L'Astrée,</hi> le substantif a son sens moderne, qui est signalé par <ref target="bibliographie.html#furetiere">Furetière</ref> : « Estre en <hi rend="italics">butte</hi> à l'envie, [...] pour dire, Estre exposé aux traits de l'envie ». </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+          </table><p> </p><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

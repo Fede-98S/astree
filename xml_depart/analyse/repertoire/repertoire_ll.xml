@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Répertoire L - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_rep"
+  onclick="SetDisplay('legende_rep')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_rep')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p>Catégories</p><table rend="center_o center_t" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" style="width:auto; height:20px; background-color:#FFCCFF">Actualité</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Géographie </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px">Histoire</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue" style="width:auto; height:20px">Littérature</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue_hashed" style="width:auto; height:20px">Mythologie</cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px"> Remarque </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+            </table><p> </p><ref target="repertoire.html">
+              <hi rend="bold">RÉPERTOIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="repertoire_aa.html">A</ref><ref target="repertoire_bb.html">B</ref><ref target="repertoire_cc.html">C</ref><ref target="repertoire_dd.html">D</ref><ref target="repertoire_ee.html">E</ref><lb/><ref target="repertoire_ff.html">F</ref><ref target="repertoire_gg.html">G</ref><ref target="repertoire_hh.html">H</ref><ref target="repertoire_ik.html">I</ref><ref target="repertoire_ik.html#j">J</ref><lb/><ref target="repertoire_ik.html#k">K</ref><ref target="repertoire_ll.html">L</ref><ref target="repertoire_mm.html">M</ref><ref target="repertoire_no.html">N</ref><ref target="repertoire_no.html#o">O</ref><lb/><ref target="repertoire_pp.html">P</ref><ref target="repertoire_qr.html">Q</ref><ref target="repertoire_qr.html#r">R</ref><ref target="repertoire_ss.html">S</ref><ref target="repertoire_tt.html">T</ref><lb/><ref target="repertoire_uz.html">U</ref><ref target="repertoire_uz.html#v">V</ref><ref target="repertoire_uz.html#w">W</ref><ref target="repertoire_uz.html#x">X</ref><ref target="repertoire_uz.html#y">Y</ref><ref target="repertoire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>
+              <ref target="repertoire.html">RÉPERTOIRE - L</ref>
+            </head><!--</header>--><table style="width:100%">
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="width:66px;">
+                Laigneu</cell>
+              <cell colspan="1" rowspan="1" style="width:427px;">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#laigneu">I</ref>, <ref target="#2_laigneu">II</ref>
+             
+             Écrit aussi <hi rend="italics">Laignieu</hi>. Aujourd'hui, <hi rend="italic">Leigneux</hi>. « Village, qui appartient au canton de <ref target="repertoire_bb.html#boing">Boën</ref>, [qui] fut célèbre par son couvent », écrit Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> (p. 196). <lb/>
+             <lb/>
+             • D'Urfé y installe des vestales  (<ref target="../_roman/reference/21_1/21_1_livre_4.html#83_recto">I, 4, 83 recto</ref>).<lb/>
+             <lb/>
+             <p>Des druides se joignent à elles après l'édition anonyme de 1607</p>
+             <lb/>
+             •          C'est  un lieu de passage pour les Bergers (<ref target="../_roman/reference/21_1/21_1_livre_8.html#262_recto">I, 8, 262 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Laigneu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#laigneu">I</ref>, <ref target="#2_laigneu">II</ref>
+             
+             Écrit aussi <hi rend="italics">Laignieu</hi>. Dans son <hi rend="italic">Histoire du Forez</hi>, A. <ref target="bibliographie.html#bernard_h">Bernard</ref> appelle le village médiéval <hi rend="italic">Layniacum</hi> (p. 123). Le nom ancien serait plutôt <hi rend="italic">Leygnicum</hi> (<hi rend="italic">Lignum</hi>, bois) d'après le <ref target="http://www.leigneux.fr/decouvrir/galerie_d_images/991">site</ref> de la commune (10 mai 2015).<lb/>
+             <lb/>
+             • On écrit aujourd'hui <hi rend="italic">Leigneux</hi>. Ce lieu est à droite de <ref target="repertoire_mm.html#2_montverdun">Montverdun</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>). <ref target="personnage_aa.html#2_adamas">Adamas</ref> emprunte le chemin de Leigneux en quittant <ref target="repertoire_ik.html#2_isoure">Isoure</ref> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#454">II, 7, 454</ref>). <ref target="personnage_ll.html#2_leonide">Léonide</ref> et <ref target="personnage_pp.html#2_paris">Paris</ref> descendent la colline de Leigneux pour se rendre dans les hameaux (<ref target="../_roman/reference/21_2/21_2_livre_7.html#471">II, 7, 471</ref>). <lb/>
+             <lb/>
+             « La maison de <ref target="#2_lavieu">Lavieu</ref> » <lb/>
+               de l'édition de 1610 devient <lb/>
+               « la maison de <ref target="#2_laigneu">Laignieu</ref> » <lb/>
+               dans l'édition de 1621  (<ref target="../_roman/reference/21_2/21_2_livre_8.html#491">II, 8, 491</ref>).<lb/>
+               C'est très probablement une coquille<hi rend="cache"> </hi>
+                  <ref target="note_2.html#2_laignieu">η</ref>.
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Laomedon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_laomedon">III</ref>
+             
+             Laomédon est un roi de Troie qui a deux fois refusé de payer ce qu'il avait promis aux dieux. « La cité deux fois  parjure », dit <ref target="bibliographie.html#ovide">Ovide</ref> pour désigner la malheureuse ville de Troie (<hi rend="italic">Métamorphoses</hi>, XI, 195 sq.). <ref target="repertoire_hh.html#3_hercule">Hercule</ref> tue le Roi et  sa famille, mais laisse la vie sauve à deux de ses enfants, <ref target="repertoire_pp.html#2_priam">Priam</ref> et Hésione.<lb/>
+             <lb/>
+             •           Non sans grandiloquence, <ref target="personnage_aa.html#3_arimant">Arimant</ref> jure d'épouser <ref target="personnage_cc.html#3_criseide">Criséide</ref>.  Il demande alors que les dieux « punissent la foy [qu'il] auray parjuree plus cruellement que celle de Laomedon » (<ref target="../_roman/reference/21_3/21_3_livre_7.html#296_recto">III, 7, 296 recto</ref>).<lb/>
+             <lb/>
+             <p>Il faut comprendre que ce parjure serait plus épouvantable que  le parjure du Roi de Troie.</p>
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lapau</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lapau">I</ref>
+          
+          Écrit aussi <hi rend="italics">Lapan</hi>. S'agit-il de La Peau, un ancien relai postal ?<lb/>
+          <lb/>
+          • Lieu d'origine de l'une des sources du <ref target="#lignon">Lignon</ref> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#113_verso">I, 4, 113 verso</ref>), croit d'Urfé. <lb/>
+          <lb/>
+          C'est en fait une source de l'Anzon (Maxime <ref target="bibliographie.html#gaumei">Gaume</ref>, p. 181). 
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Largery</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_largeri">III</ref>
+          
+          Écrit <hi rend="italic">Largeri</hi> en 1621 et <hi rend="italic"> Largery</hi> en 1619 - ce qui est la graphie moderne.  Voir <ref target="bibliographie.html#gaumei">Gaume</ref> (pp. 224-225), et Itinéraire<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_chemin_itineraire">η</ref>.<lb/>
+          <lb/>
+          • Pour revenir de la <ref target="repertoire_uz.html#3_ville_des_remois">ville des Rémois</ref>, Reims, <ref target="personnage_aa.html#3_andrimarte">Andrimarte</ref> doit passer par Largeri (<ref target="../_roman/reference/21_3/21_3_livre_12.html#542_verso">III, 12, 542 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Latins</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#4_latins">IV</ref>
+          
+          <ref target="bibliographie.html#furetiere">Furetière</ref> note que « LATIN, se dit quelquefois par opposition aux Grecs ; &amp; alors il se dit des peuples &amp; des nations ».<lb/>
+          <lb/>
+          • Il s'agit  des habitants de l'<ref target="repertoire_ik.html#3_italie">Italie</ref> qui n'ont pas les mêmes goûts que les <ref target="repertoire_gg.html#4_grecs">Grecs</ref> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#141">IV, 1, 141</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Latobriges</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_latobriges">III</ref>
+          
+          « Ceux du pays de Vaud »  vivent à Lausanne (<ref target="bibliographie.html#guichenon_savoie">Guichenon</ref>, I, p. 6). Peuple celte voisin des <ref target="repertoire_hh.html#3_helvetiens">Helvétiens</ref> et nommé aussi <hi rend="italic"> </hi>
+                <hi rend="italic">Latobices</hi> ou <hi rend="italic">Latobiques</hi> (Voir le <ref target="http://www.arbre-celtique.com/encyclopedie/fiche-703.htm">site</ref> de l'Arbre celtique, 5 janvier 2013).<lb/>
+          <lb/>
+          •           L'un des peuples qui est sous la domination de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lavieu</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lavieu">I</ref>, <ref target="#2_lavieu">II</ref>
+          
+          Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> écrit que « les d'Urfé étaient alliés à la famille de Lavieu » (p. 168). <lb/>
+          <lb/>
+          Dans l'édition anonyme de 1607, <ref target="personnage_pp.html#polemas">Polémas</ref> appartient à la Maison de Lavieu. Mais il appartient à la Maison de <ref target="repertoire_ss.html#surieu">Surieu</ref> dans les éditions suivantes (<ref target="../_roman/reference/21_1/21_1_livre_9.html#267_recto">I, 9, 267 recto</ref>).
+          <lb/>
+          •  Dans la deuxième partie du roman, en 1610, Lavieu devient la maison de <ref target="personnage_ll.html#lindamor">Lindamor</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lavieu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lavieu">I</ref>, <ref target="#2_lavieu">II</ref>
+          
+          Écrit une fois <hi rend="italic">Laignieu</hi> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#491">II, 8, 491</ref>).
+          « Ancienne et illustre maison de Lavieu en <ref target="repertoire_ff.html#2_forez">Forez</ref> », écrit <ref target="bibliographie.html#la_mure">La Mure</ref> (II, p. 297).  Jacques I<hi rend="supn">er</hi> de Chabannes épouse en 1435 Anne de Lavieu. Leur fils, Jacques II, engendre Marie de Chabannes (<ref target="bibliographie.html#moreri">Moréri</ref>), épouse de Claude de Savoie et  grand-mère maternelle d'Honoré d'Urfé (Voir <ref target="genealogie.html#savoie">Généalogie</ref>).<lb/>
+          « Toutes les traditions locales parlent de la parenté de la famille d'Urfé avec celle de Lavieu [...] les écussons de ces deux maisons sont précisément la contrepartie l'un de l'autre » (<ref target="bibliographie.html#bernard">Bernard</ref>, p 7).
+          Coïncidence, explique Arnaud Bunel, savant et généreux spécialiste d'<ref target="http://www.heraldique.org/">Héraldique </ref>qui a bien voulu dessiner l'écusson des Lavieu.<lb/>
+          <lb/>
+            <graphic url="../images/lavieu_2.jpg" rend="img" mimeType="image/jpeg"/>                    <graphic url="../images/blason_urfe.jpg" rend="img" mimeType="image/jpeg"/>
+                <lb/>
+            <hi rend="titre9">    LAVIEU                                                URFÉ</hi>
+                <lb/>
+          <lb/>
+          • La maison de <ref target="personnage_cc.html#2_celadon">Céladon</ref> et celle de Lavieu « viennent d'un mesme tige » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#491">II, 8, 491</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ll.html#2_lindamor">Lindamor</ref> « est de cest illustre
+          sang de Lavieu » (<ref target="../_roman/reference/21_2/21_2_livre_10.html#658">II, 10, 658</ref>). <lb/>
+          <lb/>
+          •             Les maisons de Lavieu et de <ref target="repertoire_ss.html#2_surieu">Surieu</ref> sont ennemies (<ref target="../_roman/reference/21_2/21_2_livre_10.html#658">II, 10, 658</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Leigneux</cell>
+              <cell colspan="1" rowspan="1">Voir <ref target="#2_laigneu">Laigneu</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Leman</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#leman">I</ref>
+          
+          Il s'agit du lac de Genève (<ref target="bibliographie.html#gaumei">Gaume</ref>, p. 220). <lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#silvandre">Silvandre</ref> et <ref target="personnage_bb.html#bellinde">Bellinde</ref>, la mère de la Bergère <ref target="personnage_dd.html#diane">Diane</ref>, se trouvent sur les bords de ce lac, en Savoie.<lb/>
+          <ref target="personnage_bb.html#bellinde">Bellinde</ref> s'est retirée à <ref target="repertoire_ee.html#evian">Évian</ref>, à la tête d'un couvent, après la mort de <ref target="personnage_cc.html#celion">Celion</ref>, son mari (<ref target="../_roman/reference/21_1/21_1_livre_6.html#159_verso">I, 6, 159 verso</ref>). <lb/>
+          <ref target="personnage_ss.html#silvandre">Silvandre</ref> quitte une ville anonyme, sur le lac Léman, pour fuir <ref target="personnage_aa.html#azahide">Azahide</ref>, son père adoptif (<ref target="../_roman/reference/21_1/21_1_livre_8.html#229_verso">I, 8, 229 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lers</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_lers">III</ref>
+          
+          L'Île de Lers est dans le <ref target="repertoire_uz.html#3_venaissin">Comtat-Venaissin</ref>, sur le <ref target="repertoire_qr.html#3_rhone">Rhône</ref>. Le château qui s'y trouvait était inhabité au XVI<hi rend="supn">e</hi> siècle. Il avait appartenu à la maison d'Albaron au XIV<hi rend="supn">e</hi> siècle (<ref target="bibliographie.html#gaumei">Gaume</ref>, p. 223, note 234).<lb/>
+          <lb/>
+          • <ref target="personnage_dd.html#3_daphnide">Daphnide</ref> propose à <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> de le rencontrer au château de Lers,  sur le <ref target="repertoire_qr.html#3_rhone">Rhône</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#67_recto">III, 3, 67 recto</ref>). Bon choix, pense le chevalier, parce que le maître des lieux soutient le roi <ref target="personnage_ee.html#3_euric">Euric</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#69_verso">III, 3, 69 verso</ref>). La maîtresse du logis reçoit fort bien <ref target="personnage_aa.html#3_alcidon">Alcidon</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#70_recto">III, 3, 70 recto</ref>).<lb/>
+          <lb/>
+          • Voir la <ref target="cartotheque.html#carte_venaissin">Carte du Venaissin</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Lethé</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#2_lethe">II</ref>
+          
+          Mythologie.
+          Fleuve des Enfers. Les morts boivent de ses eaux pour oublier leur vie antérieure. <lb/>
+          <lb/>
+          • <ref target="personnage_cc.html#2_celadon">Céladon</ref> nomme cet rivière dans un sonnet lors d'une tempête sur le <ref target="repertoire_qr.html#2_rhone">Rhône</ref>. Il ne veut pas que le fleuve se transforme en Léthé : Il préfère mourir qu'oublier le passé (<ref target="../_roman/reference/21_2/21_2_livre_10.html#635">II, 10, 635</ref>). <lb/>
+          <lb/>
+          • Voir la carte des Enfers de Virgile dans ces sites (20 juin 2016) : <ref target="http://www.histoire-fr.com/images/enfers_selon_virgile.gif">http://www.histoire-fr.com/images/enfers_selon_virgile.gif</ref> ; <ref target="http://mythologica.fr/grec/pic/enfers.jpg">http://mythologica.fr/grec/pic/enfers.jpg</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Leucosie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_leucosie">II</ref>
+          
+          Mythologie.
+          L'une des trois <ref target="repertoire_ss.html#2_sirenes">sirènes</ref>.<lb/>
+          <lb/>
+          • Un vieillard nomme les trois <ref target="repertoire_ss.html#2_sirenes">sirènes</ref> lorsqu'<ref target="personnage_hh.html#2_hylas">Hylas</ref> en représente une sur son écu (<ref target="../_roman/reference/21_2/21_2_livre_4.html#203">II, 4, 203</ref>).<lb/>
+          <lb/>
+          • Voir une gravure représentant les sirènes dans ce <ref target="http://www.sgdl-auteurs.org/maria-franchini/public/Fetes/7.jpg">site</ref> (10 septembre 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Libices</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_libices">III</ref>
+          
+          Voir <hi rend="italic">
+                  <ref target="#3_libicins">Libicins</ref>
+                </hi>.<lb/>
+          <lb/>
+          • Voisins des <ref target="repertoire_ss.html#3_salasses">Salasses</ref>, peuple auquel appartient <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#283_verso">III, 7, 283 verso</ref>). Les Libices sont un peuple que <ref target="personnage_ll.html#3_leandre">Léandre</ref>, le père de <ref target="personnage_cc.html#3_criseide">Criséide</ref>, aurait pu conquérir (<ref target="../_roman/reference/21_3/21_3_livre_7.html#284_verso">III, 7, 284 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Libicins</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_libicins">III</ref>
+          
+          Écrit aussi <hi rend="italic">Lybicins, Libiciens et Lybicien</hi>s. Voir <ref target="#3_libices">
+                  <hi rend="italic">Libices</hi>
+                </ref>.<lb/>
+          <ref target="bibliographie.html#guichenon_savoie">Guichenon</ref>, historien de la Savoie, explique que la contrée a été habitée par « les <ref target="repertoire_ss.html#3_salasses">Salasses</ref>, les Taurinois, les <ref target="repertoire_ss.html#3_segusiens">Segusiens</ref>, les Lybiciens, les Vagiennois ou Baciennois, les Statiellois, et les Vendiontiens, ou Vendiantiens » (I, p. 11). Les Libicins avaient pour capitale « <ref target="repertoire_uz.html#2_verceil">Vercel</ref>, ville des plus fortes » (I, p. 12). « Les Libicins aujourd'hui Verceillais » fondent Ivrée, c'est-à-dire <ref target="repertoire_ee.html#3_eporedes">Eporèdes</ref> (<ref target="bibliographie.html#orsieres">Orsières</ref>, pp. 41 et 96). <lb/>
+          <lb/>
+          <p>Les Libicins sont le peuple dont serait issue  la maison de Savoie.</p>
+          <lb/>
+          • <ref target="personnage_aa.html#3_arimant">Arimant</ref> est un chevalier libicin (<ref target="../_roman/reference/21_3/21_3_livre_7.html#285_recto">III, 7, 285 recto</ref>). À cause de la haine de <ref target="personnage_qr.html#3_rithimer">Ricimer</ref>, il a dû s'exiler  (<ref target="../_roman/reference/21_3/21_3_livre_7.html#303_recto">III, 7, 303 recto</ref>). Il va  retourner dans son pays une première fois pour revoir <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#315_recto">III, 7, 315 recto</ref>) et ensuite pour se battre en duel contre son rival  (<ref target="../_roman/reference/21_3/21_3_livre_7.html#315_verso">III, 7, 315 verso</ref>). Comme il est blessé, <ref target="personnage_cc.html#3_criseide">Criséide</ref> le rejoint  (<ref target="../_roman/reference/21_3/21_3_livre_7.html#323_recto">III, 7, 323 recto</ref>). Elle considère le jeune homme comme « le plus accomply Chevalier, non seulement des <ref target="repertoire_ss.html#3_salasses">Salasses</ref> et des Libicins, mais de toute l'<ref target="repertoire_aa.html#3_aemilie">Æmilie</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_7.html#326_recto">III, 7, 326 recto</ref>). <ref target="personnage_bb.html#3_bellimart">Bellimart</ref> présente <ref target="personnage_aa.html#3_arimant">Arimant</ref> comme « le premier de la Province des Libicins » (<ref target="../_roman/reference/21_3/21_3_livre_8.html#363_recto">III, 8, 363 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Ligée</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_ligee">II</ref>
+          
+          Mythologie.
+          L'une des trois <ref target="repertoire_ss.html#2_sirenes">sirènes</ref>. <lb/>
+          <lb/>
+          • Un vieillard nomme les trois <ref target="repertoire_ss.html#2_sirenes">sirènes</ref> lorsqu'<ref target="personnage_hh.html#2_hylas">Hylas</ref> en représente une sur son écu (<ref target="../_roman/reference/21_2/21_2_livre_4.html#203">II, 4, 203</ref>).<lb/>
+          <lb/>
+          • Voir une gravure représentant les sirènes dans ce <ref target="http://www.sgdl-auteurs.org/maria-franchini/public/Fetes/7.jpg">site</ref> (10 septembre 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lignon</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lignon">I</ref>, <ref target="#2_lignon">II</ref>, <ref target="#3_lignon">III</ref>, <ref target="#4_lignon">IV</ref>
+          
+          Écrit aussi <hi rend="italics">Lygnon</hi>. Affluent de la <ref target="#loire">Loire</ref>, prenant sa source dans les monts du <ref target="repertoire_ff.html#forez">Forez</ref>, le Lignon mesure 59 kilomètres. Dans la réalité, ce cours d'eau n'a pas toujours été un doux ruisseau. En 1858, « un grand débordement du Lignon » aurait envoyé dans les fossés des vitraux d'un oratoire (Communication sans titre de Vincent Durand, <hi rend="italic">Bulletin de la Diana</hi>, vol. 3, 1886, p. 347. <ref target="http://books.google.ca/books?oe=UTF-8&amp;hl=fr&amp;id=Rg8MAAAAIAAJ&amp;q=Jas#v=onepage&amp;q=Urf%C3%A9&amp;f=false">Google</ref>, 3 février 2014).<lb/>
+          <lb/>
+          • D'Urfé  donne une double source à la rivière (<ref target="repertoire_cc.html#chalmasel">Chalmasel</ref> et <ref target="repertoire_cc.html#cervieres">Cervières</ref>) et la nomme une cinquantaine de fois dans la première partie de <hi rend="italics">L'Astrée</hi>. Grâce au roman, le <ref target="#lignon">Lignon</ref> est devenu aussi célèbre que l'<ref target="repertoire_hh.html#hypocrene">Hippocrène</ref>, comme l'espérait d'Urfé dans sa préface (<ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                  <hi rend="italic">L'Autheur à la Bergere Astrée</hi>
+                </ref>).<lb/>
+          <lb/>
+          • La rivière est représentée dans un tableau peint par <ref target="personnage_cc.html#climanthe">Climanthe</ref>, le faux druide, (<ref target="../_roman/reference/21_1/21_1_livre_5.html#138_recto">I, 5, 138 recto</ref> et <ref target="../_roman/reference/21_1/21_1_livre_5.html#139_recto">I, 5, 139 recto</ref>), et dans les tableaux peints par <ref target="personnage_mm.html#mandrague">Mandrague</ref>, la magicienne, (<ref target="../_roman/reference/21_1/21_1_livre_11.html#369_verso">I, 11, 369 verso</ref>, <ref target="../_roman/reference/21_1/21_1_livre_11.html#371_verso">I, 11, 371 verso</ref>, <ref target="../_roman/reference/21_1/21_1_livre_11.html#372_recto">I, 11, 372 recto</ref>).  Sur les peintres dans <hi rend="italics">L'Astrée</hi>, voir E. <ref target="bibliographie.html#heneinpeintres">Henein</ref>. <lb/>
+          <lb/>
+          • Le Lignon inspire aussi des poètes (<ref target="../_roman/reference/21_1/21_1_livre_2.html#37_verso">I, 2, 37 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_7.html#213_verso">I, 7, 213 verso</ref>).<lb/>
+          <lb/>
+          • C'est sur les bords du Lignon,  l'artère principale du pays astréen, que se déroulent les deux événements dramatiques qui marquent le début du roman, le suicide de <ref target="personnage_cc.html#celadon">Céladon</ref> et son sauvetage (<ref target="../_roman/reference/21_1/21_1_livre_1.html#5_recto">I, 1, 5 recto</ref> et <ref target="../_roman/reference/21_1/21_1_livre_1.html#6_verso">I, 1, 6 verso</ref>), car c'est ce cours d'eau qui sépare les gens des hameaux des gens du château. <lb/>
+          <lb/>
+          • « Vostre [...] <ref target="#lignon">Lignon</ref> », dit <ref target="personnage_aa.html#adamas">Adamas</ref>, en parlant à <ref target="personnage_cc.html#celadon">Céladon</ref> et aux Nymphes (<ref target="../_roman/reference/21_1/21_1_livre_11.html#369_verso">I, 11, 369 verso</ref> ; <ref target="../_roman/reference/21_1/21_1_livre_11.html#371_verso">I, 11, 371 verso</ref>). <lb/>
+          <lb/>
+          Curieusement, le nom du Lignon ne figurait pas en 1607 dans une énumération des rivières qui arrosaient la région du temps de l'invasion romaine (<ref target="../_roman/reference/21_1/21_1_livre_2.html#32_verso">I, 2, 32 verso</ref>). 
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:805px;">
+                Lignon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lignon">I</ref>, <ref target="#2_lignon">II</ref>, <ref target="#3_lignon">III</ref>, <ref target="#4_lignon">IV</ref>
+          
+          Écrit aussi <hi rend="italics">Lygnon</hi>.
+          Le Lignon « a eu la gloire d'avoir pour son Illustrateur le grand Honoré d'Urfé » (<ref target="bibliographie.html#la_mure">La Mure</ref>. I, p. 82). Le Lignon coule également dans <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italics">La Sylvanire</hi>
+                </ref>. On y lit ce curieux serment : « Je jure de Lignon l'un et l'autre rivage » (vers 2082). <lb/>
+          <lb/>
+          La rivière est nommée une quarantaine de fois dans la deuxième partie de <hi rend="italic">L'Astrée</hi>, moins que dans la première et la troisième partie.<lb/>
+          <lb/>
+          • Impétueux (<ref target="../_roman/reference/21_2/21_2_livre_10.html#619">II, 10, 619</ref>) ou malheureux (<ref target="../_roman/reference/21_2/21_2_livre_5.html#299">II, 5, 299</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#483">II, 7, 483</ref>), délectable (<ref target="../_roman/reference/21_2/21_2_livre_3.html#160">II, 3, 160</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_10.html#628">II, 10, 628</ref>) ou agréable (<ref target="../_roman/reference/21_2/21_2_livre_3.html#167">II, 3, 167</ref>), le Lignon est une rivière douce (<ref target="../_roman/reference/21_2/21_2_livre_7.html#434">II, 7, 434</ref>) et <ref target="glossaire_ff.html#fatal">fatale</ref> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#65">II, 2, 65</ref>). <lb/>
+          <lb/>
+          • Aussi connu que le <ref target="repertoire_ff.html#2_forez">Forez</ref> (<ref target="../_roman/reference/21_2/21_2_livre_3.html#167">II, 3, 167</ref>), il sort de deux sources (<ref target="../_roman/reference/21_2/21_2_livre_8.html#497">II, 8, 497</ref>) et se jette dans la <ref target="#2_loire">Loire</ref> à la hauteur de <ref target="repertoire_ff.html#2_feurs">Feurs</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#629">II, 10, 629</ref>). <lb/>
+          <lb/>
+          • Il sert d'adresse (<ref target="../_roman/reference/21_2/21_2_livre_3.html#131">II, 3, 131</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#468">II, 7, 468</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#490">II, 8, 490</ref>) et de nom de famille aux « Bergers de Lignon » (<ref target="../_roman/reference/21_2/21_2_livre_1.html#24">II, 1, 24</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_3.html#162">II, 3, 162</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_4.html#184">II, 4, 184</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#483">II, 7, 483</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#552">II, 8, 552</ref>).<lb/>
+          Quitter le Lignon, c'est quitter les hameaux (<ref target="../_roman/reference/21_2/21_2_livre_7.html#483">II, 7, 483</ref>). <lb/>
+          Des Bergers habitent  sur les deux rives   (<ref target="../_roman/reference/21_2/21_2_livre_1.html#31">II, 1, 31</ref>) et traversent la rivière (<ref target="../_roman/reference/21_2/21_2_livre_2.html#64">II, 2, 64</ref>) sur le pont de la <ref target="repertoire_bb.html#bouteresse">Bouteresse</ref>. <lb/>
+          <lb/>
+          • Le Lignon est un point de repère : <ref target="repertoire_mm.html#montverdun">Montverdun</ref> se trouve entre la rivière et <ref target="repertoire_ik.html#2_isoure">Isoure</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>). On  voit le Lignon à partir de la demeure d'<ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#628">II, 10, 628</ref>). Le fils et la nièce du druide  traversent   ce cours d'eau pour se rendre dans le  hameau des Bergers (<ref target="../_roman/reference/21_2/21_2_livre_7.html#471">II, 7, 471</ref>). <lb/>
+          <lb/>
+          • <ref target="personnage_ll.html#2_leonide">Léonide</ref> contemple les beautés de cette rivière (<ref target="../_roman/reference/21_2/21_2_livre_7.html#468">II, 7, 468</ref>) qui abrite des poissons (<ref target="../_roman/reference/21_2/21_2_livre_7.html#469">II, 7, 469</ref>),  qui fait  des détours (<ref target="../_roman/reference/21_2/21_2_livre_7.html#471">II, 7, 471</ref>), et qui a des replis (<ref target="../_roman/reference/21_2/21_2_livre_10.html#629">II, 10, 629</ref>).<lb/>
+          Les rives sont embellies de prés (<ref target="../_roman/reference/21_2/21_2_livre_3.html#152">II, 3, 152</ref>) où l'on déambule avec plaisir (<ref target="../_roman/reference/21_2/21_2_livre_3.html#160">II, 3, 160</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_7.html#434">II, 7, 434</ref>). On rencontre des lieux sauvages (<ref target="../_roman/reference/21_2/21_2_livre_5.html#319">II, 5, 319</ref>),  des îles auxquelles on parvient en sautant sur des cailloux (<ref target="../_roman/reference/21_2/21_2_livre_10.html#630">II, 10, 630</ref>), et « des merveilles » fabriquées par <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_5.html#311">II, 5, 311</ref>).<lb/>
+          <lb/>
+          • Il y a près du Lignon un rocher qui renvoie un écho (<ref target="../_roman/reference/21_2/21_2_livre_1.html#5">II, 1, 5</ref>), la rivière a donc ses nymphes (<ref target="../_roman/reference/21_2/21_2_livre_1.html#8">II, 1, 8</ref>). <lb/>
+          <lb/>
+          • Le romancier rappelle que <ref target="personnage_cc.html#2_celadon">Céladon</ref> s'est noyé dans le Lignon (<ref target="../_roman/reference/21_2/21_2_livre_5.html#300">II, 5, 300</ref>). C'est là qu'on l'a cherché (<ref target="../_roman/reference/21_2/21_2_livre_10.html#671">II, 10, 671</ref>) et que les Nymphes l'ont trouvé (<ref target="../_roman/reference/21_2/21_2_livre_7.html#442">II, 7, 442</ref>), car Lignon n'a pas voulu  tuer le Berger (<ref target="../_roman/reference/21_2/21_2_livre_7.html#450">II, 7, 450</ref>). L'âme de <ref target="personnage_cc.html#2_celadon">Céladon</ref> erre le long des rives (<ref target="../_roman/reference/21_2/21_2_livre_5.html#301">II, 5, 301</ref>). Il faut d'ailleurs prendre le chemin de Lignon pour arriver jusqu'au Berger (<ref target="../_roman/reference/21_2/21_2_livre_8.html#496">II, 8, 496</ref>).<lb/>
+          <ref target="personnage_cc.html#2_celadon">Céladon</ref> dit adieu à la rivière avant de se rendre chez <ref target="personnage_aa.html#2_adamas">Adamas</ref> pour commencer une nouvelle vie (<ref target="../_roman/reference/21_2/21_2_livre_10.html#626">II, 10, 626</ref>).<lb/>
+          <lb/>
+          • La rhétorique de la pastorale accorde une large place au Lignon. <ref target="personnage_cc.html#2_celadon">Céladon</ref>, dans  un poème, se compare au <ref target="#2_lignon">Lignon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#497">II, 8, 497</ref>), et plus loin lui adresse des stances  (<ref target="../_roman/reference/21_2/21_2_livre_10.html#619">II, 10, 619</ref>). Dans une comparaison, le cours irréversible de la rivière illustre ce qui ne peut pas changer de direction (<ref target="../_roman/reference/21_2/21_2_livre_2.html#93">II, 2, 93</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_10.html#620">II, 10, 620</ref>). <lb/>
+          Le <ref target="#2_lignon">Lignon</ref> survient dans le songe de <ref target="personnage_cc.html#2_celidee">Célidée</ref> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#65">II, 2, 65</ref>). Comme la traversée d'un fleuve symbolise un obstacle à franchir (<ref target="bibliographie.html#chevalier_dico">Chevalier</ref>), on comprend que la Bergère n'est pas au bout de ses peines. <lb/>
+          <lb/>
+          • Carte et description du <ref target="#2_lignon">Lignon</ref> moderne se trouvent dans ce <ref target="http://lagauche.free.fr/lignon.htm">site</ref> (30 septembre 2010). Des photos sont dans ce <ref target="photos_forez.html">site</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:23px;">
+                Lignon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lignon">I</ref>, <ref target="#2_lignon">II</ref>, <ref target="#3_lignon">III</ref>, <ref target="#4_lignon">IV</ref>
+          
+          Écrit aussi <hi rend="italic">Lygnon</hi>. D'après la <hi rend="italic">Nouvelle description de la France, </hi> le Lignon « se jette dans la <ref target="#3_loire">Loire</ref> après sept lieues de cours. Cette petite rivière qui est assez poissonneuse a été fort célébrée dans <hi rend="italic">l'Astrée</hi> de M. d'Urfé » (<ref target="bibliographie.html#piganiol">Piganiol</ref>, V, p. 270). Honoré d'Urfé a réussi : le roman et la rivière ont survécu ensemble, et resteront inséparables (malgré le <ref target="rohmer.html">film</ref> d'Éric Rohmer !).<lb/>
+          <lb/>
+          •            Le Lignon est nommé une soixantaine de fois dans la troisième partie, c'est-à-dire plus souvent  que dans la première et la deuxième partie. De plus, ce volume se déclare hymne à la rivière puisque la préface est une épître de <hi rend="italic">
+                  <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_autheur_lignon">l'Autheur à la Riviere de Lignon</ref>
+                </hi>.<lb/>
+          <lb/>
+          Dans cette complexe prosopopée qui prélude au roman, Honoré d'Urfé joue avec le statut du Lignon. L'authentique rivière forézienne qui sert de décor à la fiction  se confond tant et si bien avec le décor du souvenir que le   réel finit par devenir mythique. Le Lignon est d'abord le cadre des amours enfantines, puis le secrétaire de l'amoureux qui se souvient de ces amours. Comme <ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">Astrée</ref> et <ref target="../_roman/reference/21_2/21_2_liminaires.html#autheur_au_berger">Céladon</ref> dans les préfaces précédentes, le Lignon doit défendre l'auteur contre l'« ame severe » qui lui reprocherait ses occupations de romancier. <lb/>
+          <lb/>
+          La personnification de la rivière se fait en deux étapes antithétiques, puisque le Lignon passe du statut de créancier au statut de déité. D'entrée de jeu, le cours d'eau doit  recevoir « quelque payement » : celui qui a donné des « contentemens » en reçoit. Comment ? en ayant le privilège de conserver et de répéter les souvenirs heureux, en se substituant donc au romancier pour qu'une histoire d'amour survive « aussi longuement que dans la France l'on parlera  François ». <lb/>
+          Par ailleurs, ce Lignon rendu célèbre
+          par « la Beauté » qui a enchanté d'Urfé, devient loquace par la bouche de ses Nymphes, car, comme les fleuves mythiques, il abrite des divinités. La mention de Nymphes appelle le nom de <ref target="repertoire_dd.html#3_diane_m">Diane</ref>,  leur patronne. Quand la déesse « despoüill[e] ses sueurs dans [le] sein » du Lignon, l'ombre d'<ref target="repertoire_aa.html#2_acteon">Actéon</ref> plane sur la description. Or, chez les mythologues, <ref target="repertoire_dd.html#3_diane_m">Diane</ref> impose le silence à celui qui l'a vue. Ici, <ref target="repertoire_dd.html#3_diane_m">Diane</ref> écoute. Le roman amende le mythe. <lb/>
+          <lb/>
+          • Le secrétaire<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#secretaire">η</ref> du romancier, Balthazar <ref target="repertoire_bb.html#3_baro">Baro</ref>, compose une « <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_ode">
+                  <hi rend="italic">Ode à la rivière de Lignon</hi>
+                </ref> » publiée dans les pages liminaires, entre la Préface et le Portrait de dame.<lb/>
+          <lb/>
+          Ces quatre-vingts vers ne figurent pas dans l'édition de 1619.<lb/>
+            Les relations de leur auteur avec Honoré d'Urfé pourraient donc avoir changé autour de 1620.
+          <lb/>
+          • Les derniers vers  de <ref target="repertoire_bb.html#3_baro">Baro</ref> - baroques à souhait - donnent à la rivière un commandement qui rappelle les légendes qui accompagnent le portrait du romancier et de sa muse :<lb/>
+     « Prise le beau feu qui l'éprit, <lb/>
+     Et confesse dans tes limites,<lb/>
+     Que tu tiens ce que tu merites<lb/>
+     De sa plume et de son Esprit ».<lb/>
+          <lb/>
+          • Le Lignon de <ref target="repertoire_bb.html#3_baro">Baro</ref> a des propriétés que l'on ne trouvait pas sous la plume d'Honoré d'Urfé. Il « esmaille de belles <hi rend="italic">couleurs</hi> » ses rives, alors que, pour le romancier, il émaille le « rivage d'un perpetuel Printemps de fleurs » (<hi rend="italic">
+                  <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_autheur_lignon">Autheur à la Riviere de Lignon</ref>
+                </hi>). Chez <ref target="repertoire_bb.html#3_baro">Baro</ref>, craignant « de vivre en servage » des belles bergères, le cours d'eau « fui[t] leur presence » et se rend dans  la mer. Cela n'empêche pas <ref target="repertoire_bb.html#3_baro">Baro</ref> de désirer la place du Lignon : lui ne s'éloignerait  pas, et ses soupirs amoureux donneraient des tourbillons à l'eau. Le Lignon est enfin opposé au <ref target="repertoire_pp.html#3_pactole">Pactole</ref>, rivière qui charrie  l'or ; rapprochement fort peu urféen.<lb/>
+          <lb/>
+          • Nommé dans la première phrase de la troisième partie, le Lignon conserve tout au long du récit les deux attributs majeurs rencontrés précédemment :<lb/>
+          - Il sert de lieu de passage, qu'on le traverse,  qu'on le longe ou qu'on s'y arrête (par exemple, <ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_2.html#32_verso">III, 2, 32 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#503_recto">III, 12, 503 recto</ref>).<lb/>
+          - Il définit la résidence de bergers, comme un nom patronymique (par exemple <ref target="../_roman/reference/21_3/21_3_livre_1.html#1_recto">III, 1, 1 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_5.html#190_recto">III, 5, 190 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_10.html#425_verso">III, 10, 425 verso</ref>).<lb/>
+          <lb/>
+          Il y a une compétition entre les Bergeres <hi rend="italic">de Lignon</hi> et les Nymphes <hi rend="italic">de <ref target="repertoire_mm.html#3_marcilly">Marcilly</ref>
+                  </hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#505_verso">III, 12, 505 verso</ref>). <lb/>
+            Voir aussi<lb/>
+            <ref target="../_roman/reference/21_3/21_3_livre_6.html#259_recto">III, 6, 259 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_9.html#370_recto">III, 9, 370 recto</ref>.<lb/>
+            <lb/>
+            Penser à la compétition des <ref target="repertoire_no.html#3_nayades">Naïades</ref> de la <ref target="repertoire_ss.html#3_sorgues">Sorgues</ref> et des Muses chez Pétrarque<hi rend="cache"> </hi>
+                  <ref target="note_3.html#3_nayades">η</ref>. 
+          <lb/>
+          • La troisième caractéristique de la rivière est son passé dramatique : <ref target="personnage_cc.html#3_celadon">Céladon</ref> s'est noyé dans le Lignon  (<ref target="../_roman/reference/21_1/21_1_livre_1.html#5_recto">I, 1, 5 recto</ref>), accident  rappelé trois fois (<ref target="../_roman/reference/21_3/21_3_livre_1.html#2_verso">III, 1, 2 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_2.html#53_recto">III, 2, 53 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_9.html#375_recto">III, 9, 375 recto</ref>).<lb/>
+          <lb/>
+          Nul ne mentionne le sauvetage du berger (<ref target="../_roman/reference/21_1/21_1_livre_1.html#6_verso">I, 1, 6 verso</ref>).
+          <lb/>
+          • D'après <ref target="personnage_aa.html#3_adamas">Adamas</ref>, quiconque s'habille en berger et vit en <ref target="repertoire_ff.html#3_forez">Forez</ref> devient « Berger de Lignon » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#389_recto">III, 9, 389 recto</ref>). <lb/>
+          <lb/>
+          C'est la position du romancier lui-même. Par exemple, <ref target="personnage_pp.html#phillis">Phillis</ref>, originaire de l'<ref target="repertoire_aa.html#allier">Allier</ref>, et <ref target="personnage_no.html#olimpe">Olimpe</ref>, originaire du <ref target="repertoire_ff.html#furan">Furan</ref>, font partie de la vaste confrérie des <lb/>
+            « bergers de Lignon ».
+          <lb/>
+          • <ref target="personnage_gg.html#3_galathee">Galathée</ref>, qui a l'intention de « passer Lignon » (<ref target="../_roman/reference/21_3/21_3_livre_6.html#260_recto">III, 6, 260 recto</ref>), s'arrête à <ref target="repertoire_bb.html#3_bonlieu">Bonlieu</ref>. Elle est obligée de rentrer ensuite à <ref target="repertoire_mm.html#3_marcilly">Marcilly</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#551_recto">III, 12, 551 recto</ref>).<lb/>
+          <lb/>
+          • Un bras du Lignon, trait d'union symbolique, lave le Temple de la <ref target="repertoire_bb.html#3_bonne_deesse">Bonne Déesse</ref> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_recto">III, 2, 27 recto</ref>) et parvient au Temple de la déesse <ref target="repertoire_aa.html#3_astree_m">Astrée</ref> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#172_verso">III, 5, 172 verso</ref>). Un autre longe le jardin de <ref target="personnage_pp.html#3_phocion">Phocion</ref>, c'est-à-dire  la demeure où vit la bergère <ref target="personnage_aa.html#3_astree">Astrée</ref> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#433_recto">III, 10, 433 recto</ref>). Il arrose le vieux saule qui abritait les lettres des bergers (<ref target="../_roman/reference/21_3/21_3_livre_10.html#437_recto">III, 10, 437 recto</ref>). <lb/>
+          <lb/>
+          • Le Lignon fait le <ref target="repertoire_ff.html#3_forez">Forez</ref> puisqu'on lui doit « la fertilité
+
+          des campagnes [et] l'abondance des poissons » (<ref target="../_roman/reference/21_3/21_3_livre_4.html#159_recto">III, 4, 159 recto</ref>).<lb/>
+          <lb/>
+          • Comme dans l'<ref target="../_roman/reference/21_3/21_3_liminaires.html#3_autheur_lignon">épître initiale</ref>, un Lignon anthropomorphe peut voir une belle bergère (<ref target="../_roman/reference/21_3/21_3_livre_11.html#465_verso">III, 11, 465 verso</ref>).<lb/>
+          <lb/>
+          • La rivière est presque aussi souvent admirée que blâmée. La mention du Lignon s'accompagne d'un nombre curieusement restreint d'épithètes. <lb/>
+          On rencontre : « la delectable Riviere de Lignon » (<ref target="../_roman/reference/21_3/21_3_livre_1.html#3_recto">III, 1, 3 recto</ref>),
+          « la belle riviere » (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_recto">III, 2, 27 recto</ref>),
+          « la douce riviere » (<ref target="../_roman/reference/21_3/21_3_livre_5.html#196_verso">III, 5, 196 verso</ref>) et les
+          « agreables rivages » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#392_recto">III, 9, 392 recto</ref>).<lb/>
+          On voit aussi « detestable Lignon » (<ref target="../_roman/reference/21_3/21_3_livre_5.html#172_verso">III, 5, 172 verso</ref>), « fascheuse riviere » (<ref target="../_roman/reference/21_3/21_3_livre_5.html#172_verso">III, 5, 172 verso</ref>),  « malheureux et diffame Lignon » (<ref target="../_roman/reference/21_3/21_3_livre_5.html#172_recto">III, 5, 172 recto</ref>),
+          et surtout Lignon « malheureux » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#375_recto">III, 9, 375 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_10.html#423_recto">III, 10, 423 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_10.html#436_verso">III, 10, 436 verso</ref>).<lb/>
+          <lb/>
+          • La plus belle des hyperboles est dans la bouche du druide <ref target="personnage_aa.html#3_adamas">Adamas</ref> quand il parle de <ref target="personnage_dd.html#3_diane">Diane</ref>. La jeune fille, déclare-t-il,  est « l'une des plus agreables bergeres de Lignon, et quand je dis de Lignon, j'entends de toute l'<ref target="repertoire_ee.html#3_europe">Europe</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_11.html#490_recto">III, 11, 490 recto</ref>). La rivière qui représentait une contrée est devenue la synecdoque d'un continent.<lb/>
+          <lb/>
+          • On trouvera une carte des principaux cours d'eau du <ref target="repertoire_ff.html#3_forez">Forez</ref> dans ce <ref target="http://www.loire.fr/upload/docs/image/gif/carte-phosphorees_2008_12_09__11_11_40_463.gif">site</ref> (13 juillet 2012). On notera la qualité des eaux du Lignon.<lb/>
+          Les rivières du <ref target="repertoire_ff.html#3_forez">Forez</ref> jouissent de sites riches en renseignements. Je voudrais remercier ici le <ref target="http://www.loireforez.fr">Site de Loire-Forez</ref>, l'<ref target="http://www.eau-anjou.fr/pied-de-page/contact/">Observatoire de l'eau en Maine et Loire</ref>, et le <ref target="http://www.lignonduforez.fr/index.php">Syndicat Mixte du bassin versant du Lignon, de l'Anzon et du Vizézy</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:164px;">
+                Lignon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lignon">I</ref>, <ref target="#2_lignon">II</ref>, <ref target="#3_lignon">III</ref>, <ref target="#4_lignon">IV</ref>
+          
+          Le Lignon passe par la Bastie à Saint-Étienne-le-Molard
+          (voir le <ref target="http://stetiennelemolard.free.fr/">site</ref> du village, 20 mai 2017). Il lui est arrivé de s'emballer et de déborder en août 2013
+          (voir ce <ref target="http://www.leprogres.fr/loire/2013/08/07/saint-etienne-le-molard-le-lignon-en-furie-dans-la-nuit">site</ref>, 20 mai 2017). <lb/>
+          <lb/>
+          • Le Lignon est d'abord associé avec le suicide de <ref target="personnage_cc.html#4_celadon">Céladon</ref>. C'est à l'endroit où le berger s'est tué que <ref target="personnage_dd.html#4_diane">Diane</ref> se rend avec son troupeau pour être seule (<ref target="../_roman/reference/24_4/24_4_livre_1.html#37">IV, 1, 37</ref>).<lb/>
+          <lb/>
+          • Lieu de résidence des bergers, le Lignon symbolise la vie pastorale aux yeux des dames lyonnaises (<ref target="../_roman/reference/24_4/24_4_livre_1.html#55">IV, 1, 55</ref> ; <ref target="../_roman/reference/24_4/24_4_livre_1.html#58">IV, 1, 58</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_pp.html#4_phillis">Phillis</ref> se demande pourquoi les dame lyonnaises ne quittent pas  les rives du fleuve (<ref target="../_roman/reference/24_4/24_4_livre_1.html#62">IV, 1, 62</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> rejoint les bergères du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_1.html#69">IV, 1, 69</ref>).<lb/>
+          <lb/>
+          • Un petit bras de Lignon passe près de la grande allée (<ref target="../_roman/reference/24_4/24_4_livre_1.html#72">IV, 1, 72</ref>).<lb/>
+          <lb/>
+          • <ref target="repertoire_aa.html#4_arar">Arar</ref> et Lignon s'opposent (<ref target="../_roman/reference/24_4/24_4_livre_1.html#74">IV, 1, 74</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#4_astree">Astrée</ref> déteste le Lignon, lieu du souvenir (<ref target="../_roman/reference/24_4/24_4_livre_1.html#90">IV, 1, 90</ref>).<lb/>
+          <lb/>
+          • Un ruisseau du Lignon est près des hameaux (<ref target="../_roman/reference/24_4/24_4_livre_1.html#155">IV, 1, 155</ref>).<lb/>
+          
+          <lb/>
+          • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> s'assied près du Lignon, refuge des malheureux (<ref target="../_roman/reference/24_4/24_4_livre_2.html#200">IV, 2, 200</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, après avoir écouté <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> discourir, considère que les bergers du Lignon sont meilleurs que les autres hommes (<ref target="../_roman/reference/24_4/24_4_livre_2.html#219">IV, 2, 219</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> prétend qu'elle voulait voir le Lignon depuis longtemps (<ref target="../_roman/reference/24_4/24_4_livre_2.html#223">IV, 2, 223</ref>).<lb/>
+          <lb/>
+          Dans son histoire pourtant, il n'en a jamais été question.<lb/>
+            <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> est en <ref target="repertoire_ff.html#4_forez">Forez</ref> pour obéir à un oracle (<ref target="../_roman/reference/24_4/24_4_livre_4.html#882">IV, 4, 882</ref>).
+          <lb/>
+          • <ref target="personnage_aa.html#4_alexis">Alexis</ref> répond à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> que les bergères qu'elle a rencontrées sont ce que le Lignon a de plus beau à montrer (<ref target="../_roman/reference/24_4/24_4_livre_2.html#223">IV, 2, 223</ref>). La druide inclut <ref target="personnage_dd.html#4_daphnis">Daphnis</ref>.<lb/>
+          <lb/>
+          Cette bergère est venue des rives du <ref target="repertoire_ff.html#furan">Furan</ref> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#160_recto">I, 6, 160 recto</ref>), comme <ref target="personnage_pp.html#phillis">Phillis</ref> est venue des rives de l'<ref target="repertoire_aa.html#allier">Allier</ref>
+                  <lb/>
+            (<ref target="../_roman/reference/21_1/21_1_livre_4.html#95_recto">I, 4, 95 recto</ref>)
+          <lb/>
+          • Les bergères déguisées habitent   le long du Lignon. C'est le cas par exemple de <ref target="personnage_ff.html#4_florice">Florice</ref>, dame lyonnaise (<ref target="../_roman/reference/24_4/24_4_livre_2.html#226">IV, 2, 226</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#4_astree">Astrée</ref> rappelle qu'<ref target="personnage_hh.html#4_hylas">Hylas</ref> est devenu berger près du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_2.html#238">IV, 2, 238</ref>). <lb/>
+          <lb/>
+          En fait, le jeune homme est arrivé déjà vêtu en berger  (<ref target="../_roman/reference/21_1/21_1_livre_1.html#15_verso">I, 1, 15 verso</ref>).
+          <lb/>
+          • Pour la première fois, le Lignon est associé à un rite funéraire : On y lave<hi rend="cache"> </hi>
+                <ref target="note_4.html#4_laver">η</ref> les corps des chevaliers décédés  (<ref target="../_roman/reference/24_4/24_4_livre_3.html#387">IV, 3, 387</ref>). <lb/>
+          <lb/>
+          • Lignon et <ref target="repertoire_aa.html#4_arar">Arar</ref> représentent deux lieux où <ref target="personnage_hh.html#4_hylas">Hylas</ref> se conduit de la même manière (<ref target="../_roman/reference/24_4/24_4_livre_3.html#393">IV, 3, 393</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_hh.html#4_hylas">Hylas</ref> fait semblant de croire que <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> déguisée est une bergère de Lignon ... mais qui vient d'arriver (<ref target="../_roman/reference/24_4/24_4_livre_3.html#395">IV, 3, 395</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#4_alexis">Alexis</ref> considère que  des femmes et des hommes exceptionnels habitent sur les rives du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#422">IV, 3, 422</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_dd.html#4_diane">Diane</ref> déclare que, près du Lignon comme ailleurs, les hommes sont trompeurs (<ref target="../_roman/reference/24_4/24_4_livre_3.html#423">IV, 3, 423</ref>).<lb/>
+          <lb/>
+          • D'après <ref target="personnage_aa.html#4_alexis">Alexis</ref>, <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> pourrait vivre près du Lignon ou ailleurs (<ref target="../_roman/reference/24_4/24_4_livre_3.html#426">IV, 3, 426</ref>). <lb/>
+          <lb/>
+          • Le Lignon a vu la mort de <ref target="personnage_ff.html#4_filandre">Filandre</ref> rappelle <ref target="personnage_dd.html#4_diane">Diane</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#438">IV, 3, 438</ref>).<lb/>
+          <lb/>
+           Cependant Lignon n'a pas été  nommé dans l'histoire de la bergère <lb/>
+            (<ref target="../_roman/reference/21_1/21_1_livre_6.html#158_recto">I, 6, 158 recto</ref> sq.).          
+          <lb/>
+          • <ref target="personnage_hh.html#4_hylas">Hylas</ref> pratique l'hyperbole : la beauté de <ref target="personnage_cc.html#4_celidee">Célidée</ref> honorait toutes les rives du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#448">IV, 3, 448</ref>).<lb/>
+          <lb/>
+          •  Il faut traverser le Lignon pour  parvenir à <ref target="repertoire_mm.html#4_marcilly">Marcilly</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#477">IV, 3, 477</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ff.html#4_florice">Florice</ref>, <ref target="personnage_pp.html#4_palinice">Palinice</ref> et <ref target="personnage_cc.html#4_circene">Circène</ref> n'ont pas encore raconté leur histoire. Selon <ref target="personnage_ll.html#4_lycidas">Lycidas</ref>, le long des rives du Lignon, rares sont les étrangers qui ont gardé aussi longtemps le secret de leurs aventures (<ref target="../_roman/reference/24_4/24_4_livre_3.html#482">IV, 3, 482</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> considère que l'injustice de <ref target="personnage_dd.html#4_diane">Diane</ref> a terni l'image du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#490">IV, 3, 490</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> apprend à <ref target="personnage_aa.html#4_alcandre">Alcandre</ref> et <ref target="personnage_aa.html#4_amilcar">Amilcar</ref> qu'il a vu les dames lyonnaises, <ref target="personnage_ff.html#4_florice">Florice</ref>, <ref target="personnage_pp.html#4_palinice">Palinice</ref> et <ref target="personnage_cc.html#4_circene">Circène</ref>, sur les rives du Lignon, avec les bergères (<ref target="../_roman/reference/24_4/24_4_livre_3.html#518">IV, 3, 518</ref>). <lb/>
+          Les jeunes gens sont tellement satisfaits qu'ils traitent <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> de <ref target="glossaire_gg.html#genie">Génie</ref> du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#519">IV, 3, 519</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_pp.html#4_phillis">Phillis</ref> considère <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> comme l'un des atouts du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#532">IV, 3, 532</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#4_astree">Astrée</ref> aurait voulu qu'<ref target="personnage_aa.html#4_alexis">Alexis</ref> soit née bergère de Lignon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#564">IV, 3, 564</ref>).<lb/>
+          <lb/>
+          • Lignon est encore une fois complément de nom de berger, pour indiquer les compagnons d'<ref target="personnage_aa.html#4_astree">Astrée</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#581">IV, 3, 581</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> s'endort au bord du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#586">IV, 3, 586</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> traverse la rivière pour se rendre à <ref target="repertoire_mm.html#4_montverdun">Montverdun</ref> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#591">IV, 3, 591</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_pp.html#4_phillis">Phillis</ref> demande un serment à <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> : il doit jurer par « le dieu de Lignon » (<ref target="../_roman/reference/24_4/24_4_livre_3.html#618">IV, 3, 618</ref>). <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> obtempère (<ref target="../_roman/reference/24_4/24_4_livre_3.html#619">IV, 3, 619</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_pp.html#4_phillis">Phillis</ref> interprète un oracle de manière à ce que <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> devienne le plus heureux des bergers du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#620">IV, 3, 620</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#4_astree">Astrée</ref> considère que le dieu de Lignon écoute les échanges des bergers (<ref target="../_roman/reference/24_4/24_4_livre_3.html#624">IV, 3, 624</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ff.html#4_florice">Florice</ref>, <ref target="personnage_pp.html#4_palinice">Palinice</ref> et <ref target="personnage_cc.html#4_circene">Circène</ref> ont pu oublier les histoires de la Cour pendant leur  séjour sur les rives du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_4.html#642">IV, 4, 642</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>, fuyant <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref>,  cherche refuge auprès des bergers du Lignon, parce qu'<ref target="personnage_aa.html#4_amasis">Amasis</ref> pourrait prendre le parti du Roi des <ref target="repertoire_bb.html#4_bourguignons">Bourguignons</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#867">IV, 4, 867</ref>). <lb/>
+          <lb/>
+          • <ref target="personnage_cc.html#4_clotilde">Clotilde</ref> explique à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> les avantages de la vie près des bergères du Lignon (<ref target="../_roman/reference/24_4/24_4_livre_4.html#874">IV, 4, 874</ref>).<lb/>
+          <lb/>
+          • Avec son bâton, le <ref target="personnage_uz.html#4_vieux_homme">Vieil homme</ref> montre à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> que <ref target="repertoire_ff.html#4_feurs">Feurs</ref> est arrosé par la <ref target="#4_loire">Loire</ref>, et que  le Lignon entre dans le fleuve un peu plus bas, à droite (<ref target="../_roman/reference/24_4/24_4_livre_4.html#911">IV, 4, 911</ref>). <lb/>
+          <lb/>
+          • À l'inverse des autres rivières, le Lignon du <ref target="repertoire_ff.html#4_forez">Forez</ref> coule d'ouest en est (<ref target="../_roman/reference/24_4/24_4_livre_4.html#911">IV, 4, 911</ref>).<lb/>
+          <lb/>
+          • Il passe contre les murs de <ref target="repertoire_bb.html#4_boen">Boën</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#912">IV, 4, 912</ref>).<lb/>
+          <lb/>
+          • La plaine où il serpente est « le plus beau lieu de <ref target="repertoire_ee.html#4_europe">l'Europe</ref> » (<ref target="../_roman/reference/24_4/24_4_livre_4.html#912">IV, 4, 912</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_ll.html#4_leonide">Léonide</ref> souhaite retourner sur les rives du Lignon pour y retrouver <ref target="personnage_cc.html#4_celadon">Céladon</ref> (<ref target="../_roman/reference/24_4/24_4_livre_5.html#916">IV, 5, 916</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:164px;">
+                Ligurie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_ligurie">II</ref>, <ref target="#3_ligurie">III</ref>
+          
+          Écrit aussi <hi rend="italics">Lygurie</hi>.
+          Région d'<ref target="repertoire_ik.html#2_italie">Italie</ref>, près du golfe de Gênes. Un historien moderne écrit : « Quant aux mystérieux Ligures, leur rôle dans le peuplement du pays du Rhône et des Alpes fut considérable ; ils dominèrent paraît-il ces régions  jusqu’à la venue des Celtes <ref target="repertoire_aa.html#allobroges">allobroges</ref> » (<ref target="bibliographie.html#menabrea">Ménabréa</ref>, p. 10).<lb/>
+          <lb/>
+          • <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> vit à Marseille et se rend au bord de la mer « prenant le costé de la Lygurie » (<ref target="../_roman/reference/21_2/21_2_livre_12.html#766">II, 12, 766</ref>). C'est là que le navire d'<ref target="personnage_uz.html#2_ursace">Ursace</ref> et d'<ref target="personnage_no.html#2_olimbre">Olimbre</ref> fait naufrage. <lb/>
+          <lb/>
+          Comme plus de trois cents kilomètres séparent Marseille de Gênes, nommer la Ligurie pour dire simplement <hi rend="italics">tourner à gauche</hi> est une coquetterie d'auteur. Reconnaissons que   le domaine des  « mystérieux Ligures » était probablement étendu <lb/>
+            (<ref target="bibliographie.html#menabrea">Ménabréa</ref>, p. 10). 
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ligurie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_ligurie">II</ref>, <ref target="#3_ligurie">III</ref>
+          
+          La région va des Alpes Pennines à la mer Méditerranée (<ref target="bibliographie.html#orsieres">Orsières</ref>, p. 18). Elle « s'étendit d'abord du côté du Nord jusqu'au Pô,  mais fut ensuite restreinte aux pays situés entre la mer et l'Apennin ;  à l'Ouest, les Ligures s'étendaient jusqu'au Var et même  jusqu'au Rhône ; à l'Est, jusqu'à la Macra » (Voir ce <ref target="http://www.cosmovisions.com/histLigurie.htm">site</ref>, 12 novembre 2012). Le nom des
+
+          Ligures signifie « Hommes de mer » (<ref target="bibliographie.html#orsieres">Orsières</ref>, Note, p. 91) ou « peuple de la montagne » (<hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi> siècle</hi>, Article <hi rend="italic">Ligurie</hi>).<lb/>
+          <lb/>
+          • En revenant de <ref target="#3_lyon">Lyon</ref> avec <ref target="personnage_cc.html#3_criseide">Criséide</ref>, <ref target="personnage_aa.html#3_arimant">Arimant</ref> devrait passer par la Ligurie ; chemin plus long mais plus sûr pense <ref target="personnage_bb.html#3_bellaris">Bellaris</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#348_recto">III, 8, 348 recto</ref>).<lb/>
+          <lb/>
+          • Voir ce <ref target="http://upload.wikimedia.org/wikipedia/commons/c/c2/Gallia_cisalpina.jpg">site</ref> (10 février 2014) et <ref target="http://nuke.costumilombardi.it/Portals/0/k%C3%A0%20cartina%20Gallia%20Cisalpina%20a.jpg">celui-là</ref> (20 avril 2015).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Lingones</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#3_lingones">III</ref>
+          
+          Aujourd'hui  les <hi rend="italic">Lingons</hi>. <ref target="bibliographie.html#pline">Pline</ref> les nomme (IV, 31). Ils vivent autour de Langres. Séparés des <ref target="repertoire_ss.html#3_sequanois">Séquanois</ref> par le  cours supérieur de la Saône et des <ref target="repertoire_ee.html#3_eduois">Éduois</ref> par le territoire des Mandubiens (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 708). Certains ont émigré en Italie et occupé le pays appelé depuis Romagne (<hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi> siècle</hi>).<lb/>
+          <lb/>
+          • L'un des peuples soumis à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_recto">III, 8, 352 recto</ref>).<lb/>
+          <lb/>
+          • Les Lingons portent le <ref target="glossaire_bb.html#bardiac">bardiac</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#540_recto">III, 12, 540 recto</ref>), information qui vient de <ref target="bibliographie.html#fauchet">Fauchet</ref> (p. 11).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lisi</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_lisi">III</ref>
+          
+          Il s'agit de Lizy-sur-Ourcq (Seine-et-Marne), commune située au confluent de l'Ourcq et de la Marne, sur l'axe Paris-Reims. C'était un bastion protestant au XVII<hi rend="supn">e</hi> siècle. Voir le <ref target="http://www.lizy-sur-ourcq.com/patrimoine.htm">site</ref> de la ville (15 décembre 2012). Voir <ref target="bibliographie.html#gaumei">Gaume</ref> (pp. 224-225) et Itinéraire<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_chemin_itineraire">η</ref>.<lb/>
+          <lb/>
+          • Pour revenir de la <ref target="repertoire_uz.html#3_ville_des_remois">ville des Rémois</ref>, Reims, <ref target="personnage_aa.html#3_andrimarte">Andrimarte</ref> doit passer par Lizy (<ref target="../_roman/reference/21_3/21_3_livre_12.html#542_verso">III, 12, 542 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loire</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#loire">I</ref>, <ref target="#2_loire">II</ref>, <ref target="#3_loire">III</ref>, <ref target="#4_loire">IV</ref>
+          
+          Écrit aussi <hi rend="italics">Loyre</hi>, toujours sans article. Ce fleuve joue le rôle de frontière. Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> a dessiné une carte de la vallée de la Loire astréenne (p. 181). <lb/>
+          <lb/>
+          • <ref target="personnage_aa.html#alaric">Alaric</ref>, roi des <ref target="repertoire_uz.html#visigoths">Wisigoths</ref>, conquiert les provinces « de deça Loyre » (<ref target="../_roman/reference/21_1/21_1_livre_2.html#31_recto">I, 2, 31 recto</ref>). <lb/>
+          <lb/>
+          •  La Loire reçoit le <ref target="#lignon">Lignon</ref> à <ref target="repertoire_ff.html#feurs">Feurs</ref> (<ref target="../_roman/reference/21_1/21_1_livre_1.html#1_verso">I, 1, 1 verso</ref>), c'est pour cela que les Bergers cherchent <ref target="personnage_cc.html#celadon">Céladon</ref> jusque là (<ref target="../_roman/reference/21_1/21_1_livre_1.html#19_recto">I, 1, 19 recto</ref>). <lb/>
+          <lb/>
+          Les bergers parcourent donc une dizaine de kilomètres (Voir le site de <ref target="http://www.annuaire-mairie.fr/mairie-saint-etienne-le-molard.html">Saint-Étienne-le-Molard</ref>).
+          <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#loire">I</ref>, <ref target="#2_loire">II</ref>, <ref target="#3_loire">III</ref>, <ref target="#4_loire">IV</ref>
+          
+          <ref target="bibliographie.html#la_mure">La Mure</ref> appelle la Loire « le Pere des Fleuves de <ref target="repertoire_gg.html#2_gaule">Gaule</ref> » (I, p. 18) et relève « l'avantage qu'elle a  de porter batteau plus loin qu'aucun autre Fleuve de France » (I, p. 177). <lb/>
+          <lb/>
+          • La Loire a ses Bergers (<ref target="../_roman/reference/21_2/21_2_livre_8.html#490">II, 8, 490</ref>). <lb/>
+          <lb/>
+          •             Le <ref target="#2_lignon">Lignon</ref> rejoint la Loire à la hauteur de <ref target="repertoire_ff.html#2_feurs">Feurs</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#629">II, 10, 629</ref>). <lb/>
+          <lb/>
+          •             Le territoire des <ref target="repertoire_uz.html#visigoths">Wisigoths</ref> du temps de <ref target="personnage_tt.html#2_thierry">Thierry</ref> va des <ref target="repertoire_pp.html#2_pyrenees">Pyrénées</ref> à la Loire (<ref target="../_roman/reference/21_2/21_2_livre_12.html#823">II, 12, 823</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#loire">I</ref>, <ref target="#2_loire">II</ref>, <ref target="#3_loire">III</ref>, <ref target="#4_loire">IV</ref>
+          
+          • La Loire est nommée à la tête des rivières qui arrosent des hameaux de bergers (<ref target="../_roman/reference/21_3/21_3_livre_4.html#159_recto">III, 4, 159 recto</ref>). <lb/>
+          <lb/>
+          • Elle reçoit le <ref target="#3_lignon">Lignon</ref> à <ref target="repertoire_ff.html#3_feurs">Feurs</ref> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#172_recto">III, 5, 172 recto</ref>).<lb/>
+          <lb/>
+          • Elle est moins paisible que  la <ref target="repertoire_ss.html#3_seine">Seine</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#510_verso">III, 12, 510 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Loire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#loire">I</ref>, <ref target="#2_loire">II</ref>, <ref target="#3_loire">III</ref>, <ref target="#4_loire">IV</ref>
+          
+          •  Avec son bâton, le <ref target="personnage_uz.html#4_vieux_homme">Vieil homme</ref> montre à <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> que <ref target="repertoire_ff.html#4_feurs">Feurs</ref> est arrosé par la Loire, et que  le <ref target="#4_lignon">Lignon</ref> entre dans la Loire un peu plus bas, à droite (<ref target="../_roman/reference/24_4/24_4_livre_4.html#911">IV, 4, 911</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:167px; background-color:#CCCCCC;">
+                Lombrions</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_lombrions">II</ref>
+          
+          L'édition de 1610 donne <hi rend="italics">Lambrions</hi>, l'édition de 1621 <hi rend="italics">Lombrions</hi>. 
+          <lb/>
+          Il s'agit des <hi rend="italic">Lambrions</hi>.<lb/>
+            <ref target="bibliographie.html#fauchetr">Fauchet</ref> offre une liste similaire à celle d'Honoré d'Urfé en décrivant les armées d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> dans son <hi rend="italics">Recueil</hi>. Il  nomme alors les <hi rend="italics">Lambrions</hi> : « Il y avoit des <ref target="repertoire_ff.html#2_francs">Francz</ref>, <ref target="repertoire_ss.html#2_sarmates">Sarmates</ref>, <ref target="repertoire_aa.html#2_armoricains">Armoriquains</ref>, Litians (que [Jehant Blond appelle Lutetiens) <ref target="repertoire_bb.html#2_bourguignons">Bourguignons</ref>, <ref target="repertoire_ss.html#2_saxons">Saxons</ref>, <ref target="repertoire_qr.html#2_ribarols">Ribarols</ref>, Lambrions, jadis soldats de l'Ordonnance Romaine lors aliez et gens de secours » (f° 92 recto). Dans ses <hi rend="italics">Antiquitez</hi> aussi, <ref target="bibliographie.html#fauchet">Fauchet</ref> écrit <hi rend="italics">Lambrions</hi> (p. 95). <lb/>
+          Ni <hi rend="italic">Lambrions</hi> ni <hi rend="italic">Lombrions</hi> ne figurent  dans les listes de peuples dressées par F. Lot, ou dans celles de  V. Kruta. S'agit-il des Lombards (<hi rend="italics">Langobardi</hi> ou <hi rend="italics">Lombardi</hi>) ? Ce peuple n'est entré en <ref target="repertoire_ik.html#2_italie">Italie</ref> qu'au VI<hi rend="supn">e</hi> siècle. Il pourrait s'agir d'un autre peuple du Nord de l'<ref target="repertoire_ik.html#2_italie">Italie</ref> dont le nom viendrait de <hi rend="italics">Lambro</hi>, rivière de Lombardie. <ref target="bibliographie.html#pline">Pline</ref> nomme cet affluent du <ref target="repertoire_pp.html#2_po">Pô</ref> le <hi rend="italics">Lambrus</hi> (III, 118). <lb/>
+          <lb/>
+          • Il y a des <ref target="#2_lombrions">Lambrions</ref> aussi bien dans les armées d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> que dans les armées d'<ref target="personnage_aa.html#2_attila">Attila</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#825">II, 12, 825</ref>). Ce renseignement ne figure pas dans Fauchet.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Londres</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#londres">I</ref>
+          
+          Capitale de la <ref target="repertoire_gg.html#grande_bretagne">Grande-Bretagne</ref>. <lb/>
+          <lb/>
+          • Cette ville est évoquée dans l'<ref target="../_roman/reference/21_1/21_1_livre_2.html#histoire_d_alcippe">Histoire d'Alcippe</ref> - qui se déroule au moment où le roi <ref target="personnage_aa.html#artus">Artus</ref> crée les chevaliers de la Table ronde (<ref target="../_roman/reference/21_1/21_1_livre_2.html#43_recto">I, 2, 43 recto</ref>), <lb/>
+          <lb/>
+          • Londres revient dans l'<ref target="../_roman/reference/21_1/21_1_livre_12.html#histoire_de_lydias_et_de_melandre">Histoire de Lydias et de Melandre</ref>, parce que <ref target="personnage_mm.html#melandre">Mélandre</ref> est Anglaise (<ref target="../_roman/reference/21_1/21_1_livre_12.html#384_recto">I, 12, 384 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:154px; background-color:#FFCCFF;">
+                Lôys</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#3_louis">III</ref>
+          
+          Louis XIII, 27 septembre  1601 - 14 mai 1643. Fils d'<ref target="repertoire_hh.html#3_henri">Henri IV</ref> et de Marie de Médicis<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#marie">η</ref>. Couronné Roi de France à Reims, le 17 octobre 1610, Louis XIII  est marié à Anne d'Autriche le 28 novembre 1615. <lb/>
+          <lb/>
+          • En 1619, quand d'Urfé lui dédie  son <hi rend="italics">Astrée</hi>, le Roi, qui a presque l'âge des  héros du roman, vient  de faire arrêter Concini et d'éloigner sa mère. « Louis XIII a été populaire vers ses vingt ans. L'opinion lui a su gré d'avoir renversé Concini » (<ref target="bibliographie.html#batiffol_louis">Batiffol</ref>, p. 171).<lb/>
+          <lb/>
+          • <hi rend="italics">Lois</hi> est dans <hi rend="italics">Louis</hi>, dit le romancier dans l'épître. Une anecdote rapportée par Racan et par Tallemant de Réaux veut que le petit Louis XIII ait écrit son nom sans <hi rend="italics">u</hi> (<ref target="bibliographie.html#heneinp">Henein</ref>, p. 51, note 84). En effet, dans une lettre du 6 mai 1608, le Dauphin signe une lettre à son père « Loys » (<ref target="bibliographie.html#henri_lettres">Henri</ref>, pp. 315-316). C'est Malherbe qui l'a relevé le premier (<ref target="bibliographie.html#tallemant">Tallemant</ref>, I, p. 111). <ref target="bibliographie.html#alexis">Camus</ref> parle du « Juste Loys » en 1623 (<hi rend="italic">L'Alexis</hi>, VI, dédicace non paginée). Selon <ref target="bibliographie.html#menestrier_origine">Menestrier</ref>, <hi rend="italic">lys</hi> est aussi dans <hi rend="italic">Louys</hi>, d'où le choix que fit Louis VII de la fleur de lys pour désigner les rois de France (p. 138).<lb/>
+          <lb/>
+          • En comparant les deux épîtres  dédicatoires de <hi rend="italics">L'Astrée</hi>, on décèle des différences de ton sensibles. <lb/>
+          La <ref target="../_roman/preliminaire/10_2/10_2_liminaires.html#dedicace">première</ref>, adressée  à <ref target="repertoire_hh.html#2_henri">Henri IV</ref>, a été écrite en 1610, pour la deuxième partie du roman. Elle a paru quelques semaines avant l'assassinat d'<ref target="repertoire_hh.html#2_henri">Henri IV</ref>. La <ref target="../_roman/preliminaire/19_3/19_3_liminaires.html#3_dedicace_louis">seconde</ref>,  composée en 1619, pour la troisième partie, est adressée à Louis XIII. Cependant, l'édition complète de 1621 et toutes celles qui l'ont suivie placent l'épître à <ref target="repertoire_hh.html#henri">Henri IV</ref> au début de la première partie, et l'épître à Louis XIII au début de la troisième.<lb/>
+          <lb/>
+          Dans cette édition critique, la version fonctionnelle suit l'édition de 1621. <lb/>
+          La <ref target="../_roman/reference/21_1/21_1_liminaires.html#dedicace">dédicace</ref> à  <ref target="repertoire_hh.html#henri">Henri IV</ref> est à la tête de la première partie, <lb/>
+          et la <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_dedicace_louis">dédicace</ref> à  Louis XIII  à la tête de la troisième partie. 
+<lb/>
+          • Fils d'<ref target="repertoire_hh.html#henri">Henri IV</ref> et père de Louis XIV, Louis XIII manque de prestige malgré ses  trente-trois ans de règne et ses victoires militaires. Manuels et dictionnaires  lui accordent moins de place qu'à Richelieu, son ministre. On reconnaît au Roi d'incontestables qualités de  chasseur, et on évoque encore sa collection d'armes à feu, « le cabinet du Roi » (<ref target="bibliographie.html#venner">Venner</ref>, p. 133). C'est à cause de son amour pour la chasse, que Louis XIII invente le mot <hi rend="italic">merlaison</hi> et compose le « Ballet de la Merlaison » en 1635 (Cette danse ressuscite, voir ce <ref target="https://www.youtube.com/watch?v=Sj-pO-a8V9E">site</ref>, 23 janvier 2020). <lb/>
+          <lb/>
+          • <ref target="bibliographie.html#malherbe_oeuvres">Malherbe</ref> nous apprend dans ses <hi rend="italic">Lettres</hi> que le 20 février 1614, le petit Louis XIII endossa sa nouvelle armure, « et disputa longtemps qu'il dormirait mieux avec ce casque qu'avec son bonnet de nuit » (p. 624). Le 17 octobre de la même année, l'enfant « dit  qu'il ne voulait pas qu'on l'appelât Louis le Bègue, mais Louis le Juste » (p. 670). Le Roi méritait-il ce surnom de Juste auquel Honoré d'Urfé fait allusion dans sa <ref target="../_roman/preliminaire/19_3/19_3_liminaires.html#3_dedicace_louis">dédicace</ref> ? C'est un compliment que lui ont fait les flatteurs contemporains. Le duc de Ventadour écrit même au Roi en 1619 : « On voit renaître en la personne de votre Majesté les saintes et généreuses actions de ce bon roi saint Louis » (Cité par <ref target="bibliographie.html#batiffol_louis">Batiffol</ref>, p. 259).<lb/>
+          <ref target="bibliographie.html#voltaire">Voltaire</ref> affirme  « que Louis XIII eut dès son enfance le surnom de <hi rend="italic">Juste</hi>, parce qu'il était né sous le signe de la Balance » (I, p. 53) ... Les historiens modernes le répètent. <lb/>
+          <lb/>
+          • Louis XIII  n'aimait pas les livres, « ne pouvant lire ni prononcer qu'avec grandissime peine » (<ref target="bibliographie.html#batiffol_louis">Batiffol</ref>, p. 295). Son gouverneur, Gilles de Souvré (père de la future Mme de  Sablé), n'était d'ailleurs pas un homme de lettres. <ref target="repertoire_hh.html#henri">Henri IV</ref>, dans sa correspondance, lui donne « le sobriquet de la Gode, femme de mauvaise vie » (<ref target="bibliographie.html#henri_lettres">Henri</ref>, p. 168). Le précepteur de Louis XIII, plus instruit que le gouverneur, ne valait pas beaucoup mieux. Vauquelin des Yveteaux était un « singulier personnage, de doctrines suspectes, de mœurs douteuses » (<ref target="bibliographie.html#batiffol_marie">Batiffol</ref>, p. 271).<lb/>
+          <lb/>
+          • <ref target="bibliographie.html#tallemant">Tallemant des Réaux</ref> rapporte que le Roi ne se montrait pas généreux envers les écrivains qui lui  dédiaient leurs œuvres :  « Il raya après la mort du Cardinal  toutes les pensions de gens de lettres, en disant : Nous n'avons plus  affaire de cela » (I, p. 344). <lb/>
+          <lb/>
+          • On trouve dans ce <ref target="http://2.bp.blogspot.com/_wwe_WiNJu8s/SpqK2kGbaDI/AAAAAAAAB2E/BEW7w79_kM4/s400/Louis XIII par Frans Pourbus le Jeune.jpg">site</ref> (30 septembre 2010) un portrait de Louis XIII réalisé par Pourbus  représentant le Roi jeune.   Le vendredi 11 février 1611, écrit Héroard, « à trois heures de l'après-midi, Pourbes, flamand, peintre excellent, le tira de  sa hauteur » (cité par <ref target="bibliographie.html#batiffol_marie">Batiffol</ref>, p. 440). Dans ce <ref target="http://www.photo.rmn.fr/C.aspx?VP3=SearchResult&amp;VBID=2CO5PC0GCFK8E&amp;SMLS=1&amp;RW=1123&amp;RH=608">site</ref> (12 mai 2015), la Réunion des Musées Nationaux présente des images du Roi, de ses armes. L'armure que le jeune Louis a reçue en 1611 est analysée par J.-P. <ref target="bibliographie.html#reverseau_armes">Reverseau</ref> (pp. 198-201).<lb/>
+          Un portrait dû à Rubens réalisé avant 1625 se trouve dans ce <ref target="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Louis_XIII.jpg/175px-Louis_XIII.jpg">site</ref> (30 septembre 2010). Voir <ref target="galerie.html#louis13">Galerie des portraits</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:154px; background-color:#CCCCCC;">
+                Luteciens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#2_luteciens">II</ref>
+          
+          On pourrait croire qu'il s'agit de habitants de Lutèce, port sur la <ref target="repertoire_ss.html#seine">Seine</ref>,  « île de la Cité des Parisii » (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 713).  Mais <ref target="bibliographie.html#fauchetr">Fauchet</ref>, en décrivant la bataille des <ref target="repertoire_cc.html#2_champs_catalauniques">Champs Catalauniques</ref>, précise que  des « Litians que Blond [Jehan Lebland] appelle Lutetiens »  servent dans l'armée d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> (f° 92 recto). <hi rend="italics">Lutetiens</hi> et <ref target="#2_luteciens">Lutéciens</ref> sont peut-être des habitants du Latium, des Latins. <lb/>
+          <lb/>
+          • Des <ref target="#2_luteciens">Lutéciens</ref> font partie de l'armée d'<ref target="personnage_aa.html#2_attila">Attila</ref> aussi bien que de l'armée d'<ref target="personnage_aa.html#2_aetius">Ætius</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#825">II, 12, 825</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lyon</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lyon">I</ref>, <ref target="#2_lyon">II</ref>, <ref target="#3_lyon">III</ref>, <ref target="#4_lyon">IV</ref>
+          
+          Écrit aussi <hi rend="italic">Lion</hi>. Le nom ancien de Lyon, <hi rend="italic">Lugdunum</hi>, peut signifier mont des corbeaux, mont désiré,  mont lumineux, ou encore mont du dieu Lug (<ref target="bibliographie.html#longnon">Longnon</ref>, p. 33). Lyon « paroit entre les autres villes comme la rose entre les violettes, [elle] a en gros tout ce que les autres n'ont qu'en détail », écrit Pierre <ref target="bibliographie.html#matthieu_entree">Matthieu</ref> quand <ref target="repertoire_hh.html#henri">Henri IV</ref> entre dans la ville en 1595 (p. 32).<lb/>
+          <lb/>
+          • Alors que la description initiale du <ref target="repertoire_ff.html#forez">Forez</ref> est entièrement écrite au présent de l'indicatif, le pays, nous dit-on, est situé « aupres de l'<hi rend="italics">ancienne</hi>
+                <hi rend="cache"> </hi>
+                <ref target="note_4.html#4_ancienne">η</ref> ville de Lyon » (<ref target="../_roman/reference/21_1/21_1_livre_1.html#1_recto">I, 1, 1 recto</ref>).<lb/>
+          <lb/>
+          L'épithète doit peut-être rappeler le passé historique de la ville : <ref target="personnage_cc.html#cesar">Jules César</ref> s'était établi à Lyon, et son successeur, Munatius Plancus, aussi. 
+          <lb/>
+          • <ref target="personnage_ss.html#silvandre">Silvandre</ref>, se rendant en <ref target="repertoire_ff.html#forez">Forez</ref>, passe par « la <ref target="repertoire_uz.html#ville_de_plancus">ville de Plancus</ref> », c'est-à-dire Lyon (<ref target="../_roman/reference/21_1/21_1_livre_8.html#231_recto">I, 8, 231 recto</ref>). <lb/>
+          <lb/>
+          • Les compagnons de voyage d'<ref target="personnage_hh.html#hylas">Hylas</ref> évoquent Lyon et son temple de <ref target="repertoire_uz.html#venus">Vénus</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#252_recto">I, 8, 252 recto</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_hh.html#hylas">Hylas</ref> s'y arrête pour tenir compagnie à <ref target="personnage_cc.html#cloris">Cloris</ref> et <ref target="personnage_qr.html#rosidor">Rosidor</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#259_recto">I, 8, 259 recto</ref>). Il  tombe alors amoureux d'une nouvelle maîtresse, ce qui ouvre la série lyonnaise de ses amours.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lyon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lyon">I</ref>, <ref target="#2_lyon">II</ref>, <ref target="#3_lyon">III</ref>, <ref target="#4_lyon">IV</ref>
+          
+          <ref target="bibliographie.html#la_mure">La Mure</ref> témoigne de la rivalité du <ref target="repertoire_ff.html#2_forez">Forez</ref> et de Lyon. La ville, affirme-t-il, faisait partie du <ref target="repertoire_ff.html#2_forez">Forez</ref> du temps des <ref target="repertoire_qr.html#2_romains">Romains</ref> (I, p. 106) ; elle a été fondée par Plancus sur  le territoire des <ref target="repertoire_ss.html#2_segusiens">Ségusiens</ref> (I, p. 16). Pierre <ref target="bibliographie.html#matthieu_entree">Matthieu</ref> donne plus de détais : « Munatius Plancus peupla d'une colonie Romaine sa nouvelle ville de Lyon qu'il avoit fait bastir sur la montagne, au pied de laquelle le <ref target="repertoire_qr.html#rhone">Rosne</ref> se marie ou plutost ravit la <ref target="repertoire_ss.html#saone">Saone</ref> » (p. 38).<lb/>
+            <lb/>
+            • Lyon est attaché au personnage d'<ref target="personnage_hh.html#2_hylas">Hylas</ref> dans la deuxième partie. Le jeune homme rappelle qu'il y était (<ref target="../_roman/reference/21_2/21_2_livre_3.html#168">II, 3, 168</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_4.html#194">II, 4, 194</ref>). Il y a fait la connaissance de nombreuses dames, dont <ref target="personnage_pp.html#2_parthenope">Parthénopé</ref> (<ref target="../_roman/reference/21_2/21_2_livre_4.html#201">II, 4, 201</ref>). <ref target="personnage_ss.html#2_silvandre">Silvandre</ref> compare <ref target="personnage_hh.html#2_hylas">Hylas</ref> aux orateurs de l'<ref target="repertoire_aa.html#2_athenee">Athénée</ref> de Lyon (<ref target="../_roman/reference/21_2/21_2_livre_9.html#606">II, 9, 606</ref>).<lb/>
+            <lb/>
+          
+           Les trois dames lyonnaises déguisées en Bergères entrent en scène (<ref target="../_roman/reference/21_2/21_2_livre_3.html#164">II, 3, 164</ref>) et racontent leurs mésaventures avec <ref target="personnage_hh.html#2_hylas">Hylas</ref>, mais ne précisent pas qu'elles viennent de Lyon.
+          <lb/>
+          • Une carte de Lyon en 1696 se trouve dans ce <ref target="http://www.swaen.com/os/Lgimg/60696.jpg">site</ref> (30 septembre 2010). </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lyon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lyon">I</ref>, <ref target="#2_lyon">II</ref>, <ref target="#3_lyon">III</ref>, <ref target="#4_lyon">IV</ref>
+          
+          « Frontiere de France et Savoye, passage generral pour les Itales » (<ref target="bibliographie.html#estienne">Estienne</ref>, p. 146). Sur Lyon au XVI<hi rend="supn">e</hi> siècle, voir ce <ref target="http://www.renaissance-france.org/rabelais/pages/lyon.html">site</ref> (20 avril 2015).<lb/>
+          « <ref target="personnage_aa.html#3_anthemius">Anthémius</ref> donne Lyon aux <ref target="repertoire_bb.html#3_bourguignons">Burgondes</ref>, ainsi que Vienne et le Vivarais » (<ref target="bibliographie.html#gascogne">Gascogne</ref>, p. 9). Lyon reste aux <ref target="repertoire_bb.html#3_bourguignons">Burgondes</ref> jusqu'en 496 (<ref target="bibliographie.html#piganiol">Piganiol</ref>, V, p. 410).<lb/>
+          <lb/>
+          • <ref target="personnage_hh.html#3_hylas">Hylas</ref> rappelle qu'il est parvenu à Lyon en suivant sa fortune (<ref target="../_roman/reference/21_3/21_3_livre_7.html#271_verso">III, 7, 271 verso</ref>). C'est là qu'il voit passer <ref target="personnage_cc.html#3_criseide">Criséide</ref>. <lb/>
+          <lb/>
+          • <ref target="personnage_hh.html#3_hylas">Hylas</ref> rappelle           que l'hospitalité est une coutume de « l'ancienne ville de Lyon » (<ref target="../_roman/reference/21_3/21_3_livre_7.html#278_verso">III, 7, 278 verso</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_cc.html#3_criseide">Criséide</ref> est à Lyon prisonnière de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref>, quand elle raconte son histoire (<ref target="../_roman/reference/21_3/21_3_livre_8.html#333_recto">III, 8, 333 recto</ref>). <ref target="personnage_bb.html#3_bellaris">Bellaris</ref> a su la trouver dans cette ville (<ref target="../_roman/reference/21_3/21_3_livre_8.html#333_verso">III, 8, 333 verso</ref>) où on attend le retour de <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#348_recto">III, 8, 348 recto</ref>). <ref target="personnage_aa.html#3_arimant">Arimant</ref> doit quitter sa prison et venir y  rejoindre la jeune fille pour qu'ils s'en aillent ensemble. Les gardiens d'<ref target="personnage_aa.html#3_arimant">Arimant</ref> devinent où il va se rendre  (<ref target="../_roman/reference/21_3/21_3_livre_8.html#351_recto">III, 8, 351 recto</ref>). <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> arrive  et signe un décret de Lyon (<ref target="../_roman/reference/21_3/21_3_livre_8.html#353_recto">III, 8, 353 recto</ref>). Il retrouve <ref target="personnage_cc.html#3_criseide">Criséide</ref> qui s'était sauvée et la ramène dans la ville (<ref target="../_roman/reference/21_3/21_3_livre_8.html#354_verso">III, 8, 354 verso</ref>). <ref target="personnage_bb.html#3_bellaris">Bellaris</ref> revient (<ref target="../_roman/reference/21_3/21_3_livre_8.html#355_verso">III, 8, 355 verso</ref>) et <ref target="personnage_aa.html#3_arimant">Arimant</ref> aussi (<ref target="../_roman/reference/21_3/21_3_livre_8.html#357_verso">III, 8, 357 verso</ref>). Le dénouement aura lieu dans la ville, devant le tombeau<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_tombeau">η</ref> des Deux-Amants.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Lyon</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#lyon">I</ref>, <ref target="#2_lyon">II</ref>, <ref target="#3_lyon">III</ref>, <ref target="#4_lyon">IV</ref>
+          
+          La ville abrite de nombreux vestiges romains. La basilique de N.-D. de  Fourvière par exemple remplace un temple (Voir le <ref target="http://www.parciparlart.com/lyon-un-peu-d-histoire/article/lyon-a-la-periode-gallo-romaine">site</ref> de Par ci par l'art, 15 mai 2017). Cette église saccagée par les guerres de religion a été reconstruite en 1586 (Voir ce <ref target="http://www.fourviere.org/basilique/histoire-de-fourviere/site-construction/">site</ref>, 15 mai 2017).<lb/>
+          <lb/>
+• Les dames lyonnaises entendent un oracle dans le Temple de <ref target="repertoire_uz.html#4_venus">Vénus</ref> à Lyon (<ref target="../_roman/reference/24_4/24_4_livre_1.html#55">IV, 1, 55</ref>).<lb/>
+          <lb/>
+          • Pour indiquer le lieu de sa naissance, « l'ancienne  ville de Lyon » (<ref target="../_roman/reference/24_4/24_4_livre_2.html#233">IV, 2, 233</ref>), <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> utilise cette formule consacrée.<lb/>
+          <lb/>
+          Même formule dans le premier paragraphe de <hi rend="italic">L'Astrée</hi> <lb/>
+            (<ref target="../_roman/reference/21_1/21_1_livre_1.html#1_recto">I, 1, 1 recto</ref>) et dans l'histoire d'<ref target="personnage_hh.html#3_hylas">Hylas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#278_verso">III, 7, 278 verso</ref>).<lb/>
+          
+          <lb/>
+          • <ref target="personnage_hh.html#4_hylas">Hylas</ref> arrive à Lyon, dit <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#238">IV, 2, 238</ref>). <lb/>
+          <lb/>
+           La première mention de ce non-événement a eu lieu dans la première partie (<ref target="../_roman/reference/21_1/21_1_livre_8.html#259_recto">I, 8, 259 recto</ref>).<lb/>
+          
+          <lb/>
+          • <ref target="personnage_hh.html#4_hylas">Hylas</ref> a raconté les aventures qu'il a connues à Lyon, note <ref target="personnage_dd.html#4_diane">Diane</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#239">IV, 2, 239</ref>). <lb/>
+          <lb/>
+          Les récits se sont succédé dans les trois parties<lb/>
+(<ref target="../_roman/reference/21_1/21_1_livre_8.html#259_recto">I, 8, 259 recto</ref> sq. ; <ref target="../_roman/reference/21_2/21_2_livre_4.html#194">II, 4, 194</ref> sq. ; (<ref target="../_roman/reference/21_3/21_3_livre_7.html#271_verso">III, 7, 271 verso</ref> sq.).<lb/>
+Il n'y en a pas dans la quatrième partie de <ref target="bibliographie.html#1624">1624</ref>.
+          <lb/>
+          • La garde de la ville de Lyon est une charge distinguée et lucrative donnée à <ref target="personnage_bb.html#4_bellimarte">Bellimarte</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#247">IV, 2, 247</ref>).<lb/>
+          <lb/>
+          • Lorsque <ref target="personnage_pp.html#4_periandre">Périandre</ref> s'éloigne d'elle, <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> le croit à Lyon pour affaires (<ref target="../_roman/reference/24_4/24_4_livre_2.html#273">IV, 2, 273</ref>).<lb/>
+          <lb/>
+          • Pour comparer les femmes qu'il a aimées, <ref target="personnage_hh.html#4_hylas">Hylas</ref> oppose les <hi rend="italic">clartés</hi> du <ref target="repertoire_ff.html#4_forez">Forez</ref> aux <hi rend="italic">obscurités</hi> de Lyon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#393">IV, 3, 393</ref>). <lb/>
+          <lb/>
+          • Les chevaliers qui veulent protéger <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> sont partis de Lyon (<ref target="../_roman/reference/24_4/24_4_livre_3.html#401">IV, 3, 401</ref>).<lb/>
+          <lb/>
+          • <ref target="personnage_gg.html#4_gondebaud">Gondebaud</ref>, à Lyon, organise  tournois et spectacles pendant les <ref target="repertoire_bb.html#4_bacchanales">Bacchanales</ref>, raconte <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#643">IV, 4, 643</ref>).<lb/>
+          <lb/>
+•          <ref target="personnage_ss.html#4_sigismond">Sigismond</ref> et <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> comptent se rencontrer devant une porte de Lyon, au temple de <ref target="repertoire_uz.html#4_venus">Vénus</ref>, pour consulter l'oracle (<ref target="../_roman/reference/24_4/24_4_livre_4.html#880">IV, 4, 880</ref>). <lb/>
+<lb/>
+          • Après avoir attendu <ref target="personnage_ss.html#4_sigismond">Sigismond</ref> cachée sous un pont toute la journée, <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> envisage de retourner à Lyon (<ref target="../_roman/reference/24_4/24_4_livre_4.html#887">IV, 4, 887</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

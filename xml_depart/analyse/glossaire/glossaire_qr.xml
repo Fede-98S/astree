@@ -1,0 +1,2318 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Glossaire Q-R - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><ref target="glossaire.html">
+              <hi rend="bold">GLOSSAIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="glossaire_aa.html">A</ref><ref target="glossaire_bb.html">B</ref><ref target="glossaire_cc.html">C</ref><ref target="glossaire_dd.html">D</ref><ref target="glossaire_ee.html">E</ref><lb/><ref target="glossaire_ff.html">F</ref><ref target="glossaire_gg.html">G</ref><ref target="glossaire_hh.html">H</ref><ref target="glossaire_ik.html">I</ref><ref target="glossaire_ik.html#j">J</ref><lb/><ref target="glossaire_ik.html#k">K</ref><ref target="glossaire_ll.html">L</ref><ref target="glossaire_mm.html">M</ref><ref target="glossaire_no.html">N</ref><ref target="glossaire_no.html#o">O</ref><lb/><ref target="glossaire_pp.html">P</ref><ref target="glossaire_qr.html">Q</ref><ref target="glossaire_qr.html#r">R</ref><ref target="glossaire_ss.html">S</ref><ref target="glossaire_tt.html">T</ref><lb/><ref target="glossaire_uz.html">U</ref><ref target="glossaire_uz.html#v">V</ref><ref target="glossaire_uz.html#w">W</ref><ref target="glossaire_uz.html#x">X</ref><ref target="glossaire_uz.html#y">Y</ref><ref target="glossaire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>GLOSSAIRE - Q, R</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="width:108px;">
+                Qualité</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme" style="width:393px;">
+                <hi rend="italic">- Pour la qualité de <ref target="personnage_dd.html#3_diane">Diane</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#490_recto">III, 11, 490 recto</ref>) ;<hi rend="italic"> la qualité de <ref target="personnage_mm.html#3_madonthe">Madonthe</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#504_verso">III, 12, 504 verso</ref>). « QUALITÉ, se dit aussi pour marquer le rang, la condition des personnes » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3" style="width:13px;">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Qualité</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">La qualité de cette maladie</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#699">IV, 4, 699</ref>).<lb/>
+        « Manière d'être » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Quand</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Quand vous ne la voudriez pas sçavoir, [...] je vous supplierois de l'entendre</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#257">IV, 2, 257</ref>).<lb/>
+        « Encore que » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Quartier</cell>
+              <cell colspan="1" rowspan="1">« QUARTIER, signifie aussi les personnes du voisinage » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Quartier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Quartier de <ref target="personnage_cc.html#3_clarinte">Clarinte</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#135_verso">III, 4, 135 verso</ref>). « Partie d'une maison » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Que</cell>
+              <cell colspan="1" rowspan="1"> - « Souvent <hi rend="italics">que</hi> exprime seulement l'idée de relation. La nature de la relation est indiquée par d'autres mots » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">        - <hi rend="italics">Que</hi> est souvent mis pour <hi rend="italics">quand</hi> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#654">II, 10, 654</ref>). <lb/>
+        - <hi rend="italics">Quelquefois que</hi> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#41">II, 1, 41</ref>). « Alors que » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italics">Que c'est que</hi> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#117">II, 2, 117</ref>). « Ce que » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        « On ne dit plus gueres maintenant <hi rend="italics">que c'est</hi>, comme l'on disoit autrefois [mais] M. de Malherbe dit, Il n'y a point de loy qui nous apprenne que c'est, que l'ingratitude. Aujourd'huy l'on dit, qui nous apprenne que c'est que, etc. » (<ref target="bibliographie.html#vaugelas">Vaugelas</ref>, p. 173). Patru est moins catégorique dans son édition des <hi rend="italic">Remarques</hi> : cette façon de parler a « été encore employée depuis trente ans par de bons Auteurs » (<ref target="bibliographie.html#vaugelas_1738">Vaugelas</ref>, II, p. 4).<lb/>
+        -
+        « Qu'est-ce qui » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italics">Rencontrer que</hi> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#381">II, 6, 381</ref>). « Alors que » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - « Si ce n'est, sinon » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italics">Ne sait que je suis</hi> (<ref target="../_roman/reference/21_2/21_2_livre_5.html#320">II, 5, 320</ref>). « Ce que » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:30px;">Que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Vous ne devez pas souffrir qu'ils se separent de ceste compagnie qu'<ref target="personnage_aa.html#3_adamas">Adamas</ref> ne les ait receus</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#40_verso">III, 2, 40 verso</ref>). Le deuxième <hi rend="italic">que</hi> représente <hi rend="italic">Avant que</hi> (<ref target="bibliographie.html#littre">Littré</ref>).<lb/>
+        - <hi rend="italic">Si mon ame agit de cette sorte [...], qu'elle y est</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#33_verso">III, 2, 33 verso</ref>). <hi rend="italic">Qu'incontinant</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#188_recto">III, 5, 188 recto</ref>). <hi rend="italic">Que je pense</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#235_verso">III, 6, 235 verso</ref>). Voir aussi <ref target="../_roman/reference/21_3/21_3_livre_8.html#335_verso">III, 8, 335 verso</ref>. Le <hi rend="italic">que</hi> est « employé par pléonasme » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italic">Choses que toutes ensemble ne sont pas peu considerables</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#327_recto">III, 7, 327 recto</ref>). « Qui, sujet » (<ref target="bibliographie.html#huguet">Huguet</ref>). Voir aussi <ref target="../_roman/reference/21_3/21_3_livre_9.html#387_recto">III, 9, 387 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#525_verso">III, 12, 525 verso</ref>.<lb/>
+        - <hi rend="italic">Enfin sur la conclusion du sacrifice, qu'elle se recommandoit</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#334_recto">III, 8, 334 recto</ref>). <lb/>
+        <hi rend="italic">- Laissez luy dire [...] qu'en son ame elle [...] croit [...] et que [...] elle mesme ne parleroit pas de la sorte </hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#439_recto">III, 10, 439 recto</ref>).     « Alors que » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italic">Qu'est-il de</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#339_recto">III, 8, 339 recto</ref>). Qu'en est-il de. Quelles nouvelles de. On trouve seulement « Qu'est-il de inf. : Qu'est-il de faire ? » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).<lb/>
+        - <hi rend="italic">Un moyen que j'ai pensé</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#344_recto">III, 8, 344 recto</ref>). « Auquel » (<ref target="bibliographie.html#huguet">Huguet</ref>). Mais <ref target="glossaire_pp.html#penser_trans">
+                  <hi rend="italic">penser</hi>
+                </ref> pourrait être transitif direct.<lb/>
+        - <hi rend="italic">Le cœur n'est jamais attaint que la blesseure n'en soit mortelle</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#403_verso">III, 9, 403 verso</ref>). Sans que.<lb/>
+        - <hi rend="italic">Être le plus perdu d'amour que tous ceux qui ont jamais aymé</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#397_recto">III, 9, 397 recto</ref>). De tous ceux.<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Que tardez-vous à me dire</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#29">IV, 1, 29</ref>). <lb/>
+      « Dans l'interr. dir., au sens de "pourquoi" » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).<lb/>
+      - <hi rend="italic">Le feu et l'eau me soient interdits,  si j'ay jamais aymé  que <ref target="personnage_dd.html#4_diane">Diane</ref>
+                </hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#175">IV, 2, 175</ref>).<lb/>
+« Autre que » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+- <hi rend="italic">C'estoit l'heure que chacun se retiroit</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#219">IV, 2, 219</ref>).<lb/>
+        - <hi rend="italic">Le landemain donc qu'il vint l'apresdisnee</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#321">IV, 2, 321</ref>).<lb/>
+        « L'heure que / où<hi rend="italic">.</hi> "Le moment où" » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>). <lb/>
+        - <hi rend="italic">Sans jamais s'en départir, que cét entendement ne change</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#230">IV, 2, 230</ref>). <lb/>
+        Avant que.<lb/>
+        - <hi rend="italic">Que  voudrois tu que je l'allasse aymer dans le cercueil </hi>(<ref target="../_roman/reference/24_4/24_4_livre_2.html#282">IV, 2, 282</ref>).<lb/>
+        Comment. « Valeur causale, conséquentielle, hypothétique, finale » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).<lb/>
+        - <hi rend="italic">Quatre ans sont passez qu'il l'espousa</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#341">IV, 2, 341</ref>).<lb/>
+Depuis que. « Particule qui se met au lieu de lorsque » (<ref target="bibliographie.html#richelet">Richelet</ref>).<lb/>
+- <hi rend="italic">Il ne consentiroit jamais que sa fille fust mariee, que cette imposture ne fust esclaircie</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#343">IV, 2, 343</ref>).<lb/>
+Avant que.<lb/>
+-<hi rend="italic"> Jugez [...] Que vous seriez</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#523">IV, 3, 523</ref>). <lb/>
+Ce que.<lb/>
+- <hi rend="italic">Autrefois qu'il n'avoit point le cruel ennuy qui l'affligeoit </hi>(<ref target="../_roman/reference/24_4/24_4_livre_3.html#586">IV, 3, 586</ref>). <lb/>
+Du temps où ...<lb/>
+- <hi rend="italic">He ma fille [...] que je ne m'estonne pas</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#682">IV, 4, 682</ref>).<lb/>
+« De telle sorte que » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+- <hi rend="italic">Tout ce qu'on me pourroit blasmer</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#685">IV, 4, 685</ref>).<lb/>
+« Dont » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+- <hi rend="italic">Tant par ce que c'est [...], que c'est un Roy</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#699">IV, 4, 699</ref>).<lb/>
+<hi rend="italic">Que</hi> remplace le 2<hi rend="supn">e</hi> <hi rend="italic">tant</hi>. <lb/>
+- <hi rend="italic">Que s'ils ne me servirent</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#710">IV, 4, 710</ref>).<lb/>
+« De telle sorte que » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+-  <hi rend="italic">Consolez vous, que celuy pour qui vous souffrez [...] vous ayde</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#870">IV, 4, 870</ref>).<lb/>
+« Vu que, car » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+- <hi rend="italic">Ne sçavois-je pas bien que les pommiers portent des pommes et que pouvois je esperer que ce perfide de Gondebaut pust produire autre chose</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#896">IV, 4, 896</ref>).<lb/>
+« Mais seulement » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+- <hi rend="italic">Celuy qui les a faicts n'a pas eu la puissance de les faire qu'il n'ait aussi la prudence de les conduire</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#901">IV, 4, 901</ref>).<lb/>
+Sans avoir - car  l'une ne va pas sans l'autre.<lb/>
+- <hi rend="italic">Jamais un corps n'est entierement gueri que [...] il n'ait jetté dehors le mal</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#904">IV, 4, 904</ref>).<lb/>
+Avant que.<lb/>
+- <hi rend="italic">Le matin qu'ils ne pensoient estre escoutez</hi>
+(<ref target="../_roman/reference/24_4/24_4_livre_5.html#925">IV, 5, 925</ref>).<lb/>
+Alors que.<lb/>
+- <hi rend="italic">Parlez bas, respondit elle, que quelqu'un ne vous oye</hi> (<ref target="../_roman/reference/24_4/24_4_livre_5.html#928">IV, 5, 928</ref>).<lb/>
+De peur que.<lb/>
+- <hi rend="italic">Je ne puis vous rendre response [...] que je n'aye consulté son Oracle</hi> (<ref target="../_roman/reference/24_4/24_4_livre_5.html#939">IV, 5, 939</ref>).<lb/>
+Avant que.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:103px;">
+                Que c'est</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Que c'est que d'aymer</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#388_verso">III, 9, 388 verso</ref>).<lb/>
+        « Les périphrases formées avec le verbe estre étaient très fréquentes, et certaines ne s'emploieraient plus aujourd'hui. — Regardez le piteux estat où c'est qu'il est. BOYSSIÈRES, Prem. Œuv., 27 v°. — Vous auriez pitié des ennuis Où c'est que maintenant je suis. JEAN GODARD, les Desguisez, III, 9 » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        <lb/>
+        - <hi rend="italic">L'Oracle, auquel je demanday [...] que c'est qui pourroit donner ou fin, ou remede à mon mal</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#257_verso">III, 6, 257 verso</ref>). <hi rend="italic">Que</hi> signifie <hi rend="italic">qui</hi>, sujet (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Que c'est</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme"> - L'expression revient quatre fois.<lb/>
+          <ref target="repertoire_bb.html#3_baro">Baro</ref> en <ref target="bibliographie.html#1627">1627</ref> corrige. Par exemple:<lb/>
+        <hi rend="italic">Je ne sçay [...] que c'est que vous nommerez amour</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#126">IV, 1, 126</ref>) <lb/>
+        <hi rend="italic"> </hi>
+devient<hi rend="italic"> Je ne sçay [...] ce que vous nommerez amour</hi> (2, p. 129).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:103px;">
+                Quel</cell>
+              <cell colspan="1" rowspan="1">Dans certains cas, <hi rend="italics">quel</hi> a un sens particulier :<lb/>
+        On désire savoir « quel seroit le voyage que <ref target="personnage_cc.html#clidaman">Clidaman</ref> avoit
+        entrepris » (<ref target="../_roman/reference/21_1/21_1_livre_5.html#133_recto">I, 5, 133 recto</ref>). La formule revient (<ref target="../_roman/reference/21_1/21_1_livre_6.html#168_recto">I, 6, 168 recto</ref>) et signifie « De quelle nature, de quelle sorte » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+            <ref target="bibliographie.html#furetiere">Furetière</ref> n'indique pas cet emploi de <hi rend="italics">quel</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:26px;">Quel</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - <hi rend="italics">Quel je fusse devenu</hi> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#55">II, 1, 55</ref>)  	« Ce que »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Quel</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Il se nomme <ref target="personnage_pp.html#3_palemon">Palemon</ref>, mais quel est-il, et quelle est sa condition ? </hi>(<ref target="../_roman/reference/21_3/21_3_livre_1.html#20_recto">III, 1, 20 recto</ref>). « De quelle qualité.
+        — Je ne me soucie pas tant quel je sois chez autruy comme je me soucie quel je sois en moy-mesme. MONTAIGNE, II, 16 (III, 11) » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Quel</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- « <hi rend="italic">Quel de tous les hommes</hi> » (<ref target="../_roman/reference/24_4/24_4_livre_1.html#42">IV, 1, 42</ref>).<lb/>« Lequel » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italic">Quel est cet oracle</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#615">IV, 3, 615</ref>).<lb/>
+        « Dans l'interrogation dir. ou indir., pour marquer l'idée de manière. De quelle sorte, de quelle qualité, en quelle manière, comment » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Quelque</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">- Mettre en quelque repos</hi> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#529">II, 8, 529</ref>).<lb/>
+        Cet emploi de <hi rend="italics">quelque</hi> est  expliqué dans le <hi rend="italics">
+                  <ref target="bibliographie.html#academie">Dictionnaire de l'Académie</ref>
+                </hi> (1762) : « On s'en sert aussi pour marquer, Diminution &amp; quelque adoucissement de la chose dont on parle, soit à l'égard de la qualité, soit à l'égard de la quantité ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Quelque</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Quelque  longueur de temps qui puisse estre adjoustee</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#467">IV, 3, 467</ref>).<lb/>
+Quelle que soit la longueur de temps. <ref target="bibliographie.html#vaugelas">Vaugelas</ref> discute de <hi rend="italic">que</hi> et <hi rend="italic">quelque</hi> sans exposer ce genre de situation - <hi rend="italic">quelque</hi> suivi de <hi rend="italic">qui</hi> et non de <hi rend="italic">que</hi> (pp 136-29).<lb/>
+- <hi rend="italic">Quelque Chevalier de la suitte du Roy</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#720">IV, 4, 720</ref>).<lb/>
+        « Marque l'indétermination d'un objet (personne ou chose) dont on ne peut pas ou ne veut pas préciser l'identité ou la sorte » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Quelquefois</cell>
+              <cell colspan="1" rowspan="1">Cet adverbe en général signifie comme aujourd'hui <hi rend="italics">parfois</hi>. Il arrive pourtant qu'il ait un sens archaïque : « Un jour (dans l'avenir) » (<ref target="bibliographie.html#huguet">Huguet</ref>), ou même dans le passé (<ref target="../_roman/reference/21_1/21_1_livre_2.html#26_recto">I, 2, 26 recto</ref> par exemple). « De fois à autre, par fois » (<ref target="bibliographie.html#la_curne">La Curne  de Sainte-Palaye</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Quelquefois</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Quelquefois que quelques ronces prises à ma juppe m'arrestoient</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#892">IV, 4, 892</ref>).<lb/>
+        « Une fois.  Quelquefoys que un grand ours [...] eschappa » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Quelqu'un</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">Quelqu'un des immortels</hi> (<ref target="../_roman/reference/21_2/21_2_livre_3.html#127">II, 3, 127</ref>). <lb/>
+        « Signifie aussi, Quelque. Il faut heurter à la porte, pour parler à quelqu'un des domestiques. [...] Quelqu'un des Anciens a dit ce beau mot » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italics">Quelquefois</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Quelqu'un</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Quelqu'un</hi> remplace <hi rend="italic">coup</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#277_verso">III, 7, 277 verso</ref>). « Ayons ce but de prevenir les scandales, et, s'il y en a desja quelcun, de l'abolir, Calvin. Instit. 975. » (<ref target="bibliographie.html#littre">Littré</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Quelqu'un</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Y en a il  quelqu'un plus dangereux</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#230">IV, 2, 230</ref>).<lb/>
+        « <hi rend="italic"> Any, whosoever, whatsoever</hi> » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>).<lb/>
+        - <hi rend="italic">Si le Prince me demande pour quel suject [...] encore faut il que je luy en scache dire quelqu'un </hi>(<ref target="../_roman/reference/24_4/24_4_livre_4.html#808">IV, 4, 808</ref>).<lb/>
+        <hi rend="italic">Quelqu'un</hi> remplace <hi rend="italic">sujet</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Quérir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Envoyer chercher, amener, apporter » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Qui</cell>
+              <cell colspan="1" rowspan="1">« Qui. Ce qui » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Qui</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Quelle chose, ce qui. Que, de quelle nature » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Qui</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- « <hi rend="italic">Qui est-ce d'entre-eux</hi> » (<ref target="../_roman/reference/24_4/24_4_livre_1.html#42">IV, 1, 42</ref>). Lequel. <ref target="bibliographie.html#huguet">Huguet</ref> précise : « Qui. désignant une chose, après une préposition. Lequel, laquelle, etc. ». Ici, la préposition suit le pronom et l'antécedent n'est pas une chose. <lb/>
+        Selon le <ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>, <hi rend="italic">qui</hi> signifie <hi rend="italic">lequel</hi> lorsque l'antécédent désigne un animal ou une chose.<lb/>
+        - <hi rend="italic">Une plage tres agreable [...], qui depuis les Rois l'ont embellie</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#649">IV, 4, 649</ref>).<lb/>
+        « Qui. Qui pour que (attribut) » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        La construction<hi rend="cache"> </hi>
+                <ref target="note_4.html#4_pronoms">η</ref> est incorrecte à cause de l'addition du pronom <hi rend="italic">l'</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Quitter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - « Céder, laisser » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - « Je l'en quitte. Donner quittance, ou ne demander plus rien d'une dette » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - « Le quitter. Renoncer a la lutte » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Quoy</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Et quoy plus esperer</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#166_recto">III, 4, 166 recto</ref>). « Que » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italic">Et quoy de <ref target="personnage_pp.html#3_palinice">Palinice</ref> ?</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#378_verso">III, 9, 378 verso</ref>). <hi rend="italic">Quid</hi>. Qu'en est-il de ?<lb/>
+        • Voir aussi <hi rend="italic">
+                  <ref target="glossaire_aa.html#a_quoy">A quoy</ref>
+                </hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Quoy que</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">IV, 1, 8.<hi rend="italic"> Il estoit mal-aysé qu'il se fist paroistre amoureux d'une personne, quoy que  de mesme sexe</hi>.<lb/>
+        <hi rend="italic">Quoy que</hi> signifie ici « Encore que » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rabatissiez</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Que vous rabatissiez un peu de vostre despence </hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#269_verso">III, 7, 269 verso</ref>). Imparfait du subjonctif du verbe <hi rend="italic">Rabattre</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Raccommoder</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Racommoder mon <ref target="glossaire_pp.html#poil">poil</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#294_verso">III, 7, 294 verso</ref>). « Remettre une chose en ordre, en bon estat » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                
+                Race</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Lignée, generation continuée de pere en fils » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Racheter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« S'exempter, se redimer de faire ou de souffrir quelque chose qui donne de la peine » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Raconter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Il me raconta d'avoir esté eslevé</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#255_recto">III, 6, 255 recto</ref>). <lb/>
+          <ref target="bibliographie.html#nicot">Nicot</ref> donne « ouïr raconter de ses meschancetez » (Article <hi rend="italic">Oreille</hi>). Le <ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref> donne « Raconter de qqn que ». Mais <hi rend="italic">raconter de</hi> subordonnée infinitive n'est pas dans les dictionnaires.<lb/>
+        - <hi rend="italic">Il nous raconta plus de vingt filles desquelles il a desja esté amoureux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#452_recto">III, 11, 452 recto</ref>). <lb/>
+        <hi rend="italic">Raconter quelqu'un</hi> signifie
+        « représenter »        (<ref target="bibliographie.html#la_curne">La Curne</ref>), ce qui ne convient pas dans cette phrase.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Raconteur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <ref target="bibliographie.html#furetiere">Furetière</ref> : « Celuy qui raconte. Il ne se dit gueres qu'en termes de mespris ». <lb/>
+        Le substantif n'est   pas méprisant dans <ref target="bibliographie.html#huguet">Huguet</ref> ; il l'est  dans <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#666">II, 10, 666</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rafiner</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Sans m'arrester [...] à tant rafiner la beauté</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#483_recto">III, 11, 483 recto</ref>). « Chicaner. Vetiller [...] Chicaner un écrit » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rai</cell>
+              <cell colspan="1" rowspan="1">Rayon. « <hi rend="italics">Rais</hi> pour <hi rend="italics">rayons</hi> ne se dit plus de ceux du Soleil, ny en prose, ny en vers, mais il se dit de ceux de la Lune &amp; en vers &amp; en prose » (<ref target="bibliographie.html#vaugelas">Vaugelas</ref>, p. 192). <lb/>
+        • <hi rend="italics">Rais</hi> signifie <hi rend="italics">rayons</hi> de la lune dans un texte en prose de la première partie de <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#299_recto">I, 9, 299 recto</ref>), et dans un poème de la deuxième (<ref target="../_roman/reference/21_2/21_2_livre_1.html#37">II, 1, 37</ref>). Il ne revient pas dans la troisième partie.<lb/>
+        • Mme <ref target="bibliographie.html#ayresm">Ayres-Bennett</ref> relève deux usages figurés du mot <hi rend="italics">rais</hi> dans toute <hi rend="italics">L'Astrée</hi> (p. 265 note 40).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Raison</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Entrer en raison</hi>. « Entrer en discussion »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Raison</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Tirer raison de ceux qui sont cause de vostre desplaisir</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#16_verso">III, 1, 16 verso</ref>). « Se dit aussi de la justice qu'on fait, ou qu'on demande à quelqu'un, de l'esclaircissement de quelque doute, de la reparation de quelque injure receuë » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ramasser</cell>
+              <cell colspan="1" rowspan="1">- « RAMASSER, signifie encore, Assembler des trouppes, reünir ses forces » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ramasser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Faire un ramas, une assemblage de plusieurs choses » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ramentevoir</cell>
+              <cell colspan="1" rowspan="1">« Rappeler, remettre en mémoire »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). « Faire ressouvenir de quelque chose. Cet homme a la memoire si courte, qu'il faut toûjours que quelqu'un luy fasse <hi rend="italics">ramentevoir</hi> de ce qu'il a à faire. Ce mot est vieux » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ramentevoir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je me ramentus la cause de mes desplaisirs</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#240_recto">III, 6, 240 recto</ref>). <hi rend="italic">Ramentevoir</hi> est conjugé  dans <ref target="bibliographie.html#maupas">Maupas</ref> (p. 236).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rance</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Des rances amours</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#178_recto">III, 5, 178 recto</ref>). « Décrépit.
+        — Nulle vieillesse peut estre si caducque et si rance, à un personnage qui a passé en honneur son aage qu'elle ne soit venerable. MONTAIGNE, II, 8 (II, 80) »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rang</cell>
+              <cell colspan="1" rowspan="1">- <hi rend="italics">De rang</hi> (<ref target="../_roman/reference/21_1/21_1_livre_5.html#126_recto">I, 5, 126 recto</ref>). « De suite »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - « Ordre convenable, place differente qui est deuë à la qualité, au merite, à la juste disposition des choses » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        •          Dans <hi rend="italics">L'Astrée</hi>, <hi rend="italics">être de mon rang</hi> signifie <hi rend="italics">être comme moi</hi> (<ref target="../_roman/reference/21_1/21_1_livre_5.html#151_recto">I, 5, 151 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rangreger</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Des nouvelles, qui rangregerent encore mon desplaisir</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#256_recto">III, 6, 256 recto</ref>). Voir <ref target="glossaire_qr.html#rengreger">Rengreger</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rapiécer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Rapieçant la lettre la mit toute <ref target="glossaire_no.html#d_ordre">d'ordre</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#152_verso">III, 4, 152 verso</ref>). « Remettre ensemble »
+
+        (<ref target="bibliographie.html#nicot">Nicot</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rapointer</cell>
+              <cell colspan="1" rowspan="1">« Rappointer. Réparer.
+        Réconcilier »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rappeler</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se rappeler en soi-même. réfléchir. Rappeller ses esprits, c'est à dire, Se donner le temps de faire reflexion, ou de reprendre ses forces » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rapporter</cell>
+              <cell colspan="1" rowspan="1">Écrit aussi <hi rend="italics">R'apporter</hi>. Ce verbe a souvent le même sens qu'aujourd'hui, mais cette expression peut étonner : <hi rend="italics">Rapporter à leur contentement</hi> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#345_verso">I, 10, 345 verso</ref>) signifie « Contribuer »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rapporter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- La frise rapportoit un tres-grand ornement</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#59_recto">III, 3, 59 recto</ref>). <hi rend="italic">Rapporter</hi> <hi rend="italic"/> signifie <hi rend="italic">Apporter</hi> (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rapporter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Elle sceut bien rapporter de si bonnes raisons</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#542">IV, 3, 542</ref>).<lb/>
+        « RAPPORTER, signifie aussi, Alleguer, citer, rendre témoignage » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Rapporter quelque remede</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#659">IV, 4, 659</ref>).<lb/>
+        Retour au sens archaïque : apporter.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                R'aquiter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se racquitter. Regagner » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rare</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Chose si rare</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#37_verso">III, 2, 37 verso</ref>). « RARE, se dit aussi des corps [... ] qui ont quelque beauté ou excellence particuliere » (<ref target="bibliographie.html#furetiere">Furetière</ref>
+                <hi rend="italic">).<lb/>
+        - Je treuvay cette cure fort rare</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#454_recto">III, 11, 454 recto</ref>). « RARE, se dit aussi de ce qui est caché, difficile à trouver, ou à faire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rassérener</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Réjouir » (<ref target="bibliographie.html#richelet">Richelet</ref>).<lb/>
+          <ref target="bibliographie.html#furetiere">Furetière</ref> donne le participe non le verbe.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rasvasser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Incessamment rasvassant</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#118_verso">III, 3, 118 verso</ref>). Le <ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref> donne <hi rend="italic">ravasser</hi> pour <hi rend="italic">rêvasser</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ratteindre</cell>
+              <cell colspan="1" rowspan="1">Écrit aussi <hi rend="italics">R'atteindre</hi>. « Attraper quelqu'un qui a gagné les devants » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ravaler</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Diminuer le merite de quelqu'un » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rave</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Une grosse rave qui servoit de chandelier</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#908">IV, 4, 908</ref>).<lb/>
+        « Racine douce &amp; blanche qu'on mange avec du sel, aprés l'avoir ratissée » (<ref target="bibliographie.html#furetiere">Furetière</ref>). « T<hi rend="italic">he Raddish is also called so
+          in some parts of France, but especially about Paris</hi> [...] Ce mot sent sa rave. <hi rend="italic">This word is clownish, or savors of the clowne</hi> » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ravir</cell>
+              <cell colspan="1" rowspan="1">« Emporter quelque chose violemment » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <ref target="personnage_aa.html#astree">Astrée</ref> est <hi rend="italics">ravie</hi> en ses pensées (<ref target="../_roman/reference/21_1/21_1_livre_1.html#2_verso">I, 1, 2 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ravissement</cell>
+              <cell colspan="1" rowspan="1">De ravir, voler. « Emportement »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ravoir</cell>
+              <cell colspan="1" rowspan="1">- Ravoir. Avoir de nouveau.<lb/>
+        - Se ravoir. « Se remettre »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ravoir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">Dans la troisième partie, <hi rend="italic">ravoir</hi> s'écrit souvent <hi rend="italic">r'avoir</hi>
+                <hi rend="italic"/> : <hi rend="italic">
+                  <lb/>
+        - R'avoir ce qui a desja esté à vous</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#246_verso">III, 6, 246 verso</ref>). <lb/>
+        <hi rend="italic">- Je commençay à me r'avoir</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#305_verso">III, 7, 305 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ravoir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">Dans la quatrième partie aussi.<lb/>
+        - <hi rend="italic">Se r'avoir de la maladie</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#542">IV, 3, 542</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ravy</cell>
+              <cell colspan="1" rowspan="1">« Ravi. (lat. : <hi rend="italic">rapidus</hi>) »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). Voir <ref target="#ravir">Ravir</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rayon</cell>
+              <cell colspan="1" rowspan="1">« Sillon »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reboucher</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Les larmes rebouchent le tranchant de vos rigueurs</hi> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#311_recto">I, 10, 311 recto</ref>).<lb/>
+        « Se dit aussi, quand la pointe, ou le taillant des instrumens pointus ou trenchants s'émousse, au lieu de penetrer dans les corps durs &amp; solides » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Ce verbe a plutôt le sens que lui donne   <ref target="bibliographie.html#huguet">Huguet</ref> :
+        « Rendre vain, impuissant.
+        (Intrans.). S'émousser ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rebours</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Au  rebours</hi> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#36_recto">I, 2, 36 recto</ref>). « Signifie aussi le renversement de l'ordre, le contrepied, le contresens » (<ref target="bibliographie.html#furetiere">Furetière</ref>).   <ref target="bibliographie.html#huguet">Huguet</ref> et <ref target="bibliographie.html#furetiere">Furetière</ref> donnent <hi rend="italics">à rebours</hi> et non <hi rend="italics">au rebours</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:130px;">
+                Rebrosser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Remonter [un cours d'eau] » (<ref target="bibliographie.html#huguet">Huguet</ref>). <hi rend="italics">Rebrosser</hi> est aussi  dans <ref target="bibliographie.html#cotgrave">Cotgrave</ref> : « To returne, to retyre ; also, to bend ». <lb/>
+        • Verbe utilisé  en 1610 et remplacé par <hi rend="italics">rebrousser</hi> en 1621 (<ref target="../_roman/reference/21_2/21_2_livre_11.html#758">II, 11, 758</ref>). <lb/>
+        <ref target="bibliographie.html#furetiere">Furetière</ref> donne seulement « REBROUSSER. Retourner sur ses pas ». Mais <ref target="bibliographie.html#richelet">Richelet</ref> ajoute « Remonter contre son cours naturel ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recepte</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se dit aussi des petits secrets que plusieurs particuliers, &amp; sur tout des Charlatans, se vantent d'avoir pour guerir quelques maladies » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Recepte</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Receptes pour le salut des hommes</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#384_verso">III, 9, 384 verso</ref>). « Récette. Invention, moien » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recerche</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il ne laissa aucune sorte de recerche pour s'en faire aymer</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#327_verso">III, 7, 327 verso</ref>). La graphie <hi rend="italic">recerche </hi> se trouve dans <ref target="bibliographie.html#huguet">Huguet</ref>. Dans l'édition de 1621, elle remplace le <hi rend="italic">recherche </hi> de l'edition de 1619.<lb/>
+        « Soin qu'on prend de chercher, de recueillir quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Receussent (receussiez)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <ref target="../_roman/reference/21_3/21_3_livre_6.html#226_recto">III, 6, 226 recto</ref>. Verbe <hi rend="italic">Recevoir</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recevable</cell>
+              <cell colspan="1" rowspan="1">« Ce qui est vallable, admissible, contre quoi on ne peut objecter des fins de non recevoir » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recevoir</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">- Recevoir en ses excuses</hi> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#185_verso">I, 6, 185 verso</ref>). <lb/>
+        « Se rendre »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>), accepter ses excuses.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Recevoir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - <hi rend="italics">Recevoir la différence</hi> (<ref target="../_roman/reference/21_2/21_2_livre_3.html#152">II, 3, 152</ref>). « Signifie aussi, Souffrir, endurer » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Recevoir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Recevoir cette recherche</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#115_verso">III, 3, 115 verso</ref>). « Accepter ce qu'on nous donne, ce qu'on nous presente, ce qu'on nous paye, ou qu'on nous met en main pour quelque cause que ce soit » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recharge</cell>
+              <cell colspan="1" rowspan="1">« Augmentation, surcroît »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recherche</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi la poursuite amoureuse qu'on fait d'une fille ou femme » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recherché</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Paroles recherchees</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#33">IV, 1, 33</ref>). « On dit encore d'Une pensée, d'une expression, qu'Elle est recherchée, bien recherchée,
+        trop recherchée, pour dire, qu'Elle n'est point naturelle, qu'il y a de l'affectation » (<hi rend="italic">
+                  <ref target="bibliographie.html#academie">Académie</ref>
+                </hi>, 1762).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rechercher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">- Qu'il
+        ne me recherche plus d'une chose impossible</hi> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#94">II, 2, 94</ref>). <lb/>
+        « Rechercher qqn de sa vie, de son honneur, de ses biens. Demander sa mort, la perte de son honneur, de ses biens » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rechercher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- J'eslirois plustost la mort que de rechercher d'elle chose [...] </hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#818">IV, 4, 818</ref>).<lb/>
+        - <hi rend="italic">Jamais je ne vous rechercheray de chose qui vous puisse importer</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#878">IV, 4, 878</ref>). <lb/>
+        Demander avec force. <hi rend="italic">Rechercher</hi> (ou <hi rend="italic">chercher)</hi> <hi rend="italic">de</hi> qq. n'est pas dans les dictionnaires.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Réclamer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Invoquer, appeller quelqu'un à son secours. On reclame dans l'affliction toutes les puissances du ciel &amp; de la terre » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recogneussiez</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Reconnaître</hi> à l'imparfait du subjonctif. On écrit aujourd'hui <hi rend="italics">reconnussiez</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recognoissance</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Elle me devoit cette recognoissance d'amitié pour celle que je vous porte à toutes</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#46_recto">III, 2, 46 recto</ref>). « RECONNOISSANCE, signifie aussi le ressentiment qu'on témoigne d'un bienfait, l'envie qu'on a de rendre le reciproque » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <hi rend="italic">Recognoissance</hi> est remplacé par <hi rend="italic">Cognoissance</hi> en 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recognoistre</cell>
+              <cell colspan="1" rowspan="1">- « Avec le pronom personnel signifie aussi, Faire reflexion sur soy, reprendre ses sens, pour songer à ce qu'on doit faire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Recognoistre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - « <hi rend="italics">To acknowledge a tenure</hi> » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>).<lb/>
+        - « Payer à discretion, recompenser un service rendu »  (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Recognoistre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Recognoistre une plaie</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#119_recto">III, 3, 119 recto</ref>). « <hi rend="italic">To take a precise view of</hi> », examiner (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Recognoistre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Il ne fit pas semblant de le recognoistre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#449_recto">III, 10, 449 recto</ref>). « Remarquer » (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recommander</cell>
+              <cell colspan="1" rowspan="1">- « Réclamer un secours, des prières »  (<ref target="bibliographie.html#la_curne">La Curne</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Recommander</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- Elle  se recommandoit avec plus <ref target="glossaire_aa.html#affection">d'affection</ref> à <ref target="repertoire_mm.html#3_mercure">Mercure</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#334_recto">III, 8, 334 recto</ref>). « RECOMMENDER, se dit aussi en termes de devotion. Il faut le soir &amp; le matin se recommender à Dieu » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recommendation</cell>
+              <cell colspan="1" rowspan="1">« Une civilité par laquelle on témoigne à ses amis absens qu'on se souvient d'eux » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recourir<lb/>
+        (Recourre)</cell>
+              <cell colspan="1" rowspan="1">« Se recourir. Recourir, avoir recours ».   <ref target="bibliographie.html#huguet">Huguet</ref> cite ensuite <hi rend="italics">L'Astrée</hi> : « C'est une coustume entre les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> de ne <hi rend="italics">recourre</hi> jamais à la justice en ce qui offense l'honneur, mais au combat » (<ref target="../_roman/reference/21_1/21_1_livre_12.html#386_recto">I, 12, 386 recto</ref>). Voir aussi <ref target="../_roman/reference/21_1/21_1_livre_7.html#203_verso">I, 7, 203 verso</ref>. <lb/>
+        Le verbe a un sens différent dans <ref target="bibliographie.html#furetiere">Furetière</ref> : « RECOURRE. v. act. Rattraper ce qui a esté pris ou enlevé, soit d'adresse, soit de force ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:36px;">
+                Recourusse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <ref target="../_roman/reference/21_3/21_3_livre_6.html#257_recto">III, 6, 257 recto</ref>. Imparfait du subjonctif du verbe <hi rend="italic">Recourir</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:36px;">
+                Recouvrer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">Des gands parfumez qu'elle avoit recouvrez</hi> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#351">II, 6, 351</ref>). « Se procurer, trouver »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recresper</cell>
+              <cell colspan="1" rowspan="1">« Frisé, bouclé »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recreu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Lasche et recreu Chevalier</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#83_recto">III, 3, 83 recto</ref>). « Recreu. Vaincu, se rendant à l'ennemi » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        <ref target="bibliographie.html#furetiere">Furetière</ref> donne  la graphie et le sens modernes : « RECRU, UË. adj. Fatigué de travail corporel, d'une marche trop longue, d'un combat ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reculé</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">M'en aller seul dans le plus reculé de ce bois</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#518">IV, 3, 518</ref>).<lb/>
+        Adjectif substantivé dans <ref target="bibliographie.html#huguet">Huguet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reculer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Esloigner » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Recuser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Pour recuser ton jugement</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#386_recto">III, 9, 386 recto</ref>). « Recuser (trans.). Refuser » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Redorre</cell>
+              <cell colspan="1" rowspan="1">Redonner. Voir <ref target="glossaire_dd.html#dorrer">Dorrer</ref>. <lb/>
+        •          Verbe utilisé seulement en 1607 (<ref target="../_roman/reference/21_1/21_1_livre_10.html#317_recto">I, 10, 317 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Réeut</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Réavoir</hi> au passé simple<hi rend="italics">. </hi>Les dictionnaires  donnent plutôt <hi rend="italic">ravoir</hi>. <lb/>
+        •          Verbe utilisé seulement en 1607.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Refaire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi, Racoustrer, reparer » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reflotter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Refluer. [...]
+        Ondoyer, flotter » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        Flotter : « S'agiter en flots. [...]
+        Couler à flots » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Refreschir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il s'en refreschit et lava le visage</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#15_recto">III, 1, 15 recto</ref>), « Rafraîchir » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Refroigné</cell>
+              <cell colspan="1" rowspan="1">« Renfrogné »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        •          Remplacé par <hi rend="italics">renfrogné</hi> en 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Refuir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Refuir (trans.). Fuir » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        Pour <ref target="bibliographie.html#furetiere">Furetière</ref>, <hi rend="italics">refuir</hi> est seulement un terme de vénerie.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:38px;">
+                Refuser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <ref target="../_roman/reference/21_2/21_2_livre_12.html#892">II, 12, 892</ref>.  « Estre refusé. Subir un refus » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Refuser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Refuser la plainte à la belle Dorinde</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#854">IV, 4, 854</ref>).<lb/>
+        « Denier une demande » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Regard</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italics">Pour mon regard</hi>. « En ce qui me concerne, quant à moi »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). « Pour mon regard, ou quant à moy » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Regarder</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Faire en sorte, avoir soin »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Regarder</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">La muraille du temple de Jupiter, qui regarde du costé de celuy de Minerve</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#474">IV, 3, 474</ref>).<lb/>
+        « REGARDER, se dit aussi en parlant de la situation des lieux, de ce qui est à l'opposite » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Regorger</cell>
+              <cell colspan="1" rowspan="1">« La voicy à ce costé qui y regorge » (<ref target="../_roman/reference/21_1/21_1_livre_11.html#377_recto">I, 11, 377 recto</ref>). <hi rend="italics">
+                  <lb/>
+        •          Regorge</hi> remplace en 1621 le <hi rend="italics">regarde</hi> de 1607. Les dictionnaires ne donnent pas ce sens au verbe <hi rend="italics">regorger. </hi>Il peut s'agir d'une coquille.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Regretter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Regretter la presence de cette belle</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#431_recto">III, 10, 431 recto</ref>). Regretter pouvait signifier
+        « déplorer la perte ou la privation de qqc », comme regretter la compagnie, les biens, la douceur (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rejallir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Frappant des mains tout à coup dans l'eau, ils la firent rejallir</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#102_recto">III, 3, 102 recto</ref>). « Rejallir (trans.). Faire rejaillir » (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#cotgrave">Cotgrave</ref> ne distingue pas <hi rend="italic">rejallir</hi> et <hi rend="italic">rejaillir</hi>. <ref target="bibliographie.html#richelet">Richelet</ref> ne signale pas la graphie ancienne. Il note : « Vaugelas dans ses remarques croit que jaillir n'est pas du bel usage, et qu'en sa place ont dit rejaillir ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rejetter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Pousser un nouveau jet. Quand on a enté un arbre, il en rejette mieux » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rejoindre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ayant [...] rejoint sa chemise sur son estomac</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#429_verso">III, 10, 429 verso</ref>). « Rassembler ce qui est séparé » (<ref target="bibliographie.html#richelet">Richelet</ref>). « Réunir » (<ref target="bibliographie.html#la_curne">La Curne</ref>, Article <hi rend="italic">Joindre</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Relant(e) ou relent (e)</cell>
+              <cell colspan="1" rowspan="1">- <hi rend="italic">Tombe relante</hi> (<ref target="../_roman/reference/21_1/21_1_livre_11.html#365_verso">I, 11, 365 verso</ref>). Féminin de <hi rend="italics">relent</hi> (adj.) « Alourdi, languissant »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).  L'adjectif a plutôt le sens que  donne <ref target="bibliographie.html#furetiere">Furetière</ref> :  « S. m. Mauvaise odeur provenant d'un air ou de quelques corps humides corrompus pour avoir été enfermés long-temps. Ces confitures, ces jambons, sentent le relent. Le linge qui est dans un coffre qu'on n'a ouvert de long-temps, sent le relent. Quelquefois on l'employe à l'adjectif ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Relant(e) ou relent (e)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - <hi rend="italic">Tombe relante</hi> revient dans un autre poème (<ref target="../_roman/reference/21_2/21_2_livre_11.html#685">II, 11, 685</ref>).<lb/>
+        « La prison relante », c'est le monde  chez Jean-Baptiste Chassignet (1571 - 1635),  « <ref target="https://fr.wikisource.org/wiki/Le_Mespris_de_la_vie_et_consolation_contre_la_mort">Le Mespris de la vie et Consolation contre la mort</ref> » paru en 1594 (poème CCCLII).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Relascher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">- Elle se relascha  à la douleur</hi> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#705">II, 11, 705</ref>) « Relascher. Abandonner, laisser de côté, négliger » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        Alors que dans <ref target="bibliographie.html#furetiere">Furetière</ref> ce verbe signifie : « Destendre, desbander, rendre lasche ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Relascher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Sans toutefois me relascher à personne de chose quelconque</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#664">IV, 4, 664</ref>).<lb/>
+        Se confier. On trouve dans <ref target="bibliographie.html#richelet">Richelet</ref> une acception voisine : « Se dédire. Se démentir, se relâcher » (Article <hi rend="italic">Dédire</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Relever</cell>
+              <cell colspan="1" rowspan="1">- « Elle <hi rend="italics">releva</hi> sa voix » (<ref target="../_roman/reference/21_1/21_1_livre_5.html#142_recto">I, 5, 142 recto</ref>). Hausser la voix. Les dictionnaires ne donnent pas ce sens au verbe.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Relever</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Relever la voix</hi> revient dans la deuxième partie (<ref target="../_roman/reference/21_2/21_2_livre_4.html#190">II, 4, 190</ref>), non dans la troisième..<lb/>
+        - « Eslever plus haut [...] Une mine haute et relevée » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Relever</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Les courages plus relevez</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#453_verso">III, 11, 453 verso</ref>). « On dit aussi, Condition relevée, un homme relevé » (<hi rend="italics">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>,</hi> 1694)</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Relever</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Elle l'avoit bien veu relever</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#171">IV, 2, 171</ref>). <lb/>
+        « RELEVER, signifie aussi, Redresser » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Un prétendant plus relevé</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#234">IV, 2, 234</ref>).<lb/>
+        « <hi rend="italic">Churched, or got out of the straw</hi> », propose <ref target="bibliographie.html#cotgrave">Cotgrave</ref> pour traduire <hi rend="italic">femme relevée</hi> (Article <hi rend="italic">Relevé</hi>).<lb/>
+        - <hi rend="italic">Relever un papier</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#791">IV, 4, 791</ref>).<lb/>
+        « Ramasser » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Religieux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Religieux de sa parole</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#367_recto">III, 9, 367 recto</ref>). « Religieux. Scrupuleux. [...]
+        — Un homme ... religieux en l'observance de sa parolle. MONTAIGNE, II, 17 (III, 40) »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remander</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Elle luy remanda</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#501_verso">III, 12, 501 verso</ref>). « Rappeler »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remarque</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ny ayant pas mesme esté oublié la remarque des lieux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_recto">III, 3, 58 recto</ref>). « Marque distinctive, insigne » (<ref target="bibliographie.html#huguet">Huguet</ref>). Substantif supprimé dans l'édition de 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remarquer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi, Noter &amp; faire reflexion sur quelque chose qui nous pourra servir dans la suite » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remède</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Le mot est tantôt masculin et tantôt féminin » (<ref target="bibliographie.html#la_curne">La Curne  de Sainte-Palaye</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> n'indique pas le genre de ce substantif qui est masculin dans <ref target="bibliographie.html#cotgrave">Cotgrave</ref>, <ref target="bibliographie.html#furetiere">Furetière</ref> et <ref target="bibliographie.html#richelet">Richelet</ref>.<lb/>
+        • <hi rend="italics">Remède</hi> est masculin dans l'édition de 1610 et
+        féminin dans celle de 1621  (<ref target="../_roman/reference/21_2/21_2_livre_6.html#363">II, 6, 363</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Remède</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">Toujours masculin dans la troisième partie, <hi rend="italic">remède</hi> n'est donc pas lié au glossaire.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remercier</cell>
+              <cell colspan="1" rowspan="1">« Signifie aussi, Refuser honnestement quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remettre</cell>
+              <cell colspan="1" rowspan="1">- « Pardonner »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Remettre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - <hi rend="italics">Remettre un peu son visage</hi> (<ref target="../_roman/reference/21_2/21_2_livre_3.html#147">II, 3, 147</ref>). « Restituer, restablir en son premier estat » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        <hi rend="italics">- Remettre sur</hi> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#758">II, 11, 758</ref>). « Rejeter sur »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Remettre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Se remettre sur le discours</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#31_verso">III, 2, 31 verso</ref>). « Se remettre sur ses brisées [...]. Revenir à son sujet »        (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italic">S'ils sont fondez sur quelque raison, je m'en remets, tant y a que j'ay l'experience pour moy</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#201_verso">III, 5, 201 verso</ref>). <hi rend="italic">S'en remettre</hi> sans autre complément n'est pas dans les dictionnaires. Il signifie peut-être ici <hi rend="italic">se démettre</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Remettre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Les discours de mon pere me firent remettre entierement à ce qu'il luy plaisoit</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#316">IV, 2, 316</ref>).<lb/>
+        « S'en rapporter au jugement de quelqu'un » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Le remettre plus aysément à la raison</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#337">IV, 2, 337</ref>).<lb/>
+        « On dit, Mettre quelqu'un à la raison, pour dire,
+        Le réduire à faire ce qu'on souhaite » <ref target="bibliographie.html#academie">
+                  <hi rend="italic">Dictionnaire de l'Académie</hi>
+                </ref> (1694, Article <hi rend="italic">Mettre</hi>).<lb/>
+        - <hi rend="italic">De la volonté, reprit Dorinde, je m'en remets</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#479">IV, 3, 479</ref>).<lb/>
+        « REMETTRE, signifie encore, S'en rapporter au jugement de quelqu'un » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remisse</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Remettre</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remonstrer</cell>
+              <cell colspan="1" rowspan="1">« Prier humblement un superieur de faire reflexion sur ses ordres [...] se dit aussi d'un superieur à un inferieur, quand il l'advertit doucement de son devoir » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remontis</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">Je <hi rend="italic">remontis</hi> dessus (<ref target="../_roman/reference/21_3/21_3_livre_6.html#254_verso">III, 6, 254 verso</ref>). Verbe <hi rend="italic">Remonter</hi> au passé simple.  On dit aujourd'hui je <hi rend="italic">remontai</hi>. <hi rend="italic">Remontis</hi> n'est pas dans <ref target="bibliographie.html#maupas">Maupas</ref>. Ce n'est pas une coquille, car d'autres éditions donnent la même leçon. Ailleurs dans <hi rend="italic">L'Astrée</hi> on lit pourtant <hi rend="italic">remontay</hi> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#381">II, 6, 381</ref>) et <hi rend="italic">montay</hi> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#230_recto">I, 8, 230 recto</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_6.html#253_verso">III, 6, 253 verso</ref>).<lb/>
+        J'ai trouvé la forme <hi rend="italic">remontis</hi> dans une vieille chanson populaire (peut-être forézienne) intitulée « Le Voleur de Saint-Étienne » (C. Laforte et M. Jutras, <hi rend="italic">Vision d'une société par les chansons de tradition orale</hi>, Sainte-Foy, Presses de l'Université Laval, 1997, p. 452. Voir ce <ref target="http://books.google.fr/books?id=2seZvHbxbrwC&amp;pg=PA453&amp;lpg=PA453&amp;dq=%22je montis%22&amp;source=bl&amp;ots=f-vTrdqQwI&amp;sig=SSlr28g_S382PocdK9dsyXAdqzQ&amp;hl=fr&amp;sa=X&amp;ei=aWCYT_f4Dond6QGB58DUBg&amp;ved=0CEUQ6AEwBg#v=onepage&amp;q=%22je%20montis%22&amp;f=false">site</ref>, 30 avril 2012).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remore</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La Remore qui peut arrester la violence d'un vaisseau</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#404_recto">III, 9, 404 recto</ref>). « Petit poisson en forme de hareng, ayant une creste &amp; des écailles. Les Grecs l'appellent echeneis. Pline liv. 32. &amp; tous les Anciens aprés luy, ont crû qu'il avoit la force d'arrester en sa course un vaisseau qui navigeoit à pleines voiles, &amp; ils l'ont appellé ainsi à remorando. Mais les modernes tiennent que c'est une fable, n'en ayant rencontré aucune, quoy qu'ils ayent fait des navigations bien plus frequentes par toutes les mers » (<ref target="bibliographie.html#furetiere">Furetière</ref>). On dit aujourd'hui la <hi rend="italic">rémore</hi>. <ref target="bibliographie.html#robert">
+                  <hi rend="italic">Le Grand Robert</hi>
+                </ref> donne le <hi rend="italic">rémora</hi> ou <hi rend="italic">le rémore</hi>,  signifiant un obstacle.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Remourir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Si j'avois à mourir et à remourir autant de fois que j'ay vescu de jours</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#95_verso">III, 3, 95 verso</ref>). « Mourir de nouveau. [...] Je revy, je remeurs, ma playe est incurable. RONSARD, Am. de Marie (I, 179) »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rencontre</cell>
+              <cell colspan="1" rowspan="1">« <hi rend="italic">A hap, or adventure</hi> »  (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>). <lb/>
+        Le <hi rend="italic">Ce rencontre</hi> de 1607 est remplacé  par <hi rend="italic">ces paroles</hi> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#299_verso">I, 9, 299 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rencontre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- <ref target="../_roman/reference/21_2/21_2_livre_6.html#342">II, 6, 342</ref>. « RENCONTRE, signifie aussi l'arrivée fortuite de deux personnes, ou de deux choses en un même lieu. [...] J'ay eu ce cheval à bon prix, je l'ay eu de rencontre, par rencontre » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - <ref target="../_roman/reference/21_2/21_2_livre_10.html#664">II, 10, 664</ref>. « Se dit aussi du choc de deux petits corps de trouppes » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - <ref target="../_roman/reference/21_2/21_2_livre_12.html#802">II, 12, 802</ref>.  « Signifie aussi une equivoque, allusion, une pointe d'esprit, quelque mot facetieux dit à propos, une turlupinade » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - <ref target="../_roman/reference/21_2/21_2_livre_6.html#371">II, 6, 371</ref>. « <hi rend="italics">Adventure</hi> »
+
+        (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>). <lb/>
+        • <hi rend="italics">Rencontre</hi> est toujours féminin dans la deuxième partie.<lb/>
+        • <hi rend="italics">Rencontre</hi> est masculin dans <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Les Epistres morales</hi>
+                </ref> (II, 11, p. 211 sic 311). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rencontre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Rencontre</hi> reste toujours féminin dans la troisième partie.<lb/>
+        « PASQUIER considère comme un gasconisme l'emploi de rencontre masculin. — Je luy monstray [à Montaigne] plusieurs manieres de parler familieres non aux François, ains seulement aux Gascons, un pate-nostre, un debte, un couple, un rencontre. Lettres, XVIII, 1. » (<hi rend="bibliographie">Huguet</hi>).<lb/>
+        • En 1647, <ref target="bibliographie.html#patru">Patru</ref> affirme que <hi rend="italic">rencontre</hi> est féminin, mais que  le mettre au masculin n'est pas un solécisme : « Quand je revoi quelque ouvrage où on le fait masculin, je ne le corrige plus » (II, p. 619).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rencontre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">Le substantif étant au féminin ne renvoie pas au glossaire.<lb/>
+        -<hi rend="italic"> La rencontre presque effroyable</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#315">IV, 2, 315</ref>).<lb/>
+        « Aspect, apparence, mine » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rencontrer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Tomber juste »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rencontrer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">-<hi rend="italic"> Qui a rencontré meilleure place</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#32_verso">III, 2, 32 verso</ref>). « Trouver la chose dont on a besoin, soit qu'on la cherche, soit que le hasard nous la presente » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Ceste conformité que nous rencontrons d'avoir</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#204_recto">III, 5, 204 recto</ref>). <hi rend="italic">Rencontrer de</hi> n'est pas dans les dictionnaires. <hi rend="italic">Rencontrer d'avoir</hi> signifie peut-être avoir par hasard. « Il signifie aussi réüssir [...] Je ne pouvois croire quíl fût possible qu'elle eût rencontré à écrire si bien de cette sorte. Voit. l. 30 » (<ref target="bibliographie.html#richelet">Richelet</ref>).<lb/>
+        <lb/>
+        - <hi rend="italic">Se rencontrer à un meurtre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#237_recto">III, 6, 237 recto</ref>). « Se rencontrer à. Rencontrer »  (<hi rend="bibliographie">Huguet</hi>). Se trouver en présence.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rencontrer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Il a bien rencontré</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#189">IV, 2, 189</ref>).<lb/>
+        « Deviner, reüssir dans ses conjectures. Il signifie aussi reüssir. Il y a des gens qui essaient de deviner, mais ils rencontrent mal. Pas(cal). I. 8 » (<ref target="bibliographie.html#richelet">Richelet</ref>). La citation vient des <hi rend="italic">Provinciales</hi>. Il s'agit de « savoir qui nous sommes ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rencontrer (se)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Qu'il ne se soit point rencontré icy</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#477_verso">III, 11, 477 verso</ref>). « Se presenter » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italic">Offrir</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rendre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Ils se rendirent si grands amis</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#710">IV, 4, 710</ref>).<lb/>
+        Devenir.
+        « Acquerir quelque qualité nouvelle, changer d'état » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Il me rendit sur une montagne</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#910">IV, 4, 910</ref>).<lb/>
+        « Rendre qqn qq. part.  "Reconduire, ramener qqn qq. part" » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>). Cet emploi inusité de <hi rend="italic">rendre</hi> suppose une « idée de retour ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rendre réponse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Je vous en rendray réponse</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#109">IV, 1, 109</ref>).<lb/>
+        Rendre (une) response (à qqn) « Répondre par qqc. à (une demande, une attente...) » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rengregement</cell>
+              <cell colspan="1" rowspan="1">« Augmentation, aggravation »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rengreger</cell>
+              <cell colspan="1" rowspan="1">« Augmenter, aggraver »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Renoncer</cell>
+              <cell colspan="1" rowspan="1">« Desavoüer, abandonner quelque chose. Aprés une si grande ingratitude, je le <hi rend="italics">renonce</hi> pour amy » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Renoncissiez</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Renoncer</hi> à l'imparfait du subjonctif. On dit aujourd'hui <hi rend="italics">renonçasssiez</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Renouement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Reconciliation » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Renverse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">Il se mit à la renverse</hi> (<ref target="../_roman/reference/21_2/21_2_livre_6.html#430">II, 6, 430</ref>). « Mettre à la renverse. Jetter &amp; coucher par terre avec éfort » (<ref target="bibliographie.html#richelet">Richelet</ref>).<lb/>
+        Dans <hi rend="italics">L'Astrée</hi> l'expression signifie simplement s'étendre par terre. Elle n'est pas dans les dictionnaires.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Renverser</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La bouche trop ou trop peu renversee</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#483_recto">III, 11, 483 recto</ref>). Retournée ? Le <ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref> donne <hi rend="italic">Renversé</hi> comme un terme médical : « Cancer est ulcere large, orible et puant duquel les levres sont dures et renversees (PANIS, <hi rend="italic">Guidon</hi>, 1478, tr.IV, doct.1, chap.1) »</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Repaistre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Manger, faire un repas » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Replession</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Cela ne vient que de replession d'humeurs, à cause que je ne fais point d'exercice</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#315_recto">III, 7, 315 recto</ref>). Repletion. « Abondance d'humeurs, &amp; sur tout de sang » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Repli</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Pli » (<ref target="bibliographie.html#richelet">Richelet</ref>).<lb/>
+        - « Se dit aussi des choses qui vont en tournoyant &amp; en serpentant » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Replier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">L'Amant se forme une Idee en sa fantaisie de la chose aimee afin d'y replier les yeux de son ame</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#203_recto">III, 5, 203 recto et 203 verso</ref>). Ramener les yeux ? « Se replier sur soi-même, se recueillir, réfléchir en soi-même » (<ref target="bibliographie.html#littre">Littré</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Repliquer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Répéter » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Reprendre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Il  reprit</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#20_recto">III, 1, 20 recto</ref>). <lb/>
+        Dans l'édition de 1619, on lit <hi rend="italic">il le reprit</hi>. <hi rend="italic">Reprendre</hi> signifie alors « Blasmer, corriger, chastier » (<ref target="bibliographie.html#furetiere">Furetière</ref>). Mais dans l'édition de 1621, on lit <hi rend="italic">il reprit</hi>. <hi rend="italic">Reprendre</hi> signifie  répliquer.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Reprendre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Toutesfois, reprit Alcandre</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#516">IV, 3, 516</ref>).<lb/>
+        <hi rend="italic">Reprendre</hi>, dans le sens de <hi rend="italic">Répliquer</hi>, est utilisé parfois inconsidérément dans les incises.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reprendre (se)</cell>
+              <cell colspan="1" rowspan="1"> Les dictionnaires du temps ne donnent pas au verbe le sens qu'il a dans <hi rend="italics">L'Astrée</hi>. Dans le roman, il vient de <hi rend="italic">reprehendere</hi>, se critiquer.<lb/>
+        • Il faut le distinguer de <hi rend="italics">se repentir</hi> qui signifie plutôt « Ressentir le regret (d'une faute), accompagné du désir de ne pas recommencer, de réparer » (<ref target="bibliographie.html#robert">
+                  <hi rend="italics">Le Grand Robert</hi>
+                </ref>). <lb/>
+        •  La distinction est importante parce que <hi rend="italics">repentir</hi> est remplacé par <hi rend="italics">reprendre</hi> en 1621 (<ref target="../_roman/reference/21_1/21_1_livre_10.html#329_recto">I, 10, 329 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Représentation</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Image qui nous remet en idée &amp; en la memoire les objets absents, &amp; qui nous les peint tels qu'ils sont » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Représenter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi, Remonstrer, tâcher à persuader » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Représenter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Vous devez vous representer que le Roy ne vous recherche que pour vous ruiner</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#702">IV, 4, 702</ref>).<lb/>
+        « Mettre dans l'esprit, dans l'idée » (<ref target="bibliographie.html#academie">
+                  <hi rend="italic">Dictionnaire de l'Académie</hi>
+                </ref>, 1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Repreuver</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Repreuver generalement tout ce qui luy est dissemblable</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#203_verso">III, 5, 203 verso</ref>). Les dictionnaires anciens donnent <hi rend="italic">Resprouver</hi>. « Tenir en observation, mettre en quarantaine » (<ref target="bibliographie.html#godefroy">Goedefroy</ref>, <hi rend="italic">Lexique</hi>). <lb/>
+        •	    La première partie donnait <ref target="#reprouver">
+                  <hi rend="italic">réprouver</hi>
+                </ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reprins</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Reprendre</hi> au passé simple. Nous dirions aujourd'hui <hi rend="italics">repris</hi>. Voir <ref target="glossaire_pp.html#prindrent">Prindrent</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reprinssiez</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <ref target="../_roman/reference/21_3/21_3_livre_6.html#247_recto">III, 6, 247 recto</ref>. Verbe <hi rend="italics">Reprendre</hi> à l'imparfait du subjonctif. Nous dirions aujourd'hui <hi rend="italics">vous repris</hi>siez.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reproche</cell>
+              <cell colspan="1" rowspan="1"> Ce substantif est une seule fois féminin dans
+        la première partie (<ref target="../_roman/reference/21_1/21_1_livre_3.html#67_verso">I, 3, 67 verso</ref>). Voir  Note<hi rend="cache"> </hi>
+                <ref target="note_1.html#67_verso_a">η</ref>.<lb/>
+        « Le mot était féminin », affirme <ref target="bibliographie.html#la_curne">La Curne</ref>. Il est devenu masculin dans <ref target="bibliographie.html#furetiere">Furetière</ref>. <ref target="bibliographie.html#richelet">Richelet</ref> explique : « Vaugelas dans ses remarques a décidé que ce mot étoit masculin au singulier et féminin au pluriel ; Cela étoit vrai de son tems ». <ref target="bibliographie.html#patru">Patru</ref> commente la position de Vaugelas : « A belles reproches. En cette phrase il le faut faire feminin, parce que cette phrase est consacrée, et ne se peut gueres écrire qu'au stile comique » (II, p. 621).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Reproche</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Reproche</hi> est toujours masculin dans la deuxième partie.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Reproche</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Reproche</hi> est généralement féminin dans la troisième partie de 1621, qu'il soit au singulier ou au pluriel.<lb/>
+        <hi rend="italic">Les reproches qu'il luy avoit faites</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#222_verso">III, 6, 222 verso</ref>).<lb/>
+        Mais : <hi rend="italic">Ce que vous avez allegué en cela a plus du reproche que de la raison</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#400_verso">III, 9, 400 verso</ref>).<lb/>
+        • Il arrive une fois que le substantif soit au masculin en 1619 mais au féminin en 1621 (<ref target="../_roman/reference/21_3/21_3_livre_8.html#332_verso">III, 8, 332 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Reproche</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">Le substantif est plus souvent au pluriel (5 fois) qu'au singulier (3 fois). Il reste au féminin.<lb/>
+        -<hi rend="italic"> La reproche que vous me faites</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#60">IV, 1, 60</ref>).<lb/>
+        - <hi rend="italic">Dire de quelles reproches j'usois</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#279">IV, 2, 279</ref>).<lb/>
+        - <hi rend="italic">Ces reproches que j'avois faites</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#656">IV, 4, 656</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reprocher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Un témoignage qui ne se peut reprocher</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#507">IV, 3, 507</ref>).<lb/>
+        « Récuser » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Réprouver</cell>
+              <cell colspan="1" rowspan="1">« Rejetter une chose, la desapprouver » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Repurger</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Purifier. Faire disparaître par purification » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Repurger</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Dieu repurgeant et nettoyant les fautes des vivans</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#373_verso">III, 9, 373 verso</ref>). Purifiant.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reputation</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Estime »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reputer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Je me reputerois la chose trop facile</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#15">IV, 1, 15</ref>). « Croire, presumer » (<ref target="bibliographie.html#furetiere">Furetière</ref>). De reputer : « Se croire » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Requérir</cell>
+              <cell colspan="1" rowspan="1">« Demander. Requerir qqn de qqch. Demander qqch à qqn »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Requérir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Plus de repos que le miserable estat où je me trouvois ne requeroit</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#908">IV, 4, 908</ref>).<lb/>
+        « Ce mot se dit aussi au mesme sens dans le burlesque &amp; meme on croit que comme il est un peu vieux il n'entre guere que dans ce sitle &amp;  dans celui de pratique » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Réserver</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Sans qu'une seule goutte en eust esté reservee</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#352">IV, 2, 352</ref>).<lb/>
+        « Garder &amp; retenir pardevers soy une partie des choses qu'on abandonne » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reseul</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « RESEUIL. s. m. Espece de filet ou de rets. On l'a dit aussi par extension de certains ouvrages de fil travaillez à jour qui servoient d'ornement à du linge, comme à des pentes de lit, des tavayoles, &amp;c. On en voit encore chez les paysans » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - <ref target="bibliographie.html#huguet">Huguet</ref> donne « RESEUL. Réseau, tissu à mailles, filet », et cite d'Urfé.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Résigner</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italics">Resignez, <ref target="personnage_cc.html#2_calidon">Calydon</ref>
+                </hi> (<ref target="../_roman/reference/21_2/21_2_livre_1.html#44">II, 1, 44</ref>).<lb/>
+        « Abandonner, céder » (<ref target="bibliographie.html#huguet">Huguet</ref>). Ce verbe est pronominal dans <ref target="bibliographie.html#furetiere">Furetière</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Résolu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Response si resoluë</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#215_recto">III, 5, 215 recto</ref>). « Arrêté, déterminé, réglé » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Résolu de</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Ayant une certitude sur » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Resolusse</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Résoudre</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:23px;">
+                Resolution</cell>
+              <cell colspan="1" rowspan="1">« Fermeté » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Resolution</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Il luy en donneroit toute resolution</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#251">IV, 2, 251</ref>).<lb/>
+        « Action par laquelle on se resout, ou la chose resoluë » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Prendre une entiere resolution</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#852">IV, 4, 852</ref>).<lb/>
+        « Décision » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Résoudre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">C'est à Dorinde maintenant à resoudre le Roy de ce qui la touche</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#820">IV, 4, 820</ref>).<lb/>
+        « Resoudre qqn de. Donner à qqn une solution sur » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Résoudre (se)</cell>
+              <cell colspan="1" rowspan="1">« Se determiner à faire, à dire, à attendre quelque chose, à se consoler des fascheux accidents » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Résoudre (se)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Nous nous resoudrons de ce que nous avons à faire</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#61">IV, 1, 61</ref>). <lb/>
+        « Se resoudre de. Arriver à une certitude sur » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italic">Afin que vous vous resolusiez [...] à la volonté</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#333">IV, 2, 333</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Respect</cell>
+              <cell colspan="1" rowspan="1">« Considération. Égard »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Respect à</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <ref target="bibliographie.html#huguet">Huguet</ref> donne un exemple : « J'ay aussi respect au desplaisir que auront beaucoup de gens de bien qui m'ont aymé et estimé pendant ma vie. MONTAIGNE, Lettres (IV, 311) ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Respir</cell>
+              <cell colspan="1" rowspan="1">« Respiration, souffle » (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> ne donne pas ce substantif.<lb/>
+        • Substantif remplacé en 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Respirer (subst.)</cell>
+              <cell colspan="1" rowspan="1">Verbe substantivé dans   <ref target="bibliographie.html#huguet">Huguet</ref> mais non dans <ref target="bibliographie.html#furetiere">Furetière</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Respit</cell>
+              <cell colspan="1" rowspan="1">« Salut »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> donne au substantif le sens qu'il a dans <hi rend="italics">L'Astrée</hi> : « Terme, delay, temps qu'on accorde à quelqu'un pour se reconnoistre, pour payer &amp; faire ses affaires ».  Il ajoute : « Du Cange dit qu'il vient de <hi rend="italics">respirare</hi>, parce qu'en effet on dit qu'un debiteur respire, quand on luy donne un delay pour payer ses dettes ». <ref target="bibliographie.html#littre">Littré</ref> explique que <hi rend="italics">répit</hi> viendrait plutôt de <hi rend="italics">respicere</hi>, regarder en arrière.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Respondre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Se dit aussi de ce qui a relation, proportion ou symmetrie avec une autre, qui y tient, ou qui y conduit » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ressemblance</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Image » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ressembler</cell>
+              <cell colspan="1" rowspan="1">« Sembler »        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ressembler</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italics">Mon amour ressemblera le vent</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#178_verso">III, 5, 178 verso</ref>). <lb/>
+        <hi rend="italic">Ceux que vous ressemblez</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#296_recto">III, 7, 296 recto</ref>).<lb/>
+        <ref target="bibliographie.html#huguet">Huguet</ref> donne des exemples de l'emploi transitif de <hi rend="italic">ressembler</hi> : « Le jeune Cicero, qui n'a ressemblé son pere que de nom. MONTAIGNE, II, 10 (II, 118) ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ressentiment</cell>
+              <cell colspan="1" rowspan="1">« Fait de ressentir, sentiment.
+        Reconnaissance, acte de reconnaissance. Ressentiment. Souvenir »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). « Se dit figurément en Morale, des sentiments de l'ame, quand elle est émeuë de certaines passions » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ressentiment</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Je ne fis pour lors semblant de cognoistre ce qu'il vouloit dire, quoy que j'en eusse de tres grands ressentiments</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#278">IV, 2, 278</ref>).<lb/>
+        « Ressouvenir d'une ingure qu'on nous a faite » (<ref target="bibliographie.html#richelet">Richelet</ref>).<lb/>
+        -<hi rend="italic"> Cette faute est telle que si je n'en faisois le ressentiment que je doibs </hi>[...] (<ref target="../_roman/reference/24_4/24_4_livre_4.html#849">IV, 4, 849</ref>).<lb/>
+        « Il est fort offensé, il en fera paroistre son ressentiment. Lorsqu'on l'emploie absolument, il signifie  Souvenir des injures, &amp; désir de vengeance » (<ref target="bibliographie.html#academie">
+                  <hi rend="italic">Dictionnaire de l'Académie</hi>
+                </ref>, 1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ressentir</cell>
+              <cell colspan="1" rowspan="1">Sentir. « Estre touché vivement de quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        •             À plusieurs reprises le <hi rend="italics">ressentir</hi> de 1607 est remplacé par <hi rend="italics">sentir</hi> dans la première partie de 1621. Mais <hi rend="italics">ressentir</hi> pourrait avoir un sens plus fort quand il n'est pas remplacé : « Ses pensers luy vindrent tenir
+        compagnie, avec de si cruels ressouvenirs, qu'ils luy firent bien autant <hi rend="italics">ressentir</hi> leur abord qu'il l'avoit desiré » (<ref target="../_roman/reference/21_1/21_1_livre_3.html#47_recto">I, 3, 47 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ressentir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Sa rude façon ne ressentant que le fer et le sang</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#250">IV, 2, 250</ref>).<lb/>
+        « Avoir le caractère de, l'apparence de » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italic">Sans que vous le  ressentiez favorable</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#168">IV, 2, 168</ref>).<lb/>
+        « <hi rend="italic">Sentir qqc.</hi>+ adj. attribut » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>). Construction archaïque rencontrée auparavant<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_acquerir_favorable">η</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Resserrer (se)</cell>
+              <cell colspan="1" rowspan="1">« Enfermer. Clos, fermé »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ressouvenir</cell>
+              <cell colspan="1" rowspan="1">Verbe ou substantif. Souvenir. <lb/>
+        <ref target="bibliographie.html#guizot">Guizot</ref>, dans son <hi rend="italics">Dictionnaire des synonymes</hi>, explique  la différence entre <hi rend="italics">souvenir</hi> et <hi rend="italics">ressouvenir</hi> (Article <hi rend="italics">Ressouvenir</hi>). Le souvenir est « une action de l'âme » qui retrouve une idée qu'elle n'a pas oubliée. Le ressouvenir,  « un événement où l'âme est purement passive », retrouve des idées qui « n'avaient fait que des impressions légères ». <lb/>
+        <ref target="bibliographie.html#vaugelas">Vaugelas</ref> note que le verbe <hi rend="italics">Ressouvenir</hi> « a un certain usage assez extraordinaire, qui neantmoins est extremement François &amp; elegant [...] <hi rend="italics">se resouvenant</hi> [sic] se prend là tres-elegamment pour <hi rend="italics">considerant</hi>, ou <hi rend="italics">songeant</hi> » (p. 111-112). <lb/>
+        • D'Urfé utilise souvent <hi rend="italics">ressouvenir</hi> (verbe ou substantif). Dans la première partie, on le rencontre 116 fois  en 1607. En 1621, le mot est supprimé 2 fois, et  remplacé 7 fois par <hi rend="italics">souvenir</hi>. Rien n'indique les motifs de la correction.<lb/>
+        - <hi rend="italics">Se souvenir</hi> apparaît une seule fois ; le verbe est remplacé par <hi rend="italics">ressouvenir</hi> en 1621 (<ref target="../_roman/reference/21_1/21_1_livre_12.html#399_recto">I, 12, 399 recto</ref>). <lb/>
+        <hi rend="italics">• Se ressouvenant</hi> apparaît 8 fois en 1607 et 7 fois en 1621.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ressouvenir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- Dans la deuxième partie, <hi rend="italics">ressouvenir</hi> (verbe ou substantif) survient 62 fois en 1610 comme en 1621. <lb/>
+        - <hi rend="italics">Souvenir</hi> (substantif) apparaît 31 fois dans la deuxième partie, mais 14 fois seulement dans la première. <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ressouvenir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Son agreable ressouvenir</hi> (III, <hi rend="italic">
+                  <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_autheur_lignon">L'Autheur à la rivière</ref>)</hi>. <hi rend="italic">Ressouvenir</hi> (verbe ou substantif) survient 83 fois dans la troisième partie. <hi rend="italic">Souvenir</hi> est nettement plus fréquent (206 fois). Deux vers illustrent joliment les pouvoirs du souvenir :<lb/>
+        <hi rend="italics">    Le souvenir me tue<lb/>
+              Du bien que je n'ay plus</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#104_verso">III, 3, 104 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ressouvenir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">Le verbe se décline 8 fois. Les trois occurrences du substantif indiquent un important changement de perspective (<ref target="../_roman/reference/24_4/24_4_livre_2.html#166">IV, 2, 166</ref>), (<ref target="../_roman/reference/24_4/24_4_livre_4.html#897">IV, 4, 897</ref>)  : les ressouvenirs sont « les plus cruels ennemis » (<ref target="../_roman/reference/24_4/24_4_livre_3.html#440">IV, 3, 440</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ressouvinsse</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Ressouvenir</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reste</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Au reste, au surplus, au demeurant, au delà » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - « Etre de reste, avoir de reste, avoir encore »
+
+        (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Reste</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Ceux cy estant mieux montez [...] et Chevaliers au reste de plus de courage</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#375">IV, 3, 375</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Restrainte</cell>
+              <cell colspan="1" rowspan="1">Poignet. « Main restrainte, terme de chiromancie.<lb/>
+        — La main, au lieu ou elle est jointe au bras, est dite la jointure de la main : ou à raison que là au droit elle est plus restrainte et sort plus en destroit, elle est dite la main restrainte. ANT. DU MOULIN, trad. de J. D'INDAGINE, <hi rend="italics">Chiromance</hi>, p. 13 »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Resver</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">- « Estre distrait, entretenir ses pensées » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        - « Faire des songes extravagans, &amp; particulierement quand on est malade, ou en delire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Resverie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Quoy que tu sçaches dire de tes resveries et de ton amour de l'ame</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#35_recto">III, 2, 35 recto</ref>). <lb/>
+        <hi rend="italic">Embroüillant l'esprit par ses resveries</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#377_verso">III, 9, 377 verso</ref>). <lb/>
+        « Signifie aussi, Action ou proposition desraisonnable, vision » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Retardement</cell>
+              <cell colspan="1" rowspan="1">« Retard »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). Ce substantif est encore dans <ref target="bibliographie.html#richelet">Richelet</ref> et <ref target="bibliographie.html#furetiere">Furetière</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Retarder (à, de)</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Vous avez tant retardé de venir icy</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#52_verso">III, 2, 52 verso</ref>). « Différer de » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>). <lb/>
+        <hi rend="italic">Ma curiosité ne me permit pas de retarder d'avantage à luy demander</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#242_recto">III, 6, 242 recto</ref>). 	    « Retarder à. Tarder à » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>). <ref target="bibliographie.html#richelet">Richelet</ref> explique : « Tarder signifie diférer. Demeurer long temps, et en ce sens il régit la particule à avec le verbe qui le suit à l'infinitif ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Retaster</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Retastant la harpe</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#177_recto">III, 5, 177 recto</ref>). Les dictionnaires donnent <hi rend="italic">toucher</hi>, <hi rend="italic">pincer</hi> ou <hi rend="italic">jouer</hi> (de) la harpe.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Retenir</cell>
+              <cell colspan="1" rowspan="1">« Tenir en bon état »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+        Le verbe a plutôt dans <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#321_recto">I, 10, 321 recto</ref>) le sens que lui donne <ref target="bibliographie.html#furetiere">Furetière</ref> : « Conserver quelque qualité qu'on a euë autrefois ». <lb/>
+        •            Il est remplacé une fois par <hi rend="italics">tenir</hi> en 1621 (<ref target="../_roman/reference/21_1/21_1_livre_7.html#200_verso">I, 7, 200 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Retenir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">Dans la troisième partie aussi, <hi rend="italic">retenir</hi> est quelquefois remplacé par <hi rend="italic">tenir</hi> en 1621 (<ref target="../_roman/reference/21_3/21_3_livre_4.html#146_verso">III, 4, 146 verso</ref> ; <ref target="../_roman/reference/21_3/21_3_livre_12.html#514_recto">III, 12, 514 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Retenir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Retenir une bague</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#682">IV, 4, 682</ref>).<lb/>
+        « Garder pardevers soi ce qui est à un autre » <ref target="bibliographie.html#academie">(<hi rend="italic">Dictionnaire de l'Académie</hi>
+                </ref>, 1694).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Retenu</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« On appelle un homme retenu, celuy qui est reservé en ses paroles &amp; en ses jugements,  qui ne donne point son advis temerairement, qui est discret, sage &amp; posé en ses actions, en son maintien » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Retindrent</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">Verbe <hi rend="italics">Retenir</hi> au passé simple. On dit aujourd'hui il <hi rend="italic">retinrent</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Retiré</cell>
+              <cell colspan="1" rowspan="1">- « Un homme est bien <hi rend="italics">retiré</hi>, lors qu'il demeure chez luy clos &amp; couvert, &amp; qu'il ne veut voir ni frequenter personne » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Retiré</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - Un lieu retiré. « Solitaire, peu fréquenté » (<hi rend="italics">
+                  <ref target="bibliographie.html#academie">Dictionnaire de l'Académie</ref>,</hi> 1762).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:100px;">
+                Retirer</cell>
+              <cell colspan="1" rowspan="1">Ce verbe peut avoir plus d'une signification.<lb/>
+        - <hi rend="italics">Retirer sa fille</hi> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#112_recto">I, 4, 112 recto</ref>).   « Accueillir, recueillir »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italics">Se retirer à</hi> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#172_recto">I, 6, 172 recto</ref>). « Se retirer à qq. Rester près »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> ne donne pas cette acception.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:70px;">Retirer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - « Retirer à. Tirer sur, approcher de » (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - « Signifie aussi, Se retrecir » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        <hi rend="italics">- Se retirer de vous</hi> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#727">II, 11, 727</ref>).
+        « Détourner » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Retirer</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Retirer la vérité</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#131">IV, 1, 131</ref>).<lb/>
+        « Arracher avec peine » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        - <hi rend="italic">Un peu retiree de vous</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#324">IV, 2, 324</ref>).<lb/>
+        Sens ancien et sens nouveau cohabitent.<lb/>
+        - <hi rend="italic">Toute l'assistance que vous voudriez retirer de moy</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#902">IV, 4, 902</ref>).<lb/>
+        « Qui ne retire de sa vache que la queuë ne perd pas tout » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>, Article <hi rend="italic">Tirer</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:31px;">
+                Retourner</cell>
+              <cell colspan="1" rowspan="1">« Retourner. Revenir, recommencer » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Retraite</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La petite retraite où la maistresse du logis venoit seule</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#86_recto">III, 3, 86 recto</ref>). « Un asyle, un lieu de refuge où on se met en seureté » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Retrancher</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Diminuer, oster » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Retreuver</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Elle estoit retreuvé</hi>e (<ref target="../_roman/reference/21_3/21_3_livre_7.html#331_verso">III, 7, 331 verso</ref>). Cette graphie est dans <ref target="bibliographie.html#huguet">Huguet</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Réussir</cell>
+              <cell colspan="1" rowspan="1">- <hi rend="italics">Il reüssit un des bons Chevaliers</hi> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#39_recto">I, 2, 39 recto</ref>). « Reussir. Sortir, provenir, naître »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#littre">Littré</ref> note :  Au commencement du XVII<hi rend="supn">e</hi> siècle, on disputait pour savoir si <hi rend="italic">réussir</hi> se conjuguait aussi avec l'auxiliaire <hi rend="italic">être</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Réussir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - <hi rend="italics">Il estoit reüssi  admirable</hi> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#880">II, 12, 880</ref>). Réussir suivi par un adjectif : « Se trouver.
+        Encore que l'esperance doive reussir vraye. G. CHAPPUIS, tr. Fiammette, l. 2, p. 87 » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Réussir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Tous sont reüssis tres-accomplis Chevaliers</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#233_verso">III, 6, 233 verso</ref>). « Devenir » (<ref target="bibliographie.html#godefroy">Godefroy</ref>, Complément).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Revencher (se)</cell>
+              <cell colspan="1" rowspan="1">« Prendre sa revanche, se venger »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Revenir</cell>
+              <cell colspan="1" rowspan="1">- « Convenir, aller [bien] »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - « Se dit aussi en parlant du retour des forces naturelles » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rever</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">Voir <ref target="#resver">Resver</ref>.<lb/>
+        <hi rend="italic">Vous révez, comme une personne qui s'ennuye</hi> (<ref target="../_roman/reference/24_4/24_4_livre_1.html#9">IV, 1, 9</ref>).  « RESVER, signifie aussi, Estre distrait, entretenir ses pensées » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Reveur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ce vieux réveur de <ref target="personnage_pp.html#3_phocion">Phocion</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#189_recto">III, 5, 189 recto</ref>). « Qui resve, qui dit ou fait des choses extravagantes. Il ne faut pas prendre garde à ce vieux resveur, il ne sçait ce qu'il dit » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Revindrent</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <ref target="../_roman/reference/21_3/21_3_livre_7.html#318_recto">III, 7, 318 recto</ref>. Verbe <hi rend="italic">Revenir</hi> au passé simple. On dit aujourd'hui <hi rend="italic">Revinrent</hi>. La conjugaison archaïque est dans <ref target="bibliographie.html#huguet">Huguet</ref> (Article <hi rend="italic">Venir</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Revinsse</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Revenir</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Revisse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Falloit-il que je te revisse pour ne te revoir jamais plu</hi>s (<ref target="../_roman/reference/21_3/21_3_livre_12.html#497_recto">III, 12, 497 recto</ref>). Verbe <hi rend="italic">Revoir</hi> à l'imparfait du subjonctif.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Révolution</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le temps par ses diverses revolutions</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#76_verso">III, 3, 76 verso</ref>). « Tour et retour, cours et fuite » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rien</cell>
+              <cell colspan="1" rowspan="1">« Rien. Non. » (<ref target="bibliographie.html#huguet">Huguet</ref>). On trouve dans  les exemples donnés le « Rien, rien » qui est dans <hi rend="italic">L'Astrée</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rien</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Servir de rien</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#87_recto">III, 3, 87 recto</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> donne servir <hi rend="italic">de rien</hi> et servir <hi rend="italic">à rien</hi> (Article <hi rend="italic">Servir</hi>).<lb/>
+        - <hi rend="italic">Sans y penser en  rien</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#469_recto">III, 11, 469 recto</ref>). <hi rend="italic">En rien</hi> renforce la négation.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rien plus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« D'avantage »
+
+        (<ref target="bibliographie.html#nicot">Nicot</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rieux</cell>
+              <cell colspan="1" rowspan="1">« Ruisseau »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Risée</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Cette trouppe fit une grande risee</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#385_recto">III, 9, 385 recto</ref>). « Eclats de rire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Robe</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« <hi rend="italics">A robe, gowne, mantle, coat, any long upper garment</hi> »
+
+        (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> appelle la toge « robe longue » (Article <hi rend="italics">Robe</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Roideur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La roideur du fleuve</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#345_recto">III, 8, 345 recto</ref>). « Se dit aussi de la violence du mouvement » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Roidir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Se roidir contre chose</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#862">IV, 4, 862</ref>).<lb/>
+        <ref target="bibliographie.html#richelet">Richelet</ref> note « Roidir Prononcez rédi » « Résister, s'opiniâtrer ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rompre </cell>
+              <cell colspan="1" rowspan="1">• « Déchirer »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        • Quitter, se séparer de. <lb/>
+        - <hi rend="italics">Rompre compagnie</hi> (<ref target="../_roman/reference/21_1/21_1_livre_5.html#122_verso">I, 5, 122 verso</ref>) <lb/>
+        - <hi rend="italics">Rompre le malheur</hi> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#336_recto">I, 10, 336 recto</ref>) <lb/>
+        Les deux expressions ne sont pas dans les dictionnaires. <lb/>
+        « On dit aussi, qu'on a rompu amitié, societé, commerce avec quelqu'un, ou absolument, qu'on a rompu, pour dire, qu'on s'est separé d'avec luy, ou qu'on est devenu son ennemi. On dit en ce sens, rompre une ligue, une alliance, un traitté ; rompre la paix, rompre un marché, un accord, c'est s'en desdire, ou manquer à les conclurre. On dit aussi, rompre l'assemblée, la conversation, pour dire, en empêcher la continuation » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rompre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italics">Rompre le sort</hi> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#55_verso">III, 2, 55 verso</ref>). <ref target="bibliographie.html#huguet">Huguet</ref> donne « Rompre le dé. Interrompre une action ». <ref target="bibliographie.html#furetiere">Furetière</ref> donne  « Rompre le dé, c'est, Brouiller le dé avant qu'on ait vû ce qu'il porte » (Article <hi rend="italics">Dé</hi>). <ref target="bibliographie.html#richelet">Richelet</ref> donne « Rompre les enchantemens » (Article <hi rend="italics">Rompement</hi>). Le <ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref> donne rompre une défense, un ordre.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rompre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Il avoit rompu cette glace </hi>(<ref target="../_roman/reference/24_4/24_4_livre_4.html#671">IV, 4, 671</ref>).<lb/>
+        « Rompre la glace, pour dire, Vaincre les premieres difficultez » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rompure</cell>
+              <cell colspan="1" rowspan="1">« Rupture, fracture »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rond</cell>
+              <cell colspan="1" rowspan="1">- Substantif. « Cercle »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Rond</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - Adjectif. « Se dit figurément en choses morales. On appelle un homme franc &amp; rond, celuy qui est sincere, qui va droit en besogne, qui ne cherche point de finesses » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rondement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Franchement &amp; sincerement » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rouer</cell>
+              <cell colspan="1" rowspan="1">« Tourner »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).<hi rend="italic"> Rouer les yeux</hi> est encore dans <ref target="bibliographie.html#sireine">
+                  <hi rend="italic"> Le Sireine</hi>
+                </ref> (p. 147). <hi rend="italics">Rouer</hi> n'a pas cette signification dans <ref target="bibliographie.html#furetiere">Furetière</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rouler</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Il alla roulant  toute la nuict</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#586">IV, 3, 586</ref>).<lb/>
+        « Rouler est aussi neutre, et signifie, Avancer en tournant.[...] sign. encore fig. Errer, vaguer sans s'arrester en un lieu »        (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Roullement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">O Ciel qui traines tout avec ton roullement</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#3_recto">III, 1, 3 recto</ref>). Action de rouler. « Roulement de roues » donne <ref target="bibliographie.html#nicot">Nicot</ref>. Les dictionnaires plus modernes réservent le <hi rend="italic">roulement</hi> aux yeux.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Route</cell>
+              <cell colspan="1" rowspan="1">Quand ce substantif féminin a le même sens qu'aujourd'hui (<ref target="../_roman/reference/21_1/21_1_livre_5.html#149_verso">I, 5, 149 verso</ref>) aucune explication n'est nécessaire. Mais il peut aussi avoir une signification différente. <lb/>
+        - Par exemple, « l'entiere <hi rend="italics">route</hi> se donna » (<ref target="../_roman/reference/21_1/21_1_livre_11.html#357_verso">I, 11, 357 verso</ref>). « Bataille. Déroute, défaite »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Route</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Le chef ayant esté tué, les autres  bien-tost après se mirent en route</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#375">IV, 3, 375</ref>).<lb/>
+        « ROUTE, signifie aussi, Deffaite, dissipation d'une armée. Les Sergens taschent de rallier les soldats dans une route » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rude</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Signifie aussi, Difficile à supporter » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ruelle</cell>
+              <cell colspan="1" rowspan="1">  <ref target="bibliographie.html#huguet">Huguet</ref> fait de <hi rend="italics">ruelle</hi> un synonyme de <hi rend="italics">rouelle</hi> (roue). Ce substantif a dans <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_1/21_1_livre_4.html#80_verso">I, 4, 80 verso</ref>) le sens que donne <ref target="bibliographie.html#furetiere">Furetière</ref> : « Se dit aussi de l'espace qu'on laisse entre un lit &amp; la muraille. [...] se dit aussi des alcoves, &amp; des lieux parez où les Dames reçoivent leurs visites, soit dans le lit, soit sur des sieges ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ruine</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Il refaict la ruine que je luy ay faite</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#548">IV, 3, 548</ref>).<lb/>
+        « RUINE, se dit aussi à l'égard des personnes, &amp; des choses qu'on veut destruire, ou faire perir, ou leur causer quelque grand dommage » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ruiner</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Vous m'aurez ruiné auprès de mon maistre</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#784">IV, 4, 784</ref>).<lb/>
+        « Ruiner quelcun dans l'esprit d'un autre »        (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Ruineux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Ceste particuliere practique, vous est plus ruineuse que favorable</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#400_recto">III, 9, 400 recto</ref>). « Se dit aussi au figuré, de ce qui cause du dommage » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Ruineux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Ce ruineux dessein </hi>(<ref target="../_roman/reference/24_4/24_4_livre_2.html#326">IV, 2, 326</ref>). <lb/>
+        Comme il s'agit des prétentions matrimoniales de <ref target="personnage_bb.html#4_bellimarte">Bellimarte</ref>, le romancier peut combiner ici sens concret (grandes dépenses) et sens figuré (dommageable).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Rustique</cell>
+              <cell colspan="1" rowspan="1">- Substantif. « Paysan »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        - <hi rend="italics">à la rustique</hi> « nom qu'on donne aux membres d'Architecture, quand le travail ou l'ordre est rustique, quand les pierres ne sont que piquées, au lieu d'estre polies » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+          </table><p> </p><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

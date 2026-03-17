@@ -1,0 +1,2342 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Astrée fonctionnelle, II, 9 - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../../../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../../../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="../../../_analyse/index_noms_propres.html">Index des noms propres</ref><lb/><ref target="../../../_analyse/personnage.html">Tableaux des personnages</ref><lb/><ref target="../../../_analyse/repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="../../../_analyse/glossaire.html">Glossaire</ref><lb/><ref target="../../../_analyse/dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="../../../_analyse/notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="../../../_analyse/plan_du_site.html">Plan du site</ref><lb/><ref target="../../../_analyse/plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="../../../_analyse/bibliographie.html">Bibliographie</ref><lb/><ref target="../../../_analyse/liens.html">Liens externes</ref><lb/><ref target="../../../_analyse/liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="../../../_analyse/guide.html">Guide de la navigation</ref><lb/><ref target="../../../_analyse/faq.html">FAQ</ref><lb/><ref target="../../../_analyse/nouveautes.html">Nouveautés</ref><lb/><ref target="../../../_analyse/remerciements.html">Remerciements</ref><lb/><ref target="../../../_analyse/cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../../../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><hi rend="white">
+            <hi rend="bold">MONTRER</hi>
+            <lb/>
+<!--<input
+  type="checkbox"
+  id="chk_annotation"
+  name="chk_annotation"
+  onclick="ToggleAnnotation()">--><!--</input>-->
+            <hi rend="leftmenu" onclick="ToggleCheck('annotation')">Annotations</hi>
+     <hi xml:id="couleurs">
+              <lb/>
+   <!--<input
+  type="checkbox"
+  id="chk_couleur"
+  name="chk_couleur"
+  onclick="ToggleCouleur()">--><!--</input>-->
+              <hi rend="leftmenu" onclick="ToggleCheck('couleur')">colorées</hi>
+     </hi>
+            <lb/>
+<hi xml:id="chk_var">
+  <!--<input
+  type="checkbox"
+  id="chk_variante"
+  name="chk_variante"
+  onclick="ToggleVariante()">--><!--</input>-->
+              <hi rend="leftmenu" onclick="ToggleCheck('variante')">Variantes</hi>
+	<hi xml:id="explicite">
+                <lb/>
+   <!--<input
+  type="checkbox"
+  id="chk_explicite"
+  onclick="ToggleExplicite()">--><!--</input>-->
+                <hi rend="leftmenu" onclick="ToggleCheck('explicite')">explicites</hi>
+    </hi>
+              <lb/>
+    </hi>
+</hi><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="../../../_analyse/accueil.html">Accueil</ref><lb/><ref target="../../../_analyse/preface.html">Préface</ref><lb/><ref target="../../../_analyse/choix.html">Choix éditoriaux</ref><lb/><ref target="../../../_analyse/quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="../../../_analyse/astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="../../../_analyse/vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="../../../_analyse/texte.html">Présentation des textes</ref><lb/><ref target="../../../_analyse/feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../../reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../../reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../../reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../../reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../../reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../../preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../../preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../../preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../../preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="../../../_analyse/resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="../../../_analyse/plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="../../../_analyse/evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="../../../_analyse/variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="../../../_analyse/variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/illustrations.html">Analyse des illustrations</ref><lb/><ref target="../../../_analyse/paralleles.html">Parallèles suggérés</ref><lb/><ref target="../../../_analyse/resume.html">Résumé des intrigues</ref><lb/><ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref><lb/><ref target="../../../_analyse/temoignages.html">Témoignages</ref><lb/><ref target="../../../_analyse/temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="../../../_analyse/temoignages.html#sorel">Sorel</ref><lb/><ref target="../../../_analyse/temoignages.html#gueret">Guéret</ref><lb/><ref target="../../../_analyse/lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="../../../_analyse/urfe.html">Biographie</ref><lb/><ref target="../../../_analyse/biographes.html">Biographes, critiques</ref><lb/><ref target="../../../_analyse/evenements.html">Événements</ref><lb/><lb/><ref target="../../../_analyse/genealogie.html">Généalogie</ref><lb/><ref target="../../../_analyse/testament.html">Testament</ref><lb/><ref target="../../../_analyse/inventaire.html">Inventaire</ref><lb/><ref target="../../../_analyse/heritages.html">Héritages</ref><lb/><lb/><ref target="../../../_analyse/poemes.html">Poèmes</ref><lb/><ref target="../../../_analyse/epitres.html">Épîtres</ref><lb/><ref target="../../../_analyse/lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="../../../_analyse/jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="../../../_analyse/malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="../../../_analyse/bibliographie.html">Bibliographie</ref><lb/><ref target="../../../_analyse/liens.html">Liens externes</ref><lb/><ref target="../../../_analyse/liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="../../../_analyse/cartotheque.html">Cartothèque</ref><lb/><ref target="../../../_analyse/galerie.html">Galerie de portraits</ref><lb/><ref target="../../../_analyse/rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="../../../_analyse/partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="../../../_analyse/photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../../../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../../../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../../../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../../../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="../../../_analyse/recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="../../../_analyse/recherche.html">Fils d'Arianne</ref><lb/><ref target="../../../_analyse/hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="../../../_analyse/recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="../../../_analyse/concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="../../../_analyse/guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><hi rend="italic">L'Astrée </hi><!--<script>--><!--</script>--><table rend="small8 nocellborder" style=" background-image:url(../../../images/parchemin4.gif); text-align:left; z-index:4; width:100%">
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_2_liminaires.html">Liminaires</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_2_livre_7.html">Livre 7</ref>
+	
+	</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_2_livre_1.html">Livre 1</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	<ref target="fonctionnelle_2_livre_8.html">Livre 8</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_2_livre_2.html">Livre 2</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_2_livre_9.html">Livre 9</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_2_livre_3.html">Livre 3</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_2_livre_10.html">Livre 10</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_2_livre_4.html">Livre 4</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_2_livre_11.html">Livre 11</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_2_livre_5.html">Livre 5</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_2_livre_12.html">Livre 12</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+    
+ 	  <ref target="fonctionnelle_2_livre_6.html">Livre 6</ref>
+    
+    </cell>
+                <cell colspan="1" rowspan="1">
+	
+	
+    <ref target="fonctionnelle_2_liminaires.html#tables">Tables</ref>		</cell>
+              </row>
+              <row>
+                <cell colspan="2" rowspan="1">
+	  
+    <ref target="fonctionnelle_2_liminaires.html#privilege">Privilège</ref>	  
+	  	    </cell>
+              </row>
+            </table><lb/><lb/><ref target="../../../_analyse/resume.html">Résumé du roman</ref><lb/><ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref><lb/><ref target="../../../_analyse/choix.html">Choix éditoriaux</ref><lb/><ref target="../../../_analyse/texte.html">Présentation des textes</ref><lb/><ref target="../../../_analyse/evolution.html">Évolution</ref><lb/><ref target="../../../_analyse/illustrations.html">Illustrations</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../../../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../../../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><!--<script>--><!--</script>--><hi rend="italic">L'Astrée fonctionnelle</hi><lb/><hi rend="italic">L'Astrée</hi><ref target="fonctionnelle_2_livre_8.html">
+          <graphic url="../../../images/fleche_g.gif" rend="img" mimeType="image/gif"/>
+          <hi style="float:left; margin-top:6px">Livre 8</hi>
+        </ref><ref target="fonctionnelle_2_livre_10.html">
+          <graphic url="../../../images/fleche_d.gif" rend="img" mimeType="image/gif"/>
+          <hi style="float:right; margin-top:6px">Livre 10</hi>
+        </ref><lb/><lb/><!--<header>--><div><div><head>
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>
+              <hi rend="italic">L'Astrée</hi>
+	    d'Honoré d'Urfé<lb/>
+    Deuxième partie </head><!--</header>--><!--<header>--></div></div><div><head>Livre 9</head><!--</header>--><lb/><p><graphic url="../../../images/gravures_vaganay/deuxieme/2-9-1.jpg" rend="img" mimeType="image/jpeg"/></p><lb/><hi rend="titre9">
+              <hi rend="italic">L'Astrée</hi> II,
+        9. Édition <ref target="../../../_analyse/bibliographie.html#vaganay**">Vaganay**</ref>, 1925<lb/>
+    <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref>, <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref> et un groupe de bergers assistent<lb/>
+    au « procès » de <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> et <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref> (<ref target="../../reference/21_2/21_2_livre_9.html#561">II, 9, 561</ref>)</hi><lb/><hi rend="titre9">(Voir <ref target="../../../_analyse/illustrations.html#gravures_ajoutees">Illustrations</ref>)</hi><lb/><lb/><lb/><p><graphic url="../../../images/gravures_vaganay/deuxieme/2-9-2.jpg" rend="img" mimeType="image/jpeg"/></p><lb/><hi rend="titre9">
+              <hi rend="italic">L'Astrée</hi> II,
+      9. Édition <ref target="../../../_analyse/bibliographie.html#vaganay**">Vaganay**</ref>, 1925<lb/>
+    Gravure signée Guélard<lb/>
+    À la suite du jugement de <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref>, <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref> s'évanouit <lb/>
+    pendant que <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> s'approche de <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> (<ref target="../../reference/21_2/21_2_livre_9.html#597">II, 9, 597</ref>) <lb/>
+    </hi><hi rend="titre9">(Voir <ref target="../../../_analyse/illustrations.html#gravures_ajoutees">Illustrations</ref>)</hi><lb/><lb/><p>Édition de 1610, p. 563. <lb/>Édition de Vaganay, p. 355.</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 558 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#558">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#558">1621</ref>
+            </hi>
+          </p><p>
+            <ref target="../../../_analyse/glossaire_cc.html#cependant">
+              <graphic url="../../../images/c_120.jpg" rend="img" mimeType="image/jpeg"/>
+              <hi rend="micro">C</hi>ependant</ref> que <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> et la vénérable <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref> allaient cherchant quelque lieu commode pour
+        s'asseoir, elles aperçurent à travers le bois des
+        Bergères qui venaient vers elles, car les arbres qui
+  étaient fort hauts et assez éloignés les uns
+        des autres, leurs troncs fort élevés et sans avoir
+        guère de branches basses, et la terre sans ronces
+        ni autre menu bois, ne pouvaient empêcher que la
+        vue s'étendît fort loin et que l'on ne vît
+        ce qui était par delà les arbres. Au commencement<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_commencement">η</ref>
+        qu'elles furent aperçues et que <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> demanda
+        qui elles étaient, il n'y eut personne qui le sut
+        dire ; mais s'étant approchées, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, qui</p><p> <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 559 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#559">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#559">1621</ref>
+            </hi>
+          </p><p>était <ref target="../../../_analyse/glossaire_pp.html#parmi">parmi</ref> elles fut incontinent reconnu, et bientôt après les Bergères qui étaient <ref target="../../../_analyse/personnage_pp.html#2_palinice">Palinice</ref>,<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_cyrcene">η</ref> <ref target="../../../_analyse/personnage_cc.html#2_circene">Circène</ref> et <ref target="../../../_analyse/personnage_ff.html#2_florice">Florice</ref>, avec lesquelles il s'était <ref target="../../../_analyse/glossaire_aa.html#amuser">amusé</ref>, les ayant rencontrées sur son chemin, sans se souvenir de l'écritoire qu'il allait querir<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_querir">η</ref>.
+        Et n'eût été qu'elles lui demandèrent d'où il
+        venait et où il allait, il ne pensait plus à ce
+        qu'il avait à faire, mais cette demande l'en fit <ref target="../../../_analyse/glossaire_qr.html#ressouvenir">ressouvenir</ref>. Et les ayant priées de l'attendre, il
+        s'<ref target="../../../_analyse/glossaire_ee.html#encourir">encourut</ref> prendre l'écritoire, et les ayant
+        retrouvées, leur fit <ref target="../../../_analyse/glossaire_ee.html#entendre">entendre</ref> les cérémonies du
+        Tombeau de <ref target="../../../_analyse/personnage_cc.html#2_celadon">Céladon</ref>, auxquelles elles <ref target="../../../_analyse/glossaire_dd.html#desirer_de">désirèrent d'</ref>assister, mais elles arrivèrent trop tard. <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref>, qui avait su déjà qui elles étaient<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_qui_elles_estoient">η</ref>, voulut les
+        attendre, et <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> qui ne demeurait jamais muet,
+        élevant la voix, s'en venait chantant ces vers, à
+        <ref target="../../../_analyse/glossaire_hh.html#haut_def">haut</ref> de tête : </p><p rend="center_t">
+
+
+            <ref target="../../../_analyse/glossaire_ss.html#sonnet">SONNET</ref>. <lb/>        Qu'il ne faut point aimer sans<lb/>
+    être aimé.         </p><p rend="center_t">
+            <hi rend="italics">Quand je vois un amant <ref target="../../../_analyse/glossaire_tt.html#transi">transi</ref>,        <lb/>
+        Qui languit d'un amour extrême,<lb/>
+        L'œil triste et le visage blême, <lb/>
+        Portant cent plis sur le sourcil,
+        <lb/>
+        <lb/>
+        Quand je le vois plein de souci,
+        <lb/>
+        Qui meurt d'Amour sans que l'on l'aime,
+        <lb/>
+        Je dis aussitôt en moi-même : <lb/>
+      - C'est un grand sot d'aimer ainsi.        </hi>
+          </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 560 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#560">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#560">1621</ref>
+            </hi>
+          </p><p rend="center_t">
+            <hi rend="italics">
+        Il faut aimer, mais que la belle<hi rend="cache"> </hi>
+              <ref target="../../../_analyse/note_2.html#2_la_belle">η</ref>
+              <lb/>
+        Brûle pour qui brûle pour elle, <lb/>
+        Ou bien c'est pure lâcheté.<lb/>
+        <lb/>
+        L'Amour de l'Amour est extraite ;<lb/>
+        La <ref target="../../../_analyse/glossaire_cc.html#charge">charge</ref> n'est jamais bien faite,
+        <lb/>
+        Qui penche toute d'un côté. </hi>
+          </p><p>  À ces dernières paroles, ces étrangères furent si
+        proches de <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> et de <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref>, qu'ayant su
+        de <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> qui était la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, elles l'allèrent
+        saluer et <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref> aussi, après que <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> leur
+        eût fait savoir qui elle était. Et parce qu'<ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> apportait l'écritoire, et que <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref> en riait :
+        - Pensez-vous, dit-il, Bergère, que je ne sois venu en
+        <ref target="../../../_analyse/repertoire_ff.html#2_forez">Forez</ref> que pour servir les morts ? <ref target="../../../_analyse/personnage_tt.html#2_tircis">Tircis</ref>, qui
+        n'a autre affaire, y peut bien employer le temps,
+        mais c'est en quoi <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> s'entend le moins ; et <ref target="../../../_analyse/glossaire_pp.html#pource">pource</ref> ne trouvez étrange que, par une honnête
+        permission<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_permission">η</ref>, je vous dise que si vous ne me voulez tel
+        que je suis, vous n'espériez pas de me changer sur
+        mes vieux jours. <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref> qui avait bien d'autres
+        choses en la tête : - Je te jure, dit-elle, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>,
+        que si tu étais d'autre <ref target="../../../_analyse/glossaire_hh.html#humeur">humeur</ref>, je ne t'aimerais pas
+        tant que je fais.  Mais tout ainsi que je ne dois pas
+        espérer de te changer, aussi ne faut-il pas que tu
+        <ref target="../../../_analyse/glossaire_pp.html#penser_de">penses de</ref> me rendre autre que je ne suis ; et <ref target="../../../_analyse/glossaire_pp.html#pource">pource</ref>,
+        quand je voudrai rire, permets que je rie, et que je
+        me taise quand je ne voudrai pas parler, et j'en
+        ferai de même te laissant en tes
+
+        <ref target="../../../_analyse/glossaire_hh.html#humeur">humeurs</ref>.</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 561 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#561">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#561">1621</ref>
+            </hi>
+          </p><p> Avec cette franchise nous vivrons tous
+        deux bien contents, et sans guère de peine. - Ah !
+        ma maîtresse, dit-il, que je vous aime, mais
+        plutôt que je vous adore, puisque vous êtes de
+        cette <ref target="../../../_analyse/glossaire_hh.html#humeur">humeur</ref> ! Je ne pensais pas en pouvoir jamais
+        rencontrer une telle ! Et en disant ces paroles il lui
+        tenait les jambes embrassées, et la voulait porter
+        en ses bras, <ref target="../../../_analyse/glossaire_dd.html#dont">dont</ref> elle se défendait. Chacun riait
+        de voir la peine de <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref> et l'<ref target="../../../_analyse/glossaire_hh.html#humeur">humeur</ref> du Berger.
+        Et <ref target="../../../_analyse/glossaire_cc.html#cependant">cependant</ref> <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> et <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref>, ayant trouvé un
+        lieu qui leur semblait commode, <ref target="../../../_analyse/glossaire_pp.html#prindrent">prirent</ref> leurs
+        places ; car quant à <ref target="../../../_analyse/personnage_pp.html#2_paris">Paris</ref>, il était toujours
+        auprès de <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref>, <ref target="../../../_analyse/glossaire_qr.html#qui">qui</ref> n'était point un petit
+        déplaisir à <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, n'osant l'approcher pour le
+        respect qu'il lui<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_lui_paris">η</ref> voulait rendre. Cela fut cause
+        qu'étant privé du bien de sa parole, afin d'avoir
+        celui de sa vue, il fut contraint de se mettre vis-à-vis d'elle. Et lors chacun s'étant assis, <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> et <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref> choisirent leur place au-devant de <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>,
+        où ils se mirent tous deux à genoux, sans vouloir
+        s'en ôter, quoi que la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> ou la vénérable <ref target="../../../_analyse/glossaire_dd.html#druide">Druide</ref> leur puissent dire. Enfin la Bergère commença de
+        parler en cette sorte par le commandement qui lui
+        en fut fait : </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 562 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#562">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#562">1621</ref> </hi>
+          </p><p rend="center_t">
+HISTOIRE<lb/> DE <ref target="../../../_analyse/personnage_dd.html#2_doris">DORIS</ref> ET <ref target="../../../_analyse/personnage_pp.html#2_palemon">PALÉMON</ref>.</p><p>
+            <graphic url="../../../images/i_562.jpg" rend="img" mimeType="image/jpeg"/>
+            <hi rend="micro">J</hi>'ai toujours eu cette <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref>, <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> et sage <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, et vous, vénérable <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref>, que s'il y
+        avait quelque chose entre les hommes qui les peut
+        obliger les uns aux autres, ce devait être l'amitié<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_amour_amitie">η</ref> ;
+        et si cela est vrai ou faux, j'en laisserai le
+        jugement à celles qui ont été aimées. <ref target="../../../_analyse/glossaire_tt.html#tant_y">Tant y</ref> a que,
+        suivant cette croyance, après l'avoir été longuement
+        de ce Berger, je <ref target="../../../_analyse/glossaire_pp.html#penser_de">pensai d</ref>'être en quelque sorte
+        obligée de lui rendre amitié pour amitié. Il est vrai
+        que comme d'ordinaire les commencements<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_commandements">η</ref> sont
+        toujours peu de chose à la naissance de cette bonne
+        volonté, je ne jugeais pas qu'elle pût jamais
+        devenir telle que je l'ai depuis ressentie. Mais elle
+        prit insensiblement une si profonde racine par une
+        longue <ref target="../../../_analyse/glossaire_cc.html#conversation">conversation</ref> que, quand je m'en aperçus, il
+        ne fut plus en ma puissance de m'en défaire ; et <ref target="../../../_analyse/glossaire_pp.html#par_ainsi">par ainsi</ref> je l'aimai de façon que, s'il m'avait rendu la
+        première preuve de son affection, je lui témoignai
+        depuis mon amitié en tant de sortes que comme je ne
+        voulais point douter de la sienne
+
+        aussi ne le pouvait-il de celle qu'il désirait de moi,
+        pour le moins avec raison. Toutefois je ne sais
+        comment pour mon malheur, quand il en fut plus
+        assuré, ce fut lorsqu'il me fit paraître </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 563 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#563">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#563">1621</ref>
+            </hi>
+          </p><p>d'en
+        avoir plus de méfiance, si bien que ce ne lui fut pas
+        assez de me retirer de la fréquentation de tous ceux
+        que j'avais accoutumé de voir, mais voulait encore
+        que tous les autres fussent privés de la mienne, ne
+        se contentant plus que je ne visitasse une seule de
+        mes compagnes, mais si <ref target="../../../_analyse/glossaire_qr.html#quelqu_un">quelqu'une</ref> me venait trouver,
+        ce lui était chose insupportable. <lb/>  Voyez<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_paragraphe">η</ref> quelle offense il me faisait ayant une si
+mauvaise <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> de moi par sa jalousie ! Et jugez,
+pour Dieu ! en quelle extrême tyrannie son amitié
+s'était changée, et toutefois, plutôt que de lui
+déplaire, j'élus de perdre entièrement la bonne
+volonté de toutes mes voisines que de lui donner
+quelque mauvaise satisfaction de moi. Les Dieux
+savent avec quelle peine je le pus,  <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> que
+je n'eusse un très grand contentement de faire chose
+qui lui fût agréable, mais <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> fallait-il m'y conduire
+avec une grande contrainte et avec une <ref target="../../../_analyse/glossaire_pp.html#prudence">prudence</ref> qui
+ne fût pas moindre pour ne donner <ref target="../../../_analyse/glossaire_no.html#occasion">occasion</ref> de
+mécontentement à celles que j'<ref target="../../../_analyse/glossaire_ee.html#eslongner">éloignais</ref>  de ma
+compagnie. J'y parvins le plus doucement qu'il me fut possible,
+et le contentai, de sorte qu'il semblait que j'eusse
+quelque maladie contagieuse tant je demeurais <ref target="../../../_analyse/glossaire_qr.html#retire">retirée</ref> des Bergers et des Bergères qui me <ref target="../../../_analyse/glossaire_ss.html#souloir">soulaient</ref> <ref target="../../../_analyse/glossaire_pp.html#pratiquer">pratiquer</ref>.
+Que si cette jalousie procédait de l'affection qu'il
+me portait, n'était-il pas pour le moins obligé
+de faire autant pour moi qu'il me contraignait de
+faire pour lui ? Mais au contraire durant tout ce
+temps de ma vie que je puis bien appeler sauvage
+(car véritablement telle étais-je devenue</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 564 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#564">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#564">1621</ref>
+            </hi>
+          </p><p> pour lui
+        être agréable) de tout le jour je ne le voyais qu'un
+        moment, mais je dis un moment si bref qu'en vérité
+        je ne faisais que le voir, ne me donnant ni la
+        commodité ni le loisir de lui pouvoir dire presque
+        une parole, sans que le cruel considérât que, puisque pour lui je me privais de tout autre, s'il ne
+        pouvait être tout le temps à moi, il le devait être
+        pour le moins la plus grande partie.
+        Et jugez si je n'ai pas <ref target="../../../_analyse/glossaire_no.html#occasion">occasion</ref> de dire que son
+        affection s'était changée en Tyrannie, puisqu'encore il pensait que je lui en<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_en_affection">η</ref> <ref target="../../../_analyse/glossaire_dd.html#deusse">dusse</ref> de retour,
+        imitant en cela les avares<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_autres_avares">η</ref> qui, au commencement <ref target="../../../_analyse/glossaire_qr.html#retrancher">retranchent</ref> leur dépense sous ombre d'être bons
+        ménagers, et enfin viennent à une telle épargne
+        qu'ils s'ôtent à eux et
+
+        à ceux qui les servent les moyens de pouvoir vivre.
+        Car je crois bien que sa vie n'était pas plus agréable
+        que la mienne, sinon en tant que la sienne était
+        volontaire. Et voyez si je l'aimais, et si j'étais
+        bonne. Il usa de cette tyrannie sur moi, sans que
+        j'en <ref target="../../../_analyse/glossaire_mm.html#murmurer">murmurasse</ref> jamais, aussi longuement qu'il lui
+        plut ; et si jamais il ne l'<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_l_tyrannie">η</ref>eût quittée, jamais je
+        ne m'en fusse soustraite, et la dernière preuve que
+        je lui rendis de mon obéissance (car telle la puis-je
+        dire, et <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> seulement affection) fut telle
+        qu'elle devait être plus que capable de lui ôter
+        toutes ces fâcheuses et étranges <ref target="../../../_analyse/glossaire_hh.html#humeur">humeurs</ref>.<lb/>  Il faut que vous sachiez, <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, que je suis
+        demeurée fort jeune sans père et sans mère, entre les
+        mains d'un frère qui, pour avoir plus d'âge que moi,
+        et pour l'amitié qu'il m'a toujours fait paraître,
+        m'a tenu jusques</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 565 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#565">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#565">1621</ref>
+            </hi>
+          </p><p> ici lieu de père, soit en la
+        conduite de ma personne ou en celle de mon bien,
+        ayant reçu en toutes les occasions qui se sont
+        présentées tant de bons <ref target="../../../_analyse/glossaire_no.html#office">offices</ref> de lui, que je puis
+        en cela lui donner nom de père. Étant tel, jugez
+        s'il fallait, et si la raison même ne me commandait
+        que je me conformasse le plus qu'il m'était
+        possible à toutes ses <ref target="../../../_analyse/glossaire_hh.html#humeur">humeurs</ref> et volontés, et s'il
+        y avait apparence que je le <ref target="../../../_analyse/glossaire_dd.html#deusse">dusse</ref> contrarier. <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> toutefois, sans considération de toutes
+        ces choses, voulait qu'absolument je m'en <ref target="../../../_analyse/glossaire_qr.html#retirer">retirasse</ref> ; <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> que je <ref target="../../../_analyse/glossaire_ss.html#sortisse">sortisse</ref> de sa maison, car il ne
+        voyait lieu où je <ref target="../../../_analyse/glossaire_pp.html#pusse">pusse</ref> aller, mais <ref target="../../../_analyse/glossaire_no.html#ouy_bien">oui bien</ref> que,
+        dédaignant ce qui le<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_le_frere">η</ref> contentait, je ne <ref target="../../../_analyse/glossaire_ff.html#fisse">fisse</ref> point
+        d'état de ceux qu'il aimait, voire leur défendisse
+        ma vue. Ceux qui ont été sous l'autorité d'autrui
+        sauront si cela est faisable ou non, toutefois
+        pour lui faire connaître qu'il ne voudrait jamais
+        témoignage de mon amitié que je ne m'efforçasse de
+        lui rendre, encore entrepris-je de le satisfaire
+        en ceci. Mon frère aimait entre tous ses voisins un Berger qui
+s'appelait <ref target="../../../_analyse/personnage_pp.html#2_pantesmon">Pantesmon</ref>, homme à la vérité qui avait
+toutes les bonnes conditions qui peuvent rendre une
+personne agréable. Il était sage, courtois, plein
+de respect, <ref target="../../../_analyse/glossaire_no.html#officieux">officieux</ref>, courageux et bon ami, et,
+<ref target="../../../_analyse/glossaire_ss.html#surtout">surtout</ref> <ref target="../../../_analyse/glossaire_pp.html#parmi">parmi</ref> les Bergères, le plus <ref target="../../../_analyse/glossaire_dd.html#discret">discret</ref> de tout
+le <ref target="../../../_analyse/glossaire_hh.html#hameau">hameau</ref> : ces qualités convièrent mon frère à
+l'aimer, et l'amitié rapporta une si ordinaire
+<ref target="../../../_analyse/glossaire_pp.html#pratique">pratique</ref>  entre eux que malaisément se voyaient-ils
+l'un sans l'autre. <ref target="../../../_analyse/glossaire_no.html#or_maintenant">Or</ref> il faut que j'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref> </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 566 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#566">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#566">1621</ref>
+            </hi>
+          </p><p>qu'encore
+        qu'il eût de l'amitié pour mon frère autant qu'il
+        en pouvait avoir, toutefois l'amour ne <ref target="../../../_analyse/glossaire_ll.html#laisser">laissa</ref> de
+        trouver place en son cœur ; car je ne sais s'il
+        remarqua quelque chose qui lui plut en moi, ou si
+        la familiarité
+
+        qu'il avait avec le frère fit naître de la bonne
+        volonté pour la sœur, <ref target="../../../_analyse/glossaire_tt.html#tant_y">tant y a</ref> qu'il est vrai que je
+        reconnus bien qu'il m'aimait. Et voyez si je ne vivais pas franchement et comme je
+devais avec <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> : aussitôt que j'en eus
+connaissance, je  lui dis, et lui allais <ref target="../../../_analyse/glossaire_pp.html#par_apres">par après</ref> racontant toutes ses actions, et toutes les
+démonstrations d'amitié que je remarquai en lui.
+Si j'eusse eu quelque dessein, jugez si j'en eusse usé de cette sorte. Ô Dieux ! Quel respect, quel
+honneur et quelle soumission me rendait ce Berger !
+Ses mérites et son affection étaient bien dignes
+d'être aimés et <ref target="../../../_analyse/glossaire_mm.html#mesme">mêmes</ref> accompagnés de la <ref target="../../../_analyse/glossaire_uz.html#volonte">volonté</ref> que
+mon frère en  avait qui, comme j'ai connu depuis,
+faisait dessein de nous marier ensemble. Mais que je
+ne puisse de ma vie avoir bien<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_avoir_bien">η</ref>, si jamais j'eus
+seulement <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> que je lui pusse vouloir du bien
+plus particulièrement qu'aux autres amis de mon
+frère ! Au contraire, je recevais sa recherche avec
+plus de froideur que de plusieurs autres. Car
+sachant qu'il avait de l'amour pour moi, il me
+semblait que de le <ref target="../../../_analyse/glossaire_ss.html#souffrir">souffrir</ref> sans peine, c'était
+faire tort à l'affection de <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, au lieu que les
+autres, n'y étant poussés que de la <ref target="../../../_analyse/glossaire_cc.html#civilite">civilité</ref>, ne
+pouvaient me faire cette offense. Ce fut à celui-ci
+que <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> voulut que je défendisse</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 567 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#567">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#567">1621</ref>
+            </hi>
+          </p><p> de me voir.
+        Considérez comme je le pouvais bien faire ! <ref target="../../../_analyse/glossaire_aa.html#aussi_bien">Aussi</ref>,  si<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_aussi">η</ref> <ref target="../../../_analyse/personnage_pp.html#2_pantesmon">Pantesmon</ref> n'eût eu plus de volonté de m'obéir que
+        ce Berger de raison en ce qu'il demandait, je ne
+        sais comme, à ce <ref target="../../../_analyse/glossaire_cc.html#coup">coup</ref>, j'eusse pu lui satisfaire,
+        car en quelle sorte lui pouvais-je interdire la
+        maison de mon frère qui l'aimait peut-être autant
+        et plus qu'il ne m'aimait pas ? Toutefois quand je
+        le retirai à part, et que je lui fis savoir ma
+        volonté : - Non seulement, me dit-il, je vous veux
+        faire paraître que je vous aime par les <ref target="../../../_analyse/glossaire_ee.html#effect">effets</ref> de
+        mon amitié, mais par ceux aussi de votre haine.
+        Vous me bannissez sans raison de vous, et je veux
+        que le tort que vous avez en cela vous rende
+        témoignage de mon affection, vous faisant voir
+        combien vous avez de pouvoir sur moi, puisque, sans
+        <ref target="../../../_analyse/glossaire_mm.html#murmurer">murmurer</ref>, je vous obéis en un commandement tant
+        injuste. Je me retirerai donc de votre vue pour
+        vous contenter. Il est vrai que, perdant ce bonheur,
+        je ne perdrai jamais l'affection que je vous porte,
+        encore que je la doive éprouver infructueuse tout
+        le reste de ma vie. <ref target="../../../_analyse/glossaire_aa.html#aussi_bien">Aussi</ref> ne vous ai-je jamais aimée
+        que pour vous aimer. - <ref target="../../../_analyse/personnage_pp.html#2_pantesmon">Pantesmon</ref>, lui dis-je,
+        l'entière puissance que vous me donnez sur vous me
+
+        fait avoir plus de regret de vous éloigner de moi
+        que je n'eusse pas estimé. Et suis bien <ref target="../../../_analyse/glossaire_mm.html#marri">marrie</ref> que
+        vous m'ayez trouvée en état que je ne puisse <ref target="../../../_analyse/glossaire_dd.html#disposer">disposer</ref> de ma volonté ; car vos mérites et
+        l'affection que vous me faites paraître me font
+        avoir du déplaisir de ne pouvoir davantage pour
+        vous. Mais croyez-moi pour véritable, et soyez
+        assuré </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 568 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#568">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#568">1621</ref>
+            </hi>
+          </p><p>que ce n'est point sans raison ni sans
+        regret que je vous fais cette prière. Si vous pouviez
+        avoir quelque espérance en moi, vous auriez plus de
+        sujet de vous <ref target="../../../_analyse/glossaire_ff.html#fascher">fâcher</ref> ; mais puisque cela n'est
+        pas, quel plaisir auriez-vous, si vous m'aimez, de
+        me rendre <ref target="../../../_analyse/glossaire_mm.html#miserable">misérable</ref>  sans qu'il vous en revienne
+        autre avantage que mon déplaisir ? - Il ne faut
+        point, me répondit-il, que vous me le persuadiez
+        avec plus de paroles ; mon affection, qui tient
+        entièrement le parti de votre volonté, m'en
+        représente plus que je ne vous <ref target="../../../_analyse/glossaire_ss.html#scavoir">saurais</ref> dire. Je
+        ferai jusques à la mort tout ce que vous
+        m'ordonnerez, sans autre dessein que celui de vous
+        obéir. Toutefois si mon affection, si mes services
+        et si mon obéissance en cette dernière action doivent
+        espérer quelque chose de plus avantageux que d'être
+        chassé de votre présence sans aucune démonstration
+        d'amitié, je vous supplie, et si toutes ces choses
+        n'ont point de pouvoir envers vous et que ma
+        <ref target="../../../_analyse/glossaire_cc.html#consideration">considération</ref> ne soit point assez forte, je vous
+        conjure par ce que vous aimez le plus et qui
+        peut-être est cause que vous me bannissez ainsi,
+        que, pour la fin de mon espoir et pour la dernière
+        importunité que vous recevrez de cet infortuné amant,
+        vous me permettiez qu'en vous disant ce dernier et
+  éternel Adieu, je puisse vous baiser<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_baiser">η</ref> et la bouche
+        et le sein. Je rougis certes, ô <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, en le racontant
+(dit-elle, se mettant une main, de honte, sur le
+visage) mais il faut que je l'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref>, il est vrai,
+je le<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_je_luy">η</ref> lui permis, me semblant</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 569 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#569">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#569">1621</ref>
+            </hi>
+          </p><p> que sa bonté m'y
+        obligeait, et de plus que j'eusse fait tort à
+        l'amitié que je portais à <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, si je n'eusse
+        accordé la requête qu'il me faisait en me conjurant
+        par lui<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_conjure">η</ref>. Incontinent après, il partit, et depuis il
+        ne s'est jamais trouvé en lieu où il m'ait pu voir.<lb/>  Or toutes ces preuves de mon amitié n'étaient-elles
+        capables d'<ref target="../../../_analyse/glossaire_no.html#obliger">obliger</ref> à jamais envers moi cet ingrat et
+        <ref target="../../../_analyse/glossaire_mm.html#mescognoissant">méconnaissant</ref> Berger ? Et toutefois il advint au
+        contraire ; car <ref target="../../../_analyse/glossaire_tt.html#tant_s_en">tant s'en</ref> fallut qu'il m'en sut gré,
+        que, depuis, je ne le vis plus, je ne dirai pas comme
+        amant, mais <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> même comme ami. Je voulus
+        savoir l'<ref target="../../../_analyse/glossaire_no.html#occasion">occasion</ref> de sa retraite, et une de mes
+        plus fidèles amies qui l'alla trouver de ma part ne
+        me rapporta autre réponse de lui que ce mot :        </p><p rend="center_t">
+            <hi rend="italic">Amour chasse l'Amour comme un clou<hi rend="cache"> </hi>
+              <ref target="../../../_analyse/note_2.html#2_clou">η</ref> chasse l'autre. </hi> </p><p>  Je<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_me_jugeay">η</ref> jugeai alors deux choses : la première, qu'étant
+        devenu amoureux de quelque autre Bergère, il avait
+        par cette seconde amour chassé la première qu'il me
+        portait ; et l'autre, qu'avec mépris il me conseillait
+        d'en faire de même. Si cela me fut fâcheux à
+        supporter, je n'ai point <ref target="../../../_analyse/glossaire_aa.html#affaire">affaire</ref> de le redire, et
+        m'en tairai quand ce ne serait que pour ne fortifier
+        point davantage ce <ref target="../../../_analyse/glossaire_gg.html#glorieux">glorieux</ref> Berger en la bonne <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> que sa vanité lui donne. Mais fasse le Ciel
+        que nos plus grands ennemis en ressentent les
+        moindres traits<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_traits">η</ref> ! Or étant ainsi délaissée, encore
+        qu'il me fût infiniment nécessaire de m'armer contre
+        cet <ref target="../../../_analyse/glossaire_aa.html#accident">accident</ref> de quelques bonnes et fortes armes<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_armes">η</ref>, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> ne voulus-je me servir de celles que cet ennemi </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 570 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#570">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#570">1621</ref>
+            </hi>  </p><p>m'avait envoyées, tant pour les juger honteuses que
+        pour ne me prévaloir de chose qui vînt d'une
+        personne à qui j'avais si peu d'<ref target="../../../_analyse/glossaire_no.html#occasion">occasion</ref> de vouloir
+        du bien ; outre que les méprisant comme siennes, je
+        les croyais indignes de moi et infidèles, aussi bien
+        que j'estimais leur inventeur perfide. Je recourus
+        donc à d'autres qui étaient plus tardives certes en
+        leurs <ref target="../../../_analyse/glossaire_ee.html#effect">effets</ref>, mais aussi plus selon mon <ref target="../../../_analyse/glossaire_hh.html#humeur">humeur</ref>, qui
+        furent celles du temps<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_temps_eloge">η</ref> ; le temps, dis-je, fut l'arme
+        et celui même qui m'enseigna de me servir de cette
+        arme. Le temps fut mon Médecin et ma <ref target="../../../_analyse/glossaire_mm.html#medecine">Médecine</ref>. Et, à
+        la vérité, selon la coutume des choses qui se font
+        lentement, le bien de cette guérison n'a pas été pour
+        un jour, ni la défense de ces armes pour un assaut seulement<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_seulement">η</ref>, mais, Dieu merci ! pour le reste de ma vie.
+        Je dis Dieu merci ! avec beaucoup de raison. Car,
+        <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, quand je repasse par ma mémoire la vie
+        que j'ai faite tant que ce perfide a montré de
+        m'aimer, et que je me représente celle où je suis <ref target="../../../_analyse/glossaire_aa.html#a_ceste_heure">à cette heure</ref>, il faut par force que j'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref> qu'il m'a plus <ref target="../../../_analyse/glossaire_no.html#obliger">obligée</ref> en me trahissant que <ref target="../../../_analyse/personnage_pp.html#2_pantesmon">Pantesmon</ref> en
+        m'obéissant ; car ce n'était pas vivre, mais être
+        esclave, que de demeurer en l'état où sa Tyrannie
+        me retenait<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_retenir">η</ref>.<lb/>  Or ce déloyal étant, comme je crois, envieux de la
+douceur de ma vie, ou n'étant pas content d'avoir
+triomphé une fois de moi, a voulu rebâtir ses
+trahisons. Et comme au commencement il me surprit
+par soumissions et par de très grandes
+démonstrations d'une violente<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_violente_amitie">η</ref> amitié, il a cru en
+pouvoir faire de même</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 571 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#571">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#571">1621</ref>
+            </hi>
+          </p><p> à ce <ref target="../../../_analyse/glossaire_cc.html#coup">coup</ref>. Et c'est pourquoi
+        vous le voyez, ô <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref>        et sage <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, à genoux devant moi, usant des
+        paroles telles que ceux qui aiment véritablement ont
+        accoutumé de dire. Mais il n'a pas considéré que,
+        m'étant reconnue plus faible de ce côté-là que
+        de tout autre, j'ai tâché de m'y fortifier
+        davantage, et  me semble que son opiniâtreté
+        devrait être désormais vaincue par la résistance
+        que je lui ai faite, si ce n'était que, comme je
+        crois, qu'il<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_que_de">η</ref> aime mieux se <ref target="../../../_analyse/glossaire_tt.html#travailler">travailler</ref> et me déplaire
+        que de vivre en repos ; et  semble qu'il chérisse
+        davantage ce qui m'<ref target="../../../_analyse/glossaire_ee.html#ennuyer">ennuie</ref> que ce qui lui peut être
+        profitable. Il continue donc ses feintes, et renouvelle, au lieu
+d'Amour, un si âpre dédain en mon âme que sa vue
+m'est plus insupportable que sa perfidie ne me le fut
+jamais, et  faut <ref target="../../../_analyse/glossaire_aa.html#avouer">avouer</ref> qu'il vient fort bien à bout
+de son dessein, si son dessein est de me déplaire.
+Que si cela n'est pas, comme il jure et comme il
+tâche de me persuader, et que, par juste punition des
+Dieux, il ait véritablement rallumé sa flamme éteinte,
+à qui faut-il qu'il s'en prenne qu'à lui-même, puisqu'il est le seul auteur de son mal, et que c'est
+lui qui s'est préparé ce supplice sans que j'y aie
+rien contribué du <ref target="../../../_analyse/glossaire_mm.html#mien">mien</ref>, <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref>  les vœux seulement ?
+J'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref> qu'en me vengeant de la <ref target="../../../_analyse/glossaire_mm.html#meschancete">méchanceté</ref> qu'il
+m'a faite, et que, se<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_ce_chastiant">η</ref> châtiant de sa perfidie par
+les mêmes armes dont il m'avait offensée, il est
+homme plus juste qu'il n'est bon Amant. Mais pourquoi
+m'accuse-t-il de</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 572 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#572">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#572">1621</ref>
+            </hi> </p><p> sa peine, moi, dis-je, qui ne veux
+        pas même avoir <ref target="../../../_analyse/glossaire_mm.html#memoire">mémoire</ref> qu'il soit au monde ? Ou
+        pourquoi veut-il que je lui remette les armes en la
+        main, desquelles, en pensant me blesser, il s'est
+        offensé lui-même ? C'est une trop lourde
+        imprudence de <ref target="../../../_analyse/glossaire_cc.html#chopper">chopper</ref> deux fois contre un même bois.
+        Il ne doit point espérer cela de moi, qui ai les
+        images de ma vie passée trop vives encore en l'âme
+        pour ne les voir point toutes les fois que je
+        tourne les yeux sur lui. Qu'il se retire donc et me
+        laisse jouir du bonheur qu'il m'a lui-même acquis,
+        quoique ç'ait été avec un dessein bien contraire.
+        Mais si le ciel, selon sa coutume, a tiré du mal
+        qu'il me préparait un si grand bien pour moi, qu'il ne
+        soit point <ref target="../../../_analyse/glossaire_mm.html#marri">marri</ref> si j'en jouis, et si je sais mieux
+        me prévaloir de la faveur qu'il m'a faite en cela
+        que lui de celles que je lui ai faites par le passé<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_passe">η</ref>,
+        et qu'il juge et confesse que, justement, le Ciel a
+        pris la cause et la défense de mon innocente amitié
+        contre la personne la plus ingrate et la plus perfide
+        qui ait jamais été bien aimée. Que si, comme les
+        joueurs qui perdent, il demande quelque chose pour
+        sa dernière <ref target="../../../_analyse/glossaire_mm.html#main">main</ref>, voici, sage et <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>,
+
+        tout ce que je puis pour lui : Je lui <ref target="../../../_analyse/glossaire_aa.html#avouer">avouerai</ref> que
+        je suis assez satisfaite de son ingratitude, que je
+        lui <ref target="../../../_analyse/glossaire_qr.html#quitter">quitte</ref> l'offense, que la vengeance qu'il m'a
+        faite me plaît, voire, afin qu'il se retire
+        entièrement de moi, que j'ai pitié de son mal, mais
+        que cela lui suffise, et qu'il ne m'importune plus.
+        <lb/>  Ainsi finit la Bergère avec une telle émotion que la
+        couleur qui lui en était venue au visage la rendait
+        plus belle qu'elle ne <ref target="../../../_analyse/glossaire_ss.html#souloir">soulait</ref> être. </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 573 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#573">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#573">1621</ref>
+            </hi>
+          </p><p>Et lorsque <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> connut qu'elle ne voulait rien dire
+        davantage, elle fit signe à <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> de répondre
+        s'il avait à dire quelque chose contre ce qu'elle
+        leur avait fait entendre. Alors le Berger se relevant, après avoir salué la
+<ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, lui parla de cette sorte :</p><p rend="center_t"> RÉPONSE<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_reponse">η</ref>
+            <lb/>DU BERGER <ref target="../../../_analyse/personnage_pp.html#2_palemon">PALÉMON</ref>.</p><p>
+            <graphic url="../../../images/g_573.jpg" rend="img" mimeType="image/jpeg"/>
+            <hi rend="micro">G</hi>rande <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, je connais bien être très véritable ce que j'ai toujours ouï dire de la divinité : que
+  jamais les Dieux et Déesses n'entrent en un lieu
+  sans y faire quelque bien, puisque vous, qui, par
+  votre mérite et votre condition, en représentez
+  l'image parmi nous, n'avez presque été plutôt
+  en ce lieu que me voilà détrompé et sorti de l'erreur
+  où j'ai si longuement vécu, si toutefois on peut
+  appeler vie ce qui rapporte plus de mal que la mort
+  même. J'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref> que tout ce que cette belle Bergère
+  vient de vous raconter est véritable, et que je lui ai
+  plus d'<ref target="../../../_analyse/glossaire_no.html#obligation">obligation</ref> encore qu'elle ne saurait dire !
+  Mais <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> faut-il qu'ayant ouï de sa bouche ce qu'elle
+  vient de me reprocher, je me plaigne que le Ciel,
+  comme envieux de mon <ref target="../../../_analyse/glossaire_aa.html#aise">aise</ref>, m'ait caché la plus grande
+  partie de mon bonheur. Et  <ref target="../../../_analyse/glossaire_cc.html#croire_de">croirais d'</ref>avoir plus
+  d'occasion de m'en <ref target="../../../_analyse/glossaire_dd.html#douloir">douloir</ref> et de l'accuser
+  d'injustice, si je ne connaissais</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 574 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#574">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#574">1621</ref>
+            </hi>
+          </p><p> bien que c'est
+  ainsi que tous les hommes sont traités, afin qu'il
+  n'y ait point <ref target="../../../_analyse/glossaire_cc.html#ca_bas">ça-bas</ref> de parfait contentement.
+  Toutefois, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> faut-il que l'on me permette de me <ref target="../../../_analyse/glossaire_dd.html#douloir">douloir</ref> du tort que cette belle Bergère a fait à
+  l'amitié qu'elle m'avait promise, puisqu'elle ne
+  peut trouver <ref target="../../../_analyse/glossaire_no.html#occasion">occasion</ref> de se <ref target="../../../_analyse/glossaire_dd.html#douloir">douloir</ref> de la mienne que
+  par le soupçon, et se <ref target="../../../_analyse/glossaire_dd.html#deguiser">déguisant</ref> à mon désavantage
+  ce qu'au contraire elle devait prendre pour plus
+  grande assurance de mon affection. Mais comment,
+  ô <ref target="../../../_analyse/repertoire_aa.html#2_amour">Amour</ref>, m'oserai-je plaindre
+
+  d'elle, puisque tu me commandes de ne trouver
+  mauvais chose qu'elle veuille faire ? Je n'userai
+  donc point de plainte, car mon cœur ne la <ref target="../../../_analyse/glossaire_dd.html#dedire">dédira</ref> jamais en rien. Mais, ô sage <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, j' essayerai,
+  en vous disant la vérité, de vous faire <ref target="../../../_analyse/glossaire_ee.html#entendre">entendre</ref> que <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> sait aimer, et que c'est sans raison que <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> a cru le contraire. Et pour commencer, et ne point user de longs discours,
+elle <ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref> que je l'ai aimée et qu'elle m'a aimé,
+mais que me reproche-t-elle pour avoir sujet de
+rompre cette amitié ? Que j'ai été jaloux, et je
+confesse que je l'ai été ; mais si elle m'a aimé,
+ainsi qu'elle dit, pour avoir reconnu que je
+l'aimais, comment a-t-elle eu agréable mon amitié
+et non point l'<ref target="../../../_analyse/glossaire_ee.html#effect">effet</ref> de mon amitié ? Si tous ceux
+desquels elle était vue me donnaient de la
+jalousie, et si leur conversation, leurs paroles,
+voire leurs regards même étaient <ref target="../../../_analyse/glossaire_ss.html#soupconneux">soupçonneux</ref>,
+n'était-ce un très certain témoignage que je
+l'aimais infiniment ? Elle dit toutefois que de
+douter d'elle, c'était l'offenser et en faire un
+sinistre jugement. Ah ! <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, si cette</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 575 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#575">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#575">1621</ref>
+            </hi>
+          </p><p>Bergère savait aussi bien aimer que ses yeux se
+  savent faire adorer, ne dirait-elle pas plutôt
+  que c'était une extrême amour et la trop bonne <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> que j'avais d'elle qui me le faisaient
+  faire ? Car si je ne l'eusse crue digne d'être
+  servie de tous, comment eussé-je cru que tous
+  l'eussent servie ? Mais si je n'eusse eu cette <ref target="../../../_analyse/glossaire_cc.html#creance">créance</ref>, comment eussé-je été jaloux de chacun ?
+  Cette jalousie donc, ô belle <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, n'est point
+  un moindre signe d'affection et d'une très violente
+  amour<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_violente_amitie">η</ref> que les soupirs et les larmes dont les
+  amants vont noyant les mains de leurs bien-aimées,
+  puisqu'elle naît de la connaissance de la
+  perfection de la personne que l'on aime, et les
+  soupirs et les larmes procèdent le plus souvent de
+  la cruauté seulement qu'ils trouvent en elle, ou du
+  tourment qu'ils en ressentent. Connaissant donc, <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, que j'étais jaloux,
+ne devait-elle pas augmenter la bonne volonté qu'elle
+me portait pour balancer en quelque sorte la
+pesanteur que j'allais ajoutant à la mienne ?
+Au contraire<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_contraire">η</ref>, qu'est-ce que sa cruauté, ou pour le
+moins sa <ref target="../../../_analyse/glossaire_mm.html#mescognoissant">méconnaissance</ref>, lui conseilla de faire ?
+Vous l'oyez de sa propre bouche. Elle se délie de
+cette étroite amitié que tant de services, que tant
+de connaissances d'une vraie affection, devaient avoir
+rendue indissoluble, et pour s'en donner quelque
+prétexte se figure des refroidissements de mon côté,
+et des <ref target="../../../_analyse/glossaire_no.html#nonchalance">nonchalances</ref>, qui, hélas ! n'étaient qu'en
+son <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref>. Elle dit qu'en ce temps-là je ne demeurais guère
+auprès d'elle. Quand je considère </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 576 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#576">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#576">1621</ref>
+            </hi>
+          </p><p>ce reproche, il
+  faut enfin que j'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref> que toutes les actions
+  peuvent être soupçonnées contraires au dessein de
+  celui qui les fait, puisque les <ref target="../../../_analyse/glossaire_ee.html#effect">effets</ref> mêmes qui
+  s'en produisent ne sont le plus souvent aperçus
+  de ceux qui y<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_qui_avoit">η</ref> ont le plus d'intérêt. Si je vous
+  demande, ô belle <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, quelle <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> vous avez
+  eue de moi dès le commencement que ma <ref target="../../../_analyse/glossaire_ff.html#fortune">fortune</ref> m'appela près de vous, pour ne vous contredire, je
+  m'assure que vous <ref target="../../../_analyse/glossaire_aa.html#avouer">avouerez</ref> que je vous ai aimée et
+  servie avec <ref target="../../../_analyse/glossaire_tt.html#tant">tant</ref> d'affection que jamais Berger ait
+  pu aimer ou servir. Or maintenant, n'ayez point désagréable, je vous
+supplie, que devant cette <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> et cette
+vénérable <ref target="../../../_analyse/glossaire_dd.html#druide">Druide</ref>, je vous conjure de dire quelle a
+été la Bergère pour qui je vous ai changée, et à
+qui vous m'avez vu rendre du devoir, ou seulement
+l'avez ouï dire ? Que si vous n'en savez point, et si
+vous confessez que mon affection n'a point été
+distraite ailleurs, pourquoi vous plaignez-vous, et
+pourquoi avez-vous soupçonné mes actions tout au
+contraire de mon dessein ? C'était, ce me semble,
+très mal conclure à vous : <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> m'a aimée, mais
+parce qu'il ne me voit pas si souvent que de
+coutume, il ne m'aime plus. <ref target="../../../_analyse/glossaire_tt.html#tant_s_en">Tant s'en faut</ref>,
+n'étiez-vous point plus obligée par les lois de
+l'amitié de dire : Si mon Berger ne me voit point
+si souvent que de coutume, je sais que c'est quelque
+nécessaire contrainte qui l'empêche. Compatissant
+ainsi au mal que je souffrais éloigné de votre
+présence, et jugeant autrui par vous-même, vous
+n'eussiez pas offensé si cruellement celui qui</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 577 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#577">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#577">1621</ref>
+            </hi>
+          </p><p>n'offensa jamais l'affection qu'il vous a promise.
+  Mais, me direz-vous, que voulaient donc signifier
+  ces demi-moments qui à peine vous pouvaient retenir
+  auprès de moi, au lieu qu'auparavant les jours les
+  plus longs ne vous pouvaient pas contenter ? Je le
+  vous dirai, ô sage <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, et je m'assure qu'en
+  m'écoutant vous ne ferez point un si sinistre
+  jugement de moi que cette belle a fait de ma
+  fidélité, et seulement je la supplie de se <ref target="../../../_analyse/glossaire_qr.html#ressouvenir">ressouvenir</ref> de la vie que je menais en ce temps-là,
+  et <ref target="../../../_analyse/glossaire_pp.html#parmi">parmi</ref> quelles compagnies on me voyait demeurer.
+  <lb/>  Je puis dire avec vérité, ô <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, que jamais
+  homme n'a vécu plus sauvagement que moi, <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> même ceux qui font profession de ne demeurer que <ref target="../../../_analyse/glossaire_pp.html#parmi">parmi</ref> les rochers et les déserts, sinon durant les
+  moments que mon affection me contraignait une fois
+  le jour de la voir. Car dès que la clarté commençait
+
+  de paraître, je sortais de ma <ref target="../../../_analyse/glossaire_cc.html#cabane">cabane</ref>, et, loin de
+  toutes  compagnies, je ne revenais que la nuit
+  ne fût <ref target="../../../_analyse/glossaire_cc.html#close">close</ref>, demeurant quelquefois caché dans les
+  antres les plus <ref target="../../../_analyse/glossaire_qr.html#retire">retirés</ref>, et quelquefois dans le plus
+  haut des montagnes, tellement seul que rien que mes
+  pensées ne pouvaient me trouver ; mais elles ne
+  tenaient aussi si bonne compagnie qu'elles me
+  contraignaient bien souvent de me mettre en lieu d'où
+  je pusse voir l'endroit de sa demeure, me semblant
+  que les heureuses murailles où elle était me
+  rapportaient une espèce de consolation qui n'était
+  pas petite, sans que rien me retirât de cette sorte
+  de vie, non l'amitié de mes voisins, non le devoir
+  de mes parents, non</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 578 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#578">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#578">1621</ref>
+            </hi>
+          </p><p> le souci de mes troupeaux bien
+  aimés, ni, bref, que l'on peut dire de moi, sinon le
+  seul désir de sa vue dont je jouissais tous les
+  jours une fois, mais si peu de temps, à mon grand
+  regret, que, quand je m'en retournais, il me semblait
+  que je ne faisais que d'y arriver. Et toutefois
+  celle qui se <ref target="../../../_analyse/glossaire_dd.html#douloir">deult</ref> de cette vie  en était la seule
+  cause, et l'extrême affection que je lui portais
+  m'empêchait de la lui découvrir.
+  <lb/>
+  Or, sage et <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, j'ai toujours eu cette <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> que celui qui aime comme il doit  avoir
+  plus cher l'honneur de la personne aimée que le
+  contentement qu'il en peut retirer. La <ref target="../../../_analyse/glossaire_mm.html#malice">malice</ref> des
+  hommes mal pensants, n'ayant<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_ayt">η</ref> jamais été si faible
+  qu'elle n'ait toujours trouvé sujet de s'employer
+  où il lui a plu, ne  fit en ce temps-là plus de
+  grâce à notre amitié qu'elle a accoutumé de faire
+  à toutes les autres plus remplies de vertu, de sorte
+  que notre ordinaire fréquentation fut désapprouvée,
+  et donna sujet à ces <ref target="../../../_analyse/glossaire_mm.html#malin">malins</ref> d'en parler assez mal à
+  propos, si sourdement toutefois que les auteurs de
+  ces impostures, quelque diligence que j'y employasse,
+  me furent toujours de sorte inconnus que je ne pus
+  trouver à qui m'en prendre. Que pouvais-je faire en
+  cela ? D'entreprendre un bien long voyage ? Je
+  n'étais pas maître entièrement de mes actions. De
+  cesser de l'aimer ? J'eusse plutôt cessé de vivre.
+  Puis donc que notre trop grande <ref target="../../../_analyse/glossaire_pp.html#pratique">pratique</ref> était celle
+  qui donnait quelque apparence de vérité<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_vivre">η</ref> à leur
+  médisance, à quoi me devais-je plutôt résoudre qu'à
+  l'interrompre </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 579 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#579">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#579">1621</ref>
+            </hi>  </p><p>pour quelque temps, et à payer ainsi
+  plutôt aux dépens de mon contentement que de sa
+  réputation la faute de ces <ref target="../../../_analyse/glossaire_mm.html#meschant">méchantes</ref> âmes ? Que si
+  elle se plaint que je ne lui en aie rien dit jusques <ref target="../../../_analyse/glossaire_aa.html#a_ceste_heure">à  cette heure</ref>, qu'elle se plaigne aussi que je l'ai
+  trop aimée, car véritablement ç'a été pour l'avoir
+  trop aimée que j'ai plutôt choisi de me priver du
+  bonheur de sa vue,
+
+  voire même la<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_le_laisser">η</ref> laisser en doute de mon affection, que
+  de lui dire l'<ref target="../../../_analyse/glossaire_no.html#occasion">occasion</ref> qui me faisait vivre avec elle
+  de cette sorte, de peur de lui faire part de l'<ref target="../../../_analyse/glossaire_ee.html#ennui">ennui</ref> que j'en ressentais, sachant assez qu'elle qui avait
+  toujours si <ref target="../../../_analyse/glossaire_cc.html#curieux">curieusement</ref> conservé sa vie exempte de
+  ces calomnies<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_calomnie">η</ref> ne les saurait supporter qu'avec de
+  trop grands déplaisirs. <lb/>  <ref target="../../../_analyse/glossaire_no.html#ores">Or</ref> considérez, <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, par ce véritable
+discours, si  tels <ref target="../../../_analyse/glossaire_ee.html#effect">effets</ref> se voient <ref target="../../../_analyse/glossaire_pp.html#parmi">parmi</ref> les
+<ref target="../../../_analyse/glossaire_uz.html#vulgaire">vulgaires</ref> affections, et de là prenez connaissance,
+s'il vous plaît, de quelle qualité doit être la
+mienne, et si, étant telle, c'était sans raison
+qu'elle demandait<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_elle_demandoit">η</ref> à cette Bergère de grandes preuves
+de la sienne, puisque l'Amour ne se paye qu'avec
+l'amour. Et toutefois ce qui advint de <ref target="../../../_analyse/personnage_pp.html#2_pantesmon">Pantesmon</ref>,
+qui est, ce me semble, le plus grand sujet de plainte
+qu'elle ait contre moi, ne procéda pas seulement
+d'une jalousie mal fondée, comme elle dit, mais de
+beaucoup de raison. Car ainsi qu'elle vous a <ref target="../../../_analyse/glossaire_aa.html#avouer">avoué</ref>,
+ce Berger est tel, et a tant de bonnes <ref target="../../../_analyse/glossaire_cc.html#condition">conditions</ref> qu'il est plus croyable que celle qu'il recherchera le
+doive aimer que mépriser. De plus, l'amitié que son
+frère lui portait ne m'était point suspecte sans
+cause, mais encore</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 580 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#580">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#580">1621</ref>
+            </hi>
+          </p><p> plus, le bon accueil qu'elle lui
+  faisait, qui, à la vérité était tel, qu'ayant,
+  comme elle dit, si bien reconnu ma jalousie par le
+  passé, elle avait plus de tort<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_tort">η</ref> d'en user ainsi que
+  moi de penser quoique ce fût à son désavantage ;
+  et de fait, qu'elle dise si cela ne fut pas cause que
+  tout ouvertement on parlait de leur mariage. Si, oyant
+  ces nouvelles, je n'eusse point été <ref target="../../../_analyse/glossaire_ee.html#esmouvoir">ému</ref>,
+  n'eussé-je pas plus offensé notre amitié qu'elle
+  son frère, en faisant ce que je requérais ? Que si
+  l'amitié a plus de privilège que l'amour<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_amour_amitie">η</ref>, elle a bien
+  quelque occasion de se <ref target="../../../_analyse/glossaire_dd.html#douloir">douloir</ref> de moi. Mais si cela
+  n'est pas, pourquoi trouve-t-elle étrange que mon
+  amour ait voulu triompher de l'amitié qu'elle portait
+  à son frère ? <lb/>  Et c'est d'ici, <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, que tous mes malheurs
+ont pris leur origine. Car lui reprochant la bonne
+<ref target="../../../_analyse/glossaire_cc.html#chere">chère</ref> qu'elle faisait à ce Berger, elle me répondit
+que l'amitié que son frère lui portait en était
+cause ; mais quand je lui répliquai que le <ref target="../../../_analyse/glossaire_bb.html#bruit">bruit</ref> de
+leur mariage était si commun qu'il m'était
+impossible de vivre tant qu'il continuerait et que
+je verrais le contentement de qui elle préférerait.
+- Et à quoi est-ce (me dit-elle, en changeant de
+visage) que votre bizarre soupçon me veut encore
+contraindre ? - Vous le nommerez, lui dis-je, comme
+il vous plaira, mais je n'aurai jamais  repos que je
+ne voie ce Berger éloigné de vous. - Et
+
+bien (me dit-elle d'une voix toute altérée) je vous
+contenterai<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_conteray">η</ref> encore en ceci, et Dieu veuille que ce
+soit la dernière fois que vous prendrez de semblables
+<ref target="../../../_analyse/glossaire_hh.html#humeur">humeurs</ref>. Elle proféra de sorte ces</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 581 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#581">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#581">1621</ref>
+            </hi>  </p><p> paroles qu'elles
+  redoublèrent beaucoup plus mon soupçon que si elle
+  m'eût avec <ref target="../../../_analyse/glossaire_qr.html#quelque">quelque</ref> excuse entièrement refusé. Ce qui
+  me fit résoudre d'en apprendre une fois en ma vie la
+  vérité, et pour m'en éclaircir mieux, je ne voulus
+  me fier qu'à mes yeux propres. Ô malheureuse
+  méfiance ! Ô dommageable résolution qui depuis
+  m'a coûté tant d'ennuis, de <ref target="../../../_analyse/glossaire_tt.html#travail">travaux</ref> et de larmes !
+  En ce dessein donc, j'<ref target="../../../_analyse/glossaire_ee.html#espier">épie</ref> le temps que <ref target="../../../_analyse/personnage_pp.html#2_pantesmon">Pantesmon</ref> la vint trouver en sa chambre, car de <ref target="../../../_analyse/glossaire_ff.html#fortune">fortune</ref> ce jour
+  elle tenait le lit, fût de déplaisir, fût pour
+  quelque légère maladie. Et passant par une <ref target="../../../_analyse/glossaire_mm.html#montee">montée</ref> <ref target="../../../_analyse/glossaire_dd.html#derobe">dérobée</ref> qui entrait dans le logis, je vins par
+  un passage caché me mettre dans un <ref target="../../../_analyse/glossaire_cc.html#cabinet">cabinet</ref> dont la porte
+  <ref target="../../../_analyse/glossaire_qr.html#respondre">répondait</ref> sur le lit. Mon malheur fut tel que, par
+  la fente des <ref target="../../../_analyse/glossaire_aa.html#aiz">ais</ref>, je pus voir tout ce qu'ils firent,
+  mais pour être trop éloigné, je n'en ouïs une seule
+  parole. Je vis donc, et trop certes pour mon
+  contentement, que le Berger s'assit d'abord sur le
+  pied du lit, et après lui avoir pris la main qu'il
+  baisa plusieurs fois sans résistance, parla fort
+  longtemps la tête nue. Je vis qu'elle lui
+  répondait, et à ce que je pouvais remarquer à son
+  visage, ce n'étaient point paroles de courroux. Que
+  si la <ref target="../../../_analyse/glossaire_ff.html#fortune">fortune</ref> m'eût permis de voir aussi bien celui
+  de <ref target="../../../_analyse/personnage_pp.html#2_pantesmon">Pantesmon</ref>, peut-être y eussé-je aperçu <ref target="../../../_analyse/glossaire_qr.html#quelque">quelque</ref>  mécontentement qui m'eût contenté<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_contenter">η</ref>, mais il me
+  tournait presque le dos pour lui parler plus bas.
+  Et lorsque j'étais en cette peine, je vis que tout
+  à <ref target="../../../_analyse/glossaire_cc.html#coup">coup</ref> il se jeta à genoux, et elle se releva un peu
+  sur le lit, et après se pencha et le baisa. Dieux !
+  Quel coup de couteau</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 582 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#582">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#582">1621</ref>
+            </hi>
+          </p><p> reçus-je, mais plus encore
+  quand le Berger, ne se contentant point de ces
+  extraordinaires faveurs, lui découvrit le sein, et
+  sans résistance le lui baisa. <ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>, <ref target="../../../_analyse/glossaire_qr.html#quel">quel</ref> devins-je !
+  mais, ô Dieux, <ref target="../../../_analyse/glossaire_qr.html#quel">quel</ref> devais-je devenir ! Je ne sais
+  comme je pus le <ref target="../../../_analyse/glossaire_ss.html#souffrir">souffrir</ref> et vivre, si ce n'est que
+  tout ainsi que mon affection était celle qui m'en
+  faisait avoir de si extrêmes <ref target="../../../_analyse/glossaire_qr.html#ressentiment">ressentiments</ref>,
+  elle-même aussi me donnait de la constance de
+  supporter ce que je pensais lui<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_lui_doris">η</ref> être agréable. <ref target="../../../_analyse/personnage_pp.html#2_pantesmon">Pantesmon</ref> partit et je partis aussi, lui, <ref target="../../../_analyse/glossaire_pp.html#pour">pour</ref> moi,
+  mal satisfait, et moi, <ref target="../../../_analyse/glossaire_pp.html#pour">pour</ref> lui, entièrement désespéré.
+  Voyez comme <ref target="../../../_analyse/repertoire_aa.html#2_amour">Amour</ref> nous châtiait l'un par l'autre.<lb/>  <ref target="../../../_analyse/glossaire_no.html#ores">Or</ref> dites-moi, je vous supplie, sage <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>,
+  eussiez-vous cru que j'eusse aimé  si je n'eusse
+  point ressenti un coup si sensible,
+
+  et le <ref target="../../../_analyse/glossaire_qr.html#ressentiment">ressentiment</ref> pouvait<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_pouvoit">η</ref>-il être  moindre  que de me retirer, ou pour le moins pouvait-il être accompagné de
+  plus de discrétion que de n'en parler à personne ?
+  J'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref> que j'essayais de ravoir ma liberté ; et
+  lorsque je trouvais plus de difficulté à démêler
+  les liens dont elle me tenait pris, je dis plusieurs
+  fois en moi-même qu'il fallait couper ceux qui ne
+  pouvaient être dénoués. Et sur le point que je
+  faisais le plus d'effort contre ma volonté, il est
+  vrai qu'elle m'envoya l'une de ses amies. Mais
+  <ref target="../../../_analyse/glossaire_qr.html#quel">quel</ref> pouvais-je penser que fût ce message qu'une
+  continuation de sa tromperie ? Était-il possible
+  de démentir de si fidèles témoins que mes propres
+  yeux ? Et sur cette <ref target="../../../_analyse/glossaire_cc.html#creance">créance</ref> je lui fis, tout en colère,
+  la réponse dont elle se plaint, à savoir, qu'un
+  clou<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_clou">η</ref> chasse l'autre. Mais quel moindre reproche</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 583 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#583">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#583">1621</ref> </hi>
+          </p><p> lui
+  pouvais-je faire, ayant <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> d'avoir été si
+  ingratement trahi ? Outre que j'y étais obligé par
+  les lois de mon affection, qui ne me pouvaient
+  permettre de lui mentir <ref target="../../../_analyse/glossaire_ff.html#fois">à cette fois</ref>, <ref target="../../../_analyse/glossaire_no.html#non">non plus</ref> que
+  je n'avais jamais fait par le passé. Si elle le
+  prit autrement que je ne l'entendais, son innocence
+  en était cause, et l'erreur en quoi j'étais me
+  faisait parler ainsi. Je voulais bien qu'elle connût que je savais
+qu'une autre amour avait chassé la mienne de son
+cœur, et toutefois la crainte que j'avais de lui
+donner du déplaisir m'a jusques ici privé de mon
+plus grand contentement. Car lorsque quelquefois je
+me résolvais de lui faire les reproches que je
+pensais être dignes d'une si grande trahison, <ref target="../../../_analyse/repertoire_aa.html#2_amour">Amour</ref>, qui a toujours eu le plus de force sur mon âme,
+m'en empêchait et me faisait changer d'avis, en
+me disant que ce serait trop offenser celle que
+j'avais tant aimée de lui faire honte d'une si
+grande faute et tant indigne d'elle, et que je me
+devais contenter d'être hors de la tromperie où
+j'avais été si longuement retenu. Je crus ce
+conseil très mauvais pour moi ; car c'est sans doute
+que si, dès le commencement, je lui eusse dit ce que
+j'avais vu, elle m'eût raconté ce qu'elle avait
+fait, et ainsi j'eusse eu autant de bonheur et de
+contentement que j'ai souffert depuis de <ref target="../../../_analyse/glossaire_ss.html#sanglant">sanglants</ref> déplaisirs. Au contraire, m'éloignant entièrement
+d'elle, je ne pus de <ref target="../../../_analyse/glossaire_ll.html#longtemps">longtemps</ref> savoir que
+<ref target="../../../_analyse/personnage_pp.html#2_pantesmon">Pantesmon</ref> ne la voyait plus, et le mal était que
+même je n'osais demander de leurs nouvelles pour
+ouïr chose qui accrût mon regret.
+Enfin mon amour </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 584 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#584">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#584">1621</ref>
+            </hi>
+          </p><p>plus forte que ni ma résolution, ni
+  ma colère, me ramena peu à peu auprès d'elle, et dès
+  la première vue, ayant oublié tous les outrages que
+  je pensais avoir reçus,
+
+  me voilà plus à elle que je n'avais jamais été. Mais <ref target="../../../_analyse/glossaire_qr.html#quel">quelle</ref> la retrouvai-je ? C'étaient bien ces mêmes
+  yeux, cette même bouche, et cette même beauté,
+  mais <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> cette même <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> qui, à mon départ,
+  n'estimait que <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, n'aimait que <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, et
+  ne caressait que <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>. À ce triste retour, je ne
+  vis plus que dédain, je ne reconnus que haine, et
+  ne ressentis que rigueur ; de sorte que jusques ici
+  il m'a été impossible de lui faire <ref target="../../../_analyse/glossaire_ee.html#entendre">entendre</ref> le sujet
+  que j'avais eu de m'en retirer, parce que jamais elle
+  n'a voulu souffrir que je lui aie parlé qu'à  <ref target="../../../_analyse/glossaire_dd.html#discours">discours
+  interrompus</ref>. <ref target="../../../_analyse/glossaire_no.html#ores">Or</ref> si toutes ces choses ne sont des preuves d'une
+très fidèle et très violente affection, je ne veux
+point qu'elle me fasse de grâce, encore, ô <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, que la grâce que je demande n'est point pour
+faute que j'aie faite contre l'Amour, mais seulement
+pour l'ennui que je lui puis avoir donné en l'aimant
+plus, peut-être, * qu'elle ne voulait, ou qu'elle ne croyait pas. Que si
+l'amour me permettait de me plaindre d'elle, aussi
+bien que je le pourrais faire avec raison, je dirais
+qu'elle a fait un tort extrême à l'<ref target="../../../_analyse/repertoire_aa.html#2_amour">Amour</ref>, à <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>
+et à <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>. Car <ref target="../../../_analyse/repertoire_aa.html#2_amour">Amour</ref> se peut plaindre qu'elle a
+éteint les feux qui étaient allumés en elle d'une
+si pure flamme que la vertu même n'eût point été
+offensée d'en brûler ; elle les a éteintes, dis-je,
+pour allumer celles du dépit, si noires de fumée,
+qu'au lieu d'éclairer, elles ne remplissent</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 585 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#585">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#585">1621</ref>
+            </hi>
+          </p><p> son
+  âme que de ténèbres et de confusion.
+  Mais <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> se plaindra bien davantage qu'une si
+  légère <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> l'ait rendue parjure, lui faisant
+  rompre les serments si souvent rejurés à ce Berger <ref target="../../../_analyse/glossaire_dd.html#desastre">désastré</ref>, de ne changer jamais de volonté. Et que
+  pourrait-elle répondre à <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> s'il lui disait :
+  Est-il possible, <ref target="../../../_analyse/glossaire_mm.html#mescognoissant">méconnaissante</ref> Bergère, que tant
+  d'années de service, tant de témoignages
+  d'affection, et tant d'assurance de ma fidélité, ne
+  vous aient pu ôter la croyance que si
+  désavantageusement vous avez conçue de moi ? Et
+  bien ! J'ai été jaloux : mais ne sont-ce pas des
+  fruits de l'amour ? Pourquoi non jaloux si
+  amoureux ? Et de qui jaloux, sinon de ce que j'aime ?
+  Et toutefois soit ainsi que cette jalousie soit
+  une faute, et qu'il la faille punir,  le juge n'est-il
+  pas cruel qui égale le supplice au péché ? <ref target="../../../_analyse/glossaire_no.html#or_sus">Or sus</ref>,
+  qu'il soit encore permis de l'égaler, et que œil
+  pour œil, et  bras pour bras,  doive expier la
+  faute, comment est-ce qu'étant jaloux de vous, je
+  devais être puni ? par le même supplice, c'est à
+  dire que si je vous offensais
+
+  étant jaloux de vous, vous me deviez châtier étant
+  jalouse de moi. Ô que cette action eût été
+  glorieuse et digne véritablement d'une personne qui
+  aimait ! Mais, me direz-vous, vous vous êtes
+  <ref target="../../../_analyse/glossaire_ee.html#eslongner">éloignée</ref> de moi, vous m'avez quittée, et vous êtes
+  rendue <ref target="../../../_analyse/glossaire_ik.html#incapable">incapable</ref> de ce traitement. Et bien ! faisons
+  la même ordonnance de punition contre cette faute
+  que contre la première. Je me suis éloigné de vous :
+  il faut que vous vous <ref target="../../../_analyse/glossaire_ee.html#eslongner">éloigniez</ref> aussi de moi. Mais
+  quoi ? Peut-être l'avez-vous déjà fait, et qui
+  sait si en cet éloignement </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 586 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#586">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#586">1621</ref>
+            </hi>
+          </p><p>vous ne m'avez point
+  plus offensé ? Posons toutefois que la chose soit
+  égale. Puis donc que vous me voulez châtier tout
+  ainsi que je vous offense, et non point davantage, <ref target="../../../_analyse/glossaire_aa.html#a_ceste_heure">à  cette heure</ref> que je retourne à vous avec déplaisir
+  extrême de tout ce qui s'est passé, n'êtes-vous
+  obligée d'en faire de même ? Me voici à vos genoux
+  avec les repentirs les plus <ref target="../../../_analyse/glossaire_cc.html#cuisant">cuisants</ref> qu'un amant
+  puisse ressentir : est-il possible que votre
+  courroux se puisse étendre <ref target="../../../_analyse/glossaire_no.html#outre">plus outre</ref>, et que le
+  souvenir de ce que je vous ai été  ne vous <ref target="../../../_analyse/glossaire_ee.html#esmouvoir">émeuve</ref>  à me rendre le bonheur duquel<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_duquel">η</ref> le souvenir des
+  offenses que vous avez <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> d'avoir reçues de moi
+  m'a privé depuis un si long <ref target="../../../_analyse/glossaire_ss.html#siecle">siècle</ref> ? Donc <ref target="../../../_analyse/repertoire_aa.html#2_amour">Amour</ref> qui
+  est le plus grand de tous les Dieux, et qui est la
+  chose du monde la plus forte, à ce <ref target="../../../_analyse/glossaire_cc.html#coup">coup</ref> cédera sa
+  place à l'offense et au dédain.
+  Ainsi dit<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_ainsi_disoit">η</ref> <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, et déjà <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> et <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref> se préparaient de dire ce qui leur en semblait, quand
+  l'autre Berger se hâta de leur faire entendre ses
+  raisons de cette sorte :</p><p rend="center_t">
+HISTOIRE<lb/>DU BERGER  <ref target="../../../_analyse/personnage_aa.html#2_adraste">ADRASTE</ref>.</p><p>
+            <graphic url="../../../images/i_562.jpg" rend="img" mimeType="image/jpeg"/>
+            <hi rend="micro">J</hi>e vous conjure, <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> et puissante <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, et vous
+  sage et vénérable <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref>, de <ref target="../../../_analyse/glossaire_ss.html#surseoir">surseoir</ref> le jugement
+  que vous voulez donner jusques à ce que vous m'ayez
+  ouï, et vous fais cette adjuration par le plus
+  sincère, fidèle et </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 587 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#587">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#587">1621</ref> </hi>
+          </p><p>patient amour qui jamais ait
+  été, afin qu'avec une plus grande connaissance de
+  notre différend vous puissiez mettre une juste
+  conclusion à nos peines et inquiétudes. J'ai aimé
+  cette Bergère depuis le berceau, et <ref target="../../../_analyse/glossaire_tt.html#tant_s_en">tant s'en faut</ref> que j'aie jamais cessé de l'aimer, que, comme en
+  toute autre chose, je suis toujours allé croissant
+  en la volonté que j'ai de lui faire service. J'ai <ref target="../../../_analyse/glossaire_ss.html#souffrir">souffert</ref> ses dédains, j'ai <ref target="../../../_analyse/glossaire_pp.html#patienter">patienté</ref> que son amitié
+  devant mes yeux fût toute à un autre.
+
+  La longueur du temps ne m'a point diverti de mon
+  dessein, ses rigueurs ne m'en ont point distrait, et
+  je n'ai pu toutefois jusques ici lui faire changer
+  la moindre de ses cruautés. Je sais que les
+  <ref target="../../../_analyse/glossaire_dd.html#defaveur">défaveurs</ref> qu'elle me faisait étaient par elle mises
+  en compte de faveurs à <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, qu'ensemble ils se
+  sont moqués de mon amour et de ma <ref target="../../../_analyse/glossaire_pp.html#patience">patience</ref>, et que
+  trop cruellement elle m'a méprisé. Mais à quoi m'a
+  servi cette connaissance, sinon à rendre ma vie plus
+  fâcheuse, et à <ref target="../../../_analyse/glossaire_qr.html#rengreger">rengréger</ref> davantage mes
+  insupportables déplaisirs ? Car ils ont été
+  tellement inutiles à me divertir de son service que,
+  plus j'y rencontrais de difficultés et de peines,
+  plus se renforçait la violence de mon affection.
+  Dieux ! qu'un homme atteint de ce mal est peu sage !
+  Et combien a-t-il peu de pouvoir de rechercher
+  guérison, puisque même sa volonté n'y peut
+  consentir ! Tous ceux qui me conseillaient contre
+  <ref target="../../../_analyse/repertoire_aa.html#2_amour">Amour</ref> étaient mes ennemis déclarés, et quoique
+  l'espérance même ne pût trouver place <ref target="../../../_analyse/glossaire_pp.html#parmi">parmi</ref> mes <ref target="../../../_analyse/glossaire_dd.html#desastre">désastres</ref>, mon affection toutefois s'est-elle
+  changée ? s'est-elle lassée ou seulement s'est-elle <ref target="../../../_analyse/glossaire_aa.html#alentir">alentie</ref> ? </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 588 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#588">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#588">1621</ref>
+            </hi>
+          </p><p>Nullement, <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>. J'aimerais mieux
+  la mort que de diminuer ma flamme de la moindre
+  étincelle qui me brûle. Elle m'a vu souvent fondre en pleurs devant elle,
+elle m'a vu tomber à ses pieds hors de sentiment.
+Mais ni mes pleurs, ni ma <ref target="../../../_analyse/glossaire_pp.html#prochain">prochaine</ref> mort, n'ont rien
+davantage acquis envers elle qu'un mépris et une
+moquerie, de laquelle un juste <ref target="../../../_analyse/glossaire_qr.html#ressentiment">ressentiment</ref> m'eût
+pu faire prendre vengeance sur <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, si mon
+amour eût pu consentir que j'eusse voulu déplaire
+à cette cruelle. Mais cette passion de vengeance
+était trop faible pour me porter à semblable dessein,
+et quelque <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> qu'elle ait de moi, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> sais-je
+bien qu'elle ne peut en rien <ref target="../../../_analyse/glossaire_qr.html#reprendre">reprendre</ref> mon affection,
+et que sans <ref target="../../../_analyse/glossaire_no.html#outrecuidance">outrecuidance</ref> je me puis donner le nom
+véritable D'AMANT SANS REPROCHE. Car la jalousie n'a
+jamais trouvé place en mon âme, comme elle a fait en
+ce trop aimé Berger, ni jamais je n'ai, seulement
+avec le penser<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_penser">η</ref>, trouvé nulle de ses actions mauvaises.
+<ref target="../../../_analyse/repertoire_aa.html#2_amour">Amour</ref> me soit témoin que même les rigueurs que
+j'en recevais m'étaient chères, quand je me
+<ref target="../../../_analyse/glossaire_qr.html#ressouvenir">ressouvenais</ref> qu'elles étaient agréables à cette belle
+<ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>. Et encore que je n'aie point été tant
+disgracié en mes autres <ref target="../../../_analyse/glossaire_ff.html#fortunes">fortunes</ref> que <ref target="../../../_analyse/glossaire_qr.html#quelque">quelque</ref> Bergère peut-être ne m'ait regardé de bon œil, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> suis-je très assuré que je n'ai point rendu de
+faibles témoignages de ma fidélité. Aussi <ref target="../../../_analyse/repertoire_aa.html#2_amour">Amour</ref>
+pour ne laisser tant de
+
+dédains impunis, et pour n'abandonner entièrement
+sans secours une<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_un">η</ref> amour si innocente et pure que la
+mienne, (encore certes </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 589 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#589">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#589">1621</ref>
+            </hi>
+          </p><p>que <ref target="../../../_analyse/glossaire_cc.html#ce">ce</ref> n'a pas été à ma
+  requête, car je ne lui demandai jamais vengeance,
+  mais assez de <ref target="../../../_analyse/glossaire_pp.html#patience">patience</ref> seulement) a permis, comme
+  je crois, qu'elle ait ressenti des amertumes, dont
+  elle m'abreuve depuis si longtemps, par le divorce
+  d'elle et de ce Berger. Mais avant que <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> l'ait
+  aimée, depuis qu'il l'a aimée, quand il s'en est
+  éloigné, et quand il est revenu, qu'elle dise si elle
+  n'a pas toujours vu une extrême affection en moi,
+  et si jamais elle a reconnu cette affection altérée
+  pour <ref target="../../../_analyse/glossaire_qr.html#quelque">quelque</ref> traitement qu'elle m'ait fait. J'ai
+  été le premier qui l'ai servie, je suis le seul qui
+  ai toujours continué, et <ref target="../../../_analyse/glossaire_cc.html#comment_que">comment que</ref> je sois traité,
+  je serai le dernier qui conserverai cette <ref target="../../../_analyse/glossaire_uz.html#volonte">volonté</ref>,
+  pour le moins ce sera celle qui m'accompagnera dans
+  le cercueil. <lb/>  Je ne lui remets point ces choses devant les yeux
+<ref target="../../../_analyse/glossaire_pp.html#pour">pour</ref>  reproche, mais <ref target="../../../_analyse/glossaire_pp.html#pour">pour</ref> la vérité seulement ; vérité
+toutefois que je voudrais bien vous pouvoir
+représenter avec des paroles qui lui donnassent de
+moins fâcheuses <ref target="../../../_analyse/glossaire_ss.html#souvenance">souvenances</ref>, car telles appelé-je
+celles de mes services passés pour elle. Et encore
+que sa cruauté ait été telle envers moi, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> faut-il
+que je l'excuse en quelque sorte, puisqu'étant
+engagée à <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, elle eût peut-être offensé
+sa fidélité de faire autrement. Mais <ref target="../../../_analyse/glossaire_aa.html#a_ceste_heure">à  cette heure</ref>
+que, Dieu merci, elle l'a quitté, quelle raison
+peut-elle <ref target="../../../_analyse/glossaire_aa.html#alleguer">alléguer</ref> <ref target="../../../_analyse/glossaire_pp.html#pour">pour</ref> couverture de sa cruauté,
+puis même que, dès qu'elle a commencé de parler
+devant vous, elle vous a dit qu'elle avait aimé
+<ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>  parce qu'elle avait jugé être
+très raisonnable d'aimer celui de qui l'on est aimé.
+C'est suivant son jugement même </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 590 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#590">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#590">1621</ref>
+            </hi>
+          </p><p>que je requiers le
+  vôtre, ô <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, vous jurant par elle-même,
+  qui est bien le plus grand serment que je puisse
+  faire, que jamais beauté ni destin ne causèrent une
+  plus grande, plus sincère ni plus fidèle Amour que
+  celle d'<ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref> envers la belle <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>. <lb/>  <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref> finit de cette sorte son discours, avec tant
+  de démonstration d'une parfaite amour que ceux qui
+  l'ouïrent ressentaient une partie de sa peine. Et
+  la Bergère <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, voyant qu'il ne voulait plus rien
+  dire, après une grande révérence, répondit avec telles
+  paroles :<lb/>  - <ref target="../../../_analyse/glossaire_gg.html#grand">Grande</ref> et sage <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, j'ai beaucoup de regret pour
+  le repos de ce Berger que tout ce qu'il vous a dit
+  soit véritable, car il me déplaît bien fort qu'il
+  soit si mal traité  pour l'affection qu'il
+
+  me porte, encore que vous jugerez bien, m'ayant ouïe,
+  qu'il n'y a point de ma faute, et que ç'a été lui
+  seul qui opiniâtrement a poursuivi son malheur.
+  La première fois qu'il me déclara sa volonté, nous
+  étions tous deux si jeunes que malaisément eût-on
+  pu penser ni qu'il eût quelque <ref target="../../../_analyse/glossaire_qr.html#ressentiment">ressentiment</ref>  d'Amour, ni moi l'<ref target="../../../_analyse/glossaire_ee.html#entendement">entendement</ref> d'en pouvoir comprendre
+  quelque chose. Si bien que ce qu'il m'en dit ne
+  m'émut <ref target="../../../_analyse/glossaire_no.html#non">non plus</ref> qu'une personne à qui la chose ne
+  touchait aucunement. Depuis il fit un voyage assez
+  long, et à son retour il trouva que je n'étais plus
+  mienne m'étant déjà donnée à <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>. De sorte
+  que si, à la première fois, il avait eu <ref target="../../../_analyse/glossaire_no.html#occasion">occasion</ref> de se
+  plaindre de mon ignorance, à la seconde il en avait
+  bien davantage de se <ref target="../../../_analyse/glossaire_dd.html#douloir">douloir</ref> de mon trop de
+  connaissance. Mais de moi nullement ; car </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 591 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#591">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#591">1621</ref>
+            </hi>
+          </p><p>vous
+  plaignez-vous, Berger, que n'étant point capable
+  d'Amour, je ne vous aie point aimé ? Accusez-en la
+  Nature<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_nature">η</ref>, accusez-en les Ordonnances auxquelles elle
+  nous a soumises. Et trouvez-vous étrange que je ne
+  vous puisse aimer quand ma volonté n'est plus
+  mienne ? Il faut que vous en fassiez<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_en_fassiez">η</ref> de même de ce
+  que je n'ai qu'un cœur, que je n'ai qu'une âme et
+  qu'une volonté. Mais vous pouvez avec plus de raison
+  vous plaindre (et c'est, <ref target="../../../_analyse/glossaire_cc.html#ce">ce</ref> me semble, la seule
+  plainte que vous devez faire) que vous soyez venu
+  vers moi trop tôt et que vous y soyez retourné trop
+  tard, parce que quand vous dites que je ne vous ai
+  jamais regardé qu'avec dédain, et que j'ai été si <ref target="../../../_analyse/glossaire_qr.html#retenu">retenue</ref> à vous favoriser, si vous preniez bien mes
+  actions, vous connaîtriez que vous m'avez plus
+  d'<ref target="../../../_analyse/glossaire_no.html#obligation">obligation</ref> en cela que si j'avais fait autrement.
+  Car si vous eussiez reçu quelque satisfaction de
+  moi, jugez à quelle extrémité votre Amour fût
+  parvenue, puisqu'ayant usé envers vous de tant de
+  rigueurs vous la ressentez toutefois si grande. Et
+  vous <ref target="../../../_analyse/glossaire_qr.html#ressouvenir">ressouvenez</ref>, <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref>, que les faveurs que vous
+  eussiez reçues de moi eussent été plutôt <ref target="../../../_analyse/glossaire_qr.html#rengregement">rengrègement</ref> que soulagement de votre mal. Outre que
+  même elles ne vous pouvaient être accordées sans
+  beaucoup offenser la sincère amitié que j'avais
+  promise à <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>. Que si<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_que_j_advoue">η</ref> j'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref> qu'il soit juste d'aimer qui nous
+aime, je ne dis pas qu'il soit injuste de n'aimer pas
+tous ceux qui nous affectionnent ; autrement il n'y
+aurait point de fidélité ni d'assurance en amour, et
+vous-même, s'il était</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 592 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#592">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#592">1621</ref>
+            </hi>
+          </p><p> ainsi, devriez être obligé
+  de rendre à la Bergère <ref target="../../../_analyse/personnage_bb.html#2_bybliene">Bybliene</ref> qui meurt pour vous
+  une amour réciproque. Mais j'ai bien voulu dire qu'une
+  fille, se trouvant
+
+  libre de toute autre affection, peut sans reproche
+  aimer celui qui l'aime, s'il n'y a point d'autre
+  <ref target="../../../_analyse/glossaire_no.html#occasion">occasion</ref> de haine que cette Amour : or, en ce qui se
+  présente entre vous et moi, il n'y a rien de
+  semblable, puisqu'étant engagée ailleurs, je ne
+  pouvais faire une nouvelle amitié avec vous sans la
+  ruine de celle que j'avais déjà. Si je vous l'ai
+  dissimulé, ou si je vous ai entretenu <ref target="../../../_analyse/glossaire_dd.html#de">de</ref> paroles,
+  plaignez-vous de moi, car ce sera avec raison ; mais
+  si je vous en ai toujours parlé fort franchement,
+  que ne reconnaissez-vous l'<ref target="../../../_analyse/glossaire_no.html#obligation">obligation</ref> que vous m'en
+  avez ? Et ne vous arrêtez point à publier celles<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_celles_obligations">η</ref> que je vous ai pour m'avoir si longuement aimée :
+  ne vous ai-je pas mille fois supplié, conjuré, voire
+  commandé, autant que j'ai eu d'autorité sur vous,
+  que vous <ref target="../../../_analyse/glossaire_mm.html#missions">missiez</ref> fin à cette affection ? Et lorsqu'avec plus de violence je vous en ai requis, ne
+  m'avez-vous pas toujours répondu que vous le feriez
+  si vous pouviez vivre et ne m'aimer point. Si vous
+  avez continué, n'a-<ref target="../../../_analyse/glossaire_cc.html#ce">ce</ref> point été pour votre
+  considération, et <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> pour la mienne ?
+  Mais, grande et sage <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, voici, selon que j'ai
+  pu considérer par ses paroles, ce qui l'a
+  davantage <ref target="../../../_analyse/glossaire_dd.html#deceu">déçu</ref>. Il a pensé sans doute que
+  l'affection que je portais à <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> était la seule
+  cause qui m'empêchait d'avoir chère la sienne, et
+  d'<ref target="../../../_analyse/glossaire_ee.html#effect">effet</ref> il n'a point su plutôt les dissensions
+  de ce Berger et de moi qu'incontinent le voilà
+  enflé d'espérance de parvenir à ce qu'il avait tant</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 593 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#593">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#593">1621</ref>
+            </hi>
+          </p><p> désiré, et pour n'en perdre l'occasion, m'a tellement
+  pressée depuis ce temps-là qu'avec raison je le puis
+  plutôt dire mon ennemi que mon ami, voire, si la <ref target="../../../_analyse/glossaire_dd.html#discretion">discrétion</ref> ne m'en<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_m_empeschoit">η</ref> empêchait, plutôt importun que
+  serviteur. Mais il a bien été <ref target="../../../_analyse/glossaire_dd.html#deceu">déçu</ref> par cette <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref>, et n'a pas considéré que jamais cette amitié
+  ne se perdrait que je ne <ref target="../../../_analyse/glossaire_pp.html#perdissiez">perdisse</ref> <ref target="../../../_analyse/glossaire_ee.html#ensemble">ensemble</ref> tellement
+  toute puissance d'aimer qu'il ne <ref target="../../../_analyse/glossaire_ee.html#estre_de">serait</ref> plus en moi
+  d'en ressentir les <ref target="../../../_analyse/glossaire_ee.html#effect">effets</ref>. <lb/>  Ainsi paracheva <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>,  <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref> voulait répliquer,
+lui <ref target="../../../_analyse/glossaire_ss.html#sembler">semblant d</ref>'avoir beaucoup de raisons pour <ref target="../../../_analyse/glossaire_aa.html#alleguer">alléguer</ref> au contraire, quand <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> lui fit signe de la main
+qu'il se tût, et tirant à part <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref>, <ref target="../../../_analyse/personnage_aa.html#2_astree">Astrée</ref>,
+<ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref>, <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref>, <ref target="../../../_analyse/personnage_mm.html#2_madonthe">Madonthe</ref> et <ref target="../../../_analyse/personnage_ll.html#2_laonice">Laonice</ref>, leur demanda
+de quel avis elles étaient. Mais parce qu'elles
+furent longtemps à se résoudre, et que ces Bergers
+qui n'étaient point appelés à leur <ref target="../../../_analyse/glossaire_cc.html#conseil">conseil</ref> ne
+pouvaient demeurer sans rien faire, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> fut le
+premier qui s'adressant à <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> : - Il n'y a que vous
+au monde, lui dit-il, qui vous <ref target="../../../_analyse/glossaire_ff.html#fascher">fâchez</ref> d'être trop
+riche. - Comment
+
+l'<ref target="../../../_analyse/glossaire_ee.html#entendre">entendez</ref>-vous ? répondit-elle. - Je veux dire,
+ajouta <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, que vous ne devez pas seulement
+recevoir ces deux Bergers qui vous aiment (pour
+témoignage que vous êtes belle !) mais tous ceux
+encore qui se voudront donner à vous ; car c'est
+honneur à une fille d'être aimée et recherchée de
+plusieurs, outre la <ref target="../../../_analyse/glossaire_cc.html#commodite">commodité</ref> qui s'en peut retirer.
+- Je crois, répondit froidement <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, que cela
+serait bon pour celles qui veulent être estimées
+belles, et ne le sont pas, ou bien qui préfèrent
+cette vanité dont </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 594 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#594">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#594">1621</ref>
+            </hi>
+          </p><p>vous parlez à un repos et à un
+  solide contentement. - Si c'est bien d'être aimée,
+  répliqua <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, plus vous le serez et plus vous
+  aurez de bien. - Et si c'est mal, ajouta <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>,
+  plus je serai aimée, et plus j'aurai de mal. - Il
+  est vrai, reprit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, mais quelle apparence y
+  a-t-il que ce soit mal d'être aimée de plusieurs ?
+  - Ils nous haïssent à la fin, répondit-elle. - <ref target="../../../_analyse/glossaire_no.html#ouy_bien">Oui
+    bien</ref>, repartit-il, si vous ne les<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_le_les">η</ref> contentez.
+  - Comment, ajouta <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, en satisfaire plusieurs,
+  puisqu'il est impossible d'en contenter un seul ?
+  - Et quoi ! continua <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, vous n'estimez point
+  d'avoir plusieurs serviteurs ? - Ils deviennent enfin nos ennemis, dit la Bergère, et lorsqu'ils nous
+  aiment, ils nous importunent plus qu'ils ne nous
+  profitent. - Il faut, ajouta-t-il, avoir soin de
+  les conserver. - La peine, répliqua <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, surpasse
+  le plaisir. - <ref target="../../../_analyse/glossaire_ss.html#si">Si</ref> est-ce, continua le Berger, que les
+  Dieux ne se sentent point importunés que plusieurs
+  chargent leurs autels de sacrifices. - Il est vrai,
+  répondit-elle, mais c'est aussi un particulier
+  privilège des Dieux de pouvoir faire du bien à
+  plusieurs sans se donner de la peine. - Il me semble,
+  dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, que puisque l'amour dépend de la
+  volonté, et que, puisque la volonté s'étend à tout ce qu'il
+  lui plaît, il n'y a pas grande peine d'aimer diverses
+  personnes. - Les amants de ce siècle<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_siecle">η</ref>, répondit-elle,
+  ne se contentent pas de la volonté, ils veulent
+  posséder en <ref target="../../../_analyse/glossaire_ee.html#effect">effet</ref>. Et quand cela ne serait pas, je
+  ne <ref target="../../../_analyse/glossaire_ll.html#laisser">laisserais</ref> de croire impossible que la volonté se
+  puisse en même temps donner toute à des personnes
+  séparées. - Il faut, répliqua-t-il, ne leur en donner
+  qu'une partie. </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 595 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#595">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#595">1621</ref>
+            </hi>
+          </p><p>- C'est, répondit la Bergère, ce que
+  je crois encore plus impossible. Et quand il se
+  pourrait, puisque l'amour d'un seul est si pénible,
+  que serait-ce d'une si grande multitude ! - Vous
+  n'en voulez donc aimer qu'un ? - Un, répondit-elle,
+  est encore trop ; c'est pourquoi je n'en veux point
+  du tout. - Et vous, Bergers, dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, s'adressant
+  à <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> et à <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref>, que dites-vous là-dessus ?
+  - Nous faisons bien paraître,
+
+  dit <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, que nous avons la <ref target="../../../_analyse/glossaire_mm.html#mesme">même</ref> <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref>.
+  - Comment ? dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>,  l'on n'en peut aimer
+  qu'un ? - Encore moins, répondit <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, puisque nous nous sommes mis deux pour en aimer une.
+  <lb/>  Les discours de <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> eussent bien continué
+  davantage, si la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, en s'en revenant avec toute sa
+  troupe, ne les eût interrompus. Elle se remit donc
+  en sa place, et chacun ayant repris la sienne, elle
+  parla de cette sorte :</p><p rend="center_t">
+            Jugement de la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>
+            <lb/> <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref>.</p><p>
+            <graphic url="../../../images/e_595.jpg" rend="img" mimeType="image/jpeg"/>
+            <hi rend="micro">E</hi>ncore que nous remarquions en ces différends qui
+  sont entre nos mains plusieurs accidents qui
+  semblent être contraires entre eux, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> est-ce qu'il
+  n'y a rien qui contrevienne à l'amour, car il n'est
+  pas plus naturel à la flamme de se mouvoir et
+  d'échauffer qu'à l'amour de produire ces
+  dissensions entre ceux qui aiment ; et qui voudrait
+  les ôter d'entre les amants n'entreprendrait pas  </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 596 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#596">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#596">1621</ref>
+            </hi>
+          </p><p>une chose moins impossible que s'il voulait ôter
+  le mouvement et la chaleur à la flamme. D'autre côté,
+  considérant que ce n'est pas aimer que de ne se
+  donner tout entièrement à la personne aimée, nous ne
+  pouvons penser que ce ne soit une espèce de trahison
+  de faire part de son affection à quelque autre.
+  C'est pourquoi, toutes choses longuement débattues et
+  sagement considérées, nous disons : que <ref target="../../../_analyse/glossaire_cc.html#celuy">celui</ref> serait
+  injuste, qui jugerait que l'amour se dût perdre pour
+  une chose qui lui est si naturelle, ou <ref target="../../../_analyse/glossaire_dd.html#diviser_a">diviser à</ref>  plusieurs, pour quelque considération que ce soit.
+  Et nous déclarons que les dissensions et petites
+  querelles sont des renouvellements d'amour, et que
+  diviser ou changer une affection est crime de lèse-majesté en Amour. Et en conséquence de cela, nous ordonnons que <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>
+aimera <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, et que <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> toutefois, assuré
+de la bonne volonté de <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, lui donnera à
+l'avenir de meilleures preuves de son affection que
+celles de sa jalousie, qui à la vérité est bien signe
+d'amour. Mais comme la maladie est signe de vie, car
+<ref target="../../../_analyse/glossaire_no.html#non">non plus</ref> que sans la vie on ne peut être malade,
+sans amour aussi on ne peut être jaloux,
+toutefois, comme la maladie est témoignage d'une
+vie mal <ref target="../../../_analyse/glossaire_dd.html#disposer">disposée</ref>, de même la jalousie rend preuve
+d'une amour malade. Et <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, pardonnant et recevant
+<ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>
+
+en ses bonnes grâces, en oubliera tout ce qui lui
+aura déplu, considérant que l'amour, qui est une
+très violente passion, fait commettre plusieurs
+choses qui ne seraient pas approuvées de celui qui
+les fait s'il n'était atteint de cette maladie.
+Mais pour éviter les</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 597 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#597">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#597">1621</ref>
+            </hi>
+          </p><p> déplaisirs qu'elle a ressentis
+  par le passé, nous voulons qu'ainsi que <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> traitera <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> comme la personne du monde qu'elle
+  aimera le plus, de même <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> tienne <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> pour
+  celle qui aura de plus de pouvoir sur sa volonté, <ref target="../../../_analyse/glossaire_dd.html#dautant">d'autant</ref> que la puissance qui penche tout d'un
+  côté, encore qu'elle soit permise volontairement,
+  tombe enfin en Tyrannie. Et quant à l'infortuné et
+  patient <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref>, nous ordonnons qu'il élise d'être
+  à jamais exemple d'une fidèle et infructueuse
+  affection, en continuant celle qu'il porte à <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> sans être aimé, ou rompant ses premiers liens par
+  l'effort du dépit ou du désespoir, il <ref target="../../../_analyse/glossaire_ss.html#satisfaire_a">satisfasse
+    à</ref> l'amitié de celle<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_celle_bybliene">η</ref> dont il est aimé. <lb/>  Tel fut le jugement de la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, qui en même temps
+  fit trois <ref target="../../../_analyse/glossaire_ee.html#effect">effets</ref> bien différents en ces trois
+  personnes : en <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, d'extrême contentement ; en
+  <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, d'un <ref target="../../../_analyse/glossaire_ee.html#estonner">étonnement</ref> si grand qu'elle demeura
+  sans parler ; mais en <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref>, d'un si prompt
+  saisissement d'esprit qu'il se laissa choir en terre
+  comme mort. De sorte que, <ref target="../../../_analyse/glossaire_cc.html#cependant">cependant</ref> que <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref>, avec
+  mille paroles confuses et mal * agencées, essayait de
+  remercier son juge d'une si favorable ordonnance,
+  <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, sans dire mot, tenait les yeux en terre,
+  comme ne sachant si elle devait en être aise ou
+  <ref target="../../../_analyse/glossaire_mm.html#marri">marrie</ref>. Et <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref>, couché de son long, quoique
+  sans sentiment, ne <ref target="../../../_analyse/glossaire_ll.html#laisser">laissait</ref> d'en causer un si grand
+  de son <ref target="../../../_analyse/glossaire_ee.html#ennui">ennui</ref> en ceux qui le regardaient que <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> même en fut touchée de pitié. Toute cette troupe
+  accourut à lui, et lui rapporta tout le secours qui
+  fut possible, et le voyant revenu, <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref>, accompagnée d'<ref target="../../../_analyse/personnage_aa.html#2_astree">Astrée</ref>, et de ses compagnes, les  </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 598 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#598">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#598">1621</ref>
+            </hi> </p><p>laissa tous trois. Mais ils ne furent pas longtemps
+  ensemble, car incontinent après, <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> prenant <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> sous les <ref target="../../../_analyse/glossaire_bb.html#bras">bras</ref>  s'en alla du côté de <ref target="../../../_analyse/repertoire_mm.html#2_montverdun">Montverdun</ref>, et <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref> les ayant accompagnés
+  quelque temps de l'œil, et commençant à les perdre
+  entre quelques arbres : - <ref target="../../../_analyse/glossaire_no.html#ores">Or</ref> allez, dit-il, plus <ref target="../../../_analyse/glossaire_hh.html#heureux">heureux</ref> que parfaits amants, allez et jouissez de
+  votre bonheur et du mien, <ref target="../../../_analyse/glossaire_cc.html#cependant">cependant</ref> que, contraint par
+  une trop injuste ordonnance, j'irai payant de mes
+  larmes, durant le reste de ma vie, le bien que vous
+  posséderez. Ces paroles furent les dernières qu'il
+  dit de longtemps d'un jugement bien sain ; car
+  depuis son esprit se troubla de sorte qu'il en
+  perdit l'<ref target="../../../_analyse/glossaire_ee.html#entendement">entendement</ref>, et fit des folies si grandes
+  que ceux mêmes qu'il faisait rire ne pouvaient
+  s'empêcher d'en avoir compassion. <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, qui ne trouvait point de justice au jugement
+  que la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> en avait fait, soutenait contre tous
+  que ce différend pouvait être terminé plus
+  équitablement. Et parce que <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> et <ref target="../../../_analyse/personnage_pp.html#2_paris">Paris</ref> n'ignoraient pas l'<ref target="../../../_analyse/glossaire_hh.html#humeur">humeur</ref> de ce Berger, ils furent
+  bien aises, pour passer le temps, de le faire parler,
+  et <ref target="../../../_analyse/personnage_pp.html#2_paris">Paris</ref> à ce dessein prenant la parole : - Il me
+  semble, dit-il, ma sœur, que vous avez fait un
+  grand tort au pauvre <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref>, et que vous pouviez
+  bien ordonner quelque chose de plus doux pour lui.
+  N'est-il pas vrai, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> ? - Quant à moi, répondit
+  le Berger, je crois que le Ciel a voulu punir par
+  cette injuste ordonnance, la sottise d'<ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref>,
+  autrement il n'y avait apparence qu'il fût condamné
+  de cette sorte. Mais j'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref> que l'imprudente et
+  sotte passion à laquelle il s'est laissé conduire si
+  longtemps ne</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 599 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#599">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#599">1621</ref>
+            </hi>
+          </p><p> méritait pas une moindre punition.
+  - Voyez, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, répondit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, combien nous
+  sommes différents d'<ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> ! <ref target="../../../_analyse/glossaire_tt.html#tant_s_en">Tant s'en faut</ref> que
+  l'amour qu'il a portée avec tant de constance à <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> et continuée avec tant d'opiniâtreté me semble
+  punissable qu'il n'y a rien que je loue davantage
+  en lui, et cela a été cause que je lui ai permis de
+  la pouvoir continuer s'il lui plaît. - Voilà, dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, une permission bien favorable et
+  avantageuse ! Il vaudrait autant que vous lui eussiez
+  permis de prendre toute sa vie une peine très inutile.
+  Je tiens, quant à moi, que c'est en cela que vous lui
+  avez été trop rigoureuse, et s'il en eût <ref target="../../../_analyse/glossaire_aa.html#appeler">appelé</ref> à moi, et que j'en eusse eu la puissance, je sais
+  bien que j'eusse révoqué votre jugement. - Et quel
+  eût été le vôtre ? dit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> en souriant.
+  - Je les eusse, dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, rendus tous trois contents.
+  - Je m'assure, interrompit <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, que cette
+  ordonnance sera bien <ref target="../../../_analyse/glossaire_dd.html#digerer">digérée</ref> et qu'elle rendra
+  preuve d'un bon jugement. - Il n'y a point de doute,
+  dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, avec un haussement de tête, que qui
+  voudra s'<ref target="../../../_analyse/glossaire_aa.html#amuser">amuser</ref> aux <ref target="../../../_analyse/glossaire_mm.html#melancolique">mélancoliques</ref> humeurs de <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> ne jugera jamais bien de l'amour ! Mais
+  si on veut regarder sainement pourquoi c'est que
+  l'on aime, on dira que j'ai raison, et que <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref> et <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> pouvaient être tous trois
+  contentés. - Et comment se pouvait faire cela ?
+  répondit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>. - En ordonnant, répliqua <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>,
+  que <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> les aimât tous deux, et que tous deux
+  la servissent ; car par ce moyen ils eussent eu ce
+  qu'ils désiraient, qui était d'être aimés d'elle,
+  et elle en eût été mieux servie. Il n'y</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 600 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#600">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#600">1621</ref>
+            </hi>
+          </p><p> eut celui qui put s'empêcher de rire oyant
+  un tel jugement, et <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> plus que les autres,
+  de sorte que, s'adressant à elle : - Il semble, dit-il,
+  <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, que vous vous moquiez de moi ?
+  - <ref target="../../../_analyse/glossaire_tt.html#tant_s_en">Tant s'en faut</ref>, dit-elle, il semble bien mieux, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, que vous vous moquiez de nous. - Excusez-le,
+  Madame, interrompit <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, il en parle selon sa
+  pensée. - Si la vôtre, dit-il s'adressant à
+  <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> presque en colère, est <ref target="../../../_analyse/glossaire_dd.html#different_a">différente à</ref> la
+  mienne, vous pensez très mal, et voudrais bien
+  savoir sur quelle raison vous pouvez vous appuyer
+  pour blâmer cette ordonnance ? <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> lui
+  répondit froidement : - Le sens commun nous apprend
+  que ce que plusieurs possèdent n'est à personne
+  entièrement. Si plusieurs possèdent la bonne volonté
+  de <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref>, ni <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref>, ni <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> n'en auront que
+  leur portion ; mais en Amour, n'en avoir qu'une
+  partie, c'est n'en avoir rien du tout. <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref> prenant la parole, et s'adressant à
+  <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> : - Pourquoi, dit-elle, parlez-vous de
+  cette sorte à <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> ? Ne savez-vous, Berger,
+  qu'il n'<ref target="../../../_analyse/glossaire_ee.html#entendre">entend</ref> pas ce langage ? - À la vérité, reprit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, vous avez raison de vous en mêler aussi,
+  car peut-être <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> n'a pas assez de babil pour <ref target="../../../_analyse/glossaire_cc.html#confondre">confondre</ref> lui seul tout le reste du monde.
+  Et puis se tournant vers <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> : - Ouïtes-vous
+  jamais, dit-il, <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, une plus fausse <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> que celle de <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> ? N'avoir qu'une
+  partie d'une chose, c'est n'en avoir rien du tout ;
+  et qui jugera que dans une tasse il n'y ait point
+  d'eau, parce que toute la mer n'y est pas ? Je
+  voudrais bien savoir <ref target="../../../_analyse/glossaire_qr.html#quel">quel</ref> est le sens commun </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 601 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#601">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#601">1621</ref>
+            </hi>
+          </p><p>qui
+  lui apprend une chose si fausse. <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> lui
+  répondit : - Si l'amour, comme l'eau, pouvait être
+  divisée et demeurer toujours amour, vous auriez
+  <ref target="../../../_analyse/glossaire_qr.html#quelque">quelque</ref> raison ; car l'eau est de telle nature qu'une
+  seule goutte est aussi bien eau que toute la mer,
+  et toutes les sources ensemble. Mais l'amour au
+  contraire n'est plus Amour aussitôt que la
+  moindre partie lui <ref target="../../../_analyse/glossaire_dd.html#defaillir">défaut</ref>. Et pour faire voir que
+  je dis vrai, l'amour consiste principalement en
+  l'affection extrême et en la perpétuelle fidélité.
+  Si nous ôtons quelqu'une de ces parties, ce n'est
+  plus Amour, et je crois qu'il n'y a personne en la
+  compagnie, si ce n'est <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, qui ne l'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref>.
+  - Et que sera-ce donc ? dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>. - Ce  sera,
+  répondit <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, le contraire d'amour ; car si
+  l'extrémité <ref target="../../../_analyse/glossaire_dd.html#defaillir">défaut</ref> à l'affection, telle affection
+  n'appartient <ref target="../../../_analyse/glossaire_no.html#non">non plus</ref> à l'amour que le froid au
+  chaud, et si la fidélité manque à l'extrême
+  affection, c'est une trahison, et <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> une Amour.
+  Que si la fidélité
+
+  y est, mais <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> continuée ou pour mieux dire,
+  perpétuelle, ce n'est pas fidélité, mais perfidie.
+  Voyez donc, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, et confessez que j'ai eu raison
+  de dire que qui n'avait qu'une partie d'Amour n'en
+  avait rien du tout. Que s'il est vrai que l'amour
+  soit quelque chose d'indivisible, <ref target="../../../_analyse/glossaire_cc.html#comme">comme</ref> eût-il été
+  raisonnable d'ordonner à <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> qu'elle la divisât
+  pour <ref target="../../../_analyse/personnage_pp.html#2_palemon">Palémon</ref> et pour <ref target="../../../_analyse/personnage_aa.html#2_adraste">Adraste</ref> ? À la fin de ses paroles, <ref target="../../../_analyse/personnage_pp.html#2_paris">Paris</ref> reprit ainsi
+froidement : - Il me semble, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, que nous avons la
+raison de notre côté, mais que <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, par ses
+discours, s'acquiert l'<ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> de toute la troupe qui
+le favorise ; et  faut que je confesse que si vous ne</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 602 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#602">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#602">1621</ref>
+            </hi>
+          </p><p>lui répondez, je me sens presque contraint
+  d'<ref target="../../../_analyse/glossaire_aa.html#avouer">avouer</ref> ce qu'il dit. - <ref target="../../../_analyse/glossaire_gg.html#gentil">Gentil</ref> <ref target="../../../_analyse/personnage_pp.html#2_paris">Paris</ref>, dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>,
+  quoi que <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> en dise et quoi que vous en
+  croyiez, la vérité ne se changera pas ! Et quant à
+  moi, je sais bien que l'expérience est plus certaine
+  que les paroles. Or <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> n'a que des paroles
+  pour prouver ce qu'il dit, et moi j'ai les <ref target="../../../_analyse/glossaire_ee.html#effect">effets</ref> et l'expérience si familière que je n'en veux point
+  chercher de plus éloignée qu'en moi-même. Car
+  j'en ai aimé plusieurs tout à la fois, et  sais fort
+  bien, quoi qu'il veuille dire, que, véritablement, je
+  les aimais ; et pourquoi <ref target="../../../_analyse/personnage_dd.html#2_doris">Doris</ref> n'en pourrait-elle
+  faire de même ? - Il y a plusieurs personnes,
+  répliqua <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, qui pensent faire des choses
+  qu'ils ne font pas. Tous les artisans, mais plus
+  encore tous ceux qui s'adonnent aux sciences et aux
+  arts qui ne sont point mécaniques  ont <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> de
+  faire très bien ce qu'ils font, et y en a fort peu
+  qui ne jugent leur ouvrage plus beau et plus parfait
+  que celui de tout autre, et toutefois on voit bien
+  qu'ils se trompent, et qu'il y a bien souvent de
+  très grandes imperfections ; mais l'amour de
+  soi-même, qui est presque inséparable du jugement<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_jugement">η</ref>,
+  couvre ordinairement les yeux à chacun en ce qui le
+  touche. Il en faut autant dire de <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, qui <ref target="../../../_analyse/glossaire_pp.html#penser_de">pense
+  de</ref> bien aimer, et toutefois en est un fort mauvais
+  ouvrier, et <ref target="../../../_analyse/glossaire_pp.html#par_ainsi">par ainsi</ref> qui voudra bien aimer, s'il
+  ne veut <ref target="../../../_analyse/glossaire_ee.html#errer">errer</ref>, ne prendra jamais son patron<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_patron">η</ref> sur lui.
+  - Et sur qui donc ? interrompit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, sera-ce point
+  sur vous ? - Si quelqu'un, répondit <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, le
+  voulait bien représenter, le Patron que vous dites
+  serait trop</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 603 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#603">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#603">1621</ref>
+            </hi>
+          </p><p> difficile, et ne  crois pas que personne
+  le puisse que <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> seul. - Voilà, lui répondit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, l'une des plus grandes <ref target="../../../_analyse/glossaire_no.html#outrecuidance">outrecuidances</ref> que
+  l'amour de soi-même puisse produire. Que vous seul
+  puissiez bien aimer ! - Je dis, répliqua <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>,
+  que mon amitié est parfaite, et que
+
+  vous ne <ref target="../../../_analyse/glossaire_ss.html#scavoir">sauriez</ref> y trouver rien à <ref target="../../../_analyse/glossaire_qr.html#reprendre">reprendre</ref>, et de
+  plus que vous ne <ref target="../../../_analyse/glossaire_ss.html#scavoir">sauriez</ref> m'en proposer une autre<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_autre">η</ref> qui
+  le soit davantage. - Voyez, s'écria <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, quelle <ref target="../../../_analyse/glossaire_no.html#outrecuidance">outrecuidance</ref> est celle de ce Berger, lui seul
+  sait aimer, c'est lui qui donne les lois à l'amour,
+  qui l'a fait venir du Ciel <ref target="../../../_analyse/glossaire_pp.html#parmi">parmi</ref> les hommes, et qui
+  mesure la grandeur et perfection de nos volontés !
+  Belle <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, si ce ne vous est chose <ref target="../../../_analyse/glossaire_ee.html#ennuyeux">ennuyeuse</ref>,
+  permettez-moi que je lui montre son erreur.
+  Et lors, enfonçant son chapeau, et relevant un peu
+  l'aile qui lui couvrait le front, mettant une main
+  sur les côtés, et de l'autre accompagnant par des
+  gestes la violence de sa parole, il lui parla de
+  cette sorte : - Tu dis deux choses, <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> : l'une
+  que ton affection est parfaite et ne peut être <ref target="../../../_analyse/glossaire_qr.html#reprendre">reprise</ref>, et l'autre que je ne t'en <ref target="../../../_analyse/glossaire_ss.html#scavoir">saurais</ref> proposer
+  une plus accomplie. Réponds-moi pour la première :
+  à ce qui est parfait peut-on ajouter quelque
+  chose ? Je m'assure que tu diras que non, car s'il
+  se pouvait, la chose aurait manqué auparavant de ce
+  qu'on y aurait rapporté. La chose à laquelle on ne
+  peut rien ajouter doit être venue à son extrémité.
+  Et <ref target="../../../_analyse/glossaire_pp.html#par_ainsi">par ainsi</ref> il faut <ref target="../../../_analyse/glossaire_aa.html#avouer">avouer</ref> que tout ce qui est
+  parfait est extrême. Or si ton affection est
+  parfaite, on n'y peut donc rien ajouter, et ne <ref target="../../../_analyse/glossaire_ss.html#scavoir">saurait</ref> se rendre plus grande qu'elle est, ni plus
+  accomplie. </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 604 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#604">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#604">1621</ref>
+            </hi>
+          </p><p>Dis-moi donc maintenant : Qu'est-ce
+  qu'Amour ? n'est-ce pas un désir<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_desir">η</ref> de beauté et du
+  bien qui <ref target="../../../_analyse/glossaire_dd.html#defaillir">défaut</ref> ? Mais si ton Amour est désir du
+  bien qui <ref target="../../../_analyse/glossaire_dd.html#defaillir">défaut</ref>, <ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref>, par force, qu'on peut
+  ajouter à ton amour quelque chose qu'elle n'a pas.
+  De plus, tu dis qu'elle ne peut être <ref target="../../../_analyse/glossaire_qr.html#reprendre">reprise</ref>. Si
+  je te demande <ref target="../../../_analyse/glossaire_qr.html#que">que</ref> c'est que tu aimes, tu répondras
+  que c'est <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref>, et si, passant <ref target="../../../_analyse/glossaire_no.html#outre">plus outre</ref>, je
+  m'enquiers qui est cette <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref>, tu diras que c'est
+  la plus parfaite Bergère du Monde. <ref target="../../../_analyse/glossaire_no.html#or_maintenant">Or</ref> réponds-moi :
+  si cette Bergère est aussi parfaite que tu l'estimes,
+  n'es-tu pas bien <ref target="../../../_analyse/glossaire_no.html#outrecuide">outrecuidé</ref> d'oser aimer une telle
+  perfection, puisqu'il faut qu'il y ait de la
+  proportion entre l'Amant et l'aimé ? Car je ne crois
+  pas que ta présomption soit telle qu'elle te persuade
+  que tu sois aussi parfait <ref target="../../../_analyse/glossaire_cc.html#comme">comme</ref> tu l'estimes.
+  Je m'assure que tu me voudras <ref target="../../../_analyse/glossaire_qr.html#reprendre">reprendre</ref> de même
+  faute <ref target="../../../_analyse/glossaire_pp.html#pource">pource</ref> que j'aime <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref>
+            <hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_philis">η</ref>, que tu diras avoir
+  beaucoup plus de perfection que moi ; mais je suis
+  de contraire <ref target="../../../_analyse/glossaire_cc.html#creance">créance</ref> à la tienne, premièrement,
+  parce que je ne tiens pas <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref> telle que tu dis
+  ta <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref>. J'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref> bien qu'elle a de la beauté et
+  du mérite, mais aussi ne suis-je pas sans l'un ni
+  sans l'autre. Elle a de l'esprit, j'en ai aussi.
+  Elle est sage, je ne suis pas fol. Bref, elle est
+  Bergère,
+
+  je suis Berger, et si elle est <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref>, je suis <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>. N'y a-t-il pas quelque conformité entre nous ?
+  Car, tout ainsi que je ne vaux pas tant<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_vaux_pas">η</ref> qu'un autre
+  ne puisse valoir davantage, aussi n'est-elle pas si
+  belle qu'une autre ne la puisse être plus. De sorte
+  que je puis dire pour répondre même à ce que tu
+  m'as demandé que</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 605 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#605">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#605">1621</ref> </hi>
+          </p><p> je te proposasse une plus parfaite
+  amour que la tienne : que si quelqu'un veut bien
+  aimer, il faut que ce soit comme <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, et <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> comme <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>. Car à quelle <ref target="../../../_analyse/glossaire_no.html#occasion">occasion</ref> aime-t-on, sinon pour avoir du
+contentement ? Mais quel plaisir peuvent avoir ces
+mornes et pensifs Amants qui vont continuellement
+<ref target="../../../_analyse/glossaire_ss.html#serrer">serrés</ref> en eux-mêmes, se rongeant l'esprit et le
+cœur avec cette chimère de constance<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_constance">η</ref> ? <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref>, nous
+dira <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, ne m'aime point : elle en aime un
+autre, et me méprise ; mais je ne <ref target="../../../_analyse/glossaire_ll.html#laisser">laisserai</ref> de
+l'aimer et de la servir de peur d'être dit
+inconstant. <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref>, nous dira <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, ne m'aime
+point : elle en aime un autre, et me méprise ; pourquoi ne changerai-je pas cette ingrate et <ref target="../../../_analyse/glossaire_mm.html#mescognoissant">méconnaissante</ref> pour une<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_un">η</ref> autre qui m'aimera, et méprisera quelque
+autre pour moi ? Sera-ce de peur d'être <ref target="../../../_analyse/glossaire_tt.html#taxer">taxé</ref>
+d'inconstance ? Ah ! mes amis, dites-moi quelle
+bête est-ce que cette inconstance ? Qui a-t-elle
+dévoré ? Ou bien quelle Maladie cause-t-elle, et
+qui est-ce qui en est mort ? Ou quel frère ou père a
+jamais eu <ref target="../../../_analyse/glossaire_no.html#occasion">occasion</ref> d'en porter le deuil ? C'est une
+<ref target="../../../_analyse/glossaire_ik.html#imagination">imagination</ref>, ou plutôt une invention de quelque
+<ref target="../../../_analyse/glossaire_ff.html#fin">fine</ref> Amante, qui, se voyant devenue laide, ou prête
+à être changée pour une plus belle qu'elle n'était
+pas, mit en avant cette <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref>, et la fit croire
+pour quelque chose de très mauvais. Et faut-il qu'un
+homme d'esprit s'y <ref target="../../../_analyse/glossaire_aa.html#abuser">abuse</ref>, et qu'il passe sans sujet
+tout son <ref target="../../../_analyse/glossaire_aa.html#age">âge</ref> en <ref target="../../../_analyse/glossaire_tt.html#travailler">travaillant</ref> sans être soulagé ?
+Appellera-t-on cela Amour et constance, ou si, avec
+plus de raison, on ne lui doit point plutôt donner
+le nom de folie ? Quoi ! languir <ref target="../../../_analyse/glossaire_dd.html#dedans">dedans</ref> le sein </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 606 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#606">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#606">1621</ref>
+            </hi>
+          </p><p>d'une
+  vieille et ingrate maîtresse ! Ô erreur indigne
+  d'un homme d'esprit et de courage ! Quand on dit
+  vieille, ne s'ensuit-il pas de nécessité, laide<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_l_aide">η</ref> ?
+  Que si elle est vieille et laide, où est le jugement
+  qui la tiendra pour être aimable ? Et quand on dit
+  ingrate, n'est-ce pas autant que trompeuse, perfide,
+  et dédaigneuse ? Mais si elle est telle, où est le
+  courage qui pourra <ref target="../../../_analyse/glossaire_ss.html#souffrir">souffrir</ref> de se soumettre à une si
+  outrageuse et indigne personne ? Que <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> ne
+  me demande donc plus en quoi l'on peut <ref target="../../../_analyse/glossaire_qr.html#reprendre">reprendre</ref> son
+  amour, et où l'on en peut trouver une plus parfaite,
+  puisque je m'assure qu'il n'y a personne en cette
+  troupe qui ne lui
+
+  dise : <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> aime, et <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> seul sait aimer en
+  homme d'esprit et de courage.<lb/>  Le Berger inconstant finit de cette sorte, s'étant
+  tellement ému par ses propres raisons qu'il en
+  était tout en feu. Chacun sourit, et tourna les
+  yeux sur <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> pour ouïr ce qu'il dirait, et
+  lui, pour leur satisfaire, répondit froidement de
+  cette sorte :<lb/>  - Je pensais, Madame, devoir parler à un Berger, et en
+présence des Dames et des Bergères, mais à ce que je
+vois, c'est à un de ces Orateurs qui haranguent
+devant les autels de l'<ref target="../../../_analyse/repertoire_aa.html#2_athenee">Athénée</ref> de <ref target="../../../_analyse/repertoire_ll.html#2_lyon">Lyon</ref>, tant <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>
+s'est laissé transporter à son bien-dire. <ref target="../../../_analyse/glossaire_ss.html#si">Si</ref> voudrais-je bien toutefois (voyez combien je suis
+assuré de la bonté de ma cause) que celui de nous
+deux qui sera condamné fût aussi rudement châtié
+que ceux qui ont la hardiesse de parler devant ces
+autels sacrés, que l'on contraint, ayant été
+vaincus, d'effacer leur harangue avec la langue, ou
+d'être plongés dans</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 607 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#607">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#607">1621</ref> </hi>
+          </p><p> le <ref target="../../../_analyse/repertoire_qr.html#2_rhone">Rhône</ref>. - Cela n'est pas
+  raisonnable, interrompit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, et si j'en eusse
+  été averti dès le commencement, j'eusse pris des
+  Juges qui ne m'eussent point été suspects, et à
+  tout  hasard j'eusse fait mon discours de moins
+  de paroles, afin, pour le moins, de n'avoir pas tant
+  de peine s'il le fallait effacer. - Et comment, dit
+  la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, vous nous jugez suspectes ! Et pourquoi
+  avez-vous cette <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> de nous ? - Parce, dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, que vous croyez toutes <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> comme un
+  oracle, et sous prétexte qu'il a été quelque temps
+  aux écoles<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_escoles">η</ref> des <ref target="../../../_analyse/repertoire_mm.html#2_massiliens">Massiliens</ref>, vous admirez tout ce
+  qu'il dit, et vous semble qu'il a toujours raison.
+  - Non, non, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, reprit incontinent <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>,
+  ne refuse point le jugement de cette <ref target="../../../_analyse/glossaire_gg.html#grand">grande</ref> <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>,
+  ni de la vénérable <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref>, et te <ref target="../../../_analyse/glossaire_qr.html#ressouvenir">ressouviens</ref> que
+  les Dieux ont plus ordinairement les pardons et les
+  bienfaits en la main que la Justice<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_justice">η</ref> et les
+  châtiments. - Mais, dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, ces Bergères, de qui
+  la condition ne les approche point davantage des
+  Dieux que nous, y ont leurs voix, encore qu'elles
+  ne jugent pas seules. - Ha ! <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, ajouta <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, tu offenses leurs mérites et leurs
+  beautés, qui peuvent bien les élever encore plus
+  haut que la condition la plus relevée qui soit en
+  terre. Mais ne crains rien, Berger, car je vois bien
+  qu'il n'y a personne ici qui se <ref target="../../../_analyse/glossaire_dd.html#disposer">dispose</ref> à la rigueur<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_rigueur">η</ref>,
+  et tout le châtiment que tu en dois attendre, c'est
+  seulement la connaissance de ton erreur.
+  <lb/>  Tu dis donc, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, qu'il n'y a point d'amour
+  parfaite sans l'acquisition du bien désiré, parce
+  qu'Amour n'est qu'un désir<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_desir">η</ref> du bien qui <ref target="../../../_analyse/glossaire_dd.html#defaillir">défaut</ref>.
+  Mais, Madame, <ref target="../../../_analyse/glossaire_aa.html#avant_que">avant que</ref> de </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 608 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#608">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#608">1621</ref>
+            </hi>
+          </p><p>répondre à
+
+  ce Berger, il faut que je vous supplie
+  très humblement de m'excuser, si, pour découvrir ses
+  subtilités, je suis contraint d'user de quelques
+  termes qui ne sont guère accoutumés <ref target="../../../_analyse/glossaire_pp.html#parmi">parmi</ref> nos
+  champs. Il m'y contraint, comme vous voyez, et me
+  force, pour soutenir la vérité, de parler de cette
+  sorte. - Or réponds-moi donc, Berger. Désire-t-on
+  ce que l'on possède ? Tu diras que non, puisque le
+  désir n'est que de ce qui <ref target="../../../_analyse/glossaire_dd.html#defaillir">défaut</ref>. Mais si l'Amour,
+  comme tu dis, n'est qu'un désir, ne vois-tu pas que
+  posséder ce que l'on désire, c'est<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_cest">η</ref> faire mourir
+  l'Amour, puisque personne ne désire ce qu'elle<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_elle_possede">η</ref> possède ? - Et comment, ajouta <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, on n'aime
+  point ce que l'on possède ? Si cela est, j'aime mieux
+  que tu aimes et que je n'aime point, afin que tu
+  désires et que je possède. - Cela n'est pas,
+  répondit <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, ce que je dis, mais c'est pour
+  te montrer que l'amour n'est pas seulement le désir
+  de la possession, comme tu nous voulais persuader,
+  et qu'au contraire cette possession la fait plutôt
+  mourir que vivre. - Si ce n'est, répliqua <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>,
+  ce qui l'a fait vivre, c'est pour le moins ce qui lui
+  donne sa perfection. - Ce n'est point cela encore,
+  dit <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, car elle n'est nullement nécessaire
+  pour parfaire l'amour, tout ainsi qu'un Diamant est
+  aussi parfait Diamant <ref target="../../../_analyse/glossaire_aa.html#avant_que">avant qu'</ref>être mis en œuvre
+  qu'après que l'artisan l'a poli, parce que, si la
+  perfection de l'Amour dépendait de cette jouissance,
+  il ne serait au pouvoir de celui qui aime d'aimer
+  parfaitement, puisque cette possession ne dépend
+  de lui mais du consentement d'un autre. Et
+  toutefois l'Amour </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 609 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#609">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#609">1621</ref>
+            </hi> </p><p>étant un acte de la volonté qui
+  se porte à ce que l'<ref target="../../../_analyse/glossaire_ee.html#entendement">entendement</ref> juge bon, et la
+  volonté étant libre en tout ce qu'elle fait, il
+  n'y a pas apparence que cette action, qui est la
+  principale des siennes, dépende d'autre que
+  d'elle-même. <lb/>  Mais soit <ref target="../../../_analyse/glossaire_aa.html#ainsi">ainsi</ref> qu'Amour ne soit qu'un désir, pour
+cela faut-il conclure, comme tu fais, à savoir
+qu'elle se peut augmenter en jouissant de ce que l'on
+désire ? Au contraire, si tu le considères, tu diras
+que l'amour en est moindre, parce que tu sais bien
+que notre âme ressemble en ceci à l'arc<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_arc">η</ref>, et tout
+ainsi que plus la corde est tendue et plus il jette
+la flèche avec violence, de même notre âme pousse
+bien avec plus de violence les désirs dont les
+<ref target="../../../_analyse/glossaire_ee.html#effect">effets</ref> lui sont malaisés et défendus que ceux dont
+l'accomplissement est en sa puissance. Que si les
+désirs s'amoindrissent quand ils sont faciles, à
+plus forte raison quand ils seront assouvis. Mais
+si l'Amour n'est qu'un désir, comment peux-tu
+
+penser qu'il augmente par la possession qui<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_qu_il">η</ref> diminue
+le désir ?<lb/>  Ne dis donc plus, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, que mon amour étant un désir
+ne peut être parfait sans la possession, et ne
+m'oppose plus, pour m'accuser d'arrogance, qu'il faut
+qu'il y ait de la proportion entre <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref> et moi,
+car si tu nies que l'homme doive aimer Dieu, je
+t'accorderai ce que tu dis ; mais si tu <ref target="../../../_analyse/glossaire_aa.html#avouer">avoues</ref> que
+c'est un des premiers commandements<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_commandemens">η</ref> qu'il nous fait,
+je te demanderai, Berger, quelle plus grande
+disproportion y a-t-il entre <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref> et moi que celle
+qui est entre le grand <ref target="../../../_analyse/repertoire_tt.html#2_tautates">Tautatès</ref> et <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> ? Et
+pour</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 610 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#610">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#610">1621</ref>
+            </hi>
+          </p><p> te sortir d'erreur, il faut que je t'explique
+  encore ce secret <ref target="../../../_analyse/glossaire_mm.html#mystere">mystère</ref> d'Amour. Nous ne pouvons
+  aimer <ref target="../../../_analyse/glossaire_qr.html#que">que</ref> nous ne connaissions la chose que nous
+  aimons. - Ô ! s'écria <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, combien est fausse
+  cette proposition ! J'ai aimé plus de cent Dames ou
+  Bergères, et je n'en connus jamais bien une, et pour
+  preuve de ce que je dis, aussitôt que je les
+  trouvais ingrates ou dédaigneuses, je les laissais,
+  et me retirais tout en colère de * ce que je les avais  estimées
+  autres que je ne les trouvais pas. - Cette preuve que
+  tu as faite, répondit <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, est celle qui te
+  doit faire <ref target="../../../_analyse/glossaire_aa.html#avouer">avouer</ref> ce que je viens de dire. Car tu
+  aimais ce que tu connaissais, c'est-à-dire qu'ayant <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> qu'elles eussent les perfections que tu
+  jugeais aimables, tu les aimais, mais ayant reconnu
+  la vérité, tu as <ref target="../../../_analyse/glossaire_ll.html#laisser">laissé</ref> de les aimer, et par là tu
+  vois que la connaissance de la perfection que tu
+  t'étais imaginée était la source de ton amour.
+  Et à la vérité, si la volonté dont naît l'Amour ne
+  se meut jamais qu'à ce que l'<ref target="../../../_analyse/glossaire_ee.html#entendement">entendement</ref> juge bon,
+  n'y ayant pas apparence que l'<ref target="../../../_analyse/glossaire_ee.html#entendement">entendement</ref> puisse juger
+  d'une chose dont il n'a point de connaissance, je ne
+  sais comment tu te peux imaginer qu'on puisse aimer
+  ce qu'on ne connaît point. Je t'<ref target="../../../_analyse/glossaire_aa.html#avouer">avouerai</ref> bien
+  toutefois que tout ainsi que la vue se trompe
+  quelquefois, de même l'<ref target="../../../_analyse/glossaire_ee.html#entendement">entendement</ref> se peut <ref target="../../../_analyse/glossaire_dd.html#decevoir">décevoir</ref>
+  et juger aimable ce qui ne l'est pas. Mais <ref target="../../../_analyse/glossaire_tt.html#tant_y">tant y a</ref> que l'Amour vient de la connaissance, soit-elle
+  fausse ou vraie. Or cela étant ainsi, n'as-tu pas
+  appris dans les écoles<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_escoles">η</ref> des <ref target="../../../_analyse/repertoire_mm.html#2_massiliens">Massiliens</ref> que
+  l'<ref target="../../../_analyse/glossaire_ee.html#entendement">entendement</ref> qui <ref target="../../../_analyse/glossaire_ee.html#entendre">entend</ref> et ce qui est <ref target="../../../_analyse/glossaire_ee.html#entendre">entendu</ref> ne
+  sont qu'une même chose ? Et me dis, berger, puisque j'aime</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 611 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#611">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#611">1621</ref> </hi>
+          </p><p> <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref>, et que je ne la puis aimer sans la
+  connaître, quelle plus grande proportion peux-tu
+  désirer que celle qui est entre deux choses qui n'en
+  sont qu'une ? - Te voici revenu, dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, d'où
+  tu partis hier<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_hyer">η</ref> au soir. Et quoi, <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, tu es
+  encore <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref> comme tu étais hier<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_chronologie">η</ref> ? Vraiment, <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref>, dit-il, se tournant vers elle, vous êtes un
+  beau garçon,
+
+  et vous, <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, continua-t-il, s'adressant au
+  Berger, vous êtes une belle pucelle. Crois-moi,
+  Berger, que pour peu que tu continues, ta compagnie
+  ne sera point désagréable, et que tu te<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_tu_rendras">η</ref> rendras un
+  fol aussi plaisant que jamais la <ref target="../../../_analyse/repertoire_ff.html#2_fontfort">Fontfort</ref> en ait
+  produit en <ref target="../../../_analyse/repertoire_ff.html#2_forez">Forez</ref>. Chacun se mit à rire et <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> même ne s'en put
+empêcher, oyant la façon dont il parlait, et comment
+il expliquait ce qu'il avait dit. Cela fut cause
+que, reprenant la parole, il continua ainsi :<lb/>  - Tu as raison, Berger, de te moquer de moi, puisque
+je ne devrais profaner ces <ref target="../../../_analyse/glossaire_mm.html#mystere">mystères</ref> en te les
+communiquant ! Aussi ne le ferais-je si tu étais
+seul, mais j'y suis contraint pour ne laisser en
+erreur ceux qui nous écoutent. Et puisque tu ne
+veux recevoir ce que je t'ai dit, tu ne refuseras
+peut-être ce que tu viens de m'opposer en parlant
+de <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref>. Je veux dire que tu <ref target="../../../_analyse/glossaire_aa.html#alleguer">allègues</ref> pour une
+bonne raison l'<ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> que tu as de ton mérite et
+de celui de <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref>, que tu n'estimes point tant
+que le tien ne le puisse égaler ; car si ta <ref target="../../../_analyse/glossaire_cc.html#creance">créance</ref> peut cela en toi, pourquoi ne veux-tu que celle que
+j'ai de moi en puisse autant à mon avantage ? Or
+je crois que la même proportion qui est entre le feu
+et le bois qu'il brûle est entre</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 612 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#612">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#612">1621</ref>
+            </hi>
+          </p><p> <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref> et moi ;
+  que si tu me nies ce que j'en dis, hé ! mon ami,
+  pourquoi veux-tu avoir plus de privilège ?  Mais je dirai bien avec assurance que <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> n'aime
+  point <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref>. Car qu'il y ait quelque chose plus
+  parfaite qu'elle, je m'en remets à la vérité, et
+  n'en veux pas être le juge ; mais que tu aies cette
+  mauvaise <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> d'elle et que tu l'aimes, je dirai
+  et soutiendrai bien qu'il est entièrement
+  impossible, puisque l'une des premières Ordonnances<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_ordonnances">η</ref>  d'Amour c'est QUE L'AMANT CROIE TOUTES CHOSES TRÈS PARFAITES EN LA PERSONNE AIMÉE. Et à la vérité,
+  cette loi est très juste et fondée sur toute <ref target="../../../_analyse/glossaire_ss.html#sorte">sorte</ref> de raison, car si l'amant doit plus aimer sa
+  maîtresse que toutes les choses de l'Univers, ne
+  faut-il pas, puisque la volonté le porte toujours
+  à ce que l'<ref target="../../../_analyse/glossaire_ee.html#entendement">entendement</ref> lui dit être le meilleur,
+  qu'il l'estime plus que toute autre chose ? Mais ce
+  n'est pas en cela seul que tu fais paraître que c'est <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> que tu aimes et <ref target="../../../_analyse/glossaire_no.html#non">non pas</ref> <ref target="../../../_analyse/personnage_pp.html#2_phillis">Phillis</ref>, comme on
+  voit en ce que tu dis que l'on n'aime que pour avoir
+  son propre contentement. Les <ref target="../../../_analyse/glossaire_tt.html#travail">travaux</ref> que les amants
+  reçoivent volontiers seulement pour faire service à
+  celles qu'ils aiment font bien paraître le
+  contraire, et n'as-tu jamais ouï
+
+  dire que nous vivons plus où nous aimons qu'où nous
+  respirons ? - C'est ce que je ne croirai jamais,
+  répondit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, tournant dédaigneusement la tête
+  de l'autre côté, tous ces discours ne procèdent que
+  de quelques imaginations blessées comme la tienne !
+  - J'<ref target="../../../_analyse/glossaire_aa.html#avouer">avoue</ref>, dit <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, que</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 613 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#613">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#613">1621</ref>
+            </hi>
+          </p><p> ces discours viennent
+  de quelques imaginations blessées, mais celle d'un
+  amant ne l'est-elle pas ? Malaisément, si cela
+  n'était, nous verrait-on mourir de déplaisir pour
+  la moindre parole que l'on nous dit, pour un clin
+  d'œil, voire pour un soupçon ! Malaisément, nous
+  verrait-on dédaigner tout repos, et tout autre
+  contentement pour jouir un moment de la vue de la
+  personne aimée. Mais si tu savais, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, quelle
+  félicité c'est d'<ref target="../../../_analyse/glossaire_aa.html#affole">affoler</ref> pour ce sujet, tu dirais que
+  toute la sagesse du monde n'est point estimable au
+  prix de cette heureuse folie. Que si tu étais
+  capable de la comprendre, tu ne me demanderais pas,
+  comme tu fais, quels plaisirs reçoivent ces fidèles
+  amants que tu nommes mornes et pensifs, car tu
+  connaîtrais qu'ils demeurent de sorte <ref target="../../../_analyse/glossaire_qr.html#ravi">ravis</ref> en la
+  contemplation du bien qu'ils adorent que, méprisant
+  tout ce qui est en l'univers, il n'y a rien qu'ils <ref target="../../../_analyse/glossaire_pp.html#plaindre">plaignent</ref> plus que la perte du temps qu'ils
+  emploient ailleurs, et que leur âme, n'ayant assez
+  de force pour bien comprendre la grandeur de leur
+  contentement, demeure <ref target="../../../_analyse/glossaire_ee.html#estonner">étonnée</ref> de tant de trésors
+  et de tant de félicités qui surpassent la
+  connaissance qu'elle en peut avoir. Et contente-toi
+  pour ce <ref target="../../../_analyse/glossaire_cc.html#coup">coup</ref> de savoir que le bien dont <ref target="../../../_analyse/repertoire_aa.html#2_amour">Amour</ref>  récompense les fidèles amants est celui-là même qu'il
+  peut donner aux Dieux, et à ces hommes qui, s'élevant
+  par-dessus la nature des hommes, se rendent presque
+  Dieux. Car les autres plaisirs dont tu fais tant de
+  compte ne sont que ceux qu'un amour bâtard donne
+  aux animaux sans raison, et à ces hommes qui,
+  s'abaissant par-dessous la nature des hommes, </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 614 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#614">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#614">1621</ref>
+            </hi>
+          </p><p>se
+  rendent presque animaux privés de la raison.<lb/>  Et c'est en ce monstre, ô <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> ! que tu <ref target="../../../_analyse/glossaire_dd.html#degenerer">dégénères</ref>,
+  quand tu aimes autrement que tu ne dois, en ce
+  monstre, dis-je, qui se fait bien paraître tel en
+  toi, puisque, comme les monstres<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_monstres">η</ref>, il est sans
+  proportion, que, comme les monstres, il ne peut
+  produire son semblable, et bref, que, comme les
+  monstres, il ne peut vivre longuement. Au contraire,
+  mon Amour est quelque chose de si parfait que rien
+  n'y peut être ajouté ni diminué sans faire
+  offense à la raison ! Car, soit en la grandeur qui
+  égale le sujet qu'il s'est proposé, soit en la
+  qualité en laquelle la vertu ne peut rien remarquer
+  qui lui puisse déplaire, je puis dire sans vanité
+
+  qu'il est parvenu à la perfection. Que si j'ai dit
+  que mon affection ne pouvait être <ref target="../../../_analyse/glossaire_qr.html#reprendre">reprise</ref>, c'est avec
+  raison, puisqu'outre que celle qui l'a fait naître
+  en moi ne produit jamais rien qui ne soit parfait,
+  encore sais-je bien que les Dieux me châtieraient si
+  j'osais offrir à une âme si parfaite une affection
+  qui peut être blâmée. <lb/>  <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> voulait continuer, lorsque <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, ne
+pouvant patienter plus longtemps, l'interrompit
+tout à coup de cette sorte : - Jusques à quand enfin,
+<ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, abuseras-tu de la patience de ceux qui
+t'écoutent ? Jusques à quand nous rempliras-tu les
+oreilles de tes vanités et de tes imaginations ?
+Et jusques à quand espères-tu que je puisse <ref target="../../../_analyse/glossaire_ss.html#souffrir">souffrir</ref> l'impertinence de tes paroles ? Toute la troupe qui était attentive au discours
+de <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> fut si surprise d'ouïr parler <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>
+d'une voix si éclatante qu'après l'avoir considéré
+quelque </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 615 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#615">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#615">1621</ref>
+            </hi>
+          </p><p>temps, chacun se prit si fort à rire qu'il
+  fut contraint de se taire. Et parce que la plus grande
+  partie du jour<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_2.html#2_chronologie">η</ref> était déjà passée, et que <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> avait dessein de s'en retourner vers <ref target="../../../_analyse/personnage_aa.html#2_adamas">Adamas</ref> pour
+  lui raconter ce qu'elle avait vu, elle dit à <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>,
+  lorsqu'il voulait reprendre la parole : - Non, non, <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, c'est assez <ref target="../../../_analyse/glossaire_dd.html#disputer">disputer</ref> pour cette fois. La
+  vénérable <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref> n'a pas accoutumé de laisser
+  son temple ni sa <ref target="../../../_analyse/repertoire_bb.html#2_bonne_deesse">Bonne Déesse</ref> si longtemps sans les
+  revoir ! Qu'il vous suffise, Berger, que nous savons
+  bien que vous avez de fort bonnes raisons contre <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref>, mais nous vous prions de les remettre à
+  une autre fois !Et <ref target="../../../_analyse/glossaire_cc.html#cependant">cependant</ref> nous nous en irons
+  avec cette <ref target="../../../_analyse/glossaire_cc.html#creance">créance</ref>  que si vous eussiez eu du loisir
+  de parler, vous eussiez eu sans doute autant
+  d'avantage sur ce Berger qu'il en emporte par-dessus
+  vous. - Voilà <ref target="../../../_analyse/glossaire_qr.html#que">que</ref> c'est, dit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, à moitié en
+  colère, il faut, comment que ce soit, que nous
+  tenions toujours quelque chose de l'imperfection de
+  notre nature. - Que dites-vous ? ajouta la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>.
+  - Je dis, répondit <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref>, qu'encore que vous soyez <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, il faut que vous fassiez paraître que vous
+  êtes femme, n'ayant pas la patience d'ouïr la
+  vérité, et vous plaisant si fort aux <ref target="../../../_analyse/glossaire_ff.html#flatter">flatteries</ref> de ce Berger qui vous trompe. - Vous ne m'offensez
+  point, dit <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref> en souriant, de m'appeler
+  femme, car véritablement je la suis et la veux être,
+  et ne voudrais pas avoir changé avec le plus habile
+  homme de cette contrée. Mais je ne sais pourquoi
+  vous m'accusez de la faute que <ref target="../../../_analyse/personnage_ss.html#2_silvandre">Silvandre</ref> a faite
+  en rapportant de trop bonnes raisons, et de celle que <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> a commise en lui répliquant si mal.  </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 616 ] <ref target="../../preliminaire/10_2/10_2_livre_9.html#616">1610</ref> <ref target="../../reference/21_2/21_2_livre_9.html#616">1621</ref>
+            </hi>
+          </p><p>  Il n'y a point de doute que <ref target="../../../_analyse/personnage_hh.html#2_hylas">Hylas</ref> eût répondu,
+  s'il eût bien ouï la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, mais s'en étant allé
+  de colère aussitôt qu'il eut achevé de parler, il
+  n'entendit point ces dernières paroles. Et <ref target="../../../_analyse/personnage_ll.html#2_leonide">Léonide</ref>,
+  voyant qu'il se faisait tard, après quelques
+  discours communs, se retira en compagnie de la
+  vénérable <ref target="../../../_analyse/personnage_cc.html#2_chrisante">Chrisante</ref> et ses filles <ref target="../../../_analyse/glossaire_dd.html#druide">Druides</ref> au
+  temple de la <ref target="../../../_analyse/repertoire_bb.html#2_bonne_deesse">Bonne
+    Déesse</ref>, et après le <ref target="../../../_analyse/glossaire_dd.html#disner">dîner</ref>, s'en
+  alla trouver <ref target="../../../_analyse/personnage_aa.html#2_adamas">Adamas</ref> sans que <ref target="../../../_analyse/personnage_pp.html#2_paris">Paris</ref> la voulût
+  suivre, parce que l'affection qu'il portait à <ref target="../../../_analyse/personnage_dd.html#2_diane">Diane</ref> était telle qu'il n'avait autre contentement que
+  d'être auprès d'elle. La <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> donc s'en allant
+  chez son Oncle, <ref target="../../../_analyse/personnage_pp.html#2_paris">Paris</ref> prit le chemin contraire, et
+  ayant retrouvé ces belles Bergères, s'<ref target="../../../_analyse/glossaire_aa.html#arrester">arrêta</ref> avec
+  elles presque tout le reste du jour. </p><p> </p><p rend="center_t">
+            <graphic url="../../../images/fin_livre9.jpg" rend="img" mimeType="image/jpeg"/>
+          </p><p> </p><p> </p><!--<script>--><!--</script>--><!--<script>--><!--</script>--><!--<script>--><!--</script>--><ref target="fonctionnelle_2_livre_8.html">
+            <graphic url="../../../images/fleche_g.gif" rend="img" mimeType="image/gif"/>
+            <hi style="float:left; margin-top:6px">Livre 8</hi>
+          </ref><ref target="fonctionnelle_2_livre_10.html">
+            <graphic url="../../../images/fleche_d.gif" rend="img" mimeType="image/gif"/>
+            <hi style="float:right; margin-top:6px">Livre 10</hi>
+          </ref><lb/><lb/><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../../../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

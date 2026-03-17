@@ -1,0 +1,2184 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Astrée fonctionnelle, I, 11 - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../../../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../../../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="../../../_analyse/index_noms_propres.html">Index des noms propres</ref><lb/><ref target="../../../_analyse/personnage.html">Tableaux des personnages</ref><lb/><ref target="../../../_analyse/repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="../../../_analyse/glossaire.html">Glossaire</ref><lb/><ref target="../../../_analyse/dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="../../../_analyse/notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="../../../_analyse/plan_du_site.html">Plan du site</ref><lb/><ref target="../../../_analyse/plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="../../../_analyse/bibliographie.html">Bibliographie</ref><lb/><ref target="../../../_analyse/liens.html">Liens externes</ref><lb/><ref target="../../../_analyse/liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="../../../_analyse/guide.html">Guide de la navigation</ref><lb/><ref target="../../../_analyse/faq.html">FAQ</ref><lb/><ref target="../../../_analyse/nouveautes.html">Nouveautés</ref><lb/><ref target="../../../_analyse/remerciements.html">Remerciements</ref><lb/><ref target="../../../_analyse/cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../../../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><hi rend="white">
+            <hi rend="bold">MONTRER</hi>
+            <lb/>
+<!--<input
+  type="checkbox"
+  id="chk_annotation"
+  name="chk_annotation"
+  onclick="ToggleAnnotation()">--><!--</input>-->
+            <hi rend="leftmenu" onclick="ToggleCheck('annotation')">Annotations</hi>
+     <hi xml:id="couleurs">
+              <lb/>
+   <!--<input
+  type="checkbox"
+  id="chk_couleur"
+  name="chk_couleur"
+  onclick="ToggleCouleur()">--><!--</input>-->
+              <hi rend="leftmenu" onclick="ToggleCheck('couleur')">colorées</hi>
+     </hi>
+            <lb/>
+<hi xml:id="chk_var">
+  <!--<input
+  type="checkbox"
+  id="chk_variante"
+  name="chk_variante"
+  onclick="ToggleVariante()">--><!--</input>-->
+              <hi rend="leftmenu" onclick="ToggleCheck('variante')">Variantes</hi>
+	<hi xml:id="explicite">
+                <lb/>
+   <!--<input
+  type="checkbox"
+  id="chk_explicite"
+  onclick="ToggleExplicite()">--><!--</input>-->
+                <hi rend="leftmenu" onclick="ToggleCheck('explicite')">explicites</hi>
+    </hi>
+              <lb/>
+    </hi>
+</hi><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="../../../_analyse/accueil.html">Accueil</ref><lb/><ref target="../../../_analyse/preface.html">Préface</ref><lb/><ref target="../../../_analyse/choix.html">Choix éditoriaux</ref><lb/><ref target="../../../_analyse/quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="../../../_analyse/astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="../../../_analyse/vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="../../../_analyse/texte.html">Présentation des textes</ref><lb/><ref target="../../../_analyse/feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../../reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../../reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../../reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../../reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../../reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../../preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../../preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../../preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../../preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="../../../_analyse/resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="../../../_analyse/plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="../../../_analyse/evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="../../../_analyse/variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="../../../_analyse/variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../../../_analyse/illustrations.html">Analyse des illustrations</ref><lb/><ref target="../../../_analyse/paralleles.html">Parallèles suggérés</ref><lb/><ref target="../../../_analyse/resume.html">Résumé des intrigues</ref><lb/><ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref><lb/><ref target="../../../_analyse/temoignages.html">Témoignages</ref><lb/><ref target="../../../_analyse/temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="../../../_analyse/temoignages.html#sorel">Sorel</ref><lb/><ref target="../../../_analyse/temoignages.html#gueret">Guéret</ref><lb/><ref target="../../../_analyse/lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="../../../_analyse/urfe.html">Biographie</ref><lb/><ref target="../../../_analyse/biographes.html">Biographes, critiques</ref><lb/><ref target="../../../_analyse/evenements.html">Événements</ref><lb/><lb/><ref target="../../../_analyse/genealogie.html">Généalogie</ref><lb/><ref target="../../../_analyse/testament.html">Testament</ref><lb/><ref target="../../../_analyse/inventaire.html">Inventaire</ref><lb/><ref target="../../../_analyse/heritages.html">Héritages</ref><lb/><lb/><ref target="../../../_analyse/poemes.html">Poèmes</ref><lb/><ref target="../../../_analyse/epitres.html">Épîtres</ref><lb/><ref target="../../../_analyse/lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="../../../_analyse/jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="../../../_analyse/malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="../../../_analyse/bibliographie.html">Bibliographie</ref><lb/><ref target="../../../_analyse/liens.html">Liens externes</ref><lb/><ref target="../../../_analyse/liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="../../../_analyse/cartotheque.html">Cartothèque</ref><lb/><ref target="../../../_analyse/galerie.html">Galerie de portraits</ref><lb/><ref target="../../../_analyse/rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="../../../_analyse/partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="../../../_analyse/photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../../../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../../../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../../../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../../../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="../../../_analyse/recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="../../../_analyse/recherche.html">Fils d'Arianne</ref><lb/><ref target="../../../_analyse/hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="../../../_analyse/recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="../../../_analyse/concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="../../../_analyse/guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><hi rend="italic">L'Astrée </hi><!--<script>--><!--</script>--><table rend="small8 nocellborder" style=" background-image:url(../../../images/parchemin4.gif); text-align:left; z-index:4; width:100%">
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_liminaires.html">Liminaires</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_1_livre_7.html">Livre 7</ref>
+	
+	</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_livre_1.html">Livre 1</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	<ref target="fonctionnelle_1_livre_8.html">Livre 8</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_livre_2.html">Livre 2</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_1_livre_9.html">Livre 9</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_livre_3.html">Livre 3</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_1_livre_10.html">Livre 10</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_livre_4.html">Livre 4</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_1_livre_11.html">Livre 11</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+                  <ref target="fonctionnelle_1_livre_5.html">Livre 5</ref>
+                </cell>
+                <cell colspan="1" rowspan="1">
+    
+	  <ref target="fonctionnelle_1_livre_12.html">Livre 12</ref>
+    
+    </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1">
+    
+ 	  <ref target="fonctionnelle_1_livre_6.html">Livre 6</ref>
+    
+    </cell>
+                <cell colspan="1" rowspan="1">
+	
+    <ref target="fonctionnelle_1_tables.html">Tables</ref>	
+		</cell>
+              </row>
+              <row>
+                <cell colspan="2" rowspan="1">
+	  
+    <ref target="fonctionnelle_1_liminaires.html#privilege">Privilège</ref>	  
+	  	    </cell>
+              </row>
+            </table><lb/><lb/><ref target="../../../_analyse/resume.html">Résumé du roman</ref><lb/><ref target="../../../_analyse/chronologie_historique.html">Chronologie historique</ref><lb/><ref target="../../../_analyse/choix.html">Choix éditoriaux</ref><lb/><ref target="../../../_analyse/texte.html">Présentation des textes</ref><lb/><ref target="../../../_analyse/evolution.html">Évolution</ref><lb/><ref target="../../../_analyse/illustrations.html">Illustrations</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../../../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../../../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><!--<script>--><!--</script>--><hi rend="italic">L'Astrée fonctionnelle</hi><lb/><hi rend="italic">L'Astrée</hi><ref target="fonctionnelle_1_livre_10.html">
+          <graphic url="../../../images/fleche_g.gif" rend="img" mimeType="image/gif"/>
+          <hi style="float:left; margin-top:6px">Livre 10</hi>
+        </ref><ref target="fonctionnelle_1_livre_12.html">
+          <graphic url="../../../images/fleche_d.gif" rend="img" mimeType="image/gif"/>
+          <hi style="float:right; margin-top:6px">Livre 12</hi>
+        </ref><lb/><lb/><!--<header>--><div><div><head>
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>
+              <hi rend="italic">L'Astrée</hi>
+	    d'Honoré d'Urfé<lb/>
+    Première partie </head><!--</header>--><!--<header>--></div></div><div><head>Livre 11</head><!--</header>--><lb/><p><graphic url="../../../images/gravures_vaganay/premiere/1-11-1.jpg" rend="img" mimeType="image/jpeg"/></p><lb/><hi rend="titre9">
+              <hi rend="italic">L'Astrée</hi> I, 11.
+Édition <ref target="../../../_analyse/bibliographie.html#vaganay**">Vaganay**</ref>, 1925<lb/>
+Gravure signée M(ichel Lasne)<lb/>
+Le messager de <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> (<ref target="../../../_analyse/personnage_ee.html#egide">Égide</ref>) va annoncer la mort de son maître à<lb/>
+<ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref> en présence de <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, de <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref> et d'un personnage supplémentaire <lb/>
+(<ref target="../../reference/21_1/21_1_livre_11.html#355_recto">I, 11, 355 recto</ref>)<lb/>
+Au fond,  devant ses juges, <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> se bat contre un deuxième lion (<ref target="../../reference/21_1/21_1_livre_11.html#360_recto">I, 11, 360 recto</ref>) <lb/>
+<ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref> à genoux le réclame (<ref target="../../reference/21_1/21_1_livre_11.html#360_recto">I, 11, 360 recto</ref>)</hi><lb/><hi rend="titre9">(Voir <ref target="../../../_analyse/illustrations.html#gravures_ajoutees">Illustrations</ref>)</hi><lb/><lb/><lb/><p><graphic url="../../../images/gravures_vaganay/premiere/1-11-2.jpg" rend="img" mimeType="image/jpeg"/></p><lb/><hi rend="titre9">
+              <hi rend="italic">L'Astrée</hi> I, 11.
+Édition <ref target="../../../_analyse/bibliographie.html#vaganay**">Vaganay**</ref>, 1925 <lb/>
+Pendant la cérémonie du mariage, <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> prend la coupe empoisonnée <lb/>
+sous les yeux d'<ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref> (<ref target="../../reference/21_1/21_1_livre_11.html#362_verso">I, 11, 362 verso</ref>)</hi><lb/><hi rend="titre9">(Voir <ref target="../../../_analyse/illustrations.html#gravures_ajoutees">Illustrations</ref>)</hi><lb/><lb/><p> Édition de 1607, 452 recto (sic pour 352 recto). <lb/>Édition de Vaganay, p. 421. </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">361 recto sic</hi> 351 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#351_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#351_recto">1621</ref>
+            </hi>
+          </p><p>  <ref target="../../../_analyse/personnage_cc.html#celadon">
+              <hi rend="debut_livre">C</hi>éladon</ref> allait de cette sorte racontant à la
+    <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> l'histoire de <ref target="../../../_analyse/personnage_cc.html#celion">Celion</ref> et de <ref target="../../../_analyse/personnage_bb.html#bellinde">Bellinde</ref>,
+    cependant que <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref> et <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref> parlaient
+    des nouvelles que <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref> leur avait rapportées ; car, aussitôt que la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> aperçut <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>,
+    elle la tira à part et lui dit qu'elle empêchât
+    que <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref> ne vît <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>. - Car, disait-elle,
+    il est tant acquis à <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref> qu'il serait assez
+    bête pour lui dire tout ce qu'il aurait vu. Entretenez-le donc, et quand j'aurai vu mes lettres,
+    je vous dirai ce qu'il y aura de nouveau.
+À ce mot, la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> sortit de la chambre et  emmena <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref> avec elle, et après quelques autres paroles,
+    elle lui dit : - Et bien, <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref>, quelles nouvelles
+    apportes-tu à Madame ?  - Fort bonnes, répondit-il,
+    et toutes telles que vous et elle sauriez désirer.
+    Car <ref target="../../../_analyse/personnage_cc.html#clidaman">Clidaman</ref>
+      <lb/>
+      <lb/>
+      <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">361 verso sic</hi> 351 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#351_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#351_verso">1621</ref>
+            </hi>
+          </p><p>se porte bien, et <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref> a fait tant
+de merveilles en la bataille où il s'est trouvé que
+<ref target="../../../_analyse/personnage_mm.html#merovee">Mérovée</ref>
+et <ref target="../../../_analyse/personnage_cc.html#childeric">Childéric</ref> l'estiment comme mérite sa
+vertu. Mais il y avait avec moi un jeune homme<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#351_verso_a">η</ref> qui
+voulait<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#351_verso">η</ref>     parler à <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, à qui ceux de la porte
+n'ont permis d'entrer, qui vous en racontera bien
+mieux toutes les particularités, d'autant qu'il en
+vient. Et moi, j'ai pris ces lettres chez ma tante, où
+un de ceux de <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref> les a portées, qui attend
+la réponse. - Et ne sais-tu point, répliqua la
+<ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, ce qu'il veut à <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref> ?  - Non,
+répondit-il, car il ne l'a jamais voulu dire. - Il
+faut, dit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, qu'il entre.
+À ce mot, s'en allant à la porte, elle reconnut
+incontinent ce jeune  homme pour l'avoir vu souvent
+avec <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, qu'il lui fit juger qu'il apportait
+à <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref> de ses nouvelles. Et parce qu'elle savait
+combien sa compagne désirait que ces affaires fussent
+secrètes, elle ne lui en voulut rien demander,  feignant de ne le connaître, et seulement lui dit
+qu'elle en avertirait <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>.
+Puis, retirant encore <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref> à part :  - Tu sais bien,
+<ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref>, lui dit-elle, mon ami, le malheur qui<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#351_verso_b">η</ref> est arrivé à <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref>. - Comment, répondit
+<ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref>, <ref target="../../../_analyse/glossaire_tt.html#tant_s_en">tant</ref> s'en faut nous le devons croire
+<ref target="../../../_analyse/glossaire_hh.html#heureux">heureux</ref>, car il acquiert tant de gloire où il est
+qu'à son retour <ref target="../../../_analyse/personnage_aa.html#amasis">Amasis</ref> n'oserait lui refuser
+<ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref> ! - Ô <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref>, que dis-tu ! Si tu savais
+comme toutes choses se passent, tu avouerais que le
+voyage de notre ami est pour lui celui de la mort,
+car je ne fais point de doute qu'à son retour il ne
+meure de regret. - Mon Dieu ! dit-il, que me
+dites-vous ?  - <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref>, répliqua-t-elle, il est</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">362 recto sic</hi> 352 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#352_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#352_recto">1621</ref>
+            </hi>
+          </p><p>ainsi que je te le dis, et ne crois point qu'il y
+    ait du remède s'il ne vient de toi. - De moi ?
+    dit-il, s'il peut venir de moi, tenez-le pour assuré,
+    car il n'y a rien au monde que je ne fasse. - <ref target="../../../_analyse/glossaire_no.html#or_maintenant">Or</ref>, dit
+    la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, sois donc <ref target="../../../_analyse/glossaire_ss.html#secret">secret</ref>, et <ref target="../../../_analyse/glossaire_aa.html#a">à</ref> ce soir je t'en
+    dirai davantage, mais pour cette heure il faut que
+    je sache ce qu'écrit le pauvre absent. - Il a
+    envoyé, dit-il, ces lettres par un jeune homme qui
+    avait charge de les porter chez ma tante, elle me les a incontinent
+	 envoyées, et en voici une qu'il
+    vous écrit.
+Elle l'ouvrit, et vit qu'elle était telle : </p><p rend="center_t">
+            
+            <hi rend="titres">Lettre de <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref> à <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>
+            </hi>
+          </p><p rend="italics">  <hi rend="first">A</hi>utant que l'éloignement a eu peu de puissance sur
+mon âme, autant ai-je peur qu'il n'en ait eu beaucoup
+sur celle que j'adore. Ma <ref target="../../../_analyse/glossaire_ff.html#foi">foi</ref> me dit bien que non,
+mais ma <ref target="../../../_analyse/glossaire_ff.html#fortune">fortune</ref> me menace du contraire, toutefois,
+l'assurance que j'ai en la <ref target="../../../_analyse/glossaire_pp.html#prudence">prudence</ref> de ma confidente
+me fait vivre avec moins de crainte que si ma
+<ref target="../../../_analyse/glossaire_mm.html#memoire">mémoire</ref> y était seule. Ressouvenez-vous donc de ne
+ tromper l'espérance que j'ai
+			en
+     vous, ni démentir les assurances de notre amitié. </p><p>  <ref target="../../../_analyse/glossaire_no.html#or_bien">Or bien</ref>, dit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, va-t'en au lieu plus </p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">362 verso sic</hi> 352 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#352_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#352_verso">1621</ref>
+            </hi>
+          </p><p>proche
+      d'ici, où tu dormiras ce soir, et reviens ici de bon
+      matin, puis je te ferai savoir une histoire dont
+      tu seras bien <ref target="../../../_analyse/glossaire_ee.html#estonner">étonné</ref>. Là-dessus elle appela ce
+      jeune homme qui voulait<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#352_verso_a">η</ref> parler à <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, et le
+      conduisit avec elle jusques à l'antichambre de
+      <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, où, l'ayant fait attendre, elle entra
+      dedans, et fit savoir à la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> ce qu'elle avait
+      fait de <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref>. - Il faut, dit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, que vous
+      lisiez la lettre que <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref> m'écrit,
+	  et lors
+      elle vit qu'elle était telle :</p><p rend="center_t titres">
+      Lettre de <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref> <lb/>
+      à <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>
+          </p><p rend="italics">  Ni le retardement de mon voyage, ni les horreurs
+        de la guerre, ni les beautés de ces nouvelles
+        hôtesses<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#352_verso">η</ref> de la <ref target="../../../_analyse/repertoire_gg.html#gaule">Gaule</ref> ne peuvent tellement occuper
+        le souvenir que votre fidèle serviteur a de vous
+        qu'il ne revole continuellement au bienheureux
+        séjour où, en vous éloignant, je laissai toute ma
+        gloire ;  si bien que, ne pouvant refuser à mon
+        affection la <ref target="../../../_analyse/glossaire_cc.html#curieux">curiosité</ref> de savoir comme Madame se
+        porte, après vous avoir mille fois baisé la robe,
+      je vous présente toutes les bonnes <ref target="../../../_analyse/glossaire_ff.html#fortune">fortunes</ref> dont<lb/>
+      <lb/>
+      <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">363 recto sic</hi> 353 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#353_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#353_recto">1621</ref>
+            </hi>  <lb/>
+            <lb/>les armes m'ont voulu favoriser et les offre à vos
+        pieds, comme à la divinité dont je les reconnais.
+        Si vous les recevez pour vôtres, la renommée les
+        vous  donnera de ma part, qui me l'a promis ainsi,
+        aussi bien que vous l'honneur de vos bonnes grâces
+à votre très humble serviteur.</p><p>  Je me soucie fort, dit alors <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, ni de lui
+        ni de ses victoires, il m'obligerait davantage
+        s'il m'oubliait. - Pour Dieu, Madame, dit <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>,
+        ne dites point cela ! Si vous saviez combien il est
+        estimé, et par <ref target="../../../_analyse/personnage_mm.html#merovee">Mérovée</ref> et par <ref target="../../../_analyse/personnage_cc.html#childeric">Childéric</ref>, je ne
+        saurais croire, étant née ce que vous êtes, que
+        vous n'en fissiez plus de cas que d'un Berger, mais je dis Berger qui ne vous aime point, et que vous
+        voyez soupirer devant vous pour l'affection d'une
+        Bergère. Vous croyez que tout ce que je vous en dis
+        soit par artifice. - Il est vrai, dit incontinent
+        <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>. - Et bien, Madame, répondit-elle, vous
+        en croirez ce qu'il vous plaira, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> vous jurerai-je
+        sur tout ce qui est plus à craindre aux parjures,
+        que j'ai vu <ref target="../../../_analyse/glossaire_aa.html#a">à</ref> ce voyage, par un grand <ref target="../../../_analyse/glossaire_hh.html#hazard">hasard</ref>, ce
+        trompeur de <ref target="../../../_analyse/personnage_cc.html#climanthe">Climanthe</ref> et cet <ref target="../../../_analyse/glossaire_aa.html#artificieux">artificieux</ref> de <ref target="../../../_analyse/personnage_pp.html#polemas">Polémas</ref> parlant de ce qui vous est arrivé, et
+        découvrant entre eux toutes les malices dont ils
+        ont usé. - <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>, ajouta <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, vous perdez<lb/>
+        <lb/>
+	  <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">363 verso sic</hi> 353 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#353_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#353_verso">1621</ref>
+            </hi>
+          </p><p> temps,   je suis toute résolue à ce que je veux faire,
+        ne m'en parlez plus. - Je le ferai, Madame, comme vous
+        me le commandez, dit-elle, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> me permettrez-vous
+        encore de vous dire ce mot : Qu'est-ce, Madame, que
+        vous prétendez faire avec ce Berger ?  - Je veux,
+        dit-elle, qu'il m'aime. - Et en quoi, répliqua
+        <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>, <ref target="../../../_analyse/glossaire_dd.html#desseigner">desseignez</ref>-vous que cette amitié se
+        conclue ?  - Que vous êtes fâcheuse, dit <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>,
+        de vouloir que je sache l'avenir ! Laissez seulement
+        qu'il m'aime, et puis nous verrons que nous ferons.
+        - Encore, continua <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>,  que l'on ne sache l'avenir, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> faut-il
+        en tous nos  desseins  avoir quelque but auquel nous
+        les adressions. - Je le crois, dit <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, sinon
+        en ceux de l'Amour, et pour moi, je n'en veux point
+        avoir d'autre sinon qu'il m'aime. - Il faut bien,
+        répliqua <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>, qu'il soit ainsi, car il n'y a
+        pas apparence que vous le vouliez épouser, et,
+        ne l'épousant pas, que deviendra cet honneur que
+        vous vous êtes si longuement conservé ?  Car il ne
+        peut être que cette nouvelle amitié vous aveugle
+        de sorte que vous ne connaissiez bien le tort que
+        vous vous faites, de vouloir pour amant un homme que
+        vous ne<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#353_verso">η</ref>  voulez pour mari. - Et vous, dit-elle,
+        <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>, qui faites tant la scrupuleuse, dites en
+        vérité, avez-vous envie de l'épouser ?  - Moi,
+        Madame, répondit-elle, je le tiens être trop peu
+        de chose, et vous supplie très humblement de ne me
+        croire point de si peu de <ref target="../../../_analyse/glossaire_cc.html#courage">courage</ref> que je daignasse
+        tourner les yeux sur lui. Que s'il y a jamais eu
+      quelque homme qui ait eu<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#353_verso_a">η</ref> le pouvoir de me donner   quelque <ref target="../../../_analyse/glossaire_qr.html#ressentiment">ressentiment</ref>
+            <lb/>
+      <lb/>
+      <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">364 recto sic</hi> 354 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#354_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#354_recto">1621</ref>
+            </hi>
+          </p><p>d'Amour, je vous avouerai librement
+        que le respect que je vous ai porté m'en a retirée.
+        - Et quand ?  ajouta <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>. - Lors, dit-elle,
+        Madame, que vous me commandâtes de ne faire plus
+        d'état de <ref target="../../../_analyse/personnage_pp.html#polemas">Polémas</ref>. - Ô que vous avez bonne grâce,
+        s'écria <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, par votre <ref target="../../../_analyse/glossaire_ff.html#foi">foi</ref> ? Vous n'avez point
+        aimé <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref> ?  - Je vous jurerai sur la vérité que
+        je vous dois, Madame, répondit-elle, que je n'aime
+        point d'autre sorte <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref> que s'il était mon frère.
+        Et en cela elle ne mentait point, car depuis que le
+        Berger lui avait la dernière fois parlé si clairement,
+        elle avait reconnu le tort qu'elle se faisait, et
+        ainsi avait résolu de changer l'Amour en amitié.
+        - Or bien, <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>, dit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, laissons ce discours
+        et celui aussi de <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref>, car la pierre en est
+        jetée. - Et quelle réponse, dit-elle, ferez-vous
+à <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref> ?  - Je ne lui en veux point faire d'autre
+        que le silence. - Et que pensez-vous, dit-elle, qu'il
+        devienne, lorsque celui qu'il a envoyé ici
+        retournera sans lettres ?  - Il deviendra, dit
+        <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, ce qu'il pourra, car pour moi je suis<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#354_recto_a">η</ref> toute résolue que ni sa<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#354_recto">η</ref> considération, ni celle de tout
+        autre, ne seront jamais cause que je veuille me
+        rendre <ref target="../../../_analyse/glossaire_mm.html#miserable">misérable</ref>. - Il n'est donc point nécessaire,
+        répondit <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>, que <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref> revienne ? - Nullement,
+      dit-elle. <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref> alors lui dit froidement qu'il y avait là
+un   jeune homme qui voulait parler à <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, et qu'elle
+croyait que c'était de la part de <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, qu'il
+n'avait point voulu dire son message qu'à <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>
+même. - Il <lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">364 verso sic</hi> 354 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#354_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#354_verso">1621</ref>
+            </hi> </p><p> faut, répondit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, que nous
+    le menions<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#354_verso">η</ref>
+    où elle est. Nous en serons quittes pour faire tirer
+    les rideaux du lit où est <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>, car je m'assure
+    qu'il sera bien aise d'ouïr ce que <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> écrit,
+    puisqu'il me semble que vous lui avez déjà
+    raconté toutes leurs Amours. - Il est vrai, répondit
+    <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>, mais <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref> est si dédaigneuse et si altière
+    que, sans doute, elle s'offensera si ce messager lui
+    parle, et <ref target="../../../_analyse/glossaire_mm.html#mesme">même</ref> devant <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>. - Il faut, dit-elle,
+    la surprendre. Allez seulement <ref target="../../../_analyse/glossaire_dd.html#devant">devant</ref> dire au Berger
+    qu'il ne parle point, et tirez les rideaux, et je
+    l'y conduirai. Ainsi sortirent ces <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphes</ref>, et <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, reconnaissant
+    ce jeune homme pour l'avoir vu bien souvent avec <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, lui demanda d'où il venait et quelles
+    nouvelles il apportait de son maître. - Je viens,
+    Madame, dit-il, de l'armée de <ref target="../../../_analyse/personnage_mm.html#merovee">Mérovée</ref>, et quant aux
+    nouvelles de mon maître, je ne les puis dire qu'à
+    <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>. - Vraiment, dit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, vous êtes bien
+    <ref target="../../../_analyse/glossaire_ss.html#secret">secret</ref>, et croyez-vous que je veuille permettre que
+    vous disiez quelque chose à mes <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphes</ref> que je ne
+    sache point ?<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#354_verso_a">η</ref> - Madame, dit-il, ce sera devant vous,
+    s'il vous plaît, car j'en ai ce commandement, et
+     principalement devant <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>. - Venez donc, dit la
+    <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>. Et ainsi elle le fit entrer en la chambre de
+    <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>, où déjà <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref> avait donné l'ordre
+    qu'elle avait résolu sans en rien dire à <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, qui, au commencement, s'en <ref target="../../../_analyse/glossaire_ee.html#estonner">étonna</ref>, mais puis, voyant
+    entrer <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref> avec ce jeune homme, elle jugea
+    bien que c'était pour empêcher que le Berger ne
+    fût<lb/>
+    <lb/>
+    <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">365 recto sic</hi> 355 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#355_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#355_recto">1621</ref>
+            </hi> </p><p> vu. Le sursaut qu'elle reçut fut très grand
+    quand elle vit <ref target="../../../_analyse/personnage_ee.html#egide">Égide</ref>,  tel était le nom de ce
+    jeune homme qu'elle reconnut incontinent, car encore
+    qu'elle n'eût point d'Amour pour  <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> ne se pouvait-elle exempter entièrement de  quelque bonne
+    volonté. Elle jugea bien qu'il lui en dirait des
+    nouvelles, toutefois elle ne voulut  lui en demander.
+    Mais <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref> s'adressant au jeune homme :  - Voilà,
+    dit-elle, <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, il ne tiendra qu'à vous que vous
+    ne paracheviez votre message, puisque vous voulez
+    que <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref> et moi y soyons. - Madame, dit
+    <ref target="../../../_analyse/personnage_ee.html#egide">Égide</ref> s'adressant à <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, mon maître,
+    le plus fidèle serviteur que vos mérites vous
+    aient jamais acquis, m'a commandé de vous faire
+    savoir quelle a été sa <ref target="../../../_analyse/glossaire_ff.html#fortune">fortune</ref>, ne voulant autre
+    chose du Ciel pour récompense de sa fidélité sinon
+    qu'une étincelle de pitié vous touche, puisque
+    nulle de celles de l'Amour n'a pu approcher le
+    glaçon de votre cœur. - Et quoi, dit <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>
+    en l'interrompant, il semble qu'il fasse son
+    testament. Comme se porte-t-il ?  - Madame, dit-il,
+    s'adressant à
+    <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, je le vous dirai, s'il vous plaît de
+    m'en donner le loisir. Et puis, retournant à <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, il continua de cette
+sorte : <lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">365 verso sic</hi> 355 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#355_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#355_verso">1621</ref>
+            </hi>
+          </p><p rend="center_t titres">
+            Histoire de <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>
+          </p><p>  <hi rend="first">A</hi>près que <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> eut pris congé de vous, il
+partit avec <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref>, accompagné de tant de beaux
+desseins qu'il ne se promettait rien moins que
+d'acquérir par ce voyage ce que ses services
+n'avaient pu par sa présence, résolvant de faire
+tant d'actes signalés que, ou<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#355_verso">η</ref> le nom de vaillant que
+ses victoires lui donneraient vous serait agréable,
+ou bien, mourant, il vous en laisserait du regret.
+En ce dessein, ils parviennent à l'armée de
+<ref target="../../../_analyse/personnage_mm.html#merovee">Mérovée</ref>, Prince rempli de toutes les perfections qui
+sont <ref target="../../../_analyse/glossaire_qr.html#requerir">requises</ref> à un conquérant, et arrivèrent si à
+propos que la bataille avait été assignée le
+septième jour d'après ;   de sorte que tous ces
+jeunes <ref target="../../../_analyse/glossaire_cc.html#chevalier">Chevaliers</ref> n'avaient autre plus grand souci
+que de <ref target="../../../_analyse/glossaire_uz.html#visiter">visiter</ref> leurs armes et remettre leurs chevaux
+en bon état. Mais ce n'est d'eux<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#355_verso_b">η</ref> de qui j'ai à vous parler. C'est
+pourquoi passant sous silence tout ce qui ne touche à <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, je vous dirai que le jour assigné à ce
+grand combat étant venu, les deux armées sortent
+de leur camp, et à vue l'une de l'autre, se mettent
+en bataille. Ici un <ref target="../../../_analyse/glossaire_ee.html#escadron">escadron</ref> de cavalerie, là un
+<ref target="../../../_analyse/glossaire_bb.html#bataillon">bataillon</ref> de gens de pied,   ici les tambours, là
+les trompettes,   d'un côté, le <ref target="../../../_analyse/glossaire_hh.html#hannissement">hennissement</ref> des
+chevaux,  de l'autre, les voix des soldats
+retentissaient de tant de bruit que l'on pouvait
+bien alors<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">366 recto sic</hi> 356 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#356_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#356_recto">1621</ref>
+            </hi>
+          </p><p> dire que <ref target="../../../_analyse/repertoire_bb.html#bellone">Bellone</ref> l'effroyable roulait
+    dans cette campagne et étalait tout ce qu'elle avait
+    de plus horrible en sa <ref target="../../../_analyse/repertoire_gg.html#gorgonne">Gorgonne</ref>. Quant à moi, qui n'avais jamais été en semblable
+occasion, j'étais si étourdi de ce que j'oyais et si
+ébloui de l'éclair des armes qu'en vérité je ne
+savais où j'étais. Toutefois ma résolution fut de
+n'abandonner mon maître, car la <ref target="../../../_analyse/glossaire_no.html#nourriture">nourriture</ref> que
+d'enfance il m'avait donnée m'obligeait, ce me
+semblait, à ne l'éloigner en cette occasion où rien
+ne se représentait à nos yeux qu'avec les enseignes
+de la mort.
+Mais ce ne fut rien au prix * de l'étrange confusion lorsque
+tous ces <ref target="../../../_analyse/glossaire_ee.html#escadron">escadrons</ref> et  tous  ces <ref target="../../../_analyse/glossaire_bb.html#bataillon">bataillons</ref> se mêlèrent, quand le signal de la bataille se
+donna,   car la cavalerie attaqua celle de l'ennemi,
+et l'infanterie de même, avec un si grand bruit que les hommes, les armes et les chevaux faisaient
+qu'on n'eût pas ouï tonner. Après
+avoir passé plusieurs <ref target="../../../_analyse/glossaire_no.html#nues">nues</ref> de traits, je ne saurais
+vous raconter au vrai comment je me trouvai avec mon
+maître au milieu des ennemis, où * je ne faisais qu'admirer les grands coups de l'épée de Ligdamon<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#356_recto">η</ref>.
+Et sans mentir, belle <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, je lui vis faire tant
+de merveilles que l'une me fait oublier l'autre.
+<ref target="../../../_analyse/glossaire_tt.html#tant_y">Tant</ref> y a que sa valeur fut telle que <ref target="../../../_analyse/personnage_mm.html#merovee">Mérovée</ref> voulut
+savoir son nom, comme l'ayant remarqué ce jour là
+entre tous les <ref target="../../../_analyse/glossaire_cc.html#chevalier">Chevaliers</ref>. Déjà ce premier <ref target="../../../_analyse/glossaire_ee.html#escadron">escadron</ref> était victorieux, et les nôtres commençaient à se
+rallier pour aller attaquer le<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">366 verso sic</hi> 356 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#356_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#356_verso">1621</ref>
+            </hi>
+          </p><p> second, quand l'ennemi,
+    pour faire un entier <ref target="../../../_analyse/glossaire_ee.html#effort">effort</ref>, fit marcher tout ce qui
+    lui restait afin d'investir si promptement ceux-ci
+    que <ref target="../../../_analyse/personnage_mm.html#merovee">Mérovée</ref> ne les puisse secourir à temps, et certes
+    s'il eût eu affaire à un Capitaine moins expérimenté
+    que <ref target="../../../_analyse/glossaire_cc.html#cestuy_cy">celui-ci</ref>, je crois bien que son dessein eût eu effet. Mais ce grand soldat, jugeant le désespoir
+    de l'adversaire, fit partir en même temps trois
+    <ref target="../../../_analyse/glossaire_ee.html#escadron">escadrons</ref> nouveaux, deux aux deux ailes et le
+    troisième en queue du premier,  si à propos qu'ils
+    soutinrent une partie du premier choc. Toutefois
+    nous, qui étions  avancés, nous trouvâmes fort
+    outragés du grand nombre. Mais je ne veux ici vous <ref target="../../../_analyse/glossaire_ee.html#ennuyer">ennuyer</ref> par une particulière
+description de cette journée, aussi bien n'en
+saurais-je venir à bout. <ref target="../../../_analyse/glossaire_tt.html#tant_y">Tant</ref> y a qu'<ref target="../../../_analyse/glossaire_aa.html#a">au</ref> même temps
+les deux infanteries s'étant rencontrées, celle
+de <ref target="../../../_analyse/personnage_mm.html#merovee">Mérovée</ref> eut du <ref target="../../../_analyse/glossaire_mm.html#meilleur">meilleur</ref>, et autant que nous
+gagnions du terrain sur ceux de Cheval, autant en
+perdait l'infanterie de l'ennemi. <ref target="../../../_analyse/glossaire_ss.html#si">Si</ref> est-ce qu'au
+choc que nous reçûmes, il y eut plusieurs des nôtres
+portés par terre, outre ceux que les traits de
+l'infanterie, dès le commencement de la bataille,
+avaient déjà mis à pied ;   car d'abord l'ennemi,
+faisant <ref target="../../../_analyse/glossaire_dd.html#desbander">débander</ref> quelques Archers, nous fit tirer
+sur les ailes tant de traits que notre cavalerie,
+n'osant quitter son rang, eut beaucoup à <ref target="../../../_analyse/glossaire_ss.html#souffrir">souffrir</ref>
+avant que <ref target="../../../_analyse/personnage_mm.html#merovee">Mérovée</ref> y eût envoyé des siens pour
+<ref target="../../../_analyse/glossaire_ee.html#escarmoucher">escarmoucher</ref> avec eux.
+Et entre ceux qui, au second <ref target="../../../_analyse/glossaire_ee.html#effort">effort</ref>, en furent
+incommodés, <ref target="../../../_analyse/personnage_cc.html#clidaman">Clidaman</ref> <lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">367 recto sic</hi> 357 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#357_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#357_recto">1621</ref>
+            </hi>
+          </p><p>en fut un, car son cheval tomba
+    mort  de trois coups de flèches. <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, qui avait
+    toujours l'œil sur lui, soudain qu'il le vit en
+    terre, poussa son cheval d'extrême <ref target="../../../_analyse/glossaire_ff.html#furie">furie</ref>, et fit tant
+    d'armes qu'il fit un rond de corps morts à l'entour
+    de <ref target="../../../_analyse/personnage_cc.html#clidaman">Clidaman</ref>  qui cependant eut loisir de se
+    dépêtrer de son cheval. La furie de l'ennemi, qui, à la chute de <ref target="../../../_analyse/personnage_cc.html#clidaman">Clidaman</ref>, s'était renforcée en ce lieu,
+    l'eût enfin étouffé sous les pieds des chevaux sans
+    le secours et sans la valeur de mon maître,
+    qui, * se jetant à terre, le remit sur son cheval, demeurant à pied si blessé et si <ref target="../../../_analyse/glossaire_pp.html#presser">pressé</ref> des ennemis qu'il ne put monter sur le Cheval que je lui menais.    En ce point, les nôtres furent forcés de
+    reculer, comme se sentant affaiblis, à ce que je crois,
+    du bras invincible de mon maître, et le malheur fut
+    si grand pour nous que nous nous trouvâmes au milieu
+     de tant d'ennemis, qu'il n'y eut plus d'espérance de
+    salut. Toutefois <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> ne voulut jamais se rendre, et
+quoiqu'il fût blessé et si las que l'on peut imaginer,
+<ref target="../../../_analyse/glossaire_ss.html#si">si</ref> n'y avait-il si hardi, voyant les grands coups
+qui sortaient de son bras, qui osât l'attaquer.
+Enfin, à toute <ref target="../../../_analyse/glossaire_ff.html#furie">furie</ref> de chevaux, cinq ou six le
+vinrent heurter, et si à l'<ref target="../../../_analyse/glossaire_ik.html#impourveu">impourvu</ref>  qu'ayant donné
+de son épée dans le <ref target="../../../_analyse/glossaire_pp.html#poitral">poitrail</ref>  du premier cheval, elle
+se rompit près de la garde, et le cheval, frappé dans
+le cœur, lui tomba dessus. Je courus alors pour le
+relever, mais dix ou douze, qui se jetèrent <lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">367 verso sic</hi> 357 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#357_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#357_verso">1621</ref>
+            </hi>
+          </p><p>sur lui,
+    m'en empêchèrent ; et ainsi tous deux, demi-morts, nous fûmes enlevés. Et cet accident fut encore plus malheureux
+    en ce que, presque en même temps, les nôtres
+    recouvrèrent ce qu'ils avaient perdu du <ref target="../../../_analyse/glossaire_cc.html#champ">champ</ref> par les
+    secours que <ref target="../../../_analyse/personnage_cc.html#childeric">Childéric</ref>  donna de toute l'arrière-garde. Et depuis, allèrent toujours gagnant le <ref target="../../../_analyse/glossaire_cc.html#champ">champ</ref>, jusques à ce que sur le soir l'entière <ref target="../../../_analyse/glossaire_qr.html#route">route</ref> se donna, et que
+    les logis des ennemis furent brûlés, et eux la
+    plupart pris ou tués.
+    Quant à nous, nous fûmes conduits en leur principale
+    ville nommée <ref target="../../../_analyse/repertoire_qr.html#rothomage">Rothomage</ref>, où mon maître ne fut si tôt
+    arrivé que plusieurs le vinrent visiter, les uns se
+    disant ses parents, les autres ses amis, encore qu'il
+    n'en connût point. Quant à moi, je ne savais que
+    dire, ni lui que penser, * de voir que ces étrangers lui faisaient tant de caresses,  mais nous fûmes encore
+    plus étonnés quand une Dame honorable, fort bien
+    suivie, le vint visiter disant que c'était son fils,
+    avec tant de démonstration d'amitié que <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> en était comme hors de soi, et  davantage encore
+    quand elle lui dit :  - Ô <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref>, mon enfant, avec
+    combien de contentement et de crainte vous vois-je
+    ici !  Car je loue Dieu qu'à la fin de mes jours je
+    vous puisse voir si estimé au rapport de ceux qui
+    vous ont pris. Mais, hélas,  quelle crainte est la
+    mienne, de vous voir en cette ville si cruelle, puisque votre ennemi, <ref target="../../../_analyse/personnage_aa.html#aronte">Aronte</ref>, est mort des blessures
+      qu'il a eues de vous, et <lb/>
+      <lb/>
+      <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">368 recto sic</hi> 358 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#358_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#358_recto">1621</ref>
+            </hi>
+          </p><p>que vous avez été condamné à mort par ceux de la <ref target="../../../_analyse/glossaire_ik.html#justice">Justice</ref> ! Quant à moi, je n'y
+        sais autre remède que de vous racheter promptement,
+        et, attendant que vous soyez guéri, vous tenir caché,
+        afin que pouvant monter à cheval vous vous retiriez
+        avec les <ref target="../../../_analyse/repertoire_ff.html#francs">Francs</ref>.
+Si <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> fut <ref target="../../../_analyse/glossaire_ee.html#estonner">étonné</ref> de ce discours, vous le
+pouvez juger, et connut bien enfin qu'elle le
+prenait pour un autre. Mais il ne put<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#358_recto_a">η</ref> lui répondre,
+parce qu'en même instant celui qui l'avait pris entra dans la chambre, avec deux Députés de la ville,
+pour prendre le nom et la qualité des prisonniers,
+d'autant qu'il y en avait plusieurs des leurs pris,
+et ils voulaient<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#358_recto">η</ref> les changer. La pauvre Dame fut fort
+surprise, croyant qu'ils le <ref target="../../../_analyse/glossaire_uz.html#vinsse">vinssent</ref> saisir pour le
+conduire en prison, et oyant qu'ils lui demandaient
+son nom, elle faillit à le dire elle-même, mais mon
+maître la devança et se nomma <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> <ref target="../../../_analyse/repertoire_ss.html#segusiens">Ségusien</ref>.
+Elle eut alors <ref target="../../../_analyse/glossaire_no.html#opinion">opinion</ref> qu'il se voulût dissimuler,
+et, pour ôter tout soupçon, elle se retira chez elle,
+en résolution de le racheter si promptement qu'il ne
+pût<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#358_recto_b">η</ref> être reconnu. Et il était vrai que mon maître
+ressemblait de telle sorte à <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> que tous ceux
+qui le voyaient le prenaient pour lui. Et ce <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref>
+était un jeune homme de ce pays-là, qui, étant
+amoureux d'une très belle Dame, s'était battu avec
+<ref target="../../../_analyse/personnage_aa.html#aronte">Aronte</ref>, son rival, de qui la jalousie avait été telle
+qu'il s'était laissé aller au-delà de son devoir,
+médisant d'elle et de lui. De quoi <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref>, offensé,
+après lui en avoir<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">368 verso sic</hi> 358 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#358_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#358_verso">1621</ref>
+            </hi>
+          </p><p> fait parler deux ou trois fois afin qu'il changeât de discours, et croyant qu'il
+    prenait pour crainte ce qui procédait de la <ref target="../../../_analyse/glossaire_pp.html#prudence">prudence</ref>    de ce jeune homme, il fut enfin forcé, et de son
+    devoir et de son Amour, d'en venir aux armes, et avec
+    tant d'heur qu'ayant laissé son ennemi comme mort en
+    terre, il eut loisir de se sauver des mains de la
+    <ref target="../../../_analyse/glossaire_ik.html#justice">Justice</ref>, qui, depuis qu'<ref target="../../../_analyse/personnage_aa.html#aronte">Aronte</ref> fut mort, le
+    poursuivit de sorte qu'il fut, encore qu'absent,
+    condamné à la mort.
+<ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> était tellement blessé qu'il ne songeait
+point à toutes ces choses. Moi, qui prévoyais le mal
+qui lui en pourrait advenir, je pressais toujours
+la mère de le racheter,  ce qu'elle fit, mais non
+point si secrètement que les ennemis de <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> n'en
+fussent avertis ; si bien qu'à leur requête, le
+même jour que cette bonne Dame ayant payé sa rançon,
+le faisait<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#358_verso_a">η</ref> porter chez elle, ceux de la <ref target="../../../_analyse/glossaire_ik.html#justice">Justice</ref> y
+arrivèrent, qui lui firent faire le chemin de la
+prison, quoi que <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> sût dire, <ref target="../../../_analyse/glossaire_dd.html#deceu">déçus</ref>   comme
+les autres de la ressemblance de <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref>
+            <hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#358_verso_b">η</ref>.
+Ainsi le voilà au plus grand danger où jamais autre
+pût<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#358_verso_c">η</ref> être pour n'avoir point <ref target="../../../_analyse/glossaire_ff.html#faillir">failli</ref>. Mais ce ne fut
+rien au prix du lendemain, qu'il fut interrogé sur les
+points  dont il était tant ignorant qu'il ne savait
+que leur dire. Toutefois ils ne laissèrent de
+ratifier le premier jugement, et ne lui donnèrent
+autre terme que celui de la
+guérison de ses plaies. Le bruit  incontinent courut
+par toute la ville que <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> est prisonnier, et
+qu'il a été condamné, <lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">369 recto sic</hi> 359 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#359_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#359_recto">1621</ref>
+            </hi> </p><p>non point à mourir comme
+    meurtrier seulement, mais comme rebelle, ayant été
+    pris avec les armes en la main pour les <ref target="../../../_analyse/repertoire_ff.html#francs">Francs</ref> ; qu'à cette occasion on le mettait  dans la cage des
+    Lions. Et cela était vrai que leur coutume de tout
+    temps était telle, mais on ne lui avait voulu prononcer cet arrêt afin qu'il ne se fît mourir.
+    Toutefois on ne parlait d'autre chose dans la ville,
+    et la voix en fut tellement	 <ref target="../../../_analyse/glossaire_ee.html#espandu">épandue</ref>  qu'elle en vint
+    jusques à mes oreilles, dont épouvanté je me
+    déguisai de sorte, avec l'aide de cette bonne Dame
+    qui l'avait racheté, que je vins<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#359_recto">η</ref> à <ref target="../../../_analyse/repertoire_pp.html#paris_ville">Paris</ref>
+	trouver<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#359_recto">η</ref> <ref target="../../../_analyse/personnage_mm.html#merovee">Mérovée</ref> et
+	 <ref target="../../../_analyse/personnage_cc.html#clidaman">Clidaman</ref>, auxquels je fis entendre cet
+    accident, dont ils  furent fort étonnés, leur
+    semblant presque impossible que deux personnes se
+    ressemblassent si fort qu'il n'y eût point de
+    différence. Et, pour y remédier, ils y envoyèrent
+    promptement deux <ref target="../../../_analyse/glossaire_hh.html#herault">hérauts</ref> d'armes pour faire savoir
+    aux ennemis l'erreur en quoi ils étaient. Mais
+    cela ne fut que le leur persuader davantage, et leur
+    faire hâter l'exécution de leur jugement.
+    Les plaies de	 <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> étaient déjà presque
+    guéries, de sorte que, pour ne lui donner plus de
+    loisir, ils lui prononcèrent la sentence  qu'<ref target="../../../_analyse/glossaire_aa.html#attaint">atteint</ref>
+    de meurtre et de rébellion, la <ref target="../../../_analyse/glossaire_ik.html#justice">justice</ref> ordonnait
+    qu'il eût à mourir par les Lions destinés à telle
+    exécution. Que, toutefois, pour être né noble et
+    de leur patrie, lui faisant grâce, ils lui permettaient
+    de porter l'épée et le poignard comme étant armes de
+    <ref target="../../../_analyse/glossaire_cc.html#chevalier">Chevalier</ref>, desquelles,<lb/>
+    <lb/>
+    <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">369 verso sic</hi> 359 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#359_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#359_verso">1621</ref>
+            </hi>
+          </p><p> s'il en avait le courage,
+        il pourrait se défendre, ou essayer pour le moins de
+        venger généreusement sa mort. Et en même temps, ils        firent dans leur conseil réponse à <ref target="../../../_analyse/personnage_mm.html#merovee">Mérovée</ref> qu'ils
+        châtieraient ainsi tous leurs compatriotes qui
+        seraient traîtres à leur patrie.
+        Voilà le pauvre <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> en extrême danger. Toutefois, ce <ref target="../../../_analyse/glossaire_cc.html#courage">courage</ref> qui ne fléchissait jamais que sous
+        l'Amour, voyant qu'il n'y avait point d'autre remède,
+        se résolut à sa conservation le mieux qu'il pût.
+        Et d'autant que <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> était des meilleures familles
+        des <ref target="../../../_analyse/repertoire_no.html#neustriens">Neustriens</ref>, presque tout le peuple s'assemble
+        pour voir ce spectacle. Et lorsqu'il se vit prêt à
+        être mis dans cet horrible <ref target="../../../_analyse/glossaire_cc.html#camp">camp</ref> clos, tout ce qu'il
+        <ref target="../../../_analyse/glossaire_qr.html#requerir">requit</ref> fut de combattre les Lions un à un. Le peuple,        qui ouït une si juste demande, la fit accorder par ses
+        exclamations et battements de mains, quelque difficulté<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#359_verso">η</ref> que les <ref target="../../../_analyse/glossaire_pp.html#partie">parties</ref> y <ref target="../../../_analyse/glossaire_mm.html#misse">missent</ref>, si bien que le
+        voilà mis seul dans la cage, et les Lions, qui à travers
+
+        les barreaux voyaient cette nouvelle proie, rugissaient
+        si épouvantablement qu'il n'y avait celui des
+        assistants qui n'en pâlît.
+        <ref target="../../../_analyse/glossaire_ss.html#sans_plus">Sans plus</ref> <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> semblait assuré entre tant de
+dangers, et prenant garde à la première porte qui
+s'ouvrit afin de n'y être point surpris, il vit
+sortir un Lion furieux, à la hure hérissée, qui, dès
+l'<ref target="../../../_analyse/glossaire_aa.html#abord">abord</ref>, ayant trois ou quatre fois battu la terre de
+sa queue, commença d'étendre ses grands bras, et
+entrouvrir les ongles, comme lui voulant montrer
+de quelle mort il mourrait. Mais <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>,<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">370 recto sic</hi> 360 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#360_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#360_recto">1621</ref>
+            </hi> </p><p>  voyant
+    bien qu'il n'y avait nul salut qu'en sa valeur, aussitôt qu'il le voit <ref target="../../../_analyse/glossaire_dd.html#desmarcher">démarcher</ref>, lui darde si à propos
+    son poignard qu'il le lui planta dans l'<ref target="../../../_analyse/glossaire_ee.html#estomac">estomac</ref> jusques à la poignée, dont l'animal
+	 étant touché au cœur tomba mort en même instant.
+
+Le cri de tout le peuple fut grand, car chacun, ému
+de son * adresse, de sa valeur, et de son <ref target="../../../_analyse/glossaire_cc.html#courage">courage</ref>, le
+favorisait en son âme. Lui toutefois, qui savait
+bien que la rigueur de ses Juges ne s'arrêterait
+pas là, courut promptement reprendre son poignard, et,
+presque en même temps, voilà un autre Lion, non moins
+effroyable que le premier, qui, aussitôt que sa
+porte fut ouverte, vint, la <ref target="../../../_analyse/glossaire_gg.html#gorge">gorge</ref> béante, de telle
+furie, que <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> en fut presque surpris. Toutefois
+au <ref target="../../../_analyse/glossaire_pp.html#passer">passer</ref> il se détourna un peu, et lui donna un si
+grand coup d'épée sur une patte qu'il la lui coupa,
+de quoi l'animal en furie se tourna si promptement
+vers lui que, du heurt, il le jeta par terre. Mais sa
+<ref target="../../../_analyse/glossaire_ff.html#fortune">fortune</ref> fut telle qu'en tombant, et le Lion se
+lançant dessus, il ne fit que tendre son épée qui
+lui donna si à propos sous le ventre qu'il tomba
+mort presque aussi promptement que le premier. Cependant que <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> allait ainsi disputant sa vie,
+voilà une Dame, belle entre les plus belles
+<ref target="../../../_analyse/repertoire_no.html#neustrie">Neustriennes</ref>, qui se mit à genoux devant les Juges,
+les suppliant de faire <ref target="../../../_analyse/glossaire_ss.html#surseoir">surseoir</ref>  l'exécution jusques
+à ce qu'elle eût parlé. Eux, qui la connurent pour
+être des principales du pays, voulurent bien la
+gratifier de cette faveur, et <ref target="../../../_analyse/glossaire_mm.html#mesme">même</ref> que c'était<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">370 verso sic</hi> 360 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#360_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#360_verso">1621</ref>
+            </hi>
+          </p><p> celle-ci pour qui <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> avait tué <ref target="../../../_analyse/personnage_aa.html#aronte">Aronte</ref> :  elle
+    s'appelait <ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref>.
+    Et lors elle leur parla de cette sorte d'une voix
+    assez honteuse :  - Messieurs,  l'ingratitude doit être
+    punie comme la trahison, puisque ç'en est une espèce. C'est pourquoi, voyant <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> condamné pour avoir
+    été contraire à ceux de sa patrie, je craindrais
+    l'être<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#360_verso_a">η</ref>, sinon de vous, sans doute de nos Dieux, si
+    je ne me sentais obligée à sauver la vie à qui l'a<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#360_verso">η</ref>    voulu mettre pour me sauver l'honneur. C'est pourquoi
+    je me présente devant vous, assurée sur nos
+    privilèges
+    qui ordonnent que tout homme condamné à mort en est
+    délivré quand une fille le demande pour son mari.
+    <ref target="../../../_analyse/glossaire_ss.html#soudain">Soudain</ref> que j'ai su votre jugement, je suis venue
+    en toute diligence le vous <ref target="../../../_analyse/glossaire_qr.html#requerir">requérir</ref>, et n'ai pu y
+    être si tôt qu'il n'ait couru la <ref target="../../../_analyse/glossaire_ff.html#fortune">fortune</ref> que chacun
+    a vue ;   toutefois, puisque Dieu me l'a<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#360_verso">η</ref> conservé si
+    heureusement, vous ne devez me le refuser injustement.
+    Tout le peuple qui ouït cette demande cria d'une
+    joyeuse voix : - Grâce, grâce. Et quoique les ennemis
+    de <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> poursuivissent le contraire, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> fut-il
+    conclu que les privilèges du pays auraient lieu.
+    * Mais, hélas ! <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> ne sortit de ce danger que pour rentrer comme je crois en un plus grand,    car,
+    étant conduit devant les Juges, ils lui firent
+    entendre les coutumes du pays, qui étaient telles :
+    que tout homme <ref target="../../../_analyse/glossaire_aa.html#attaint">atteint</ref> et convaincu de quelque crime
+    que ce puisse être, serait délivré des rigueurs de la
+    justice si une fille le demandait<lb/>
+    <lb/>
+    <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">371 recto sic</hi> 361 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#361_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#361_recto">1621</ref>
+            </hi> </p><p> pour son mari, de
+    sorte que, s'il voulait l'épouser, il serait
+    remis en liberté, et pourrait vivre avec elle.
+    Lui, qui ne la connaissait point, se trouva fort <ref target="../../../_analyse/glossaire_ee.html#empescher">empêché</ref> à leur répondre. Toutefois ne voyant autre
+    remède d'échapper du danger où il était, il le
+    promit, espérant que le temps lui apporterait
+    quelque expédient pour sortir de ce Labyrinthe. <ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref>, qui avait toujours reconnu <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> tant
+    amoureux d'elle, ne fut pas peu <ref target="../../../_analyse/glossaire_ee.html#estonner">étonnée</ref> d'une si
+    grande froideur. Toutefois jugeant que l'effroi
+    du danger où il avait été le rendait ainsi hors
+    de lui, elle en eut plus de pitié, et le mena chez
+    la mère de <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref>, qui était celle qui avait procuré
+    ce mariage, sachant qu'il n'y avait point d'autre
+    remède pour sauver son fils, outre qu'elle n'ignorait
+    pas l'Amour qui était entre eux, * ce qui lui faisait
+    presser la conclusion du mariage le plus qu'il lui
+    était possible, pensant plaire à son fils. Mais au
+    contraire c'était avancer la mort de celui qui
+    n'en <ref target="../../../_analyse/glossaire_pp.html#pouvoir_mais">pouvait</ref> mais. Hé !  mon cher maître, quand je me
+    ressouviens des dernières paroles que vous me dîtes,
+    je ne sais comme il est possible que je vive.<lb/>  Toutes choses étaient prêtes pour le mariage, et
+    fallait<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#361_recto">η</ref> que le lendemain il se parachevât, quand
+    le soir il me tira à part et me dit : - <ref target="../../../_analyse/personnage_ee.html#egide">Égide</ref>, mon
+    ami, vis-tu jamais une semblable <ref target="../../../_analyse/glossaire_ff.html#fortune">fortune</ref> à celle-ci,
+    que l'on me veuille faire croire que je ne suis pas
+    moi-même ?  - * Seigneur, lui dis-je, il me semble,
+    qu'elle<lb/>
+    <lb/>
+    <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">371 verso sic</hi> 361 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#361_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#361_verso">1621</ref>
+            </hi> </p><p> n'est pas mauvaise. <ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref> est belle et
+        riche, tous ceux qui se disent vos parents sont les
+        principaux de cette contrée. Que pourriez-vous désirer
+        mieux ?  - Ah ! <ref target="../../../_analyse/personnage_ee.html#egide">Égide</ref>, me dit-il, que tu parles bien à ton
+        aise.  Si tu savais l'état en quoi je me trouve, tu
+        en aurais pitié. Mais prends bien garde à ce que je
+        te vais dire, et sur toute l'obligation que tu m'as
+        et l'amitié que j'ai toujours connue en toi, ne fais
+        <ref target="../../../_analyse/glossaire_ff.html#faute">faute</ref>,  aussitôt que demain j'aurai fait ce à quoi
+        je me résous, de porter cette lettre à la belle <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>,
+        et lui raconte tout ce que tu auras vu. Et de plus,
+        assure-la  que jamais je n'ai aimé qu'elle, qu'aussi
+        n'en aimerai-je jamais d'autre. À ce mot, il me donna cette lettre, que je gardai
+fort soigneusement jusques au lendemain, qu'à
+l'heure même qu'il partit pour aller au temple, il
+m'appela, et me commanda de me tenir près de lui,
+et me fit encore rejurer de vous venir trouver en
+diligence. En même temps, on le vint prendre pour le
+mettre sur le chariot nuptial, où déjà la belle
+<ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref> était assise, avec un de ses oncles qu'elle
+aimait et honorait comme père. Elle était au milieu
+de <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> et de <ref target="../../../_analyse/personnage_cc.html#caristes">Caristes</ref>, ainsi s'appelait son
+oncle, toute voilée d'un grand voile jaune, et ayant
+sur la tête aussi bien que <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> le <ref target="../../../_analyse/glossaire_tt.html#thyrse">Thyrse</ref>. Il est vrai que celui de mon maître était fait
+de <ref target="../../../_analyse/glossaire_ss.html#sisymbre">Sisymbre</ref>
+            <hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#361_verso">η</ref>, et celui d'<ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref> de la piquante
+et douce <ref target="../../../_analyse/glossaire_aa.html#aspharagone">Aspharagone</ref>. Devant le chariot marchait toute
+leur famille, et après suivaient leurs parents et
+proches alliés et<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">372 recto sic</hi> 362 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#362_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#362_recto">1621</ref>
+            </hi>
+          </p><p>amis. En ce <ref target="../../../_analyse/glossaire_tt.html#triomphe">triomphe</ref> ils arrivèrent au Temple, et furent
+menés à l'autel<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#362_recto">η</ref> d'<ref target="../../../_analyse/repertoire_hh.html#hymen">Hymen</ref>, au-devant duquel cinq torches étaient allumées. Au côté droit d'<ref target="../../../_analyse/repertoire_hh.html#hymen">Hymen</ref>,
+on avait mis <ref target="../../../_analyse/repertoire_ik.html#jupiter">Jupiter</ref> et <ref target="../../../_analyse/repertoire_ik.html#junon">Junon</ref>, au gauche, <ref target="../../../_analyse/repertoire_uz.html#venus">Vénus</ref>
+et <ref target="../../../_analyse/repertoire_dd.html#diane_m">Diane</ref>. Quant à <ref target="../../../_analyse/repertoire_hh.html#hymen">Hymen</ref>, il était couronné de
+fleurs et d'odorante <ref target="../../../_analyse/glossaire_mm.html#marjolaine">Marjolaine</ref>, tenant de la main
+droite un flambeau, et de la gauche un voile de même
+couleur à celui qu'<ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref> portait, comme aussi les
+<ref target="../../../_analyse/glossaire_bb.html#brodequin">brodequins</ref> qu'il avait aux pieds. Dès lors qu'ils entrèrent dans le Temple, la mère de
+<ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> et d'<ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref> allumèrent leurs torches. Et
+lors le grand <ref target="../../../_analyse/glossaire_dd.html#druide">Druide</ref>, s'approchant d'eux, adressa sa parole à mon maître, et lui demanda : - <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref>,
+voulez-vous bien <ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref> pour mère de famille ?  Il
+demeura quelque temps sans répondre, enfin il fut
+contraint de dire que oui. Lors le <ref target="../../../_analyse/glossaire_dd.html#druide">Druide</ref>  se tournant
+vers elle : - Et vous <ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref>, voulez-vous bien
+<ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> pour père de famille ?  Et lui répondant oui,
+leur prenant les mains et les mettant ensemble, il
+dit :  - Et moi, je vous donne de la part des grands
+Dieux l'un à l'autre, et pour arrhes, mangez
+ensemble le  <ref target="../../../_analyse/glossaire_cc.html#condron">
+              <hi rend="italics">Condron</hi>
+            </ref>. Et lors, prenant le gâteau
+d'orge, mon maître le coupa, et l'ayant <ref target="../../../_analyse/glossaire_ee.html#espars">épars</ref>, elle
+en ramassa les pièces, dont, selon la coutume, ils
+mangèrent ensemble.
+Il ne restait plus pour parachever toutes les
+cérémonies que
+prendre le vin. Il se tourna vers moi et me dit :
+- <ref target="../../../_analyse/glossaire_no.html#or_sus">Or sus</ref>, ami, pour le plus agréable service que tu me
+fis jamais, apporte-moi la tasse. Je le fis, hélas,
+par malheur, trop diligent. Aussitôt qu'il l'eut
+en la<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">372 verso sic</hi> 362 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#362_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#362_verso">1621</ref>
+            </hi>
+          </p><p> main, d'une voix fort haute :  - Ô puissants
+    Dieux !  qui savez, dit-il, qui je suis, ne vengez
+    point ma mort sur cette belle Dame, qui, en l'erreur
+    de me prendre pour un plus <ref target="../../../_analyse/glossaire_hh.html#heureux">heureux</ref> que je ne suis,
+    me conduit à cette sorte de mort.
+    Et à ce mot il but tout ce qui était dans la
+    coupe, <ref target="../../../_analyse/glossaire_qr.html#qui">qui</ref> était contre la coutume, parce que le
+    mari n'en buvait que la moitié, et la femme le reste. Elle dit en souriant :  - Et quoi, ami <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref>,
+    il semble  que vous ayez oublié la coutume !  Vous
+    m'en devez laisser ma part. - Dieu ne le permette,
+    dit-il, * sage <ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref>,   car c'est du poison que j'ai
+    élu plutôt pour finir ma vie que manquer à ce
+    que je vous ai promis, et à l'affection aussi que je
+    dois à la belle <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>. - Ô Dieux, dit-elle, est-il
+    possible ? Et lors croyant que ce fût vraiment son <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref>,
+mais qu'il eût changé de volonté durant son absence,
+ne voulant vivre sans lui, courut la tasse en la
+main où était celui qui avait le vin <ref target="../../../_analyse/glossaire_mm.html#mixtionne">mixtionné</ref>,
+car le jour auparavant <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> l'avait fait faire
+à un Apothicaire, et avant que l'on sût ce que
+mon maître avait dit, et quelque défense qu'il en
+sût faire, parce que c'était la coutume, on lui
+en donna la pleine tasse, qu'elle but promptement.
+Et puis revenant le trouver, elle lui dit :  - Et bien,
+cruel et ingrat, tu as plutôt aimé la mort que moi,
+et moi, je l'aime mieux aussi que ton refus. Mais si
+ce Dieu<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#362_verso">η</ref>, qui jusques ici a conduit nos affections, ne
+me venge d'une âme si parjure en l'autre vie, je
+croirai qu'il n'a point d'<ref target="../../../_analyse/glossaire_aa.html#aureille">oreille</ref>
+            <lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">373 recto sic</hi> 363 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#363_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#363_recto">1621</ref>
+            </hi>
+          </p><p> pour ouïr les faux
+    serments, ni point de force pour les punir.
+    Alors chacun s'approcha pour ouïr ces reproches,
+    et ce fut en même temps que <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> lui répondit : - * Discrète <ref target="../../../_analyse/personnage_aa.html#amerine">Amerine</ref>, j'avoue que j'aurais offensé, si
+    j'étais celui que vous pensez que je sois. Mais
+    croyez-moi qui suis sur la fin de mon dernier jour,
+    je ne suis point <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref>, je suis <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> ;   et en
+    quelque erreur que l'on puisse être de moi à cette
+    heure, je m'assure que le temps découvrira ma
+    <ref target="../../../_analyse/glossaire_ik.html#justice">justice</ref>. Et cependant, j'élis plutôt la mort que
+    de manquer à l'affection que j'ai promise à la belle
+    <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, à qui je consacre ma vie, ne pouvant
+    autrement satisfaire à toutes deux.
+    Et lors, il continua :  - Ô belle <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, reçois cette
+    volonté que je t'offre, et permets que cette dernière
+    action soit de toutes les
+    miennes la mieux reçue, puisqu'elle s'en va
+    empreinte de ce beau caractère de ma fidélité.
+    Peu à peu le poison allait gagnant les esprits de
+    ces deux nouveaux épousés<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#363_recto">η</ref>, de sorte qu'à peine
+    pouvaient-ils respirer lorsque, tournant les yeux
+    sur moi, il me dit :  - Va, mon ami, parachève ce
+    que tu as à faire, et surtout raconte bien ce que
+    tu as vu, et que la mort m'est agréable, qui
+    m'empêche de noircir la fidélité que j'ai vouée à la belle <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>. <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, fut la dernière parole
+    qu'il dit ;   car avec ce mot cette belle âme sortit hors de ce corps, et je crois quant à moi que si jamais
+    Amant fut <ref target="../../../_analyse/glossaire_hh.html#heureux">heureux</ref> aux <ref target="../../../_analyse/repertoire_cc.html#champs_elysees">Champs-Élysées</ref>, mon maître
+    le sera en attendant qu'il vous puisse revoir. - Et
+    quoi, dit <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, il est donc bien<lb/>
+    <lb/>
+    <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">373 verso sic</hi> 363 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#363_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#363_verso">1621</ref>
+            </hi>
+          </p><p> vrai que <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>
+            <hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#363_verso_a">η</ref> est mort ?  - C'est sans doute,
+        répondit-il. - Ô dieux !  s'écria <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>. À ce mot, tout ce qu'elle put<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#363_verso">η</ref> faire fut de se jeter
+        sur un lit, car le cœur lui <ref target="../../../_analyse/glossaire_ff.html#faillir">faillait</ref>. Et après avoir
+        demeuré quelque temps le visage contre le <ref target="../../../_analyse/glossaire_cc.html#chevet">chevet</ref>, elle
+        pria <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>, qui était près d'elle, de prendre la
+        lettre de <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, et dire à <ref target="../../../_analyse/personnage_ee.html#egide">Égide</ref> qu'il s'en allât
+        chez elle, parce qu'elle s'en voulait servir. Ainsi <ref target="../../../_analyse/personnage_ee.html#egide">Égide</ref> se retira, mais si affligé qu'il était
+        tout couvert de larmes.
+    Alors <ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref> voulut montrer une de ses puissances :
+    car cette <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> qui n'avait jamais aimé
+    <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> en vie, <ref target="../../../_analyse/glossaire_aa.html#a_ceste_heure">à cette heure</ref> qu'elle ouït raconter
+    sa mort,  en montre un si grand ressentiment,<lb/>" que la personne la plus passionnée d'Amour<lb/>" n'en aurait
+    point davantage. Ce fut sur <lb/>" ce propos que <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>,
+	parlant à <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>,  disait <lb/>
+	qu'à l'avenir elle
+    croirait impossible qu'une femme une fois en sa vie
+    n'aimât quelque chose. - Car, disait-elle, cette
+    jeune <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> a usé de tant de cruauté envers tous
+    ceux qui l'ont aimée, que les uns<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#363_verso_b">η</ref> en sont morts de
+    déplaisir, les autres<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#363_verso_b">η</ref> de désespoir se sont bannis
+    de sa vue ; et même <ref target="../../../_analyse/glossaire_cc.html#cestuy_cy">celui-ci</ref> qu'elle pleure mort,
+    elle l'a réduit autrefois à telle extrémité que, sans <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>,  c'était fait de lui. De sorte que
+    j'eusse juré qu'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref> eût plutôt eu place dans les
+    glaçons les plus froids des <ref target="../../../_analyse/repertoire_aa.html#alpes">Alpes</ref>  que dans son
+    cœur, et toutefois vous voyez à cette heure à quoi
+    elle est réduite. - Madame, répondit le Berger, ne
+    croyez point que ce soit <ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>, c'est plutôt pitié.
+À la vérité, il faudrait<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">374 recto sic</hi> 364 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#364_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#364_recto">1621</ref>
+            </hi>
+          </p><p>  bien qu'elle fût de la
+    plus dure pierre qui fût jamais, si le rapport que ce
+    jeune homme a fait ne l'avait bien vivement touchée ;
+    car je ne sais qui ne le serait en l'oyant raconter,
+    encore que l'on n'eût autre connaissance de lui que
+    cette seule action. Et quant à moi, il faut que je dise
+    la vérité, je tiens <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> plus <ref target="../../../_analyse/glossaire_hh.html#heureux">heureux</ref> que s'il
+    était en vie, puisqu'il aimait cette <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> avec tant d'affection
+    et qu'elle le rudoyait avec tant de rigueur, comme
+    j'ai su. Car quel plus grand heur lui pouvait-il
+    advenir que de finir ses misères et entrer aux
+    félicités qui l'accompagnent ?  Quel croyez-vous que
+    soit son contentement de voir que <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref> le plaint, le regrette, et estime son affection ?  Mais je dis
+    cette <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref> qui autrefois l'a tant  rudoyé ; et
+    puis,   qu'est-ce que désire l'Amant que de pouvoir
+    rendre assurée la personne aimée de sa fidélité et
+    de son affection ?
+    Et pour parvenir à ce point,
+    quels supplices et quelles morts saurait-il
+    refuser, <ref target="../../../_analyse/glossaire_aa.html#a">à</ref> cette heure qu'il voit d'où il est les
+    larmes de sa <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, qu'il oit ses soupirs,  quel
+    est son heur, et quelle sa gloire,  non seulement
+    de l'avoir assurée de son  Amour, mais d'être
+    lui-même tout certain qu'elle l'aime ?  Ô non,
+    Madame, croyez-moi, <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> n'est point à plaindre,
+    mais <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> est bien <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>, car (et vous le verrez avec
+    le temps) tout ce qu'elle se représentera sera
+    d'ordinaire les actions de <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, les discours
+    de <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, sa façon, son amitié, sa valeur, bref,
+    cet <ref target="../../../_analyse/glossaire_ik.html#idole">idole</ref> lui ira volant d'ordinaire à l'<ref target="../../../_analyse/glossaire_ee.html#entour">entour</ref>,
+    presque <lb/>
+    <lb/>
+    <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">374 verso sic</hi> 364 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#364_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#364_verso">1621</ref>
+            </hi>
+          </p><p> comme vengeur<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#364_verso">η</ref> des cruautés dont elle a
+        tourmenté ce pauvre Amant, et les repentirs, qui l'iront
+        talonnant en ses pensées, seront les exécuteurs de la
+        justice d'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>.
+Ces propos se tenaient si haut et si près de <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>
+qu'elle les oyait tous, et cela la faisait crever,
+car elle les jugeait véritables. Enfin, après les
+avoir <ref target="../../../_analyse/glossaire_ss.html#soutenir">soutenus</ref> quelque temps et se reconnaissant
+trop faible pour résister à de  si forts ennemis, elle
+sortit de cette chambre, et s'alla retirer en la
+sienne où alors il n'y eut plus de retenue à ses
+larmes. Car, ayant fermé la porte après elle et prié
+<ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref> qu'elle la laissât seule, elle se rejette
+sur le lit où, les bras croisés sur l'<ref target="../../../_analyse/glossaire_ee.html#estomac">estomac</ref>, et
+les yeux contre le Ciel, elle allait repassant par
+sa mémoire toute leur vie passée, quelle affection il
+lui avait toujours fait paraître, comme il avait
+<ref target="../../../_analyse/glossaire_pp.html#patienter">patienté</ref> ses rigueurs, avec quelle discrétion il
+l'avait servie, combien de temps cette affection avait
+duré, et enfin, disait-elle, tout cela s'enclôt
+à cet heure dans un peu de terre. Et en ce regret, se ressouvenant de ses propres discours, de ses * Adieux, de ses impatiences, et de mille petites particularités, elle fut contrainte de dire :  - Tais-toi,
+<ref target="../../../_analyse/glossaire_mm.html#memoire">mémoire</ref>, laisse reposer les cendres de mon <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>,
+que si tu me tourmentes, je sais qu'il te désavouera pour sienne, et si tu ne l'es pas, je ne
+te veux point. Enfin, après avoir demeuré quelque
+temps muette, elle dit :  - Or bien, la pierre en est
+jetée, s'abrège ou s'étende ma vie comme il plaira
+aux Dieux et à ma destinée, mais je ne cesserai <lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">375 recto sic</hi> 365 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#365_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#365_recto">1621</ref>
+            </hi>
+          </p><p>d'aimer le souvenir de <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref>, de chérir son
+amitié et d'honorer ses vertus.
+<ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref> cependant ouvrit la lettre qui était
+demeurée entre les mains de <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>. Elle trouva
+qu'elle était telle : </p><p rend="center_t titres">
+Lettre de <ref target="../../../_analyse/personnage_ll.html#ligdamon">Ligdamon</ref> <lb/>
+à <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref>
+          </p><p rend="italics">  <hi rend="first">S</hi>i vous avez été offensée de l'<ref target="../../../_analyse/glossaire_no.html#outrecuidance">outrecuidance</ref> qui m'a
+  poussé à vous aimer, ma mort, qui s'en est <ref target="../../../_analyse/glossaire_ee.html#ensuivre">ensuivie</ref>,
+  vous vengera. Que si elle vous est indifférente, je
+  m'assure que ce dernier acte de mon affection me
+  gagnera quelque chose de plus avantageux en votre
+  âme. S'il advient ainsi, je chéris la ressemblance
+  de <ref target="../../../_analyse/personnage_ll.html#lydias">Lydias</ref> plus que ma naissance, puisque par elle
+  je vins au monde pour vous être <ref target="../../../_analyse/glossaire_ee.html#ennuyer">ennuyeux</ref>, et que
+  par celle-ci j'en sors vous étant agréable. </p><p>  Ce sont, sans mentir, dit <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>, de grandes
+    vengeances que celles d'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>, et je  me ressouviens
+    qu'un Pasteur des nôtres fit dernièrement sur le
+    tombeau d'un mari jaloux, tels vers :</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">375 verso sic</hi> 365 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#365_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#365_verso">1621</ref>
+            </hi> </p><p rend="center_t titres">
+            <ref target="../../../_analyse/glossaire_ss.html#sonnet">Sonnet</ref>
+            <lb/>
+  sur le tombeau d'un <lb/>
+  mari jaloux</p><p rend="center_t italics">
+            
+            <hi rend="first">
+              <hi rend="titres"/>D</hi>essous son pâle effroi cette tombe <ref target="../../../_analyse/glossaire_qr.html#relante">relente</ref>,<lb/>
+  Tient enclos l'ennemi du grand Dieu <ref target="../../../_analyse/repertoire_cc.html#cupidon">Cupidon</ref>.<lb/>De sa témérité la mort fut le <hi rend="glossaire">
+              <ref target="../../../_analyse/glossaire_gg.html#guerdon">guerdon</ref>
+            </hi>,<lb/>
+  Mort, qui, selon nos vœux, fut encore trop lente. <lb/>
+            <lb/>
+  C'est ce tyran cruel, dont la force * insolente<lb/>
+Rendait larcin d'Amour ce qui doit être un don,<lb/>
+        Et dédaignant les feux et l'Amoureux <ref target="../../../_analyse/glossaire_bb.html#brandon">brandon</ref>,<lb/>
+				Retenait la pitié, désespérait l'attente. <lb/>
+            <lb/>
+				C'est ce jaloux <ref target="../../../_analyse/repertoire_aa.html#argus">Argus</ref>, dont les cent yeux toujours,<lb/>
+        Curieux importuns, veillaient sur nos Amours,<lb/>
+        Et faisaient nos espoirs mourir avant que naître.<lb/>
+            <lb/>
+        Mais l'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>, par la mort, à la fin s'est vengé.<lb/>
+      Apprenez, ô mortels !  comme <ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref> outragé<lb/>      Fait, quoiqu'il tarde, enfin sa vengeance<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#365_verso">η</ref> paraître.</p><p>  - Il est tout vrai, répondit <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, qu'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref> ne
+        laisse jamais une offense contre lui impunie, et de
+        là vient que nous voyons en ceci de plus étranges
+        accidents qu'en tout le reste des actions humaines.
+        Mais si cela est, <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>, comment ne frémissez-vous
+      de peur ?  Comment n'attendez-vous de <ref target="../../../_analyse/glossaire_mm.html#moment">moment</ref> à autre</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">376 recto sic</hi> 366 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#366_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#366_recto">1621</ref>
+            </hi>
+          </p><p>        les traits vengeurs de ce Dieu ?  - Et pourquoi, dit
+        le Berger, dois-je craindre, puisque c'est moi qui
+        suis l'offensé ? - Ah <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref> ! dit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, si
+        toutes choses étaient justement balancées, combien
+        vous trouveriez-vous plus pesant aux offenses que
+        vous faites qu'en celles que vous recevez ! - C'est
+        là, lui dit <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>, c'est là le comble du malheur,
+        quand un affligé est cru bienheureux, et  qu'on le voit
+        languir sans en avoir pitié. - Mais, répondit la
+        <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, dites-moi, Berger, entre toutes les plus
+        grandes offenses, celle  de l'ingratitude ne tient-elle
+        pas le premier lieu ?  - Si fait, sans doute,
+        répondit-il. - Or, puisqu'il est ainsi, continua <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, comment
+        vous en pouvez-vous laver, puisqu'à
+        tant d'amitié que je vous fais paraître, je ne reçois
+        de vous que froideur et que dédain ?  Il a fallu enfin que j'aie dit ce mot. Voyez-vous,  Berger, étant
+        ce que je suis, et voyant ce que vous êtes, je
+        ne puis penser que je n'aie offensé en quelque chose
+        <ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>, puisqu'il me punit avec tant de rigueur. <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref> fut extrêmement <ref target="../../../_analyse/glossaire_mm.html#marri">marri</ref> d'avoir commencé ce
+        discours, car il l'allait fuyant le plus qu'il lui
+        était possible ;   toutefois, puisque c'en était
+        fait, il résolut de l'en éclaircir entièrement, et
+        ainsi il lui dit :  - Madame, je ne sais comment
+        répondre à vos paroles, sinon en rougissant, et
+        toutefois, <ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>, qui vous a fait parler, me contraint
+        de vous répondre. Ce que vous nommez en moi
+        ingratitude, mon affection le nomme devoir, et quand il
+      vous plaira<lb/>
+      <lb/>
+      <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">376 verso sic</hi> 366 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#366_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#366_verso">1621</ref>
+            </hi>
+          </p><p>  d'en savoir la raison, je la vous dirai.
+         - Et quelle raison, interrompit <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>,
+        pouvez-vous dire, sinon que vous aimez  ailleurs et
+         <lb/>" que votre <ref target="../../../_analyse/glossaire_ff.html#foy">foi</ref> vous oblige à cela ?  Mais la loi <lb/>" de la nature<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#366_verso">η</ref> précède toute autre, cette loi <lb/>" nous
+        commande de rechercher notre bien, et <lb/>
+        pouvez-vous
+        en désirer un plus grand que celui de mon amitié ?
+        Quelle<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#366_verso_a">η</ref> autre
+        y a-t-il en cette * contrée qui soit ce
+        que je suis,  qui puisse <ref target="../../../_analyse/glossaire_ff.html#faire">faire</ref> pour vous ce que je
+        puis ? Ce sont moqueries, <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>, que de s'arrêter à ces sottises de fidélité et de constance,
+        paroles que les vieilles et  celles qui deviennent
+        laides ont<lb/>" inventées  pour retenir, par ces liens, les
+        âmes <lb/>" que leurs visages mettaient en liberté. On <lb/>" dit
+        que toutes vertus sont enchaînées,   la constance <lb/>" ne
+        peut donc être sans la <ref target="../../../_analyse/glossaire_pp.html#prudence">prudence</ref>, <lb/>" mais serait-ce
+        <ref target="../../../_analyse/glossaire_pp.html#prudence">prudence</ref> de<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#366_verso_b">η</ref> dédaigner le bien <lb/>" certain pour fuir le
+        titre d'inconstant ?  - Madame, <lb/>" répondit <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>,
+        la <ref target="../../../_analyse/glossaire_pp.html#prudence">prudence</ref> ne nous <lb/>" apprendra jamais de faire notre
+        profit par un <lb/>" moyen honteux, ni la nature, par ses
+        lois, <lb/>" ne nous commandera jamais de bâtir avant <lb/>" que
+        d'avoir assuré le fondement. Mais y <lb/>" a-t-il quelque
+        <ref target="../../../_analyse/glossaire_cc.html#chose">chose</ref> plus honteuse que n'observer <lb/>" pas ce qui est
+        promis ? Y a-t-il rien <lb/>" de plus léger qu'un esprit
+        qui va comme <lb/>" l'abeille<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#366_verso_c">η</ref>, volant d'une fleur à l'autre,
+        attirée <lb/>" d'une nouvelle douceur ?
+        Madame, si la
+        fidélité <lb/>
+        se perd, quel fondement puis-je faire en
+        votre amitié ?  Puisque, si vous suivez la loi que
+        vous dites, combien demeurerai-je en ce bonheur ?
+      Autant que vous demeurerez<lb/>
+      <lb/>
+      <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">377 recto sic</hi> 367 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#367_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#367_recto">1621</ref>
+            </hi>
+          </p><p> en lieu où il n'y aura
+        point d'autre homme que moi ?<lb/>  La <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> et le Berger discouraient ainsi, cependant
+que <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref> se retira en sa chambre pour faire la
+<ref target="../../../_analyse/glossaire_dd.html#despeche">dépêche</ref> de <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref>, qui fut enfin de s'en revenir
+en toute diligence sans que nul sujet le pût<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#367_recto">η</ref> arrêter,   autrement, qu'il désespérât de toute
+chose. Et le lendemain que <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref> revint, après
+lui avoir donné sa lettre, elle lui dit :  - Vois-tu <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref>, c'est à ce <ref target="../../../_analyse/glossaire_cc.html#coup">coup</ref> qu'il faut que tu fasses
+paraître par ta diligence l'amitié que tu portes à <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref>, car le retardement ne peut lui rapporter rien de moins que la mort. Va donc, ou plutôt vole,
+et lui dis qu'il revienne encore plus promptement, et
+qu'à son retour il aille droit chez <ref target="../../../_analyse/personnage_aa.html#adamas">Adamas</ref>, parce
+que je le lui ai entièrement acquis, et, qu'étant ici,
+il saura la plus remarquable trahison d'Amour qui ait
+jamais été inventée. Mais qu'il vienne sans qu'on le
+sache, s'il est possible.
+Ainsi partit <ref target="../../../_analyse/personnage_ff.html#fleurial">Fleurial</ref>, si désireux de servir <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref> qu'il ne voulut pas même retourner en la maison
+de sa tante pour  ne perdre ce peu de temps et pour
+n'avoir occasion d'y envoyer celui<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#367_recto_a">η</ref> que <ref target="../../../_analyse/personnage_ll.html#lindamor">Lindamor</ref>
+avait dépêché, voulant lui-même lui faire ce bon
+service.
+Ainsi s'écoulèrent trois ou quatre jours, durant
+lesquels <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref> se remit de sorte qu'il ne
+ressentait presque plus de mal, et déjà commençait
+de trouver long le retour du <ref target="../../../_analyse/glossaire_dd.html#druide">Druide</ref>, pour l'espérance
+qu'il avait de sortir de ce lieu. Et pour<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">377 verso sic</hi> 367 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#367_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#367_verso">1621</ref>
+            </hi>
+          </p><p> abréger les
+    jours trop longs, il s'allait quelquefois promener
+    dans le jardin, et d'autres dans le grand bois de
+    haute <ref target="../../../_analyse/glossaire_ff.html#fustaye">futaie</ref>, mais non jamais sans y être
+    accompagné
+    de l'une des <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphes</ref>, et bien souvent de toutes trois.
+    L'humeur de <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref> était celle qui lui plaisait le
+    plus, comme sympathisant davantage avec la sienne ;
+    c'est pourquoi il la recherchait le plus qu'il pouvait. <lb/>  Il advint qu'un jour, étant tous quatre au <ref target="../../../_analyse/glossaire_pp.html#promenoir">promenoir</ref>,
+      ils passèrent devant la grotte de <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref> et de <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>, et parce que l'entrée semblait belle, et
+      * faite avec un grand art, le Berger demanda ce que
+      c'était.  À quoi <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref> répondit :  - Voulez-vous,
+      Berger, voir une des plus grandes preuves qu'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>      ait fait de sa puissance il y a longtemps ?  - Et
+      quelle est-elle ?  répondit le Berger. - C'est, dit
+      la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, les Amours de <ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> et de <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>,
+      car pour la Bergère <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>, c'est chose ordinaire.
+       - Et qui est, répliqua le Berger, cette
+       <ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> ?  - Si l'on connaît à l'œuvre quel est
+      l'ouvrier, dit <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>, à voir ce que je dis, vous
+      jugerez bien qu'elle est une des plus grandes
+      magiciennes de la <ref target="../../../_analyse/repertoire_gg.html#gaule">Gaule</ref> ;   car c'est elle qui a fait,
+      par ses enchantements, cette grotte et plusieurs
+      autres raretés qui sont autour d'ici.
+      Et lors, entrant dedans, le Berger demeura <ref target="../../../_analyse/glossaire_qr.html#ravi">ravi</ref> en la
+      considération de l'ouvrage. L'entrée était fort haute
+      et spacieuse ;   aux deux côtés, au lieu de piliers,
+      étaient deux <ref target="../../../_analyse/glossaire_tt.html#terme_arc">Termes</ref> qui, sur leur tête, soutenaient
+      les bouts de la voûte du portail. <lb/>
+      <lb/>
+      <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">378 recto sic</hi> 368 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#368_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#368_recto">1621</ref>
+            </hi>
+          </p><p> L'un figurait <ref target="../../../_analyse/repertoire_pp.html#pan">Pan</ref>        et l'autre <ref target="../../../_analyse/repertoire_ss.html#syringue">Syrinx</ref>, qui étaient fort
+        <ref target="../../../_analyse/glossaire_ik.html#industrieusement">industrieusement</ref> revêtus de petites pierres de
+        diverses couleurs, les cheveux, les sourcils, les
+        moustaches, la barbe et les deux cornes de <ref target="../../../_analyse/repertoire_pp.html#pan">Pan</ref> étaient de coquilles de mer, si proprement mises
+        que le ciment n'y paraissait point. <ref target="../../../_analyse/repertoire_ss.html#syringue">Syrinx</ref>, qui
+        était de l'autre côté, avait les cheveux de roseaux,
+        et en quelques lieux depuis le nombril on les voyait
+        comme croître peu à peu. Le tour de la porte était
+        par le dehors à la <ref target="../../../_analyse/glossaire_qr.html#rustique">rustique</ref>, et pendaient des festons
+        de coquille rattachés en quatre endroits, finissant
+        auprès de la tête des deux <ref target="../../../_analyse/glossaire_tt.html#terme_arc">Termes</ref>. Le dedans de la
+        voûte était en pointe de rocher, qui semblait en
+        plusieurs lieux <ref target="../../../_analyse/glossaire_dd.html#desgoutter">dégoutter</ref> le salpêtre, et sur le
+        milieu s'entrouvrait  en ovale, par où toute la clarté
+        entrait dedans. Ce lieu, tant par dehors que par dedans, était enrichi d'un grand nombre de statues,
+        qui, enfoncées dans leurs niches, faisaient diverses
+        fontaines, et toutes représentaient quelque effet
+        de la puissance d'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>.
+  Au milieu de la grotte, on voyait le tombeau<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#368_recto">η</ref> élevé
+  de la hauteur de dix ou douze <ref target="../../../_analyse/glossaire_pp.html#pied">pieds</ref>, qui, par le haut,
+  se fermait en couronne, et tout  à  l'<ref target="../../../_analyse/glossaire_ee.html#entour">entour</ref>, était
+  garni de tableaux dont les peintures étaient si
+  bien faites que la vue en <ref target="../../../_analyse/glossaire_dd.html#decevoir">décevait</ref> le jugement.
+  La séparation
+  de chaque tableau se faisait par des demi-piliers de
+  marbre noir rayés,   les <ref target="../../../_analyse/glossaire_ee.html#encoigneure">encoignures</ref> du tombeau, les
+  bases, et les chapiteaux des demi-colonnes, et la
+  <ref target="../../../_analyse/glossaire_cc.html#cornice">corniche</ref> qui tout à l'<ref target="../../../_analyse/glossaire_ee.html#entour">entour</ref>,<lb/>
+  <lb/>
+  <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ <hi rend="small_sic">378 verso sic</hi> 368 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#368_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#368_verso">1621</ref>
+            </hi>
+          </p><p>  en façon de ceinture,
+    rattachait ces tableaux et de diverses pièces n'en
+    faisait qu'une bien composée, était du même marbre.
+    La <ref target="../../../_analyse/glossaire_cc.html#curieux">curiosité</ref> de <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref> fut bien assez grande, après avoir
+    considéré le tout ensemble, pour désirer d'en savoir
+    les particularités, et afin de donner occasion à la
+    <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref> de lui en dire quelque chose, il louait
+    l'invention et l'artifice de l'ouvrier. - Ce sont,
+    ajouta la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, les esprits de <ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref>, qui,
+    depuis quelque temps, ont laissé ceci pour témoignage
+    que   l'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref> ne pardonne non plus au poil <ref target="../../../_analyse/glossaire_cc.html#chenu">chenu</ref> qu'aux
+    cheveux blonds,
+     et pour raconter à jamais à ceux qui
+    viendront ici les infortunées<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#368_verso">η</ref> * et fidèles Amours de
+    <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>, d'elle, et de la Bergère <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>. - Et quoi,
+    répliqua <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>, est-ce ici la fontaine de la
+    vérité d'Amour ?  - Non, répondit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, mais elle
+    n'est pas loin d'ici, et je voudrais avoir assez
+    d'esprit pour vous faire entendre ces tableaux, car
+    l'histoire est bien digne d'être sue.
+    Ainsi qu'elle s'en approchait pour les lui expliquer,
+    elle vit entrer <ref target="../../../_analyse/personnage_aa.html#adamas">Adamas</ref>, qui, étant de retour, et
+    ne trouvant point les <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphes</ref> dans le logis, jugea
+    qu'elles étaient au <ref target="../../../_analyse/glossaire_pp.html#promenoir">promenoir</ref>, où, après avoir caché
+    les habits qu'il portait, il les vint trouver si à
+    propos qu'il semblait que la <ref target="../../../_analyse/repertoire_ff.html#fortune_dieu">fortune</ref> le conduisit
+    là pour lui faire déduire les Amours de cette
+    <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>. Aussi <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref> ne l'aperçut plus tôt
+    qu'elle   s'écria :  - Ô mon père, vous voici venu tout à
+    temps pour me sortir de la peine où j'étais.<lb/>
+    <lb/>
+    <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 369 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#369_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#369_recto">1621</ref>
+            </hi> </p><p> Et lors,
+        s'adressant à <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref> :  - Voici, Berger, qui satisfera
+        au désir que vous avez de savoir cette histoire.
+        Et après lui avoir demandé comme il se portait, et que
+        les salutations furent faites d'un côté et d'autre,
+        <ref target="../../../_analyse/personnage_aa.html#adamas">Adamas</ref>, pour obéir au commandement de la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>
+        et contenter la <ref target="../../../_analyse/glossaire_cc.html#curieux">curiosité</ref> du Berger, s'approchant
+        avec eux du tombeau, commença de cette sorte : </p><p rend="center_t titres">
+            Histoire de <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>
+            <lb/>
+        et de <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>
+          </p><p>  <hi rend="first">T</hi>out   ainsi que l'ouvrier se joue de son œuvre, et en
+fait comme il lui plaît, de même les grands
+Dieux, de la main desquels nous sommes formés,
+prennent plaisir à nous faire jouer sur le théâtre
+du monde le personnage qu'ils nous ont élu. Mais
+entre tous, il n'y en a point qui ait des <ref target="../../../_analyse/glossaire_ik.html#imagination">imaginations</ref> si <ref target="../../../_analyse/glossaire_bb.html#bijarre">bizarres</ref> qu'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>, car il rajeunit les vieux et
+envieillit les jeunes en aussi peu de temps que dure
+l'éclair d'un bel œil. Et cette histoire qui est
+plus véritable que je ne voudrais en rend une preuve
+que malaisément peut-on contredire, comme par la
+suite  de mon discours vous avouerez.<lb/>
+<lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 369 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#369_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#369_verso">1621</ref>
+            </hi>
+          </p><p rend="center_t titres">Tableau premier.</p><p>   <hi rend="first">V</hi>oyez-vous, en premier lieu, ce Berger assis en terre,
+le dos appuyé contre ce chêne, les jambes croisées,
+qui joue de la cornemuse ?  C'est le beau Berger <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>  qui eut ce nom de beau pour la perfection
+de son visage. Ce jeune Berger <ref target="../../../_analyse/glossaire_pp.html#paitre">paissait</ref> ses brebis le long de votre
+doux <ref target="../../../_analyse/repertoire_ll.html#lignon">Lignon</ref>, étant né d'une des meilleures familles
+de <ref target="../../../_analyse/repertoire_mm.html#montverdun">Montverdun</ref>, et non point trop éloigné parent
+de la vieille <ref target="../../../_analyse/personnage_cc.html#cleontine">Cléontine</ref> et de la mère de <ref target="../../../_analyse/personnage_ll.html#leonide">Léonide</ref>, et
+par conséquent en quelque sorte mon allié<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#369_verso">η</ref>. Prenez
+garde comme ce visage, outre qu'il est beau, représente
+bien  naïvement une personne qui n'a  souci que de se
+contenter ;   car vous y voyez je ne sais quoi d'ouvert
+et de serein, sans trouble ni nuage de fâcheuses
+<ref target="../../../_analyse/glossaire_ik.html#imagination">imaginations</ref>. Et au contraire tournez les yeux sur
+ces Bergères qui sont autour de lui. Vous jugerez bien
+à la façon de leur visage qu'elles ne sont pas sans
+peine, car autant que <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref> a l'esprit libre et
+reposé, autant ont ces Bergères les cœurs
+passionnés pour lui, encore, comme vous voyez, qu'il
+ne daigne tourner les yeux sur elles ; et c'est
+pourquoi on a peint tout auprès, <ref target="../../../_analyse/glossaire_aa.html#a_cote">du côté</ref> droit, en
+l'air, ce petit enfant nu, avec l'arc et le flambeau
+en la main, les yeux bandés, le dos ailé, l'épaule
+chargée d'un carquois, qui le menace de l'autre main.
+C'est <ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>, qui, offensé du mépris <lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 370 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#370_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#370_recto">1621</ref>
+            </hi>
+          </p><p> que ce Berger
+    fait de ces Bergères, jure qu'il se vengera  * de lui.
+    Mais pour l'embellissement du Tableau, prenez garde
+    comme l'art de la peinture y est bien observé, soit
+    aux raccourcissements, soit aux ombrages ou aux
+    proportions. Voyez comme il semble que le bras du
+    Berger s'enfonce un peu dans l'enflure de cet
+    instrument, et comme la <ref target="../../../_analyse/glossaire_cc.html#cane">canne</ref> par où il souffle,
+    semble en haut avoir un peu perdu de sa teinture :
+    c'est parce que la bouche moite la lui a ôtée.
+    Regardez à main gauche comme ses brebis paissent,
+    voyez-en les unes couchées à l'ombre, les autres
+    qui se lèchent la jambe,
+    les autres comme <ref target="../../../_analyse/glossaire_ee.html#estonner">étonnées</ref> qui regardent ces deux
+    béliers qui se viennent heurter de toute leur force.
+    Prenez garde au tour que <ref target="../../../_analyse/glossaire_cc.html#cestuy_cy">celui-ci</ref> fait du <ref target="../../../_analyse/glossaire_cc.html#col">col</ref>, car
+    il baisse la tête en sorte que l'autre, l'attaquant,
+    rencontre seulement ses cornes. Mais le
+    raccourcissement du dos de l'autre est bien aussi
+    <ref target="../../../_analyse/glossaire_aa.html#artificiel">artificiel</ref>, car la nature, qui lui apprend que la
+    vertu <ref target="../../../_analyse/glossaire_uz.html#uni">unie</ref> a plus de force, le fait tellement resserrer
+    en un <ref target="../../../_analyse/glossaire_mm.html#monceau">monceau</ref> qu'il semble presque rond. Le devoir
+    même des chiens n'y est pas oublié, qui, pour s'opposer
+    aux <ref target="../../../_analyse/glossaire_cc.html#course">courses</ref> des loups, se tiennent sur les ailes
+    du côté du bois. Et semble qu'ils se soient mis
+    comme trois sentinelles, sur des lieux relevés, afin de voir de plus loin, ou, comme je pense, afin de se voir l'un l'autre, et se secourir en la nécessité. Mais considérez la soigneuse <ref target="../../../_analyse/glossaire_ik.html#industrie">industrie</ref> du peintre. Au lieu que les chiens qui dorment sans souci ont
+accoutumé de se mettre en <lb/>
+<lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 370 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#370_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#370_verso">1621</ref>
+            </hi>
+          </p><p>rond et bien souvent se
+    cachent la tête sous les pattes presque pour se
+    dérober la clarté, ceux qui sont peints ici sont
+    couchés d'une autre sorte pour montrer qu'ils ne
+    dorment pas, mais reposent seulement ;   car ils sont
+    couchés sur les quatre pieds, et ont le nez tout
+    le long des jambes de devant, tenant toujours les
+    yeux ouverts aussi <ref target="../../../_analyse/glossaire_cc.html#curieux">curieusement</ref> qu'un homme saurait
+    faire.
+Mais voyons l'autre tableau. </p><p rend="center_t titres">Tableau deuxième.</p><p>  <hi rend="first">V</hi>oici le second Tableau, qui est bien contraire au
+précédent, car celui-là est plein de mépris,
+<ref target="../../../_analyse/glossaire_cc.html#cestuy_cy">celui-ci</ref> l'est d'Amour, s'il ne montre qu'orgueil,
+<ref target="../../../_analyse/glossaire_cc.html#cestuy_cy">celui-ci</ref> ne fait paraître que douceur et soumission,
+et en voyez-vous ici la cause.
+Regardez cette Bergère assise contre ce buisson comme
+elle est belle et <ref target="../../../_analyse/glossaire_pp.html#proprement">proprement</ref> vêtue. Ses cheveux
+relevés par devant s'en vont folâtrant en liberté
+sur ses épaules, et semble que le vent, à l'<ref target="../../../_analyse/glossaire_ee.html#envy">envi</ref> de la nature, par son souffle, les aille <ref target="../../../_analyse/glossaire_qr.html#recresper">recrêpant</ref> en onde, mais c'est que, jaloux des petits <ref target="../../../_analyse/repertoire_aa.html#amour">Amours</ref> qui
+s'y trouvent cachés et qui vont y tendant leurs * <ref target="../../../_analyse/glossaire_ll.html#lacs">lacs</ref>,
+il les en veut chasser. Et de fait, voyez-en quelques-uns emportés par force, d'autres qui se tiennent aux
+nœuds qu'ils y ont faits, et d'autres qui  essayent
+d'y retourner, mais ils ne<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 371 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#371_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#371_recto">1621</ref>
+            </hi>
+          </p><p> peuvent, tant leur aile
+     encore faiblette est contrariée de l'importunité de
+    <ref target="../../../_analyse/repertoire_uz.html#zephir">Zéphyr</ref>. C'est la belle Bergère <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>, de qui l'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref>
+veut se servir
+pour faire la vengeance promise contre <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>, qui est
+ce Berger que vous voyez debout près d'elle, appuyé
+sur sa <ref target="../../../_analyse/glossaire_hh.html#houlette">houlette</ref>. Considérez ces petits <ref target="../../../_analyse/repertoire_aa.html#amour">Amours</ref> qui sont tous <ref target="../../../_analyse/glossaire_ee.html#embesoigner">embesognés</ref> autour d'eux, et comme chacun est attentif à ce qu'il
+fait. En voici un qui prend la mesure des sourcils de
+la Bergère, et la donne à l'autre, qui, avec un
+couteau, <ref target="../../../_analyse/glossaire_ee.html#escarter">écarte</ref> son arc afin de le <ref target="../../../_analyse/glossaire_cc.html#compasser">compasser</ref> semblable à leur <ref target="../../../_analyse/glossaire_tt.html#tour">tour</ref>. Et voici un autre qui, ayant
+dérobé quelques cheveux de cette Belle, de si beau
+larcin veut faire la corde de l'arc de son
+compagnon. Voyez comme il s'est assis en terre, comme
+il a lié le commencement de sa corde au gros orteil,
+qui se renverse un peu pour être trop tiré. Prenez garde que, pour mieux <ref target="../../../_analyse/glossaire_cc.html#cordonner">coordonner</ref>, un autre lui porte sa
+pleine main de larmes de quelque Amant pour lui
+ mouiller les doigts. Considérez comme il tient les
+reins, je ne sais comment pliés, que dessous le bras
+droit vous lui voyez paraître la moitié du devant,
+encore qu'il montre tout à plein le derrière de
+l'épaule droite. En voici un autre qui, ayant mis la
+corde à un des bouts de l'arc, afin de la mettre en
+l'autre, baisse ce côté en terre, et, du genou
+gauche, plie l'arc en dedans, de l'<ref target="../../../_analyse/glossaire_ee.html#estomac">estomac</ref> il
+s'appuie dessus, et, de la main gauche et de la droite,
+il tâche de faire glisser la corde jusqu'en bas.
+<ref target="../../../_analyse/repertoire_cc.html#cupidon">Cupidon</ref> est un peu plus haut, de qui la main <lb/>
+<lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 371 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#371_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#371_verso">1621</ref>
+            </hi>
+          </p><p> gauche
+    tient son arc, ayant la droite encore derrière
+    l'<ref target="../../../_analyse/glossaire_aa.html#aureille">oreille</ref>, comme s'il venait de lâcher son trait,
+    car voyez lui le coude levé, le bras retiré, les trois
+    premiers doigts entrouverts, et presque étendus, et
+    les autres deux  retirés dans la main, et certes son
+    coup ne fut point en vain, car le pauvre Berger en fut
+    tellement blessé que la mort seule le put<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#371_verso_a">η</ref> guérir.
+    Mais regardez un peu de l'autre côté, et voyez
+    cet <ref target="../../../_analyse/repertoire_aa.html#anteros">Antéros</ref>, qui, avec des chaînes de roses et de
+    fleurs, lie les bras et le <ref target="../../../_analyse/glossaire_cc.html#col">col</ref> de la belle Bergère <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>, et puis les remet aux mains du Berger. C'est
+    pour nous faire entendre que les mérites, l'Amour,
+    et les services de ce beau Berger, qui sont figurés
+    par ces fleurs, obligèrent <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref> à une Amour
+    réciproque envers lui. Que si vous trouvez étrange
+    qu'<ref target="../../../_analyse/repertoire_aa.html#anteros">Antéros</ref> soit ici représenté plus grand que
+    <ref target="../../../_analyse/repertoire_cc.html#cupidon">Cupidon</ref>, sachez que c'est pour vous faire entendre
+    que l'Amour qui naît<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#371_verso">η</ref> de l'Amour est toujours
+    plus grande que celle dont elle procède.
+    Mais passons au troisième.</p><p rend="center_t">
+            <hi rend="titres">Troisième <lb/>
+    Tableau</hi>.</p><p>  <hi rend="first">L</hi>ors <ref target="../../../_analyse/personnage_aa.html#adamas">Adamas</ref> continua : Voici votre belle rivière
+        de <ref target="../../../_analyse/repertoire_ll.html#lignon">Lignon</ref>. Voyez comme elle prend une double source,
+        l'une venant des</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 372 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#372_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#372_recto">1621</ref>
+            </hi>
+          </p><p> montagnes de <ref target="../../../_analyse/repertoire_cc.html#cervieres">Cervières</ref> et l'autre
+        de  <ref target="../../../_analyse/repertoire_cc.html#chalmasel">Chalmasel</ref>, qui viennent se joindre un peu par-dessus la marchande ville de <ref target="../../../_analyse/repertoire_bb.html#boing">Boën</ref>.
+        Que tout ce paysage est bien fait, et les bords
+        tortueux de cette rivière, avec ces petits aunes
+        qui la<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#372_recto_a">η</ref> bornent ordinairement !  Ne connaissez-vous
+        point ici le bois qui <ref target="../../../_analyse/glossaire_cc.html#confiner">confine</ref> ce grand pré, où le
+        plus souvent les Bergers paresseux <ref target="../../../_analyse/glossaire_pp.html#paitre">paissent</ref> leurs
+        troupeaux ?  Il me semble que cette grosse <ref target="../../../_analyse/glossaire_tt.html#touffe">touffe</ref>        d'arbres à main gauche, ce petit <ref target="../../../_analyse/glossaire_bb.html#biez">bié</ref>  qui serpente
+        sur le côté droit, et cette demi-lune que fait la
+        rivière en cet endroit, vous le doit bien remettre
+        devant les yeux ; que s'il n'est <ref target="../../../_analyse/glossaire_aa.html#a_ceste_heure">à cette heure</ref> <ref target="../../../_analyse/glossaire_dd.html#du_tout">du tout</ref> semblable, ce n'est que le Tableau soit faux,
+        mais c'est que quelques arbres depuis ce temps-là
+        sont morts, et d'autres <ref target="../../../_analyse/glossaire_cc.html#creus">crûs</ref>, que la rivière  en<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#372_recto">η</ref> des
+        lieux s'est avancée, et reculée en d'autres, et
+        toutefois il n'y a guère de changement.
+        <ref target="../../../_analyse/glossaire_no.html#or_maintenant">Or</ref> regardez un peu plus bas le long de <ref target="../../../_analyse/repertoire_ll.html#lignon">Lignon</ref>, voici
+        une troupe de brebis qui est à l'ombre. Voyez comme
+        les unes ruminent <ref target="../../../_analyse/glossaire_ll.html#laschement">lâchement</ref>, et les autres tiennent
+        le nez en terre pour en tirer la fraîcheur. C'est
+        le troupeau de <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>,  que vous verrez si vous
+        tournez la vue en <ref target="../../../_analyse/glossaire_cc.html#ca">ça</ref>, dans l'eau jusques à la
+        ceinture. Considérez comme ces jeunes arbres
+        courbés le couvrent des rayons du Soleil, et semblent
+        presque * être  jaloux<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#372_recto_b">η</ref> qu'autre qu'eux   le voie. Et
+        toutefois la <ref target="../../../_analyse/glossaire_cc.html#curieux">curiosité</ref> du Soleil est si grande
+        qu'encore entre les diverses feuilles, il trouve
+        passage à quelques-uns de ses rayons. <lb/>
+      <lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 372 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#372_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#372_verso">1621</ref>
+            </hi>
+          </p><p> Prenez garde
+        comme cette ombre et cette clarté y sont bien
+        représentées. Mais certes, il faut aussi avouer que
+        ce Berger ne peut être surpassé en beauté.
+        Considérez les traits délicats et proportionnés du visage, sa taille droite et longue, ce <ref target="../../../_analyse/glossaire_ff.html#flanc">flanc</ref>        arrondi, cet <ref target="../../../_analyse/glossaire_ee.html#estomac">estomac</ref> relevé, et voyez s'il y a rien
+        qui ne soit en perfection, encore qu'il soit un
+        peu courbé pour mieux se servir de l'eau, et que
+        de la main droite il frotte le bras gauche, <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> est-ce
+        qu'il ne fait action qui empêche de reconnaître sa
+        parfaite beauté. Or jetez l'œil de l'autre côté du rivage si vous
+ne craignez d'y voir le laid en sa perfection, comme
+en la sienne vous avez vu le beau ; car entre ces
+ronces effroyables, vous verrez la magicienne
+<ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> contemplant le Berger en son bain. La voici
+vêtue presque en <ref target="../../../_analyse/glossaire_dd.html#despit">dépit</ref> de ceux qui la regardent,
+échevelée, un bras nu, et la robe d'un côté
+retroussée plus haut que le genou. Je crois qu'elle
+vient de faire * quelques sortilèges, mais jugez ici
+l'effet d'une beauté. Cette vieille, que vous voyez si ridée qu'il semble
+que chaque moment de sa vie ait mis  un sillon en son
+visage  maigre, petite, toute <ref target="../../../_analyse/glossaire_cc.html#chenu">chenue</ref>, les cheveux
+à moitié tondus, toute <ref target="../../../_analyse/glossaire_aa.html#accrouppir">accroupie</ref>, et, selon son âge, plus propre pour  cercueil que pour la vie, n'a
+honte de s'éprendre de ce jeune Berger. Si l'amour vient de la <ref target="../../../_analyse/glossaire_ss.html#sympathie">sympathie</ref>, comme on dit, je ne sais pas
+bien où l'on la pourra trouver entre <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref> et elle.
+Voyez <lb/>" quelle mine elle fait en son extase. Elle
+étend <lb/>
+<lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 373 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#373_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#373_recto">1621</ref>
+            </hi>
+          </p><p>    la tête, allonge le <ref target="../../../_analyse/glossaire_cc.html#col">col</ref>, <ref target="../../../_analyse/glossaire_ss.html#serrer">serre</ref> les épaules,
+    tient les bras joints le long des côtés, et les
+    mains assemblées en son <ref target="../../../_analyse/glossaire_gg.html#giron">giron</ref>. Le meilleur est que,
+    pensant sourire, elle fait la moue. <ref target="../../../_analyse/glossaire_ss.html#si">Si est-ce</ref> que
+    telle qu'elle est elle ne <ref target="../../../_analyse/glossaire_ll.html#laisser">laisse</ref> de rechercher
+    l'amour du beau Berger.
+    Or haussez un peu les yeux, et voyez dans cette nue <ref target="../../../_analyse/repertoire_uz.html#venus">Vénus</ref> et <ref target="../../../_analyse/repertoire_cc.html#cupidon">Cupidon</ref> qui, regardant cette nouvelle
+    Amante, semblent éclater de rire. C'est que sans
+    doute ce petit Dieu, pour quelque gageure peut-être
+    qu'il avait faite avec sa mère, n'a pas <ref target="../../../_analyse/glossaire_pp.html#plaindre">plaint</ref>  un
+    trait qui toutefois devait être tout usé de
+    vieillesse pour faire un si beau coup. Que si ce
+    n'est par gageure, c'est pour faire voir en cette vieille
+    que le bois sec brûle mieux et plus aisément que le
+    vert, ou bien que, pour montrer sa puissance sur cette
+    vieille hôtesse des tombeaux, il lui plaît de faire
+    preuve de l'ardeur de son flambeau, avec lequel il
+    me semble qu'il lui redonne une nouvelle âme, et pour
+    dire en un mot, qu'il la fasse ressusciter et sortir
+    du cercueil.</p><p rend="center_t titres">Tableau quatrième.</p><p>  <hi rend="first">M</hi>ais passons à cet autre. Voici  une nuit fort bien représentée. Voyez comme
+    sous l'<ref target="../../../_analyse/glossaire_no.html#obscur">obscur</ref> de ses ombres ces montagnes paraissent
+    en sorte qu'elles se montrent un peu, et <ref target="../../../_analyse/glossaire_ss.html#si">si</ref>, en effet,
+    on ne saurait bien juger que c'est. Prenez garde
+    comme ces étoiles semblent trémousser.</p><p>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 373 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#373_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#373_verso">1621</ref>
+            </hi>
+          </p><p> Voyez comme
+        ces autres sont si<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#373_verso">η</ref> bien disposées que l'on  les<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#373_verso_a">η</ref> peut
+        reconnaître.  Voilà la <ref target="../../../_analyse/repertoire_no.html#ourse_grande">grande Ourse</ref> ; voyez comme
+        le judicieux<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#373_verso_b">η</ref> ouvrier, encore qu'elle ait vingt-sept
+        étoiles, toutefois n'en représente clairement que
+        douze, et de ces douze encore n'y en fait-il que
+        sept bien éclatantes. Voyez la <ref target="../../../_analyse/repertoire_no.html#ourse_petite">petite Ourse</ref> ;
+        considérez que d'autant que jamais ces sept étoiles
+        ne se cachent, encore qu'il y en ait une de la
+        troisième <ref target="../../../_analyse/glossaire_gg.html#grandeur">grandeur</ref> et quatre de la quatrième,
+        toutefois il nous les fait voir toutes, observant
+        leur proportion. Voilà le <ref target="../../../_analyse/repertoire_dd.html#dragon">Dragon</ref>, auquel il a bien
+        mis les trente   une étoiles, mais <ref target="../../../_analyse/glossaire_ss.html#si">si</ref> n'en
+        montre-t-il bien que treize dont les cinq, comme
+        vous voyez, sont de la quatrième <ref target="../../../_analyse/glossaire_gg.html#grandeur">grandeur</ref>, et les
+        huit de la troisième. Voici la couronne d'<ref target="../../../_analyse/repertoire_aa.html#adriane">Ariane</ref>,
+        qui a bien ses huit étoiles, mais il n'y en a que
+        six qui soient bien <ref target="../../../_analyse/glossaire_uz.html#voyant">voyantes</ref>,  encore en voici une
+        qui est la plus reluisante de toutes. Voyez-vous
+        de ce côté la <ref target="../../../_analyse/repertoire_uz.html#voye_de_laict">Voie de lait</ref>, par où * les <ref target="../../../_analyse/repertoire_qr.html#romains">Romains</ref> tiennent que les Dieux descendent en terre et
+        remontent au Ciel. Mais que ces nuages sont bien
+        représentés, qui, en quelques lieux, couvrent le Ciel
+        avec épaisseur, en d'autres, seulement comme une
+        légère fumée, et ailleurs, point du tout ! Selon
+        qu'ils sont plus ou moins élevés, ils sont plus ou
+        moins clairs. Or, considérons l'histoire de ce Tableau. Voici
+<ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> au milieu d'un <ref target="../../../_analyse/glossaire_cc.html#cerne">cerne</ref>, une baguette en la
+main droite, un livre tout crasseux en l'autre, avec
+une chandelle de cire <ref target="../../../_analyse/glossaire_uz.html#vierge">vierge</ref>, des <lb/>
+<lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 374 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#374_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#374_recto">1621</ref>
+            </hi>
+          </p><p>lunettes fort
+      troubles au nez, voyez comme il semble qu'elle
+      marmotte, et comme elle tient les yeux tournés d'une
+      étrange façon, la bouche demi-ouverte, et faisant
+      une mine si étrange des sourcils et du reste du
+      visage qu'elle montre bien de <ref target="../../../_analyse/glossaire_tt.html#travailler">travailler</ref> d'affection.
+      Mais prenez garde comme elle a le pied, le côté,
+      le bras, et l'épaule gauche nus, c'est pour être
+      le côté du cœur. Ces fantômes que vous lui voyez
+      autour sont démons qu'elle a contraint venir à
+      elle par la force de ses charmes, pour savoir comme
+      elle pourra être aimée de <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>.   Ils lui
+      déclarent l'affection qu'il porte à <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>, qu'il
+      n'y a point de meilleur moyen que de lui persuader
+      que cette Bergère aime ailleurs, et que, pour le faire
+      plus aisément, il faut qu'elle change pour ce <ref target="../../../_analyse/glossaire_cc.html#coup">coup</ref>      la vertu de la  fontaine de la vérité d'amour<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#fontaine_verite">η</ref>.
+      Avant que passer plus outre, considérez un peu
+      l'artifice de cette peinture : voyons les effets
+      de la chandelle de <ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> entre les obscurités
+      de la nuit. Elle a tout le côté gauche du visage
+      fort clair, et le reste tellement obscur qu'il
+      semble d'un visage différent, la bouche entrouverte
+      paraît par le dedans claire, autant que l'ouverture
+      peut permettre à la clarté d'y entrer, et le bras qui
+      tient la chandelle, vous le voyez, auprès de la main,
+      fort obscur, à cause que le livre qu'elle tient y
+      fait ombre, et le reste est si clair
+      par le dessus qu'il fait plus paraître la noirceur du
+      dessous. Et de même avec combien de considération
+      ont été observés<lb/>
+      <lb/>
+      <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 374 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#374_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#374_verso">1621</ref>
+            </hi>
+          </p><p>  les effets que cette chandelle         fait en ces démons, car les uns et les autres, selon
+        qu'ils sont tournés, sont éclairés ou obscurcis.
+        Or voici un  grand artifice de la peinture, qui
+        est cet éloignement, car la <ref target="../../../_analyse/glossaire_pp.html#perspective">perspective</ref> y est si
+        bien observée que vous diriez que cet autre
+        accident, qu'il veut représenter de <ref target="../../../_analyse/glossaire_dd.html#deca">deçà</ref>, est
+        hors de ce Tableau et bien éloigné d'ici, et
+        c'est<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#374_verso">η</ref> <ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> encore qui est à la fontaine de la vérité d'Amour<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#fontaine_verite">η</ref>.
+Mais pour vous faire mieux entendre le tout, sachez
+que, quelque temps auparavant, une belle Bergère, fille
+d'un Magicien très savant, s'éprit si secrètement
+d'un Berger que son père ne s'en   aperçut<lb/>" point. Soit que les charmes de la magie ne <lb/>" puissent rien sur
+  les charmes d'Amour, ou soit <lb/>" qu'attentif à ses
+  études, il ne jetât point l'œil <lb/>" sur elle. Tant y a qu'après une très ardente <lb/>" amitié, d'autant qu'en
+  Amour il n'y a rien de <lb/>" plus insupportable que le
+  dédain, et que ce <lb/>" Berger la méprisait pour s'être
+  dès longtemps <lb/>
+  " voué ailleurs, elle fut réduite  à
+  tel terme que peu à peu, son feu croissant et ses
+  forces diminuant, elle vint à mourir sans que le
+  savoir de son père la pût<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#374_verso_a">η</ref> secourir. De quoi le Magicien étant fort <ref target="../../../_analyse/glossaire_mm.html#marri">marri</ref>, quand il en sut
+  l'occasion, afin d'en marquer la <ref target="../../../_analyse/glossaire_mm.html#memoire">mémoire</ref> à jamais,
+    changea son tombeau en fontaine, qu'il nomma vérité
+  d'Amour, parce que qui aime, s'il y regarde, y voit
+  sa Dame, et s'il en est aimé, il s'y voit auprès, ou
+  bien celui qu'elle aime ;   que si elle n'aime rien, elle
+  paraît toute seule<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#fontaine_verite">η</ref>. <lb/>
+  <lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 375 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#375_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#375_recto">1621</ref>
+            </hi>
+          </p><p> Et c'est cette vertu que <ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> veut changer, afin que <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref> y venant voir,
+    et trouvant que sa Maîtresse en aime un autre, il
+    perde aussi l'affection qu'il lui porte, et qu'elle
+    ait ainsi la place libre. Et voyez comme elle
+    l'enchante, quels caractères elle fait tout  autour,
+    quels triangles, quels carrés enlacés avec ses <ref target="../../../_analyse/glossaire_qr.html#rond">ronds</ref>. Croyez qu'elle n'y oublie rien qui y soit nécessaire,
+    car cet <ref target="../../../_analyse/glossaire_aa.html#affaire">affaire</ref> lui touche de trop près. Auparavant,
+    elle avait, par ses sortilèges, assemblé tous ses
+    démons pour trouver remède à son mal,   mais d'autant
+    qu'<ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref> est plus fort que tous ceux-ci, ils
+    n'osèrent entreprendre contre lui, mais seulement
+    lui conseillèrent de faire cette trahison à ces deux
+    fidèles Amants. Et d'autant que la vertu de la
+    fontaine lui venait par les enchantements d'un
+    Magicien, <ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref>, qui a surmonté en cette science
+    tous ses devanciers, la lui put<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#375_recto">η</ref> bien ôter pour
+    quelque temps.
+Mais passons au Tableau qui suit.</p><p rend="center_t titres">Tableau Cinquième.</p><p>  <hi rend="first">C</hi>e cinquième Tableau, continua <ref target="../../../_analyse/personnage_aa.html#adamas">Adamas</ref>, a deux
+  actions. La première quand <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref> vint à cette
+  fontaine pour sortir de la peine où l'avait mis
+  un songe fâcheux. L'autre quand, trompé par
+  l'artifice de <ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref>, ayant vu dans la fontaine
+  que la Bergère <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref> aimait un autre, de désespoir <lb/>
+  <lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 375 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#375_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#375_verso">1621</ref>
+            </hi>
+          </p><p> il se tua. Or voyons comme elles sont bien représentées. Voici
+<ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref> avec son <ref target="../../../_analyse/glossaire_ee.html#espieu">épieu</ref>, car il est au même <ref target="../../../_analyse/glossaire_ee.html#equipage">équipage</ref> qu'il <ref target="../../../_analyse/glossaire_ss.html#souloir">soulait</ref> être allant à la chasse. Voici son
+chien qui le suit.  Prenez garde avec quel soin ce
+fidèle animal considère son maître, car cependant
+qu'il<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#375_verso">η</ref> regarde dans la fontaine, il semble, tant il a
+les yeux tendus sur lui, d'être désireux de savoir
+qui le rend si ébahi. Que si vous considérez
+l'<ref target="../../../_analyse/glossaire_ee.html#estonner">étonnement</ref> qui est peint en son visage, vous
+jugerez bien qu'il en doit avoir une grande occasion.
+<ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> lui avait fait voir en songe<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#songes">η</ref> <ref target="../../../_analyse/personnage_mm.html#maradon">Maradon</ref>,
+jeune Berger qui, prenant une flèche à <ref target="../../../_analyse/repertoire_cc.html#cupidon">Cupidon</ref>, en
+ouvrait le sein à <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>, et lui ravissait le cœur.
+Lui qui, suivant l'ordinaire des Amants, était
+toujours en doute, s'en vint, aussitôt qu'il fut
+jour, courant à cette fontaine, pour savoir si sa
+Maîtresse l'aimait. Je vous supplie, considérez son
+ébahissement, car si vous comparez les visages des
+autres Tableaux à <ref target="../../../_analyse/glossaire_cc.html#cestuy_cy">celui-ci</ref>, vous y verrez bien les
+mêmes traits, quoique le trouble en quoi il est
+peint le change de beaucoup. De ces deux figures que
+vous voyez dans la fontaine, l'une, comme vous pouvez
+connaître, est celle de la Bergère <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>, et
+l'autre, du Berger <ref target="../../../_analyse/personnage_mm.html#maradon">Maradon</ref>, que la magicienne avait
+fait représenter plutôt qu'un autre pour savoir
+que <ref target="../../../_analyse/glossaire_cc.html#cestuy_cy">celui-ci</ref> avait été dès longtemps serviteur de
+cette Bergère, et, quoiqu'elle n'eût jamais daigné
+le regarder, toutefois, <ref target="../../../_analyse/repertoire_aa.html#amour">Amour</ref> qui croit facilement
+ce qu'il craint, persuada incontinent<lb/>
+<lb/>
+<hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 376 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#376_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#376_recto">1621</ref>
+            </hi> </p><p>  le contraire à
+      <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>, <ref target="../../../_analyse/glossaire_cc.html#creance">créance</ref> qui le fit résoudre à la mort.
+    Remarquez, je vous supplie, que cette eau semble  trembler :  c'est que la peinture<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#376_recto">η</ref> a voulu représenter
+    l'effet des larmes du Berger qui tombaient dedans.
+    Mais passons à la seconde action. Voyez comme la
+    continuation de cette caverne est bien faite, et
+    comme il semble que vraiment cela soit plus enfoncé.
+    Ce mort que vous y voyez au fond, c'est le pauvre
+    <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>, qui, désespéré, se met l'<ref target="../../../_analyse/glossaire_ee.html#espieu">épieu</ref> au travers du
+    corps. L'action qu'il fait est bien naturelle.  Vous
+    lui voyez  la jambe toute étendue, l'autre <ref target="../../../_analyse/glossaire_qr.html#retirer">retirée</ref>    comme de douleur, un bras engagé
+    sous le corps, y ayant été surpris par la promptitude de la chute et n'ayant eu la force
+    de le <ref target="../../../_analyse/glossaire_qr.html#ravoir">ravoir</ref>, l'autre languissant le long du
+    corps, quoiqu'il serre encore mollement l'<ref target="../../../_analyse/glossaire_ee.html#espieu">épieu</ref> de
+    la main, la tête penchée sur l'épaule droite,
+    les yeux à demi-fermés et demi-tournés, et en tel état,
+    qu'à les voir, on juge bien que c'est un homme aux
+    <ref target="../../../_analyse/glossaire_tt.html#trances">transes</ref> de la mort, la bouche entrouverte, les
+    dents en quelques endroits un peu découvertes, et
+    l'<ref target="../../../_analyse/glossaire_ee.html#entre_deux">entre-deux</ref> du nez fort <ref target="../../../_analyse/glossaire_qr.html#retire">retiré</ref>, tous signes d'une
+    prompte mort. Aussi ne le figure-t-il pas ici pour
+    mort entièrement, mais pour être entre la mort et
+    la vie, si entre elles il y a quelque séparation.
+    Voici l'<ref target="../../../_analyse/glossaire_ee.html#espieu">épieu</ref> bien représenté,  voyez comme cette
+    épaisseur de son fer est à moitié caché dans la
+    plaie, et la <ref target="../../../_analyse/glossaire_hh.html#houppe">houppe</ref> d'un côté toute sanglante, et
+    de l'autre blanche encore, comme était sa première<lb/>
+    <lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 376 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#376_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#376_verso">1621</ref>
+            </hi>
+          </p><p>couleur. Mais quelle<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#376_verso_a">η</ref> a été la diligence du peintre !
+        Il n'a pas même oublié les clous, qui vont, comme
+        serpentant à l'entour de la <ref target="../../../_analyse/glossaire_hh.html#hante">hante</ref>, car les plus près
+        de la lame<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#376_verso_b">η</ref>, aussi bien que les <ref target="../../../_analyse/glossaire_bb.html#bois">bois</ref>, sont tachés de
+        sang ;   il est vrai que, par-dessous le sang, on ne
+        <ref target="../../../_analyse/glossaire_ll.html#laisser">laisse</ref> pas de reconnaître la dorure. Or considérons
+        le rejaillissement du sang en sortant de la plaie :
+        il semble à la <ref target="../../../_analyse/glossaire_ff.html#fontaine">fontaine</ref>, qui, conduite par longs
+        canaux de quelque lieu fort relevé, lorsqu'elle a
+        été quelque temps contrainte et retenue en bas, aussitôt qu'on lui donne ouverture, saute de furie ça
+        et là ; car, voyez ces <ref target="../../../_analyse/glossaire_qr.html#rayon">rayons</ref> de sang comme ils sont
+        bien représentés, considérez ces bouillons qui même
+        semblent se soulever à <ref target="../../../_analyse/glossaire_ee.html#eslans">élans</ref>.  Je crois que la Nature
+        ne saurait rien représenter de plus <ref target="../../../_analyse/glossaire_no.html#naif">naïf</ref>.
+      Mais voyons cet autre Tableau.</p><p rend="center_t titres"> Tableau sixième.</p><p>  <ref target="../../../_analyse/glossaire_no.html#or_maintenant">
+              <hi rend="first">O</hi>r</ref> voici le sixième et dernier Tableau, qui contient
+quatre actions de la Bergère <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref>.
+La première, c'est un songe que <ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> lui fait
+faire,   l'autre, comme elle va à la fontaine pour
+s'en éclaircir,   la troisième, comme elle se plaint
+de l'inconstance de son Berger, et la dernière, comme
+elle meurt, qui est la conclusion de cette tragédie.
+Or voyons toutes choses particulièrement.
+Voici le lever du Soleil,  prenez garde à la longueur <lb/>
+<lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 377 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#377_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#377_recto">1621</ref>
+            </hi>
+          </p><p>de ses ombres,  comme d'un côté le Ciel est encore
+      un peu moins clair. Voyez ces nues qui sont à moitié
+      air, comme il semble que peu à peu elles
+      s'aillent élevant ; ces petits oiseaux, qui semblent
+      en montant chanter et trémousser de l'aile, sont
+      des alouettes  qui se vont séchant de la rosée au
+      nouveau Soleil ;   ces oiseaux mal formés, qui, d'un vol
+      incertain, se vont cachant, sont des chats-huants  qui
+      fuient le Soleil, dont  la montagne couvre encore une
+      partie, et l'autre reluit, si claire, qu'on ne saurait
+      juger que ce fût autre chose qu'une grande et confuse
+      clarté.
+    Passons plus outre. Voici la Bergère <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref> qui
+    dort. Elle est dans le lit où le Soleil, qui entre
+    par la fenêtre ouverte par mégarde, lui donne sur
+    le sein à demi-découvert. Elle a un bras
+    négligemment étendu sur le bois du lit, la tête
+    un peu penchée le long du <ref target="../../../_analyse/glossaire_cc.html#chevet">chevet</ref>, l'autre main
+    étendue le long de la cuisse par le dehors du lit,
+    et, parce que la chemise s'est par hasard retroussée,
+    vous la voyez par-dessus le coude sans qu'elle cache
+    nulle des beautés du bras. Voici autour d'elle les
+    démons de <ref target="../../../_analyse/repertoire_mm.html#morphee">Morphée</ref> dont <ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> s'est servie
+    pour lui donner volonté d'aller à la fontaine des
+    vérités d'Amour.
+    De fait, la voici <ref target="../../../_analyse/glossaire_aa.html#a">à</ref> ce côté qui y <ref target="../../../_analyse/glossaire_qr.html#regorger">regorge</ref>, car, ayant
+    songé<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#songes">η</ref> que son Berger était mort, et prenant sa mort
+    pour la perte de son amitié, elle en venait savoir
+    la vérité. Voyez comme ce visage triste, par sa douceur, émeut <ref target="../../../_analyse/glossaire_aa.html#a">à</ref> pitié et fait participer à son déplaisir,
+    parce <lb/>
+    <lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 377 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#377_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#377_verso">1621</ref>
+            </hi>
+          </p><p>qu'elle n'eut si tôt jeté la vue dans l'eau
+  qu'elle  aperçut <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>. Mais hélas !  près de lui
+  la Bergère <ref target="../../../_analyse/personnage_mm.html#melinde">Melinde</ref>, Bergère belle à la vérité, et
+  qui n'avait point été sans soupçon d'aimer <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>,
+  toutefois sans être aimée de lui. Trompée de cette
+  <ref target="../../../_analyse/glossaire_mm.html#menterie">menterie</ref>, voyez comme elle s'est retirée au profond
+  de cette caverne, et vient, sans y penser, pour
+  <ref target="../../../_analyse/glossaire_pp.html#plaindre">plaindre</ref> son déplaisir au même lieu où <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>, pour même sujet, était presque mort. La voici assise
+  contre ce rocher, les bras croisés sur l'<ref target="../../../_analyse/glossaire_ee.html#estomac">estomac</ref> que
+  la colère et l'<ref target="../../../_analyse/glossaire_ee.html#ennui">ennui</ref> lui ont fait découvrir en
+  rompant ce qui était dessus. Il me semble qu'elle
+  soupire, et que l'<ref target="../../../_analyse/glossaire_ee.html#estomac">estomac</ref> pantelle, le visage et les
+  yeux tournés en haut demandent vengeance au Ciel de
+  la perfidie qu'elle croit être en <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>.
+  Et parce que le transport de son mal lui fit relever
+  la voix en se plaignant, <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>, que vous voyez près
+  de là, encore qu'il fût sur la fin de sa vie,
+  <ref target="../../../_analyse/glossaire_ee.html#entre_ouir">entre-oyant</ref> les regrets de sa Bergère et en  reconnaissant la voix, s'efforça de l'appeler. Elle,
+  qui ouït cette parole mourante, tournant en sursaut
+  la tête, s'en va vers lui. Mais, ô Dieux, quelle
+  lui fut cette vue !  Elle oublie, le voyant en cet
+  état, l'occasion qu'elle avait de se plaindre de
+  lui, et lui demande
+  qui l'avait si mal traité. - C'est, lui dit-il, le
+  changement de ma <ref target="../../../_analyse/glossaire_ff.html#fortune">fortune</ref>
+            <hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#377_verso">η</ref>, c'est l'inconstance de votre
+  âme qui m'a <ref target="../../../_analyse/glossaire_dd.html#deceu">déçu</ref> avec tant de démonstration de bonne
+  volonté. Bref, c'est le bonheur de <ref target="../../../_analyse/personnage_mm.html#maradon">Maradon</ref> que
+  la fontaine d'où vous venez m'a montré auprès de
+  vous. Et<lb/>
+  <lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 378 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#378_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#378_recto">1621</ref>
+            </hi>
+          </p><p> vous semble-t-il raisonnable que <ref target="../../../_analyse/glossaire_cc.html#celuy">celui</ref> vive
+      ayant perdu votre amitié, qui ne vivait que pour être
+      aimé de vous ?  <ref target="../../../_analyse/personnage_ff.html#fortune">Fortune</ref> oyant ces paroles :  - Ah !
+      <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>, dit-elle, combien à notre dommage est
+      menteuse cette source ! puisqu'elle m'a fait voir <ref target="../../../_analyse/personnage_mm.html#melinde">Melinde</ref>  auprès de vous, que je vois toutefois
+      mourir pour me bien aimer !  Ainsi ces fidèles Amants
+      reconnurent l'infidélité de cette fontaine, et plus
+      assurés qu'ils n'avaient jamais été de leur
+      affection, ils moururent embrassés :  <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref> de sa
+      plaie, et la Bergère du déplaisir de sa mort.
+      Voyez-les de ce côté, voilà la Bergère assise contre
+      ce rocher couvert de mousse, et voici <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>, qui tient
+      la tête en son <ref target="../../../_analyse/glossaire_gg.html#giron">giron</ref>, et qui, pour lui dire le dernier
+      Adieu, lui tend les bras, et lui en lie le <ref target="../../../_analyse/glossaire_cc.html#col">col</ref>, et
+      semble de s'efforcer, et s'élever un peu pour la baiser,
+      cependant qu'elle, toute couverte de son sang, baisse
+      la tête, et se courbe pour s'approcher de son visage,
+      et lui passe les mains sous le corps pour le soulever
+      un peu. Cette vieille échevelée qui leur est auprès, c'est
+<ref target="../../../_analyse/personnage_mm.html#mandrague">Mandrague</ref> la Magicienne, qui, les trouvant morts,
+maudit son art, déteste ses démons, s'arrache les
+cheveux, et se meurtrit la poitrine de coups. Ce
+geste d'élever les bras en haut par-dessus la tête,
+y tenant les mains jointes, et au contraire de baisser
+le <ref target="../../../_analyse/glossaire_cc.html#col">col</ref>, et se cacher presque le menton dans le sein,
+pliant et s'amoncelant le corps dans son <ref target="../../../_analyse/glossaire_gg.html#giron">giron</ref>, sont
+signes de son violent déplaisir et du regret qu'elle
+a de la perte de deux si fidèles<lb/>
+<lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 378 verso ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#378_verso">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#378_verso">1621</ref>
+            </hi>
+          </p><p> et parfaits Amants,
+    outre celle de tout son contentement. Le visage de
+    cette vieille est caché, mais considérez l'effet
+    que font ses cheveux :  ils retombent en bas, et <ref target="../../../_analyse/glossaire_aa.html#au_droit">au droit</ref> de la nuque, d'autant qu'ils y sont plus
+    courts, ils y  semblent se relever en haut. Voilà, un
+    peu plus éloigné, <ref target="../../../_analyse/repertoire_cc.html#cupidon">Cupidon</ref> qui pleure, voici son arc
+    et ses flèches rompues, son flambeau éteint, et
+    son bandeau tout mouillé de larmes pour la perte de
+    deux si fidèles Amants.<lb/>  <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref> avait été toujours fort attentif au discours du sage <ref target="../../../_analyse/personnage_aa.html#adamas">Adamas</ref>, et bien souvent <hi rend="glossaire">
+              <ref target="../../../_analyse/glossaire_qr.html#reprendre">se reprenait</ref>
+            </hi> de
+peu de courage de n'avoir su retrouver un semblable
+remède à celui de <ref target="../../../_analyse/personnage_dd.html#damon_b">Damon</ref>, et parce que cette
+considération le retint quelque temps muet, <ref target="../../../_analyse/personnage_gg.html#galathee">Galathée</ref>,
+en sortant de la grotte et prenant <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref> par la
+main :  - Que
+vous semble, lui dit-elle, de cet Amour et de ses<hi rend="cache"> </hi>
+            <ref target="../../../_analyse/note_1.html#378_verso">η</ref> effets ?  - Que ce sont, répondit le Berger,  des
+ effets d'imprudence et non pas d'Amour, et que
+ c'est un <ref target="../../../_analyse/glossaire_ee.html#erreur">erreur</ref> populaire pour couvrir notre
+ignorance ou pour <lb/>" excuser notre faute, d'attribuer
+toujours à<lb/>" quelque divinité les effets dont les
+causes <lb/>" nous sont cachées. - Et quoi, dit la <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>,
+<lb/>" croyez-vous qu'il n'y ait point d'Amour ?  - S'il y
+en a,  répliqua le Berger, il ne doit être que
+douceur. Mais, quel qu'il soit, vous en parlez, Madame,
+à une personne autant ignorante qu'autre qui vive.
+Car, outre que ma condition ne me permet pas d'en
+savoir beaucoup, mon esprit grossier m'en rend encore
+plus incapable.<lb/>
+            <lb/>
+            <hi rend="italicspage">
+              
+              <graphic url="../../../images/signet.gif" rend="img signet" mimeType="image/gif"/>[ 379 recto ] <ref target="../../preliminaire/07_1/07_1_livre_11.html#379_recto">1607</ref> <ref target="../../reference/21_1/21_1_livre_11.html#379_recto">1621</ref>
+            </hi>
+          </p><p>  Alors la triste <ref target="../../../_analyse/personnage_ss.html#silvie">Silvie</ref> lui
+    répliqua :  - Toutefois, <ref target="../../../_analyse/personnage_cc.html#celadon">Céladon</ref>, il y a quelque temps
+    que je vous vis en un lieu où malaisément eût-on
+    pu croire cela de vous, car il y avait trop de
+    beautés
+	pour ne vous pouvoir prendre, et vous êtes trop <ref target="../../../_analyse/glossaire_hh.html#honnestete">honnête</ref> homme pour ne vous laisser prendre à elles. - Belle <ref target="../../../_analyse/glossaire_no.html#nymphe">Nymphe</ref>, répondit le Berger, en quelque lieu que ce fût, puisque vous y étiez,
+    c'est sans doute qu'il y avait beaucoup de beauté,
+    mais comme trop de feu brûle plutôt qu'il
+    n'échauffe, vos beautés aussi sont trop grandes pour
+    nos cœurs rustiques, et se font plutôt admirer
+    qu'aimer, et adorer que servir. Avec tels propos
+    cette belle troupe s'allait retirant au logis où
+    l'heure du repas les appelait.</p><p> </p><p> </p><p> </p><!--<script>--><!--</script>--><!--<script>--><!--</script>--><!--<script>--><!--</script>--><ref target="fonctionnelle_1_livre_10.html">
+            <graphic url="../../../images/fleche_g.gif" rend="img" mimeType="image/gif"/>
+            <hi style="float:left; margin-top:6px">Livre 10</hi>
+          </ref><ref target="fonctionnelle_1_livre_12.html">
+            <graphic url="../../../images/fleche_d.gif" rend="img" mimeType="image/gif"/>
+            <hi style="float:right; margin-top:6px">Livre 12</hi>
+          </ref><lb/><lb/><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../../../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

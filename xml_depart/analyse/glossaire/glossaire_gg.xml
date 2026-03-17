@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Glossaire G - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><ref target="glossaire.html">
+              <hi rend="bold">GLOSSAIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="glossaire_aa.html">A</ref><ref target="glossaire_bb.html">B</ref><ref target="glossaire_cc.html">C</ref><ref target="glossaire_dd.html">D</ref><ref target="glossaire_ee.html">E</ref><lb/><ref target="glossaire_ff.html">F</ref><ref target="glossaire_gg.html">G</ref><ref target="glossaire_hh.html">H</ref><ref target="glossaire_ik.html">I</ref><ref target="glossaire_ik.html#j">J</ref><lb/><ref target="glossaire_ik.html#k">K</ref><ref target="glossaire_ll.html">L</ref><ref target="glossaire_mm.html">M</ref><ref target="glossaire_no.html">N</ref><ref target="glossaire_no.html#o">O</ref><lb/><ref target="glossaire_pp.html">P</ref><ref target="glossaire_qr.html">Q</ref><ref target="glossaire_qr.html#r">R</ref><ref target="glossaire_ss.html">S</ref><ref target="glossaire_tt.html">T</ref><lb/><ref target="glossaire_uz.html">U</ref><ref target="glossaire_uz.html#v">V</ref><ref target="glossaire_uz.html#w">W</ref><ref target="glossaire_uz.html#x">X</ref><ref target="glossaire_uz.html#y">Y</ref><ref target="glossaire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>GLOSSAIRE - G</head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gagner les devants</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Arriver le premier au logis » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gaigner</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Je m'efforçay de gaigner la riviere</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#235_recto">III, 6, 235 recto</ref>). Cette graphie archaïque est souvent introduite en 1621 pour remplacer <hi rend="italic">gagner</hi>, qui est très fréquent dans  l'édition de 1619.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Gaigner</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Ils veulent gaigner</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#232">IV, 2, 232</ref>).<lb/>
+        Cette graphie qui perdure apparaît deux fois dans <ref target="bibliographie.html#furetiere">Furetière</ref> (Articles <hi rend="italic">Donner</hi> et <hi rend="italic">Miserable</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gaillard</cell>
+              <cell colspan="1" rowspan="1">« Un peu fou, extravagant »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gaillardise</cell>
+              <cell colspan="1" rowspan="1">« Joyeuseté, divertissement. Il n'a pas dit cela pour vous offencer, mais par simple gaillardise » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Galère</cell>
+              <cell colspan="1" rowspan="1">« Vaisseau à rames de 25. à 30. bancs de chaque costé, &amp; de quatre, cinq ou six rameurs à chaque banc. Elle porte un canon d'une grosseur considerable » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Galerie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- L'introduction d'<ref target="repertoire_hh.html#3_hercule">Hercule</ref> et de <ref target="repertoire_gg.html#3_galathee_m">Galathée</ref>, son épouse, révèle ce que l'histoire dépeinte dans cette galerie<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_galerie">η</ref> a de mythique.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Galerie</cell>
+              <cell colspan="1" rowspan="1">- Une galerie <hi rend="italics">basse</hi> est un « passage qui va tout autour d'un chasteau » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italics">Mache-coulis)</hi>.<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Galerie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - « Lieu couvert d'une maison qui est ordinairement sur les ailes, où on se promene » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        -
+        C'est le cas des galeries de la Bastie d'Urfé (<hi rend="italic">
+                  <ref target="bibliographie.html#claude">Claude</ref>
+                </hi>, p. 58). Celle du rez-de-chaussée mesurait près de 50 mètres (<ref target="bibliographie.html#soultrait">Soultrait</ref>, p. 52).<lb/>
+        - La « galerie » du druide <ref target="personnage_aa.html#2_adamas">Adamas</ref> expose aussi des objets d'art, comme les galeries royales et seigneuriales le font depuis François I<hi rend="supn">er</hi>. Cette fonction de la galerie est décrite par Thomas <ref target="bibliographie.html#corneillet">Corneille</ref> : « On appelle Galerie de Peinture, celle qui renferme des         tableaux dans des panneaux d'un lambris, ou qui a une tapisserie         d'étoffe ornée de tableaux, &amp; Galerie de Sculpture, celle où il y a         pour ornement des statuës, bustes &amp; bas reliefs tant antiques que         modernes ». Thème dynastique et thème mythologique se partagent les murs. Chez <ref target="personnage_aa.html#2_adamas">Adamas</ref>, le thème est résolument historique.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Galland</cell>
+              <cell colspan="1" rowspan="1">Écrit aussi <hi rend="italics">Galand</hi>.  « Hardi, vaillant.
+        Beau, remarquable, supérieur.
+        De bonne compagnie. Galant. Élégant, bien vêtu.
+        Intelligent, sage.
+        Habile. Tahureau cite <hi rend="italics">galant</hi> parmi les mots à la mode »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+
+        Nombreux synonymes aussi dans <ref target="bibliographie.html#furetiere">Furetière</ref> qui ajoute : « Ce mot vient du vieux  François <hi rend="italic">Gale</hi>, qui signifie resjouïssance &amp; bonne chere, qui vient  de <hi rend="italics">Gallare</hi>, c'est à dire, Boire d'autant, &amp; se resjouïr à la mode des  Prestres de Cybelle qu'on nommoit <hi rend="italics">Galli</hi> : d'autres disent de <hi rend="italics">galeola</hi>, qui  estoit une couppe faite en forme de galée, d'où sont venus aussi les mots de <hi rend="italic">gaillard</hi> &amp; de <hi rend="italic">regaler</hi>. D'autres le font descendre du mot Latin <hi rend="italics">elegans</hi> ».
+        Ménage signale encore une autre étymologie proposée par Pierre Caseneuve [auteur de la <hi rend="italics">Caritée</hi>, roman paru en 1621] : <hi rend="italics">Galant</hi> viendrait de « <hi rend="italics">Gallus</hi> à cause de la politesse des Gaulois ».<lb/>
+        • <ref target="bibliographie.html#vaugelas">Vaugelas</ref> consacre trois pages à ce mot qui « n'est pas si aisé à definir, car cela presuppose beaucoup d'excellentes qualitez qu'on auroit bien de la peine à nommer toutes, &amp; dont une seule venant à manquer suffiroit à faire qu'il ne seroit plus <hi rend="italics">galant</hi> » (p. 477-478). Il conclut avec une remarque curieuse : « Quoy qu'en une autre signification on die <hi rend="italics">galand</hi> &amp; <hi rend="italics">galande</hi>, avec un <hi rend="italics">d</hi>, aussi bien qu'avec un <hi rend="italics">t</hi>, si est-ce qu'en celle que nous traitons, il faut dire <hi rend="italics">galant</hi> &amp; <hi rend="italics">galante</hi> avec un <hi rend="italics">t</hi>, &amp; non avec un <hi rend="italics">d</hi> » (p. 478). « <hi rend="italic">Galand</hi> et <hi rend="italic">galande</hi> avec un <hi rend="italic">d</hi>, ne se dit communément que des jeunes personnes [qui ont] quelque chose de trop éveillé, et approchant du fripon » (<ref target="bibliographie.html#patru">Patru</ref>, II, p. 661).<lb/>
+        Les dictionnaires ne font pas cette distinction entre <hi rend="italic">galant</hi> et <hi rend="italic">galand</hi>, même lorsqu'ils rappellent que <hi rend="italics">galant</hi> signifie aussi <hi rend="italics">égrillard</hi>. Seul <ref target="bibliographie.html#huguet">Huguet</ref> donne « Galin galand. Homme qui mène joyeuse vie ».<lb/>
+        • D'Urfé n'écrit jamais <hi rend="italics">galant</hi> avec un <hi rend="italics">t</hi>. <lb/>
+        • Il est amusant de noter que <ref target="bibliographie.html#voltaire_dico">Voltaire</ref> lui-même a du mal à définir ce mot. Il conclut l'article <hi rend="italics">Galant</hi> dans son <hi rend="italics">Dictionnaire philosophique</hi> en déclarant : « Presque tous les termes qui entrent fréquemment  dans la conversation, reçoivent ainsi beaucoup de nuances qu'il est difficile  de démêler ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gance</cell>
+              <cell colspan="1" rowspan="1">« Ganse. Petit cordon d'argent ou de soye qui sert à arrester &amp; à boutonner des boutons. On s'en sert aussi pour faire quelques ornements sur les habits, &amp; sur tout aux boutonnieres » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:40px;">
+                Ganter</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> Verbe transitif qui n'est pas toujours pronominal.  « Voilà des gants qui gantent bien » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Garant</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Il s'est sauvé comme à garant dans tes Estats</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#365_verso">III, 8, 365 verso</ref>). « A l'abri, en sûreté » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Garde</cell>
+              <cell colspan="1" rowspan="1">« Se dit aussi de la deffense qui est aupres de la poignée d'une épée » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Garde</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Avec quelqu'une des gardes</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#338_recto">III, 8, 338 recto</ref>). « Celui qui garde.  (Fém., même pour désigner un homme) » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Garder</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Empêcher » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Garderobe</cell>
+              <cell colspan="1" rowspan="1">« Pièce intime.
+        (Masc.). Coffre ou armoire »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). La définition que donne Furetière convient mieux (<ref target="../_roman/reference/21_1/21_1_livre_3.html#48_recto">I, 3, 48 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_12.html#380_verso">I, 12, 380 verso</ref>) : « Petite chambre voisine de celle où on couche, qui sert à serrer les habits &amp; les hardes d'une personne, ou à coucher les valets qu'on veut avoir prés de soy la nuit » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Garentir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Preserver de quelque mal ou accident » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Garentir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Je ne m'en  pouvois garentir</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#776">IV, 4, 776</ref>).<lb/>
+        « Éviter. Se garentir de. Se mettre en sûreté quant à » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Garnir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Les chaisnes se sont trouvees tenduës et garnies des hommes du quartier</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#542_recto">III, 12, 542 recto</ref>). « Fournir toutes les choses necessaires à quelqu'un, ou à quelque chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gaster</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Ruiner, destruire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Gaster</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Chariots rompus ou gastez</hi> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#369_recto">III, 9, 369 recto</ref>). « GASTER, signifie aussi, Salir » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        <hi rend="italic">- Elle se gastoit toute</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#541_recto">III, 12, 541 recto</ref>). « GASTER, signifie aussi, Travailler mal à quelque besogne, qu'il faut refaire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gauchir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Gauchir au <ref target="glossaire_hh.html#hurt">hurt</ref> des chevaux</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#224_recto">III, 6, 224 recto</ref>). « Gauchir à. Se dérober à, éviter en se détournant »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gausser</cell>
+              <cell colspan="1" rowspan="1">« Plaisanter, railler »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gaze</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Une gaze qui alloit accompagnant le corps</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#272_verso">III, 7, 272 verso</ref>). « Sorte de toile fort claire, dont les Dames se font des coifes, des cornettes »
+
+        (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gazon</cell>
+              <cell colspan="1" rowspan="1">« Motte de terre grasse &amp; molle tirée d'une prairie, &amp; qui est couverte d'herbe. Des sieges &amp; des lits de gazon sont agreables dans les jardins » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Généreux</cell>
+              <cell colspan="1" rowspan="1">« Qui a l'ame grande &amp; noble, &amp; qui prefere l'honneur à tout autre interest » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Générosité</cell>
+              <cell colspan="1" rowspan="1">- « Grandeur d'ame, de courage, magnanimité, bravoure, liberalité, &amp; toute autre qualité qui fait le genereux » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Générosité</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">Nostre <ref target="glossaire_cc.html#courage">courage</ref>
+                </hi>
+                <lb/>
+        <hi rend="italic">Tout plein de generosité <lb/>
+        Ne peut supporter un outrage</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#712">IV, 4, 712</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Générosités</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Ces generositez ne se rencontrent guere</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#453_verso">III, 11, 453 verso</ref>). <lb/>
+        Aujourd'hui <hi rend="italic">générosité</hi> au pluriel signifie <hi rend="italic">dons</hi>. Dans <hi rend="italic">L'Astrée,</hi> ce pluriel est une hyperbole dont la préciosité usera (<ref target="bibliographie.html#lathuillere">Lathuillère</ref>, p. 421).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Génie</cell>
+              <cell colspan="1" rowspan="1">- « Esprit »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Génie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> -
+        « Bon ou mauvais Demon que les Anciens croyoient accompagner les hommes illustres » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Génie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <ref target="personnage_ee.html#3_euric">Euric</ref> a <hi rend="italic">esté conservé par le Genie de la <ref target="repertoire_gg.html#3_gaule">Gaule</ref>
+                </hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#68_verso">III, 3, 68 verso</ref>) pour la secourir. « Les Poëtes ont attribué à chaque chose &amp; à chaque lieu un Genie ou Divinité qui y presidoit, &amp; ont fait parler souvent le Genie du lieu, le Genie du temple, &amp;c. » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Génie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Ce bon Genie qui jusques icy a eu soing de ma déplorable vie</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#166">IV, 2, 166</ref>).<lb/>
+        « Bon ou mauvais Demon que les Anciens croyoient accompagner les hommes illustres » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        <ref target="bibliographie.html#richelet">Richelet</ref> par contre donne l'acception moderne : « Les Anciens faisoient un Dieu du genie, mais parmi nous, c'est un esprit naturel qui nous donne une pente à une chose ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Genoüil</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mettant un genoüil en terre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#338_verso">III, 8, 338 verso</ref>). Cette forme archaïque est toujours au singulier. On trouve <hi rend="italic">genoux</hi> uniquement au pluriel (par exemple <hi rend="italic">mettre à genoux</hi>, <ref target="../_roman/reference/21_3/21_3_livre_9.html#395_verso">III, 9, 395 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Genouillière</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La cotte de maille descendant jusques aupres de  la genoüilliere</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref>). « En termes d'Armurier, c'est la partie de l'armeure que les Gendarmes portoient autrefois pour couvrir &amp; deffendre le genou »  (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Peuples &amp; nations » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Gens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Toutes vos gens</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#312_verso">III, 7, 312 verso</ref>), mais <hi rend="italic">Tous ses gens</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#351_recto">III, 8, 351 recto</ref>). Dans ce cas, l'édition de 1619 donnait <hi rend="italic">toutes ses gens</hi>. <lb/>
+        D'Urfé ne suit pas toujours  la recommandation de Vaugelas,  que  résume <ref target="bibliographie.html#richelet">Richelet</ref> : « Ce mot pris pour personne est féminin quand il est précédé de quelque adjectif que ce soit hormis de l'adjectif tout qui quelquefois est masculin devant le mot de gens [...] Ce qu'il y a donc à faire là dessus. C'est de consulter l'oreille et les hommes habiles dans la langue ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gens de cheval</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Des gens de cheval qui y passoient</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#893">IV, 4, 893</ref>).<lb/>
+        « Cavalerie » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italic">Cheval</hi>).<lb/>
+        <ref target="bibliographie.html#furetiere">Furetière</ref> divise ainsi <hi rend="italic">les gens</hi> : « Des gens de robbe. des gens d'espée. gens de main. gens de service. gens de pied. gens de cheval. tous les gens de bien, les honnestes gens se distinguent aisément des gens de peu, des meschantes gens, des gens sans adveu, des petites gens. les gens d'eau ne valent rien ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gens de guerre</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le grand nombre de gens de guerre</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#66_verso">III, 3, 66 verso</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> donne <hi rend="italic">gens de guerre</hi> alors que <ref target="bibliographie.html#huguet">Huguet</ref> donne <hi rend="italic">gens d'armes</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gent</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">De quelque qualité, gent, ou condition qu'il soit</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#353_recto">III, 8, 353 recto</ref>).
+        « Ce mot pris pour nation est feminin, mais il est un peu vieux, et a meilleure grace dans le brulesque que dans le beau stile »        (<ref target="bibliographie.html#richelet">Richelet</ref>). Pour <ref target="bibliographie.html#furetiere">Furetière</ref>,
+        « On l'a dit cy-devant en Poësie ». Les deux dictionnaristes citent ensuite les mêmes vers de Malherbe !</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gentil</cell>
+              <cell colspan="1" rowspan="1">« Noble par naissance ou moralement, brave »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <ref target="bibliographie.html#furetiere">Furetière</ref> donne à l'adjectif le sens qu'il a dans <hi rend="italics">L'Astrée</hi> : « se dit aussi de ce qu'on veut loüer, mais non dans l'excés. [...] &amp; en ce cas il est opposé à grand, à excellent, à parfait ». <lb/>
+        Dans sa traduction de Pétrarque, H. <ref target="bibliographie.html#cochin">Cochin</ref> fait une remarque judicieuse - valable  aussi pour <hi rend="italic">L'Astrée</hi> :
+        « Je garde le mot <hi rend="italic">gentil</hi>, dans le sens que lui donnaient nos pères : aucun mot ne peut l'égaler pour rendre l'idée de noblesse et de grâce »        (p. 26).<lb/>
+        • <ref target="bibliographie.html#cotgrave">Cotgrave</ref> donne vingt-huit mots différents pour traduire <hi rend="italic">gentil</hi> ! Il ajoute : « <hi rend="italic">When         Gallia was conquered by the Francs, or ancient French, the Gaules,         who were at that time Christians, tearmed the Conquerors, by reason         of their Heathenish Religion, Gentils, or Gentils-hommes</hi> ». Les <ref target="repertoire_gg.html#gaulois">Gaulois</ref> auraient considéré les <ref target="repertoire_ff.html#francs">Francs</ref> comme des païens. On ne voit pas l'histoire de France de la même façon des deux côtés de la Manche.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gentillesse</cell>
+              <cell colspan="1" rowspan="1">« Noblesse.
+        Vaillance »
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Germain</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Des proches parens collateraux, ou cousins qui sont les enfans de deux freres, ou de deux sœurs » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        Ce mot est adjectif dans <ref target="bibliographie.html#furetiere">Furetière</ref>. Il peut être substantif chez <ref target="bibliographie.html#huguet">Huguet</ref> et signifier alors « Frère », « Sœur » ou même « Compatriote ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gesse</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">En la main droite un gesse</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref>). Pique ou  dard. Ce substantif masculin n'est pas dans les dictionnaires. Je dois sa définition à l'obligeance de J.-P. Reverseau, conservateur en chef au Musée de l'Armée.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Giron</cell>
+              <cell colspan="1" rowspan="1">« Espace qui est depuis la ceinture jusqu'aux genoux. Il se dit particulierement des femmes, &amp; du tablier qu'elles portent, &amp; sur tout quand elles sont assises » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gist</cell>
+              <cell colspan="1" rowspan="1">Verbe <hi rend="italics">Gésir</hi> au présent de l'indicatif. « Être couché »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+        Dans <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#44_verso">I, 2, 44 verso</ref>) le verbe a le sens que lui donne <ref target="bibliographie.html#furetiere">Furetière</ref> : « Vieux mot qui signifioit autrefois, Estre couché  [...] On le dit au figuré du point où consiste la difficulté d'une affaire, d'une question ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Glaive</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Ces paroles estoient [...] des glaives cruels</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#162">IV, 2, 162</ref>).<lb/>
+        Métaphore. « Ce mot veut dire épée, sorte de courte épée, mais dans le discours ordinaire il ne se dit guere qu'en riant. Son usage soit au propre ou au figuré n'est que dans la belle poësie ou la belle prose » (<ref target="bibliographie.html#richelet">Richelet</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gloire</cell>
+              <cell colspan="1" rowspan="1">- « Orgueil, vanité, jactance »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+        Le substantif a plutôt le sens que <ref target="bibliographie.html#furetiere">Furetière</ref> ajoute : « Presomption, bonne opinion qu'on a de soy-même ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Gloire</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Il estoit en sa gloire</hi>. <ref target="../_roman/reference/21_3/21_3_livre_3.html#100_recto">III, 3, 100 recto</ref>.
+        « Terme de Peinture. Ciel ouvert et lumineux avec des Anges représenté dans une voute ou un tableau » (<ref target="bibliographie.html#richelet">Richelet</ref>). Au théâtre, c'est la machine où se trouvent les dieux qui vont et viennent. La gloire de Niquée, au livre VIII des <hi rend="italic">Amadis</hi>, est le lieu où trône la belle  Niquée, une  jeune fille éloignée de l'amour incestueux de son frère.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Glorieux</cell>
+              <cell colspan="1" rowspan="1">« Orgueilleux. Qui aime la gloire, avide de gloire. Vaniteux, présomptueux »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). <lb/>
+        • Quand il est appliqué à la <ref target="repertoire_ss.html#seine">Seine</ref> (<ref target="../_roman/reference/21_1/21_1_livre_12.html#400_recto">I, 12, 400 verso</ref>), l'adjectif a plutôt le sens moderne que lui donne <ref target="bibliographie.html#furetiere">Furetière</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Glorieux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">L'amour est
+        plus glorieux</hi> que l'amitié  (<ref target="../_roman/reference/21_3/21_3_livre_6.html#247_recto">III, 6, 247 recto</ref>).
+        « GLORIEUX, est aussi celuy qui a acquis de la gloire par son merite, par son sçavoir, par sa vertu, ou de ce qui donne de la gloire » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gordien</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Nœud Gordien, est un proverbe Grec, qui se dit d'un nœud qu'on ne sçauroit desnoüer : &amp; figurément, d'une difficulté qu'on ne peut resoudre. Il vient d'un nœud de courroyes indissoluble, que Gordius Roy de Phrygie mit dans un temple d'Apollon, en memoire de ce qu'il avoit esté salué Roy, parce qu'il estoit entré le premier dans ce temple, quoy qu'il fust d'ailleurs de race roturiere. <ref target="personnage_aa.html#2_alexandre">Alexandre</ref> le couppa avec son espée, parcequ'il ne le pût desnoüer, &amp; que l'Oracle avoit predit que celuy qui le desnoüeroit seroit le vainqueur de l'Asie » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italics">Nœud</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gorge</cell>
+              <cell colspan="1" rowspan="1">- « Partie de l'animal qui est entre la teste &amp; les espaules, où est le gosier. Les Medecins comprennent sous le nom de gorge, toute cette capacité creuse que l'on voit quand la bouche est ouverte » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Gorge</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - « Signifie aussi, le sein d'une femme. Les honnestes femmes doivent avoir soin de cacher leur gorge » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Goulphe</cell>
+              <cell colspan="1" rowspan="1">« Gouffre »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Goust</cell>
+              <cell colspan="1" rowspan="1">« Trouver goust à. Approuver. Venir à goust. Plaire, être agréable »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gouverner</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Les parens qui la gouvernent</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#471_recto">III, 11, 471 recto</ref>). « Commander, regir avec puissance, autorité [...] GOUVERNER, signifie aussi, Instruire, eslever » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:84px;">
+                Grâce</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">- Trouver cette estrangere de si bonne grace</hi> (<ref target="../_roman/reference/21_3/21_3_livre_11.html#477_recto">III, 11, 477 recto</ref>). « Bonne grace. C'est à dire bon air, bonne mine »        (<ref target="bibliographie.html#richelet">Richelet</ref>).<lb/>
+        - <hi rend="italic">Remercier le Ciel avec plus de graces</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#524_verso">III, 12, 524 verso</ref>). « Graces. Ce mot au pluriel signifie remerciment »        (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Grâce</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">- <hi rend="italic">La mauvaise grace de cet homme</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#235">IV, 2, 235</ref>).<lb/>
+        « Male grace, Mauvaise humeur, hostilité » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gracieux</cell>
+              <cell colspan="1" rowspan="1">Écrit aussi <hi rend="italics">Gratieux</hi>. <ref target="bibliographie.html#la_curne">La Curne</ref> donne les trois sens de <hi rend="italic">Gracieus</hi> : « Qui a de la grâce », « Clément, courtois » et « Fait avec grâce ».<lb/>
+        « Qui a de l'agréement, de la politesse, de la douceur, de la civilité » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        « Quoi que ce mot ne soit pas fort bon dans le
+        commerce ordinaire de la langue, il a bonne grace en parlant de
+        peinture »
+
+        (<ref target="bibliographie.html#richelet">Richelet</ref>). <lb/>
+        « Gens de bien sont tousiours gratieux » (<ref target="bibliographie.html#cotgrave">Cotgrave</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Gracieux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <ref target="personnage_hh.html#2_hylas">Hylas</ref> est « de la plus gracieuse, et plus heureuse humeur » (<ref target="../_roman/reference/21_2/21_2_livre_3.html#167">II, 3, 167</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Gracieux</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">- Que vous estes gratieux</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#261">IV, 2, 261</ref>).<lb/>
+        - <hi rend="italic">Voila de beaux jeux, et de gracieux passe-temps</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#450">IV, 3, 450</ref>).<lb/>
+        - <hi rend="italic">Une parolle de la part du Roy qui est bien gratieuse</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#765">IV, 4, 765</ref>).<lb/>
+        « Plaisant » (<ref target="bibliographie.html#dmf">
+                  <hi rend="italic">DMF</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Grand</cell>
+              <cell colspan="1" rowspan="1"> -
+        Le jour est <hi rend="italics">grand</hi> (<ref target="../_roman/reference/21_1/21_1_livre_5.html#137_verso">I, 5, 137 verso</ref>), il fait grand jour (Voir <ref target="glossaire_hh.html#haut_def">haut</ref>). <lb/>
+        - Les
+        cheveux sont <hi rend="italics">grands</hi> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#169_verso">I, 6, 169 verso</ref>), longs <lb/>
+        - La rivière est <hi rend="italics">grande</hi> (<ref target="../_roman/reference/21_1/21_1_livre_6.html#169_verso">I, 12, 403 verso</ref>), haute. <lb/>
+        <ref target="bibliographie.html#furetiere">Furetière</ref> écrit : « se dit en toutes dimensions. <hi rend="italics">Grand</hi> colosse, <hi rend="italics">grand</hi> puis, <hi rend="italics">grande</hi> lieuë, un <hi rend="italics">grand</hi> feu : ce taillis est desja <hi rend="italics">grand</hi> pour son âge. un voleur de <hi rend="italics">grand</hi> chemin. la <hi rend="italics">grande</hi> allée des Tuilleries, c'est à dire, la plus large ».<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Grand</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - <hi rend="italics">Grande Nymphe</hi>. « Se dit encore des tiltres d'honneur que l'on donne à quelques Princes, ou à des hommes illustres » (<ref target="bibliographie.html#furetiere">Furetière</ref>). <lb/>
+        • Alors que la
+        première partie présentait cinq fois l'expression <hi rend="italics">grande Nymphe</hi>, la deuxième la présente cinquante fois. Ce changement est significatif, je le souligne donc. <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Grand</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- Dans la troisième partie, <hi rend="italics">grande Nymphe</hi> revient trois fois seulement, et désigne <ref target="personnage_aa.html#3_amasis">Amasis</ref>, <ref target="personnage_gg.html#3_galathee">Galathée</ref> et <ref target="personnage_ll.html#3_leonide">Léonide</ref>.<lb/>
+        - <hi rend="italic">Le bruit estoit grand</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#124_recto">III, 4,
+          124 recto</ref>). « Renommée, réputation » (<ref target="bibliographie.html#huguet">Huguet</ref>).<lb/>
+        - <hi rend="italic">Grande opinion</hi> (<ref target="../_roman/reference/21_3/21_3_livre_4.html#144_recto">III, 4, 144 recto</ref>). « Bonne opinion, grande opinion » (<hi rend="italics">
+                  <ref target="bibliographie.html#academie_94">Dictionnaire de l'Académie</ref>,</hi> 1694). <lb/>
+        - <hi rend="italic">Grande compagnie</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#180_recto">III, 5, 180 recto</ref>). « Nombreux » (<ref target="bibliographie.html#la_curne">La Curne</ref>, Article <hi rend="italic">Grant</hi>).<lb/>
+        - Des personnages dansent <hi rend="italic">le grand bal</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#62_verso">III, 3, 62 verso</ref> et <ref target="../_roman/reference/21_3/21_3_livre_7.html#285_verso">III, 7, 285 verso</ref>). Il s'agit de la pavane. Voir Grand bal<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_grand_bal">η</ref>.<lb/>
+        - <hi rend="italic">Le Grand</hi> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#352_verso">III, 8, 352 verso</ref>) pour dire Dieu<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_grand">η</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Grand</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">La seule <hi rend="italic">grande Nymphe</hi> est <ref target="personnage_aa.html#4_amasis">Amasis</ref> dans la quatrième partie (<ref target="../_roman/reference/24_4/24_4_livre_3.html#402">IV, 3, 402</ref>). <lb/>
+        <hi rend="italic">- Il faisoit grand chaud</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#525">IV, 3, 525</ref>). <lb/>
+        « Le grand chaud fait que la terre se crevasse » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italic">Crevasser</hi>).<lb/>
+        - <hi rend="italic">C'estoit un grand chemin</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#893">IV, 4, 893</ref>).<lb/>
+        « Les grands chemins, ou proprement chemins de charroy, selon la Coûtume de Clermont, sont des chemins de trente pieds de large ; &amp; les chemins royaux en ont soixante-quatre, &amp; dans les forests soixante » (<ref target="bibliographie.html#furetiere">Furetière</ref>, Article <hi rend="italic">Chemin</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Grandement</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Je suis grandement hardy</hi> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#177_recto">III, 5, 177 recto</ref>). « Fort, beaucoup » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Grandeur</cell>
+              <cell colspan="1" rowspan="1">« Les estoiles se divisent en six classes, qui sont de la premiere, seconde, &amp; troisiéme grandeur » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Grandeur</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Soing [...] de la conservation de <ref target="personnage_gg.html#3_galathee">Galathee</ref>,
+
+        et de sa grandeur</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#501_verso">III, 12, 501 verso</ref>). « Hauteur, élévation » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Gratieux</cell>
+              <cell colspan="1" rowspan="1">Voir <ref target="#gracieux">Gracieux</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gratification</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Luy faisant les gratifications ordinaires</hi> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#530_verso">III, 12, 530 verso</ref>). « Service, faveur, bienfait »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>). Pour <ref target="bibliographie.html#furetiere">Furetière</ref>, une gratification est un don.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Graveleux</cell>
+              <cell colspan="1" rowspan="1">« De la nature du gravier »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gravier</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Le long du gravier</hi> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#237_recto">III, 6, 237 recto</ref>). Plage. Les dictionnaires ne donnent pas cette acception au substantif <hi rend="italic">gravier,</hi> mais <ref target="bibliographie.html#menage">Ménage</ref> signale que la prononciation ancienne confondait <hi rend="italic">gravier</hi> et <hi rend="italic">grève</hi> (Article <hi rend="italic">Grève</hi>). « GREVE. s. f. Plage unie &amp; sablonneuse, ou rivage plat de la mer &amp; des fleuves » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gré</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« <hi rend="italics">A gré</hi>. A souhait » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Gré</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">N'en sçavoir point de mauvais gré</hi> (<ref target="../_roman/reference/24_4/24_4_livre_4.html#823">IV, 4, 823</ref>).<lb/>
+        « On dit aussi qu'on se sçait bon gré d'une chose, quand on s'applaudit de l'avoir faite » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Grève</cell>
+              <cell colspan="1" rowspan="1">- « Les Anglais disent greaves. 1° Jambe » (<ref target="bibliographie.html#la_curne">La Curne</ref>).<lb/>
+        « L'os de devant de la jambe » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Grève</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">- <hi rend="italic">Aupres de la genoüilliere, où les greves s'attachoient</hi> (<ref target="../_roman/reference/21_3/21_3_livre_1.html#14_verso">III, 1, 14 verso</ref>). « On a appellé autrefois greve, une espece de bottines ou d'armure des jambes »  (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Grief</cell>
+              <cell colspan="1" rowspan="1">- « Malheur, affliction »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Grief</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme"> - <hi rend="italic">Un si grief outrage</hi> (<ref target="../_roman/reference/21_2/21_2_livre_2.html#76">II, 2, 76</ref>).<lb/>
+        Grief, griefve. Adjectif. « Douloureux, dangereux. [...] On ne le diroit pas maintenant » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+        « Le mot de grief         adjectif &amp; de griévement sont François, mais ils ne se disent qu'en         de certains endrois comme consacrez » (<ref target="bibliographie.html#richelet">Richelet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gros</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Subst. masc. signifie un amas de trouppes qui marchent ensemble [...] Signifie aussi, Ce qui est le principal, le plus considerable d'une chose » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Grossier</cell>
+              <cell colspan="1" rowspan="1">« Important »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).
+
+        Dans <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#281_recto">I, 9, 281 recto</ref>), l'adjectif a le sens que lui donne <ref target="bibliographie.html#furetiere">Furetière</ref> : « se dit aussi des ouvrages rudes, malpolis, des ornements mal entendus, d'un travail peu delicat. [...] se dit figurément en choses spirituelles &amp; morales. Les Sauvages sont <hi rend="italics">grossiers</hi> &amp; mal polis. il y a des esprits si <hi rend="italics">grossiers</hi>, qu'on ne leur peut rien faire apprendre ».</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Groumeler</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Groumeler comme font ceux que l'on estrangle</hi> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#299_verso">III, 7, 299 verso</ref>). Verbe archaïque qui remplace le <hi rend="italic">grommeler</hi> de 1619. <ref target="bibliographie.html#huguet">Huguet</ref> et <ref target="bibliographie.html#la_curne">La Curne</ref> donnent <hi rend="italic">groumeler</hi> et <hi rend="italic">grumeler</hi>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Guarir</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Protéger, sauver.
+        Guérir » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Guarison</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Travaillé en vain pour ma guarison</hi> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#113_verso">III, 3, 113 verso</ref>). « Guérison » (<ref target="bibliographie.html#huguet">Huguet</ref>). Le <hi rend="italic">guarison</hi> de 1619 est remplacé une fois par <hi rend="italic">guérison</hi> en 1621 (<ref target="../_roman/reference/21_3/21_3_livre_12.html#502_recto">III, 12, 502 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Guerdon</cell>
+              <cell colspan="1" rowspan="1">« Récompense »
+
+        (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gueres</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Je ne pense pas qu'il y en ait gueres qui la signent</hi> (<ref target="../_roman/reference/24_4/24_4_livre_3.html#406">IV, 3, 406</ref>).<lb/>
+        « Gueres, adv. Beaucoup, longtemps » <ref target="bibliographie.html#la_curne">La Curne</ref>. La quatrième partie ne donne plus <hi rend="italic">
+                  <ref target="#guiere">guieres</ref>
+                </hi> mais seulement <hi rend="italic">gueres</hi>, graphie que l'on rencontre dans <ref target="bibliographie.html#richelet">Richelet</ref> et <ref target="bibliographie.html#furetiere">Furetière</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Guéret</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">De nos jeunes guerets les campagnes [...] pleines</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#433_verso">III, 10, 433 verso</ref>). « Terre qu'on avoit laissé reposer, &amp; qu'on a fraischement labourée pour l'ensemencer en la même année » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Gueules</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Au plur. est un terme de Blason, qui veut dire le Rouge. Quelques-uns l'appellent belic ou belif. Cette couleur signifie Charité, vaillance, hardiesse, generosité. La couleur sanguine, le cinnabre &amp; la vraye escarlate. c'est la premiere des couleurs dont on se sert en Armoiries, &amp; est tellement noble, que par des loix anciennes il estoit deffendu de porter de gueules dans ses Armes, à moins que d'estre Prince, ou d'en avoir la permission » (<ref target="bibliographie.html#furetiere">Furetière</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Guide</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">« Féminin quand il désigne l'action de guider, est féminin aussi lorsqu'il désigne la personne qui guide » (<ref target="bibliographie.html#huguet">Huguet</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Guiere</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Guiere</hi> n'apparaît que dans l'édition de 1619. Il devient <hi rend="italic">guère</hi> dans l'édition de 1621, par exemple <ref target="../_roman/reference/21_3/21_3_livre_1.html#1_verso">III, 1, 1 verso</ref> ou <ref target="../_roman/reference/21_3/21_3_livre_5.html#202_verso">III, 5, 202 verso</ref>. La correction n'est pas aussi systématique dans les rééditions de la première et de la deuxième partie.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Guière</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Guiere</hi> survient 55 fois. Cette forme est tellement désuète que <ref target="bibliographie.html#furetiere">Furetière</ref> et <ref target="bibliographie.html#richelet">Richelet</ref> ne la signalent même pas (on la rencontre dans <ref target="bibliographie.html#cotgrave">Cotgrave</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Guy</cell>
+              <cell colspan="1" rowspan="1">« Petit surgeon qui naist sur les branches de certains arbres, qui ne porte ni feuilles ni fruit. Le meilleur guy est celuy de chesne » (<ref target="bibliographie.html#furetiere">Furetière</ref>).<lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Guy</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <ref target="../_roman/reference/21_2/21_2_livre_2.html#64">II, 2, 64</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_4.html#261">II, 4, 261</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#494">II, 8, 494</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#555">II, 8, 555</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_10.html#656">II, 10, 656</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_11.html#675">II, 11, 675 à 676</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_11.html#686">II, 11, 686 à 688</ref>. <lb/>
+        De précieux renseignements sur cette plante se trouvent dans <ref target="bibliographie.html#pline">Pline</ref>.<lb/>
+        Les Gaulois, écrit-il, admirent le gui. « Les Druides - c'est le nom qu'ils donnent à leurs mages - n'ont rien de plus sacré que le gui et l'arbre qui le porte, pourvu que ce soit un rouvre. Le rouvre [chêne-rouvre] est déjà par lui-même l'arbre qu'ils choisissent pour les bois sacrés, et ils n'accomplissent aucune cérémonie religieuse sans son feuillage, au point que l'étymologie de leur nom pourrait passer pour grecque. C'est un fait qu'ils regardent tout ce qui pousse sur ces arbres comme envoyé du ciel, et y voient un signe de l'élection de l'arbre par le dieu lui-même. On trouve très rarement du gui [de rouvre] et, quand on en a découvert, on le cueille en grande pompe religieuse ; ce doit être avant tout au sixième jour de la lune  [...] Ils l'appellent dans leur langue 'celui qui guérit tout'. Ils préparent selon les rites au pied de l'arbre un sacrifice et un festin religieux et amènent deux taureaux blancs dont les cornes sont liées alors pour la première fois. Un prêtre, vêtu de blanc, monte dans l'arbre, coupe le gui avec une serpe d'or et le reçoit sur un sayon blanc. Ils immolent ensuite les victimes en priant le dieu de rendre son présent propice à ceux auxquels il l'a accordé » (XVI, 249-251). <lb/>
+        « De quelque façon qu'on le sème, le gui ne pousse jamais » (XVI, 247). <lb/>
+        « Quelques-uns, par superstition, pensent que le gui est plus efficace cueilli sur le chêne-rouvre, au commencement de la lune, sans fer et sans qu'il ait touché la terre » (XXIV, 12).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Guy</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">La rejouyssance qu'ils faisoient pour le bon-heur du Guy de l'An-neuf</hi> (<ref target="../_roman/reference/21_3/21_3_livre_10.html#425_recto">III, 10, 425 recto</ref>). Au gui l'an neuf. « Sorte de cri qu'on poussait autrefois le premier jour de l'an, à cause de la coutume gauloise de distribuer le gui ce jour-là. Des vestiges de cet usage ont longtemps subsisté en France » (<hi rend="italic">
+                  <ref target="bibliographie.html#larousse">Larousse</ref> du XIX<hi rend="supn">e</hi> siècle</hi>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Guy</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Un rameau de Guy si bien representé [...] encore que la couleur ne fust pas entierement verte</hi> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#163">IV, 2, 163</ref>).<lb/>
+         <p><graphic url="../images/gui.jpg" rend="img" mimeType="image/jpeg"/></p>
+                
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+          </table><p> </p><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>

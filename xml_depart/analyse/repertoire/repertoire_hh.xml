@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader><fileDesc><titleStmt><title>Répertoire H - Deux visages de L'Astrée</title><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>translated from HTML to TEI</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><!--<nav>--><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><ref target="https://www.univ-rouen.fr/">
+              <graphic url="../images/logo-univ-rouen.png" rend="img" mimeType="image/png" width="77px" height="28px"/>
+            </ref><hi rend="bold">Tableaux analytiques</hi><ref target="index_noms_propres.html">Index des noms propres</ref><lb/><ref target="personnage.html">Tableaux des personnages</ref><lb/><ref target="repertoire.html">Répertoire <hi style="font-size:10px;">(autres noms propres)</hi>
+            </ref><lb/><ref target="glossaire.html">Glossaire</ref><lb/><ref target="dictionnaire_orientation.html">Dictionnaire des fréquences</ref><lb/><ref target="notes.html">Notes</ref><lb/><hi rend="bold">Topographie du site</hi><ref target="plan_du_site.html">Plan du site</ref><lb/><ref target="plan_du_site.html#alpha">Index de l'apparat critique</ref><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><hi rend="bold">Support</hi><ref target="guide.html">Guide de la navigation</ref><lb/><ref target="faq.html">FAQ</ref><lb/><ref target="nouveautes.html">Nouveautés</ref><lb/><ref target="remerciements.html">Remerciements</ref><lb/><ref target="cv.html">Auteur du site</ref><lb/><hi rend="nav5" onclick="clearcookies()">Effacer les témoins<lb/>
+    		 <hi style="position:relative; top:-6px; font-size:9px">(cookies)</hi>
+            </hi><lb/><p><graphic url="../images/3-bar.gif" rend="img hover_show" mimeType="image/gif"/></p><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;"
+  onclick="CloseMenuBar('#menu_gauche')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><lb/><!--<input
+  type="checkbox"
+  id="chk_intro"
+  onclick="SetDisplay('intro')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('intro')">
+            <hi rend="bold">Introductions</hi>
+          </hi><ref target="accueil.html">Accueil</ref><lb/><ref target="preface.html">Préface</ref><lb/><ref target="choix.html">Choix éditoriaux</ref><lb/><ref target="quatriemes.html">Les Quatrièmes parties</ref><lb/><ref target="astrees_posthumes.html">Les <hi rend="italic">Astrées</hi> posthumes</ref><lb/><ref target="vaganay.html">L'Édition de Vaganay</ref><lb/><ref target="texte.html">Présentation des textes</ref><lb/><ref target="feux.html">Pleins feux sur <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_astree"
+  onclick="SetDisplay('astree')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="bold">Lecture de</hi>
+          </hi><lb/><hi rend="leftmenu" onclick="ToggleLeftMenu('astree')">
+            <hi rend="visageslivre">L'Astrée</hi>
+          </hi><ref target="../_roman/reference/21_1/21_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. de référence</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/reference/21_1/21_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1621</ref><lb/><ref target="../_roman/reference/21_2/21_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1621</ref><lb/><ref target="../_roman/reference/21_3/21_3_liminaires.html">III<hi rend="supn">e</hi> partie 1621</ref><lb/><ref target="../_roman/reference/24_4/24_4_liminaires.html">IV<hi rend="supn">e</hi> partie 1624</ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. préliminaire</hi>
+              </hi>
+            </ref><lb/><ref target="../_roman/preliminaire/07_1/07_1_liminaires.html">I<hi rend="supn">e</hi>   partie 1607</ref><lb/><ref target="../_roman/preliminaire/10_2/10_2_liminaires.html">II<hi rend="supn">e</hi>  partie 1610</ref><lb/><ref target="../_roman/preliminaire/19_3/19_3_liminaires.html">III<hi rend="supn">e</hi> partie 1619</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. fonctionnelle</hi>
+              </hi>
+              <lb/>
+<hi rend="small">avec gravures</hi>
+            </ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html">I<hi rend="supn">e</hi>   partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html">II<hi rend="supn">e</hi>  partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html">III<hi rend="supn">e</hi> partie</ref><lb/><ref target="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html">IV<hi rend="supn">e</hi> partie</ref><lb/><ref target="fonctionnelle_word.html">
+              <hi rend="small">
+                <hi rend="bold">Éd. téléchargeable</hi>
+                <lb/>
+en Word</hi>
+            </ref><lb/><ref target="resume.html">
+              <hi rend="small">
+                <hi rend="bold">Résumé</hi> des intrigues</hi>
+            </ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><lb/><ref target="plan_du_site.html#apparat">
+            <hi rend="white">
+              <hi rend="bold">APPARAT CRITIQUE</hi>
+            </hi>
+          </ref><lb/><!--<input
+  type="checkbox"
+  id="chk_roman"
+  onclick="SetDisplay('roman')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('roman')">
+            <hi rend="bold">Le roman</hi>
+          </hi><ref target="evolution.html">Évolution de <hi rend="italic">L'Astrée</hi>
+            </ref><lb/><ref target="variantes_confrontees.html">Variantes confrontées</ref><lb/><ref target="variantes_premiere.html">Variantes, I<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_deuxieme.html">Variantes, II<hi rend="supn">e</hi> partie</ref><lb/><ref target="variantes_troisieme.html">Variantes, III<hi rend="supn">e</hi> partie</ref><lb/><ref target="illustrations.html">Analyse des illustrations</ref><lb/><ref target="paralleles.html">Parallèles suggérés</ref><lb/><ref target="resume.html">Résumé des intrigues</ref><lb/><ref target="chronologie_historique.html">Chronologie historique</ref><lb/><ref target="temoignages.html">Témoignages</ref><lb/><ref target="temoignages.html#ducrozet">Du Crozet</ref><lb/><ref target="temoignages.html#sorel">Sorel</ref><lb/><ref target="temoignages.html#gueret">Guéret</ref><lb/><ref target="lingendes_poemes.html">Poèmes de Lingendes</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_romancier"
+  onclick="SetDisplay('romancier')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('romancier')">
+            <hi rend="bold">Le romancier</hi>
+          </hi><ref target="urfe.html">Biographie</ref><lb/><ref target="biographes.html">Biographes, critiques</ref><lb/><ref target="evenements.html">Événements</ref><lb/><lb/><ref target="genealogie.html">Généalogie</ref><lb/><ref target="testament.html">Testament</ref><lb/><ref target="inventaire.html">Inventaire</ref><lb/><ref target="heritages.html">Héritages</ref><lb/><lb/><ref target="poemes.html">Poèmes</ref><lb/><ref target="epitres.html">Épîtres</ref><lb/><ref target="lettres.html">Lettres</ref><lb/><lb/><hi rend="italic">
+              <ref target="jugemant.html">Jugemant sur<lb/>
+  L'Amedeide</ref>
+            </hi><lb/><ref target="malherbe.html">Remarques<lb/>
+  sur Malherbe</ref><lb/><!--<input
+  type="checkbox"
+  id="chk_resource"
+  onclick="SetDisplay('resource')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('resource')">
+            <hi rend="bold">Ressources</hi>
+          </hi><ref target="bibliographie.html">Bibliographie</ref><lb/><ref target="liens.html">Liens externes</ref><lb/><ref target="liens_gallica.html">Liens vers Gallica</ref><lb/><ref target="cartotheque.html">Cartothèque</ref><lb/><ref target="galerie.html">Galerie de portraits</ref><lb/><ref target="rohmer.html">Film d'Eric Rohmer</ref><lb/><ref target="partitions.html">Partitions d'A. Naigeon</ref><lb/><ref target="photos_forez.html">Photos du Forez</ref><lb/><lb/><p><graphic url="../images/color_palette.gif" rend="img hover_show" mimeType="image/gif"/></p><p><graphic url="../images/signet_retour_bleu.gif" rend="img button_link" mimeType="image/gif"/></p><ref target="#citation">
+            <hi style="font-size:18px">«</hi>
+            <hi style=" color:red; font-size:11px; position:relative; top:-2px;">@</hi>
+            <hi style="font-size:18px">»</hi>
+          </ref><!--<button
+  type="submit"
+  class="button_link"
+  title="Fermer"
+  style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;"
+  onclick="CloseMenuBar('#menu_droite')">--><hi style=" color:red; font-size:14px; font-weight:bold"> X </hi><!--</button>--><lb/><p><graphic url="../images/annotation_a.gif" rend="img" mimeType="image/gif"/></p><!--<form
+  enctype="application/x-www-form-urlencoded"
+  method="get"
+  id="tous"
+  accept-charset="utf-8"
+  style="display:inline"
+  action="https://www.google.com/search"
+  target="_blank">--><!--<input
+  type="hidden"
+  name="sitesearch"
+  value="https://astree.univ-rouen.fr">--><!--</input>--><!--<input
+  type="text"
+  id="p"
+  style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px"
+  name="p"
+  size="16"
+  placeholder="Recherche"
+  onchange="add_astree('tous')">--><!--</input>--><!--<input
+  type="hidden"
+  name="q"
+  value="">--><!--</input>--><!--<input
+  type="image"
+  alt="submit"
+  title="Recherche dans tout le site"
+  style="position:relative; top:16px; left:7px;"
+  src="../images/loupe.gif">--><!--</input>--><!--</form>--><lb/><!--<input
+  type="checkbox"
+  id="chk_recherche"
+  onclick="Recherche()">--><!--</input>--><hi style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avancée</hi><ref target="recherche.html#recherche_ciblee">Recherche ciblée</ref><lb/><ref target="recherche.html">Fils d'Arianne</ref><lb/><ref target="hyperbase_orientation.html">Hyperbase (É. Brunet)</ref><lb/><ref target="recherche.html#acces">Accès aux pages/folios</ref><lb/><ref target="concordance.html">Concordances-Vaganay</ref><lb/><hi>
+<!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_annexe_demandee"
+  onclick="ToggleAnnexeDemandee()">--><!--</input>-->
+<hi rend="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fenêtre <hi rend="bold">Annexe</hi> pour<lb/>
+    les annotations</hi> <ref target="guide.html#annexe">(Guide)</ref>
+          </hi><lb/><hi xml:id="fontannexe">
+   <!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_fontannexe"
+  onclick="ToggleFontAnnexe()">--><!--</input>-->
+  <hi style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condensée</hi>
+</hi><!--<input
+  checked="checked"
+  type="checkbox"
+  id="chk_legende_rep"
+  onclick="SetDisplay('legende_rep')">--><!--</input>--><hi rend="leftmenu" onclick="ToggleLeftMenu('legende_rep')">
+            <hi rend="bold">Légende</hi>
+          </hi><p> </p><p>Catégories</p><table rend="center_o center_t" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" style="width:auto; height:20px; background-color:#FFCCFF">Actualité</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderblack" style="width:auto; height:20px">Géographie </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_grise" style="width:auto; height:20px">Histoire</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue" style="width:auto; height:20px">Littérature</cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_bleue_hashed" style="width:auto; height:20px">Mythologie</cell>
+              </row>
+            </table><p> </p><p>Informations</p><table rend="center_t center_o" style="background-color:#FFFFFF;">
+              <row>
+                <cell colspan="1" rowspan="1" rend="boite_remarque" style="width:auto; height:20px"> Remarque </cell>
+              </row>
+              <row>
+                <cell colspan="1" rowspan="1" rend="borderorange" style="width:auto; height:20px">Variante</cell>
+              </row>
+            </table><p> </p><ref target="repertoire.html">
+              <hi rend="bold">RÉPERTOIRE</hi>
+              <lb/>Orientation</ref><p> </p><ref target="repertoire_aa.html">A</ref><ref target="repertoire_bb.html">B</ref><ref target="repertoire_cc.html">C</ref><ref target="repertoire_dd.html">D</ref><ref target="repertoire_ee.html">E</ref><lb/><ref target="repertoire_ff.html">F</ref><ref target="repertoire_gg.html">G</ref><ref target="repertoire_hh.html">H</ref><ref target="repertoire_ik.html">I</ref><ref target="repertoire_ik.html#j">J</ref><lb/><ref target="repertoire_ik.html#k">K</ref><ref target="repertoire_ll.html">L</ref><ref target="repertoire_mm.html">M</ref><ref target="repertoire_no.html">N</ref><ref target="repertoire_no.html#o">O</ref><lb/><ref target="repertoire_pp.html">P</ref><ref target="repertoire_qr.html">Q</ref><ref target="repertoire_qr.html#r">R</ref><ref target="repertoire_ss.html">S</ref><ref target="repertoire_tt.html">T</ref><lb/><ref target="repertoire_uz.html">U</ref><ref target="repertoire_uz.html#v">V</ref><ref target="repertoire_uz.html#w">W</ref><ref target="repertoire_uz.html#x">X</ref><ref target="repertoire_uz.html#y">Y</ref><ref target="repertoire_uz.html#z">Z</ref><lb/><lb/><table rend="nocellborder" xml:id="draggable">
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="item_found" style="cursor:default;">
+            <graphic url="../images/fleche_gr.gif" rend="img" mimeType="image/gif"/>  Annexe<hi style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')"> X </hi>
+          </cell>
+        </row>
+        <row style="display:none">
+          <cell colspan="1" rowspan="1" xml:id="annexe_file"/>
+        </row>
+        <row>
+          <cell colspan="1" rowspan="1" xml:id="content_found" style="font-size:11px;">
+            <hi rend="italic">Je suis flexible</hi>
+          </cell>
+        </row>
+      </table><!--</nav>--><!--<header>--><p><graphic url="../images/2visages_parchemin.gif" rend="img" mimeType="image/gif"/></p><hi rend="italic">L'Astrée</hi><!--</header>--><lb/><!--<header>--><div><head>
+              
+              <lb/>
+              <ref target="repertoire.html">RÉPERTOIRE - H</ref>
+            </head><!--</header>--><table>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">Hamadryades</cell>
+              <cell colspan="1" rowspan="1"> Voir   <hi rend="italics">
+                  <ref target="repertoire_aa.html#amadryades">Amadriades</ref>
+                </hi>.
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Harpalyce</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#4_harpalyce">IV<lb/>
+           </ref>
+             
+             <ref target="#4_harpalyce">
+             </ref>
+             <hi rend="italic">
+                  <ref target="bibliographie.html#encyclopedie">L'Encyclopédie</ref>
+                </hi> de Diderot décrit trois femmes nommées Harpalyce par les Grecs. L'une inspire un amour incestueux à son père, l'autre  donne son nom à une chanson érotique. C'est la troisième, fille du roi de Thrace, qui est connue pour son pied léger et ses capacités de chasseresse. Elle est surtout célèbre parce que <ref target="repertoire_uz.html#4_venus">Vénus</ref> a pris son apparence  pour se présenter à <ref target="repertoire_ee.html#4_enee">Énée</ref> et l'encourager à aller vers <ref target="repertoire_dd.html#didon">Didon</ref>. Lorsque la robe de  chasseresse  tombe, <ref target="repertoire_ee.html#4_enee">Énée</ref> reconnaît sa mère et se plaint de ses déguisements (<ref target="bibliographie.html#virgile">Virgile</ref>, <hi rend="italic">L'Énéide</hi>, I, 315 sq.). Harpalyce, c'est la façade.<lb/>
+             <lb/>
+               Maxime <ref target="bibliographie.html#gaumei">Gaume</ref> (p. 263) signale que d'Urfé nomme Harpalyce dans<hi rend="italic"> La Savoisiade.</hi> <lb/>
+               Voici le costume  d'Harpalyce dans  cette épopée inachevée :<lb/>
+     « La robe par devant au genoil rehaulsee<lb/>
+       Le brodequin dore et la manche troussee<lb/>
+       Le poil au gré du vent ondoyant sur le dos<lb/>
+       Sans que rien le retint qu'un ruban en repos »<lb/>
+               (<hi rend="italic">
+                  <ref target="bibliographie.html#melanges_urfe">Mélanges</ref>
+                </hi>, vers 709 sq., f° 126 verso).<lb/>
+               Nombreuses ressemblances avec la tenue des nymphes du <ref target="repertoire_ff.html#4_forez">Forez</ref> (<ref target="../_roman/reference/21_1/21_1_livre_1.html#6_verso">I, 1, 6 verso</ref>).<lb/>
+               <lb/>
+           • <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> compare les robes de <ref target="personnage_cc.html#4_clotilde">Clotilde</ref> et de ses suivantes quand elles vont à la chasse au costume d'Harpalyce (<ref target="../_roman/reference/24_4/24_4_livre_4.html#714">IV, 4, 714</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Hecate</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#hecate">I</ref>
+             
+             Mythologie. Écrit aussi <hi rend="italics">Hecathe</hi> et <hi rend="italics">Heccathe</hi>. Divinité infernale qui réside au <ref target="glossaire_pp.html#palus_stigieux">
+                  <hi rend="glossaire">Palus Stigieux</hi>
+                </ref> (<ref target="../_roman/reference/21_1/21_1_livre_5.html#137_verso">I, 5, 137 verso</ref>). Hécate est la déesse de la magie et des enchantements. Hécate peut voir le passé, le présent et le futur (<ref target="bibliographie.html#cartari">Cartari</ref>, p. 127). <lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#climanthe">Climanthe</ref>, le faux druide, sert Hécate. Il la représente dans un tableau (<ref target="../_roman/reference/21_1/21_1_livre_5.html#126_recto">I, 5, 126 recto</ref>), l'invoque (<ref target="../_roman/reference/21_1/21_1_livre_5.html#134_verso">I, 5, 134 verso</ref>) et lui offre des animaux en sacrifice (<ref target="../_roman/reference/21_1/21_1_livre_5.html#137_recto">I, 5, 137 recto</ref>). <lb/>
+             <lb/>
+             •  C'est Hécate qui est supposée annoncer le futur à la Nymphe <ref target="personnage_gg.html#galathee">Galathée</ref> ( <ref target="../_roman/reference/21_1/21_1_livre_5.html#138_recto">I, 5, 138 recto et verso</ref>, <ref target="../_roman/reference/21_1/21_1_livre_5.html#139_recto">I, 5, 139 recto</ref>). <lb/>
+             <lb/>
+             On trouvera dans ce <ref target="https://www.britannica.com/topic/Hecate">site</ref> une représentation de la déesse « Triformis » (8 mars 2019). Voir aussi ce <ref target="http://www.theoi.com/Khthonios/Hekate.html">site</ref> (20 mai 2013).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Helveces</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#helveces">I</ref>, <ref target="#3_helveces">III</ref>
+             
+             D'Urfé semble distinguer <hi rend="italic">Helvèces</hi> et <hi rend="italic">Helvétiens</hi>. Il s'agit dans les deux cas des habitants de l'Helvétie, la Suisse moderne, et la Savoie du XVII<hi rend="supn">e</hi> siècle. Voir <ref target="#helvetiens">Helvétiens</ref>.<lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#silvandre">Silvandre</ref> dit que son protecteur, un <ref target="#helvetiens">Helvétien</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#226_verso">I, 8, 226 verso)</ref>, habite une ville « assise sur l'extremité des <ref target="repertoire_aa.html#allobroges">Allobroges</ref> du costé des Helveces, [...] sur le bord du grand lac de <ref target="repertoire_ll.html#leman">Leman</ref> » (<ref target="../_roman/reference/21_1/21_1_livre_8.html#229_verso">I, 8, 229 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Helveces</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#helveces">I</ref>, <ref target="#3_helveces">III</ref>
+             
+             • <ref target="personnage_aa.html#3_arimant">Arimant</ref> aurait pu prendre le chemin des Helvèces pour rentrer à <ref target="repertoire_ee.html#3_eporedes">Éporèdes</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#351_recto">III, 8, 351 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Helvetiens</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#helvetiens">I</ref>, <ref target="#3_helvetiens">III</ref>
+               
+             Peuple celte établi en Allemagne du Sud puis en <ref target="repertoire_gg.html#gaule">Gaule</ref> et rattaché à la <ref target="repertoire_gg.html#gaule">Gaule</ref> Lyonnaise, dont le nom a diverses formes. Voir <ref target="#helveces">Helveces</ref>.<lb/>
+             <lb/>
+             Il s'agit peut-être des <hi rend="italic">Helviens</hi> peuple voisin des Arvernes (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 662), mais la <ref target="https://www.provistiliaco.ch/les-helvetes/">Carte</ref> de la Suisse celtique (8 mars 2019) donne  <hi rend="italic">Helvetii</hi>. <lb/>
+
+             Les traductions de <ref target="bibliographie.html#pline">Pline</ref> donnent les <hi rend="italic">Helvétiens</hi> (IV, 31), et celles de Ptolémée donnent <hi rend="italic">Helvètes</hi>. F. Lot, dans sa liste des peuples celtes, donne <hi rend="italic">helvii</hi>, <hi rend="italic">Helviens</hi> (Voir ce <ref target="http://fr.wikipedia.org/wiki/Liste_des_peuples_celtes">site</ref>, 10 décembre 2012).
+             <lb/>
+             <lb/>
+             • <ref target="personnage_ss.html#silvandre">Silvandre</ref> enfant est tombé entre les mains d'<ref target="personnage_aa.html#azahide">Azahide</ref>, un Helvétien (<ref target="../_roman/reference/21_1/21_1_livre_8.html#226_verso">I, 8, 226 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Helvetiens</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#helvetiens">I</ref>, <ref target="#3_helvetiens">III</ref>
+             
+             • <ref target="personnage_aa.html#3_arimant">Arimant</ref> et son père pourraient quitter <ref target="repertoire_ee.html#3_eporedes">Éporèdes</ref> « par les <ref target="repertoire_cc.html#3_centrons">Centrons</ref>, ou par les <ref target="repertoire_uz.html#3_veragrois">Veragrois</ref>, ou par les Helvetiens » (<ref target="../_roman/reference/21_3/21_3_livre_7.html#285_recto">III, 7, 285 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFCCFF;">
+                Henry le Grand</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#henri">I</ref>, <ref target="#2_henri">II</ref>, <ref target="#3_henri">III</ref>
+             
+             Henri IV, 13 décembre 1553 - 14 mai 1610. <lb/>
+             <lb/>
+             Honoré d'Urfé ne dédie pas à  Henri IV  la première partie  de <hi rend="italic">L'Astrée</hi> en<lb/>
+               1607.<lb/>
+               Il lui offrira
+               la deuxième  seulement en<lb/>
+               1610. <lb/>
+               Par ailleurs, dans l'édition qui réunit les trois parties du roman,  l'épître à Henri IV est déplacée. <lb/>
+               Elle se trouve au début du <lb/>
+               premier volume. <lb/>
+               <lb/>
+               Par conséquent, dans ce site qui présente l'édition de 1621 aussi bien que les éditions préliminaires,  on rencontrera deux fois l'épître à <ref target="#2_henri">Henri IV</ref>. Elle se trouve au début de la <ref target="../_roman/preliminaire/10_2/10_2_liminaires.html#dedicace">deuxième partie de 1610</ref>,<lb/>
+               et aussi au début de la première partie de 1621 (<ref target="../_roman/reference/21_1/21_1_liminaires.html#dedicace">I, <hi rend="italic">Au Roy</hi>
+                  </ref>).             
+             <lb/>
+             Henri de Navarre devient Henri IV, roi de France, en 1589, quand meurt Henri III, le troisième et dernier fils d'Henri II et de Catherine de Médicis. La loi salique qui interdit aux femmes de régner écarte la fille d'Henri II, Marguerite de Valois<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#marguerite">η</ref> (la reine Margot). Comme on l'a souvent noté, la dynastie des Valois, mise sur le trône grâce à la loi salique du temps de François I<hi rend="supn">er</hi>, s'achève à cause de la loi salique (<ref target="bibliographie.html#bayrou">Bayrou</ref>, p. 201). Marguerite<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#marguerite">η</ref> est alors mariée depuis 1572 avec Henri de Navarre. Mais, c'est en tant que fils d'Antoine de Bourbon, descendant de Louis IX (Saint Louis), qu'Henri de Navarre succède aux Valois. Il  donne ainsi le trône à la Maison de Bourbon qui le gardera jusqu'à la Révolution. Nostradamus, dit-on,  aurait prédit ce brillant avenir au jeune Henri en 1564 (<ref target="bibliographie.html#marguerite">Marguerite</ref>, p. 279). <lb/>
+             <lb/>
+             Parce que le nouveau roi est protestant, les guerres de religion déchirent la France. Henri abjure en 1593, et signe l'<ref target="https://fr.wikisource.org/wiki/%C3%89dit_de_Nantes">Édit de Nantes</ref> en 1598 pour garantir aux protestants la liberté de culte et pour ramener la paix. L'article 2, qui efface jusqu'au souvenir des luttes, mérite d'être cité :<lb/>
+             <lb/>
+     « Défendons à tous nos sujets, de quelque état et<lb/>
+      qualité qu'ils soient, d'en renouveler la mémoire,<lb/>
+      s'attaquer, injurier ni provoquer l'un l'autre par<lb/>
+      reproche de ce qui s'est passé » (<ref target="bibliographie.html#henri_lettres">Henri</ref>, p. 232).<lb/>
+             <lb/>
+             Le duc de <ref target="bibliographie.html#la_noue">La Nouë</ref>, un protestant, recommande « la loy d'oubliance [...] tousjours mise la premiere en noz paix » (p. 98).<lb/>
+             <lb/>
+             Pour consolider la paix, Henri encourage la tolérance religieuse<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#irenisme">η</ref>. Son aumônier est un jésuite, le Père Coton (« Le roi a du Coton dans les oreilles ! », cité par <ref target="bibliographie.html#regent">Régent-Susini</ref>, p. 321). Son historiographe est  un ancien ligueur, Pierre Matthieu.<lb/>
+Henri dispose de « caisses de conversion » pour encourager les ministres protestants à se convertir (<ref target="bibliographie.html#vivanti">Vivanti</ref>, p. 240). Il distribue les pensions aux anciens Ligueurs aussi. Le Roi aurait donné  quatre millions de livres<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#livre">η</ref> en une seule année, selon <ref target="bibliographie.html#carmona">Carmona</ref> (p. 257). Le Roi n'était pourtant pas vraiment généreux, semble-t-il. On lit dans le <hi rend="italic">
+                  <ref target="bibliographie.html#mercure">Mercure françois</ref>
+                </hi> que, de son vivant, il n'y eut pas « un Prince qui n'eust de la peine à se faire payer de ses appoinctements, et pas un Pensionnaire qui dés ce temps là n'ait appris à s'accoustumer aux retranchements de cestuy-cy » (1614, p. 397).<lb/>
+             <lb/>
+             En 1600, le  mariage d'Henri avec Marguerite de Valois<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#marguerite">η</ref> est annulé. Le Roi épouse Marie de Médicis<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#jacques">η</ref> qui lui donnera six enfants. En 1610, un moine assassine Henri. Son fils, <ref target="repertoire_ll.html#3_louis">Louis XIII</ref>, a neuf ans. <lb/>
+             <lb/>
+             • Surnommé le Vert-galant,   « ce prince a eu une quantité estrange de maistresses » (<ref target="bibliographie.html#tallemant">Tallemant</ref>, I, p. 7). Celui que ses sujets nommaient Henri le Grand, à bien des égards, mériterait d'être appelé « le Kennedy français ».  « Le bon roi Henri » est resté extraordinairement  populaire. Autour de 1657, <ref target="bibliographie.html#tallemant">Tallemant des Réaux</ref> lui consacre les premières pages de ses <hi rend="italics">Historiettes</hi>.
+             En 1728, Voltaire  écrit en son honneur un poème épique intitulé <hi rend="italics">La Henriade</hi>.
+
+             Après la Révolution encore, entre 1863 et 1876, Pierre <ref target="bibliographie.html#larousse">Larousse</ref>, à l'article <hi rend="italics">Henri IV</hi>, répète un vers célèbre « <hi rend="italics">Le seul roi dont le peuple ait gardé la mémoire</hi> ». Les célébrations du 400<hi rend="supn">e</hi> anniversaire de sa mort, en 2010, le prouvent.  « Henri IV, mort il y a 400 ans et plus superstar que jamais », titre <hi rend="italic">Le Monde</hi> du 13 mai 2010 (consulté le  2 juin 2012). <lb/>
+             <lb/>
+             • <ref target="bibliographie.html#bassompierre">Bassompierre</ref> écrit dans ses <hi rend="italic">Mémoires</hi> : En janvier 1609, « pendant  la goutte du Roi, il commanda à M. Le Grand [le duc de Bellegarde] de veiller une  nuit près de lui, Grammont une autre nuit, et moi une autre, et nous relayer  ainsi de trois en trois nuits, durant lesquelles nous lui lisions le livre d'Astrée qui lors étoit en vogue, et nous l'entretenions lorsqu'il ne pouvoir dormir,  empêché par son mal » (p. 385). Ce texte a induit en erreur le savant Auguste <ref target="bibliographie.html#bernard">Bernard</ref> qui déduisait que la première partie de <hi rend="italic">L'Astrée</hi> aurait paru en 1608 (p. 159, note 1).<lb/>
+             <lb/>
+             Il se peut que Bassompierre se trompe de date et que la lecture de <hi rend="italic">L'Astrée</hi> ait eu lieu au moment de la parution du roman, en 1607 (privilège du 12 août 1607), ce qui serait plus vraisemblable. <ref target="bibliographie.html#malherbe_oeuvres">Malherbe</ref>, dans une lettre datée du 28 juillet 1607, confie à Peiresc que le roi est à Monceaux avec une crise de goutte. « Il a envoyé quérir MM. de  Guise, d'Espernon, de Bassompierre et autres joueurs, pour lui faire passer le  temps » (p. 385). Cette crise de goutte a retenu le Roi à Fontainebleau pendant tout un mois, précise Antoine Adam, l'éditeur de <ref target="bibliographie.html#malherbe_oeuvres">Malherbe</ref> (p. 804).<lb/>
+             <lb/>
+             • « Les courtisans prétendaient que <hi rend="italic">l'Amadis</hi> était la Bible du roi » (<ref target="bibliographie.html#batiffol_marie">Batiffol</ref>, p. 204, note 1). Ce goût pour les <hi rend="italic">Amadis</hi>
+                <hi rend="cache"> </hi>
+                <ref target="note_analyses.html#amadis">η</ref> remonte loin. En 1582, <ref target="#henri">Henri</ref> a aimé « la belle Corisande »<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#corisande">η</ref>, une veuve catholique du Béarn. Il s'agit de Diane d'Andoins,  comtesse de Grammont, qui a choisi elle-même son surnom littéraire, sans prêter à Henri un nom aussi romanesque.
+             Le goût du Prince pour <hi rend="italic">Les Amadis</hi> ne se dément pas. En mars 1607, de Chantilly, Henri écrit à Marie de Médicis : « Je me vais coucher avec un extrême regret de n'avoir apporté <hi rend="italic">l'Amadis</hi> » (<ref target="bibliographie.html#henri_lettres">Henri</ref>,  p. 308). <lb/>
+             <lb/>
+             • Honoré d'Urfé et Henri IV ont dû avoir des rapports difficiles (Voir <ref target="urfe.html#cour">Urfé</ref>). Les quatre frères d'Urfé ont été Ligueurs : ils  se sont battus pour qu'un prince protestant ne règne pas sur la France. La Ligue<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#ligue">η</ref>, explique le chanoine <ref target="bibliographie.html#reure">Reure</ref>, évidemment partial, « a forcé Henri IV à entendre la messe de Saint-Denis. Le reste importe peu » (p. 35). Ce « reste » signifie deuils, combats et prisons pour Honoré d'Urfé.  Après l'abjuration du Roi,  d'Urfé se rallie au duc de Nemours   pour continuer à résister. En 1594, Henri IV  expulse les Jésuites<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#jesuites">η</ref> à la suite d'attentats manqués contre sa personne. Cela a dû mécontenter l'ancien élève des Pères Jésuites qu'est Honoré d'Urfé.<lb/>
+             À la mort de Nemours (15 août 1595), d'Urfé se rend  auprès de Charles-Emmanuel, duc de Savoie<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#altesse">η</ref> (Voir <ref target="urfe.html#duc_savoie">Urfé</ref>). Si l'on ajoute que  d'Urfé a fréquenté la cour de Marguerite de Valois<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#marguerite">η</ref>, la première épouse d'Henri IV, à Usson puis à Paris (<ref target="bibliographie.html#reure">Reure</ref>, p. 80, p. 138), on comprend que le Roi avait plus d'une raison de tenir ce gentilhomme à distance !<lb/>
+             <lb/>
+             • Ce n'est qu'en 1602 que Honoré d'Urfé, bien après son frère, Anne<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#anne">η</ref>, fait enfin sa paix avec Henri IV, grâce au Traité de Lyon signé entre la France et le duc de Savoie.<lb/>
+             <lb/>
+             • Dans le premier livre de ses <ref target="bibliographie.html#epistres">
+                  <hi rend="italic">Epistres morales</hi>
+                </ref> (commencé en 1595), Honoré d'Urfé décrit   sans indulgence un prince qui acquiert la gloire sur un champ de bataille :<lb/>
+             « [...] quand apres avoir sous un <ref target="repertoire_mm.html#2_mars">Mars</ref> douteux gaigné plusieurs batailles, forcé une à une toutes les villes, en fin il fait son entree dans la principale : [...] la breche de ses canons luy en ouvre la porte, et à toute son armee : De laquelle alors les estendarts rompus, les harnois décloüez, et yvres du sang des ennemis, et du leur mesme, sont augmentation et de gloire et de contentement » (I, 10, pp. 87-88).<lb/>
+             Il s'agit sans doute d'Henri IV rentré dans Paris le 22 mars 1594.<lb/>
+             <lb/>
+             • Mis à part <ref target="personnage_mm.html#merovee">Mérovée</ref>, qui meurt au milieu de la seconde partie de <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_2/21_2_livre_7.html#484">II, 7, 484</ref>), tous les rois qui défilent dans le roman commettent de graves erreurs de jugement. Honoré d'Urfé ne fait pas l'éloge de la royauté. <lb/>
+             <lb/>
+             • Le roman  ne fait pas l'éloge d'Henri IV, mais de la coexistence pacifique des  religions<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#irenisme">η</ref>.<lb/>
+             <lb/>
+             • Les critiques qui voient dans <hi rend="italic">L'Astrée</hi> un sincère éloge d'Henri IV (<ref target="bibliographie.html#vivanti">Vivanti</ref>, <ref target="bibliographie.html#wine">Wine</ref> et <ref target="bibliographie.html#yates">Yates</ref>, par exemple) projettent sur l'ensemble du roman ce qui s'est passé en 1610, dans la deuxième partie (<ref target="feux.html#henri_1">Pleins feux</ref>). <lb/>
+             <lb/>
+             • On trouve la copie d'un portrait d'Henri IV fait par Pourbus   dans ce <ref target="http://www.culture.gouv.fr/Wave/image/joconde/0001/m503604_83de234_p.jpg">site</ref> (30 septembre 2013), et la statue équestre du Vert-galant dans ce <ref target="http://ville.france.free.fr/paris2007/paris20072298.php">site</ref> (30 septembre 2013).            Le <ref target="https://chateau-pau.fr/">site</ref> du Musée national du château de Pau présente aussi des images  intéressantes (8 mars 2019). Le portrait d'Henri IV à cheval mis par Vaganay à la tête de son <hi rend="italics">Astrée</hi> se trouve dans la section <ref target="illustrations.html#portrait_henri">Illustrations</ref>. Une version différente se trouve dans le <ref target="http://www.culture.gouv.fr/Wave/image/joconde/0362/m501702_0003419_p.jpg">site</ref> Joconde (30 septembre 2013). Voir aussi <ref target="galerie.html#henri4">Galerie des portraits</ref>.<lb/>
+             <lb/>
+           • Voir le <ref target="poemes.html#henri">poème</ref> d'Honoré d'Urfé sur la mort d'Henri IV, composé au nom de Marie de Médicis<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#marie">η</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFCCFF;">
+                Henry le Grand</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#henri">I</ref>, <ref target="#2_henri">II</ref>, <ref target="#3_henri">III</ref>
+             
+             Le 15 février 1610,  Honoré d'Urfé reçoit un privilège pour la deuxième partie de <hi rend="italics">L'Astrée</hi> qu'il <ref target="../_roman/preliminaire/10_2/10_2_liminaires.html#dedicace">dédie</ref> au « Roi très chrétien ». Cette dédicace n'a pas porté bonheur à Henri IV, assassiné trois mois après, le 14 mai 1610. <lb/>
+             <lb/>
+             • En 1610, l'épître dédicatoire,  « texte de circonstance », selon J.-M. <ref target="bibliographie.html#chatelain_politique">Chatelain</ref> (p. 192), doit sceller  une réconciliation et louer publiquement la politique royale. <hi rend="italics">L'Astrée</hi>,   écrit d'Urfé, est « un enfant que la paix a fait naître ». Henri IV  en est « l'auteur », et non Henri de Navarre.  La paix qui a  permis la publication du roman dépendait de « la valeur et [de] la  prudence » du Prince, c'est-à-dire, non seulement des batailles, mais encore, mais surtout, de l'abjuration  qui a mis un terme au conflit.
+             Les « grands rois dont l'Antiquité se vante  le plus ont été pasteurs qui ont porté la houlette et le sceptre d'une  main », rappelle le romancier dans cette dédicace qui est, essentiellement, un hymne à la paix. Le glaive et l'épée ne font pas le bon roi. <lb/>
+             <lb/>
+             • En 1610,   lorsque paraît ce texte conciliatoire, d'Urfé embrasse le parti de l'irénisme<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#irenisme">η</ref>. Il explique pour la première fois sa vision de la théologie celte et imagine une religion tolérante. Distinguer les compliments conventionnels de la dédicace et le contenu du roman reste nécessaire. Il faut se garder d'oublier que le système politique forézien, une gynécocratie, est l'antithèse de la loi salique, alors que cette loi salique vient de  favoriser Henri de Navarre au détriment de Marguerite de Valois<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#marguerite">η</ref>. <lb/>
+             <lb/>
+             RAPPEL<lb/>
+               <lb/>
+               Dans l'édition complète de 1621, la dédicace à Henri IV accompagne la première partie du roman  (<ref target="../_roman/reference/21_1/21_1_liminaires.html#dedicace">I, <hi rend="italic">Au Roy</hi>
+                  </ref>). Comme le Roi n'y est pas désigné de manière à ce qu'on puisse l'identifier rapidement, certains critiques s'y sont trompés. <ref target="bibliographie.html#sorel_berger">Sorel</ref> pense peut-être à d'Urfé quand il blâme les titres vagues dans les dédicaces d'œuvres destinées à durer (p. 680).<lb/>
+               <lb/>
+               Curieusement, le bandeau  de la dédicace porte  les initiales de Louis le Juste (<hi rend="italic">I L</hi>).<lb/>
+               <ref target="repertoire_ll.html#3_louis">Louis XIII</ref> recevra la dédicace de la troisième partie en 1619.<lb/>
+<lb/>
+La version fonctionnelle suit l'édition de 1621. <lb/>
+La <ref target="../_roman/reference/21_1/21_1_liminaires.html#dedicace">dédicace</ref> à  <ref target="#henri">Henri IV</ref> est à la tête de la première partie, et la <ref target="../_roman/reference/21_3/21_3_liminaires.html#3_dedicace_louis">dédicace</ref> à <ref target="repertoire_ll.html#3_louis">Louis XIII</ref> à la tête de la troisième partie.
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#FFCCFF;">
+                Henry le Grand</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#henri">I</ref>, <ref target="#2_henri">II</ref>, <ref target="#3_henri">III</ref>
+             
+             Le 31 décembre 2012, l'AFP annonce que des chercheurs ont prouvé que l'ADN réunit Henri IV et Louis XVI. Cela démontre que Louis XIV était bien le fils de <ref target="repertoire_ll.html#3_louis">Louis XIII</ref>, et non celui de Mazarin. Ils ont aussi découvert  qu'une tête de roi, détachée d'un corps sous la Terreur, appartenait à Henri IV (Voir ce <ref target="http://www.liberation.fr/sciences/2010/12/15/on-a-retrouve-la-tete-d-henri-iv_700864">site</ref>, 20 avril 2015). Dans ce <ref target="https://www.photo.rmn.fr/CS.aspx?VP3=SearchResult&amp;VBID=2CO5PCX5Y15ZV&amp;SMLS=1&amp;RW=1398&amp;RH=727">site</ref> (8 mars 2019), la Réunion des Musées Nationaux affiche des centaines de représentations du roi et de ses armes (par exemple l'épée offerte par la ville de Paris en 1600).<lb/>
+             <lb/>
+             La mémoire d'Henri IV  a inspiré nombre de chansons. On peut écouter une des plus célèbres dans ce <ref target="https://www.youtube.com/watch?v=4h5M78YVN8M">site</ref> (10 mai 2012) ; une version (sans paroles) due à Tchaïkovsky est dans ce <ref target="https://www.youtube.com/watch?v=TXXdOqaI4mc">site</ref> (2 août 2016).<lb/>
+             <lb/>
+             • Dans la dédicace de la troisième partie à <ref target="repertoire_ll.html#3_louis">Louis XIII</ref>, en 1619, Honoré d'Urfé rappelle que son roman a été d'abord dédié à « HENRY LE GRAND », « par qui [la <ref target="repertoire_ff.html#3_france">France</ref>] estant perduë [...] avoit este reconquise » (<ref target="../_roman/reference/21_3/21_3_liminaires.html#3_dedicace_louis">III, <hi rend="italic">Dédicace</hi>
+                </ref>). <lb/>
+             <lb/>
+             • Les amours du Roi défunt<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_histoire_euric">η</ref> transparaissent dans <ref target="../_roman/reference/21_3/21_3_livre_3.html#h_euric">l'Histoire d'Euric, Daphnide, et Alcidon</ref> et la <ref target="../_roman/reference/21_3/21_3_livre_4.html#h_daphnide">Suitte de l'histoire de Daphnide, et d'Alcidon</ref>. <lb/>
+             <lb/>
+             •            Neuf ans après sa mort, Henri IV  est devenu le modèle d'<ref target="personnage_ee.html#3_euric">Euric</ref>, roi <ref target="repertoire_uz.html#3_visigoths">wisigoth</ref> qui joue un rôle néfaste  (<ref target="bibliographie.html#heneinf">Henein</ref>, pp. 106-107). Il passe pour être le « plus grand et  [...] plus généreux prince qui commanda jamais dans la <ref target="repertoire_gg.html#3_gaule">Gaule</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_4.html#155_verso">III, 4, 155 verso</ref>). Cet éloge dithyrambique (qui vient d'un personnage, non du romancier) est contredit par les faits rapportés dans l'histoire d'<ref target="personnage_aa.html#3_alcidon">Alcidon</ref> et de <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>, transposition des amours de Gabrielle d'Estrées, du duc de Bellegarde et du Roi<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_histoire_euric">η</ref>. Un autre personnage déclare d'ailleurs qu'<ref target="personnage_ee.html#3_euric">Euric</ref>,    responsable d'une guerre civile qui divise des frères,    « barbare et cruel, [est] la ruine des <ref target="repertoire_gg.html#3_gaule">Gaules</ref> et de toute l'<ref target="repertoire_ee.html#3_europe">Europe</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_3.html#87_recto">III, 3, 87 recto</ref>). <lb/>
+             <lb/>
+             • Edouard <ref target="bibliographie.html#droz">Droz</ref> (p. 199) relève une ressemblance entre les portraits d'Henri IV et les gravures<hi rend="cache"> </hi>
+                <ref target="note_images.html#gravures_euric">η</ref> représentant <ref target="personnage_ee.html#3_euric">Euric</ref> dans <hi rend="italic">L'Astrée</hi>.   Le nom du « Grand Henry » figure sur ces gravures (<ref target="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_livre_4.html">III, 4</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Hercule</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hercule">I</ref>, <ref target="#2_hercule">II</ref>, <ref target="#3_hercule">III</ref>, <ref target="#4_hercule">IV</ref>
+             
+             Mythologie. Écrit aussi <hi rend="italics">Hercules</hi>. Ce demi-dieu, fils de <ref target="repertoire_ik.html#jupiter">Jupiter</ref> et d'Alcmène, est le héros de multiples aventures. Sa naissance, sa vie et sa mort ont inspiré poètes et artistes. Honoré d'Urfé s'intéresse plutôt à ses travaux. <lb/>
+             Dans un ouvrage dédié à Claude d'Urfé, <ref target="bibliographie.html#du_choul">Du Choul</ref> consacre plusieurs pages à Hercule, parce que, explique-t-il, de multiples médailles montrent ce Dieu. <ref target="bibliographie.html#du_choul">Du Choul</ref> expose l'histoire de l'Hercule gaulois d'après un texte d'Erasme (p. 200 sq.) <lb/>
+             <lb/>
+             <ref target="#hercule">Hercule</ref> apparaît sous cinq aspects très différents dans <hi rend="italics">L'Astrée</hi>.<lb/>
+             <lb/>
+             • 1. Honoré d'Urfé est représenté en <ref target="#hercule">Hercule</ref>, vêtu de la peau du lion de Némée, dans le portrait qui figure au début de <hi rend="italics">L'Astrée</hi> depuis l'édition de 1619. (Voir <ref target="illustrations.html">Illustrations</ref>). On trouvera dans ce <ref target="http://fr.academic.ru/pictures/frwiki/72/Herakles_Olympos_Louvre_F30.jpg">site</ref> une amphore sur laquelle cet <ref target="#hercule">Hercule</ref> est avec  Minerve (<ref target="repertoire_pp.html#pallas">Pallas</ref>) (Voir aussi ce <ref target="http://latinews1.files.wordpress.com/2014/01/lion-de-nemee.jpg">site</ref> 30 octobre 2014). <lb/>
+             <lb/>
+             • 2. Vainqueur de monstres et de géants, <ref target="#hercule">Hercule</ref> est le compagnon de la <ref target="repertoire_gg.html#galathee_m">Galathée</ref> mythique qui figure dans le deuxième récit des origines du <ref target="repertoire_ff.html#forez">Forez</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.html#30_verso">I, 2, 30 verso</ref> et <ref target="../_roman/reference/21_1/21_1_livre_2.html#31_recto">I, 2, 31 recto</ref>). On aurait aimé le considérer comme l'<ref target="#hercule">Hercule</ref> gaulois, mais d'Urfé ne mentionne pas alors son éloquence.<lb/>
+             <lb/>
+             • 3. <ref target="#hercule">Hercule</ref> donne son nom au détroit de Gibraltar, appelé les <ref target="repertoire_cc.html#colonnes_d_hercule">colonnes d'Hercule</ref> (<ref target="../_roman/reference/21_1/21_1_livre_7.html#193_recto">I, 7, 193 recto</ref>). <lb/>
+             <lb/>
+             •          4. <ref target="#hercule">Hercule</ref> est vénéré dans un temple de la <ref target="repertoire_pp.html#province_viennoise">province viennoise</ref> (<ref target="../_roman/reference/21_1/21_1_livre_8.html#256_verso">I, 8, 256 verso</ref>). <lb/>
+             <lb/>
+             • 5. Le dernier <ref target="#hercule">Hercule</ref> est l'esclave d'Omphale. <ref target="personnage_ll.html#lindamor">Lindamor</ref> rappelle à <ref target="personnage_gg.html#galathee">Galathée</ref> que le dieu <ref target="repertoire_aa.html#amour">Amour</ref> a fait filer <ref target="#hercule">Hercule</ref> (<ref target="../_roman/reference/21_1/21_1_livre_9.html#300_verso">I, 9, 300 verso</ref>). Pour certains mythologues, le travestissement d'<ref target="#hercule">Hercule</ref> et ses activités féminines étaient plutôt un châtiment imposé par <ref target="repertoire_aa.html#apollon">Apollon</ref>. <lb/>
+             <lb/>
+             • Les peintres ont  présenté <ref target="#hercule">Hercule</ref> nu en train de filer aux côtés d'Omphale. Voir par exemple le tableau attribué à Rubens (entre 1602 et 1605) dans ce <ref target="http://commons.wikimedia.org/wiki/File:Rubens,_Peter_Paul_-_Hercules_and_Omphale_-_1602-1605.jpg">site</ref> (30 septembre 2014).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:300px; background-image:url('../images/bluehashed.jpg')">
+                Hercule</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hercule">I</ref>, <ref target="#2_hercule">II</ref>, <ref target="#3_hercule">III</ref>, <ref target="#4_hercule">IV</ref>
+             
+             <ref target="bibliographie.html#fauchetr">Fauchet</ref>, l'une des principales sources d'Honoré d'Urfé, déclare :  « Les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> qui vivoyent environ l'an CCCLXX. apres la mort de nostre seigneur Jesus Christ assuroient, et monstroient gravé en tables, et autres marques laissees pour servir de memoire : qu'<ref target="#2_hercule">Hercule</ref> fils d'Amphitrion, vint pour destruire Taurise et Gerion cruels tirans : l'un desquels <ref target="glossaire_tt.html#travailler">travailloit</ref> la <ref target="repertoire_gg.html#2_gaule">Gaule</ref>, et l'autre l'<ref target="repertoire_ee.html#espagne">Espagne</ref> [...] il eut plusieurs enfans des gentils-femmes du païs [...] la fille du Roy des <ref target="repertoire_cc.html#2_celtes">Celtes</ref> en devint amoureuse ; et eut de luy un fils nommé Galates : tant vertueux, que ses subjets voulurent porter son nom » (f° 3 verso). D'après <ref target="bibliographie.html#cartari">Cartari</ref>, <ref target="#2_hercule">Hercule</ref> aurait eu plus de soixante-dix enfants (p. 256).<lb/>
+             <lb/>
+             <ref target="#henri">Henri IV</ref> a souvent été comparé à Hercule (Voir <ref target="illustrations.html#hercule">Illustrations</ref>). Françoise <ref target="bibliographie.html#bardon">Bardon</ref> cite ces vers qui datent de 1600 et qui résument fort bien l'esprit du temps :<lb/>
+       « Hercule et Henry sont semblables<lb/>
+        En vertu, en dicts, et en faicts » (p. 116).<lb/>
+             <lb/>
+             Dans la deuxième partie de <hi rend="italics">L'Astrée</hi>, <ref target="#2_hercule">Hercule</ref> apparaît dans trois contextes : <lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#2_celidee">Célidée</ref> fait appel à lui parce qu'elle désire son éloquence (<ref target="../_roman/reference/21_2/21_2_livre_2.html#82">II, 2, 82</ref>). <lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#2_calidon">Calidon</ref> jure par <ref target="#2_hesus">Hésus</ref> et par <ref target="#2_hercule">Hercule</ref>, divinités belliqueuses (<ref target="../_roman/reference/21_2/21_2_livre_11.html#706">II, 11, 706</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#2_adamas">Adamas</ref> enfin inclut <ref target="#2_hercule">Hercule</ref> dans l'aréopage des divinités qu'il présente à <ref target="personnage_cc.html#2_celadon">Céladon</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#515">II, 8, 515</ref>). <ref target="#2_hercule">Hercule</ref> est une puissance surnaturelle qui porte le même nom chez les <ref target="repertoire_qr.html#2_romains">Romains</ref> et chez les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref>. Il doit « le surnom de <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> » au fait que les <ref target="repertoire_gg.html#2_gaulois">Gaulois</ref> l'honoraient pour ses vertus, et pour avoir épousé la princesse <ref target="repertoire_gg.html#2_galathee_m">Galathée</ref>.<lb/>
+             <lb/>
+             • Voir <hi rend="italic">Aureilles</hi>
+                <hi rend="cache"> </hi>
+                <ref target="note_2.html#2_aureilles">η</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Hercule</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hercule">I</ref>, <ref target="#2_hercule">II</ref>, <ref target="#3_hercule">III</ref>, <ref target="#4_hercule">IV</ref>
+             
+             En 1619, la troisième partie paraît dans une édition complète de <hi rend="italic">L'Astrée</hi> qui est ornée d'un portrait d'Honoré d'Urfé en Hercule (<ref target="illustrations.html#hercule">Illustrations</ref>). <lb/>
+             <lb/>
+             • <ref target="personnage_hh.html#3_hylas">Hylas</ref> jure par Hercule lorsqu'il fait semblant de ne pas reconnaître <ref target="personnage_pp.html#3_palinice">Palinice</ref> (<ref target="../_roman/reference/21_3/21_3_livre_2.html#50_verso">III, 2, 50 verso</ref>).<lb/>
+             <lb/>
+             • Le portrait du « grand Hercule gaulois » se trouve dans la demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>).<lb/>
+             <lb/>
+             <p>Ce portrait a été ajouté après l'édition de 1619.</p>
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1 couleur_mythe">
+                Hercule</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hercule">I</ref>, <ref target="#2_hercule">II</ref>, <ref target="#3_hercule">III</ref>, <ref target="#4_hercule">IV</ref>
+             
+             Dans la première partie déjà, le demi-dieu  pourfend monstres et géants (<ref target="../_roman/reference/21_1/21_1_livre_2.html#30_verso">I, 2, 30 verso</ref>).
+             Chez <ref target="bibliographie.html#cartari">Cartari</ref>, l'un des nombreux titres  d'Hercule est « surintendant de la foy » (p. 188).
+             Il a le « bras fort et invincible » (p. 194).<lb/>
+             <lb/>
+             • <ref target="personnage_dd.html#4_diane">Diane</ref> compare <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> à Hercule lorsqu'elle se moque de la prétention de celui qui a voulu protéger <ref target="personnage_mm.html#4_madonthe">Madonthe</ref> (<ref target="../_roman/reference/24_4/24_4_livre_2.html#187">IV, 2, 187</ref>).<lb/>
+             <lb/>
+             Cette utilisation ironique du mythe d'Hercule rappelle les discours audacieux de <ref target="personnage_dd.html#3_delie">Délie</ref> sur <ref target="repertoire_dd.html#3_diane_m">Diane</ref> et <ref target="repertoire_pp.html#3_pan">Pan</ref> <lb/>
+               (<ref target="../_roman/reference/21_3/21_3_livre_3.html#90_verso">III, 3, 90 verso</ref>).
+             <lb/>
+             • <ref target="personnage_ss.html#4_sigismond">Sigismond</ref> jure par Hercule<hi rend="cache"> </hi>
+                <ref target="note_4.html#4_hercule_tautates">η</ref> qu'il a toujours respecté <ref target="personnage_dd.html#4_dorinde">Dorinde</ref>. Il coordonne Hercule et « tout ce qui punit plus rudement le parjure » (<ref target="../_roman/reference/24_4/24_4_livre_4.html#818">IV, 4, 818</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#99FFFF;">
+                Hesiode</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hesiode">I</ref>
+             
+             Poète grec du VIII<hi rend="supn">e</hi> siècle avant J.-C. Dans la <hi rend="italics">Théogonie</hi> (naissance des dieux) et les <hi rend="italics">Travaux et les jours</hi>, il tente de donner un ordre moral aux mythes racontés par <ref target="#homere">Homère</ref>.  Hésiode apparaît fréquemment dans les<hi rend="reference italics"> <ref target="bibliographie.html#epistres">Epistres morales</ref>
+                </hi> (par exemple I, 8, p. 63 ; I, 18, p. 161).<lb/>
+             <lb/>
+             • Dans la préface de <hi rend="italics">L'Astrée</hi> (I, <ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                  <hi rend="italic">L'Autheur à la Bergere Astrée</hi>
+                </ref>), Hésiode est le premier des trois poètes que d'Urfé considère comme des modèles parce qu'ils ont ennobli le lieu de leur naissance dans leurs écrits : une montagne (le mont <ref target="repertoire_pp.html#parnasse">Parnasse</ref>) et un cours d'eau (l'<ref target="#hypocrene">Hippocrène</ref>) grecs sont ainsi devenus et restés célèbres grâce à eux.<lb/>
+             <lb/>
+             • Voir <ref target="feux.html#modeles">Pleins feux</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Hesus</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hesus">I</ref>, <ref target="#2_hesus">II</ref>, <ref target="#3_hesus">III</ref>, <ref target="#4_hesus">IV</ref>
+             
+             Mythologie.<lb/>
+             <lb/>
+             <p>L'une des divinités gauloises qui n'apparaissent pas dans l'édition anonyme de 1607.</p>
+             <lb/>
+             • Dans les éditions ultérieures de la première partie, cette divinité une seule fois accompagne les deux autres divinités celtes pour remplacer le dieu <ref target="repertoire_pp.html#pan">Pan</ref> (<ref target="../_roman/reference/21_1/21_1_livre_10.html#349_recto">I, 10, 349 recto</ref>). <lb/>
+             <lb/>
+             • D'Urfé expliquera en 1610, dans le livre 8 de la seconde partie de <hi rend="italics">L'Astrée</hi>, la théologie de son <ref target="repertoire_ff.html#forez">Forez</ref>.
+             Le druide <ref target="personnage_aa.html#adamas">Adamas</ref> expose alors un système d'équivalences.<lb/>
+             <lb/>
+             « <ref target="repertoire_aa.html#apollon">Apollon</ref> est le <ref target="repertoire_bb.html#belenus">Bélénus</ref> gaulois, le Dieu homme, le Fils. <ref target="repertoire_mm.html#2_mars">Mars</ref> est le Hésus gaulois, le Dieu fort, le Père. <ref target="repertoire_ik.html#jupiter">Jupiter</ref> est le <ref target="repertoire_tt.html#taramis">Taramis</ref> gaulois, le Dieu 'répurgeant' (de <hi rend="italics">repurger, nettoyer</hi>), le Saint-Esprit. <ref target="repertoire_tt.html#tautates">Tautatès</ref>, le Dieu unique, porte donc trois surnoms » (<ref target="bibliographie.html#heneinp">Henein</ref>, p. 54). <lb/>
+               Au nom du Père, du Fils et du Saint-Esprit ...
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="height:248px; background-image:url('../images/bluehashed.jpg')">
+                Hesus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hesus">I</ref>, <ref target="#2_hesus">II</ref>, <ref target="#3_hesus">III</ref>, <ref target="#4_hesus">IV</ref>
+               
+             Mythologie. Écrit aussi <hi rend="italics">Iehus</hi>.<lb/>
+             <lb/>
+             • Nommé vingt-deux fois dans la deuxième partie, ce dieu gaulois est le plus souvent
+             enfermé dans le quatuor divin : « <ref target="repertoire_tt.html#2_tautates">Tautates</ref>, Hésus, <ref target="repertoire_tt.html#2_taramis">Taramis</ref>, <ref target="repertoire_bb.html#2_belenus">Belenus</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_8.html#492">II, 8, 492</ref>). Dans le chêne qui symbolise <ref target="repertoire_tt.html#2_tautates">Tautatès</ref>,  la branche de droite représente Hésus (<ref target="../_roman/reference/21_2/21_2_livre_5.html#290">II, 5, 290</ref> ; <ref target="../_roman/reference/21_2/21_2_livre_8.html#516">II, 8, 516</ref>). Le nom celte de ce dieu signifie <hi rend="italics">fort</hi> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#510">II, 8, 510</ref>). Hésus par conséquent est remercié pour les succès militaires (<ref target="../_roman/reference/21_2/21_2_livre_7.html#451">II, 7, 451</ref>). Il est aussi consulté au sujet des guerres dans le temple de <ref target="repertoire_mm.html#2_montverdun">Montverdun</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#494">II, 8, 494</ref>). Capable de châtier les méchants (<ref target="../_roman/reference/21_2/21_2_livre_11.html#698">II, 11, 698</ref>), il
+             punit par les armes (<ref target="../_roman/reference/21_2/21_2_livre_10.html#656">II, 10, 656</ref>). <lb/>
+                 <lb/>
+             • <ref target="personnage_cc.html#2_calidon">Calidon</ref> jure par Hésus (<ref target="../_roman/reference/21_2/21_2_livre_11.html#707">II, 11, 707</ref>) et par <ref target="#2_hercule">Hercule</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#706">II, 11, 706</ref>), divinités d'humeur combative.<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#2_adamas">Adamas</ref> explique  que l'homologue romain de Hésus est le dieu <ref target="repertoire_mm.html#2_mars">Mars</ref> (<ref target="../_roman/reference/21_2/21_2_livre_8.html#511">II,
+               8, 511</ref>).  Les « usurpateurs » ont voulu forcer les druides à représenter leurs divinités avec les figures et les noms des dieux païens  (<ref target="../_roman/reference/21_2/21_2_livre_8.html#514">II, 8, 514</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Hesus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hesus">I</ref>, <ref target="#2_hesus">II</ref>, <ref target="#3_hesus">III</ref>, <ref target="#4_hesus">IV</ref>
+             
+             Mythologie. Nommé neuf fois dans la troisième partie, Hésus acquiert une nouvelle caractéristique : rompre les enchantements.<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_adamas">Adamas</ref>, en parlant avec <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>, trois fois évoque les facettes du dieu unique : <lb/>
+             Les <ref target="repertoire_gg.html#3_gaulois">Gaulois</ref> n'adorent « qu'un <hi rend="upper">Dieu</hi>, soubs
+             les noms de <ref target="repertoire_tt.html#3_tautates">Thautates</ref>, Hesus, <ref target="repertoire_tt.html#3_taramis">Tharamis</ref>, et <ref target="repertoire_bb.html#3_belenus">Bellenus</ref> »  (<ref target="../_roman/reference/21_3/21_3_livre_2.html#27_verso">III, 2, 27 verso</ref>). Le druide déclare (en faisant fi de la grammaire) : « C'est à toy,
+             ô grand <ref target="#3_hesus">Hesus</ref>, <ref target="repertoire_bb.html#3_belenus">Bellenus</ref>, <ref target="repertoire_tt.html#3_taramis">Tharamis</ref> » (<ref target="../_roman/reference/21_3/21_3_livre_9.html#372_recto">III, 9, 372 recto</ref>). Il prie <ref target="repertoire_tt.html#3_tautates">Tautates</ref>, « lequel par des surnoms il appelloit quelquefois Hesus, c'est à dire dieu fort et puissant »  (<ref target="../_roman/reference/21_3/21_3_livre_9.html#373_verso">III, 9, 373 verso</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#3_adamas">Adamas</ref>, en décrivant les enchantements de la fontaine de la Vérité d'amour<hi rend="cache"> </hi>
+                <ref target="note_3.html#3_fontaine_verite">η</ref>, souhaite que « Hesus, le Dieu  fort, fléchy par nos sacrifices les rompe » (<ref target="../_roman/reference/21_3/21_3_livre_2.html#55_verso">III, 2, 55 verso</ref>).<lb/>
+             <lb/>
+             • Hésus, affirme <ref target="personnage_aa.html#3_adamas">Adamas</ref>, peut rendre chevaliers et solduriers victorieux (<ref target="../_roman/reference/21_3/21_3_livre_9.html#372_recto">III, 9, 372 recto</ref>).<lb/>
+             <lb/>
+             D'autres personnages nomment aussi Hésus :<lb/>
+             • « Hesus, <ref target="repertoire_tt.html#3_taramis">Tharamis</ref> et <ref target="repertoire_bb.html#3_belenus">Bellenus</ref>, » dit <ref target="personnage_aa.html#3_astree">Astrée</ref> (<ref target="../_roman/reference/21_3/21_3_livre_5.html#174_recto">III, 5, 174 recto</ref>).<lb/>
+             • « <ref target="repertoire_tt.html#3_tautates">Thautates</ref>, Hesus, <ref target="repertoire_tt.html#3_taramis">Tharamis</ref>, et <ref target="repertoire_bb.html#3_belenus">Bellenus</ref>, » sont remerciés par les pêcheurs qui ont sauvé <ref target="personnage_dd.html#3_damon_a">Damon d'Aquitaine</ref> (<ref target="../_roman/reference/21_3/21_3_livre_6.html#239_recto">III, 6, 239 recto</ref>).<lb/>
+             • « Il s'est faict paroistre Hesus, c'est à dire puissant », dit <ref target="personnage_ss.html#3_silvandre">Silvandre</ref> (<ref target="../_roman/reference/21_3/21_3_livre_9.html#396_recto">III, 9, 396 recto</ref>).<lb/>
+             • « Je prie Hesus qu'il vous rende cette  espee aussi heureuse que de bon cœur je la vous ay ceinte », dit <ref target="personnage_ss.html#3_silviane">Silviane</ref> à <ref target="personnage_aa.html#3_andrimarte">Andrimarte</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#521_verso">III, 12, 521 verso</ref>). Les <ref target="repertoire_ff.html#3_francs">Francs</ref> prient donc les dieux <ref target="repertoire_gg.html#3_gaulois">gaulois</ref>.<lb/>
+             <lb/>
+             Hésus semble connu dans toute la <ref target="repertoire_gg.html#3_gaule">Gaule</ref>, mais non dans l'entourage immédiat du Roi <ref target="personnage_ee.html#3_euric">Euric<lb/>
+</ref>  (Voir ignorance de <ref target="personnage_dd.html#3_daphnide">Daphnide</ref>, <lb/>
+               <ref target="../_roman/reference/21_3/21_3_livre_9.html#373_recto">III, 9, 373 recto</ref> sq.). 
+             <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Hesus</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_quatrieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hesus">I</ref>, <ref target="#2_hesus">II</ref>, <ref target="#3_hesus">III</ref>, <ref target="#4_hesus">IV</ref>
+             
+             • Outré par les accusations exposées par <ref target="personnage_pp.html#4_phillis">Phillis</ref>, <ref target="personnage_ss.html#4_silvandre">Silvandre</ref> défie ce Dieu justicier de le punir : il est innocent (<ref target="../_roman/reference/24_4/24_4_livre_2.html#189">IV, 2, 189</ref>).<lb/>
+             <lb/>
+             • <ref target="personnage_mm.html#4_merindor">Mérindor</ref> jure par Hésus qu'il aurait tué <ref target="personnage_bb.html#4_bellimarte">Bellimarte</ref> si celui-ci avait épousé <ref target="personnage_dd.html#4_dorinde">Dorinde</ref> malgré le témoignage de sa première femme (<ref target="../_roman/reference/24_4/24_4_livre_2.html#352">IV, 2, 352</ref>). <lb/>
+             <lb/>
+             • <ref target="personnage_aa.html#4_alexis">Alexis</ref> prête serment en énumérant  les quatre noms du dieu unique ; ils sont sujets d'un verbe au singulier. Elle nomme Hésus en premier (<ref target="../_roman/reference/24_4/24_4_livre_3.html#574">IV, 3, 574</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">4</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Heyrieux</cell>
+              <cell colspan="1" rowspan="1">Voir <ref target="repertoire_aa.html#airieu">Airieu</ref> et <ref target="repertoire_ee.html#2_erieu">Erieu</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">Hippone</cell>
+              <cell colspan="1" rowspan="1"> Voir <ref target="repertoire_ik.html#2_iponne">Iponne</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3"> </cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Hircinie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_hircinie">II</ref>, <ref target="#3_hircinie">III</ref>
+             
+             Écrit aussi <hi rend="italic">Forest Hercynienne</hi>. On dit aujourd'hui Forêt Hercynienne, la Forêt-Noire. Apollonios de Rhodes  la considère comme étant au centre des régions habitées par les <ref target="repertoire_cc.html#2_celtes">Celtes</ref> (<ref target="bibliographie.html#kruta">Kruta</ref>, p. 663). La plus grande forêt de l'<ref target="repertoire_ee.html#europe">Europe</ref> selon <ref target="bibliographie.html#diodore">Diodore de Sicile</ref> (V, 21) doit son nom au chêne. D'après <ref target="bibliographie.html#pline">Pline</ref>, « l'énormité des chênes de la forêt Hercynienne, respectée par le temps et contemporaine de l'origine du monde, dépasse toute merveille, par leur condition presque immortelle » (XVI, 6). <ref target="bibliographie.html#cesar">César</ref> précise que « la largeur de cette forêt d'Hercynie [...] est de neuf journées de marche accélérée » (VI, 25). <lb/>
+             Dans ses <hi rend="italic">Annotations</hi> de César, Blaise de <ref target="bibliographie.html#cesar_baudoin">Vigenère</ref> se moque des nombreux commentaires des anciens sur cette forêt « qui a esté l'une des galleries pour se proumener tout à l'aise en leurs songes et discours fantastiques » (p. 320). <lb/>
+             <lb/>
+             • Des <ref target="repertoire_bb.html#2_boiens">Boïens</ref>, quelque temps après <ref target="personnage_bb.html#2_belovese">Bellovèse</ref>, s'installent dans la « forest <ref target="#2_hircinie">Hircinie</ref> » (<ref target="../_roman/reference/21_2/21_2_livre_1.html#35">II, 1, 35</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Hircinie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_hircinie">II</ref>, <ref target="#3_hircinie">III</ref>
+             
+             • Dans la demeure d'<ref target="personnage_aa.html#3_adamas">Adamas</ref> se trouve le portrait de <ref target="personnage_ss.html#3_sigovese">Sigovèse</ref>, qui a traversé la forêt Hircinie pour fonder le royaume des <ref target="repertoire_bb.html#3_boiens">Boïens</ref> (<ref target="../_roman/reference/21_3/21_3_livre_3.html#58_verso">III, 3, 58 verso</ref>).<lb/>
+             <lb/>
+             <p>Cette description de peintures est trois fois plus longue après l'édition de 1619.</p>
+             <lb/>
+             • <ref target="personnage_dd.html#3_damon_a">Damon</ref> compte se rendre dans la forêt d'Hircinie pour obéir
+             à un oracle (<ref target="../_roman/reference/21_3/21_3_livre_6.html#257_verso">III, 6, 257 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#99FFFF;">
+                Homere</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#homere">I</ref>
+             
+             Poète peut-être mythique qui aurait vécu en Grèce au VIII<hi rend="supn">e</hi> siècle avant J.-C. Ses épopées, <hi rend="italics">L'Iliade</hi> et <hi rend="italics">L'Odyssée</hi>, textes fondateurs, racontent la guerre de Troie et les tribulations d'<ref target="repertoire_uz.html#2_ulysse">Ulysse</ref>. « Le grand Homère » est souvent nommé dans <hi rend="italics">
+                  <ref target="bibliographie.html#epistres">Les Epistres morales</ref>
+                </hi> (I, 19, p. 169 par exemple). Il est aussi le modèle avoué de <hi rend="italic">la Franciade</hi> de Ronsard<hi rend="cache"> </hi>
+                <ref target="note_analyses.html#ronsard">η</ref>. Ce poète sera traité de « second Homère » par Jean Dorat, parce qu'il a su décrire la paix et la guerre (cité par <ref target="bibliographie.html#gandar">Gandar</ref>, p. 21).<lb/>
+             <lb/>
+             • Dans la préface de <hi rend="italics">L'Astrée</hi> (<ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                  <hi rend="italic">I, L'Autheur à la Bergere Astrée</hi>
+                </ref>), Homère est le deuxième des trois poètes que d'Urfé considère comme des modèles parce qu'ils ont ennobli le lieu de leur naissance dans leurs écrits : une montagne (le mont <ref target="repertoire_pp.html#parnasse">Parnasse</ref>) et un cours d'eau (l'<ref target="#hypocrene">Hippocrène</ref>) grecs sont devenus et restés célèbres grâce à eux. <lb/>
+             <lb/>
+             • Voir <ref target="feux.html#modeles">Pleins feux</ref>.</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1">
+                Hostie</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#2_hostie">II</ref>
+             
+             Il s'agit  d'<hi rend="italic">Ostie</hi>, port de la <ref target="repertoire_qr.html#rome">Rome</ref> antique. <lb/>
+             <lb/>
+             • <ref target="personnage_uz.html#2_ursace">Ursace</ref> est sur le chemin d'Ostie quand il voit passer <ref target="personnage_gg.html#2_genseric">Genséric</ref> avec son butin (<ref target="../_roman/reference/21_2/21_2_livre_12.html#865">II, 12, 865</ref>)</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Huns</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#huns">I</ref>, <ref target="#2_huns">II</ref>, <ref target="#3_huns">III</ref>
+             
+             Peuple d'origine asiatique établi au Nord du Caucase.<lb/>
+             <lb/>
+             •             Conduits par <ref target="personnage_aa.html#attila">Attila</ref>, les Huns ont envahi la <ref target="repertoire_gg.html#gaule">Gaule</ref> au V<hi rend="supn">e</hi> siècle (<ref target="../_roman/reference/21_1/21_1_livre_8.html#226_recto">I, 8, 226 recto</ref>). Ils sont vaincus à la bataille des <ref target="repertoire_cc.html#champs_catalauniques">Champs Catalauniques</ref> (<ref target="../_roman/reference/21_1/21_1_livre_3.html#63_verso">I, 3, 63 verso</ref>, <ref target="../_roman/reference/21_1/21_1_livre_3.html#64_recto">64 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Huns</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_deuxieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#huns">I</ref>, <ref target="#2_huns">II</ref>, <ref target="#3_huns">III</ref>
+             
+             « Inconstants et perfides dans les conventions, les Huns tournent à la moindre lueur d'avantage ; en général, ils font toute chose par emportement, et n'ont pas plus que les brutes le sentiment de ce qui est honnête ou déshonnête. Leur langage même est captieux et énigmatique. Ils n'adorent rien, ne croient à rien, et n'ont de culte que pour l'or » (<ref target="bibliographie.html#ammien">Ammien Marcellin</ref>, XXXI, 2). Ce peuple  franchit la Volga vers 370. Son chef, <ref target="personnage_aa.html#2_attila">Attila</ref>, fonde un empire puis attaque <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref>, la <ref target="repertoire_gg.html#2_gaule">Gaule</ref> et l'<ref target="repertoire_ik.html#2_italie">Italie</ref> (<ref target="bibliographie.html#labouysse">Labouysse</ref>, p. 27).<lb/>
+             <lb/>
+             • Nommés onze fois dans la deuxième partie de <hi rend="italics">L'Astrée</hi>, les Huns quittent de « froides et horribles
+             demeures » (<ref target="../_roman/reference/21_2/21_2_livre_11.html#752">II, 11, 752</ref>) pour  s'installer en <ref target="repertoire_pp.html#2_pannonie">Pannonie</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#738">II, 11, 738</ref>). <lb/>
+             <lb/>
+             •             Ils attaquent l'<ref target="repertoire_ik.html#2_italie">Italie</ref> (<ref target="../_roman/reference/21_2/21_2_livre_10.html#639">II, 10, 639</ref>), accueillent <ref target="personnage_aa.html#2_aetius">Ætius</ref> (<ref target="../_roman/reference/21_2/21_2_livre_11.html#752">II, 11, 752</ref>) et écoutent ses conseils (<ref target="../_roman/reference/21_2/21_2_livre_11.html#757">II, 11, 757</ref>). <lb/>
+             <lb/>
+             •             Ils attaquent <ref target="repertoire_cc.html#2_constantinople">Constantinople</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#803">II, 12, 803</ref>) et s'entendent avec les <ref target="repertoire_uz.html#vandales">Vandales</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#823">II, 12, 823</ref>).<lb/>
+             <lb/>
+             • Les <ref target="note_images.html#armoiries">armoiries</ref> de leur roi se trouvent dans la galerie d'<ref target="personnage_aa.html#2_adamas">Adamas</ref> (<ref target="../_roman/reference/21_2/21_2_livre_12.html#886">II, 12, 886</ref>). <lb/>
+              </cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">2</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-color:#CCCCCC;">
+                Huns</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionnés dans :</hi> <ref target="#huns">I</ref>, <ref target="#2_huns">II</ref>, <ref target="#3_huns">III</ref>
+             
+             <ref target="personnage_aa.html#2_aetius">Ætius</ref> s'entend avec les <ref target="repertoire_ff.html#3_francs">Francs</ref> pour qu'ils arrêtent l'avancée des Huns en <ref target="repertoire_gg.html#3_gaule">Gaule</ref>. Lors de la bataille des <ref target="repertoire_cc.html#3_champs_catalauniques">Champs Catalauniques</ref>, « la victoire estoit deue à <ref target="personnage_mm.html#3_merovee">Mérovée</ref>, qui par ce nouvel acte se rendit si redoutable aux <ref target="repertoire_gg.html#3_gaulois">Gaulois</ref>, qu'ils commencerent de pancher de son costé comme du costé de la fortune » (<ref target="bibliographie.html#du_haillan">Du Haillan</ref>, I, p. 37).<lb/>
+             <lb/>
+             Dans la troisième partie, les Huns, apparaissent seulement trois fois et toujours dans le livre 12.<lb/>
+             <lb/>
+             • Vaincus par <ref target="personnage_mm.html#3_merovee">Mérovée</ref>, ils perdent leurs enseignes (<ref target="../_roman/reference/21_3/21_3_livre_12.html#507_recto">III, 12, 507 recto</ref>, 2 fois). <lb/>
+             <lb/>
+             • <ref target="personnage_mm.html#3_merovee">Mérovée</ref> a   épousé <ref target="personnage_mm.html#3_methine">Méthine</ref>,  fille de <ref target="personnage_ss.html#3_stuffard">Stuffard</ref>, roi des Huns, avant l'avènement d'<ref target="personnage_aa.html#3_attila">Attila</ref> (<ref target="../_roman/reference/21_3/21_3_livre_12.html#507_recto">III, 12, 507 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Hymen</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hymen">I</ref>, <ref target="#3_hymen">III</ref>
+             
+             Mythologie. Hymenaeos est une divinité aux origines complexes et à l'identité incertaine. On l'associe avec le chant nuptial. Hyménée est associé aux <ref target="repertoire_gg.html#graces">Grâces</ref> et à la ceinture de <ref target="repertoire_uz.html#venus">Vénus</ref> dans <ref target="bibliographie.html#sireine">
+                  <hi rend="italic"> Le Sireine</hi>
+                </ref> (p. 169), aux divinités champêtres dans <ref target="bibliographie.html#sylvanire">
+                  <hi rend="italic">La Sylvanire</hi>
+                </ref> (v. 9289).<lb/>
+             <lb/>
+             • D'Urfé parle  des « voix d'Hymen Hymenée » (<ref target="../_roman/reference/21_1/21_1_livre_8.html#257_recto">I, 8, 257 recto</ref>) lors du mariage de <ref target="personnage_cc.html#cloris">Cloris</ref> et de <ref target="personnage_qr.html#rosidor">Rosidor</ref>. <lb/>
+             <lb/>
+             •          Sur l'autel d'Hymen, lors du mariage de <ref target="personnage_ll.html#ligdamon">Ligdamon</ref> et d'<ref target="personnage_aa.html#amerine">Amerine</ref>, la statue du dieu est couronnée de fleurs (<ref target="../_roman/reference/21_1/21_1_livre_11.html#362_recto">I, 11, 362 recto</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Hymen</cell>
+              <cell colspan="1" rowspan="1" rend="couleur_troisieme">
+                <hi rend="italic">Mentionné dans :</hi> <ref target="#hymen">I</ref>, <ref target="#3_hymen">III</ref>
+             
+             • <ref target="personnage_aa.html#3_arimant">Arimant</ref> jure par « Hymen et la Nopciere <ref target="repertoire_ik.html#3_junon">Juno</ref> » qu'il épousera <ref target="personnage_cc.html#3_criseide">Criséide</ref> (<ref target="../_roman/reference/21_3/21_3_livre_7.html#298_recto">III, 7, 298 recto</ref>). <lb/>
+             <lb/>
+             • <ref target="personnage_cc.html#3_criseide">Criséide</ref> le répète à <ref target="personnage_gg.html#3_gondebaud">Gondebaud</ref> (<ref target="../_roman/reference/21_3/21_3_livre_8.html#359_verso">III, 8, 359 verso</ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">3</cell>
+            </row>
+            <row>
+              <cell colspan="1" rowspan="1" rend="colonne1" style="background-image:url('../images/bluehashed.jpg')">
+                Hypocrene</cell>
+              <cell colspan="1" rowspan="1">
+                <hi rend="italic">Mentionnée dans :</hi> <ref target="#hypocrene">I</ref>
+             
+             Mythologie. L'Hippocrène est la  source qui jaillit lorsque le cheval Pégase frappa un rocher du mont Hélicon. Les poètes de l'Antiquité ont rendu célèbre ce lieu où se réunissent les muses. <lb/>
+             <lb/>
+             • Comme ses modèles,
+             d'Urfé désire ennoblir la rivière qui arrose son pays natal, le <ref target="repertoire_ll.html#lignon">Lignon</ref> (<ref target="../_roman/reference/21_1/21_1_liminaires.html#autheur_a_bergere">
+                  <hi rend="italic">I, L'Autheur à la Bergere Astrée</hi>
+                </ref>).</cell>
+              <cell colspan="1" rowspan="1" rend="colonne3">1</cell>
+            </row>
+          </table><!--<script>--><!--</script>--><!--<script>--><!--</script>--><p rend="center_t titre9">
+            
+    <hi rend="bold">Référence électronique :</hi>
+            <lb/>
+      <!--<script>-->document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified)+".")<!--</script>--> 
+<lb/>
+<hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2020 E. Henein.<lb/>
+URL : <!--<script>-->
+var today = new Date();
+document.write(document.URL + 
+"&lt;br&gt;Consult&amp;eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+<!--</script>-->
+          </p><p> </p><p rend="center_t titre9">    
+<!--<script>-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!--</script>-->
+            <hi rend="italic">Deux visages de</hi> L'Astrée. 
+ ©2005-2019 Eglal Henein. Creative Commons 4 <graphic url="../images/by-nc-nd.jpg" rend="img" mimeType="image/jpeg"/>
+            <lb/>
+Édition critique de la première partie de <hi rend="italic">L'Astrée</hi> (1607, 1621)<lb/>
+mise en ligne le 9 avril 2007<lb/>
+Édition critique de la deuxième partie de <hi rend="italic">L'Astrée</hi> (1610, 1621)<lb/>
+mise en ligne le 10 octobre 2010 <lb/>
+Édition critique de la troisième partie de <hi rend="italic">L'Astrée</hi> (1619, 1621)<lb/>
+mise en ligne le 1er novembre 2014<lb/>
+
+Édition critique de la quatrième partie de <hi rend="italic">L'Astrée</hi> (1624)<lb/>
+mise en ligne le 15 janvier 2019<lb/>
+</p><p rend="center_t italics">	  
+	<!--<script>-->document.write("Derni&amp;egrave;re mise &amp;agrave; jour&amp;nbsp;: "+ExtractDate(document.lastModified))
+	<!--</script>-->
+</p><!--<script
+  type="text/javascript">--><!--</script>--><!--<script
+  type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async="async">--><!--</script>--><!--<noscript>--><ref target="https://statcounter.com/">
+                <graphic url="https://c.statcounter.com/3653842/0/ff07cacf/1/" rend="img statcounter" mimeType="image/jpeg"/>
+              </ref><!--</noscript>--></div></body></text>
+</TEI>
