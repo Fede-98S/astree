@@ -151,6 +151,12 @@
         </div>
     </xsl:template>
     
+    <xsl:template match="tei:div[@subtype='sonnet']">
+        <div class="stance">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
     <xsl:template match="tei:head">
     <h3>
         <xsl:apply-templates/>
