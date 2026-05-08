@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,9 @@
             <title>Astrée 1621, II, 3 - Deux visages de L'Astrée</title>
             <author/>
          </titleStmt>
-         <publicationStmt/>
+         <publicationStmt>
+            <authority>Lune Wagner</authority>
+         </publicationStmt>
          <sourceDesc>
             <p>translated from HTML to TEI</p>
          </sourceDesc>
@@ -1523,7 +1526,7 @@ et <persName ref="personnage_pp.html#2_phillis">Philis</persName>
                   <rdg wit="#varp">d'avantage </rdg>
                </app> : Et lors la desployant, elles virent qu'elle estoit
 telle.</p>
-            <p rend="center_t">
+            <!-- Lettre (à voir) --><p rend="center_t">
 A la plus aymée et plus belle Bergere de<lb/>
 l'univers,
 le plus infortuné et plus fidelle <lb/>
@@ -1645,23 +1648,17 @@ s'il faut dire ainsi l'Element  de la <term ref="glossaire_cc.html#calamite">Cal
    tournoit incessamment toutes ses pensees vers elle. Et
   pour mieux faire entendre cette conception, il y
   adjousta ces vers.</p>
-            <p rend="center_t">
-               <term ref="glossaire_mm.html#madrigal">MADRIGAL</term>. </p>
-            <p rend="center_t">
-               <hi rend="italic">
-                  <graphic url="../../../images/l_532.jpg" rend="img" mimeType="image/jpeg"/>
-                  <hi rend="micro">L</hi>'Esguille du quadran cherche la <term ref="glossaire_tt.html#tramontane">Tramontane</term>,<lb/>
-               </hi>
-               <hi rend="italic"> Touchee avec l'<app type="modification">
+            <lg type="poem" subtype="madrigal">
+               <head><term ref="glossaire_mm.html#madrigal">MADRIGAL</term>.</head>
+               <l n="1"><figure><graphic url="../../../images/l_532.jpg" rend="img" mimeType="image/jpeg"/></figure>
+                     <hi rend="micro">L</hi>'Esguille du quadran cherche la <term ref="glossaire_tt.html#tramontane">Tramontane</term>,</l>
+               <l n="2">Touchee avec l'<app type="modification">
                      <lem wit="#var21">Aymant</lem>
                      <rdg wit="#varp">Aimant </rdg>
-                  </app> :</hi>
-               <lb/>
-               <hi rend="italic"> Mon cœur aussi  touché des beautez de <persName ref="personnage_dd.html#2_diane">Diane</persName>,</hi>
-               <hi rend="italic">
-                  <lb/>
-    La cherche incessamment.</hi>
-            </p>
+               </app> :</l>
+               <l n="3">Mon cœur aussi  touché des beautez de <persName ref="personnage_dd.html#2_diane">Diane</persName>,</l>
+               <l n="4">La cherche incessamment.</l>
+            </lg>
             <p>  Lors  qu'elle <app type="omission">
                   <lem wit="#var21"/>
                   <rdg wit="#varp">l' </rdg>
@@ -2766,17 +2763,16 @@ et <persName ref="personnage_tt.html#2_tircis">Tyrcis</persName> s'arresterent t
             <p> vers ceux qui venoient apres eux, leur firent signe
   d'aller doucement : mais <term ref="glossaire_dd.html#dautant">d'autant</term> que la chanson estoit
   presque finie, ils n'ouyrent que ce dernier couplet.</p>
-            <p rend="center_t">
-               <term ref="glossaire_mm.html#madrigal">MADRIGAL</term>.</p>
-            <p rend="center_t italics"> Quoy ? Vous ay-je offencee,
-  <lb/>
-  D'<term ref="glossaire_ee.html#effect">effect</term> ou de pensee ?
-  <lb/>
-  D'<term ref="glossaire_ee.html#effect">effect</term> il ne peut estre,<lb/>
-  Si mon penser<note target="note_2.html#2_penser"/> l'a <app type="modification">
+            <lg type="poem" subtype="madrigal">       
+               <head><term ref="glossaire_mm.html#madrigal">MADRIGAL</term>.</head>
+               <l n="1">Quoy ? Vous ay-je offencee,</l>
+               <l n="2">D'<term ref="glossaire_ee.html#effect">effect</term> ou de pensee ?</l>
+               <l n="3">D'<term ref="glossaire_ee.html#effect">effect</term> il ne peut estre,</l>
+               <l n="4">Si mon penser<note target="note_2.html#2_penser"/> l'a <app type="modification">
                   <lem wit="#var21">faict</lem>
                   <rdg wit="#varp">fait </rdg>
-               </app> il est un traistre.   </p>
+               </app> il est un traistre.</l> 
+            </lg> 
             <p>  <app type="modification">
                   <lem wit="#var21">Ceste</lem>
                   <rdg wit="#varp">Cette </rdg>
@@ -2827,59 +2823,58 @@ il chanta sur cet instrument de ceste sorte.</p>
                   <ref target="../../fonctionnelle/fonctionnelle_2/fonctionnelle_2_livre_3.html#166">fonctionnelle</ref>
                </hi>
             </p>
-            <p rend="center_t">
-            CHANSON.</p>
-            <p rend="center_t">
-               <app type="omission">
+            <lg type="poem" subtype="chanson">
+               <head>CHANSON.</head>
+               <lg n="1">
+                  <head><app type="omission">
                   <lem wit="#var21"/>
-                  <rdg wit="#varp">I. </rdg>
-               </app>
-            </p>
-            <p rend="center_t italics">
-               <graphic url="../../../images/q_166.jpg" rend="img" mimeType="image/jpeg"/>
-               <hi rend="micro">Q</hi>uand <persName ref="personnage_hh.html#2_hylas">Hylas</persName> apperceut les yeux<lb/>
-  De <persName ref="personnage_pp.html#2_phillis">Philis</persName> sa belle Maistresse,
-  <lb/>
-  Voit on encor telle Deesse
-  <lb/>
-  Ailleurs, dit-il, que dans les Cieux ?<lb/>
-               <lb/>
-  II.</p>
-            <p rend="center_t italics">
-               <persName ref="personnage_pp.html#2_phillis">Phylis</persName> d'un esclat rougissant<lb/>
-               <app type="modification">
+                     <rdg wit="#varp">I.</rdg>
+               </app></head>
+               <l n="1"><figure><graphic url="../../../images/q_166.jpg" rend="img" mimeType="image/jpeg"/></figure>
+                  <hi rend="micro">Q</hi>uand <persName ref="personnage_hh.html#2_hylas">Hylas</persName> apperceut les yeux</l>
+               <l n="2">De <persName ref="personnage_pp.html#2_phillis">Philis</persName> sa belle Maistresse,</l>
+               <l n="3">Voit on encor telle Deesse</l>
+               <l n="4">Ailleurs, dit-il, que dans les Cieux ?</l>
+               </lg>
+               <lg n="2"><head>II.</head>
+               <l n="5"><persName ref="personnage_pp.html#2_phillis">Phylis</persName> d'un esclat rougissant</l>
+               <l n="6"><app type="modification">
                   <lem wit="#var21">Oyant</lem>
                   <rdg wit="#varp">Ouyant </rdg>
-               </app> ces mots devint plus belle ;<lb/>
-  En vain ceste beauté nouvelle<lb/>
-  Rend, dit-il, vostre œil plus puissant.<lb/>
-               <lb/>
-  III.  </p>
-            <p rend="center_t italics">Elle d'un gracieux <term ref="glossaire_ss.html#sousris">sousris</term>
-               <lb/>
-  Recevant ceste flatterie :<lb/> Cessez, luy dit-il, je vous prie,
-  <lb/>
-  C'est <app type="modification">
+               </app> ces mots devint plus belle ;</l>
+               <l n="7">En vain ceste beauté nouvelle</l>
+               <l n="8">Rend, dit-il, vostre œil plus puissant.</l>
+               </lg>
+               <lg n="3"><head>III.</head>
+               <l n="9">Elle d'un gracieux <term ref="glossaire_ss.html#sousris">sousris</term></l>
+               <l n="10">Recevant ceste flatterie :</l>
+               <l n="11">Cessez, luy dit-il, je vous prie,</l>
+               <l n="12">C'est <app type="modification">
                   <lem wit="#var21">faict</lem>
                   <rdg wit="#varp">fait </rdg>
-               </app>, en fin <persName ref="personnage_hh.html#2_hylas">Hylas</persName> est pris.<lb/>
-               <lb/>
-  IIII.</p>
-            <p rend="center_t italics"> Mais s'il <term ref="glossaire_pp.html#plaindre">plaint</term>, dit-elle, à l'instant<lb/>
-  Sa liberté, qu'il la repreine.
-  <lb/> Vous estes, dit-il, moins humaine<lb/>
-  En pardonnant qu'en surmontant.</p>
-            <p rend="italicspage">
+               </app>, en fin <persName ref="personnage_hh.html#2_hylas">Hylas</persName> est pris.</l>
+               </lg>
+               <lg n="4"><head>IIII.</head>
+               <l n="13">Mais s'il <term ref="glossaire_pp.html#plaindre">plaint</term>, dit-elle, à l'instant</l>
+               <l n="14">Sa liberté, qu'il la repreine.</l>
+               <l n="15">Vous estes, dit-il, moins humaine</l>
+               <l n="16">En pardonnant qu'en surmontant.</l>
+                  </lg>
+               <!-- 
+                  <p rend="italicspage">
                <graphic url="../../../images/signet.gif"
                         rend="img signet"
                         mimeType="image/gif"/>[ 167 ] <ref target="../../preliminaire/10_2/10_2_livre_3.html#167">1610</ref>
                <ref target="../../fonctionnelle/fonctionnelle_2/fonctionnelle_2_livre_3.html#167">fonctionnelle</ref>
-            </p>
-            <p rend="center_t">V.</p>
-            <p rend="center_t italics">Lien trop aymable et trop cher,<lb/>
-  Dont le captif craint qu'on le lasche <lb/>
-               <term ref="glossaire_hh.html#heureux">Heureux</term> amant puis qu'il te <term ref="glossaire_ff.html#fascher">fasche</term>,  <lb/>
-  Quand tu vois qu'on te veut lascher.  </p>
+            </p>-->
+            <pb n="167"/>
+            <lg n="5"><head>V.</head>
+            <l n="17">Lien trop aymable et trop cher,</l>
+            <l n="18">Dont le captif craint qu'on le lasche</l>
+            <l n="19"><term ref="glossaire_hh.html#heureux">Heureux</term> amant puis qu'il te <term ref="glossaire_ff.html#fascher">fasche</term>,</l>
+               <l n="20">Quand tu vois qu'on te veut lascher.</l>
+            </lg>
+            </lg>
             <p>  Il sembloit que ces estrangers attendissent avec
   impatience la fin de ceste chanson pour demander qui
   estoit <persName ref="personnage_pp.html#2_phillis">Philis</persName> et <persName ref="personnage_hh.html#2_hylas">Hylas</persName>. - Si vous avez quelquesfois
@@ -2919,6 +2914,7 @@ il chanta sur cet instrument de ceste sorte.</p>
                         mimeType="image/gif"/>[ 168 ] <ref target="../../preliminaire/10_2/10_2_livre_3.html#168">1610</ref>
                <ref target="../../fonctionnelle/fonctionnelle_2/fonctionnelle_2_livre_3.html#168">fonctionnelle</ref>
             </p>
+            <!-- Titre de chapitre ? -->
             <p rend="center_t">
             HISTOIRE<lb/>
                <lb/>
@@ -3199,43 +3195,42 @@ entrant ; et de <term ref="glossaire_ff.html#fortune">fortune</term> il parloit
                         mimeType="image/gif"/>[ 173 ] <ref target="../../preliminaire/10_2/10_2_livre_3.html#173">1610</ref>
                <ref target="../../fonctionnelle/fonctionnelle_2/fonctionnelle_2_livre_3.html#173">fonctionnelle</ref>
             </p>
-            <p rend="center_t">
-               <term ref="glossaire_ss.html#sonnet">SONNET</term>.
-<lb/>
+            <lg type="poem" subtype="sonnet">
+               <head><term ref="glossaire_ss.html#sonnet">SONNET</term>.
                <lb/>
-IL PARLE AU VENT.</p>
-            <p rend="center_t italics">
-               <graphic url="../../../images/d_627.jpg" rend="img" mimeType="image/jpeg"/>
+                  IL PARLE AU VENT.</head>
+               <lg type="quatrain" n="1">
+                  <l n="1"><figure> 
+                        <graphic url="../../../images/d_627.jpg" rend="img" mimeType="image/jpeg"/></figure>
                <hi rend="micro">D</hi>Oux <rs type="repertoire" ref="repertoire_uz.html#2_zephir">zephir</rs> que je vois errer <app type="modification">
                   <lem wit="#var21">folastrement</lem>
                   <rdg wit="#varp">folatrement </rdg>
                </app>
-               <lb/>
-  Entre les <term ref="glossaire_cc.html#crin">crins</term>  aigus de ces plantes <term ref="glossaire_hh.html#haut_def">hautaines</term>,<lb/>
-  Et qui pillant des fleurs les plus douces <term ref="glossaire_hh.html#haleine">haleines</term>
-               <lb/>
-  Avec ce beau larcin vas tout l'air parfumant.
-  <lb/>
-               <lb/>
-  Si jamais<note target="note_2.html#2_si_jamais"/>  la pitié te donna mouvement,<lb/>
-  Oublie en ma faveur icy tes douces peines :  <lb/>
-  Et t'en va dans le sein de ces heureuses plaines,
-  <lb/>
-  Où mon malheur retient tout mon contentement.
- <lb/>
-               <lb/>
-  Va, mais porte avec toy les amoureuses plaintes<lb/>
-  Que <term ref="glossaire_pp.html#parmi">parmy</term>  ces forests j'ay tristement <term ref="glossaire_ee.html#empreindre">empraintes</term>,<lb/>
-  Seul et dernier plaisir entre mes desplaisirs.
-  <lb/>
-               <lb/>
-  Là tu pourras trouver sur des lèvres jumelles<lb/>
-  Des odeurs et des fleurs plus douces et plus belles :
-  <lb/>
-  Mais <app type="modification">
+                  </l>
+                  <l n="2">Entre les <term ref="glossaire_cc.html#crin">crins</term>  aigus de ces plantes <term ref="glossaire_hh.html#haut_def">hautaines</term>,</l>
+                  <l n="3">Et qui pillant des fleurs les plus douces <term ref="glossaire_hh.html#haleine">haleines</term></l>
+                  <l n="4">Avec ce beau larcin vas tout l'air parfumant.</l>
+                  </lg>
+               <lg type="quatrain" n="2">
+                  <l n="5">Si jamais<note target="note_2.html#2_si_jamais"/>  la pitié te donna mouvement,</l>
+                  <l n="6">Oublie en ma faveur icy tes douces peines :</l>
+                  <l n="7">Et t'en va dans le sein de ces heureuses plaines,</l>
+                  <l n="8">Où mon malheur retient tout mon contentement.</l>
+               </lg>
+               <lg type="tercet" n="1">
+                  <l n="9">Va, mais porte avec toy les amoureuses plaintes</l>
+                  <l n="10">Que <term ref="glossaire_pp.html#parmi">parmy</term>  ces forests j'ay tristement <term ref="glossaire_ee.html#empreindre">empraintes</term>,</l>
+                  <l n="11">Seul et dernier plaisir entre mes desplaisirs.</l>
+                  </lg>
+               <lg type="tercet" n="2">
+                  <l n="12">Là tu pourras trouver sur des lèvres jumelles</l>
+                  <l n="13">Des odeurs et des fleurs plus douces et plus belles :</l>
+                  <l n="14">Mais <app type="modification">
                   <lem wit="#var21">raporte</lem>
                   <rdg wit="#varp">rapporte </rdg>
-               </app>-les moy pour nourryr mes desirs.</p>
+                  </app>-les moy pour nourryr mes desirs.</l>
+               </lg>
+            </lg>
             <p>  - Je vous y prends <persName ref="personnage_cc.html#2_clorian">Clorian</persName> (dit <persName ref="personnage_hh.html#2_hylas">Hylas</persName>, luy jettant
   <app type="modification">
                   <lem wit="#var21">le</lem>
@@ -3425,17 +3420,17 @@ Oracle<note target="note_2.html#2_oracle_tasse"/> qui de nostre temps a parlé d
                         mimeType="image/gif"/>[ 177 ] <ref target="../../preliminaire/10_2/10_2_livre_3.html#177">1610</ref>
                <ref target="../../fonctionnelle/fonctionnelle_2/fonctionnelle_2_livre_3.html#177">fonctionnelle</ref>
             </p>
-            <p rend="center_t">
-               <term ref="glossaire_mm.html#madrigal">MADRIGAL</term>.</p>
-            <p rend="center_t italics">
-               <graphic url="../../../images/e_595.jpg" rend="img" mimeType="image/jpeg"/>
+            <lg type="poem" subtype="madrigal">
+               <head><term ref="glossaire_mm.html#madrigal">MADRIGAL</term>.</head>
+               <l n="1"><figure><graphic url="../../../images/e_595.jpg" rend="img" mimeType="image/jpeg"/></figure>         
                <hi rend="micro">E</hi>Lle fuit, et fuyant<note target="note_2.html#2_fuyant"/>  elle veut qu'on l'<app type="modification">
                   <lem wit="#var21">atteigne</lem>
                   <rdg wit="#varp">attaigne </rdg>
-               </app> :<lb/>
-  Refuse, et refusant veut qu'on l'ait par effort :<lb/>
-    Combat, et combattant veut qu'on soit le plus fort :    <lb/>
-    Car ainsi son honneur ordonne qu'elle feigne.    </p>
+               </app> :</l>
+               <l n="2">Refuse, et refusant veut qu'on l'ait par effort :</l>
+               <l n="3">Combat, et combattant veut qu'on soit le plus fort :</l>
+               <l n="4">Car ainsi son honneur ordonne qu'elle feigne.</l>
+            </lg>
             <p>  Celuy qui n'a pas le courage de vivre de cette sorte,
   conseillez-luy seulement qu'il prenne un autre mestier
   que celuy d'Amour, car il n'y fera jamais son profit.

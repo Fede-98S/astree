@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,9 @@
             <title>Astrée 1621, II, 4 - Deux visages de L'Astrée</title>
             <author/>
          </titleStmt>
-         <publicationStmt/>
+         <publicationStmt>
+            <authority>Lune Wagner</authority>
+         </publicationStmt>
          <sourceDesc>
             <p>translated from HTML to TEI</p>
          </sourceDesc>
@@ -1832,43 +1835,54 @@ respondit de <app type="modification">
                   <lem wit="#var21">cette</lem>
                   <rdg wit="#varp">ceste </rdg>
                </app> sorte.</p>
-            <p rend="center_t">
-               <term ref="glossaire_ss.html#sonnet">SONNET</term>. </p>
-            <p rend="center_t italics">
-               <graphic url="../../../images/d_627.jpg" rend="img" mimeType="image/jpeg"/>
+               <lg type="poem" subtype="sonnet">
+                  <head><term ref="glossaire_ss.html#sonnet">SONNET</term>.</head>
+                  <lg type="quatrain" n="1">
+                     <l n="1"><figure>
+                           <graphic url="../../../images/d_627.jpg" rend="img" mimeType="image/jpeg"/></figure>
                <hi rend="micro">D</hi>
                <persName ref="personnage_dd.html#2_dorinde">
                   <hi rend="micro">D</hi>orinde</persName> se <app type="modification">
                   <lem wit="#var21">mocqua</lem>
                   <rdg wit="#varp">ceste </rdg>
-               </app> de vous,<lb/>
- Quand elle vous tint ce langage,<lb/>
- Sçachant bien qu'on peut sans outrage,
- <lb/>
- Promettre toute chose aux fous.<lb/>
-               <lb/>
- Ou la vanité de vostre ame,<lb/>
- Vous <app type="modification">
+               </app> de vous,
+                     </l>
+               <l n="2">Quand elle vous tint ce langage,</l>
+                     <l n="3">Sçachant bien qu'on peut sans outrage,</l>
+                     <l n="4">Promettre toute chose aux fous.</l>
+                  </lg>
+                  <lg type="quatrain" n="2">
+                     <l n="5">Ou la vanité de vostre ame,</l>
+                     <l n="6">Vous <app type="modification">
                   <lem wit="#var21">faict</lem>
                   <rdg wit="#varp">fait </rdg>
-               </app> vanter qu'elle l'a dit,<lb/>
- Pour monstrer d'avoir du credit,<lb/>
- Aupres d'une si belle Dame.</p>
-            <p rend="italicspage">
+                     </app> vanter qu'elle l'a dit,</l>
+                     <l n="7">Pour monstrer d'avoir du credit,</l>
+                     <l n="8">Aupres d'une si belle Dame.</l>
+                  </lg>
+                  <!--
                <graphic url="../../../images/signet.gif"
                         rend="img signet"
                         mimeType="image/gif"/>[ 212 ] <ref target="../../preliminaire/10_2/10_2_livre_4.html#212">1610</ref>
                <ref target="../../fonctionnelle/fonctionnelle_2/fonctionnelle_2_livre_4.html#212">fonctionnelle</ref>
             </p>
-            <p rend="center_t italics"> Mais soit qu'elle ait <app type="modification">
+            -->
+                  <pb n="212"/>
+                  <lg type="tercet" n="1">
+                     <l n="9">Mais soit qu'elle ait <app type="modification">
                   <lem wit="#var21">faict</lem>
                   <rdg wit="#varp">fait </rdg>
-               </app> ce serment<lb/>
-  Pour chasser un fascheux Amant, <lb/>
-  Promettre est un doux artifice.</p>
-            <p rend="center_t italics">  Et quand on l'en devroit punir,<lb/>
-  Elle aymeroit mieux le supplice, <lb/>
-  Que <term ref="glossaire_no.html#non">non pas</term> un tel souvenir.</p>
+                     </app> ce serment</l>
+                     <l n="10">Pour chasser un fascheux Amant,</l>
+                     <l n="11">Promettre est un doux artifice.</l>
+                  </lg>
+                  <lg type="tercet" n="2">
+                     <l n="12">Et quand on l'en devroit punir,</l>
+                     <l n="13">Elle aymeroit mieux le supplice,</l>
+                     <l n="14">Que <term ref="glossaire_no.html#non">non pas</term> un tel souvenir.
+                     </l>
+                  </lg>
+               </lg>
             <p>  <app type="modification">
                   <lem wit="#var21">Cette</lem>
                   <rdg wit="#varp">Ceste </rdg>
@@ -2061,50 +2075,52 @@ l'appellerent, qui estoient desja entrées</p>
   cessa pour laisser ouyr les voix de ceux qui
   chantoient. Quand <term ref="glossaire_cc.html#ce">ce</term> vint à mon rang, je chantay les
   vers que je vous vay dire, pour asseurer <persName ref="personnage_ff.html#2_florice">Florice</persName>, que tout ce que je luy avois dit estoit veritable.</p>
-            <p rend="center_t">
-               <term ref="glossaire_ss.html#sonnet">SONNET</term>.</p>
-            <p rend="center_t">
-SERMENS AMOUREUX.</p>
-            <p rend="center_t italics">
-               <graphic url="../../../images/b_619.jpg" rend="img" mimeType="image/jpeg"/>
-               <hi rend="micro">B</hi>Elle de mes desirs vous estes le trespas,<lb/>
-  Et c'est vous toutesfois que seule je desire,<lb/>
-  J'en jure vos beaux yeux que le Soleil admire,<lb/>
-  Et j'en jure mon cœur, surpris de vos appas.<lb/>
-               <lb/>
-  J'en jure vos douceurs, qui sont tout mon <term ref="glossaire_ss.html#soulas">soulas</term>,<lb/>
-  J'en jure vos desdains, qui sont tout mon martyre,<lb/>
-  J'en jure mes douleurs  tesmoins de vostre empire,<lb/>
-  J'en jure ces plaisirs, qu'avoir je ne puis pas.</p>
-            <p>
+            <lg type="poem" subtype="sonnet">
+               <head><term ref="glossaire_ss.html#sonnet">SONNET</term>.
+                  <lb/>
+               SERMENS AMOUREUX.</head>
+               <lg type="quatrain" n="1"> 
+                  <l n="1"><figure>
+                        <graphic url="../../../images/b_619.jpg" rend="img" mimeType="image/jpeg"/></figure>
+               <hi rend="micro">B</hi>Elle de mes desirs vous estes le trespas,</l>
+                  <l n="2">Et c'est vous toutesfois que seule je desire,</l>
+                  <l n="3">J'en jure vos beaux yeux que le Soleil admire,</l>
+                  <l n="4">Et j'en jure mon cœur, surpris de vos appas.</l>
+               </lg>
+               <lg type="quatrain" n="2">
+                  <l n="5">J'en jure vos douceurs, qui sont tout mon <term ref="glossaire_ss.html#soulas">soulas</term>,</l>
+                     <l n="6">J'en jure vos desdains, qui sont tout mon martyre,</l>
+                     <l n="7">J'en jure mes douleurs  tesmoins de vostre empire,</l>
+                     <l n="8">J'en jure ces plaisirs, qu'avoir je ne puis pas.</l>
+               </lg>
+               <!-- 
                <hi rend="italicspage">
                   <graphic url="../../../images/signet.gif"
                            rend="img signet"
                            mimeType="image/gif"/>[ 216 ] <ref target="../../preliminaire/10_2/10_2_livre_4.html#216">1610</ref>
                   <ref target="../../fonctionnelle/fonctionnelle_2/fonctionnelle_2_livre_4.html#216">fonctionnelle</ref>
                </hi>
-            </p>
-            <p rend="center_t">
-               <hi rend="italics">J'en jure les <term ref="glossaire_aa.html#amours">Amours</term>,  amoureux de vous mesme,<lb/>
-      J'en jure ces beautez qui font que l'on vous ayme,<lb/>
-      J'en jure mes espoirs encor que bien <app type="omission">
+            </p>-->
+               <pb n="216"/>
+               <lg type="tercet" n="1">
+                  <l n="9">J'en jure les <term ref="glossaire_aa.html#amours">Amours</term>,  amoureux de vous mesme,</l>
+                  <l n="10">J'en jure ces beautez qui font que l'on vous ayme,</l>
+                  <l n="11">J'en jure mes espoirs encor que bien <app type="omission">
                      <lem wit="#var21"/>
                      <rdg wit="#varp">petits </rdg>
                   </app>
-               </hi>
-               <hi rend="var21">petis</hi>
-               <hi rend="italics">.<lb/>
-                  <lb/>
-      J'en jure ces desirs que vous me <app type="omission">
-                     <lem wit="#var21"/>
+               <hi rend="var21">petis</hi>.</l>
+               </lg>
+                  <lg type="tercet" n="2">
+                     <l n="12">J'en jure ces desirs que vous me <app type="modification"> <!-- modification ou omission ? -->
+                           <lem wit="#var21">faictes</lem>
                      <rdg wit="#varp">faites </rdg>
                   </app>
-               </hi>
-               <hi rend="var21">faictes</hi>
-               <hi rend="italics"> naistre,<lb/>
-      Bref j'en jure par vous, sans qui je ne veux estre,<lb/>
-      Encor<note target="note_2.html#2_encor"/>  ne croirez-vous ce que je vous en dis.</hi>
-            </p>
+                        naistre,</l>
+                     <l n="13">Bref j'en jure par vous, sans qui je ne veux estre,</l>
+                     <l n="14">Encor<note target="note_2.html#2_encor"/>  ne croirez-vous ce que je vous en dis.</l>
+            </lg>
+            </lg>
             <p>  Or belle <persName ref="personnage_pp.html#2_phillis">Philis</persName>, voicy un grand commencement
   d'affaires : car depuis que j'eus veu <persName ref="personnage_ff.html#2_florice">Florice</persName>, il me
   fut impossible de m'en retirer : <app type="omission">
