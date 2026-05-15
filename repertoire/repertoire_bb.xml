@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -18,19 +19,19 @@
          <div>
             <note xml:id="bacchanales" n="1" ana="mythologie">
                <label>Bacchanales</label>
-               <p>Mentionnées dans:<ref target="#bacchanales">I</ref>,
+               <mentioned>Mentionnées dans:<ref target="#bacchanales">I</ref>,
 <ref target="#2_bacchanales">II</ref>, <ref target="#3_bacchanales">III</ref>,
-<ref target="#4_bacchanales">IV</ref>
-Mythologie. Écrit aussi <emph>Baccanales</emph>.</p>
+<ref target="#4_bacchanales">IV</ref></mentioned>
+<p>Mythologie. Écrit aussi <emph>Baccanales</emph>.</p>
                <p>
 Ce sont les fêtes de <rs type="repertoire" ref="#bacchus">Bacchus</rs>, le dieu du vin. <bibl source="bibliographie.xml#furetiere">Furetière</bibl>
-précise que «c'est une rejouïssance ou mascarade qu'on fait
+précise que <quote>c'est une rejouïssance ou mascarade qu'on fait
 au Carnaval, où on se couronne de lierre, et où on imite ces
-anciennes Festes» (Article <emph>Bacchanales</emph>). Les <rs type="repertoire" ref="#bacchanales">Bacchanales</rs> autorisent de grandes libertés. À
+anciennes Festes</quote> (Article <emph>Bacchanales</emph>). Les <rs type="repertoire" ref="#bacchanales">Bacchanales</rs> autorisent de grandes libertés. À
 l'origine ce sont les femmes qui fêtaient seules pendant deux jours
 en mars. Les <rs type="repertoire" ref="#bacchanales">Bacchanales</rs> sont ensuite devenues des journées
 consacrées au théâtre trois fois par an, puis des jours et des
-nuits de débauche. Interdites au IIesiècle avant J.-C., elles recommencent sous
+nuits de débauche. Interdites au IIe siècle avant J.-C., elles recommencent sous
 Jules César. Dans la culture chrétienne, le carnaval et les
 déguisements du Mardi gras se substituent aux <rs type="repertoire" ref="#bacchanales">Bacchanales</rs>. Le carnaval va
 de Noël à Pâques: il commence à l'Épiphanie, à la fin des
@@ -58,8 +59,9 @@ recto</ref>).</p>
             </note>
             <note xml:id="bacchanales_2" n="2" ana="mythologie">
                <label>Bacchanales</label>
-               <p>Mentionnées dans:<ref target="#bacchanales">I</ref>, <ref target="#2_bacchanales">II</ref>,
-<ref target="#3_bacchanales">III</ref>, <ref target="#4_bacchanales">IV</ref>
+               <mentioned>Mentionnées dans:<ref target="#bacchanales">I</ref>, <ref target="#2_bacchanales">II</ref>,
+<ref target="#3_bacchanales">III</ref>, <ref target="#4_bacchanales">IV</ref></mentioned>
+               <p>
 • À <rs type="repertoire" ref="repertoire_ll.xml#2_lyon">Lyon</rs>, pendant les <rs type="repertoire" ref="#2_bacchanales">Bacchanales</rs>, <persName ref="personnage_hh.xml#2_hylas">Hylas</persName> et <persName ref="personnage_cc.xml#2_clorian">Clorian</persName>
 participent à un tournoi et représentent <persName ref="personnage_cc.xml#2_circene">Circène</persName> sur
 leurs armes (<ref target="../_roman/reference/21_2/21_2_livre_4.xml#201">II, 4,
@@ -67,35 +69,32 @@ leurs armes (<ref target="../_roman/reference/21_2/21_2_livre_4.xml#201">II, 4,
             </note>
             <note xml:id="bacchanales_3" n="3" ana="mythologie">
                <label>Bacchanales</label>
-               <p>Mentionnées dans:<ref target="#bacchanales">I</ref>, <ref target="#2_bacchanales">II</ref>,
-<ref target="#3_bacchanales">III</ref>, <ref target="#4_bacchanales">IV</ref>
-La coutume romaine veut qu'on se déguise aux Bacchanales.</p>
-               <p/>
+               <mentioned>Mentionnées dans:<ref target="#bacchanales">I</ref>, <ref target="#2_bacchanales">II</ref>,
+<ref target="#3_bacchanales">III</ref>, <ref target="#4_bacchanales">IV</ref></mentioned>
+<p>La coutume romaine veut qu'on se déguise aux Bacchanales.
+               </p>
                <p>
 • <persName ref="personnage_hh.xml#3_hylas">Hylas</persName>
 rappelle qu'il a célébré les Bacchanales à <rs type="repertoire" ref="repertoire_ll.xml#3_lyon">Lyon</rs>. Il a dansé
 déguisé en vent (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#47_verso">III, 2, 47
 verso</ref>).</p>
-               <p/>
                <p>
 • Quand <persName ref="personnage_ss.xml#3_silviane">Silviane</persName> se déguise, <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>
 tombe amoureux d'elle (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#516_verso">III, 12,
 516 verso</ref>).</p>
-               <p/>
+
                <p>
 • On peut voir les Bacchanales de Poussin dans ce <ref target="http://mythologica.fr/grec/pic/bacchanales_poussin.jpg">site</ref> (10 février 2014).</p>
             </note>
             <note xml:id="bacchanales_4" n="4" ana="mythologie">
                <label>Bacchanales</label>
-               <p>Mentionnées dans:<ref target="#bacchanales">I</ref>, <ref target="#2_bacchanales">II</ref>,
-<ref target="#3_bacchanales">III</ref>, <ref target="#4_bacchanales">IV</ref>
-Écrit aussi <emph>Bachanales</emph>.</p>
-               <p/>
+               <mentioned>Mentionnées dans:<ref target="#bacchanales">I</ref>, <ref target="#2_bacchanales">II</ref>,
+<ref target="#3_bacchanales">III</ref>, <ref target="#4_bacchanales">IV</ref></mentioned>
+<p>Écrit aussi <emph>Bachanales</emph>.</p>
                <p>
 • <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName>, à <rs type="repertoire" ref="repertoire_ll.xml#4_lyon">Lyon</rs>, organise tournois et spectacles
 pendant les Bacchanales (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#643">IV, 4,
 643</ref>).</p>
-               <p/>
                <p>
                   <note ana="remarque">S'agit-il des Bacchanales auxquelles
 <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> a
@@ -136,12 +135,12 @@ Bacchanales est un jeu qu'il ne faut pas prendre au sérieux
             </note>
             <note xml:id="bacchus" n="1" ana="mythologie">
                <label>Bacchus</label>
-               <p>Mentionné dans:<ref target="#bacchus">I</ref>
+               <mentioned>Mentionné dans:<ref target="#bacchus">I</ref></mentioned><p>
 Mythologie. Fils de <rs type="repertoire" ref="repertoire_ik.xml#jupiter">Jupiter</rs> et de <rs type="repertoire" ref="repertoire_ss.xml#semele">Sémélé</rs>.</p>
                <p/>
                <p>
-• Sa naissance merveilleuse est rappelée dans les «peintures
-esclatantes» (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#27_recto">I, 2, 27
+• Sa naissance merveilleuse est rappelée dans les <quote>peintures
+esclatantes</quote> (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#27_recto">I, 2, 27
 recto</ref>). Voir <rs type="repertoire" ref="repertoire_ss.xml#semele">Sémélé</rs>.</p>
                <p/>
                <p>
@@ -151,7 +150,7 @@ recto</ref>).</p>
             </note>
             <note xml:id="baro_3" n="3" ana="actualité">
                <label>Baro, B.</label>
-               <p>Mentionné dans:<ref target="#3_baro">III</ref>
+               <mentioned>Mentionné dans:<ref target="#3_baro">III</ref></mentioned><p>
 Balthazar Baro (1596?- 1650). Baro n'a parlé de sa vie
 privée que pour se dire l'obligé d'Honoré d'Urfé qui l'aurait formé
 et complimenté (<bibl source="bibliographie.xml#1627">1627</bibl>, <emph>Advertissement</emph>, n.p.). Les
@@ -161,7 +160,7 @@ recoupent et parfois se complètent.</p>
                <p>
 • Le <ref target="http://www.academie-francaise.fr/les-immortels/balthazar-baro">site</ref> de l'Académie française (22 juillet 2012)
 résume ce que les académiciens savaient de leur collègue:
-«Né à Valence (Dauphiné) vers 1600 [sic].
+<quote>Né à Valence (Dauphiné) vers 1600 [sic].
 Secrétaire<note target="note_analyses.html#secretaire"/> de d'Urfé,
 l'auteur du fameux roman de <emph>l'Astrée</emph>, dont il fit imprimer
 la quatrième partie à sa mort et composa la cinquième sur ses
@@ -170,15 +169,15 @@ pastorale, un poème héroïque et quatre poèmes dramatiques. Il fut
 procureur à Valence et trésorier à Montpellier. Élu à l'Académie au
 mois de mai 1636 en remplacement de [Auger de Moléon] Granier
 [fauteuil 38], il fut un des examinateurs des vers du
-<emph>Cid</emph>».</p>
+<emph>Cid</emph></quote>.</p>
                <p>
 Dans cette rubrique, la date de naissance de Baro est contestable,
 et le traitement des suites de <emph>L'Astrée</emph> est
 superficiel.</p>
                <p/>
-               <p>• Baro «a certainement connu
+               <p>• Baro <quote>a certainement connu
 [d'Urfé] à Tournon<note target="note_analyses.html#tournon"/> où ils
-fréquentaient le même collège» (<ref target="https://fr.wikipedia.org/wiki/Balthazar_Baro">Wikipédia</ref>, 2 août 2016).</p>
+fréquentaient le même collège</quote> (<ref target="https://fr.wikipedia.org/wiki/Balthazar_Baro">Wikipédia</ref>, 2 août 2016).</p>
                <p>
 Comme vingt à trente ans séparent les deux hommes, cette rencontre
 chez les Jésuites est tout à fait improbable.</p>
@@ -188,26 +187,26 @@ chez les Jésuites est tout à fait improbable.</p>
 (<bibl source="bibliographie.xml#pellisson">Pellisson</bibl>, I, p.237, note 2)qui
 avait expulsé son prédécesseur. <emph>
 L'Histoire de l'Académie française</emph> nous apprend que Baro a
-travaillé avec trois autres académiciens pour présenter «les
-Observations sur le Cid» à l'assemblée (<bibl source="bibliographie.xml#pellisson">
+travaillé avec trois autres académiciens pour présenter <quote>les
+Observations sur le Cid</quote> à l'assemblée (<bibl source="bibliographie.xml#pellisson">
                      <emph>Ibid.</emph>
                   </bibl>, I, p.89). Ce pamphlet de
-96 pages attribué au seul Scudéry a été publié en 1637 «Au
-[sic] despens de l'Auteur». Écrit à la première personne du
+96 pages attribué au seul Scudéry a été publié en 1637 <quote>Au
+[sic] despens de l'Auteur</quote>. Écrit à la première personne du
 singulier, il n'est pas signé. Baro n'y est pas mentionné.</p>
                <p>
 Baro a composé un sonnet sur l'église de la Sorbonne (<bibl source="bibliographie.xml#pellisson">Pellisson</bibl>,
 I, p.131). Partisan des modernes, il a crié haro sur le mot
-«car» (<bibl source="bibliographie.xml#pellisson">
+<quote>car</quote> (<bibl source="bibliographie.xml#pellisson">
                      <emph>Ibid.</emph>
                   </bibl>, I, p.480) ... que l'on
 retrouve 538 fois dans sa <emph>Conclusion</emph> de <emph>L'Astrée</emph>
 (Éd. <bibl source="bibliographie.xml#vaganay">Vaganay</bibl>, V).</p>
                <p/>
                <p>
-• D'après Daniel <bibl source="bibliographie.xml#huet">Huet</bibl>, «suivant l'ordre que l'Auteur
+• D'après Daniel <bibl source="bibliographie.xml#huet">Huet</bibl>, <quote>suivant l'ordre que l'Auteur
 laissa en mourant et le commandement que Mme la Princesse de
-Piémont en fit à <rs type="repertoire" ref="#3_baro">Baro</rs>», Gabrielle d'Urfé<note target="note_analyses.html#gabrielle_u"/> aurait remis à ce <rs type="repertoire" ref="#3_baro">Baro</rs> une quatrième partie de <emph>L'Astrée</emph>
+Piémont en fit à <rs type="repertoire" ref="#3_baro">Baro</rs></quote>, Gabrielle d'Urfé<note target="note_analyses.html#gabrielle_u"/> aurait remis à ce <rs type="repertoire" ref="#3_baro">Baro</rs> une quatrième partie de <emph>L'Astrée</emph>
 dont le manuscrit aurait appartenu au duc de Savoie<note target="note_analyses.html#duc-urfe"/> (p.857). Voir <ref target="quatriemes.xml#arguments">Les Quatrièmes parties</ref>.</p>
                <p/>
                <p>
@@ -218,19 +217,19 @@ et parce qu'elles reprennent, sans le dire,
 l'<emph>Advertissement</emph> écrit par Baro en <bibl source="bibliographie.xml#1627">1627</bibl>
 (Voir <ref target="biographes.xml#huet">Biographes</ref>).<ref target="testament.xml">Le Testament</ref> d'Honoré d'Urfé ne fait
 aucune référence à <emph>L'Astrée</emph> ou à des manuscrits.C'est après le décès du romancier que Baro se présente
-comme «secrétaire».</note>
+comme <quote>secrétaire</quote>.</note>
                </p>
                <p>
 • Le <emph>
-                     <bibl source="bibliographie.xml#larousse">Larousse</bibl> du XIXesiècle</emph> ajoute que Baro est devenu à Paris
-«gentilhomme de Mademoiselle de Montpensier».</p>
+                     <bibl source="bibliographie.xml#larousse">Larousse</bibl> du XIXe siècle</emph> ajoute que Baro est devenu à Paris
+<quote>gentilhomme de Mademoiselle de Montpensier</quote>.</p>
                <p>
 Dans sa <emph>Description</emph> du Dauphiné, <bibl source="bibliographie.xml#piganiol">Piganiol de La
-Force</bibl> corrige la formule: il faut dire «gentilhomme
-servant» de Mademoiselle. Il signale aussi que Baro a épousé
-une veuve qui lui a donné des enfants. Il précise que «la
+Force</bibl> corrige la formule: il faut dire <quote>gentilhomme
+servant</quote> de Mademoiselle. Il signale aussi que Baro a épousé
+une veuve qui lui a donné des enfants. Il précise que <quote>la
 part que [Baro] avoit eue au Roman de <emph>l'Astrée</emph> lui fut un
-titre pour obtenir une place dans l'Académie Françoise» (IV,
+titre pour obtenir une place dans l'Académie Françoise</quote> (IV,
 pp.380-381).</p>
                <p/>
                <p>
@@ -241,12 +240,12 @@ bibliographie commentée. Dans sa jeunesse, Baro aurait été
 secrétaire d'Honoré d'Urfé et il aurait composé la quatrième partie
 d'après les notes que la famille lui aurait confiées. <emph>La
 conclusion et derniere partie d'Astrée</emph> aurait été
-«ensuite insérée dans les éd. complètes de l'Astrée».
-«Sur la fin de sa vie», Baro a obtenu le titre de
-«procureur du roi au présidial de Valence».
-«L'ancien Dict. de l'Académie [ayant] souvent invoqué son
-autorité», sa réhabilitation serait «plus facile et
-aussi juste que celle de Ronsard<note target="note_analyses.html#ronsard"/>». Ce souhait est évidemment tout à fait
+<quote>ensuite insérée dans les éd. complètes de l'Astrée</quote>.
+<quote>Sur la fin de sa vie</quote>, Baro a obtenu le titre de
+<quote>procureur du roi au présidial de Valence</quote>.
+<quote>L'ancien Dict. de l'Académie [ayant] souvent invoqué son
+autorité</quote>, sa réhabilitation serait <quote>plus facile et
+aussi juste que celle de Ronsard<note target="note_analyses.html#ronsard"/></quote>. Ce souhait est évidemment tout à fait
 utopique. D'ailleurs, le nom de Baro ne figure dans le
 <emph>Dictionnaire de l'Académie</emph> ni en 1694 ni en 1762.
 Ronsard<note target="note_analyses.html#ronsard"/> lui-même survient
@@ -261,11 +260,11 @@ côté de ceux de plusieurs poètes (dont Honoré d'Urfé) dans le
 livre des Delices de la poesie françoise</bibl>
 (pp.361-376). Les Stances dédiées au duc de
 Savoie<note target="note_analyses.html#altesse"/> et à sa
-«valeur invincible» (p.375) sont banales. En
+<quote>valeur invincible</quote> (p.375) sont banales. En
 revanche, trois sonnets se démarquent. L'un est un songe presque
 érotique (p.372), l'autre raconte le viol de Margoton
 (p.373). Dans le troisième, le poète décrit une Dame qui lui
-permet tout «sinon que de monter dessus» (p.374).
+permet tout <quote>sinon que de monter dessus</quote> (p.374).
 Ces vers ont dû choquer bien des lecteurs.</p>
                <p/>
                <p>
@@ -291,19 +290,19 @@ publiée dans le <emph>Mercure françois</emph> en lui ajoutant quelques
 commentaires souvent fort gais (<emph>
                      <bibl source="bibliographie.xml#cleosandre_1875">Cléosandre</bibl>
                   </emph>, éd.de 1875, p.38).
-Parmi les nombreux danseurs nommés se trouve «Le François
-fol, Amoureux de soy-mesme, Monsieur Baro» (<emph>
+Parmi les nombreux danseurs nommés se trouve <quote>Le François
+fol, Amoureux de soy-mesme, Monsieur Baro</quote> (<emph>
                      <bibl source="bibliographie.xml#cleosandre">Ibid.</bibl>
                   </emph>, p.127). On note avec
-amusement la présence d'«un Anglois hypocondriaque dont la
+amusement la présence d'<quote>un Anglois hypocondriaque dont la
 folie consistoit en ce que pour avoir trop pensé à sa maistresse,
-il s'imaginoit d'estre devenu sa maistresse mesme»
+il s'imaginoit d'estre devenu sa maistresse mesme</quote>
 (<emph>
                      <bibl source="bibliographie.xml#cleosandre">Ibid.</bibl>
                   </emph>, p.13). L'une des dernières
 entrées introduit une loterie organisée par un Magicien qui
-présente des prix: «le portrait de Medor et de
-Celadon» ou une statue de Don Quichotte (<emph>
+présente des prix: <quote>le portrait de Medor et de
+Celadon</quote> ou une statue de Don Quichotte (<emph>
                      <bibl source="bibliographie.xml#cleosandre">Ibid.</bibl>
                   </emph>, p.123).</p>
                <p/>
@@ -327,18 +326,18 @@ et son agent Lafont.</note>
                </p>
                <p>
 • Baro évoque sa ville natale dans la <emph>Conclusion</emph> qu'il
-donne à <emph>L'Astrée</emph>: «Dans le pays des <rs type="repertoire" ref="repertoire_aa.xml#allobroges">Allobroges</rs>,
+donne à <emph>L'Astrée</emph>: <quote>Dans le pays des <rs type="repertoire" ref="repertoire_aa.xml#allobroges">Allobroges</rs>,
 nous vismes <rs type="repertoire" ref="repertoire_uz.xml#3_valence">Vallence</rs>, où la beauté du lieu nous ayant conviez
 de sejourner un jour, outre quantité de merveilles, nous fusmes
-curieux de voir le tombeau de Tullia fille de Ciceron» (Éd.
+curieux de voir le tombeau de Tullia fille de Ciceron</quote> (Éd.
 <bibl source="bibliographie.xml#vaganay">Vaganay</bibl>, V, 10, p.446).</p>
                <p/>
                <p>
 • Baro a l'audace d'ajouter son portrait au début de la
 <emph>Conclusion</emph> (Voir <ref target="astrees_posthumes.xml#portrait_baro">Astrées posthumes</ref>). Les
-vers sont signés «L'Estoile»:</p>
+vers sont signés <quote>L'Estoile</quote>:</p>
                <p>
-«Cher Baro bien que ton
+<quote>Cher Baro bien que ton
 visage</p>
                <p>
 Paroisse en ce fameux ouvrage</p>
@@ -353,7 +352,7 @@ Qu'il semble qu'amour l'ait
 escrit</p>
                <p>
 D'une des plumes de ses
-aisles».</p>
+aisles</quote>.</p>
                <p>
 Il ne s'agit pas du célèbre Pierre de L'Estoile, décédé en 1611,
 mais plutôt de son fils, Claude de L'Estoile, académicien
@@ -363,18 +362,18 @@ mais plutôt de son fils, Claude de L'Estoile, académicien
 • Edmond Rostand se moque de <emph>La Clorise</emph> de Baro dans son
 <emph>Cyrano de Bergerac</emph>:</p>
                <p>
-«Les vers du vieux Baro valant
-moins que zéro»</p>
+<quote>Les vers du vieux Baro valant
+moins que zéro</quote></p>
                <p>
 (Voir ce <ref target="http://www.cyranodebergerac.fr/siecle_cyrano_contenu.php?contenu_id=11">site</ref>, 22 juillet 2012).</p>
                <p/>
                <p>
 • Valence a une rue Balthazar Baro, mais aussi une
-«<emph>Impasse</emph> Balthazar Baro».</p>
+<quote><emph>Impasse</emph> Balthazar Baro</quote>.</p>
                <p>
-Est-ce que Baro vient de <emph>baron</emph>? «Ce mot a même
+Est-ce que Baro vient de <emph>baron</emph>? <quote>Ce mot a même
 servi pour signifier un voleur, en italien <emph>barone</emph> (Dict.
-d'Oudin)» (<bibl source="bibliographie.xml#la_curne">La Curne</bibl>, Article <emph>Baron</emph>).</p>
+d'Oudin)</quote> (<bibl source="bibliographie.xml#la_curne">La Curne</bibl>, Article <emph>Baron</emph>).</p>
                <p/>
                <p>
 • En 2002, un colloque a été consacré à Baro à l'Université de
@@ -383,14 +382,14 @@ paru.</p>
             </note>
             <note xml:id="basileens_3" n="3" ana="histoire">
                <label>Basileens</label>
-               <p>Mentionnés dans:<ref target="#3_basileens">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#3_basileens">III</ref></mentioned><p>
 Les habitants de Bâle, en Suisse, se nomment aujourd'hui les
 <emph>Bâlois</emph>. <ref target="http://www.hls-dhs-dss.ch/index.php">
                      <emph>Le Dictionnaire historique de la
 Suisse</emph>
                   </ref> en ligne indique que la région est gallo-romaine
 avant la guerre des Gaules et qu'elle subit des invasions au
-IVesiècle.</p>
+IVe siècle.</p>
                <p/>
                <p>
 • Les Basiléens font partie des peuples gouvernés par <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName>
@@ -399,7 +398,7 @@ recto</ref>).</p>
             </note>
             <note xml:id="beauvais_3" n="3" ana="geographie">
                <label>Beauvais</label>
-               <p>Mentionné dans:<ref target="#3_beauvais">III</ref>
+               <mentioned>Mentionné dans:<ref target="#3_beauvais">III</ref></mentioned><p>
 Commune dans l'Oise, à 78km de <rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs>, et
 à 168km de <rs type="repertoire" ref="repertoire_pp.xml#3_provins">Provins</rs>. La ville de Beauvais fait partie de la
 Gaule Belgique qui appartient aux <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs> depuis
@@ -420,7 +419,7 @@ reddition en 1594.</p>
             </note>
             <note xml:id="belenus" n="1" ana="mythologie">
                <label>Belenus</label>
-               <p>Mentionné dans:<ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref></mentioned><p>
 Mythologie.</p>
                <p/>
                <p>
@@ -439,29 +438,29 @@ expliquer par le druide <persName ref="personnage_aa.xml#adamas">Adamas</persNam
 la théologie astréenne.</p>
                <p/>
                <p>
-                  <note ana="remarque">«<rs type="repertoire" ref="repertoire_aa.xml#apollon">Apollon</rs> est le
+                  <note ana="remarque"><quote><rs type="repertoire" ref="repertoire_aa.xml#apollon">Apollon</rs> est le
 Bélénus gaulois, le Dieu homme, le Fils. <rs type="repertoire" ref="repertoire_mm.xml#2_mars">Mars</rs> est le
 <rs type="repertoire" ref="repertoire_hh.xml#hesus">Hésus</rs>
 gaulois, le Dieu fort, le Père. <rs type="repertoire" ref="repertoire_ik.xml#jupiter">Jupiter</rs> est le
 <rs type="repertoire" ref="repertoire_tt.xml#taramis">Taramis</rs>
 gaulois, le Dieu 'répurgeant' (de <emph>repurger,
 nettoyer</emph>), le Saint-Esprit. <rs type="repertoire" ref="repertoire_tt.xml#tautates">Tautatès</rs>, le
-Dieu unique, porte donc trois surnoms» (<bibl source="bibliographie.xml#heneinp">Henein</bibl>,
+Dieu unique, porte donc trois surnoms</quote> (<bibl source="bibliographie.xml#heneinp">Henein</bibl>,
 p.54).
 Au nom du Père, du Fils et du Saint-Esprit...</note>
                </p>
             </note>
             <note xml:id="belenus_2" n="2" ana="mythologie">
                <label>Belenus</label>
-               <p>Mentionné dans:<ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref></mentioned><p>
 Écrit aussi<emph>Belenos</emph> et
 <emph>Beelenos</emph>.</p>
                <p/>
                <p>
 • Nommé seize fois dans la deuxième partie, ce dieu gaulois est le
-plus souvent enfermé dans le quatuor divin: «<rs type="repertoire" ref="repertoire_tt.xml#2_tautates">Tautates</rs>,
+plus souvent enfermé dans le quatuor divin: <quote><rs type="repertoire" ref="repertoire_tt.xml#2_tautates">Tautates</rs>,
 <rs type="repertoire" ref="repertoire_hh.xml#2_hesus">Hesus</rs>,
-<rs type="repertoire" ref="repertoire_tt.xml#2_taramis">Taramis</rs>, Belenus» (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#492">II, 8, 492</ref>).
+<rs type="repertoire" ref="repertoire_tt.xml#2_taramis">Taramis</rs>, Belenus</quote> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#492">II, 8, 492</ref>).
 Dans le chêne qui symbolise <rs type="repertoire" ref="repertoire_tt.xml#2_tautates">Tautatès</rs>, la branche de gauche représente
 Bélénus (<ref target="../_roman/reference/21_2/21_2_livre_5.xml#290">II, 5,
 290</ref>; <ref target="../_roman/reference/21_2/21_2_livre_8.xml#517">II, 8,
@@ -469,7 +468,7 @@ Bélénus (<ref target="../_roman/reference/21_2/21_2_livre_5.xml#290">II, 5,
                <p/>
                <p>
 • Dans le temple de <rs type="repertoire" ref="repertoire_mm.xml#2_montverdun">Montverdun</rs>, ceux qui aiment lui adressent
-«sacrifices et supplications» (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#494">II, 8,
+<quote>sacrifices et supplications</quote> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#494">II, 8,
 494</ref>).</p>
                <p/>
                <p>
@@ -490,16 +489,16 @@ divinités avec les figures et les noms des dieux païens (<ref target="../_roma
             </note>
             <note xml:id="belenus_3" n="3" ana="mythologie">
                <label>Belenus</label>
-               <p>Mentionné dans:<ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref></mentioned><p>
 Écrit aussi <emph>Bellenus</emph>. Ce dieu peut avoir donné son nom à
 Saint-Bonnet-près-Riom (Puy-de-Dôme) (<bibl source="bibliographie.xml#longnon">Longnon</bibl>,
 p.113).</p>
                <p/>
                <p>
 Nommé quinze fois dans la troisième partie, Bélénus est d'abord un
-élément du groupe divin gaulois: un quatuor, «<rs type="repertoire" ref="repertoire_tt.xml#3_tautates">Thautates</rs>,
+élément du groupe divin gaulois: un quatuor, <quote><rs type="repertoire" ref="repertoire_tt.xml#3_tautates">Thautates</rs>,
 <rs type="repertoire" ref="repertoire_hh.xml#3_hesus">Hesus</rs>,
-<rs type="repertoire" ref="repertoire_tt.xml#3_taramis">Tharamis</rs>, et Bellenus» (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#27_verso">III, 2, 27
+<rs type="repertoire" ref="repertoire_tt.xml#3_taramis">Tharamis</rs>, et Bellenus</quote> (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#27_verso">III, 2, 27
 verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_6.xml#239_recto">III, 6, 239
 recto</ref>), ou un trio (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#174_recto">III, 5, 174
 recto</ref>; <ref target="../_roman/reference/21_3/21_3_livre_9.xml#372_recto">III, 9, 372
@@ -513,12 +512,12 @@ recto</ref>).</p>
                <p/>
                <p>
                   <note ana="variante">Bélénus est appelé le
-«dieu-homme» après l'édition de 1619
+<quote>dieu-homme</quote> après l'édition de 1619
 (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_verso">III, 9, 373
 verso</ref>).</note>
                </p>
                <p>
-• Bélénus est un «dieu debonnaire» (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#459_verso">III, 11,
+• Bélénus est un <quote>dieu debonnaire</quote> (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#459_verso">III, 11,
 459 verso</ref>).</p>
                <p/>
                <p>
@@ -547,7 +546,7 @@ permission de parler à sa mère (<ref target="../_roman/reference/21_3/21_3_liv
             </note>
             <note xml:id="belenus_4" n="4" ana="geographie">
                <label>Belenus</label>
-               <p>Mentionné dans:<ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#belenus">I</ref>, <ref target="#2_belenus">II</ref>, <ref target="#3_belenus">III</ref>, <ref target="#4_belenus">IV</ref></mentioned><p>
 Écrit <emph>Bellenus</emph>.</p>
                <p/>
                <p>
@@ -568,10 +567,10 @@ du dieu unique; ils sont sujets d'un verbe au singulier
             </note>
             <note xml:id="belgique_3" n="3" ana="geographie">
                <label>Belgique</label>
-               <p>Mentionnée dans:<ref target="#3_belgique">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#3_belgique">III</ref></mentioned><p>
 Tout au début de sa description des Gaules, <bibl source="bibliographie.xml#cesar">César</bibl> affirme
-(et Astérix nous le rappelle) que «les Belges sont les plus
-braves de tous ces peuples» (I, 3). Leur territoire est au
+(et Astérix nous le rappelle) que <quote>les Belges sont les plus
+braves de tous ces peuples</quote> (I, 3). Leur territoire est au
 Nord de la Gaule. Après la conquête, <persName ref="personnage_aa.xml#2_auguste">Auguste</persName>
 divise l'ancienne Belgique et lui ajoute des régions qui faisaient
 partie de la Germanie. La <emph>Belgica prima</emph> (Trèves)
@@ -606,9 +605,9 @@ lieu de séjour des premiers rois <rs type="repertoire" ref="repertoire_ff.xml#3
             </note>
             <note xml:id="bellone" n="1" ana="mythologie">
                <label>Bellonne</label>
-               <p>Mentionnée dans:<ref target="#bellone">I</ref>
+               <mentioned>Mentionnée dans:<ref target="#bellone">I</ref></mentioned><p>
 Mythologie. <emph>Bellum</emph> signifie
-<emph>guerre</emph> en latin, d'où l'adjectif «belliqueux»
+<emph>guerre</emph> en latin, d'où l'adjectif <quote>belliqueux</quote>
 et le nom de <emph>Bellone</emph>. Cette divinité romaine de la guerre
 est l'épouse ou la sœur du dieu <rs type="repertoire" ref="repertoire_mm.xml#2_mars">Mars</rs>.</p>
                <p/>
@@ -618,13 +617,13 @@ traits effrayants.</p>
                <p/>
                <p>
                   <note ana="variante">Dans l'édition de 1607 seulement,
-«les horreurs de la guerre» sont dites «les
-horreurs de Bellonne»
+<quote>les horreurs de la guerre</quote> sont dites <quote>les
+horreurs de Bellonne</quote>
 (<ref target="../_roman/reference/21_1/21_1_livre_11.xml#352_verso">I,
 11, 352 verso</ref>).</note>
                </p>
                <p>
-Bellone reste «l'effroyable» dans les éditions
+Bellone reste <quote>l'effroyable</quote> dans les éditions
 suivantes (<ref target="../_roman/reference/21_1/21_1_livre_11.xml#356_recto">I, 11, 356
 recto</ref>).</p>
                <p/>
@@ -633,8 +632,8 @@ recto</ref>).</p>
             </note>
             <note xml:id="bergame_2" n="2" ana="geographie">
                <label>Bergame</label>
-               <p>Mentionnée dans:<ref target="#2_bergame">II</ref>
-Ville du Nord de l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs>. C'est au XVesiècle seulement qu'elle rejoint la république
+               <mentioned>Mentionnée dans:<ref target="#2_bergame">II</ref></mentioned><p>
+Ville du Nord de l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs>. C'est au XVe siècle seulement qu'elle rejoint la république
 de <rs type="repertoire" ref="repertoire_uz.xml#2_venise">Venise</rs> (voir ce <ref target="http://www.bellitalie.org/bergame-histoire.php">site</ref>, 5 mai 2015).</p>
                <p/>
                <p>
@@ -646,11 +645,11 @@ se réunissant avec d'autres réfugiés, forment la république de
             </note>
             <note xml:id="betique_2" n="2" ana="geographie">
                <label>Bétique</label>
-               <p>Mentionnée dans:<ref target="#2_betique">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_betique">II</ref></mentioned><p>
 Province romaine au Sud de l'<rs type="repertoire" ref="repertoire_ee.xml#espagne">Espagne</rs>.</p>
                <p/>
                <p>
-• Au Vesiècle, les <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs>
+• Au Ve siècle, les <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs>
 s'emparent de la <rs type="repertoire" ref="#2_betique">Bétique</rs> et l'appellent <rs type="repertoire" ref="repertoire_uz.xml#2_vandalousie">Vandalousie</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#747">II, 11, 747</ref>).
 Ils deviennent puissants sous la conduite de <persName ref="personnage_gg.xml#2_genseric">Genséric</persName>
 (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#750">II, 11,
@@ -660,34 +659,34 @@ Ils deviennent puissants sous la conduite de <persName ref="personnage_gg.xml#2_
             </note>
             <note xml:id="bisance" n="1" ana="geographie">
                <label>Bizance</label>
-               <p>Mentionnée dans:<ref target="#bisance">I</ref>
+               <mentioned>Mentionnée dans:<ref target="#bisance">I</ref></mentioned><p>
 Écrit <emph>Bisance</emph>. On écrit aujourd'hui
 <emph>Byzance</emph>. La capitale de l'Empire
 d'<rs type="repertoire" ref="repertoire_no.xml#2_orient">Orient</rs> après le partage de l'<rs type="repertoire" ref="repertoire_ee.xml#2_empire_romain">Empire
-romain</rs> porte le nom de <rs type="repertoire" ref="repertoire_cc.xml#2_constantinople">Constantinople</rs> au IVesiècle et d'Istanboul au XVesiècle. D'Urfé choisit le nom antique.</p>
+romain</rs> porte le nom de <rs type="repertoire" ref="repertoire_cc.xml#2_constantinople">Constantinople</rs> au IVe siècle et d'Istanboul au XVe siècle. D'Urfé choisit le nom antique.</p>
                <p/>
                <p>
-• C'est à «Bizance» qu'<persName ref="personnage_aa.xml#alcippe">Alcippe</persName> entre
+• C'est à <quote>Bizance</quote> qu'<persName ref="personnage_aa.xml#alcippe">Alcippe</persName> entre
 au service de l'Empereur (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#43_recto">I, 2, 43
 recto</ref>).</p>
             </note>
             <note xml:id="bobrun" n="1" ana="actualité">
                <label>Bobrun, L.</label>
-               <p>Mentionné dans:<ref target="#bobrun">I</ref>
+               <mentioned>Mentionné dans:<ref target="#bobrun">I</ref></mentioned><p>
 Ludovic[us] Bobrun (Louis Beaubrun), mort en 1627, appartient à une
 famille de peintres valets de chambre du Roi. Son père et ses deux
 frères ont servi <rs type="repertoire" ref="repertoire_hh.xml#henri">HenriIV</rs>. Lui-même a peint Anne d'Autriche et
 <rs type="repertoire" ref="repertoire_ll.xml#3_louis">LouisXIII</rs>. Il a formé ses deux neveux,
 peintres de Louis XIV enfant. (D.<bibl source="bibliographie.xml#breme">Brême</bibl>,
-«Les Beaubrun», avril 2006). <bibl source="bibliographie.xml#tallemant">Tallemant</bibl>
-mentionne «les Beaubruns, peintres» (I,
+<quote>Les Beaubrun</quote>, avril 2006). <bibl source="bibliographie.xml#tallemant">Tallemant</bibl>
+mentionne <quote>les Beaubruns, peintres</quote> (I,
 p.564).</p>
                <p>
 Je remercie Jean-Marc Chatelain qui m'a appris que Beaubrun était
-Forézien: «D'après la notice de l'<emph>Allgemeine
+Forézien: <quote>D'après la notice de l'<emph>Allgemeine
 Künstler-Lexikon</emph>, t. 8 (Munich et Leipzig, 1994), p.57,
 d'où je tire les renseignements que je vous communique ici, la
-famille de Beaubrun était liée à celle d'Urfé».</p>
+famille de Beaubrun était liée à celle d'Urfé</quote>.</p>
                <p/>
                <p>
 Henri Beaubrun apprend à <rs type="repertoire" ref="repertoire_ll.xml#3_louis">LouisXIII</rs> à dessiner au pastel
@@ -704,15 +703,15 @@ Les deux portraits ne sont pas toujours face à face (Voir <ref target="illustra
             </note>
             <note xml:id="boen_2" n="2" ana="geographie">
                <label>Boën</label>
-               <p>Mentionné dans:<ref target="#boing">I</ref>, <ref target="#2_boen">II</ref>, <ref target="#3_boen">III</ref>
+               <mentioned>Mentionné dans:<ref target="#boing">I</ref>, <ref target="#2_boen">II</ref>, <ref target="#3_boen">III</ref></mentioned><p>
 Écrit <emph>
                      <rs type="repertoire" ref="#boing">Boing</rs>
                   </emph> dans la première partie et <rs type="repertoire" ref="#2_boen">
                      <emph>Boën</emph>
                   </rs> dans la suite.
-«De là, comme nous aujourd'hui, <persName ref="personnage_ll.xml#2_leonide">Léonide</persName> et
+<quote>De là, comme nous aujourd'hui, <persName ref="personnage_ll.xml#2_leonide">Léonide</persName> et
 <persName ref="personnage_aa.xml#2_alexis">Alexis</persName>
-ont une magnifique vue sur la plaine», écrit Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl>
+ont une magnifique vue sur la plaine</quote>, écrit Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl>
 (p.211)</p>
                <p/>
                <p>
@@ -726,7 +725,7 @@ qu'elles aperçoivent entre ces deux petites villes (<ref target="../_roman/refe
             </note>
             <note xml:id="boen_3" n="3" ana="geographie">
                <label>Boën</label>
-               <p>Mentionné dans:<ref target="#boing">I</ref>, <ref target="#2_boen">II</ref>, <ref target="#3_boen">III</ref>
+               <mentioned>Mentionné dans:<ref target="#boing">I</ref>, <ref target="#2_boen">II</ref>, <ref target="#3_boen">III</ref></mentioned><p>
 Écrit <emph>
                      <rs type="repertoire" ref="#boing">Boing</rs>
                   </emph> dans la première partie et <rs type="repertoire" ref="#2_boen">
@@ -746,10 +745,9 @@ recto</ref>), 3km environ (<bibl source="bibliographie.xml#gaumei">Gaume</bibl>,
             </note>
             <note xml:id="boen_4" n="4" ana="geographie">
                <label>Boën</label>
-               <p>
+               <mentioned>
                   <emph>Mentionné dans:</emph>
-                  <ref target="#4_boen">IV</ref>
-               </p>
+                  <ref target="#4_boen">IV</ref></mentioned>
                <p>
 • Avec son bâton, le <persName ref="personnage_uz.xml#4_vieux_homme">Vieil homme</persName> montre à <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> que
 Boën se trouve entre deux collines, et que le <rs type="repertoire" ref="repertoire_ll.xml#4_lignon">Lignon</rs> longe
@@ -758,14 +756,14 @@ ses murs (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#912">IV, 4,
             </note>
             <note xml:id="boing" n="1" ana="geographie">
                <label>Boing</label>
-               <p>Mentionné dans:<ref target="#boing">I</ref>, <ref target="#2_boen">II</ref>, <ref target="#3_boen">III</ref>
+               <mentioned>Mentionné dans:<ref target="#boing">I</ref>, <ref target="#2_boen">II</ref>, <ref target="#3_boen">III</ref></mentioned><p>
 Écrit <rs type="repertoire" ref="#2_boen">
                      <emph>Boën</emph>
                   </rs> dans les autres parties. Boën-sur-Lignon,
 ville où se rejoignent les deux rivières qui forment le <rs type="repertoire" ref="repertoire_ll.xml#lignon">Lignon</rs>. Maxime
 <bibl source="bibliographie.xml#gaumei">Gaume</bibl>
 a dessiné une excellente carte de la région (p.191). Voir
-aussi la carte de Christophe Mathevot de «la Diana»
+aussi la carte de Christophe Mathevot de <quote>la Diana</quote>
 (<emph>Les Gravures de L'Astrée</emph>, publiées
 par la <bibl source="bibliographie.xml#communaute">Communauté</bibl> de Communes du Pays d'Astrée,
 p.131) reproduite dans ce <ref target="cartotheque.xml#carte_forez">site</ref>.</p>
@@ -778,12 +776,12 @@ recto</ref>).</p>
             </note>
             <note xml:id="bois_noir_3" n="3" ana="geographie">
                <label>Bois noir</label>
-               <p>Mentionné dans:<ref target="#3_bois_noir">III</ref>
+               <mentioned>Mentionné dans:<ref target="#3_bois_noir">III</ref></mentioned><p>
 Forêt des monts <rs type="repertoire" ref="repertoire_cc.xml#3_cemene">Cemènes</rs>.</p>
                <p>
-Cet «itinéraire demeure pour le moins surprenant. La descente
+Cet <quote>itinéraire demeure pour le moins surprenant. La descente
 des Bois Noirs à <rs type="repertoire" ref="repertoire_uz.xml#3_viveros">Viverols</rs> ne peut s'expliquer que par une recherche
-de la vallée, afin de gagner plus facilement <rs type="repertoire" ref="repertoire_mm.xml#3_montbrison">Montbrison</rs>» (<bibl source="bibliographie.xml#gaumei">Gaume</bibl>,
+de la vallée, afin de gagner plus facilement <rs type="repertoire" ref="repertoire_mm.xml#3_montbrison">Montbrison</rs></quote> (<bibl source="bibliographie.xml#gaumei">Gaume</bibl>,
 p.189).</p>
                <p/>
                <p>
@@ -794,21 +792,21 @@ verso</ref>).</p>
             </note>
             <note xml:id="bonlieu" n="1" ana="geographie">
                <label>Bonlieu</label>
-               <p>Mentionné dans:<ref target="#bonlieu">I</ref>, <ref target="#2_bonlieu">II</ref>, <ref target="#3_bonlieu">III</ref>
+               <mentioned>Mentionné dans:<ref target="#bonlieu">I</ref>, <ref target="#2_bonlieu">II</ref>, <ref target="#3_bonlieu">III</ref></mentioned><p>
 Écrit aussi <emph>Bon-lieu</emph>. Auguste <bibl source="bibliographie.xml#bernard_h">Bernard</bibl>
 rapporte que GuyII, comte de Forez, fonda le monastère de
-Bonlieu au XIIesiècle
+Bonlieu au XIIe siècle
 (p.188). Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl> explique les liens de la famille d'Urfé
 avec les deux abbayes (ordre de Cîiteaux) qui se trouvaient dans
-cette localité au XVIesiècle
+cette localité au XVIe siècle
 (p.195 et p.197). Frank <bibl source="bibliographie.xml#greiner_religion">Greiner</bibl> voit dans le temple de Bonlieu
-«l'un des centres axiologiques du roman»
+<quote>l'un des centres axiologiques du roman</quote>
 (p.182).</p>
                <p/>
                <p>
-Au XVIIesiècle, un traducteur
+Au XVIIe siècle, un traducteur
 allemand est tellement sensible à l'heureuse signification de ce
-nom qu'il le traduit par «<emph>Gutsort</emph>» (<bibl source="bibliographie.xml#jurgensen">Jürgensen</bibl>,
+nom qu'il le traduit par <quote><emph>Gutsort</emph></quote> (<bibl source="bibliographie.xml#jurgensen">Jürgensen</bibl>,
 p.318). <rs type="repertoire" ref="repertoire_mm.xml#mont_d_or">Mont-d'or</rs> subit le même sort, alors que les autres
 noms de lieu gardent la graphie française.</p>
                <p/>
@@ -819,7 +817,7 @@ des vestales à Bonlieu
 4, 84 verso</ref>).</note>
                </p>
                <p>
-• Le «séjour de druides et de vestales» (<ref target="../_roman/reference/21_1/21_1_livre_4.xml#84_verso">I, 4, 84
+• Le <quote>séjour de druides et de vestales</quote> (<ref target="../_roman/reference/21_1/21_1_livre_4.xml#84_verso">I, 4, 84
 verso</ref>) est aussi l'endroit où se croisent des Nymphes et des
 Bergères (<ref target="../_roman/reference/21_1/21_1_livre_4.xml#84_recto">I, 4, 84
 recto</ref>), l'endroit où <persName ref="personnage_no.xml#olimpe">Olimpe</persName> déclare ses sentiments à <persName ref="personnage_ll.xml#lycidas">Lycidas</persName>
@@ -830,14 +828,14 @@ recto</ref>).</p>
             </note>
             <note xml:id="bonlieu_2" n="2" ana="geographie">
                <label>Bonlieu</label>
-               <p>Mentionné dans:<ref target="#bonlieu">I</ref>, <ref target="#2_bonlieu">II</ref>, <ref target="#3_bonlieu">III</ref>
+               <mentioned>Mentionné dans:<ref target="#bonlieu">I</ref>, <ref target="#2_bonlieu">II</ref>, <ref target="#3_bonlieu">III</ref></mentioned><p>
 • Dans la deuxième partie de <emph>L'Astrée</emph>,
 il faut traverser le bois de Bonlieu pour se rendre des hameaux à
 la résidence d'<persName ref="personnage_aa.xml#2_adamas">Adamas</persName> (<ref target="../_roman/reference/21_2/21_2_livre_2.xml#110">II, 2,
 110</ref>).</p>
                <p/>
                <p>
-• Le temple qui se trouve dans ce bois, «dedié à la <rs type="repertoire" ref="#2_bonne_deesse">bonne Deesse</rs>»
+• Le temple qui se trouve dans ce bois, <quote>dedié à la <rs type="repertoire" ref="#2_bonne_deesse">bonne Deesse</rs></quote>
 (<ref target="../_roman/reference/21_2/21_2_livre_2.xml#111">II, 2,
 111</ref>), abrite Vestales et druides.</p>
                <p/>
@@ -851,17 +849,17 @@ Sainte-Eulalie (30 septembre 2010).</p>
             </note>
             <note xml:id="bonlieu_3" n="3" ana="geographie">
                <label>Bonlieu</label>
-               <p>Mentionné dans:<ref target="#bonlieu">I</ref>, <ref target="#2_bonlieu">II</ref>, <ref target="#3_bonlieu">III</ref>
+               <mentioned>Mentionné dans:<ref target="#bonlieu">I</ref>, <ref target="#2_bonlieu">II</ref>, <ref target="#3_bonlieu">III</ref></mentioned><p>
 Savoir bien son <emph>Astrée</emph>, selon <bibl source="bibliographie.xml#tallemant">Tallemant des
-Réaux</bibl>, c'est être capable de dire «à quelle main estoit
-Bonlieu, au sortir du pont de la <rs type="repertoire" ref="#3_bouteresse">Bouteresse</rs>» (II, p.305). «À un
-kilomètre au Sud-est de la Bouteresse», répond l'éditeur,
+Réaux</bibl>, c'est être capable de dire <quote>à quelle main estoit
+Bonlieu, au sortir du pont de la <rs type="repertoire" ref="#3_bouteresse">Bouteresse</rs></quote> (II, p.305). <quote>À un
+kilomètre au Sud-est de la Bouteresse</quote>, répond l'éditeur,
 Antoine Adam (II, p.1163, note 5). Voir aussi <bibl source="bibliographie.xml#gaumei">Gaume</bibl>,
 p.195.</p>
                <p/>
                <p>
-                  <note ana="remarque">«Il n'y avoit qu'un demy jour de
-plus» (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#461_recto">III, 11,
+                  <note ana="remarque"><quote>Il n'y avoit qu'un demy jour de
+plus</quote> (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#461_recto">III, 11,
 461 recto</ref>).
 Passer par Bonlieu est un détour pour qui va de <rs type="repertoire" ref="repertoire_mm.xml#3_montverdun">Montverdun</rs>
 à <rs type="repertoire" ref="repertoire_mm.xml#3_marcilly">Marcilly</rs>.</note>
@@ -928,20 +926,20 @@ sans attendre le druide (<ref target="../_roman/reference/21_3/21_3_livre_12.xml
             </note>
             <note xml:id="bonne_deesse_2" n="2" ana="mythologie">
                <label>Bonne Deesse</label>
-               <p>Mentionnée dans:<ref target="#2_bonne_deesse">II</ref>, <ref target="#3_bonne_deesse">III</ref>
-Mythologie. «Les Romains ont une divinité qu'ils nomment la
+               <mentioned>Mentionnée dans:<ref target="#2_bonne_deesse">II</ref>, <ref target="#3_bonne_deesse">III</ref></mentioned><p>
+Mythologie. <quote>Les Romains ont une divinité qu'ils nomment la
 Bonne-Déesse, comme les Grecs ont leur Gynécéa […] Tant que durent
 les mystères, il n'est permis à aucun homme d'entrer dans la maison
-où on les célèbre» (<bibl source="bibliographie.xml#plutarque_vies">Plutarque</bibl>, <ref target="http://remacle.org/bloodwolf/historiens/Plutarque/cesarpierron.htm">
+où on les célèbre</quote> (<bibl source="bibliographie.xml#plutarque_vies">Plutarque</bibl>, <ref target="http://remacle.org/bloodwolf/historiens/Plutarque/cesarpierron.htm">
                      <emph>Vie de César</emph>
-                  </ref>). «Il ne [faut]
-jamais parler des sacrifices de la bonne Deesse», est une
+                  </ref>). <quote>Il ne [faut]
+jamais parler des sacrifices de la bonne Deesse</quote>, est une
 expression qui recommande le secret (<bibl source="bibliographie.xml#alexis">Camus</bibl>,
 <emph>L'Alexis</emph>, VI, p.51).</p>
                <p/>
                <p>
 • Nommée treize fois dans la deuxième partie, cette déesse n'est
-pas encore «la Vierge qui enfantera».</p>
+pas encore <quote>la Vierge qui enfantera</quote>.</p>
                <p/>
                <p>
 • L'autel de cette Bonne déesse que chrétiens et <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs>
@@ -976,8 +974,8 @@ sq.).</p>
                <p/>
                <p>
 • Un seul Berger prie explicitement la Bonne Déesse dans son
-temple: <persName ref="personnage_ll.xml#2_lycidas">Lycidas</persName> va y «rendre quelque vœu que sa
-jalousie peut estre luy avoit faict faire» (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#549">II, 8, 549</ref>).
+temple: <persName ref="personnage_ll.xml#2_lycidas">Lycidas</persName> va y <quote>rendre quelque vœu que sa
+jalousie peut estre luy avoit faict faire</quote> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#549">II, 8, 549</ref>).
 Voir Truye<note target="note_2.html#2_truye"/>.</p>
                <p/>
                <p>
@@ -1000,7 +998,7 @@ Déesse païenne
             </note>
             <note xml:id="bonne_deesse_3" n="3" ana="mythologie">
                <label>Bonne Deesse</label>
-               <p>Mentionnée dans:<ref target="#2_bonne_deesse">II</ref>, <ref target="#3_bonne_deesse">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_bonne_deesse">II</ref>, <ref target="#3_bonne_deesse">III</ref></mentioned><p>
 Nommée quinze fois dans la troisième partie, cette authentique
 divinité celte porte un nom générique qu'elle prête au temple
 qu'elle partage avec la déesse <rs type="repertoire" ref="repertoire_uz.xml#3_vesta">Vesta</rs> (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#27_recto">III, 2, 27
@@ -1066,21 +1064,21 @@ gageure<note target="note_3.html#3_gageure"/> (<ref target="../_roman/reference/
             </note>
             <note xml:id="bonser" n="1" ana="actualité">
                <label>Bonser, J.</label>
-               <p>Mentionné dans:<ref target="#bonser">I</ref>
+               <mentioned>Mentionné dans:<ref target="#bonser">I</ref></mentioned><p>
 Jean Bonser. D'après l'<bibl source="bibliographie.xml#inventaire_17">
                      <emph>Inventaire</emph>
                   </bibl>
-des graveurs du XVIIesiècle (I,
+des graveurs du XVIIe siècle (I,
 p.470), cet artiste, originaire de Hollande, aurait séjourné
 à Aix-en-Provence et à Lyon, en 1626 et en 1642.</p>
                <p>
 Il était à Paris autour de 1620 quand il a reproduit le frontispice
 de <emph>L'Astrée</emph>, modifié le cadre et signé
-«Bonser <emph>fecit</emph>» (Voir <ref target="illustrations.xml#sources">Illustrations</ref>).</p>
+<quote>Bonser <emph>fecit</emph></quote> (Voir <ref target="illustrations.xml#sources">Illustrations</ref>).</p>
             </note>
             <note xml:id="bosphore_2" n="2" ana="geographie">
                <label>Bosphore</label>
-               <p>Mentionné dans:<ref target="#2_bosphore">II</ref>
+               <mentioned>Mentionné dans:<ref target="#2_bosphore">II</ref></mentioned><p>
 Détroit entre la mer Noire et la mer de Marmara, lieu de passage
 entre l'Europe et l'Asie.</p>
                <p/>
@@ -1091,10 +1089,10 @@ Bosphore, en <rs type="repertoire" ref="repertoire_aa.xml#2_asie">Asie</rs> (<re
             </note>
             <note xml:id="bourgogne" n="1" ana="geographie">
                <label>Bourgongne</label>
-               <p>Mentionnée dans:<ref target="#bourgogne">I</ref>,
-<ref target="#3_bourgogne">III</ref>, <ref target="#4_bourgogne">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#bourgogne">I</ref>,
+<ref target="#3_bourgogne">III</ref>, <ref target="#4_bourgogne">IV</ref></mentioned><p>
 La Bourgogne fait partie de la <rs type="repertoire" ref="repertoire_gg.xml#gaule">Gaule</rs> lyonnaise. Les rois <rs type="repertoire" ref="#bourguignons">bourguignons</rs> lui donnent son
-nom au Vesiècle. Elle s'étend alors
+nom au Ve siècle. Elle s'étend alors
 considérablement et finira par inclure le <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs> qui
 deviendra l'apanage de Clotilde, nièce de <persName ref="personnage_gg.xml#gondebaud">Gondebaud</persName> et
 épouse de Clovis. Voir <rs type="repertoire" ref="#3_bourguignons">Bourguignons</rs>.</p>
@@ -1111,10 +1109,10 @@ Bourgogne</ref>, et ce <ref target="http://gilles.maillet.free.fr/histoire/carte
             </note>
             <note xml:id="bourgogne_3" n="3" ana="geographie">
                <label>Bourgongne</label>
-               <p>Mentionnée dans:<ref target="#bourgogne">I</ref>, <ref target="#3_bourgogne">III</ref>,
-<ref target="#4_bourgogne">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#bourgogne">I</ref>, <ref target="#3_bourgogne">III</ref>,
+<ref target="#4_bourgogne">IV</ref></mentioned><p>
 Pour apprécier la situation politique du <rs type="repertoire" ref="repertoire_ff.xml#3_forez">Forez</rs> du
-Vesiècle, il faut examiner
+Ve siècle, il faut examiner
 l'histoire des frontières du Royaume des <rs type="repertoire" ref="#3_bourgogne">Bourguignons</rs>.</p>
                <p/>
                <p>
@@ -1139,11 +1137,11 @@ D'Urfé écrit <persName ref="personnage_gg.xml#3_godegesile">
                   </persName> (pour Gondemar).</p>
                <p/>
                <p>
-J.<bibl source="bibliographie.xml#favrod_histoire">Favrod</bibl> étudie «les frontières
-mouvantes» du royaume burgonde en se fondant en partie sur le
-<emph>Cosmographe de Ravenne</emph> et en partie sur «la Notice
-des Gaules» d'Ammien Marcellin. Il affirme qu'au
-Vesiècle, <rs type="repertoire" ref="repertoire_ll.xml#lyon">Lyon</rs> était la
+J.<bibl source="bibliographie.xml#favrod_histoire">Favrod</bibl> étudie <quote>les frontières
+mouvantes</quote> du royaume burgonde en se fondant en partie sur le
+<emph>Cosmographe de Ravenne</emph> et en partie sur <quote>la Notice
+des Gaules</quote> d'Ammien Marcellin. Il affirme qu'au
+Ve siècle, <rs type="repertoire" ref="repertoire_ll.xml#lyon">Lyon</rs> était la
 capitale attestée (p.163), et que <rs type="repertoire" ref="repertoire_ff.xml#feurs">Feurs</rs> appartenait
 à la Bourgogne (p.275). <bibl source="bibliographie.xml#menabrea">Ménabréa</bibl> considère que le centre du
 royaume était plutôt Genève (p.16). La loi Gombette pourtant
@@ -1151,11 +1149,11 @@ est rédigée en 501 à Ambérieu, à une cinquantaine de kilomètres de
 <rs type="repertoire" ref="repertoire_ll.xml#lyon">Lyon</rs>.</p>
                <p/>
                <p>
-• En 406 ou en 407, les <rs type="repertoire" ref="#bourguignons">Bourguignons</rs> envahissent «la Germanique
+• En 406 ou en 407, les <rs type="repertoire" ref="#bourguignons">Bourguignons</rs> envahissent <quote>la Germanique
 supérieure, la Séquanaise, la Viennoise et même la Lyonnaise, dans
-laquelle était compris notre pays», le <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs> (Auguste
+laquelle était compris notre pays</quote>, le <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs> (Auguste
 <bibl source="bibliographie.xml#bernard_h">Bernard</bibl>, I, p.65). <rs type="repertoire" ref="repertoire_ff.xml#feurs">Feurs</rs> et <rs type="repertoire" ref="repertoire_mm.xml#montbrison">Montbrison</rs>
-font bien partie du royaume de Bourgogne au Vesiècle, comme l'indique <bibl source="bibliographie.xml#roget">Roget de
+font bien partie du royaume de Bourgogne au Ve siècle, comme l'indique <bibl source="bibliographie.xml#roget">Roget de
 Belloguet</bibl> qui fonde ses recherches sur les évêchés nommés lors
 du concile d'Épone en 517.</p>
                <p/>
@@ -1171,18 +1169,18 @@ recto</ref>), la Bourgogne est le territoire de <persName ref="personnage_gg.xml
 C'est là que les armées doivent retourner.</p>
                <p/>
                <p>
-• Voir le royaume burgonde au Vesiècle dans ce <ref target="https://upload.wikimedia.org/wikipedia/commons/f/ff/Le_royaume_Burgonde_au_Ve_si%C3%A8cle.png">site</ref> 31 octobre 2020).</p>
+• Voir le royaume burgonde au Ve siècle dans ce <ref target="https://upload.wikimedia.org/wikipedia/commons/f/ff/Le_royaume_Burgonde_au_Ve_si%C3%A8cle.png">site</ref> 31 octobre 2020).</p>
             </note>
             <note xml:id="bourgogne_4" n="4" ana="geographie">
                <label>Bourgongne</label>
-               <p>Mentionnée dans:<ref target="#bourgogne">I</ref>, <ref target="#3_bourgogne">III</ref>,
-<ref target="#4_bourgogne">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#bourgogne">I</ref>, <ref target="#3_bourgogne">III</ref>,
+<ref target="#4_bourgogne">IV</ref></mentioned><p>
                   <bibl source="bibliographie.xml#fauchet">Fauchet</bibl> décrit la situation avant les guerres
 qui ont commencé autour de 501 et qui ont opposé les <rs type="repertoire" ref="#4_bourguignons">Bourguignons</rs> aux <rs type="repertoire" ref="repertoire_ff.xml#4_francs">Francs</rs>:
-«Le Royaume Bourguignon estoit lors entre les mains de deux
+<quote>Le Royaume Bourguignon estoit lors entre les mains de deux
 freres, l'un nommé <persName ref="personnage_gg.xml#4_gondebaud">Gombaut</persName>, et l'autre <persName ref="personnage_gg.xml#4_godegesile">Godegisille</persName>; qui tenoient le territoire
 d'<rs type="repertoire" ref="repertoire_cc.xml#4_champs_authunois">Augstun</rs>, la Franche Comté, Souisse, et le pays qui
-est au long de Saone et <rs type="repertoire" ref="repertoire_qr.xml#4_rhone">Rhosne</rs>, avec la province de Marseille» (p.
+est au long de Saone et <rs type="repertoire" ref="repertoire_qr.xml#4_rhone">Rhosne</rs>, avec la province de Marseille</quote> (p.
 126).</p>
                <p>
 La Bourgogne supérieure correspond à la Franche-Comté. Sa capitale
@@ -1196,12 +1194,12 @@ Habsbourg en 1477 (Voir ce <ref target="http://www.habsburg.net/fr/histoire-et-c
 Auguste <bibl source="bibliographie.xml#bernard_h">Bernard</bibl>, dans son <emph>Histoire du <rs type="repertoire" ref="repertoire_ff.xml#4_forez">Forez</rs>
                   </emph>,
 souligne que le pays doit appartenir à la Bourgogne avant de
-revenir à Clovis, «soit comme douaire de la reine <persName ref="personnage_cc.xml#4_clotilde">Clotilde</persName>,
+revenir à Clovis, <quote>soit comme douaire de la reine <persName ref="personnage_cc.xml#4_clotilde">Clotilde</persName>,
 soit par un arrangement entre Clovis et <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName>,
-lorsqu'ils se réunirent pour marcher contre les <rs type="repertoire" ref="repertoire_uz.xml#4_visigoths">Wisigoths</rs>» (p.66).</p>
+lorsqu'ils se réunirent pour marcher contre les <rs type="repertoire" ref="repertoire_uz.xml#4_visigoths">Wisigoths</rs></quote> (p.66).</p>
                <p>
-Les historiens modernes reconnaissent que c'est «une
-tradition pro-franque» qui a excessivement noirci la
+Les historiens modernes reconnaissent que c'est <quote>une
+tradition pro-franque</quote> qui a excessivement noirci la
 Bourgogne (Malaspina, <bibl source="bibliographie.xml#avit">Avit</bibl>, pp.XVIII, XXI).</p>
                <p/>
                <p>
@@ -1209,19 +1207,19 @@ Bourgogne (Malaspina, <bibl source="bibliographie.xml#avit">Avit</bibl>, pp.XVII
 639</ref>).</p>
                <p/>
                <p>
-• «Prince de Bourgogne», titre qu'<persName ref="personnage_aa.xml#4_ardilan">Ardilan</persName> donne
+• <quote>Prince de Bourgogne</quote>, titre qu'<persName ref="personnage_aa.xml#4_ardilan">Ardilan</persName> donne
 à <persName ref="personnage_ss.xml#4_sigismond">Sigismond</persName> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#832">IV, 4,
 832</ref>).</p>
                <p/>
                <p>
-• Voir la Bourgogne viennoise du IXesiècle dans ce <ref target="https://fr.wikipedia.org/wiki/Comt%C3%A9_de_Vienne#/media/File:Les_pagi_de_la_Bourgogne_Viennoise_au_VIIIe_et_IXe_si%C3%A8cle.gif">site</ref> (10 septembre 2018).</p>
+• Voir la Bourgogne viennoise du IXe siècle dans ce <ref target="https://fr.wikipedia.org/wiki/Comt%C3%A9_de_Vienne#/media/File:Les_pagi_de_la_Bourgogne_Viennoise_au_VIIIe_et_IXe_si%C3%A8cle.gif">site</ref> (10 septembre 2018).</p>
             </note>
             <note xml:id="bourguignons" n="1" ana="histoire">
                <label>Bourguignons</label>
-               <p>Mentionnés dans:<ref target="#bourguignons">I</ref>,
-<ref target="#2_bourguignons">II</ref>, <ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#bourguignons">I</ref>,
+<ref target="#2_bourguignons">II</ref>, <ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref></mentioned><p>
 Peuple d'origine germanique<note target="note_analyses.html#germains"/> qui figure dans la légende des Nibelungen. <persName ref="personnage_aa.xml#aetius">Ætius</persName> a autorisé
-ces «vagabonds» à passer du Rhin au Rhône (<bibl source="bibliographie.xml#menabrea">Ménabréa</bibl>,
+ces <quote>vagabonds</quote> à passer du Rhin au Rhône (<bibl source="bibliographie.xml#menabrea">Ménabréa</bibl>,
 p.16).</p>
                <p/>
                <p>
@@ -1256,13 +1254,13 @@ Bourgogne</ref>.</p>
             </note>
             <note xml:id="bourguignons_2" n="2" ana="histoire">
                <label>Bourguignons</label>
-               <p>Mentionnés dans:<ref target="#bourguignons">I</ref>, <ref target="#2_bourguignons">II</ref>, <ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref>Écrit aussi <emph>Bourguinons</emph>.<note ana="remarque">Honoré d'Urfé choisit de donner aux
+               <mentioned>Mentionnés dans:<ref target="#bourguignons">I</ref>, <ref target="#2_bourguignons">II</ref>, <ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref></mentioned><p>Écrit aussi <emph>Bourguinons</emph>.<note ana="remarque">Honoré d'Urfé choisit de donner aux
 <rs type="repertoire" ref="repertoire_aa.xml#2_auvergnats">Auvergnats</rs>, aux <rs type="repertoire" ref="#2_bourguignons">Bourguignons</rs> et aux <rs type="repertoire" ref="repertoire_ff.xml#2_foreziens">Foréziens</rs>
 leur nom moderne.</note>
                </p>
                <p>
                   <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl> affirme que les Bourguignons ou
-Burgondes «se pensoient yssux des <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs>» (f°60 recto et 84 verso).
+Burgondes <quote>se pensoient yssux des <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs></quote> (f°60 recto et 84 verso).
 <bibl source="bibliographie.xml#pasquier">Pasquier</bibl> (I, p.24) et <bibl source="bibliographie.xml#la_mure">La Mure</bibl> le
 répètent (I, p.233). Les Bourguignons semblent n'avoir pas eu
 besoin de traducteurs (<bibl source="bibliographie.xml#favrod_2">Favrod</bibl>, p.35). Ce sont des <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs> à
@@ -1281,15 +1279,15 @@ p.235).</p>
                   <bibl source="bibliographie.xml#sidoine">Sidoine
 Apollinaire</bibl> (431?- 487?), célèbre évêque
 Arverne de Lyon, méprise les Bourguignons. Il se plaint de vivre
-«au milieu de hordes chevelues, assourdi par les sons de la
+<quote>au milieu de hordes chevelues, assourdi par les sons de la
 langue germaine, obligé d'avoir l'air de louer quelquefois ce que
 chante, bien repus, le Burgonde aux cheveux graissés d'un beurre
-rance» (p.386) et «hautde sept pieds»
+rance</quote> (p.386) et <quote>hautde sept pieds</quote>
 (p.206). Le pied romain ne fait que onze pouces, précise un
 historien moderne (<bibl source="bibliographie.xml#plancher">Plancher</bibl>, I, p.13); les
 Bourguignons mesuraient donc 195cm. Même si <emph>burgund</emph>
 signifie haut, il est probable que le nom du peuple signifie plutôt
-«les hommes qui habitaient des hauteurs» (<bibl source="bibliographie.xml#favrod_2">Favrod</bibl>,
+<quote>les hommes qui habitaient des hauteurs</quote> (<bibl source="bibliographie.xml#favrod_2">Favrod</bibl>,
 p.37).</p>
                <p>
 Voir <rs type="repertoire" ref="#bourgogne">Bourgogne</rs>.</p>
@@ -1298,9 +1296,9 @@ Voir <rs type="repertoire" ref="#bourgogne">Bourgogne</rs>.</p>
 • Les Bourguignons attaquent les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> en
 <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs>
 (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#738">II, 11,
-738</ref>). Quand ils s'en prennent au «pays des <rs type="repertoire" ref="repertoire_ee.xml#2_eduois">Heduois</rs> et
-<rs type="repertoire" ref="repertoire_ss.xml#2_sequanois">Sequanois</rs>», <persName ref="personnage_cc.xml#2_constance">Constance</persName>
-les renvoie «au lieu d'où ils estoient partis»
+738</ref>). Quand ils s'en prennent au <quote>pays des <rs type="repertoire" ref="repertoire_ee.xml#2_eduois">Heduois</rs> et
+<rs type="repertoire" ref="repertoire_ss.xml#2_sequanois">Sequanois</rs></quote>, <persName ref="personnage_cc.xml#2_constance">Constance</persName>
+les renvoie <quote>au lieu d'où ils estoient partis</quote>
 (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#749">II, 11,
 749</ref>).</p>
                <p/>
@@ -1311,8 +1309,8 @@ collusion, il ne se retire pas près d'eux (<ref target="../_roman/reference/21_
 752</ref>).</p>
                <p/>
                <p>
-• À son retour, <persName ref="personnage_aa.xml#2_aetius">Ætius</persName> retient les Bourguignons «dans les
-limites que l'Empereur leur avoit donnees» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#759">II, 11, 759</ref>).
+• À son retour, <persName ref="personnage_aa.xml#2_aetius">Ætius</persName> retient les Bourguignons <quote>dans les
+limites que l'Empereur leur avoit donnees</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#759">II, 11, 759</ref>).
 Il les dissuade (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#824">II, 12, 824</ref>)
 d'accepter l'entente proposée par <persName ref="personnage_aa.xml#2_attila">Attila</persName>
 (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#823">II, 12,
@@ -1335,18 +1333,18 @@ invasions</ref> et la <ref target="cartotheque.xml#carte_gaule">Carte</ref> de l
             </note>
             <note xml:id="bourguignons_3" n="3" ana="histoire">
                <label>Bourguignons</label>
-               <p>Mentionnés dans:<ref target="#bourguignons">I</ref>, <ref target="#2_bourguignons">II</ref>,
-<ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref>
-D'après <bibl source="bibliographie.xml#guichenon">Guichenon</bibl>, historien du XVIIesiècle, à la demande de l'empereur <persName ref="personnage_hh.xml#3_honorius">Honorius</persName>,
+               <mentioned>Mentionnés dans:<ref target="#bourguignons">I</ref>, <ref target="#2_bourguignons">II</ref>,
+<ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref></mentioned><p>
+D'après <bibl source="bibliographie.xml#guichenon">Guichenon</bibl>, historien du XVIIe siècle, à la demande de l'empereur <persName ref="personnage_hh.xml#3_honorius">Honorius</persName>,
 quatre vingt mille Bourguignons, le 31 décembre 408, entrent en
-Gaule. Ils parviennent «en Bresse, Bugey et Savoye en l'an
-411». Autour de 430, le Royaume de Bourgogne a pour limites
+Gaule. Ils parviennent <quote>en Bresse, Bugey et Savoye en l'an
+411</quote>. Autour de 430, le Royaume de Bourgogne a pour limites
 la Méditerranée, le Rhin, les Alpes, la Loire et la Seine (<bibl source="bibliographie.xml#guichenon">Guichenon</bibl>,
-p.13). «Dans cette vaste <emph>Bourgogne</emph> comprenant
+p.13). <quote>Dans cette vaste <emph>Bourgogne</emph> comprenant
 avec la région qui a conservé ce nom, le pays de Langres, la
 Franche-Comté, une partie de la Suisse, la Savoie, le Lyonnais, le
 Forez, le Dauphiné et la Provence septentrionale, les colons
-burgondes étaient inégalement répartis» (<bibl source="bibliographie.xml#longnon">Longnon</bibl>,
+burgondes étaient inégalement répartis</quote> (<bibl source="bibliographie.xml#longnon">Longnon</bibl>,
 p.197). Le royaume compte vingt-cinq évêchés (<bibl source="bibliographie.xml#gascogne">Gascogne</bibl>,
 p.19). Il faut se souvenir que la maison de Savoie se
 reconnaît des liens très étroits avec la famille royale de
@@ -1388,15 +1386,15 @@ recto</ref>).</p>
             </note>
             <note xml:id="bourguignons_4" n="4" ana="geographie">
                <label>Bourguignons</label>
-               <p>Mentionnés dans:<ref target="#bourguignons">I</ref>, <ref target="#2_bourguignons">II</ref>,
-<ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#bourguignons">I</ref>, <ref target="#2_bourguignons">II</ref>,
+<ref target="#3_bourguignons">III</ref>, <ref target="#4_bourguignons">IV</ref></mentioned><p>
 • Ils apparaissent d'abord comme une troupe de guerriers armés
 jusqu'aux dents<note target="note_4.html#4_armes"/> (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#366">IV, 3, 366</ref>).
 Voir Notes en images<note target="note_images.html#armes_bourguignons"/>.</p>
                <p/>
                <p>
 • Comme le prévoit <persName ref="personnage_aa.xml#4_ardilan">Ardilan</persName>, le titre de
-«Reyne des Bourguignons» séduit et aveugle <persName ref="personnage_dd.xml#4_darinee">Darinée</persName>,
+<quote>Reyne des Bourguignons</quote> séduit et aveugle <persName ref="personnage_dd.xml#4_darinee">Darinée</persName>,
 suivante de <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#732">IV, 4,
 732</ref>; <ref target="../_roman/reference/24_4/24_4_livre_4.xml#733">IV, 4,
 733</ref>).</p>
@@ -1413,7 +1411,7 @@ des Bourguignons (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#734">IV
                <p/>
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> rougit lorsque <persName ref="personnage_dd.xml#4_darinee">Darinée</persName> lui
-répète qu'elle pourrait être «Reyne des Bourguignons»,
+répète qu'elle pourrait être <quote>Reyne des Bourguignons</quote>,
 car <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> l'aime (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#740">IV, 4,
 740</ref>).</p>
                <p/>
@@ -1457,11 +1455,11 @@ le roi des Bourguignons (<ref target="../_roman/reference/24_4/24_4_livre_5.xml#
             </note>
             <note xml:id="bouteresse" n="1" ana="geographie">
                <label>Bouteresse</label>
-               <p>Mentionnée dans:<ref target="#bouteresse">I</ref>,
-<ref target="#2_bouteresse">II</ref>, <ref target="#3_bouteresse">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#bouteresse">I</ref>,
+<ref target="#2_bouteresse">II</ref>, <ref target="#3_bouteresse">III</ref></mentioned><p>
 Écrit aussi <emph>Boteresse</emph>. Pont sur le
 <rs type="repertoire" ref="repertoire_ll.xml#lignon">Lignon</rs>
-reconstruit en pierre au XIVesiècle
+reconstruit en pierre au XIVe siècle
 (Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl>, p.189).</p>
                <p/>
                <p>
@@ -1473,8 +1471,8 @@ recto</ref>).</p>
             </note>
             <note xml:id="bouteresse_2" n="2" ana="geographie">
                <label>Bouteresse</label>
-               <p>Mentionnée dans:<ref target="#bouteresse">I</ref>, <ref target="#2_bouteresse">II</ref>, <ref target="#3_bouteresse">III</ref>
-«Ce pont de bois reposait sur trois piles de pierres»
+               <mentioned>Mentionnée dans:<ref target="#bouteresse">I</ref>, <ref target="#2_bouteresse">II</ref>, <ref target="#3_bouteresse">III</ref></mentioned><p>
+<quote>Ce pont de bois reposait sur trois piles de pierres</quote>
 (Hubert Houdoy, dans son ancien site, 30 septembre 2010).</p>
                <p/>
                <p>
@@ -1495,14 +1493,14 @@ pont (<ref target="../_roman/reference/21_2/21_2_livre_7.xml#434">II,
             </note>
             <note xml:id="bouteresse_3" n="3" ana="geographie">
                <label>Bouteresse</label>
-               <p>Mentionnée dans:<ref target="#bouteresse">I</ref>, <ref target="#2_bouteresse">II</ref>,
-<ref target="#3_bouteresse">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#bouteresse">I</ref>, <ref target="#2_bouteresse">II</ref>,
+<ref target="#3_bouteresse">III</ref></mentioned><p>
 Écrit <emph>Boteresse</emph>.</p>
                <p/>
                <p>
 • Lorsque <persName ref="personnage_pp.xml#3_paris">Paris</persName> quitte la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> pour
-aller à la rencontre de <persName ref="personnage_dd.xml#3_diane">Diane</persName>, il passe «sur le pont de la
-Boteresse», puis tourne à droite (<ref target="../_roman/reference/21_3/21_3_livre_1.xml#14_recto">III, 1, 14
+aller à la rencontre de <persName ref="personnage_dd.xml#3_diane">Diane</persName>, il passe <quote>sur le pont de la
+Boteresse</quote>, puis tourne à droite (<ref target="../_roman/reference/21_3/21_3_livre_1.xml#14_recto">III, 1, 14
 recto</ref>).</p>
                <p/>
                <p>
@@ -1512,7 +1510,7 @@ verso</ref>).</p>
                <p/>
                <p>
 • <persName ref="personnage_dd.xml#3_damon_a">Damon</persName> passe par ce pont quand il erre à la
-recherche de «forêts» (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#218_recto">III, 6, 218
+recherche de <quote>forêts</quote> (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#218_recto">III, 6, 218
 recto</ref>).</p>
                <p/>
                <p>
@@ -1522,7 +1520,7 @@ pour se rendre chez <persName ref="personnage_aa.xml#3_adamas">Adamas</persName>
             </note>
             <note xml:id="boiens_2" n="2" ana="histoire">
                <label>Boyens</label>
-               <p>Mentionnés dans:<ref target="#2_boiens">II</ref>, <ref target="#3_boiens">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_boiens">II</ref>, <ref target="#3_boiens">III</ref></mentioned><p>
 Les Boïens sont un peuple celtique originaire de Bohême (<bibl source="bibliographie.xml#kruta">Kruta</bibl>
 p.206) dont le nom signifie les Terribles (<bibl source="bibliographie.xml#kruta">Kruta</bibl>,
 p.70). Ils seraient divisés en cent-douze tribus d'après
@@ -1530,29 +1528,29 @@ p.70). Ils seraient divisés en cent-douze tribus d'après
 (III, 116). Ils se sont installés dans la région de Sancerre
 (<bibl source="bibliographie.xml#kruta">Kruta</bibl>, p.478).</p>
                <p>
-«À la demande des <rs type="repertoire" ref="repertoire_ee.xml#2_eduois">Héduens</rs>, les <rs type="repertoire" ref="#2_boiens">Boïens</rs> reçurent, à cause de leur grande réputation
+<quote>À la demande des <rs type="repertoire" ref="repertoire_ee.xml#2_eduois">Héduens</rs>, les <rs type="repertoire" ref="#2_boiens">Boïens</rs> reçurent, à cause de leur grande réputation
 de valeur, la permission de s'établir sur leur propre
 territoire; on leur donna des terres, et ils partagèrent plus
 tard les droits et la liberté des <rs type="repertoire" ref="repertoire_ee.xml#2_eduois">Héduens</rs>
-eux-mêmes», écrit Jules <bibl source="bibliographie.xml#cesar">César</bibl> (I, 28). Il ajoute plus loin que
-<rs type="repertoire" ref="repertoire_gg.xml#2_gergovie">Gergovie</rs> est la «ville des <rs type="repertoire" ref="#2_boiens">Boïens</rs>» (VII, 9).</p>
+eux-mêmes</quote>, écrit Jules <bibl source="bibliographie.xml#cesar">César</bibl> (I, 28). Il ajoute plus loin que
+<rs type="repertoire" ref="repertoire_gg.xml#2_gergovie">Gergovie</rs> est la <quote>ville des <rs type="repertoire" ref="#2_boiens">Boïens</rs></quote> (VII, 9).</p>
                <p>
-«Avant de s'en prendre aux <rs type="repertoire" ref="repertoire_ee.xml#2_eduois">Hédues</rs>,
+<quote>Avant de s'en prendre aux <rs type="repertoire" ref="repertoire_ee.xml#2_eduois">Hédues</rs>,
 toujours fidèles à l'alliance romaine, il fallait réduire leurs
 clients, les <rs type="repertoire" ref="#2_boiens">Boïes</rs>,
 échappés au désastre infligé par César aux <rs type="repertoire" ref="repertoire_hh.xml#helveces">Helvètes</rs> dix
 ans auparavant et installés par les <rs type="repertoire" ref="repertoire_ee.xml#2_eduois">Hédues</rs>,
 devenus leurs patrons, sur la partie de leur territoire située à
 gauche de la <rs type="repertoire" ref="repertoire_ll.xml#2_loire">Loire</rs>, à Gortona (<emph>Gorgobina</emph> est une cacographie), aujourd'hui
-Sancerre» (<bibl source="bibliographie.xml#lot">Lot</bibl>, p.117). <bibl source="bibliographie.xml#la_mure">La Mure</bibl>
+Sancerre</quote> (<bibl source="bibliographie.xml#lot">Lot</bibl>, p.117). <bibl source="bibliographie.xml#la_mure">La Mure</bibl>
 situe les <rs type="repertoire" ref="#2_boiens">Boïens</rs> dans le
 Bourbonnais, sur l'Allier (I, p.4).</p>
                <p/>
                <p>
 • Ce n'est pas tout à fait ce que dit Honoré d'Urfé (<ref target="../_roman/reference/21_2/21_2_livre_1.xml#35">II, 1, 35</ref>).
 Pour lui, les Boïens établis dans la forêt <rs type="repertoire" ref="repertoire_hh.xml#2_hircinie">Hircinie</rs>
-suivent <persName ref="personnage_ss.xml#2_sigovese">Sigovèse</persName> en <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> (VIesiècle avant J.-C.). Ils suivent ensuite
-<persName ref="personnage_bb.xml#2_belovese">Bellovèse</persName> en <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> (IVesiècle avant J.-C.). Plus tard, chassés par
+suivent <persName ref="personnage_ss.xml#2_sigovese">Sigovèse</persName> en <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> (VIe siècle avant J.-C.). Ils suivent ensuite
+<persName ref="personnage_bb.xml#2_belovese">Bellovèse</persName> en <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> (IVe siècle avant J.-C.). Plus tard, chassés par
 les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs>, ils se divisent: certains
 reviennent en <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs>, d'autres se retirent dans la forêt <rs type="repertoire" ref="repertoire_hh.xml#2_hircinie">Hircinie</rs>.</p>
                <p/>
@@ -1560,16 +1558,16 @@ reviennent en <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs>, 
 • <persName ref="personnage_tt.xml#2_thamire">Thamire</persName> et <persName ref="personnage_cc.xml#2_calidon">Calidon</persName> sont des Boïens, et en sont fiers
 (<ref target="../_roman/reference/21_2/21_2_livre_1.xml#51">II, 1,
 51</ref>). <persName ref="personnage_tt.xml#2_thamire">Thamire</persName> explique aux <rs type="repertoire" ref="repertoire_ff.xml#2_foreziens">Foréziens</rs>
-qu'ils ne sont pas «de ceste contree» bien qu'ils
+qu'ils ne sont pas <quote>de ceste contree</quote> bien qu'ils
 demeurent près de <rs type="repertoire" ref="repertoire_mm.xml#2_montverdun">Montverdun</rs> (<ref target="../_roman/reference/21_2/21_2_livre_1.xml#35">II, 1, 35</ref>).
 <persName ref="personnage_cc.xml#2_calidon">Calidon</persName>, à dix-huit ans, appelé par <persName ref="personnage_tt.xml#2_thamire">Thamire</persName>
 (<ref target="../_roman/reference/21_2/21_2_livre_2.xml#74">II, 2,
-74</ref>), «revint de la Province des Boiens» (<ref target="../_roman/reference/21_2/21_2_livre_1.xml#42">II, 1,
+74</ref>), <quote>revint de la Province des Boiens</quote> (<ref target="../_roman/reference/21_2/21_2_livre_1.xml#42">II, 1,
 42</ref>).</p>
             </note>
             <note xml:id="boiens_3" n="3" ana="histoire">
                <label>Boyens</label>
-               <p>Mentionnés dans:<ref target="#2_boiens">II</ref>, <ref target="#3_boiens">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_boiens">II</ref>, <ref target="#3_boiens">III</ref></mentioned><p>
 Dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName>, on voit le portrait de ce <persName ref="personnage_ss.xml#3_sigovese">Sigovèse</persName> qui
 a fondé le royaume des Boïens en <rs type="repertoire" ref="repertoire_hh.xml#3_hircinie">Hircinie</rs>
 (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III,
@@ -1582,7 +1580,7 @@ de 1619.</note>
             </note>
             <note xml:id="bramovices_2" n="2" ana="histoire">
                <label>Bramovices</label>
-               <p>Mentionnés dans:<ref target="#2_bramovices">II</ref>, <ref target="#3_bramovices">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_bramovices">II</ref>, <ref target="#3_bramovices">III</ref></mentioned><p>
 Ou <emph>Brannovices</emph>? La graphie de ce nom est encore
 variable aujourd'hui. Je retiens la forme que donnent les
 <emph>Commentaires</emph> de <bibl source="bibliographie.xml#cesar">César</bibl>: <emph>Brannovices</emph>. Jules
@@ -1592,8 +1590,8 @@ Brannovices</emph>, et les inclut dans la liste de ceux qui se
 liguent contre lui à Alésia (VII, 75). <bibl source="bibliographie.xml#la_mure">La Mure</bibl> les
 appelle les <emph>Brannociens</emph> (I,
 p.8). V.<bibl source="bibliographie.xml#kruta">Kruta</bibl> les appelle <emph>Brammovices</emph>,
-c'est-à-dire «Vainqueurs du corbeau ou Corbeaux
-Victorieux» (p.72). Ce sont des clients des <rs type="repertoire" ref="repertoire_ee.xml#2_eduois">Éduois</rs>
+c'est-à-dire <quote>Vainqueurs du corbeau ou Corbeaux
+Victorieux</quote> (p.72). Ce sont des clients des <rs type="repertoire" ref="repertoire_ee.xml#2_eduois">Éduois</rs>
 (<bibl source="bibliographie.xml#lot">Lot</bibl>,
 p.37). Ils se trouvaient dans la vallée de l'Yonne ou de la
 Saône (Voir ce <ref target="https://fr.wikipedia.org/wiki/Aulerques_Brannovices#/media/Fichier:Map_of_Eduens_people-fr.svg">site</ref>, 31 octobre 2020).</p>
@@ -1611,11 +1609,11 @@ c'est bien la région des <emph>Brannovices</emph>.</p>
             </note>
             <note xml:id="bramovices_3" n="3" ana="histoire">
                <label>Bramovices</label>
-               <p>Mentionnés dans:<ref target="#2_bramovices">II</ref>, <ref target="#3_bramovices">III</ref>
-«L'ancien nom de toute la vallée de Maurienne était
+               <mentioned>Mentionnés dans:<ref target="#2_bramovices">II</ref>, <ref target="#3_bramovices">III</ref></mentioned><p>
+<quote>L'ancien nom de toute la vallée de Maurienne était
 <emph>Brannovices</emph>; la capitale à présent de ce pays-là
 (qui porte depuis plus de six siècles titre de Comté) est
-S.Jean de Maurienne» (<bibl source="bibliographie.xml#guichenon_savoie">Guichenon</bibl>, I, p.4).</p>
+S.Jean de Maurienne</quote> (<bibl source="bibliographie.xml#guichenon_savoie">Guichenon</bibl>, I, p.4).</p>
                <p/>
                <p>
 • L'un des peuples soumis à <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName>
@@ -1624,7 +1622,7 @@ recto</ref>).</p>
             </note>
             <note xml:id="bresse_2" n="2" ana="geographie">
                <label>Bresse</label>
-               <p>Mentionnée dans:<ref target="#2_bresse">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_bresse">II</ref></mentioned><p>
 Il s'agit sans doute de <emph>Brescia</emph>, en
 <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs>, ville prise en 452 par <persName ref="personnage_aa.xml#2_attila">Attila</persName>
 (<bibl source="bibliographie.xml#bouvier">Bouvier-Ajam</bibl>, p.365).</p>
@@ -1635,7 +1633,7 @@ Il s'agit sans doute de <emph>Brescia</emph>, en
             </note>
             <note xml:id="bretagne_2" n="2" ana="geographie">
                <label>Bretagne</label>
-               <p>Mentionnée dans:<ref target="#2_bretagne">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_bretagne">II</ref></mentioned><p>
 Écrit parfois <emph>Bretaigne</emph>. Il s'agit de <emph>Britannia</emph>, appelée <rs type="repertoire" ref="repertoire_gg.xml#grande_bretagne">Grande-Bretagne</rs> dans la première partie et dans la
 troisième. La Bretagne française est appelée <rs type="repertoire" ref="repertoire_aa.xml#2_armorique">Armorique</rs>.</p>
                <p/>
@@ -1661,18 +1659,18 @@ prendre la Bretagne (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#839
             </note>
             <note xml:id="bretons_2" n="2" ana="histoire">
                <label>Bretons</label>
-               <p>Mentionnés dans:<ref target="#2_bretons">II</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_bretons">II</ref></mentioned><p>
                   <rs type="repertoire" ref="repertoire_cc.xml#2_celtes">Celtes</rs>
 insulaires appelés jadis <emph>Brittons</emph>.
-Jules <bibl source="bibliographie.xml#cesar">César</bibl> écrit: «De tous les peuples
+Jules <bibl source="bibliographie.xml#cesar">César</bibl> écrit: <quote>De tous les peuples
 bretons, les plus civilisés sont, sans contredit, ceux qui habitent
 le pays de Cantium [Kent], région toute maritime et dont les mœurs
-diffèrent peu de celles des <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs>» (V, 14).</p>
+diffèrent peu de celles des <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs></quote> (V, 14).</p>
                <p>
 Les <rs type="repertoire" ref="#2_bretons">Bretons</rs> demandent
 aux <rs type="repertoire" ref="repertoire_ss.xml#2_saxons">Saxons</rs> de les aider à vaincre les <rs type="repertoire" ref="repertoire_pp.xml#2_pictes">Pictes</rs>. Les
 <rs type="repertoire" ref="repertoire_ss.xml#2_saxons">Saxons</rs>
-tuent «la plus part de la noblesse Bretonne» (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>,
+tuent <quote>la plus part de la noblesse Bretonne</quote> (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>,
 f°88 verso)</p>
                <p/>
                <p>
@@ -1684,7 +1682,7 @@ les Bretons envahissent l'<rs type="repertoire" ref="repertoire_aa.xml#2_armoriq
             </note>
             <note xml:id="briot" n="1" ana="actualité">
                <label>Briot, I.</label>
-               <p>Mentionné dans:<ref target="#briot">I</ref>
+               <mentioned>Mentionné dans:<ref target="#briot">I</ref></mentioned><p>
 Isaac Briot (1585- 1670) est un artisan protestant originaire
 de Damblain, en Lorraine. Graveur en taille-douce, il travaille à
 Paris. Il collabore avec Abraham Bosse, et avec Jean Warin pour la
@@ -1695,8 +1693,8 @@ pp.121-122). En 1630, <rs type="repertoire" ref="repertoire_tt.xml#toussaint">Du
 2000 livres<note target="note_analyses.html#livre"/> pour les cent vingt
 gravures des <emph>Fables</emph> d'Ésope traduites
 par Jean Baudoin, soit un peu plus de onze livres<note target="note_analyses.html#livre"/> par planche (<bibl source="bibliographie.xml#martin">Martin</bibl>, p.384). Baudoin, lui,
-reçoit «trois livres<note target="note_analyses.html#jacques"/> et quatre sols pour
-chaque feuille de gros romain» (<bibl source="bibliographie.xml#martin">Martin</bibl>,
+reçoit <quote>trois livres<note target="note_analyses.html#jacques"/> et quatre sols pour
+chaque feuille de gros romain</quote> (<bibl source="bibliographie.xml#martin">Martin</bibl>,
 p.428).</p>
                <p/>
                <p>
@@ -1709,12 +1707,12 @@ sont encore reproduits, après la mort du couple, dans <emph>La Sylvanire</emph>
                <p/>
                <p>
 • Selon le père <bibl source="bibliographie.xml#menestrier_origine">Menestrier</bibl>, <emph>Nicolas</emph> Briot,
-«Tailleur General des monnoyes de France», a inventé un
+<quote>Tailleur General des monnoyes de France</quote>, a inventé un
 instrument ingénieux qu'il a présenté au Conseil des monnaies le 23
 janvier 1617 (p.462).</p>
                <p/>
                <p>
-• On trouvera dans ce <ref target="http://expositions.bnf.fr/bosse/grand/099.htm">site</ref> «L'Espagnol moqué» d'Abraham Bosse
+• On trouvera dans ce <ref target="http://expositions.bnf.fr/bosse/grand/099.htm">site</ref> <quote>L'Espagnol moqué</quote> d'Abraham Bosse
 gravé par Briot (30 septembre 2010).</p>
             </note>
          </div>

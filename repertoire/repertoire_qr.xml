@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -22,38 +23,38 @@
             </note>
             <note xml:id="r" n="2" ana="geographie">
                <label>Ravenne</label>
-               <p>Mentionnée dans:<ref target="#2_ravenne">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_ravenne">II</ref></mentioned><p>
 Cette ville située à 300 km de <rs type="repertoire" ref="#rome">Rome</rs> et entourée de marécages communique avec la
 mer par des canaux. <persName ref="personnage_hh.xml#2_honorius">Honorius</persName>, Empereur d'<rs type="repertoire" ref="repertoire_no.xml#2_occident">Occident</rs>,
 s'y réfugie au moment où <persName ref="personnage_aa.xml#2_alaric">Alaric</persName> envahit <rs type="repertoire" ref="#rome">Rome</rs>, en 401. Il y reste jusqu'à sa mort en
 423.</p>
-               <p/>
+               
                <p>
 • Quand son bateau s'échoue à Ravenne (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#756">II, 11, 756</ref>),
 <persName ref="personnage_aa.xml#2_artabure">Artabure</persName> est fait prisonnier. Son fils attaque la
 ville et le libère (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#814">II, 12,
 814</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_pp.xml#2_placidie">Placidie</persName> arrive à Ravenne (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#756">II, 11, 756</ref>).
 Elle fait arrêter et emprisonner <persName ref="personnage_ik.xml#2_jean">Jean</persName>, ami
 d'<persName ref="personnage_aa.xml#2_aetius">Ætius</persName> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#757">II, 11,
 757</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_uz.xml#2_ursace">Ursace</persName> se rend à Ravenne (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#845">II, 12,
 845</ref>).</p>
             </note>
             <note xml:id="regiaque" n="1" ana="geographie">
                <label>Regiaque</label>
-               <p>Mentionnée dans:<ref target="#regiaque">I</ref>
+               <mentioned>Mentionnée dans:<ref target="#regiaque">I</ref></mentioned><p>
 Écrit aussi <emph>Rigiaque</emph>. Ville proche de
 <rs type="repertoire" ref="repertoire_cc.xml#calais">Calais</rs>
 que je n'ai pas encore réussi à retrouver. Il ne s'agit
 probablement pas d'Arras comme on l'a proposé, le nom antique
 d'Arras étant <emph>Nemetocenna.</emph>
                </p>
-               <p/>
+               
                <p>
 •<persName ref="personnage_mm.xml#melandre">Mélandre</persName> va attendre <persName ref="personnage_ll.xml#lydias">Lydias</persName> dans
 cette ville (<ref target="../_roman/reference/21_1/21_1_livre_12.xml#390_recto">I, 12, 390
@@ -65,14 +66,14 @@ recto et verso</ref>).</p>
             </note>
             <note xml:id="renes" n="1" ana="geographie">
                <label>Renes</label>
-               <p>Mentionnée dans:<ref target="#renes">I</ref>
+               <mentioned>Mentionnée dans:<ref target="#renes">I</ref></mentioned><p>
 Rennes (<emph>Civitas Riedonum</emph>) construit sa première enceinte à
-la fin du IIIesiècle (voir ce
+la fin du IIIe siècle (voir ce
 <ref target="http://www.tourisme-rennes.com/architecture-rennes-histoire.aspx">site</ref>, 5 mai 2105). Dans cette région, les
 <rs type="repertoire" ref="repertoire_cc.xml#celtes">Celtes</rs>
 de l'<rs type="repertoire" ref="repertoire_aa.xml#2_armorique">Armorique</rs> ont longtemps résisté à <persName ref="personnage_cc.xml#cesar">Jules César</persName> (ce
 qu'Astérix répète avec verve).</p>
-               <p/>
+               
                <p>
 •<persName ref="personnage_aa.xml#alcippe">Alcippe</persName>, banni du <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs>, y séjourne
 (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#42_verso">I,
@@ -81,33 +82,33 @@ se serait affranchie des <rs type="repertoire" ref="#romains">Romains</rs> et d�
             </note>
             <note xml:id="reyois_3" n="3" ana="histoire">
                <label>Reyois</label>
-               <p>Mentionnés dans:<ref target="#3_reyois">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#3_reyois">III</ref></mentioned><p>
 Il s'agit des <emph>Reii</emph>. Ils ont vécu dans les Basses-Alpes et
 fondé l'oppidum devenu aujourd'hui Riez (<bibl source="bibliographie.xml#longnon">Longnon</bibl>,
 p.107). Ils sont appelés <emph>Rheti</emph> chez Strabon
 (<bibl source="bibliographie.xml#guichenon">Guichenon</bibl> I, p.16), <emph>Rhétiques</emph>
 chez <bibl source="bibliographie.xml#pline">Pline</bibl> (IV, 2), mais <emph>Rhètes</emph> dans le
 <emph>Dictionnaire historique de la Suisse</emph> (Voir ce <ref target="http://www.hls-dhs-dss.ch/textes/f/F8019.php">site</ref>, 26 octobre 2015).</p>
-               <p/>
+               
                <p>
 • Peuple attaqué par le roi <persName ref="personnage_ee.xml#3_euric">Euric</persName> quand il envahit la <rs type="repertoire" ref="repertoire_pp.xml#3_province_des_romains">province des Romains</rs> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#66_verso">III, 3, 66
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Carte des peuples celtes dans ce <ref target="http://upload.wikimedia.org/wikipedia/commons/c/c2/Gallia_cisalpina.jpg">site</ref> (10 février 2014).</p>
             </note>
             <note xml:id="rhee_3" n="3" ana="mythologie">
                <label>Rhee</label>
-               <p>Mentionnée dans:<ref target="#3_rhee">III</ref>
-Mythologie. N.<bibl source="bibliographie.xml#conti">Conti</bibl> explique que chez Hésiode, «Rhee
-fut fille du Ciel et de la Terre», et dans les hymnes
+               <mentioned>Mentionnée dans:<ref target="#3_rhee">III</ref></mentioned><p>
+Mythologie. N.<bibl source="bibliographie.xml#conti">Conti</bibl> explique que chez Hésiode, <quote>Rhee
+fut fille du Ciel et de la Terre</quote>, et dans les hymnes
 d'Orphée, elle est</p>
                <p>
-«Dame pleine d'honneur, de beauté
+<quote>Dame pleine d'honneur, de beauté
 merveilleuse,</p>
                <p>
 Conforte de <rs type="repertoire" ref="repertoire_ss.xml#3_saturne">Saturne</rs> et
-femme bien heureuse»</p>
+femme bien heureuse</quote></p>
                <p>
 (<emph>
                      <bibl source="bibliographie.xml#conti">Ibid.</bibl>
@@ -117,7 +118,7 @@ Rhéa est aussi la mère de <rs type="repertoire" ref="repertoire_uz.xml#3_vesta
                      <bibl source="bibliographie.xml#conti">Ibid.</bibl>
                   </emph>,
 p.746).</p>
-               <p/>
+               
                <p>
 • Dans sa prière, la <persName ref="personnage_mm.xml#3_maxime_vestale">Maxime</persName> invoque <rs type="repertoire" ref="repertoire_uz.xml#3_vesta">Vesta</rs>, fille de
 Rhéa et de <rs type="repertoire" ref="repertoire_ss.xml#3_saturne">Saturne</rs> (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#30_verso">III, 2, 30
@@ -125,25 +126,25 @@ verso</ref>), et mère de <rs type="repertoire" ref="repertoire_ik.xml#3_jupiter
             </note>
             <note xml:id="rhin" n="1" ana="geographie">
                <label>Rhein</label>
-               <p>Mentionné dans:<ref target="#rhin">I</ref>, <ref target="#2_rhin">II</ref>, <ref target="#3_rhin">III</ref>
+               <mentioned>Mentionné dans:<ref target="#rhin">I</ref>, <ref target="#2_rhin">II</ref>, <ref target="#3_rhin">III</ref></mentioned><p>
 Le Rhin est, comme le <rs type="repertoire" ref="repertoire_dd.xml#danube">Danube</rs>, une frontière lointaine pour les gens du
 <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs>.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#attila">Attila</persName>, roi des <rs type="repertoire" ref="repertoire_hh.xml#huns">Huns</rs>, s'y arrête (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#64_recto">I, 3, 64
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#aetius">Ætius</persName>
 aimerait éloigner <persName ref="personnage_gg.xml#gondioch">Gondioc</persName>, le roi des <rs type="repertoire" ref="repertoire_bb.xml#bourguignons">Bourguignons</rs>, en l'envoyant sur les rives du Rhin
 (<ref target="../_roman/reference/21_1/21_1_livre_8.xml#226_recto">I,
 8, 226 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_mm.xml#merovee">Mérovée</persName> se bat sur les bords de ce fleuve
 (<ref target="../_roman/reference/21_1/21_1_livre_9.xml#291_recto">I,
 9, 291 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#amasis">Amasis</persName>, dame du <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs>, y envoie <persName ref="personnage_cc.xml#cleomir">Cleomir</persName>
 (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#63_verso">I,
@@ -152,35 +153,35 @@ verso</ref>).</p>
             </note>
             <note xml:id="rhin_2" n="2" ana="geographie">
                <label>Rhein</label>
-               <p>Mentionné dans:<ref target="#rhin">I</ref>, <ref target="#2_rhin">II</ref>, <ref target="#3_rhin">III</ref>
+               <mentioned>Mentionné dans:<ref target="#rhin">I</ref>, <ref target="#2_rhin">II</ref>, <ref target="#3_rhin">III</ref></mentioned><p>
 Fleuve qui va des <rs type="repertoire" ref="repertoire_aa.xml#2_alpes">Alpes</rs> à la mer du Nord et qui sépare l'<rs type="repertoire" ref="repertoire_ee.xml#2_empire_romain">Empire
 romain</rs> des Barbares. C'est le principal obstacle que
 rencontrent les <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs> en particulier. Mais <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>
-écrit: «La riviere du <rs type="repertoire" ref="#2_rhin">Rhin</rs> ne donnoit pas grand empeschement aux hommes
-de ces deux nations», <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs> et Germains (f°4 recto).</p>
-               <p/>
+écrit: <quote>La riviere du <rs type="repertoire" ref="#2_rhin">Rhin</rs> ne donnoit pas grand empeschement aux hommes
+de ces deux nations</quote>, <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs> et Germains (f°4 recto).</p>
+               
                <p>
 • Les <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs> passent le <rs type="repertoire" ref="#rhin">Rhin</rs> avec <persName ref="personnage_pp.xml#2_pharamond">Pharamond</persName> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#749">II, 11, 749</ref>).
 Ils sont repoussés par <persName ref="personnage_aa.xml#2_aetius">Ætius</persName> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#749">II, 11, 749</ref>).
 Sous <persName ref="personnage_cc.xml#2_clodion">Clodion</persName>, ils prennent quelques terres
-«autour du Rhin» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#759">II, 11, 759</ref>)
+<quote>autour du Rhin</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#759">II, 11, 759</ref>)
 et franchissent le fleuve (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#762">II, 11,
 762</ref>).</p>
-               <p/>
+               
                <p>
 • Les <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs> restés de l'autre côté du <rs type="repertoire" ref="#rhin">Rhin</rs> sont contraints de se joindre aux
 armées d'<persName ref="personnage_aa.xml#2_attila">Attila</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#805">II, 12, 805</ref>).
-Ils n'ont pas eu «le courage» de passer le fleuve
+Ils n'ont pas eu <quote>le courage</quote> de passer le fleuve
 (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#824">II, 12,
 824</ref>).</p>
-               <p/>
+               
                <p>
 • Voir une carte du <rs type="repertoire" ref="#rhin">Rhin</rs> que
 les <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs> traversent dans ce <ref target="http://a403.idata.over-blog.com/2/43/14/66/TerritoireFranc--2-.jpg">site</ref> (10 mai 2015).</p>
             </note>
             <note xml:id="rhin_3" n="3" ana="geographie">
                <label>Rhein</label>
-               <p>Mentionné dans:<ref target="#rhin">I</ref>, <ref target="#2_rhin">II</ref>, <ref target="#3_rhin">III</ref>
+               <mentioned>Mentionné dans:<ref target="#rhin">I</ref>, <ref target="#2_rhin">II</ref>, <ref target="#3_rhin">III</ref></mentioned><p>
 • La demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> est décorée de portraits de rois des
 <rs type="repertoire" ref="repertoire_gg.xml#3_gaule">Gaules</rs>.
 On y voit le roi des <rs type="repertoire" ref="repertoire_bb.xml#3_bourguignons">Bourguignons</rs>, <persName ref="personnage_aa.xml#3_athanaric">Athanaric</persName>,
@@ -197,7 +198,7 @@ juillet 2015).</p>
             </note>
             <note xml:id="rhin_4" n="4" ana="geographie">
                <label>Rhin</label>
-               <p>Mentionnée dans:<ref target="#4_rhin">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#4_rhin">IV</ref></mentioned><p>
 • Se croyant vainqueurs, <persName ref="personnage_cc.xml#4_chilperic">Chilpéric</persName> et <persName ref="personnage_gg.xml#4_godomar">Godomar</persName>, les
 frères de <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> et <persName ref="personnage_gg.xml#4_godegesile">Godegesile</persName>, renvoient leurs troupes de <rs type="repertoire" ref="repertoire_gg.xml#4_germains">Germains</rs> de
 l'autre côté du Rhin (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#640">IV, 4,
@@ -205,21 +206,21 @@ l'autre côté du Rhin (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#6
             </note>
             <note xml:id="rhone" n="1" ana="geographie">
                <label>Rhosne</label>
-               <p>Mentionné dans:<ref target="#rhone">I</ref>, <ref target="#2_rhone">II</ref>, <ref target="#3_rhone">III</ref>, <ref target="#4_rhone">IV</ref>
-Écrit aussi <emph>Rosne</emph> et <emph>Rhone</emph>. «Petrarque tire le nom du Rhosne du
+               <mentioned>Mentionné dans:<ref target="#rhone">I</ref>, <ref target="#2_rhone">II</ref>, <ref target="#3_rhone">III</ref>, <ref target="#4_rhone">IV</ref></mentioned><p>
+Écrit aussi <emph>Rosne</emph> et <emph>Rhone</emph>. <quote>Petrarque tire le nom du Rhosne du
 mot Latin qui signifie ronger [...] parce qu'il mine et frappe tout
-le long de son Canal» (<bibl source="bibliographie.xml#guichenon_savoie">Guichenon</bibl>, I, p.18). <rs type="repertoire" ref="repertoire_hh.xml#henri">HenriIV</rs>
+le long de son Canal</quote> (<bibl source="bibliographie.xml#guichenon_savoie">Guichenon</bibl>, I, p.18). <rs type="repertoire" ref="repertoire_hh.xml#henri">HenriIV</rs>
 accorde une grande importance à ce fleuve qui sépare la Savoie de
-la France. Le Traité de Lyon, en 1601, garantit que «toute la
+la France. Le Traité de Lyon, en 1601, garantit que <quote>toute la
 rivière du Rhône dès la sortie de Genève, sera du royaume de
-France» (<bibl source="bibliographie.xml#bayrou">Bayrou</bibl>, p. 492).</p>
-               <p/>
+France</quote> (<bibl source="bibliographie.xml#bayrou">Bayrou</bibl>, p. 492).</p>
+               
                <p>
 • Les <rs type="repertoire" ref="repertoire_bb.xml#bourguignons">Bourguignons</rs> sont la nation
-«belliqueuse» qui s'est installée sur les rives du
+<quote>belliqueuse</quote> qui s'est installée sur les rives du
 Rhône (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#42_verso">I, 2, 42
 verso</ref>).</p>
-               <p/>
+               
                <p>
 •<persName ref="personnage_ss.xml#silvandre">Silvandre</persName> (<ref target="../_roman/reference/21_1/21_1_livre_8.xml#228_recto">I, 8, 228
 recto</ref>; <ref target="../_roman/reference/21_1/21_1_livre_8.xml#229_verso">229
@@ -228,22 +229,22 @@ recto et verso</ref>) nomment ce fleuve.</p>
             </note>
             <note xml:id="rhone_2" n="2" ana="geographie">
                <label>Rhosne</label>
-               <p>Mentionné dans:<ref target="#rhone">I</ref>, <ref target="#2_rhone">II</ref>, <ref target="#3_rhone">III</ref>, <ref target="#4_rhone">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#rhone">I</ref>, <ref target="#2_rhone">II</ref>, <ref target="#3_rhone">III</ref>, <ref target="#4_rhone">IV</ref></mentioned><p>
 Écrit <emph>Rosne</emph>. Fleuve long et rapide qui
 se jette dans la Méditerranée. Il a aujourd'hui son propre <ref target="http://fleuverhone.site.voila.fr/">site</ref> (30
 septembre 2010).</p>
-               <p/>
+               
                <p>
 Alors que <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs> et <rs type="repertoire" ref="repertoire_bb.xml#2_bourguignons">Bourguignons</rs> se sont disputés les rives du Rhône
-au Vesiècle, la deuxième partie de
+au Ve siècle, la deuxième partie de
 <emph>L'Astrée</emph> offre une vision sereine du
 fleuve.</p>
-               <p/>
+               
                <p>
-• Pour aller en <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs>, <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> voyage sur le Rhône, «ce grand
-lac qui flotte contre les rochers escarpez» (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#634">II, 10,
+• Pour aller en <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs>, <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> voyage sur le Rhône, <quote>ce grand
+lac qui flotte contre les rochers escarpez</quote> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#634">II, 10,
 634</ref>).</p>
-               <p/>
+               
                <p>
 • Le Rhône forme une île quand il rencontre l'<rs type="repertoire" ref="repertoire_aa.xml#2_arar">Arar</rs> (<ref target="../_roman/reference/21_2/21_2_livre_3.xml#169">II, 3, 169</ref>).
 <persName ref="personnage_cc.xml#2_clorian">Clorian</persName> voit le fleuve du haut de sa fenêtre
@@ -251,21 +252,21 @@ lac qui flotte contre les rochers escarpez» (<ref target="../_roman/reference/2
 171</ref>). Il aperçoit le Rhône et les forêts, plaines et montagnes
 qui l'entourent (<ref target="../_roman/reference/21_2/21_2_livre_3.xml#171">II, 3,
 171</ref>).</p>
-               <p/>
+               
                <p>
 • Les orateurs vaincus doivent être plongés dans le Rhône (<ref target="../_roman/reference/21_2/21_2_livre_9.xml#606">II, 9, 606</ref>).
 Voir <rs type="repertoire" ref="repertoire_aa.xml#2_athenee">Athénée</rs>.</p>
             </note>
             <note xml:id="rhone_3" n="3" ana="geographie">
                <label>Rhosne</label>
-               <p>Mentionné dans:<ref target="#rhone">I</ref>, <ref target="#2_rhone">II</ref>, <ref target="#3_rhone">III</ref>, <ref target="#4_rhone">IV</ref>
-«Le fleuve le plus battu des vents», écrit <bibl source="bibliographie.xml#petrarque_vaucluse">Pétrarque</bibl> dans ses <emph>Lettres du Vaucluse</emph>
+               <mentioned>Mentionné dans:<ref target="#rhone">I</ref>, <ref target="#2_rhone">II</ref>, <ref target="#3_rhone">III</ref>, <ref target="#4_rhone">IV</ref></mentioned><p>
+<quote>Le fleuve le plus battu des vents</quote>, écrit <bibl source="bibliographie.xml#petrarque_vaucluse">Pétrarque</bibl> dans ses <emph>Lettres du Vaucluse</emph>
 (p.19). Dans ses <emph>
                      <bibl source="bibliographie.xml#petrarque_sans_titre">Lettres sans titre</bibl>
                   </emph>, il apostrophe le
-Rhône, fleuve «inextricable et [...] dangereux»
-(p.120), qui «rong[e] tout» (p.31).</p>
-               <p/>
+Rhône, fleuve <quote>inextricable et [...] dangereux</quote>
+(p.120), qui <quote>rong[e] tout</quote> (p.31).</p>
+               
                <p>
 • La demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> est décorée de portraits de rois des
 <rs type="repertoire" ref="repertoire_gg.xml#3_gaule">Gaules</rs>.
@@ -282,27 +283,27 @@ Rhône (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#67_recto">III, 3,
 recto</ref>), dans le <rs type="repertoire" ref="repertoire_uz.xml#3_venaissin">Venaissin</rs> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#69_verso">III, 3, 69
 verso</ref>). <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> lui rend visite. Du haut d'une tour, il
 voit le fleuve avec des hameaux et des îles (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#71_recto">III, 3, 71
-recto</ref>). «Ce grand fleuve» arrose des villes qui
+recto</ref>). <quote>Ce grand fleuve</quote> arrose des villes qui
 semblent ralentir son cours (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#77_verso">III, 3, 77
 verso</ref>). <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> se promène sur les rives du fleuve
 (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#116_verso">III, 3, 116
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • La vision d'<persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> évoque des <rs type="repertoire" ref="repertoire_no.xml#3_nayades">Naïades</rs>
 évoluant dans le sein du Rhône (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#101_verso">III, 3, 101
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_ee.xml#3_euric">Euric</persName>
 se promène sur les rives du Rhône (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#142_recto">III, 4, 142
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> rencontre <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> dans des
 jardins, au confluent du Rhône et de l'<rs type="repertoire" ref="repertoire_aa.xml#3_arar">Arar</rs> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#282_recto">III, 7, 282
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • À cet endroit le Rhône peut être si impétueux qu'il met en danger
 le bateau de <persName ref="personnage_bb.xml#3_bellaris">Bellaris</persName> (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#345_recto">III, 8, 345
@@ -319,12 +320,12 @@ verso</ref>).</p>
             </note>
             <note xml:id="rhone_4" n="4" ana="geographie">
                <label>Rhosne</label>
-               <p>Mentionné dans:<ref target="#rhone">I</ref>, <ref target="#2_rhone">II</ref>, <ref target="#3_rhone">III</ref>, <ref target="#4_rhone">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#rhone">I</ref>, <ref target="#2_rhone">II</ref>, <ref target="#3_rhone">III</ref>, <ref target="#4_rhone">IV</ref></mentioned><p>
 Ce fleuve apparaît dans le manuscrit du premier livre de <emph>La
 Savoisiade<note target="note_analyses.html#savoisiade"/>
                   </emph>:</p>
                <p>
-«Un peu plus bas encor on
+<quote>Un peu plus bas encor on
 voyoit de La Saone</p>
                <p>
 Le cours demi dormant qui s'abouchoit
@@ -346,7 +347,7 @@ Laissant a Leur abort une isle qui se
 plaint</p>
                <p>
 Lors que l'impetueux ses limites
-enfraint»</p>
+enfraint</quote></p>
                <p>
 (<bibl source="bibliographie.xml#melanges_urfe">
                      <emph>Mélanges</emph>
@@ -359,19 +360,19 @@ et fait jeter sa femme dans le fleuve avec une pierre au cou
 modernes.</p>
                <p>
 Le plus ancien pont lyonnais est le Pont de la Guillotière. Il date
-du XIIesiècle et on y a trouvé sept
-inscriptions latines au début du XXesiècle (Voir ce <ref target="http://www.persee.fr/doc/crai_0065-0536_1954_num_98_1_10224">site</ref> et cette <ref target="http://promenade34.free.fr/Villes/Images/Vil069a.jpg">gravure</ref>, 10 janvier 2017).</p>
-               <p/>
+du XIIe siècle et on y a trouvé sept
+inscriptions latines au début du XXe siècle (Voir ce <ref target="http://www.persee.fr/doc/crai_0065-0536_1954_num_98_1_10224">site</ref> et cette <ref target="http://promenade34.free.fr/Villes/Images/Vil069a.jpg">gravure</ref>, 10 janvier 2017).</p>
+               
                <p>
 • Après l'avoir vaincu à <rs type="repertoire" ref="repertoire_uz.xml#4_vienne">Vienne</rs>, <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName>
 fait jeter dans le Rhône <persName ref="personnage_cc.xml#4_chilperic">Chilpéric</persName> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#640">IV, 4,
 640</ref>).</p>
-               <p/>
+               
                <p>
 • Les jardins de l'<rs type="repertoire" ref="repertoire_aa.xml#4_athenee">Athénée</rs> se trouvent au confluent de l'<rs type="repertoire" ref="repertoire_aa.xml#4_arar">Arar</rs> et du Rhône
 (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#649">IV, 4,
 649</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> et ses compagnes sont à la chasse. Après
 le passage du Pont du Rhône, <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName>
@@ -379,40 +380,40 @@ décide d'immobiliser le cheval de la jeune fille (IV, 716).</p>
             </note>
             <note xml:id="rialte_2" n="2" ana="geographie">
                <label>Rialte</label>
-               <p>Mentionnée dans:<ref target="#2_rialte">II</ref>
-                  <emph>Rialto</emph> aujourd'hui. «<rs type="repertoire" ref="repertoire_uz.xml#2_venise">Venise</rs> doit
+               <mentioned>Mentionnée dans:<ref target="#2_rialte">II</ref></mentioned><p>
+                  <emph>Rialto</emph> aujourd'hui. <quote><rs type="repertoire" ref="repertoire_uz.xml#2_venise">Venise</rs> doit
 son nom à ses premiers habitants, les <rs type="repertoire" ref="repertoire_uz.xml#2_venetes">Venètes</rs>,
 auxquels Jules César accorda droit de cité, et qui occupaient un
 groupe d'îles placé à une très-faible distance de la <rs type="repertoire" ref="repertoire_uz.xml#2_venise">Venise</rs>
-actuelle, sur la mer <rs type="repertoire" ref="repertoire_aa.xml#2_adriatique">Adriatique</rs>. Au Vesiècle, tout le Nord de l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> fut en
+actuelle, sur la mer <rs type="repertoire" ref="repertoire_aa.xml#2_adriatique">Adriatique</rs>. Au Ve siècle, tout le Nord de l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> fut en
 proie aux invasions; les habitants des bords de l'Adige, de
 la Brenta, de la Piave, du Tagliamento et de l'Isonzo cherchèrent
 un refuge dans les États de l'<rs type="repertoire" ref="repertoire_aa.xml#2_adriatique">Adriatique</rs>. Ils jetèrent au Rivo Alto, d'où les
 Italiens ont fait Rialto, les premiers fondements de la ville
-nouvelle» (<emph>
-                     <bibl source="bibliographie.xml#larousse">Larousse</bibl> du XIXesiècle</emph>, Article <emph>Venise</emph>).</p>
-               <p/>
+nouvelle</quote> (<emph>
+                     <bibl source="bibliographie.xml#larousse">Larousse</bibl> du XIXe siècle</emph>, Article <emph>Venise</emph>).</p>
+               
                <p>
 • Lorsqu'<persName ref="personnage_aa.xml#2_attila">Attila</persName> envahit l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs>, les
 habitants de <rs type="repertoire" ref="repertoire_pp.xml#2_padoue">Padoue</rs> et les <rs type="repertoire" ref="repertoire_uz.xml#2_venetes">Venètes</rs> se
-réfugient dans un lieu élevé qu'«ils nommerent Rialte,
-voulant dire, comme je pense, rive haute» (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#841">II, 12, 841</ref>),
+réfugient dans un lieu élevé qu'<quote>ils nommerent Rialte,
+voulant dire, comme je pense, rive haute</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#841">II, 12, 841</ref>),
 explique <persName ref="personnage_uz.xml#2_ursace">Ursace</persName>. Les habitants d'<rs type="repertoire" ref="repertoire_aa.xml#2_aquilee">Aquilée</rs> les
 rejoignent (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#841">II, 12,
 841</ref>).</p>
             </note>
             <note xml:id="ribarols_2" n="2" ana="histoire">
                <label>Ribarols</label>
-               <p>Mentionnés dans:<ref target="#2_ribarols">II</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_ribarols">II</ref></mentioned><p>
                   <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl> écrit que les <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs>
-«pour lors, avoient plusieurs noms: aucuns s'apelloient
+<quote>pour lors, avoient plusieurs noms: aucuns s'apelloient
 Saliens, pour-ce qu'ils estoient legers &amp;
 sailloient<note target="note_analyses.html#saillir"/> bien: autres
 Authuariens: autres Ribuariens, ou Ripuariens: qui ont
 donné le nom à la terre que les Ribarols tiennent aujourd'huy pres
-de Liege» (f° 62 recto). On dit aujourd'hui <emph>Francs
+de Liege</quote> (f° 62 recto). On dit aujourd'hui <emph>Francs
 Ripuariens</emph>.</p>
-               <p/>
+               
                <p>
 • Dans <emph>L'Astrée</emph>, Honoré d'Urfé
 distingue les Ribarols des <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs> et des <rs type="repertoire" ref="repertoire_ll.xml#2_luteciens">Lutéciens</rs>.
@@ -423,18 +424,18 @@ d'<persName ref="personnage_aa.xml#2_aetius">Ætius</persName>, et d'autres des 
             </note>
             <note xml:id="romains" n="1" ana="histoire">
                <label>Romains</label>
-               <p>Mentionnés dans:<ref target="#romains">I</ref>,
-<ref target="#2_romains">II</ref>, <ref target="#3_romains">III</ref>, <ref target="#4_romains">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#romains">I</ref>,
+<ref target="#2_romains">II</ref>, <ref target="#3_romains">III</ref>, <ref target="#4_romains">IV</ref></mentioned><p>
 • <persName ref="personnage_gg.xml#galathee">Galathée</persName> explique que les <rs type="repertoire" ref="#romains">Romains</rs> ont conquis les <rs type="repertoire" ref="repertoire_gg.xml#gaule">Gaules</rs> (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#29_verso">I, 2, 29
 verso</ref>), asséché et nommé le <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs>. Elle semble admirer leur action
 bénéfique.</p>
-               <p/>
+               
                <p>
 • En revanche, d'après <persName ref="personnage_cc.xml#celadon">Céladon</persName>, les premiers Bergers sont des <rs type="repertoire" ref="repertoire_ff.xml#2_foreziens">Foréziens</rs>
-qui ont choisi de s'éloigner des méfaits de «l'ambition d'un
-peuple nommé Romain» (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#32_verso">I, 2, 32
+qui ont choisi de s'éloigner des méfaits de <quote>l'ambition d'un
+peuple nommé Romain</quote> (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#32_verso">I, 2, 32
 verso</ref>). Voir <ref target="feux.xml#romains">Pleins feux</ref>.</p>
-               <p/>
+               
                <p>
 • Dans les récits de guerre de la première partie de <emph>L'Astrée</emph>, ce sont les <rs type="repertoire" ref="repertoire_gg.xml#goths">Goths</rs>, les
 <rs type="repertoire" ref="repertoire_no.xml#ostrogoths">Ostrogoths</rs> (<ref target="../_roman/reference/21_1/21_1_livre_6.xml#159_recto">I, 6, 159
@@ -443,16 +444,16 @@ recto</ref>) qui ravagent le <rs type="repertoire" ref="repertoire_ff.xml#forez"
 <rs type="repertoire" ref="repertoire_ff.xml#francs">Francs</rs>
 (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#64_recto">I,
 3, 64 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Les Romaines<note target="note_3.html#3_humeur"/>, elles, sont mentionnées
 par <persName ref="personnage_aa.xml#astree">Astrée</persName>. <persName ref="personnage_cc.xml#celadon">Céladon</persName>, dit-elle, a résisté à leurs
-«admirables beautez» (<ref target="../_roman/reference/21_1/21_1_livre_4.xml#94_verso">I, 4, 94
+<quote>admirables beautez</quote> (<ref target="../_roman/reference/21_1/21_1_livre_4.xml#94_verso">I, 4, 94
 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">La beauté des Italiennes en général est
-fréquemment soulignée par les voyageurs au XVIesiècle -et par <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> dans la
+fréquemment soulignée par les voyageurs au XVIe siècle -et par <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> dans la
 troisième partie
 (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#272_verso">III, 7, 272
 verso</ref>).</note>
@@ -460,12 +461,12 @@ verso</ref>).</note>
             </note>
             <note xml:id="romains_2" n="2" ana="histoire">
                <label>Romains</label>
-               <p>Mentionnés dans:<ref target="#romains">I</ref>, <ref target="#2_romains">II</ref>, <ref target="#3_romains">III</ref>, <ref target="#4_romains">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#romains">I</ref>, <ref target="#2_romains">II</ref>, <ref target="#3_romains">III</ref>, <ref target="#4_romains">IV</ref></mentioned><p>
 En principe, il ne s'agit pas seulement des habitants de <rs type="repertoire" ref="#rome">Rome</rs>, mais de ceux de toute
 l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> ainsi que des peuples auxquels la
 citoyenneté a été accordée. Voir <rs type="repertoire" ref="repertoire_ee.xml#2_empire_romain">Empire
 romain</rs> et <rs type="repertoire" ref="#rome">Rome</rs>.</p>
-               <p/>
+               
                <p>
 • L'adjectif <emph>romain</emph> qualifie l'Empire
 (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#639">II, 10,
@@ -481,67 +482,67 @@ certains individus (<persName ref="personnage_uz.xml#2_ursace">Ursace</persName>
 et une seule province, la <rs type="repertoire" ref="repertoire_cc.xml#2_camargue">Camargue</rs> (<ref target="../_roman/reference/21_2/21_2_livre_3.xml#167">II, 3, 167</ref>).
 Les pays annexés par Jules <persName ref="personnage_cc.xml#cesar">César</persName> et leurs habitants ne sont jamais dits
 romains.</p>
-               <p/>
+               
                <p>
 •La première mention de <emph>romain</emph>
-dans la deuxième partie est curieuse: «Un peuple nommé
-Romain» chasse les <rs type="repertoire" ref="repertoire_bb.xml#2_boiens">Boïens</rs> et les <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs> de
+dans la deuxième partie est curieuse: <quote>Un peuple nommé
+Romain</quote> chasse les <rs type="repertoire" ref="repertoire_bb.xml#2_boiens">Boïens</rs> et les <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs> de
 <persName ref="personnage_bb.xml#2_belovese">Bellovèse</persName> d'une région qui ne s'appelle pas encore
 l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> (<ref target="../_roman/reference/21_2/21_2_livre_1.xml#35">II, 1,
 35</ref>).</p>
-               <p/>
+               
                <p>
 • Ensuite, dans un discours d'<persName ref="personnage_aa.xml#2_adamas">Adamas</persName> au livre 8, les Romains sont
 essentiellement les occupants du <rs type="repertoire" ref="repertoire_ff.xml#2_forez">Forez</rs>: ils ont
-«usurpé» la domination des <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaules</rs>
+<quote>usurpé</quote> la domination des <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaules</rs>
 (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#509">II, 8,
-509</ref>), «s'usurpant avec une extreme Tyrannie, non
-seulement nos biens, mais nos ames aussi» (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#514">II, 8, 514</ref>).
+509</ref>), <quote>s'usurpant avec une extreme Tyrannie, non
+seulement nos biens, mais nos ames aussi</quote> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#514">II, 8, 514</ref>).
 Ils ont renommé les lieux (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#492">II, 8, 492</ref>) et
 les dieux (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#511">II, 8, 511</ref>).
-Ils ont apporté «avec leurs armes leurs dieux»
+Ils ont apporté <quote>avec leurs armes leurs dieux</quote>
 (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#507">II, 8,
 507</ref>). Ils ont mêlé leur liturgie (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#513">II, 8, 513</ref>) et
 leur langue (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#493">II, 8, 493</ref>) à
-celles des <rs type="repertoire" ref="repertoire_ff.xml#2_foreziens">Foréziens</rs>. En somme, il y a «presque
-esgalement du Romain et du <rs type="repertoire" ref="repertoire_cc.xml#2_celtes">Celte</rs>» dans les rites religieux
+celles des <rs type="repertoire" ref="repertoire_ff.xml#2_foreziens">Foréziens</rs>. En somme, il y a <quote>presque
+esgalement du Romain et du <rs type="repertoire" ref="repertoire_cc.xml#2_celtes">Celte</rs></quote> dans les rites religieux
 (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#493">II, 8,
-493</ref>). Malgré tout, les druides résistent: «parmy la
+493</ref>). Malgré tout, les druides résistent: <quote>parmy la
 tyrannie des estrangers, nous avons tousjours conservé quelque
-pureté en nos sacrifices» (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#515">II, 8,
+pureté en nos sacrifices</quote> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#515">II, 8,
 515</ref>).</p>
-               <p/>
+               
                <p>
 • La pensée d'<persName ref="personnage_aa.xml#2_adamas">Adamas</persName> a un écho: <persName ref="personnage_uz.xml#2_ursace">Ursace</persName>,
 chevalier romain, juge que les dieux ont permis les invasions
-barbares pour châtier «l'oudrecuidance de l'Empire
-Romain» et «les vices de la miserable <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs>»
+barbares pour châtier <quote>l'oudrecuidance de l'Empire
+Romain</quote> et <quote>les vices de la miserable <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs></quote>
 (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#640">II, 10,
 640</ref>).</p>
-               <p/>
+               
                <p>
                   <persName ref="personnage_uz.xml#2_ursace">Ursace</persName>
-appelle «un acte digne du nom Romain» (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#865">II, 12, 865</ref>)
-une témérité aveugle: avec une «petite trouppe»,
+appelle <quote>un acte digne du nom Romain</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#865">II, 12, 865</ref>)
+une témérité aveugle: avec une <quote>petite trouppe</quote>,
 il tente d'arrêter les armées de <persName ref="personnage_gg.xml#2_genseric">Genséric</persName>.</p>
-               <p/>
+               
                <p>
 • L'image des Romains se précise dans les livres 11 et 12,
 consacrés à l'histoire de l'Empire. On rencontre alors une seule
-mention de la religion des «anciens Romains» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#761">II, 11, 761</ref>),
+mention de la religion des <quote>anciens Romains</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#761">II, 11, 761</ref>),
 qui, affirme <persName ref="personnage_aa.xml#2_adamas">Adamas</persName>, est différente de celle des <rs type="repertoire" ref="repertoire_ff.xml#2_foreziens">Foréziens</rs>.
-Dans les autres instances, «l'Aigle romaine» (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#830">II, 12, 830</ref>)
+Dans les autres instances, <quote>l'Aigle romaine</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#830">II, 12, 830</ref>)
 est surtout aux prises avec des ennemis nombreux. Les Romains
 tentent de se défendre (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#823">II, 12, 823</ref>).
 Leur armée comprend des peuples de diverses nations (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#825">II, 12,
 825</ref>).</p>
-               <p/>
+               
                <p>
 • Les Romains rusent avec les <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#750">II, 11, 750</ref>)
 qui les chassent d'<rs type="repertoire" ref="repertoire_aa.xml#2_afrique">Afrique</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#760">II, 11, 760</ref>
 et <ref target="../_roman/reference/21_2/21_2_livre_11.xml#761">II,
-11, 761</ref>) sans «esprouver combien pesent les coups des
-soldats Romains» (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#865">II, 12,
+11, 761</ref>) sans <quote>esprouver combien pesent les coups des
+soldats Romains</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#865">II, 12,
 865</ref>).</p>
                <p>
 Les Romains ignorent d'abord les <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#752">II, 11, 752</ref>),
@@ -551,53 +552,53 @@ Les <rs type="repertoire" ref="#2_romains">Romains</rs> ne peuvent
 pas résister aux <rs type="repertoire" ref="repertoire_pp.xml#2_pictes">Pictes</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#759">II, 11,
 759</ref>).</p>
                <p>
-Les Romains sentent les «armes victorieuses» des
+Les Romains sentent les <quote>armes victorieuses</quote> des
 <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs>
 (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#886">II, 12,
 886</ref>).</p>
-               <p/>
+               
                <p>
 • Dans les références à la bataille des <rs type="repertoire" ref="repertoire_cc.xml#2_champs_catalauniques">Champs Catalauniques</rs>, le mot <emph>Romain</emph> est extrêmement rare. Il ne figure pas dans
 le récit de <persName ref="personnage_mm.xml#2_madonthe">Madonthe</persName> (<ref target="../_roman/reference/21_2/21_2_livre_6.xml#328">II, 6, 328</ref>).
 Il apparaît une seule fois pour qualifier <persName ref="personnage_aa.xml#2_aetius">Ætius</persName> dans le
 récit d'<persName ref="personnage_uz.xml#2_ursace">Ursace</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#805">II, 12,
 805</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_pp.xml#2_placidie">Placidie</persName>, sœur d'<persName ref="personnage_hh.xml#2_honorius">Honorius</persName>,
 prononce un discours pathétique pour persuader son époux, le roi
 <rs type="repertoire" ref="repertoire_uz.xml#2_visigoths">Wisigoth</rs>
                   <persName ref="personnage_aa.xml#2_ataulfe">Ataulphe</persName>, de ne pas attaquer <rs type="repertoire" ref="#rome">Rome</rs>. Le nom d'empereur romain lui est
-«odieux» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#740">II, 11, 740</ref>),
+<quote>odieux</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#740">II, 11, 740</ref>),
 mais l'amitié des Romains lui est nécessaire (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#745">II, 11, 745</ref>),
 dit-elle en substance.</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Ce développement
-(que <bibl source="bibliographie.xml#fontanier">Fontanier</bibl> appellerait «expolition»,
+(que <bibl source="bibliographie.xml#fontanier">Fontanier</bibl> appellerait <quote>expolition</quote>,
 p.420) se fonde sur quelques mots de <bibl source="bibliographie.xml#jordanes">Jordanès</bibl> et
 de <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>.
 Pour l'historien goth, <persName ref="personnage_aa.xml#2_ataulfe">Ataulphe</persName> renonce à son projet contre
 <persName ref="personnage_hh.xml#2_honorius">Honorius</persName>
-«en considération de sa parenté avec lui»
+<quote>en considération de sa parenté avec lui</quote>
 (ch.XXXI).
-Pour l'historien français, le roi a «esté tellement adoucy
-par la beauté de» <persName ref="personnage_pp.xml#2_placidie">Placidie</persName> (f°81 verso) qu'il a changé
+Pour l'historien français, le roi a <quote>esté tellement adoucy
+par la beauté de</quote> <persName ref="personnage_pp.xml#2_placidie">Placidie</persName> (f°81 verso) qu'il a changé
 ses plans.</note>
                </p>
             </note>
             <note xml:id="romains_3" n="3" ana="histoire">
                <label>Romains</label>
-               <p>Mentionnés dans:<ref target="#romains">I</ref>, <ref target="#2_romains">II</ref>, <ref target="#3_romains">III</ref>, <ref target="#4_romains">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#romains">I</ref>, <ref target="#2_romains">II</ref>, <ref target="#3_romains">III</ref>, <ref target="#4_romains">IV</ref></mentioned><p>
 Les Romains sont plus complexes dans la troisième partie. Ils sont
 encore des guerriers et des envahisseurs, mais c'est surtout leur
 influence sur la religion et sur la langue qui est soulignée.</p>
-               <p/>
+               
                <p>
 • Parce qu'ils ont soumis la <rs type="repertoire" ref="repertoire_gg.xml#3_gaule">Gaule</rs>, les Romains y ont introduit leurs
 dieux et leur liturgie (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#27_verso">III, 2, 27
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Les Romains ont érigé le temple de <rs type="repertoire" ref="repertoire_bb.xml#3_bonlieu">Bonlieu</rs>
 (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#27_recto">III,
@@ -606,21 +607,21 @@ adorée en même temps que la <rs type="repertoire" ref="repertoire_bb.xml#3_bon
 Déesse</rs> forézienne. Au nom des vestales, la <persName ref="personnage_mm.xml#3_maxime_vestale">Maxime</persName>
 prie pour le peuple et le sénat romain (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#31_recto">III, 2, 31
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • La demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> est décorée de portraits. On y voit les
 empereurs romains de <persName ref="personnage_cc.xml#3_cesar">César</persName> à <persName ref="personnage_uz.xml#3_valentinien">Valentinien</persName> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#59_recto">III, 3, 59
 recto</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">Cette description de peintures est
 ajoutée après l'édition de 1619.</note>
                </p>
                <p>
-• Les Romains appellent les chirurgiens des «mires»
+• Les Romains appellent les chirurgiens des <quote>mires</quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#63_verso">III,
 3, 63 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Il semble qu'ici <emph>romain</emph>
 signifie simplement <emph>ancien</emph>. En effet, <emph>mire</emph> est un
@@ -628,18 +629,18 @@ vieux mot dont l'étymologie n'est pas latine mais arabe d'après
 <bibl source="bibliographie.xml#furetiere">Furetière</bibl>, ou grecque d'après <bibl source="bibliographie.xml#menage">Ménage</bibl>.</note>
                </p>
                <p>
-• <persName ref="personnage_aa.xml#3_adamas">Adamas</persName> signifie «diamant» dans la
+• <persName ref="personnage_aa.xml#3_adamas">Adamas</persName> signifie <quote>diamant</quote> dans la
 langue des Romains (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#504_recto">III, 12,
 504 recto</ref>).</p>
-               <p/>
+               
                <p>
-                  <note ana="remarque">«Adamas, adamantis,
-adamante», signifie <emph>aimant</emph> en latin, écrit <bibl source="bibliographie.xml#menage">Ménage</bibl>. Les
-Latins «nomment constamment» le diamant
+                  <note ana="remarque"><quote>Adamas, adamantis,
+adamante</quote>, signifie <emph>aimant</emph> en latin, écrit <bibl source="bibliographie.xml#menage">Ménage</bibl>. Les
+Latins <quote>nomment constamment</quote> le diamant
 <emph>adamas</emph>.
-«On a dit figurément par allusion à la dureté du diamant,
+<quote>On a dit figurément par allusion à la dureté du diamant,
 piéges d'Adamant, pour signifier des fers qu'il n'est pas possible
-de briser»
+de briser</quote>
 (<bibl source="bibliographie.xml#la_curne">La
 Curne</bibl>, Article <emph>Adamant</emph>)</note>
                </p>
@@ -649,23 +650,23 @@ Curne</bibl>, Article <emph>Adamant</emph>)</note>
 attaque la <rs type="repertoire" ref="repertoire_pp.xml#3_province_des_romains">Province des Romains</rs> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#64_recto">III, 3, 64
 recto</ref>), s'en empare et lui fait perdre son nom (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#108_verso">III, 3, 108
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Les Romains envient son or au pays des <rs type="repertoire" ref="repertoire_ss.xml#3_salasses">Salasses</rs>
 (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#283_verso">III, 7, 283
 verso</ref>), et désirent s'en emparer (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#284_recto">III, 7, 284
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_qr.xml#3_rithimer">Ricimer</persName> est nommé citoyen et patricien romain
 (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#300_verso">III, 7, 300
 verso</ref>).</p>
-               <p/>
+               
                <p>
-• Les Romains adorent <rs type="repertoire" ref="repertoire_mm.xml#3_mercure">Mercure</rs> «porteur de nouvelles»
+• Les Romains adorent <rs type="repertoire" ref="repertoire_mm.xml#3_mercure">Mercure</rs> <quote>porteur de nouvelles</quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#333_verso">III, 8, 333
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Les Romains ont donné leur liturgie à l'<rs type="repertoire" ref="repertoire_aa.xml#3_aquitaine">Aquitaine</rs>
 (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#372_verso">III, 9, 372
@@ -674,7 +675,7 @@ verso</ref>). C'est le cas dans la <rs type="repertoire" ref="repertoire_pp.xml#
 recto</ref>), mais le <rs type="repertoire" ref="repertoire_ff.xml#3_forez">Forez</rs>, malgré ses contacts avec les Romains, a
 conservé la religion de ses aïeux (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_verso">III, 9, 373
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName> a remporté quelques victoires sur les
 Romains (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#507_recto">III, 12,
@@ -683,20 +684,20 @@ Romains (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#507_recto">III,
 battaient avec les vainqueurs (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#508_recto">III, 12,
 508 recto</ref>). Les Romains suscitent des ennemis aux <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs>
 (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#523_verso">III, 12,
-523 verso</ref>). «Ces vaillans et puissans Romains» sont
+523 verso</ref>). <quote>Ces vaillans et puissans Romains</quote> sont
 difficiles à vaincre (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#527_recto">III, 12,
 527 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_gg.xml#3_gillon">Gillon</persName>, gouverneur de <rs type="repertoire" ref="repertoire_ss.xml#3_soissons">Soissons</rs>, a
 préféré le parti des <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs> à celui des Romains (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#535_verso">III, 12,
-535 verso</ref>). «<persName ref="personnage_gg.xml#3_gillon">Gillon</persName> le Romain» va remplacer <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>
+535 verso</ref>). <quote><persName ref="personnage_gg.xml#3_gillon">Gillon</persName> le Romain</quote> va remplacer <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>
 déchu (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#547_recto">III, 12,
 547 recto</ref>).</p>
             </note>
             <note xml:id="romains_4" n="4" ana="geographie">
                <label>Romains</label>
-               <p>Mentionnés dans:<ref target="#romains">I</ref>, <ref target="#2_romains">II</ref>, <ref target="#3_romains">III</ref>, <ref target="#4_romains">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#romains">I</ref>, <ref target="#2_romains">II</ref>, <ref target="#3_romains">III</ref>, <ref target="#4_romains">IV</ref></mentioned><p>
                   <bibl source="bibliographie.xml#la_mure">La
 Mure</bibl> place des temples romains en <rs type="repertoire" ref="repertoire_ff.xml#4_forez">Forez</rs> (I,
 pp.43, 49, 72, 89 etc.), mais non à <rs type="repertoire" ref="repertoire_mm.xml#4_marcilly">Marcilly</rs> (I,
@@ -705,7 +706,7 @@ situe le temple de <rs type="repertoire" ref="repertoire_mm.xml#4_minerve">Miner
 pourtant que <bibl source="bibliographie.xml#la_mure">La Mure</bibl> souligne que l'on a découvert de son
 temps un grand nombre de vestiges romains dans la région (I,
 p.92).</p>
-               <p/>
+               
                <p>
 • Grâce à une question posée par <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>, le
 lecteur apprend que les Romains ont laissé en <rs type="repertoire" ref="repertoire_ff.xml#4_forez">Forez</rs> des
@@ -716,34 +717,34 @@ temples que les bergers ne fréquentent pas, dont un temple de
             </note>
             <note xml:id="rome" n="1" ana="geographie">
                <label>Rome</label>
-               <p>Mentionnée dans:<ref target="#rome">I</ref>, <ref target="#2_rome">II</ref>, <ref target="#3_rome">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#rome">I</ref>, <ref target="#2_rome">II</ref>, <ref target="#3_rome">III</ref></mentioned><p>
                   <rs type="repertoire" ref="repertoire_cc.xml#cimbres">Cimbres</rs>, <rs type="repertoire" ref="repertoire_cc.xml#cimmeriens">Cimmeriens</rs> et <rs type="repertoire" ref="repertoire_cc.xml#celtoscites">Celto-Scythes</rs> avaient l'intention de saccager Rome
 quand <persName ref="personnage_cc.xml#caius_marius">Caïus Marius</persName> les a vaincus (<ref target="../_roman/reference/21_1/21_1_livre_8.xml#243_recto">I, 8, 243
 recto</ref>), raconte <persName ref="personnage_hh.xml#hylas">Hylas</persName>.</p>
             </note>
             <note xml:id="rome_2" n="2" ana="geographie">
                <label>Rome</label>
-               <p>Mentionnée dans:<ref target="#rome">I</ref>, <ref target="#2_rome">II</ref>, <ref target="#3_rome">III</ref>
-«Et Rome, que l'ont peut dire avoir tenu la <rs type="repertoire" ref="repertoire_ff.xml#2_fortune_dieu">Fortune</rs>
+               <mentioned>Mentionnée dans:<ref target="#rome">I</ref>, <ref target="#2_rome">II</ref>, <ref target="#3_rome">III</ref></mentioned><p>
+<quote>Et Rome, que l'ont peut dire avoir tenu la <rs type="repertoire" ref="repertoire_ff.xml#2_fortune_dieu">Fortune</rs>
 mesme sous son Empire, si pour le moins en ce temps là la <rs type="repertoire" ref="repertoire_ff.xml#2_fortune_dieu">Fortune</rs>
 habitoit en la terre cognuë: De qui a elle ses plus beaux
 trophees que de l'espee d'Hannibal, de Pyrrhus, des <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs>,
 &amp; de tant d'autres qu'elle a veu si souvent fumer de son
-sang?» (<bibl source="bibliographie.xml#epistres">Epistres morales</bibl>, II, 2,
+sang?</quote> (<bibl source="bibliographie.xml#epistres">Epistres morales</bibl>, II, 2,
 p.217).</p>
                <p>
-«La cité qui avoit surmonté toutes les autres nations, fut
+<quote>La cité qui avoit surmonté toutes les autres nations, fut
 subjuguée par une nation Barbare, le premier jour d'Avril, l'an de
-nostre salut quatre cents et douze» (<bibl source="bibliographie.xml#bouchet_jean">Bouchet</bibl>, f°32 verso). <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>
+nostre salut quatre cents et douze</quote> (<bibl source="bibliographie.xml#bouchet_jean">Bouchet</bibl>, f°32 verso). <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>
 souligne et renchérit: Après le sac de Rome par <persName ref="personnage_aa.xml#2_alaric">Alaric</persName>, Rome
-n'est plus «estimee eternelle et invincible»
+n'est plus <quote>estimee eternelle et invincible</quote>
 (f°78 verso).</p>
                <p>
 Les premiers sacs de Rome ont eu lieu en 390 av. J.-C. (<persName ref="personnage_bb.xml#2_brennus">Brennus</persName>), en
 410 (<persName ref="personnage_aa.xml#2_alaric">AlaricIer</persName>) et en
 455 (<persName ref="personnage_gg.xml#2_genseric">Genséric</persName>). Tous les trois sont mentionnés dans le
 roman.</p>
-               <p/>
+               
                <p>
 • L'Empereur <persName ref="personnage_hh.xml#2_honorius">Honorius</persName> choisit de résider plutôt à <rs type="repertoire" ref="#2_ravenne">Ravenne</rs> de 401 à 423. <persName ref="personnage_pp.xml#2_placidie">Placidie</persName>, sa
 sœur, l'y retrouve (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#756">II, 11, 756</ref>).
@@ -759,21 +760,21 @@ C'est à Rome que convergent les personnages les plus importants
 C'est aussi à Rome que se fomentent révoltes et luttes intestines
 (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#747">II, 11,
 747</ref>).</p>
-               <p/>
+               
                <p>
-• «Grande cité» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#739">II, 11, 739</ref>)
+• <quote>Grande cité</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#739">II, 11, 739</ref>)
 que visite <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#630">II, 10, 630</ref>),
 Rome n'inspire au Berger ni commentaire lyrique, ni même
 description (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#636">II, 10, 636</ref>).
 La ville, synecdoque de l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> entière, est essentiellement un objet
 de pitié pour les quatre narrateurs de son histoire, <persName ref="personnage_cc.xml#2_celadon">Céladon</persName>,
 <persName ref="personnage_aa.xml#2_adamas">Adamas</persName>, <persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName> et <persName ref="personnage_uz.xml#2_ursace">Ursace</persName>.</p>
-               <p/>
+               
                <p>
-«<rs type="repertoire" ref="#2_rome">Rome</rs> mesme riche
+<quote><rs type="repertoire" ref="#2_rome">Rome</rs> mesme riche
 des despoüilles de toutes sortes de gens, [est] maintenant saccagée
-par toute sorte de gens» (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#639">II, 10, 639</ref>).
-«Tous les peuples de la terre» la prennent pour cible
+par toute sorte de gens</quote> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#639">II, 10, 639</ref>).
+<quote>Tous les peuples de la terre</quote> la prennent pour cible
 (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#738">II, 11,
 738</ref>). Les <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs> et les <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#639">II, 10, 639</ref>),
 <persName ref="personnage_aa.xml#2_alaric">Alaric</persName>
@@ -784,37 +785,37 @@ l'attaquent. Sans l'intercession de <persName ref="personnage_pp.xml#2_placidie"
 les <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs> d'<persName ref="personnage_aa.xml#2_ataulfe">Ataulphe</persName> aussi l'auraient mise en danger
 (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#740">II, 11,
 740</ref>).</p>
-               <p/>
+               
                <p>
-«Ravagée» (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#637">II, 10, 637</ref>),
-«déplorable» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#740">II, 11, 740</ref>),
-«miserable» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#741">II, 11, 741</ref>),
-cette «proie» (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#639">II, 10, 639</ref>)
-subit «outrage» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#743">II, 11, 743</ref>),
-«usurpation et pillage» (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#861">II, 12, 861</ref>).
+<quote>Ravagée</quote> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#637">II, 10, 637</ref>),
+<quote>déplorable</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#740">II, 11, 740</ref>),
+<quote>miserable</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#741">II, 11, 741</ref>),
+cette <quote>proie</quote> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#639">II, 10, 639</ref>)
+subit <quote>outrage</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#743">II, 11, 743</ref>),
+<quote>usurpation et pillage</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#861">II, 12, 861</ref>).
 Rome est prise (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#744">II, 11, 744</ref>)
-et abandonnée «à toute sorte de violence» (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#845">II, 12, 845</ref>).
+et abandonnée <quote>à toute sorte de violence</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#845">II, 12, 845</ref>).
 Le sac de la ville (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#739">II, 11, 739</ref>)
 mène à sa ruine (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#742">II, 11,
 742</ref>).</p>
-               <p/>
+               
                <p>
 • Le sac de <rs type="repertoire" ref="#2_rome">Rome</rs> par
 <persName ref="personnage_aa.xml#2_alaric">AlaricIer</persName> en 410
-est représenté dans une enluminure du XVesiècle dans ce <ref target="http://i27.tinypic.com/2mod06a.jpg">site</ref> (30
+est représenté dans une enluminure du XVe siècle dans ce <ref target="http://i27.tinypic.com/2mod06a.jpg">site</ref> (30
 septembre 2010), et dans un tableau de Ludwig Thiersch
 (1825-1909) dans ce <ref target="http://historyofscience.com/G2I/timeline/images/genseric_sacking_rome.jpg">site</ref> (30 septembre 2010).</p>
             </note>
             <note xml:id="rome_3" n="3" ana="geographie">
                <label>Rome</label>
-               <p>Mentionnée dans:<ref target="#rome">I</ref>, <ref target="#2_rome">II</ref>, <ref target="#3_rome">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#rome">I</ref>, <ref target="#2_rome">II</ref>, <ref target="#3_rome">III</ref></mentioned><p>
 Rome a perdu son importance dans la troisième partie.</p>
-               <p/>
+               
                <p>
 • Les tableaux, chez <persName ref="personnage_aa.xml#3_adamas">Adamas</persName> montrent <persName ref="personnage_bb.xml#3_brennus">Brennus</persName>
 triomphant dans Rome (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">Cette description de peintures est
 ajoutée après l'édition de 1619.</note>
@@ -825,29 +826,29 @@ recto</ref>).</p>
             </note>
             <note xml:id="rothomage" n="1" ana="geographie">
                <label>Rothomage</label>
-               <p>Mentionnée dans:<ref target="#rothomage">I</ref>,
-<ref target="#2_rothomage">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#rothomage">I</ref>,
+<ref target="#2_rothomage">II</ref></mentioned><p>
 Écrit aussi <emph>Rhotomage</emph>, <emph>Rhotomaghe, Rothomague</emph>. Il s'agit de Rouen (Maxime
 <bibl source="bibliographie.xml#gaumei">Gaume</bibl>, p.226).</p>
-               <p/>
+               
                <p>
 • C'est une ville de la <rs type="repertoire" ref="repertoire_no.xml#neustrie">Neustrie</rs> astréenne (<ref target="../_roman/reference/21_1/21_1_livre_12.xml#386_verso">I, 12, 386
 verso</ref>).</p>
             </note>
             <note xml:id="rothomage_2" n="2" ana="geographie">
                <label>Rothomage</label>
-               <p>Mentionnée dans:<ref target="#rothomage">I</ref>, <ref target="#2_rothomage">II</ref>
-«Rotomagos, composé de <emph>Roto</emph>, de
+               <mentioned>Mentionnée dans:<ref target="#rothomage">I</ref>, <ref target="#2_rothomage">II</ref></mentioned><p>
+<quote>Rotomagos, composé de <emph>Roto</emph>, de
 sens inconnu, et de <emph>magus</emph>,
-«champ», dans le sens de «champ de foire»,
+<quote>champ</quote>, dans le sens de <quote>champ de foire</quote>,
 de marché. Par exception, le nom a persisté: c'est
-Rouen» (<bibl source="bibliographie.xml#lot">Lot</bibl>, p.42).</p>
-               <p/>
+Rouen</quote> (<bibl source="bibliographie.xml#lot">Lot</bibl>, p.42).</p>
+               
                <p>
 • Honoré d'Urfé s'amuse. En répétant à sa manière l'histoire de
 <persName ref="personnage_mm.xml#2_melandre">Mélandre</persName>, <persName ref="personnage_ff.xml#2_fleurial">Fleurial</persName> dit: La jeune femme est allée
-dans une ville «dont j'ay oublié le nom pour estre fort
-estrange». C'est <rs type="repertoire" ref="#2_rothomage">Rothomage</rs>, lui explique <persName ref="personnage_ll.xml#2_leonide">Léonide</persName>
+dans une ville <quote>dont j'ay oublié le nom pour estre fort
+estrange</quote>. C'est <rs type="repertoire" ref="#2_rothomage">Rothomage</rs>, lui explique <persName ref="personnage_ll.xml#2_leonide">Léonide</persName>
 (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#666">II, 10,
 666</ref>).</p>
             </note>

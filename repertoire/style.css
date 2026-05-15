@@ -1,0 +1,573 @@
+/* proposta.css */
+
+:root {
+    --bg-main: #f5f1e7;
+    --bg-paper: #fdfbf7;
+    --text-main: #2b2825;
+    --text-muted: #6b625b;
+    --primary-color: #4791cd;
+    --secondary-color: #2b2825;
+    --accent-color: #3b82f6;
+    --accent-hover: #2563eb;
+    --border-color: #e3dec9;
+    --border-radius: 6px;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+    --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.08), 0 2px 4px -1px rgba(0,0,0,0.05);
+    --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.08), 0 4px 6px -2px rgba(0,0,0,0.04);
+    
+    --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-serif: 'Georgia', 'Times New Roman', serif;
+}
+
+body {
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    font-family: var(--font-ui);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: var(--primary-color);
+    color: #ffffff;
+    padding: 2.5rem 1rem;
+    text-align: center;
+    box-shadow: var(--shadow-md);
+    position: relative;
+    z-index: 100;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.25rem;
+    font-weight: 600;
+    letter-spacing: -0.025em;
+    font-family: var(--font-serif);
+}
+
+.button {
+    text-align: center;
+    padding: 2rem 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+button {
+    background-color: #ffffff;
+    border: 1px solid var(--border-color);
+    color: var(--text-main);
+    font-family: var(--font-ui);
+    font-size: 1.05rem;
+    font-weight: 500;
+    padding: 0.75rem 2rem;
+    border-radius: 9999px;
+    cursor: pointer;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: var(--shadow-sm);
+}
+
+button:hover, button.active-mode {
+    background-color: var(--primary-color);
+    color: #ffffff;
+    border-color: var(--primary-color);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+button:active {
+    transform: translateY(0);
+}
+
+/* Sections */
+h2, h3, h4 {
+    color: var(--secondary-color);
+    font-family: var(--font-serif);
+    text-align: center;
+    margin-top: 2rem;
+}
+
+p {
+    font-family: var(--font-serif);
+    font-size: 1.15rem;
+    text-align: justify;
+    margin: 1.5rem 0;
+    line-height: 1.85;
+}
+
+ul {
+    font-family: var(--font-serif);
+    font-size: 1.15rem;
+    line-height: 1.8;
+    margin: 1.5rem 10% 1.5rem 10%;
+}
+
+.page_num {
+    font-size: 0.85rem;
+    float: right;
+    color: var(--text-muted);
+    font-family: var(--font-ui);
+    font-weight: 600;
+    background: var(--border-color);
+    padding: 0.25rem 0.75rem;
+    border-radius: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.stage {
+    font-family: var(--font-serif);
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: 20%;
+    margin-bottom: 1rem;
+}
+
+.verse {
+    font-family: var(--font-serif);
+    margin-left: 15%;
+    border-left: 3px solid var(--accent-color);
+    padding-left: 1.5rem;
+    color: var(--text-main);
+    background: linear-gradient(90deg, rgba(59, 130, 246, 0.05) 0%, rgba(255,255,255,0) 100%);
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+/* Tooltips */
+.variant {
+    position: relative;
+    display: inline-block;
+    border-bottom: 2px dotted var(--accent-color);
+    cursor: help;
+    color: inherit;
+    transition: color 0.2s, border-color 0.2s;
+}
+
+.variant:hover {
+    color: var(--accent-hover);
+    border-bottom-style: solid;
+}
+
+.varp {
+    opacity: 0;
+    visibility: hidden;
+    background-color: var(--primary-color);
+    color: #fff;
+    text-align: center;
+    border-radius: 8px;
+    padding: 0.6rem 1.2rem;
+    font-size: 0.9rem;
+    font-family: var(--font-ui);
+    font-style: normal;
+    white-space: nowrap;
+    font-weight: 500;
+    
+    position: absolute;
+    z-index: 20;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%) translateY(10px);
+    transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.3s;
+    box-shadow: var(--shadow-lg);
+}
+
+.varp::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -6px;
+    border-width: 6px;
+    border-style: solid;
+    border-color: var(--primary-color) transparent transparent transparent;
+}
+
+.variant:hover .varp {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+}
+
+/* Preliminary Mode Styles */
+.mode-preliminaire-container {
+    border-bottom: none !important;
+    cursor: auto !important;
+    color: inherit !important;
+}
+
+.mode-preliminaire-container:hover {
+    color: inherit !important;
+}
+
+.mode-preliminaire {
+    /* Override tooltip styles to act as normal inline text */
+    position: static !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    background-color: transparent !important;
+    color: inherit !important;
+    box-shadow: none !important;
+    transform: none !important;
+    padding: 0 !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+}
+
+.mode-preliminaire::after {
+    display: none !important;
+}
+
+/* Layout */
+body::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+div.edition {
+    width: calc(60% - 3rem);
+    background: var(--bg-paper);
+    padding: 3rem 4rem;
+    margin: 0 1rem 3rem 3rem;
+    float: left;
+    box-sizing: border-box;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-md);
+}
+
+div.apparat {
+    width: calc(35% - 3rem);
+    background: #f1f5f9;
+    padding: 2rem;
+    margin: 0 3rem 3rem 0;
+    float: right;
+    box-sizing: border-box;
+    border-radius: var(--border-radius);
+    box-shadow: inset 0 2px 4px 0 rgba(0, 0, 0, 0.03);
+    border: 1px solid var(--border-color);
+    font-family: var(--font-ui);
+    font-size: 0.95rem;
+    position: sticky;
+    top: 2rem;
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
+    border-left: 4px solid var(--primary-color);
+}
+
+/* Sidebar Navigation */
+.sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    background: #ffffff;
+    border-right: 1px solid var(--border-color);
+    padding: 2rem 1rem;
+    box-sizing: border-box;
+    z-index: 1000;
+    box-shadow: 4px 0 10px rgba(0,0,0,0.05);
+    overflow-y: auto;
+}
+
+.sidebar h3 {
+    text-align: left;
+    font-size: 1.2rem;
+    color: var(--primary-color);
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.75rem 1rem;
+    color: var(--text-main);
+    text-decoration: none;
+    font-size: 0.95rem;
+    border-radius: 6px;
+    margin-bottom: 0.25rem;
+    transition: all 0.2s ease;
+}
+
+.nav-link:hover {
+    background: #f8fafc;
+    color: var(--primary-color);
+    padding-left: 1.5rem;
+}
+
+.nav-link.active {
+    background: var(--primary-color);
+    color: white;
+}
+
+/* Adjust layout for sidebar */
+body {
+    padding-left: 250px;
+}
+
+header {
+    margin-left: -250px; /* Keep header full width? Or aligned? */
+    /* better to keep it relative to the main content */
+    margin-left: 0;
+}
+
+@media (max-width: 1024px) {
+    .sidebar { display: none; }
+    body { padding-left: 0; }
+}
+
+/* Scrollbar for Apparat */
+div.apparat::-webkit-scrollbar {
+    width: 6px;
+}
+div.apparat::-webkit-scrollbar-track {
+    background: transparent;
+}
+div.apparat::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1;
+    border-radius: 10px;
+}
+
+div.apparat table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+div.apparat tr:not(:last-child) td {
+    border-bottom: 1px solid var(--border-color);
+}
+
+div.apparat td {
+    padding: 1rem 0.5rem;
+    line-height: 1.5;
+    vertical-align: top;
+}
+
+div.apparat td:first-child,
+div.apparat td:last-child {
+    /* Make the 1st and 3rd columns sticky to the top of the apparat container */
+    position: sticky;
+    top: 0;
+    background-color: inherit; /* Matches the row/apparat background */
+    z-index: 5;
+}
+
+/* Dynamic backgrounds for apparat based on the clicked link's class */
+div.apparat.theme-glossaire,
+#glossaire {
+    background-color: rgba(190, 63, 249, 0.363); /* Softened version of original purple */
+}
+
+div.apparat.theme-repertoire,
+#repertoire {
+    background-color: rgba(85, 251, 104, 0.363); /* Softened version of original green */
+}
+
+div.apparat.theme-personnage,
+#personnage {
+    background-color: rgba(194, 46, 20, 0.363); /* Softened version of original green */
+}
+
+/* Collapsible */
+.collapsible {
+    background-color: #ffffff;
+    color: var(--text-main);
+    cursor: pointer;
+    padding: 1.25rem 1.75rem;
+    width: 100%;
+    max-width: 800px;
+    margin: 1.5rem auto 0 auto;
+    border: 1px solid var(--border-color);
+    text-align: left;
+    font-size: 1.1rem;
+    font-weight: 500;
+    border-radius: var(--border-radius);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.2s ease;
+    box-shadow: var(--shadow-sm);
+}
+
+.collapsible:hover {
+    background-color: #f8fafc;
+    border-color: #cbd5e1;
+}
+
+.collapsible:after {
+    content: '\002B';
+    font-size: 1.5rem;
+    transition: transform 0.3s ease;
+    color: var(--accent-color);
+}
+
+.collapsible.active {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom: 1px solid transparent;
+}
+
+.collapsible.active:after {
+    transform: rotate(45deg);
+}
+
+.content {
+    padding: 0 1.75rem;
+    max-height: 0;
+    max-width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+    transition: max-height 0.4s ease-out, padding 0.4s ease-out;
+    background-color: #ffffff;
+    border: 1px solid var(--border-color);
+    border-top: none;
+    border-radius: 0 0 var(--border-radius) var(--border-radius);
+    box-sizing: border-box;
+}
+
+.collapsible.active + .content {
+    padding: 1.5rem 1.75rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+/* Glossaire Table styling */
+#glossaire, #repertoire, #personnage {
+    width: 90%;
+    max-width: 1000px;
+    margin: 3rem auto;
+    background: var(--bg-paper);
+    padding: 2.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-md);
+    box-sizing: border-box;
+}
+
+#glossaire table, #repertoire table, #personnage table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin-top: 2rem;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 0 1px var(--border-color);
+}
+
+#glossaire th, #repertoire th, #personnage th {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1.25rem 1rem;
+    text-align: left;
+    font-family: var(--font-ui);
+    font-weight: 500;
+    letter-spacing: 0.025em;
+}
+
+#glossaire td, #repertoire td, #personnage td {
+    padding: 1.25rem 1rem;
+    border-bottom: 1px solid var(--border-color);
+    vertical-align: top;
+    font-family: var(--font-ui);
+    font-size: 1rem;
+}
+
+#glossaire tr:last-child td, #repertoire tr:last-child td, #personnage tr:last-child td {
+    border-bottom: none;
+}
+
+#glossaire tr:hover td, #repertoire tr:hover td, #personnage tr:hover td {
+    background-color: #f8fafc;
+}
+
+a.glossaire, a.repertoire, a.personnage, a[data-url] {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s, border-color 0.2s;
+    border-bottom: 1px solid transparent;
+}
+
+a.glossaire:hover, a.repertoire:hover, a.personnage:hover, a[data-url]:hover {
+    color: var(--accent-hover);
+    border-bottom: 1px solid var(--accent-hover);
+}
+
+/* Lettrine and Images */
+.bandeau {
+    width: 100%;
+    max-width: 510px;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+    box-shadow: var(--shadow-sm);
+    border-radius: 2px;
+}
+
+.lettrine_img {
+    float: left;
+    height: 136px;
+    width: auto;
+    margin: 0.5rem 1rem 0.5rem 0;
+    border-radius: 2px;
+}
+
+.stance_img {
+    height: 78px;
+    width: auto;
+    display: block;
+    margin: 0.25rem 0.6rem 0.2rem 0;
+}
+
+div.stance figure {
+    margin: 0;
+    float: left;
+}
+
+.lettrine {
+    font-size: 2.5rem;
+    float: left;
+    line-height: 1;
+    padding-right: 0.25rem;
+    padding-top: 0.1rem;
+    color: var(--primary-color);
+    font-family: var(--font-serif);
+    font-weight: bold;
+}
+
+/* Fade animation for JS toggling */
+.fade-in {
+    animation: fadeIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+div.stance {
+    text-align: center;
+}
+
+div.stance div[type="strophe"] {
+    display: inline-block;
+    text-align: left;
+}
+
+.remarque {
+    background-color: #fff8dc;
+    border-left: 4px solid orange;
+    padding: 0.8rem;
+    margin: 1rem 0;
+}
+
+.variante {
+    background-color: #eef6ff;
+    border-left: 4px solid steelblue;
+    padding: 0.8rem;
+    margin: 1rem 0;
+}

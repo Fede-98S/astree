@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -18,33 +19,33 @@
          <div>
             <note xml:id="faune_2" n="2" ana="mythologie">
                <label>Faune</label>
-               <p>Mentionné dans:<ref target="#2_faune">II</ref>
-Mythologie. «Dieu fabuleux de l'Antiquité, qui presidoit aux
+               <mentioned>Mentionné dans:<ref target="#2_faune">II</ref></mentioned><p>
+Mythologie. <quote>Dieu fabuleux de l'Antiquité, qui presidoit aux
 forests. Quelques-uns l'ont confondu avec <rs type="repertoire" ref="repertoire_pp.xml#pan">Pan</rs>. Ils ont creu
 aussi qu'il y avoit des Faunes, des <rs type="repertoire" ref="repertoire_ss.xml#2_sylvain">Sylvains</rs>
 &amp; des <rs type="repertoire" ref="repertoire_ee.xml#2_egipans">Aegipans</rs> ou demi-Dieux habitans dans les
-forests» (<bibl source="bibliographie.xml#furetiere">Furetière</bibl>, Article <emph>Sylvain</emph>).</p>
-               <p/>
+forests</quote> (<bibl source="bibliographie.xml#furetiere">Furetière</bibl>, Article <emph>Sylvain</emph>).</p>
+               
                <p>
 • Quand <persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName> trouve la lettre écrite par <persName ref="personnage_cc.xml#2_celadon">Céladon</persName>, il
 se demande si ce n'est pas un faune amoureux qui l'aurait composée
 (<ref target="../_roman/reference/21_2/21_2_livre_3.xml#127">II, 3,
 127</ref>).</p>
-               <p/>
+               
                <p>
-• Dans un sonnet, <persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName> dit que «Hommes, Faunes, ny
-Dieux» ne résisteraient aux charmes de <persName ref="personnage_dd.xml#2_diane">Diane</persName> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#532">II, 8,
+• Dans un sonnet, <persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName> dit que <quote>Hommes, Faunes, ny
+Dieux</quote> ne résisteraient aux charmes de <persName ref="personnage_dd.xml#2_diane">Diane</persName> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#532">II, 8,
 532</ref>).</p>
             </note>
             <note xml:id="fere_3" n="3" ana="geographie">
                <label>Fere</label>
-               <p>Mentionnée dans:<ref target="#3_fere">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#3_fere">III</ref></mentioned><p>
 Fère-en-Tardenois (Aisne). On y trouve un château qui a appartenu
 en 1528 à Anne de Montmorency, parrain et protecteur d'Anne
 d'Urfé<note target="note_analyses.html#anne"/> (Voir le <ref target="http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=RETROUVER&amp;REQ=%28%28IA02001555%29%20%3AREF%20%29">site</ref> de la base Mérimée, 20 avril 2015). Voir
 <bibl source="bibliographie.xml#gaumei">Gaume</bibl>
 pp.224-225, et Itinéraire<note target="note_3.html#3_chemin_itineraire"/>.</p>
-               <p/>
+               
                <p>
 • Pour revenir de la <rs type="repertoire" ref="repertoire_uz.xml#3_ville_des_remois">ville
 des Rémois</rs>, Reims, <persName ref="personnage_aa.xml#3_andrimarte">Andrimarte</persName> doit passer par Fère (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#542_verso">III, 12,
@@ -52,11 +53,11 @@ des Rémois</rs>, Reims, <persName ref="personnage_aa.xml#3_andrimarte">Andrimar
             </note>
             <note xml:id="feurs" n="1" ana="geographie">
                <label>Feurs</label>
-               <p>Mentionné dans:<ref target="#feurs">I</ref>, <ref target="#2_feurs">II</ref>, <ref target="#3_feurs">III</ref>, <ref target="#4_feurs">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#feurs">I</ref>, <ref target="#2_feurs">II</ref>, <ref target="#3_feurs">III</ref>, <ref target="#4_feurs">IV</ref></mentioned><p>
 Écrit aussi <emph>Fleurs</emph> (<ref target="../_roman/reference/21_1/21_1_livre_5.xml#140_verso">I, 5, 140
 verso</ref>). C'est dans cette ville que d'Urfé a été emprisonné en
 février 1595 (<bibl source="bibliographie.xml#reure">Reure</bibl>, p.50).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">L'étymologie de Feurs et du <rs type="repertoire" ref="#forez">Forez</rs> a été ajoutée au texte de
 1607.</note>
@@ -72,7 +73,7 @@ verso</ref>; <ref target="../_roman/reference/21_1/21_1_livre_6.xml#157_recto">I
 recto</ref>) et à son oncle, le druide <persName ref="personnage_aa.xml#adamas">Adamas</persName> (<ref target="../_roman/reference/21_1/21_1_livre_4.xml#83_recto">I, 4, 83
 recto</ref>; <ref target="../_roman/reference/21_1/21_1_livre_8.xml#232_verso">I, 8, 232
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • D'Urfé écrira plus tard que <persName ref="personnage_ll.xml#leonide">Léonide</persName> appartient à la Maison de Feurs
 (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#628">II, 10,
@@ -80,22 +81,22 @@ verso</ref>).</p>
             </note>
             <note xml:id="feurs_2" n="2" ana="geographie">
                <label>Feurs</label>
-               <p>Mentionné dans:<ref target="#feurs">I</ref>, <ref target="#2_feurs">II</ref>, <ref target="#3_feurs">III</ref>, <ref target="#4_feurs">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#feurs">I</ref>, <ref target="#2_feurs">II</ref>, <ref target="#3_feurs">III</ref>, <ref target="#4_feurs">IV</ref></mentioned><p>
 Écrit aussi <emph>Feux</emph> et <emph>Feur</emph>. Il ne faut pas écrire <emph>Feur</emph> explique <bibl source="bibliographie.xml#la_mure">La Mure</bibl>, car la lettre finale de Feurs
-«marque en quelque façon les <rs type="repertoire" ref="repertoire_ss.xml#2_segusiens">Segusiens</rs>
-dont elle étoit initiale» (I, p.69). Cet historien
+<quote>marque en quelque façon les <rs type="repertoire" ref="repertoire_ss.xml#2_segusiens">Segusiens</rs>
+dont elle étoit initiale</quote> (I, p.69). Cet historien
 décrit la ville telle qu'elle est autour de 1674, et telle
-qu'Honoré d'Urfé a pu la voir: Il y a «encor les ruines
+qu'Honoré d'Urfé a pu la voir: Il y a <quote>encor les ruines
 et mazures qui restent de la magnificence de ses anciens edifices,
 &amp; entr'autres d'un ancien Temple des faux Dieux, dans lequel il
 y avoit une table de pierre, sur laquelle estoit une inscription
 des plus anciennes &amp; plus curieuses qui soient en France [...]
-enchassée dans le bastiment de l'Eglise de cette ville» (I,
-p.2). «Le site de Feurs constitue actuellement une
+enchassée dans le bastiment de l'Eglise de cette ville</quote> (I,
+p.2). <quote>Le site de Feurs constitue actuellement une
 référence fondamentale pour la chronologie des matériaux des
-IIe et Iesiècle avant J.-C. en Gaule» (<bibl source="bibliographie.xml#kruta">Kruta</bibl>,
+IIe et Ie siècle avant J.-C. en Gaule</quote> (<bibl source="bibliographie.xml#kruta">Kruta</bibl>,
 p.618).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_ll.xml#2_leonide">Léonide</persName>, qui appartient à la maison de Feurs
 (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#658">II, 10,
@@ -103,16 +104,16 @@ p.618).</p>
 (<ref target="../_roman/reference/21_2/21_2_livre_7.xml#472">II, 7,
 472</ref>; <ref target="../_roman/reference/21_2/21_2_livre_7.xml#482">II, 7,
 482</ref>).</p>
-               <p/>
+               
                <p>
 • De la maison d'<persName ref="personnage_aa.xml#2_adamas">Adamas</persName>, la vue s'étend jusqu'à Feurs (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#628">II, 10,
 628</ref>).</p>
-               <p/>
+               
                <p>
 • Le <rs type="repertoire" ref="repertoire_ll.xml#2_lignon">Lignon</rs> entre dans la <rs type="repertoire" ref="repertoire_ll.xml#2_loire">Loire</rs> à Feurs
 (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#629">II, 10,
 629</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_ss.xml#2_silvie">Silvie</persName> apprend que <persName ref="personnage_pp.xml#2_polemas">Polémas</persName> et
 <persName ref="personnage_cc.xml#2_climanthe">Climanthe</persName> étaient à <rs type="repertoire" ref="#2_feurs">Feurs</rs> quand <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> s'est jeté dans le <rs type="repertoire" ref="repertoire_ll.xml#2_lignon">Lignon</rs>
@@ -121,37 +122,37 @@ p.618).</p>
             </note>
             <note xml:id="feurs_3" n="3" ana="geographie">
                <label>Feurs</label>
-               <p>Mentionné dans:<ref target="#feurs">I</ref>, <ref target="#2_feurs">II</ref>, <ref target="#3_feurs">III</ref>, <ref target="#4_feurs">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#feurs">I</ref>, <ref target="#2_feurs">II</ref>, <ref target="#3_feurs">III</ref>, <ref target="#4_feurs">IV</ref></mentioned><p>
 Feurs est à 6 lieues de Roanne et de Saint-Étienne, et à huit
 lieues de <rs type="repertoire" ref="repertoire_ll.xml#3_lyon">Lyon</rs> (<bibl source="bibliographie.xml#piganiol">Piganiol</bibl>, V, p.457). Ce <ref target="http://forezhistoire.free.fr/album-feurs.xml">site</ref> (21 septembre 2018) montre clairement les
 distances considérables qui séparent les lieux nommés (et souvent
 simplement énumérés) par Honoré d'Urfé. Aujourd'hui, on ne voit pas
 Feurs du château de Goutelas, la maison des Papon<note target="note_analyses.html#papon"/>.</p>
-               <p/>
+               
                <p>
 • Chez <persName ref="personnage_aa.xml#3_adamas">Adamas</persName>, en regardant par la fenêtre, <persName ref="personnage_aa.xml#3_astree">Astrée</persName> indique
 à <persName ref="personnage_aa.xml#3_alexis">Alexis</persName> le cours du <rs type="repertoire" ref="repertoire_ll.xml#3_lignon">Lignon</rs> qui
 doit se jeter dans la <rs type="repertoire" ref="repertoire_ll.xml#3_loire">Loire</rs> sous la ville de Feurs (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#172_recto">III, 5, 172
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#3_damon_a">Damon
 d'Aquitaine</persName> arrive dans les plaines du <rs type="repertoire" ref="#3_forez">Forez</rs> qui s'élargissent du côté de Feurs
 (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#218_verso">III, 6, 218
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • On peut voir Feurs en 1450 dans ce <ref target="http://www.feurs.org/images/stories/decouvrir/ancien-plan-feurs.jpg">site</ref> (10 avril 2015), et un plan du forum de
 Feurs dans le <ref target="http://www.forez-info.com/cpg/displayimage.php?pid=484">site</ref> Forezinfo (12 avril 2015).</p>
             </note>
             <note xml:id="feurs_4" n="4" ana="geographie">
                <label>Feurs</label>
-               <p>Mentionné dans:<ref target="#feurs">I</ref>, <ref target="#2_feurs">II</ref>, <ref target="#3_feurs">III</ref>, <ref target="#4_feurs">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#feurs">I</ref>, <ref target="#2_feurs">II</ref>, <ref target="#3_feurs">III</ref>, <ref target="#4_feurs">IV</ref></mentioned><p>
 • Avec son bâton, le <persName ref="personnage_uz.xml#4_vieux_homme">Vieil homme</persName> montre à <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> que
 deux villes encadrent la plaine de <rs type="repertoire" ref="#4_forez">Forez</rs>, Feurs et <rs type="repertoire" ref="repertoire_mm.xml#4_marcilly">Marcilly</rs>
 (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#911">IV, 4,
 911</ref>).</p>
-               <p/>
+               
                <p>
 • Il lui montre aussi que Feurs est arrosé par la <rs type="repertoire" ref="repertoire_ll.xml#4_loire">Loire</rs>, et que
 le <rs type="repertoire" ref="repertoire_ll.xml#4_lignon">Lignon</rs> se trouve un peu plus bas, à droite
@@ -160,16 +161,16 @@ le <rs type="repertoire" ref="repertoire_ll.xml#4_lignon">Lignon</rs> se trouve 
             </note>
             <note xml:id="firens" n="1" ana="actualité">
                <label>Firens, P.</label>
-               <p>Mentionné dans:<ref target="#firens">I</ref>
+               <mentioned>Mentionné dans:<ref target="#firens">I</ref></mentioned><p>
 Pierre Firens (1597?-1636). D'après l'<bibl source="bibliographie.xml#inventaire_17">
                      <emph>Inventaire</emph>
                   </bibl> des
-graveurs du XVIIesiècle (IV,
+graveurs du XVIIe siècle (IV,
 p.185), cet artiste est venu d'Anvers pour s'établir à Paris
 en 1612. À la demande de <rs type="repertoire" ref="repertoire_tt.xml#toussaint">Toussaint Du Bray</rs> (<bibl source="bibliographie.xml#arbour">Arbour</bibl>,
 p.123), il a dessiné le frontispice de <emph>L'Astrée</emph> (Voir <ref target="illustrations.xml">Illustrations</ref>). Firens avait une boutique
 rue Saint-Jacques. Il a travaillé avec Abraham Bosse.</p>
-               <p/>
+               
                <p>
 • On peut voir un frontispice que Firens et Bosse ont signé
 ensemble dans ce <ref target="http://expositions.bnf.fr/bosse/grand/049.htm">site</ref> (30 septembre 2010), et un portrait de
@@ -178,7 +179,7 @@ estampe signée Firens dans le site de <ref target="http://gallica.bnf.fr/ark:/1
             </note>
             <note xml:id="focenses_3" n="3" ana="histoire">
                <label>Focenses</label>
-               <p>Mentionnés dans:<ref target="repertoire_pp.xml#2_phocenses">II</ref>, <ref target="#3_focenses">III</ref>
+               <mentioned>Mentionnés dans:<ref target="repertoire_pp.xml#2_phocenses">II</ref>, <ref target="#3_focenses">III</ref></mentioned><p>
 Il s'agit des <rs type="repertoire" ref="repertoire_pp.xml#2_phocenses">
                      <emph>Phocenses</emph>
                   </rs> de la deuxième partie de
@@ -186,14 +187,14 @@ Il s'agit des <rs type="repertoire" ref="repertoire_pp.xml#2_phocenses">
 d'Urfé peut vouloir distinguer des peuples qui, d'après un article
 de l'<bibl source="bibliographie.xml#encyclopedie">Encyclopédie de Diderot</bibl>, n'auraient pas
 habité sur les mêmes terres.</p>
-               <p/>
+               
                <p>
 • Adamas explique à Daphnide que les principales villes de la
-<rs type="repertoire" ref="repertoire_pp.xml#3_province_des_romains">Province des Romains</rs>, «sont colonies des
-Focenses peuples <rs type="repertoire" ref="repertoire_gg.xml#3_grecs">Grecs</rs>, et adonnez à la pluralité des Dieux»
+<rs type="repertoire" ref="repertoire_pp.xml#3_province_des_romains">Province des Romains</rs>, <quote>sont colonies des
+Focenses peuples <rs type="repertoire" ref="repertoire_gg.xml#3_grecs">Grecs</rs>, et adonnez à la pluralité des Dieux</quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_recto">III, 9, 373
 recto</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Entre 1610 et 1619, le point de vue du
 romancier sur la Provence change.
@@ -209,19 +210,19 @@ ou le Conseil des <persName ref="personnage_ss.xml#2_six_cents">Six Cents</persN
             </note>
             <note xml:id="fontfort_2" n="2" ana="geographie">
                <label>Fontfort</label>
-               <p>
+               <mentioned>
                   <emph>Mentionnée
-dans</emph>: <ref target="#2_fontfort">II</ref>
+dans</emph>: <ref target="#2_fontfort">II</ref></mentioned><p>
                   <bibl source="bibliographie.xml#la_mure">La
 Mure</bibl> appelle <emph>la font forte</emph> une
-«rare fontaine d'eau minerale» dont les propriétés ont
+<quote>rare fontaine d'eau minerale</quote> dont les propriétés ont
 attiré les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs>. Elle se trouve près de Saint-Galmier (I,
-p.153). «C'est une espece de puits qui a cinq pieds de
+p.153). <quote>C'est une espece de puits qui a cinq pieds de
 diametre, et n'est qu'à vingt pas d'une petite riviere, appellée la
 Coife. L'eau de cette fontaine a un goût vineux, piquant, et [...]
-agréable» (<bibl source="bibliographie.xml#piganiol">Piganiol</bibl>, V, p.271). Elle saoulait
+agréable</quote> (<bibl source="bibliographie.xml#piganiol">Piganiol</bibl>, V, p.271). Elle saoulait
 probablement ceux qui en buvait trop.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_hh.xml#2_hylas">Hylas</persName>
 menace <persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName> du sort des fous produits par la
@@ -230,9 +231,9 @@ Fontfort (<ref target="../_roman/reference/21_2/21_2_livre_9.xml#611">II, 9,
             </note>
             <note xml:id="foreziens" n="1" ana="histoire">
                <label>Foresiens</label>
-               <p>
+               <mentioned>
                   <emph>Mentionnés dans</emph>: <ref target="#foreziens">I</ref>,
-<ref target="#2_foreziens">II</ref>
+<ref target="#2_foreziens">II</ref></mentioned><p>
                   <bibl source="bibliographie.xml#la_mure">La
 Mure</bibl> consacre plusieurs pages de son <emph>Histoire
 Universelle</emph>
@@ -241,7 +242,7 @@ pp. 1, 4, 6, 9). Honoré d'Urfé se montre plus circonspect: il
 ne sépare jamais <emph>Foréziens</emph> et <rs type="repertoire" ref="repertoire_ss.xml#segusiens">
                      <emph>Ségusiens</emph>
                   </rs>.</p>
-               <p/>
+               
                <p>
                   <note ana="variante">
                      <ref target="../_roman/reference/21_1/21_1_livre_2.xml#29_verso">I, 2, 29
@@ -254,13 +255,13 @@ appelées <rs type="repertoire" ref="#forez">Forez</rs>.</note>
             </note>
             <note xml:id="foreziens_2" n="2" ana="histoire">
                <label>Foresiens</label>
-               <p>Mentionnés dans:<ref target="#foreziens">I</ref>, <ref target="#2_foreziens">II</ref>
+               <mentioned>Mentionnés dans:<ref target="#foreziens">I</ref>, <ref target="#2_foreziens">II</ref></mentioned><p>
 Honoré d'Urfé n'usera plus que de <rs type="repertoire" ref="repertoire_ss.xml#3_segusiens">Segusiens</rs>
 dans la suite de son roman. Peut-être considère-t-il
 <emph>Forézien</emph> comme un nom imposé par le colonisateur. <bibl source="bibliographie.xml#la_mure">La Mure</bibl> de
-son côté souligne que <rs type="repertoire" ref="repertoire_ss.xml#3_segusiens">Ségusien</rs> est le nom ancien «tiré d'un
-<emph>Seguse</emph>, qui le premier a rendu habitable ce païs»
-(I, p.10) qui va jusqu'à «Suze en Piemont» (I,
+son côté souligne que <rs type="repertoire" ref="repertoire_ss.xml#3_segusiens">Ségusien</rs> est le nom ancien <quote>tiré d'un
+<emph>Seguse</emph>, qui le premier a rendu habitable ce païs</quote>
+(I, p.10) qui va jusqu'à <quote>Suze en Piemont</quote> (I,
 p.6), alors que <emph>Forézien</emph> est un nom latin tiré de la
 ville de <rs type="repertoire" ref="#feurs">Feurs</rs> (I, 1,
 p.65) que les <rs type="repertoire" ref="repertoire_qr.xml#romains">Romains</rs> traitaient en capitale. Cette distinction
@@ -268,31 +269,31 @@ perd beaucoup de sa validité si on se souvient que les
 <emph>Commentaires</emph> de Jules <bibl source="bibliographie.xml#cesar_baudoin">César</bibl>
 nomment les <emph>Ségusiens</emph>
                </p>
-               <p/>
+               
                <p>
 • Les habitants du <rs type="repertoire" ref="#2_forez">Forez</rs>
-sont appelés «<rs type="repertoire" ref="repertoire_ss.xml#2_segusiens">Segusiens</rs> et Foresiens», explique <persName ref="personnage_cc.xml#2_celadon">Céladon</persName>
+sont appelés <quote><rs type="repertoire" ref="repertoire_ss.xml#2_segusiens">Segusiens</rs> et Foresiens</quote>, explique <persName ref="personnage_cc.xml#2_celadon">Céladon</persName>
 (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#647">II, 10,
-647</ref>). «<rs type="repertoire" ref="repertoire_ss.xml#2_segusiens">Segusien</rs> ou Foresien», dit à son tour
+647</ref>). <quote><rs type="repertoire" ref="repertoire_ss.xml#2_segusiens">Segusien</rs> ou Foresien</quote>, dit à son tour
 <persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#771">II, 12,
 771</ref>).</p>
             </note>
             <note xml:id="forez" n="1" ana="geographie">
                <label>Forez</label>
-               <p>Mentionné dans:<ref target="#forez">I</ref>, <ref target="#2_forez">II</ref>, <ref target="#3_forez">III</ref>, <ref target="#4_forez">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#forez">I</ref>, <ref target="#2_forez">II</ref>, <ref target="#3_forez">III</ref>, <ref target="#4_forez">IV</ref></mentioned><p>
 Écrit aussi <emph>Forests</emph>, <emph>Forestz</emph> et <emph>Foretz</emph>. On
 n'entend pas le <emph>z</emph> final. <bibl source="bibliographie.xml#patru">Patru</bibl>
-explique: «Vilhardoüin p.18. et 19. parlant du
+explique: <quote>Vilhardoüin p.18. et 19. parlant du
 Païs de Forest, dit le <emph>Forois</emph> on a prononcé
-<emph>Forais</emph>, et enfin écrit et prononcé Forests»
+<emph>Forais</emph>, et enfin écrit et prononcé Forests</quote>
 (p.574). Le nom revient dix-neuf fois dans la première partie
 de <emph>L'Astrée</emph>.</p>
                <p>
 Françoise <bibl source="bibliographie.xml#lavocat_arcadies">Lavocat</bibl> remarque que la situation géographique
-de cette région est «exactement l'inverse de celle de
+de cette région est <quote>exactement l'inverse de celle de
 <rs type="repertoire" ref="repertoire_aa.xml#arcadie">l'Arcadie</rs> que <rs type="repertoire" ref="repertoire_ss.xml#sannazar">Sannazar</rs> place
-au sommet d'une montagne» (p.366 note 76).</p>
-               <p/>
+au sommet d'une montagne</quote> (p.366 note 76).</p>
+               
                <p>
 • Dès les premières pages du roman, le <rs type="repertoire" ref="#forez">Forez</rs> et sa géographie jouissent d'une place
 privilégiée (<ref target="../_roman/reference/21_1/21_1_liminaires.xml#autheur_a_bergere">
@@ -302,14 +303,14 @@ privilégiée (<ref target="../_roman/reference/21_1/21_1_liminaires.xml#autheur
 recto</ref>). D'Urfé rappelle la légende qui veut que la plaine du
 <rs type="repertoire" ref="#forez">Forez</rs> ait été un <ref target="photos_forez.xml#lac">lac</ref> (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#28_recto">I, 2, 28
 recto</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Auguste <bibl source="bibliographie.xml#bernard_h">Bernard</bibl>
-écrit: «Cette opinion que <rs type="repertoire" ref="repertoire_mm.xml#montbrison">Montbrison</rs>
+écrit: <quote>Cette opinion que <rs type="repertoire" ref="repertoire_mm.xml#montbrison">Montbrison</rs>
 et toute la plaine du <rs type="repertoire" ref="#forez">Forez</rs>
 étaient couverts des eaux de la <rs type="repertoire" ref="repertoire_ll.xml#loire">Loire</rs> est assez générale, quoique ne pouvant
 s'appuyer sur aucune preuve. Honoré d'Urfé [...] contribu[a] à
-accréditer l'erreur»
+accréditer l'erreur</quote>
 (I, p.150).</note>
                </p>
                <p>
@@ -319,7 +320,7 @@ donné par les <rs type="repertoire" ref="repertoire_qr.xml#romains">Romains</rs
 Segusianorum. (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#29_verso">I, 2, 29
 verso</ref> et <ref target="../_roman/reference/21_1/21_1_livre_2.xml#30_verso">I, 2, 30
 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Forêt et Bergers sont associés dans les
 <emph>Foresteries</emph> de Vauquelin de la Fresnaye (1555).</note>
@@ -333,10 +334,10 @@ origines légendaires du pays.</note>
 • Le Forez de <emph>L'Astrée</emph> n'est pas un
 royaume qui appartient à une reine, mais une contrée gouvernée par
 une Dame. La distinction est importante.</p>
-               <p/>
+               
                <p>
                   <note ana="variante">En 1621, d'Urfé remplace même
-«estat» par «contrée» en parlant du
+<quote>estat</quote> par <quote>contrée</quote> en parlant du
 <rs type="repertoire" ref="#forez">Forez</rs> (<ref target="../_roman/reference/21_1/21_1_livre_11.xml#366_verso">I, 11, 366
 verso</ref>).</note>
                </p>
@@ -356,7 +357,7 @@ FrançoisIer puis à <rs type="repertoire" ref="repertoire_hh.xml#henri">HenriIV
 <persName ref="personnage_gg.xml#galathee">Galathée</persName> juxtapose interventions divines et
 invasion romaine (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#29_verso">I, 2, 29
 verso</ref> sq.).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Mais cette histoire joue un rôle
 essentiel dans la troisième et la quatrième partie. Elle doit
@@ -365,10 +366,10 @@ probablement influencer le dénouement du roman
                </p>
                <p>
 • Le Forez astréen pratique un culte celte et subit les
-bouleversements de la <rs type="repertoire" ref="repertoire_gg.xml#gaule">Gaule</rs> du Vesiècle.
+bouleversements de la <rs type="repertoire" ref="repertoire_gg.xml#gaule">Gaule</rs> du Ve siècle.
 Si la topographie des lieux non pastoraux est d'une grande
 précision, la religion est imaginaire.</p>
-               <p/>
+               
                <p>
 • L'histoire des <rs type="repertoire" ref="repertoire_gg.xml#gaule">Gaules</rs>, c'est-à-dire les guerres entre diverses
 tribus, sert de cadre à l'enlèvement de deux enfants en Forez, le
@@ -377,16 +378,16 @@ d'<rs type="repertoire" ref="repertoire_no.xml#ostrogoths">Ostrogoths</rs> (<ref
 recto</ref>) ou d'envahisseurs anonymes (<ref target="../_roman/reference/21_1/21_1_livre_10.xml#349_verso">I, 10, 349
 verso</ref>), et <persName ref="personnage_ss.xml#silvandre">Silvandre</persName>, victime de <rs type="repertoire" ref="repertoire_bb.xml#bourguignons">Bourguignons</rs> (<ref target="../_roman/reference/21_1/21_1_livre_8.xml#226_verso">I, 8, 226
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • L'histoire des <rs type="repertoire" ref="repertoire_gg.xml#gaule">Gaules</rs> affecte aussi bien les Bergers dits
 parisiens (<persName ref="personnage_tt.xml#tircis">Tircis</persName> et <persName ref="personnage_ll.xml#laonice">Laonice</persName>) que les chevaliers foréziens qui
 partent soutenir <persName ref="personnage_mm.xml#merovee">Mérovée</persName>.</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Deux lacunes, sans aucun doute
 volontaires, prouvent que d'Urfé ne faisait pas de son œuvre un
-roman «nationaliste» comme on l'a prétendu:
+roman <quote>nationaliste</quote> comme on l'a prétendu:
 Vercingétorix et Sainte Blandine, héros de l'<rs type="repertoire" ref="repertoire_aa.xml#auvergne">Auvergne</rs> et de
 <rs type="repertoire" ref="repertoire_ll.xml#lyon">Lyon</rs>, ne
 figurent nulle part.</note>
@@ -401,7 +402,7 @@ Mathevot pour la <bibl source="bibliographie.xml#communaute">Communauté</bibl> 
             </note>
             <note xml:id="forez_2" n="2" ana="geographie">
                <label>Forez</label>
-               <p>Mentionné dans:<ref target="#forez">I</ref>, <ref target="#2_forez">II</ref>, <ref target="#3_forez">III</ref>, <ref target="#4_forez">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#forez">I</ref>, <ref target="#2_forez">II</ref>, <ref target="#3_forez">III</ref>, <ref target="#4_forez">IV</ref></mentioned><p>
 Écrit aussi <emph>Forests</emph>.</p>
                <p>
                   <bibl source="bibliographie.xml#la_mure">La
@@ -411,20 +412,20 @@ n'est pas la racine du nom propre (I, p.61). À l'Ouest du
 Forez s'élèvent les Monts du Soir, et à l'Est les Monts du Matin.
 Ces appellations si poétiques qu'elles semblent fantaisistes n'ont
 pas trouvé place dans <emph>L'Astrée</emph>.</p>
-               <p/>
+               
                <p>
 Du temps des <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs>, dit <bibl source="bibliographie.xml#la_mure">La Mure</bibl>, les habitants du Forez étaient
-«les premiers et les plus considerables des <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs>» (I, p.106). Comme c'était un
+<quote>les premiers et les plus considerables des <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs></quote> (I, p.106). Comme c'était un
 pays de droit écrit et non de droit coutumier (I, p.151),
-«il ne fut pas pris sur les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> de
-vive force, mais receu d'eux par capitulation et par traité»
+<quote>il ne fut pas pris sur les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> de
+vive force, mais receu d'eux par capitulation et par traité</quote>
 (I, p.152). Sans mentionner le gouvernement des <rs type="repertoire" ref="repertoire_uz.xml#2_visigoths">Wisigoths</rs>,
 <bibl source="bibliographie.xml#la_mure">La
-Mure</bibl> affirme que le Forez comprenait à l'origine «le
+Mure</bibl> affirme que le Forez comprenait à l'origine <quote>le
 Lyonnois et le Beaujolois, et tout ce qui est du Viennois et du
-Dauphiné au deçà du <rs type="repertoire" ref="repertoire_qr.xml#2_rhone">Rhône</rs>» (I, p.163). Les <rs type="repertoire" ref="repertoire_bb.xml#2_bourguignons">Bourguignons</rs> s'emparent du Forez (I,
+Dauphiné au deçà du <rs type="repertoire" ref="repertoire_qr.xml#2_rhone">Rhône</rs></quote> (I, p.163). Les <rs type="repertoire" ref="repertoire_bb.xml#2_bourguignons">Bourguignons</rs> s'emparent du Forez (I,
 p.233).</p>
-               <p/>
+               
                <p>
                   <bibl source="bibliographie.xml#la_mure">La
 Mure</bibl> donne l'histoire du Forez médiéval dans un très grand
@@ -437,94 +438,94 @@ fille de LouisIV (I, pp.254-255). En 1532, le Forez
 enfin appartient au roi de France (I, p.59).
 FrançoisIer entre à <rs type="repertoire" ref="repertoire_mm.xml#2_montbrison">Montbrison</rs>
 en 1536 (<bibl source="bibliographie.xml#bernard">Bernard</bibl>, p.9).</p>
-               <p/>
+               
                <p>
-Pierre <bibl source="bibliographie.xml#larousse">Larousse</bibl> précise dans son <emph>Dictionnaire</emph> que le Forez du XVIesiècle a appartenu à Louise de Savoie, la mère
+Pierre <bibl source="bibliographie.xml#larousse">Larousse</bibl> précise dans son <emph>Dictionnaire</emph> que le Forez du XVIe siècle a appartenu à Louise de Savoie, la mère
 de FrançoisIer: Lorsque le
 dernier comte de Forez est mort sans laisser d'héritier, Louise de
-Savoie «se fit adjuger par arrêt du parlement de Paris, la
-souveraineté du duché d'Auvergne et du comté de Forez»
+Savoie <quote>se fit adjuger par arrêt du parlement de Paris, la
+souveraineté du duché d'Auvergne et du comté de Forez</quote>
 (Article <emph>Forez</emph>). L'épouse
 d'HenriIII, Louise de Lorraine, fut aussi douairière du
 <rs type="repertoire" ref="#2_forez">Forez</rs> (<bibl source="bibliographie.xml#keeler">Keeler</bibl>,
 p.31, note 53).</p>
-               <p/>
+               
                <p>
 Le Forez demeure dans l'apanage des reines de France au
-XVIIesiècle. Honoré d'Urfé écrit à
+XVIIe siècle. Honoré d'Urfé écrit à
 Marie de Médicis<note target="note_analyses.html#marie"/> que sa bergère,
-Sylvanire, est «originaire de ce pays de Forests, qui en
-France est particulierement à vostre Majesté» (<bibl source="bibliographie.xml#sylvanire">La
+Sylvanire, est <quote>originaire de ce pays de Forests, qui en
+France est particulierement à vostre Majesté</quote> (<bibl source="bibliographie.xml#sylvanire">La
 Sylvanire</bibl>, p.3).</p>
-               <p/>
+               
                <p>
 •Dans la deuxième partie de <emph>L'Astrée</emph>, le nom du Forez est moins fréquent que
 dans la première. Il est nommé sept fois seulement -dont une
 fois au pluriel (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#492">II, 8, 492</ref>).
 Il n'y a plus de rappels de son système politique.</p>
-               <p/>
+               
                <p>
 • Trois étrangères vêtues en Bergères viennent en Forez (<ref target="../_roman/reference/21_2/21_2_livre_3.xml#164">II, 3, 164</ref>),
 ainsi que deux trios de Bergers des hameaux voisins (<ref target="../_roman/reference/21_2/21_2_livre_1.xml#30">II, 1,
 30</ref>; <ref target="../_roman/reference/21_2/21_2_livre_8.xml#542">II, 8, 542</ref>).
 Ils viennent de la rive droite du <rs type="repertoire" ref="repertoire_ll.xml#2_lignon">Lignon</rs>.</p>
-               <p/>
+               
                <p>
-• La «plaine» du Forez (<ref target="../_roman/reference/21_2/21_2_livre_3.xml#167">II, 3, 167</ref>)
-est appelée un «petit pays», par <persName ref="personnage_ff.xml#2_florice">Florice</persName>, dame
+• La <quote>plaine</quote> du Forez (<ref target="../_roman/reference/21_2/21_2_livre_3.xml#167">II, 3, 167</ref>)
+est appelée un <quote>petit pays</quote>, par <persName ref="personnage_ff.xml#2_florice">Florice</persName>, dame
 de <rs type="repertoire" ref="repertoire_ll.xml#2_lyon">Lyon</rs>
 (<ref target="../_roman/reference/21_2/21_2_livre_4.xml#185">II, 4,
 185</ref>).</p>
-               <p/>
+               
                <p>
 • Diverses cartes du Forez se trouvent dans le <ref target="http://forezhistoire.free.fr/forez.xml">site</ref>
 Forez histoire (12 février 2016).</p>
             </note>
             <note xml:id="forez_3" n="3" ana="geographie">
                <label>Forez</label>
-               <p>Mentionné dans:<ref target="#forez">I</ref>, <ref target="#2_forez">II</ref>, <ref target="#3_forez">III</ref>, <ref target="#4_forez">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#forez">I</ref>, <ref target="#2_forez">II</ref>, <ref target="#3_forez">III</ref>, <ref target="#4_forez">IV</ref></mentioned><p>
 Écrit <emph>Forest</emph> ou <emph>Forests</emph>.</p>
                <p>
 Auguste <bibl source="bibliographie.xml#bernard_h">Bernard</bibl> rappelle que les historiens trouvent
-«difficile d'assigner précisément les limites» du Forez
+<quote>difficile d'assigner précisément les limites</quote> du Forez
 par rapport au Lyonnais (I, p.1). Pour indiquer l'étendue de
 la région, le critique donne ces informations:</p>
                <p>
-1) Il cite une remarque de <bibl source="bibliographie.xml#pline">Pline</bibl> (IV, 18): «Les <rs type="repertoire" ref="repertoire_ss.xml#segusiens">Ségusiens</rs>
-peuple libre dans la terre desquels est la colonie de <rs type="repertoire" ref="repertoire_ll.xml#lyon">Lyon</rs>» (I,
+1) Il cite une remarque de <bibl source="bibliographie.xml#pline">Pline</bibl> (IV, 18): <quote>Les <rs type="repertoire" ref="repertoire_ss.xml#segusiens">Ségusiens</rs>
+peuple libre dans la terre desquels est la colonie de <rs type="repertoire" ref="repertoire_ll.xml#lyon">Lyon</rs></quote> (I,
 p.4).</p>
                <p>
 2) <bibl source="bibliographie.xml#bernard_h">Bernard</bibl> affirme ailleurs qu'en 406 ou en 407,
-les <rs type="repertoire" ref="repertoire_bb.xml#bourguignons">Bourguignons</rs> envahissent «la Germanique
+les <rs type="repertoire" ref="repertoire_bb.xml#bourguignons">Bourguignons</rs> envahissent <quote>la Germanique
 supérieure, la Séquanaise, la Viennoise et même la Lyonnaise, dans
-laquelle était compris notre pays» (I, p.65). Voir
+laquelle était compris notre pays</quote> (I, p.65). Voir
 Estendue<note target="note_3.html#3_estendue"/>.</p>
-               <p/>
+               
                <p>
 Auguste <bibl source="bibliographie.xml#bernard_h">Bernard</bibl> explique que le Forez appartient aux
-<rs type="repertoire" ref="#francs">Francs</rs> au Vesiècle: «Quelques historiens
+<rs type="repertoire" ref="#francs">Francs</rs> au Ve siècle: <quote>Quelques historiens
 supposent qu'il avait été séparé avant du royaume de <rs type="repertoire" ref="repertoire_bb.xml#bourgogne">Bourgogne</rs>,
 soit comme douaire de la reine Clotilde, soit par un arrangement
 entre Clovis et <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName> lorsqu'ils se réunirent pour marcher
-contre les <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs>» (<bibl source="bibliographie.xml#bernard_h">Bernard</bibl>,
+contre les <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs></quote> (<bibl source="bibliographie.xml#bernard_h">Bernard</bibl>,
 I, p.66).En fait, <rs type="repertoire" ref="#feurs">Feurs</rs> et <rs type="repertoire" ref="repertoire_mm.xml#montbrison">Montbrison</rs> font bien partie du royaume de
-<rs type="repertoire" ref="repertoire_bb.xml#bourgogne">Bourgogne</rs> au Vesiècle, indique <bibl source="bibliographie.xml#roget">Roget de
+<rs type="repertoire" ref="repertoire_bb.xml#bourgogne">Bourgogne</rs> au Ve siècle, indique <bibl source="bibliographie.xml#roget">Roget de
 Belloguet</bibl> (p.165; voir surtout la première carte)
 avant de tomber sous la domination des <rs type="repertoire" ref="#francs">Francs</rs>, au moment de l'union de Clotilde et de
 Clovis.</p>
-               <p/>
+               
                <p>
 Le 25 juillet 1611, le comté de Forez fait partie des terres qui
 reviennent à Marie de Médicis<note target="note_analyses.html#marie"/> par lettres patentes. À cette époque, les revenus du
 comté de Forez montaient à 8000 livres<note target="note_analyses.html#livre"/> (<bibl source="bibliographie.xml#batiffol_marie">Batiffol</bibl>, pp.512, 518).</p>
-               <p/>
+               
                <p>
 Dans les trois premières parties de <emph>L'Astrée</emph>, le Forez,
 gouvernée par une femme, relève des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs>; Honoré d'Urfé ne dit pas encore
 qu'il fera partie de la <rs type="repertoire" ref="repertoire_bb.xml#bourgogne">Bourgogne</rs>. C'est une surprise que le
 dénouement réserve puisque l'attitude de <persName ref="personnage_pp.xml#3_polemas">Polémas</persName>
 annonce une contestation du pouvoir d'<persName ref="personnage_aa.xml#3_amasis">Amasis</persName>.</p>
-               <p/>
+               
                <p>
 •Dans la troisième partie de <emph>L'Astrée</emph>, le Forez revient au premier plan, et
 jouit d'une description élogieuse, comme dans la première partie.
@@ -539,23 +540,23 @@ verso</ref>), soit encore par les ouvriers imprimeurs (<ref target="../_roman/re
 danger par les agissements de <persName ref="personnage_pp.xml#3_polemas">Polémas</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#262_recto">III, 6, 262
 recto</ref>).</p>
-               <p/>
+               
                <p>
-• «La plus heureuse vie du monde, est celle des Bergers et
-Bergeres de Forests» (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#52_verso">III, 2, 52
+• <quote>La plus heureuse vie du monde, est celle des Bergers et
+Bergeres de Forests</quote> (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#52_verso">III, 2, 52
 verso</ref>), déclare <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName>, dame venue d'<rs type="repertoire" ref="repertoire_aa.xml#3_aquitaine">Aquitaine</rs>
 avec une suite assez importante.</p>
                <p>
 Un oracle a annoncé à <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> et <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName>:</p>
                <p>
-«Dedans les forests un
+<quote>Dedans les forests un
 jour</p>
                <p>
 Vous pourrez voir la
 fontaine<note target="note_3.html#3_oracles"/>
                </p>
                <p>
-De la Verité d'Amour» (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#158_verso">III, 4, 158
+De la Verité d'Amour</quote> (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#158_verso">III, 4, 158
 verso</ref>).</p>
                <p>
 C'est en s'enquérant sur la signification de cet oracle que
@@ -563,23 +564,23 @@ C'est en s'enquérant sur la signification de cet oracle que
 Forez qu'elle décide de voir de ses yeux si le pays mérite cette
 renommée (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#159_recto">III, 4, 159
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#3_adamas">Adamas</persName> explique à <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> que
 séjourner en Forez c'est faire une retraite bénéfique et fréquenter
-«ces sinceres bergers et bergeres» (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#161_verso">III, 4, 161
+<quote>ces sinceres bergers et bergeres</quote> (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#161_verso">III, 4, 161
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#3_damon_a">Damon</persName>, chevalier d'<rs type="repertoire" ref="repertoire_aa.xml#3_aquitaine">Aquitaine</rs>,
 consulte l'oracle du temple de <rs type="repertoire" ref="repertoire_uz.xml#3_venus">Vénus</rs>. À deux reprises, il s'entend
-dire: «Forests» (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#257_verso">III, 6, 257
-verso</ref>). Il erre de forêt en forêt et se retrouve «de
-fortune» dans un lieu où on lui donne enfin le sens de
+dire: <quote>Forests</quote> (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#257_verso">III, 6, 257
+verso</ref>). Il erre de forêt en forêt et se retrouve <quote>de
+fortune</quote> dans un lieu où on lui donne enfin le sens de
 l'oracle. <persName ref="personnage_gg.xml#3_galathee">Galathée</persName> lui apprend qu'il est parvenu dans un
-pays appelé «Forests» (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#259_recto">III, 6, 259
+pays appelé <quote>Forests</quote> (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#259_recto">III, 6, 259
 recto</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">L'aventure repose sur la fausse
 étymologie de Forez
@@ -595,14 +596,14 @@ Prince était amoureux d'une nymphe forézienne qu'il ne voulait pas
 épouser, <persName ref="personnage_aa.xml#3_amasis">Amasis</persName> aurait eu du mal à protéger la jeune fille
 (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#261_recto">III, 6, 261
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Parce que <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName> a attribué à <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> les
 défauts qu'on prête aux méridionaux, l'inconstant répond que, sans
-doute, la patrie de <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName> ne «rapport[e] que des ronces et
-des chardons», assortis à l'esprit du jeune homme (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#278_verso">III, 7, 278
+doute, la patrie de <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName> ne <quote>rapport[e] que des ronces et
+des chardons</quote>, assortis à l'esprit du jeune homme (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#278_verso">III, 7, 278
 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Remarque comique dont le sel est
 réservé au lecteur qui a deviné que <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName>
@@ -614,34 +615,34 @@ d'éloges...</note>
 que le Forez doit à sa position et à son histoire. Pour justifier
 l'originalité de la religion forézienne, il contredit les récits de
 la première partie: il affirme que cette contrée n'a
-«jamais eu communication<note target="note_3.html#3_communication"/> avec les peuples estrangers, sinon avec quelques
-<rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs>» (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_recto">III, 9, 373
+<quote>jamais eu communication<note target="note_3.html#3_communication"/> avec les peuples estrangers, sinon avec quelques
+<rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs></quote> (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_recto">III, 9, 373
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> elle-même fait ensuite un nouvel éloge
 vibrant et lyrique du Forez (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#391_verso">III, 9, 391
 verso</ref> et <ref target="../_roman/reference/21_3/21_3_livre_10.xml#425_recto">III, 10,
 425 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Lors d'une compétition, les bergers du Forez n'apprécient pas les
 performances des bergers déguisés qui viennent de loin (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#418_verso">III, 10,
 418 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Quand <persName ref="personnage_mm.xml#3_madonthe">Madonthe</persName> quitte le pays, <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName>
 pourrait l'escorter jusqu'à la frontière du Forez (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#463_recto">III, 11,
 463 recto</ref>). Selon <persName ref="personnage_tt.xml#3_tersandre">Tersandre</persName>, la bergère déguisée ne doit pas
-traverser seule «ces bois si dangereux» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#494_verso">III, 12,
+traverser seule <quote>ces bois si dangereux</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#494_verso">III, 12,
 494 verso</ref>).</p>
-               <p/>
+               
                <p>
 • En racontant ses aventures à <persName ref="personnage_dd.xml#3_damon_a">Damon
 d'Aquitaine</persName>, <persName ref="personnage_mm.xml#3_madonthe">Madonthe</persName> prétend qu'un oracle l'aurait dirigée
 vers le Forez (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#503_recto">III, 12,
 503 recto</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">A-t-elle consulté l'oracle en même
 temps que ses compagnons, <persName ref="personnage_tt.xml#tircis">Tircis</persName> et <persName ref="personnage_ll.xml#laonice">Laonice</persName>
@@ -655,7 +656,7 @@ Honoré d'Urfé ne le dit pas.</note>
 <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> déclare à <persName ref="personnage_aa.xml#3_amasis">Amasis</persName> que nul
 ne devrait vivre en Forez sans être berger (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#505_verso">III, 12,
 505 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Les cartes du Forez qui se trouvent à la Bibliothèque Nationale
 de France sont réunies dans le site de <ref target="http://www.lexilogos.com/forez.htm">Lexilogos</ref>
@@ -666,24 +667,24 @@ janvier 2013).</p>
             </note>
             <note xml:id="forez_4" n="4" ana="geographie">
                <label>Forez</label>
-               <p>Mentionné dans:<ref target="#forez">I</ref>, <ref target="#2_forez">II</ref>, <ref target="#3_forez">III</ref>, <ref target="#4_forez">IV</ref>
+               <mentioned>Mentionné dans:<ref target="#forez">I</ref>, <ref target="#2_forez">II</ref>, <ref target="#3_forez">III</ref>, <ref target="#4_forez">IV</ref></mentioned><p>
 Écrit <emph>Forests</emph> et <emph>forests</emph>.</p>
                <p>
 On trouvera une carte ancienne du Forez dans le <ref target="http://stetiennelemolard.free.fr/images/historique/carte%20forez%201256x720.jpg">site</ref> de Saint-Étienne-Le-Molard (26 mai
 2017).</p>
-               <p/>
+               
                <p>
 • Le pays est d'abord le lieu désigné à <rs type="repertoire" ref="repertoire_ll.xml#4_lyon">Lyon</rs> par un
 oracle (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#53">IV,
 1, 53</ref>). Mais <persName ref="personnage_ff.xml#4_florice">Florice</persName> craint que cet oracle n'ait été
 trompeur.</p>
-               <p/>
+               
                <p>
 • Les paroles oraculaires sont pourtant claires: En Forez
 surviendront guérison (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#62">IV, 1, 62</ref>) et
 soulagement (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#64">IV, 1,
 64</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> aussi se trouve en Forez parce qu'elle
 cherche un remède à ses problèmes (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#70">IV, 1, 70</ref>). Le
@@ -692,31 +693,31 @@ Forez est d'abord un choix politique fait par <persName ref="personnage_cc.xml#4
 866</ref>); il est ensuite un lieu de refuge désigné par un
 oracle (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#882">IV, 4,
 882</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_hh.xml#4_hylas">Hylas</persName>
 est devenu berger de Forez, selon <persName ref="personnage_pp.xml#4_periandre">Périandre</persName>
 (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#391">IV, 3,
 391</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_hh.xml#4_hylas">Hylas</persName>
 pratique l'hyperbole: la beauté de <persName ref="personnage_cc.xml#4_celidee">Célidée</persName>
 honorait toutes les plaines du Forez (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#448">IV, 3,
 448</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_hh.xml#4_hylas">Hylas</persName>
 demande à <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> pourquoi elle est venue en Forez (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#477">IV, 3, 477</ref>).
 Il pose la même question à <persName ref="personnage_ff.xml#4_florice">Florice</persName>, <persName ref="personnage_pp.xml#4_palinice">Palinice</persName> et
 <persName ref="personnage_cc.xml#4_circene">Circène</persName> (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#479">IV, 3,
 479</ref>).</p>
-               <p/>
+               
                <p>
 • <emph>Cette bien-heureuse contree</emph>, dit <persName ref="personnage_tt.xml#4_tircis">Tircis</persName>
 (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#552">IV, 3,
 552</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#4_amilcar">Amilcar</persName> rappelle les qualités de tous les bergers
 du Forez (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#520">IV, 3, 520</ref>).
@@ -725,18 +726,18 @@ Il n'est donc pas nécessaire de traiter l'un d'entre eux de
 <rs type="repertoire" ref="repertoire_ll.xml#4_lignon">Lignon</rs>
 (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#519">IV, 3,
 519</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>, fuyant <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName>,
 cherche refuge en Forez. C'est une décision politique et un
 pis-aller (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#866">IV, 4,
 866</ref>).</p>
-               <p/>
+               
                <p>
 • Pour fuir <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName>, <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> se dit prête à se rendre non
 seulement en Forez, mais encore aux Enfers (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#874">IV, 4,
 874</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">L'assonance est malheureuse, mais elle
 reflète l'état d'esprit d'une femme traquée.</note>
@@ -745,13 +746,13 @@ reflète l'état d'esprit d'une femme traquée.</note>
 • L'oracle de <rs type="repertoire" ref="repertoire_uz.xml#4_venus">Vénus</rs> recommande à <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> de se
 rendre en Forez (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#882">IV, 4,
 882</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> demande au <persName ref="personnage_uz.xml#4_vieux_homme">Vieil
 homme</persName> de l'accompagner en Forez, son lieu de naissance,
 prétend-elle (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#906">IV, 4,
 906</ref>).</p>
-               <p/>
+               
                <p>
 • Le <persName ref="personnage_uz.xml#4_vieux_homme">Vieil homme</persName> laisse ses enfants pour escorter
 <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#909">IV, 4, 909</ref>) et
@@ -772,7 +773,7 @@ lieues du Forez
 • L'arrivée de <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> en Forez entraîne une description du pays
 de <emph>L'Astrée</emph> vu de haut (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#911">IV, 4,
 911</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Même digression au moment de l'arrivée
 de <persName ref="personnage_dd.xml#4_damon_a">Damon
@@ -791,29 +792,29 @@ villes encadrent la plaine de Forez, <rs type="repertoire" ref="#4_feurs">Feurs<
             </note>
             <note xml:id="fortune_dieu" n="1" ana="mythologie">
                <label>Fortune</label>
-               <p>Mentionnée dans:<ref target="#fortune_dieu">I</ref>,
-<ref target="#2_fortune_dieu">II</ref>, <ref target="#3_fortune_dieu">III</ref>, <ref target="#4_fortune_dieu">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#fortune_dieu">I</ref>,
+<ref target="#2_fortune_dieu">II</ref>, <ref target="#3_fortune_dieu">III</ref>, <ref target="#4_fortune_dieu">IV</ref></mentioned><p>
 Mythologie. Considérée comme une personnification du sort, Fortune
 est accompagnée d'une roue, d'un gouvernail ou d'une corne
 d'abondance chez les mythographes. Elle figure accompagnée
 d'<rs type="repertoire" ref="repertoire_aa.xml#amour">Amour</rs>
 et d'une horloge dans une gravure de Jean Cousin pour <emph>Le Livre
 de Fortune</emph> (planche LXIX<note target="note_images.html#fortuna"/>) publiée par L.<bibl source="bibliographie.xml#lalanne">Lalanne</bibl>.</p>
-               <p/>
+               
                <p>
 Bien qu'<persName ref="personnage_aa.xml#adamas">Adamas</persName>, dans le second volume de
 <emph>L'Astrée,</emph> proclame que Fortune n'est pas une divinité
 (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#507">II, 8,
 507</ref>), Honoré d'Urfé, dans tous ses écrits, se montre obsédé par
-cette puissance qu'il appelle «<rs type="repertoire" ref="repertoire_ik.xml#jupiter">Jupiter</rs>
-dissimulé» <emph>(<bibl source="bibliographie.xml#epistres">Epistres morales</bibl>
+cette puissance qu'il appelle <quote><rs type="repertoire" ref="repertoire_ik.xml#jupiter">Jupiter</rs>
+dissimulé</quote> <emph>(<bibl source="bibliographie.xml#epistres">Epistres morales</bibl>
                   </emph>, I, 15, p.134) et
-«<rs type="repertoire" ref="repertoire_ss.xml#saturne">Saturne</rs> malicieux» (<emph>
+<quote><rs type="repertoire" ref="repertoire_ss.xml#saturne">Saturne</rs> malicieux</quote> (<emph>
                      <bibl source="bibliographie.xml#epistres">Ibid.</bibl>
                   </emph>,
-I, 2, p.8). «Du commencement à la fin du monde tout ce
+I, 2, p.8). <quote>Du commencement à la fin du monde tout ce
 qui s'y fait n'est qu'une comédie dont l'univers est le théâtre,
-les hommes les personnages, les Dieux les auditeurs<note target="note_analyses.html#auditeurs"/>, et la Fortune le Poète» <emph>(<bibl source="bibliographie.xml#epistres">Ibid.</bibl>,</emph>
+les hommes les personnages, les Dieux les auditeurs<note target="note_analyses.html#auditeurs"/>, et la Fortune le Poète</quote> <emph>(<bibl source="bibliographie.xml#epistres">Ibid.</bibl>,</emph>
 I, 19, p.164). Dans <bibl source="bibliographie.xml#sireine">
                      <emph>Le Sireine</emph>
                   </bibl>, la séparation des
@@ -824,7 +825,7 @@ prononce le prologue de <bibl source="bibliographie.xml#sylvanire">
                   </bibl>. Elle commande à
 l'univers (v.1-218) et conclut:</p>
                <p>
-«Que
+<quote>Que
 la Fortune et l'<rs type="repertoire" ref="repertoire_aa.xml#amour">Amour</rs> sont icy:</p>
                <p>
 Mais
@@ -833,28 +834,28 @@ Mais
                </p>
                <p>
 Et
-Fortune amoureuse» (vers 216-218).</p>
+Fortune amoureuse</quote> (vers 216-218).</p>
                <p>
-«Fortune» n'a pas toujours l'honneur d'une majuscule
+<quote>Fortune</quote> n'a pas toujours l'honneur d'une majuscule
 (Voir <term ref="glossaire_ff.xml#fortune">Fortune</term>). Les aventures cependant sont là pour
 prouver que les personnages de <emph>L'Astrée</emph> sont victimes des
 mouvements de la roue de cette puissance qui agit de concert avec
-<rs type="repertoire" ref="repertoire_aa.xml#amour">Amour</rs>: «La roue d'amour est celle dont
-[la déesse] se sert le plus souvent» (<bibl source="bibliographie.xml#epistres">
+<rs type="repertoire" ref="repertoire_aa.xml#amour">Amour</rs>: <quote>La roue d'amour est celle dont
+[la déesse] se sert le plus souvent</quote> (<bibl source="bibliographie.xml#epistres">
                      <emph>Epistres</emph>
                   </bibl>, I, 12, pp.457-458). Les deux
 divinités ne font qu'une (<bibl source="bibliographie.xml#sylvanire">
                      <emph>La Sylvanire</emph>
                   </bibl>,
 v.196).</p>
-               <p/>
+               
                <p>
-• Même si les Bergers prétendent d'entrée de jeu vivre «avec
-autant de bonne fortune, qu'ils recognoissent peu la fortune»
+• Même si les Bergers prétendent d'entrée de jeu vivre <quote>avec
+autant de bonne fortune, qu'ils recognoissent peu la fortune</quote>
 (<ref target="../_roman/reference/21_1/21_1_livre_1.xml#1_verso">I, 1,
 1 verso</ref>), il y a une quarantaine de renvois aux agissements de
 la fortune dans la première partie de <emph>L'Astrée</emph>.</p>
-               <p/>
+               
                <p>
 • Pour le Berger <persName ref="personnage_aa.xml#alcippe">Alcippe</persName> par exemple, retourner vivre dans les
 hameaux, c'est planter un clou de diamant dans la roue de la
@@ -866,41 +867,41 @@ de Celion et Belinde</ref>, la fortune est évoquée trois fois
 10, 326 verso</ref>, <ref target="../_roman/reference/21_1/21_1_livre_10.xml#337_recto">I, 10, 337
 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_10.xml#348_recto">I, 10, 348
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • C'est dans deux récits non pastoraux, l'<ref target="../_roman/reference/21_1/21_1_livre_9.xml#histoire_de_galathee_et_lindamor">Histoire
 de Galathée et Lindamor</ref> et l'<ref target="../_roman/reference/21_1/21_1_livre_12.xml#histoire_de_lydias_et_de_melandre">Histoire
 de Lydias et de Melandre</ref>, que la fortune semble
-particulièrement active. «F<emph>ortuna philapolis</emph>»,
+particulièrement active. <quote>F<emph>ortuna philapolis</emph></quote>,
 Fortune aime les villes selon un adage (<bibl source="bibliographie.xml#lalanne">Lalanne</bibl>,
 Planche CLIII)</p>
-               <p/>
+               
                <p>
 • Dans le palais de <persName ref="personnage_gg.xml#galathee">Galathée</persName>, à <rs type="repertoire" ref="repertoire_ik.xml#isoure">Isoure</rs>, se trouvent réunies des peintures
 qui toutes représentent les divers méfaits de la fortune dans le
-ciel et sur la terre: les «peintures esclatantes»
+ciel et sur la terre: les <quote>peintures esclatantes</quote>
 (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#27_verso">I,
 2, 27 verso</ref>) dans le deuxième livre, et les tableaux de
 <persName ref="personnage_mm.xml#mandrague">Mandrague</persName> dans l'avant-dernier. Cependant, la
 déesse Fortune elle-même n'est pas dépeinte (<bibl source="bibliographie.xml#heneinp">Henein</bibl>,
 p.134-136).</p>
-               <p/>
+               
                <p>
-• L'expression «changement de [...] fortune» revient
+• L'expression <quote>changement de [...] fortune</quote> revient
 deux fois (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#47_verso">I, 3, 47
 verso</ref> et <ref target="../_roman/reference/21_1/21_1_livre_11.xml#377_verso">I, 11, 377
 verso</ref>).</p>
             </note>
             <note xml:id="fortune_dieu_2" n="2" ana="mythologie">
                <label>Fortune</label>
-               <p>Mentionnée dans:<ref target="#fortune_dieu">I</ref>, <ref target="#2_fortune_dieu">II</ref>, <ref target="#3_fortune_dieu">III</ref>, <ref target="#4_fortune_dieu">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#fortune_dieu">I</ref>, <ref target="#2_fortune_dieu">II</ref>, <ref target="#3_fortune_dieu">III</ref>, <ref target="#4_fortune_dieu">IV</ref></mentioned><p>
 Voici des réflexions de païens et de chrétiens qui aident à mieux
 comprendre la position (et l'obsession) d'Honoré d'Urfé, romancier
 qui se double d'un moraliste érudit:</p>
-               <p/>
+               
                <p>
                   <bibl source="bibliographie.xml#pline">Pline</bibl>
-(II, 22). «L'humanité s'est créé pour elle-même une divinité
+(II, 22). <quote>L'humanité s'est créé pour elle-même une divinité
 moyenne, de façon à rendre encore moins claires nos conjectures sur
 Dieu. De fait, dans le monde entier, en tout lieu, à toute heure,
 les voix de tous les hommes invoquent et nomment la seule
@@ -912,11 +913,11 @@ changeante, elle favorise ceux qui n'en sont pas dignes. On lui
 impute tout le passif et tout l'actif; sur le grand livre de
 comptes de l'humanité, elle seule remplit les deux colonnes, et
 notre condition est si soumise que la Fortune même, qui prouve
-l'incertitude de Dieu, prend la place de Dieu».</p>
-               <p/>
+l'incertitude de Dieu, prend la place de Dieu</quote>.</p>
+               
                <p>
                   <persName ref="personnage_aa.xml#2_augustin">Augustin</persName> (<ref target="http://www.abbaye-saint-benoit.ch/saints/augustin/lettres/index.htm">Lettres</ref>, Lettre VII, ch. 3, 30 septembre 2010).
-«La Fortune tout au moins, qui domine le monde, au sentiment
+<quote>La Fortune tout au moins, qui domine le monde, au sentiment
 de ceux qui croient à son immense pouvoir, la Fortune, qui met au
 grand jour ou obscurcit toute chose plutôt par caprice que par
 raison, s'il est vrai qu'elle ait eu assez de puissance sur les
@@ -925,8 +926,8 @@ Fortune, dis-je, devrait occuper parmi les dieux choisis la
 première place. Pourquoi ne l'a-t-elle pas obtenue? serait-ce
 qu'elle a eu la fortune contraire? Voilà la Fortune contraire
 à elle-même; la voilà qui sait tout faire pour élever les
-autres et ne sait rien faire pour soi».</p>
-               <p/>
+autres et ne sait rien faire pour soi</quote>.</p>
+               
                <p>
 Le texte le plus important reste <emph>La
 Consolation de Philosophie</emph> de Boèce<note target="note_analyses.html#boece"/> (24 septembre 1595). Traduite par Jean de Meun, cette
@@ -936,53 +937,53 @@ l'époque carolingienne (<bibl source="bibliographie.xml#tilliette">Tilliette</b
 prétoire en <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs>, est exécuté en 454, en même temps
 qu'<persName ref="personnage_aa.xml#2_aetius">Ætius</persName> selon <bibl source="bibliographie.xml#fauchet">Fauchet</bibl> (p.99). Victime de <persName ref="personnage_uz.xml#2_valentinien">Valentinien</persName>, il a vécu les événements que
 <emph>L'Astrée</emph> rapporte. (Voir <ref target="evenements.xml#urfe_boece">Événements</ref>).</p>
-               <p/>
+               
                <p>
-• En analysant «Fortuna dans le monde latin», Nicole
+• En analysant <quote>Fortuna dans le monde latin</quote>, Nicole
 <bibl source="bibliographie.xml#hecquet">Hecquet-Noti</bibl> souligne qu'Ovide associe Fortune
 et Némésis, la vengeance (p.22). Elle analyse aussi le
 principal symbole de Fortune, la roue: il n'existe pas
-«de représentation de la roue seule comme symbole de
-Fortune» (p.23). Les images de Fortune étudiées par
+<quote>de représentation de la roue seule comme symbole de
+Fortune</quote> (p.23). Les images de Fortune étudiées par
 Jean <bibl source="bibliographie.xml#wirth">Wirth</bibl> sont fascinantes. La plus inattendue,
-dans une abbaye au XIIesiècle, est
+dans une abbaye au XIIe siècle, est
 une roue mécanique; la plus étrange attache Fortune à la
 roue, comme une criminelle (pp.105-127). Voir dans ce
 <ref target="https://www.flickr.com/photos/quadralectics/sets/72157630599080432/detail/?page=10">site</ref> plusieurs représentations de Fortune (10
 avril 2013), et dans <ref target="http://google.fr/books?id=xhcGAAAAQAAJ&amp;hl=fr">celui-là</ref> les gravures de Jean Cousin pour <emph>Le Livre
 de Fortune</emph> (1568) publié par Ludovic <bibl source="bibliographie.xml#lalanne">Lalanne</bibl> (10
 avril 2013)</p>
-               <p/>
+               
                <p>
 • Dans la deuxième partie de <emph>L'Astrée</emph>,
-on rencontre nommément «la Déesse Fortune» (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#507">II, 8, 507</ref>),
+on rencontre nommément <quote>la Déesse Fortune</quote> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#507">II, 8, 507</ref>),
 mais elle déchoit dans l'échelle des divinités: <persName ref="personnage_aa.xml#2_adamas">Adamas</persName>
 explique qu'elle partage le sort d'autres puissances bien plus
 obscures, et qu'elle ne mérite pas les autels dressés par les
 <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#507">II, 8,
 507</ref>).</p>
-               <p/>
+               
                <p>
 • Néanmoins, la fortune mythique est évoquée 38 fois dans cette
 deuxième partie. D'entrée de jeu, elle s'en prend à <persName ref="personnage_cc.xml#2_celadon">Céladon</persName>
 (<ref target="../_roman/reference/21_2/21_2_liminaires.xml#autheur_au_berger">II,
 <emph>L'Autheur au Berger</emph>
                   </ref>).</p>
-               <p/>
+               
                <p>
 • Mais c'est dans l'histoire de <rs type="repertoire" ref="repertoire_qr.xml#rome">Rome</rs> que Fortune s'impose le plus lourdement
 (vingt-huit instances dans les livres 11 et 12, soit environ
 76% du total).</p>
-               <p/>
+               
                <p>
 • La providence, évoquée une seule fois dans la première partie
 (<ref target="../_roman/reference/21_1/21_1_livre_7.xml#214_recto">I,
 7, 214 recto</ref>), revient trois fois dans la deuxième
-partie: elle est «sage» (<ref target="../_roman/reference/21_2/21_2_livre_1.xml#7">II, 1, 7</ref>),
-«particulière» (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#647">II, 10, 647</ref>)
-et «profonde» (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#842">II, 12,
+partie: elle est <quote>sage</quote> (<ref target="../_roman/reference/21_2/21_2_livre_1.xml#7">II, 1, 7</ref>),
+<quote>particulière</quote> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#647">II, 10, 647</ref>)
+et <quote>profonde</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#842">II, 12,
 842</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">La déesse Fortune n'a pas de pendant
 gaulois.</note>
@@ -990,61 +991,61 @@ gaulois.</note>
             </note>
             <note xml:id="fortune_dieu_3" n="3" ana="mythologie">
                <label>Fortune</label>
-               <p>Mentionnée dans:<ref target="#fortune_dieu">I</ref>, <ref target="#2_fortune_dieu">II</ref>,
-<ref target="#3_fortune_dieu">III</ref>, <ref target="#4_fortune_dieu">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#fortune_dieu">I</ref>, <ref target="#2_fortune_dieu">II</ref>,
+<ref target="#3_fortune_dieu">III</ref>, <ref target="#4_fortune_dieu">IV</ref></mentioned><p>
 Dans la troisième partie, à cause de son vaste champ sémantique, la
 fortune est mentionnée une centaine de fois. Elle figure même dès
 le frontispice (Voir <ref target="illustrations.xml#fortune">Illustrations</ref>).</p>
-               <p/>
+               
                <p>
 • Des personnages disent la bonne fortune (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#426_recto">III, 10,
 426 recto</ref>), et le romancier utilise cette expression pour
 rappeler d'anciens oracles (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#501_recto">III, 12,
 501 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Fortune et fortunes restent synonymes de <emph>histoire</emph> (par
 exemple <ref target="../_roman/reference/21_3/21_3_livre_6.xml#256_verso">III, 6, 256
 verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_8.xml#339_verso">III, 8, 339
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Le nom commun précédé par un possessif est synonyme de destin
-(«Ma fortune», revient 14 fois, «sa
-fortune» 13 fois, et «notre fortune» 1
+(<quote>Ma fortune</quote>, revient 14 fois, <quote>sa
+fortune</quote> 13 fois, et <quote>notre fortune</quote> 1
 fois).</p>
-               <p/>
+               
                <p>
 • Fait qu'on ne saurait assez souligner, la fortune cède parfois sa
 place à la providence (<ref target="../_roman/reference/21_3/21_3_livre_1.xml#12_verso">III, 1, 12
 verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_7.xml#329_verso">III, 7, 329
 verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_12.xml#502_verso">III, 12,
 502 verso</ref>).</p>
-               <p/>
+               
                <p>
 • La Fortune pèse lourdement sur le destin des aristocrates.
 <emph>
                      <bibl source="bibliographie.xml#epistres">Les
 Epistres morales</bibl>
-                  </emph> expliquent ce phénomène: «La
+                  </emph> expliquent ce phénomène: <quote>La
 Fortune ne fait point de mal [aux] personnes de peu: parce
-qu'eux mesmes n'en peuvent faire à personne» (I, 10,
-p.91). Horace disait que la «médiocrité» met à
-l'abri parce que «la foudre frappe le sommet des
-montagnes» (Cité par <bibl source="bibliographie.xml#petrarque_secret">Pétrarque</bibl>, p.106). Ces adages
+qu'eux mesmes n'en peuvent faire à personne</quote> (I, 10,
+p.91). Horace disait que la <quote>médiocrité</quote> met à
+l'abri parce que <quote>la foudre frappe le sommet des
+montagnes</quote> (Cité par <bibl source="bibliographie.xml#petrarque_secret">Pétrarque</bibl>, p.106). Ces adages
 contredisent évidemment les faits, puisque les bergers aussi
 connaissent les revirements de la fortune!</p>
-               <p/>
+               
                <p>
 • Dans la troisième partie, la Fortune s'acharne en particulier sur
 ceux qui viennent d'<rs type="repertoire" ref="repertoire_aa.xml#3_aquitaine">Aquitaine</rs>, <persName ref="personnage_mm.xml#3_madonthe">Madonthe</persName> et <persName ref="personnage_dd.xml#3_damon_a">Damon</persName>, et
 <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> et <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName>, et surtout sur ceux qui viennent de
 la <rs type="repertoire" ref="repertoire_gg.xml#3_gaule_cisalpine">Gaule cisalpine</rs>, <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> et
 <persName ref="personnage_aa.xml#3_arimant">Arimant</persName> (environ 25% des instances). Relever
-les occurrences de «fortune» dans leurs histoires,
+les occurrences de <quote>fortune</quote> dans leurs histoires,
 c'est presque dégager les grandes lignes de leurs
 aventures!</p>
-               <p/>
+               
                <p>
 • La Fortune n'est pas aveugle, prétend le roi <persName ref="personnage_ee.xml#3_euric">Euric</persName>,
 puisqu'elle a su réunir <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> et <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName>
@@ -1059,30 +1060,30 @@ verso</ref>). Après le décès du Roi, dans une phrase alambiquée aux
 pronoms ambigus, <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> parle de son passé malheureux à la
 troisième personne. Il déclare:</p>
                <p>
-«Il n'y avoit rien qui le peust
+<quote>Il n'y avoit rien qui le peust
 reduire en l'estat qu'il a</p>
                <p>
 esté que la seule fortune du grand <persName ref="personnage_ee.xml#3_euric">Euric</persName>, à
 laquelle il n'y</p>
                <p>
 a rien qui ait peu resister que la seule
-mort»</p>
+mort</quote></p>
                <p>
 (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#167_verso">III, 4, 167
 verso</ref>).</p>
                <p>
 En d'autres termes, le Roi a eu assez de chance pour conquérir
 <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> et désespérer <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName>, mais
-il n'en avait pas assez pour vaincre la mort. «Celui qui est
+il n'en avait pas assez pour vaincre la mort. <quote>Celui qui est
 assis en haut de la roue qui tourne, celui-là est le plus proche de
-la chute» (<bibl source="bibliographie.xml#petrarque_remedes">Pétrarque</bibl>, p.90).</p>
-               <p/>
+la chute</quote> (<bibl source="bibliographie.xml#petrarque_remedes">Pétrarque</bibl>, p.90).</p>
+               
                <p>
 • <persName ref="personnage_dd.xml#3_delie">Délie</persName>
 s'amuse en disant que la beauté de <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName>
 peut faire mourir. Elle tranquillise <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName>: il ne doit pas craindre
-«ceste fortune».</p>
-               <p/>
+<quote>ceste fortune</quote>.</p>
+               
                <p>
                   <note ana="variante">
                      <emph>Ceste fortune</emph> remplace le<emph>ceste mort</emph> de 1619
@@ -1092,7 +1093,7 @@ peut faire mourir. Elle tranquillise <persName ref="personnage_aa.xml#3_alcidon"
                <p>
 Un peu plus loin au contraire <emph>fortune</emph> laisse sa place
 -pour éviter une répétition:</p>
-               <p/>
+               
                <p>
                   <note ana="variante">
                      <emph>Diverses fortunes</emph> de 1619
@@ -1102,28 +1103,28 @@ verso</ref>).</note>
                </p>
                <p>
 • <persName ref="personnage_dd.xml#3_damon_a">Damon</persName> craint d'avoir la fortune d'<persName ref="personnage_aa.xml#3_adraste">Adraste</persName>,
-«fol d'amour» (<ref target="../_roman/reference/21_3/21_3_livre_1.xml#20_verso">III, 1, 20
+<quote>fol d'amour</quote> (<ref target="../_roman/reference/21_3/21_3_livre_1.xml#20_verso">III, 1, 20
 verso</ref>). La Fortune a conduit ce chevalier errant en <rs type="repertoire" ref="#3_forez">Forez</rs>, dit <persName ref="personnage_gg.xml#3_galathee">Galathée</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#232_recto">III, 6, 232
 recto</ref>). Mais <persName ref="personnage_dd.xml#3_damon_a">Damon</persName> commence son histoire en se plaignant de
-cette «ennemie Fortune» (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#234_recto">III, 6, 234
+cette <quote>ennemie Fortune</quote> (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#234_recto">III, 6, 234
 recto</ref>). Elle l'a rendu orphelin au berceau (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#234_recto">III, 6, 234
 recto</ref>). Elle le laisse vivre pour le torturer davantage
 (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#234_verso">III, 6, 234
 verso</ref>). Elle fait le contraire de ce qu'il attend d'elle
 (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#235_verso">III, 6, 235
-verso</ref>). Avant de «quitter et les armes et la
-fortune» (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#246_recto">III, 6, 246
+verso</ref>). Avant de <quote>quitter et les armes et la
+fortune</quote> (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#246_recto">III, 6, 246
 recto</ref>), <persName ref="personnage_dd.xml#3_damon_a">Damon</persName> laisse à son écuyer les biens que lui a
 donnés la Fortune (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#246_recto">III, 6, 246
 recto</ref>). Lui-même ne va plus essayer de la fléchir (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#249_verso">III, 6, 249
 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">En 1619, le chevalier va
-«rechercher les faveurs de la fortune» en <rs type="repertoire" ref="#3_forez">Forez</rs>.
-L'édition de 1621 corrige: il va «mespriser les faveurs
-de la fortune»
+<quote>rechercher les faveurs de la fortune</quote> en <rs type="repertoire" ref="#3_forez">Forez</rs>.
+L'édition de 1621 corrige: il va <quote>mespriser les faveurs
+de la fortune</quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#246_recto">III, 6, 246
 recto</ref>).</note>
                </p>
@@ -1138,11 +1139,11 @@ la fortune mais qu'il ne doit pas perdre espoir (III 6, 258
 recto).</p>
                <p>
 Lorsque le chevalier retrouve <persName ref="personnage_mm.xml#3_madonthe">Madonthe</persName>, la
-jeune fille lui raconte sa fortune, et conclut: «Le
+jeune fille lui raconte sa fortune, et conclut: <quote>Le
 destin qui conduit toute chose sous la sage providence du grand
-<rs type="repertoire" ref="repertoire_tt.xml#3_tautates">Tautates</rs>, l'avoit ainsi ordonné» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#502_verso">III, 12,
+<rs type="repertoire" ref="repertoire_tt.xml#3_tautates">Tautates</rs>, l'avoit ainsi ordonné</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#502_verso">III, 12,
 502 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Quand <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> rencontre <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>, il
 lui demande quelle fortune l'a conduite à <rs type="repertoire" ref="repertoire_ll.xml#3_lyon">Lyon</rs> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#283_recto">III, 7, 283
@@ -1151,22 +1152,22 @@ une maxime:</p>
                <p>
 La Fortune s'en prend aux particuliers comme aux Monarchies
 (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#283_recto">III, 7, 283
-recto</ref>). «Jamais fille ne fut plus traversee de la
-Fortune» qu'elle (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#284_recto">III, 7, 284
+recto</ref>). <quote>Jamais fille ne fut plus traversee de la
+Fortune</quote> qu'elle (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#284_recto">III, 7, 284
 recto</ref>). Le premier coup de la fortune est de l'avoir privée de
 son père à neuf ans (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#284_verso">III, 7, 284
-verso</ref>). Ensuite, «la cruelle», dit-elle, lui fait
+verso</ref>). Ensuite, <quote>la cruelle</quote>, dit-elle, lui fait
 un cadeau empoisonné en lui montrant <persName ref="personnage_aa.xml#3_arimant">Arimant</persName>. Ce
 chevalier qu'elle va aimer est le fils d'un ennemi de son oncle.
 <persName ref="personnage_aa.xml#3_arimant">Arimant</persName>, lui, regrette que sa fortune ne lui
 permette pas d'épouser <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#296_verso">III, 7, 296
-verso</ref>). Pour eux, Fortune mêle «douceurs» et
-«amertumes» (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#300_verso">III, 7, 300
+verso</ref>). Pour eux, Fortune mêle <quote>douceurs</quote> et
+<quote>amertumes</quote> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#300_verso">III, 7, 300
 verso</ref>). <persName ref="personnage_aa.xml#3_arimant">Arimant</persName>, à l'article de la mort, écrit que la
 Fortune veut finir ses peines (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#304_verso">III, 7, 304
 verso</ref>). En revanche, quand <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>
-tente de se tuer elle crie: «Fortune, enfin la victoire
-est mienne» (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#308_recto">III, 7, 308
+tente de se tuer elle crie: <quote>Fortune, enfin la victoire
+est mienne</quote> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#308_recto">III, 7, 308
 recto</ref>). La Fortune soutiendra-t-elle <persName ref="personnage_aa.xml#3_arimant">Arimant</persName> qui
 veut se battre contre le prétendant qui a acculé la jeune fille au
 suicide (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#315_verso">III, 7, 315
@@ -1176,31 +1177,31 @@ verso</ref>)?</p>
 travestie: Fortune la fait rompre avec coutumes et
 convenances (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#326_recto">III, 7, 326
 recto</ref>). Les jeunes gens un temps réunis déclarent:
-«Il n'y a rien en ce monde qui soit conduit par le hazard,
-mais tout par la sage providence des Dieux» (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#329_verso">III, 7, 329
+<quote>Il n'y a rien en ce monde qui soit conduit par le hazard,
+mais tout par la sage providence des Dieux</quote> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#329_verso">III, 7, 329
 verso</ref>). De nouveau séparés, ils sont faits prisonniers. La
 jeune fille termine la première partie de son récit en déclarant
 que sa fortune l'a privée de sa liberté et lui a pris celui qu'elle
 aime (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#331_recto">III, 7, 331
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Dans la <ref target="../_roman/reference/21_3/21_3_livre_8.xml#h_cryseide2">Suite de
-l'histoire de Criséide et d'Arimant</ref>, «mauvaise
-Fortune» se transforme en «grand heur» (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#338_verso">III, 8, 338
-verso</ref>). Fortune peut se montrer «bonne» (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#344_verso">III, 8, 344
+l'histoire de Criséide et d'Arimant</ref>, <quote>mauvaise
+Fortune</quote> se transforme en <quote>grand heur</quote> (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#338_verso">III, 8, 338
+verso</ref>). Fortune peut se montrer <quote>bonne</quote> (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#344_verso">III, 8, 344
 verso</ref>). Les jeunes gens sont si heureux qu'ils demandent au
-Ciel «quelque legere fortune» pour modérer leur bonheur
+Ciel <quote>quelque legere fortune</quote> pour modérer leur bonheur
 (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#350_recto">III, 8, 350
 recto</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">D'Urfé écrit à Agathon dans les
 <bibl source="bibliographie.xml#epistres">
                         <emph>Epistres</emph>
                      </bibl>: Je souhaite que
-«tu face prieres au Ciel de te moderer ses faveurs par
-quelques legere Fortune» (I, 3, p.25).</note>
+<quote>tu face prieres au Ciel de te moderer ses faveurs par
+quelques legere Fortune</quote> (I, 3, p.25).</note>
                </p>
                <p>
 En réalité, la Fortune ne s'est pas lassée (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#353_verso">III, 8, 353
@@ -1208,28 +1209,28 @@ verso</ref>). Avec leurs serviteurs, les jeunes gens sont prisonniers
 du roi <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName>. <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> déclare que les traverses de la
 fortune ne l'ont pas fait renoncer à <persName ref="personnage_aa.xml#3_arimant">Arimant</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#359_verso">III, 8, 359
-verso</ref>). Le Roi s'exclame: «C'est avec une
+verso</ref>). Le Roi s'exclame: <quote>C'est avec une
 tres-grande raison que toutes ces choses ont esté si sagement
-conduites» (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#366_recto">III, 8, 366
+conduites</quote> (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#366_recto">III, 8, 366
 recto</ref>). Cette Fortune devenue bénéfique au dénouement a toutes
 les caractéristiques de la providence.</p>
-               <p/>
+               
                <p>
-                  <note ana="remarque">«Mieus vaut as genz et
+                  <note ana="remarque"><quote>Mieus vaut as genz et
 profite
 Fortune perverse et contraire
-Que la douce et la debonnaire»
+Que la douce et la debonnaire</quote>
 (<emph>
                         <bibl source="bibliographie.xml#lorris">Roman de la rose</bibl>
                      </emph>
                      <note target="note_analyses.html#roman_rose"/>,
 v.4840-4842).
-«La mauvaise fortune apporte la douleur
-et l'heureuse fortune les soucis»
+<quote>La mauvaise fortune apporte la douleur
+et l'heureuse fortune les soucis</quote>
 (<bibl source="bibliographie.xml#petrarque_afrique">Pétrarque</bibl>, <emph>L'Afrique</emph>, V,
 p.213).
-«Il n'y a rien qui soit plus à craindre que la bonne
-Fortune»
+<quote>Il n'y a rien qui soit plus à craindre que la bonne
+Fortune</quote>
 (<emph>
                         <bibl source="bibliographie.xml#epistres">
                            <emph>Epistres morales</emph>
@@ -1238,30 +1239,30 @@ Fortune»
 p.247).</note>
                </p>
                <p>
-• Ceux qui ont écouté «les fortunes de la genereuse <persName ref="personnage_cc.xml#3_criseide">Cryseide</persName>» (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#366_verso">III, 9, 366
+• Ceux qui ont écouté <quote>les fortunes de la genereuse <persName ref="personnage_cc.xml#3_criseide">Cryseide</persName></quote> (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#366_verso">III, 9, 366
 verso</ref>) font des commentaires instructifs. <persName ref="personnage_hh.xml#3_hylas">Hylas</persName>,
 perspicace, blâme la constance des amants; elle les a
-transformés en «joüet de la fortune et du hasard»
+transformés en <quote>joüet de la fortune et du hasard</quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#367_recto">III, 9, 367
 recto</ref>). L'inconstant se targue de ne se laisser torturer ni par
-l'amour, ni par la fortune. «Tu ne seras jamais celuy qui
+l'amour, ni par la fortune. <quote>Tu ne seras jamais celuy qui
 feras bastir un Temple à la Fortune, parce que mal-aisément en
-auras-tu jamais affaire», déduit <persName ref="personnage_tt.xml#3_tircis">Tircis</persName>
+auras-tu jamais affaire</quote>, déduit <persName ref="personnage_tt.xml#3_tircis">Tircis</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#367_verso">III, 9, 367
 verso</ref>).</p>
                <p>
 La Fortune s'en prend à ceux qui veulent rester fidèles, aux plus
 vertueux donc.</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">
                      <emph>
                         <bibl source="bibliographie.xml#epistres">Les Epistres
 morales</bibl>
-                     </emph> le disent: «C'est la seule vertu qui
-est la butte de la Fortune» (I, 11, p.97).
-«C'est signe de vertu que d'estre souvent attaqué du
-mal-heur»
+                     </emph> le disent: <quote>C'est la seule vertu qui
+est la butte de la Fortune</quote> (I, 11, p.97).
+<quote>C'est signe de vertu que d'estre souvent attaqué du
+mal-heur</quote>
 (I, 10, p.85).</note>
                </p>
                <p>
@@ -1271,7 +1272,7 @@ voyage, il suit sa fortune (<ref target="../_roman/reference/21_3/21_3_livre_7.x
 verso</ref>), et il va où elle le conduit (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#41_verso">III, 2, 41
 verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_7.xml#282_recto">III, 7, 282
 recto</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">Dans l'édition de 1619, <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> se
 demande si la Fortune va lui permettre de revoir <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>
@@ -1282,7 +1283,7 @@ verso</ref>).</note>
 L'inconstant se plaint que les femmes qu'il a aimées souhaitent
 l'empêcher de chercher une meilleure fortune (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#470_verso">III, 11,
 470 verso</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName> craint la fortune de <rs type="repertoire" ref="repertoire_pp.xml#3_promethee">Prométhée</rs>
 en dévoilant un secret (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#411_verso">III, 10,
@@ -1293,21 +1294,21 @@ en dévoilant un secret (<ref target="../_roman/reference/21_3/21_3_livre_10.xml
 441 recto</ref>). Il remercie pourtant la fortune qui lui a permis de
 surprendre une conversation (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#442_verso">III, 10,
 442 verso</ref>).</p>
-               <p/>
+               
                <p>
-• Les bergers en principe sont moins sujets aux «coups de
-fortune» (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#42_verso">III, 2, 42
+• Les bergers en principe sont moins sujets aux <quote>coups de
+fortune</quote> (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#42_verso">III, 2, 42
 verso</ref>). Ils ne se sont pas totalement à l'abri. Leurs hôtes,
-les bergers déguisés, souffrent encore de leur «miserable
-fortune» (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#462_verso">III, 11,
+les bergers déguisés, souffrent encore de leur <quote>miserable
+fortune</quote> (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#462_verso">III, 11,
 462 verso</ref>)</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#3_astree">Astrée</persName> se juge trop peu aimée de la Fortune pour
 recevoir une grâce d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#183_verso">III, 5, 183
 verso</ref>); elle la recevra pourtant. Fataliste, elle
-déclare: «Le Ciel ou plustost ma mauvaise fortune l'a
-voulu» (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#193_verso">III, 5, 193
+déclare: <quote>Le Ciel ou plustost ma mauvaise fortune l'a
+voulu</quote> (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#193_verso">III, 5, 193
 verso</ref>).</p>
                <p>
 Être aimée d'<persName ref="personnage_aa.xml#3_alexis">Alexis</persName> serait une grande fortune (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#211_recto">III, 5, 211
@@ -1315,17 +1316,17 @@ recto</ref>), pense-t-elle. Elle est aimée.</p>
                <p>
 Lorsqu'elle apprend qu'elle va demeurer près d'<persName ref="personnage_aa.xml#3_alexis">Alexis</persName>,
 <persName ref="personnage_aa.xml#3_astree">Astrée</persName>
-oublie toutes les «traverses» de la Fortune (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#265_verso">III, 7, 265
+oublie toutes les <quote>traverses</quote> de la Fortune (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#265_verso">III, 7, 265
 verso</ref>).</p>
-               <p/>
+               
                <p>
-• <persName ref="personnage_cc.xml#3_celadon">Céladon</persName> attend «la fin du supplice que la
-fortune [lui] a ordonné» (<ref target="../_roman/reference/21_3/21_3_livre_1.xml#12_recto">III, 1, 12
+• <persName ref="personnage_cc.xml#3_celadon">Céladon</persName> attend <quote>la fin du supplice que la
+fortune [lui] a ordonné</quote> (<ref target="../_roman/reference/21_3/21_3_livre_1.xml#12_recto">III, 1, 12
 recto</ref>). En tant qu'<persName ref="personnage_aa.xml#3_alexis">Alexis</persName>, il juge que le travestissement est plus
-dangereux pour lui «que fortune [qu'il] puisse jamais
-courre» (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#185_verso">III, 5, 185
-verso</ref>). Il s'inquiète parce que «la Fortune l'a toujours
-trompé» (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#187_recto">III, 5, 187
+dangereux pour lui <quote>que fortune [qu'il] puisse jamais
+courre</quote> (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#185_verso">III, 5, 185
+verso</ref>). Il s'inquiète parce que <quote>la Fortune l'a toujours
+trompé</quote> (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#187_recto">III, 5, 187
 recto</ref>).</p>
                <p>
                   <persName ref="personnage_aa.xml#3_adamas">Adamas</persName>
@@ -1334,91 +1335,91 @@ va le lui rendre (<ref target="../_roman/reference/21_3/21_3_livre_1.xml#13_rect
 recto</ref>).</p>
                <p>
                   <persName ref="personnage_aa.xml#3_alexis">Alexis</persName>
-se plaint de n'avoir pas le courage «de tenter encores la
-bonne volonté de cette fortune» qui l'a mise si près
+se plaint de n'avoir pas le courage <quote>de tenter encores la
+bonne volonté de cette fortune</quote> qui l'a mise si près
 d'<persName ref="personnage_aa.xml#3_astree">Astrée</persName> (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#432_recto">III, 10,
 432 recto</ref>)</p>
-               <p/>
+               
                <p>
 • Fortune est opposée au mérite (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#72_verso">III, 3, 72
-verso</ref>), mais associée à l'amour: «<rs type="repertoire" ref="repertoire_aa.xml#3_amour">Amour</rs> et la
-Fortune aydent à une ame courageuse» (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#79_recto">III, 3, 79
+verso</ref>), mais associée à l'amour: <quote><rs type="repertoire" ref="repertoire_aa.xml#3_amour">Amour</rs> et la
+Fortune aydent à une ame courageuse</quote> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#79_recto">III, 3, 79
 recto</ref>). Cependant, ailleurs, une âme courageuse suit <rs type="repertoire" ref="repertoire_aa.xml#3_amour">Amour</rs>
-«quoy que Fortune ordonne» (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#257_recto">III, 6, 257
-recto</ref>). Plus encore, <rs type="repertoire" ref="repertoire_aa.xml#3_amour">Amour</rs> peut estre «jaloux des faveurs
-que la fortune» accorde (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#474_recto">III, 11,
+<quote>quoy que Fortune ordonne</quote> (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#257_recto">III, 6, 257
+recto</ref>). Plus encore, <rs type="repertoire" ref="repertoire_aa.xml#3_amour">Amour</rs> peut estre <quote>jaloux des faveurs
+que la fortune</quote> accorde (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#474_recto">III, 11,
 474 recto</ref>).</p>
-               <p/>
+               
                <p>
 • On peint avec raison une Fortune à deux visages (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#63_recto">III, 3, 63
-recto</ref>): elle peut être «heureuse» (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#104_verso">III, 3, 104
-verso</ref>) ou apporter des «outrages» (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#131_recto">III, 4, 131
+recto</ref>): elle peut être <quote>heureuse</quote> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#104_verso">III, 3, 104
+verso</ref>) ou apporter des <quote>outrages</quote> (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#131_recto">III, 4, 131
 recto</ref>).</p>
-               <p/>
+               
                <p>
-• Parce qu'un bon mariage permet de supporter «les cent et
-cent accidens de la fortune», un homme «doit bien
-sacrifier à la fortune lors qu'il se marie» (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#445_recto">III, 10,
+• Parce qu'un bon mariage permet de supporter <quote>les cent et
+cent accidens de la fortune</quote>, un homme <quote>doit bien
+sacrifier à la fortune lors qu'il se marie</quote> (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#445_recto">III, 10,
 445 recto</ref>). Il doit compter sur la chance.</p>
-               <p/>
+               
                <p>
 • Les deux dernières mentions de la déesse Fortune sont
 tragiques:</p>
                <p>
-                  <persName ref="personnage_cc.xml#3_childeric">Childéric</persName> doit «ceder à la violence de cette
-fortune contraire» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#546_verso">III, 12,
+                  <persName ref="personnage_cc.xml#3_childeric">Childéric</persName> doit <quote>ceder à la violence de cette
+fortune contraire</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#546_verso">III, 12,
 546 verso</ref>) et quitter <rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs>.</p>
                <p>
                   <persName ref="personnage_aa.xml#3_amasis">Amasis</persName>, apprenant la mort de son fils, ressent
-vivement «ce coup de fortune» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#549_recto">III, 12,
+vivement <quote>ce coup de fortune</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#549_recto">III, 12,
 549 recto</ref>).</p>
             </note>
             <note xml:id="fortune_dieu_4" n="4" ana="geographie">
                <label>Fortune</label>
-               <p>Mentionnée dans:<ref target="#fortune_dieu">I</ref>, <ref target="#2_fortune_dieu">II</ref>,
-<ref target="#3_fortune_dieu">III</ref>, <ref target="#4_fortune_dieu">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#fortune_dieu">I</ref>, <ref target="#2_fortune_dieu">II</ref>,
+<ref target="#3_fortune_dieu">III</ref>, <ref target="#4_fortune_dieu">IV</ref></mentioned><p>
 La déesse Fortune perd de son aura dans la quatrième partie de
 <bibl source="bibliographie.xml#1624">1624</bibl>.
 Elle est rarement sujet d'un verbe et elle est confondue avec le
 sort (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#255">IV,
 2, 255</ref>). Maintenant, comme l'écrit <bibl source="bibliographie.xml#pierius">Pierius</bibl>,
-«la serve Necessité marche tousjours devant la Fortune»
+<quote>la serve Necessité marche tousjours devant la Fortune</quote>
 (II, p.651).</p>
-               <p/>
+               
                <p>
 • Synonyme de destin, la fortune est nommée par le romancier pour
 faire allusion à l'avenir de <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName>
 (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#108">IV, 1,
 108</ref>).</p>
-               <p/>
+               
                <p>
 • Une réflexion de <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> sur les domaines touchés par la fortune
 (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#229">IV, 2,
 229</ref>) vient des <bibl source="bibliographie.xml#epistres">
                      <emph>Epistres morales</emph>
                   </bibl>.</p>
-               <p/>
+               
                <p>
-                  <note ana="remarque">«Hors de nous sont les grandeurs,
+                  <note ana="remarque"><quote>Hors de nous sont les grandeurs,
 les Empires, la richesse, les enfans, la santé, &amp; telles autres
-choses subjectes à la Fortune»
+choses subjectes à la Fortune</quote>
 (I, 2, p.13).
-Comme il le signale lui-même, d'Urfé s'inspire d'<bibl source="bibliographie.xml#epictete">Épictète</bibl>: «Ce qui ne dépend pas de
+Comme il le signale lui-même, d'Urfé s'inspire d'<bibl source="bibliographie.xml#epictete">Épictète</bibl>: <quote>Ce qui ne dépend pas de
 nous, c’est le corps, la fortune, les témoignages de considération,
 les charges publiques, en un mot tout ce qui n'est pas opération de
-notre âme» (1).</note>
+notre âme</quote> (1).</note>
                </p>
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> sait que les avantages que la fortune
 donne à <persName ref="personnage_bb.xml#4_bellimarte">Bellimarte</persName> proviennent tous de <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName>
 (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#249">IV, 2,
 249</ref>). Il s'agit surtout d'avantages financiers.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_mm.xml#4_merindor">Mérindor</persName> prétend que les accidents de la fortune
 ne l'empêcheront pas d'aimer <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#296">IV, 2,
 296</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Le chevalier se trompe. Il le
 reconnaîtra dans une lettre
@@ -1429,13 +1430,13 @@ reconnaîtra dans une lettre
 • Aux yeux de <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>, la fortune, comme le Ciel, manipule les
 hommes (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#339">IV, 2,
 339</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Dans les <bibl source="bibliographie.xml#epistres">
                         <emph>Epistres</emph>
                      </bibl>, tout ce qui se fait dans le
-monde «n’est qu'une Comedie, dont l'univers est le theatre,
-les hommes les personnages, les Dieux auditeurs<note target="note_analyses.html#auditeurs"/>, et la Fortune le Poëte» (I, 19,
+monde <quote>n’est qu'une Comedie, dont l'univers est le theatre,
+les hommes les personnages, les Dieux auditeurs<note target="note_analyses.html#auditeurs"/>, et la Fortune le Poëte</quote> (I, 19,
 p.164).</note>
                </p>
                <p>
@@ -1443,21 +1444,21 @@ p.164).</note>
 termine la première partie de son histoire en annonçant ce que la
 déesse apprête pour elle (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#364">IV, 2,
 364</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> se plaint de la fortune qui a conduit les
 hommes envoyés par <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> jusqu'à elle (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#401">IV, 3,
 401</ref>).</p>
-               <p/>
+               
                <p>
 • Fortune est dotée d'une connotation néfaste quand <persName ref="personnage_pp.xml#4_phillis">Phillis</persName>
-résume le destin de <persName ref="personnage_ff.xml#4_filandre">Filandre</persName>: «le mal-heur et la mauvaise
-fortune» (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#408">IV, 3,
+résume le destin de <persName ref="personnage_ff.xml#4_filandre">Filandre</persName>: <quote>le mal-heur et la mauvaise
+fortune</quote> (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#408">IV, 3,
 408</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Dans la première partie, le berger se
-plaignait de «la loy de [s]on destin» (<ref target="../_roman/reference/21_1/21_1_livre_6.xml#163_verso">I, 6, 163
+plaignait de <quote>la loy de [s]on destin</quote> (<ref target="../_roman/reference/21_1/21_1_livre_6.xml#163_verso">I, 6, 163
 verso</ref>).</note>
                </p>
                <p>
@@ -1468,7 +1469,7 @@ verso</ref>).</note>
 417</ref>). Selon lui, la rencontre de <persName ref="personnage_dd.xml#4_diane">Diane</persName> l'a
 soumis à la fortune (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#418">IV, 3,
 418</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Il est déjà arrivé à <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName>
 de se plaindre de la fortune, mais aussi de la remercier (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#442_verso">III, 10,
@@ -1478,12 +1479,12 @@ de se plaindre de la fortune, mais aussi de la remercier (<ref target="../_roman
 • <emph>Biens de la fortune</emph> (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#426">IV, 3,
 426</ref>): l'expression s'applique à <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName>,
 celui qui ne jouit pas des biens de la fortune.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#4_astree">Astrée</persName> affirme que la fortune se joue de tous les
 humains (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#439">IV, 3,
 439</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">À l'entrée du roman, Honoré d'Urfé
 prétendait que les bergers estimaient peu la fortune (<ref target="../_roman/reference/21_1/21_1_livre_1.xml#1_verso">I, 1, 1
@@ -1500,24 +1501,24 @@ des grands (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#442">IV, 3,
 figure dans les <bibl source="bibliographie.xml#epistres">
                         <emph>Epistres</emph>
                      </bibl>:
-Fortune adresse ses traits soigneusement; «elle les
+Fortune adresse ses traits soigneusement; <quote>elle les
 fait descendre sur les grands Empires seulement. Que si quelquefois
 elle pointe plus bas, c’est pour peu à peu rapporter ces changemens
-à de plus hauts desseins» (I, 10, pp.91-92).
+à de plus hauts desseins</quote> (I, 10, pp.91-92).
 Les <bibl source="bibliographie.xml#epistres">
                         <emph>Epistres</emph>
                      </bibl>introduisent une autre
-image encore: «comme le ballon s'esleve plus haut plus
-il est violemment abbatu» (I, 6, p.45).
+image encore: <quote>comme le ballon s'esleve plus haut plus
+il est violemment abbatu</quote> (I, 6, p.45).
 La pensée de <persName ref="personnage_pp.xml#4_phocion">Phocion</persName> se trouve également dans le titre même
 d'une des <bibl source="bibliographie.xml#epistres">
                         <emph>Epistres</emph>
                      </bibl>:
-«<emph>Qu’il faut de longue main se resoudre aux
-adversitez</emph>»
+<quote><emph>Qu’il faut de longue main se resoudre aux
+adversitez</emph></quote>
 (I, 8 p.60).
 Fortune agit comme le vent qui s'en prend aux arbres les plus
-élevés dans «<ref target="http://www.la-fontaine-ch-thierry.net/chenroso.htm">Le Chêne et le roseau</ref>» de Jean de La
+élevés dans <quote><ref target="http://www.la-fontaine-ch-thierry.net/chenroso.htm">Le Chêne et le roseau</ref></quote> de Jean de La
 Fontaine.</note>
                </p>
                <p>
@@ -1529,17 +1530,17 @@ l'affronter
                </p>
                <p>
 • <persName ref="personnage_tt.xml#4_thamire">Thamire</persName> coordonne la fortune et la mer,
-«choses fortuites» (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#464">IV, 3,
+<quote>choses fortuites</quote> (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#464">IV, 3,
 464</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Fortune et mer sont aussi rapprochées
 dans les <bibl source="bibliographie.xml#epistres">
                         <emph>Epistres morales</emph>
                      </bibl> (I, 5,
 p.41):
-«La mer ne tourmente guieres les vaisseaux qui ne bougent du
-port»
+<quote>La mer ne tourmente guieres les vaisseaux qui ne bougent du
+port</quote>
 (<emph>
                         <bibl source="bibliographie.xml#epistres">Ibid.</bibl>
                      </emph>, I, 18, p.159).</note>
@@ -1548,24 +1549,24 @@ port»
 • Dans des stances, <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName> affirme que la fortune souriait au début
 de ses amours avec <persName ref="personnage_dd.xml#4_diane">Diane</persName> (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#498">IV, 3,
 498</ref>).</p>
-               <p/>
+               
                <p>
 • Parce qu'elle a fait passer <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName>
 du malheur au bonheur, <persName ref="personnage_pp.xml#4_phillis">Phillis</persName> se compare en riant à la fortune
 (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#629">IV, 3,
 629</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_cc.xml#4_circene">Circène</persName> explique qu'on essaie de surmonter
-«les coups de la fortune» (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#637">IV, 4, 637</ref>)
+<quote>les coups de la fortune</quote> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#637">IV, 4, 637</ref>)
 avec la force ou la prudence<note target="note_4.html#4_prudence"/>.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> commence son histoire par une
 maxime: la Fortune envoyée par le Ciel lui apporte des
 désastres (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#638">IV, 4,
 638</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Réflexion similaire au début de
 l'histoire de <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>:
@@ -1581,55 +1582,55 @@ de celle qui en souffre (<ref target="../_roman/reference/21_2/21_2_livre_11.xml
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> encore (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#645">IV, 4, 645</ref>)
 considère que l'honneur de servir à la Cour donne à la fortune un
 chemin pour mieux l'atteindre.</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Dans les <bibl source="bibliographie.xml#epistres">
                         <emph>Epistres</emph>
-                     </bibl>, Fortune préfère «les
-grands Empires» (I, 10, p. 91).</note>
+                     </bibl>, Fortune préfère <quote>les
+grands Empires</quote> (I, 10, p. 91).</note>
                </p>
                <p>
 • Pour <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>, l'attitude de <persName ref="personnage_mm.xml#4_merindor">Mérindor</persName> est
 un nouveau fardeau envoyé par la Fortune (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#647">IV, 4,
 647</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_mm.xml#4_merindor">Mérindor</persName>, lui, loue la Fortune qui l'a ramené
 auprès de <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#654">IV, 4,
 654</ref>).</p>
-               <p/>
+               
                <p>
 • Selon <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>, Fortune, qui donne aux uns le bonheur et
 aux autres le malheur, s'acharne sur elle (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#656">IV, 4,
 656</ref>).</p>
-               <p/>
+               
                <p>
 • Selon <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>, la <emph>Fortune</emph> refuse de lui
 épargner une seule <emph>infortune</emph> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#697">IV, 4,
 697</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_darinee">Darinée</persName> considère que la Fortune sourit à <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> si
 <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> est amoureux d'elle (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#740">IV, 4,
 740</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> voit dans une maladresse de <persName ref="personnage_dd.xml#4_darinee">Darinée</persName> un
 malheur voulu par la Fortune: l'amour de <persName ref="personnage_ss.xml#4_sigismond">Sigismond</persName>
 pour <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> est divulgué (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#790">IV, 4,
 790</ref>).</p>
-               <p/>
+               
                <p>
-• «Notre mauvaise fortune». C'est ainsi que <persName ref="personnage_ss.xml#4_sigismond">Sigismond</persName>
+• <quote>Notre mauvaise fortune</quote>. C'est ainsi que <persName ref="personnage_ss.xml#4_sigismond">Sigismond</persName>
 relie son sort à celui de <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#805">IV, 4,
 805</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> juge que la Fortune se moque d'elle:
 alors qu'elle espérait trouver de l'aide auprès d'une vieille
 femme, elle voit un vieillard et des petites filles (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#898">IV, 4,
 898</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Alors que la vieille femme (assimilée
 aux nourrices ou aux grands-mères) peut jouer le rôle d'auxiliaire
@@ -1641,12 +1642,12 @@ poèmes héroïques italiens.</note>
 plaindre d'une fortune qui est en fait un instrument de la prudence
 divine (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#901">IV, 4,
 901</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> insiste: elle a été blessée par la
 Fortune (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#905">IV, 4,
 905</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Il n'est question de providence ni dans
 l'histoire si tumultueuse de <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>, ni dans l'ensemble de la quatrième
@@ -1655,134 +1656,134 @@ partie de <bibl source="bibliographie.xml#1624">1624</bibl>.</note>
             </note>
             <note xml:id="france" n="1" ana="geographie">
                <label>France</label>
-               <p>Mentionnée dans:<ref target="#france">I</ref>, <ref target="#2_france">II</ref>, <ref target="#3_france">III</ref>Psychologie, linguistique et histoire se mêlent pour donner son
-nom à la France. Chez <bibl source="bibliographie.xml#fauchet">Fauchet</bibl>, d'Urfé a pu lire: «Les
+               <mentioned>Mentionnée dans:<ref target="#france">I</ref>, <ref target="#2_france">II</ref>, <ref target="#3_france">III</ref></mentioned><p>Psychologie, linguistique et histoire se mêlent pour donner son
+nom à la France. Chez <bibl source="bibliographie.xml#fauchet">Fauchet</bibl>, d'Urfé a pu lire: <quote>Les
 Francs que d'ores-en avant je veux appeller François, puis qu'ils
-sont tous <rs type="repertoire" ref="repertoire_gg.xml#gaulois">Gaulois</rs>, et ne changeront plus de pays» (p.
+sont tous <rs type="repertoire" ref="repertoire_gg.xml#gaulois">Gaulois</rs>, et ne changeront plus de pays</quote> (p.
 102).C'est la naissance de la France que <emph>L'Astrée</emph> rapporte et situe donc au milieu du
-Vesiècle, du temps de <persName ref="personnage_mm.xml#2_merovee">Mérovée</persName>. La
+Ve siècle, du temps de <persName ref="personnage_mm.xml#2_merovee">Mérovée</persName>. La
 <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs>
-«prend le nom de France» (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#64_recto">I, 3, 64
+<quote>prend le nom de France</quote> (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#64_recto">I, 3, 64
 recto</ref>).</p>
             </note>
             <note xml:id="france_2" n="2" ana="geographie">
                <label>France</label>
-               <p>Mentionnée dans:<ref target="#france">I</ref>, <ref target="#2_france">II</ref>, <ref target="#3_france">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#france">I</ref>, <ref target="#2_france">II</ref>, <ref target="#3_france">III</ref></mentioned><p>
                   <bibl source="bibliographie.xml#la_mure">La
 Mure</bibl> note que, sous le règne d'<persName ref="personnage_hh.xml#2_honorius">Honorius</persName>,
-«le nom des François commença d'éclater, et se faire
-connoistre vers le <rs type="repertoire" ref="repertoire_qr.xml#2_rhin">Rhin</rs>» (I, p.56). Au début du
-XXesiècle encore, un historien
+<quote>le nom des François commença d'éclater, et se faire
+connoistre vers le <rs type="repertoire" ref="repertoire_qr.xml#2_rhin">Rhin</rs></quote> (I, p.56). Au début du
+XXe siècle encore, un historien
 comme Camille Jullian (cité par <bibl source="bibliographie.xml#ferdiere">Ferdière</bibl>,
-p.325) considère le Vesiècle
+p.325) considère le Ve siècle
 comme le moment où la <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> laisse la place à la <rs type="repertoire" ref="#2_france">France</rs>, une césure entre l'antiquité et le
 haut Moyen Âge. (Voir Transition<note target="note_2.html#2_transition"/>). Selon Étienne <bibl source="bibliographie.xml#pasquier">Pasquier</bibl>, la <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> est
-devenue la France «depuis unze cents ans [...] dés le temps
-de Childebert, Roy de France, fils de Clovis»
+devenue la France <quote>depuis unze cents ans [...] dés le temps
+de Childebert, Roy de France, fils de Clovis</quote>
 (p.17I).</p>
-               <p/>
+               
                <p>
-• La France est encore en train de naître. «La <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> peu à peu
-chang[e]» de nom pour devenir la France (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#508">II, 8, 508</ref>).
+• La France est encore en train de naître. <quote>La <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> peu à peu
+chang[e]</quote> de nom pour devenir la France (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#508">II, 8, 508</ref>).
 Les <rs type="repertoire" ref="#2_francs">Francs</rs> commencent à
 appeler la <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> France (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#805">II, 12,
 805</ref>).</p>
             </note>
             <note xml:id="france_3" n="3" ana="geographie">
                <label>France</label>
-               <p>Mentionnée dans:<ref target="#france">I</ref>, <ref target="#2_france">II</ref>, <ref target="#3_france">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#france">I</ref>, <ref target="#2_france">II</ref>, <ref target="#3_france">III</ref></mentioned><p>
 Bien que la troisième partie rapporte l'histoire des <rs type="repertoire" ref="#3_francs">Francs</rs>, le nom de la France
 figure dans les folios liminaires seulement.</p>
-               <p/>
+               
                <p>
 • Dans la <ref target="../_roman/reference/21_3/21_3_liminaires.xml#3_dedicace_louis">dédicace</ref>,
 <rs type="repertoire" ref="repertoire_hh.xml#3_henri">HenriIV</rs> relève une France chancelante. Dans
 la <ref target="../_roman/reference/21_3/21_3_liminaires.xml#3_autheur_lignon">préface</ref>,
-le romancier souhaite que son œuvre vive «aussi longuement
-que dans la France l'on parlera François».</p>
+le romancier souhaite que son œuvre vive <quote>aussi longuement
+que dans la France l'on parlera François</quote>.</p>
             </note>
             <note xml:id="francois" n="1" ana="histoire">
                <label>François</label>
-               <p>Mentionnés dans:<ref target="#francons">I</ref>
+               <mentioned>Mentionnés dans:<ref target="#francons">I</ref></mentioned><p>
                   <note ana="variante">Dans l'édition de 1607, les <rs type="repertoire" ref="#francs">Francs</rs> sont appelés une fois
-«François» (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#63_verso">I, 3, 63
-verso</ref>) au lieu de «Françons».</note>
+<quote>François</quote> (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#63_verso">I, 3, 63
+verso</ref>) au lieu de <quote>Françons</quote>.</note>
                </p>
             </note>
             <note xml:id="francons" n="1" ana="histoire">
                <label>Françons</label>
-               <p>Mentionnés dans:<ref target="#francons">I</ref>
+               <mentioned>Mentionnés dans:<ref target="#francons">I</ref></mentioned><p>
                   <note ana="variante">Dans l'édition de 1607, les <rs type="repertoire" ref="#francs">Francs</rs> sont appelés
-«Françons»
+<quote>Françons</quote>
 ( <ref target="../_roman/reference/21_1/21_1_livre_11.xml#359_recto">I, 11, 359
 recto</ref>).</note>
                </p>
             </note>
             <note xml:id="francs" n="1" ana="histoire">
                <label>Francs</label>
-               <p>Mentionnés dans:<ref target="#francs">I</ref>, <ref target="#2_francs">II</ref>, <ref target="#3_francs">III</ref>, <ref target="#4_francs">IV</ref>
-                  <bibl source="bibliographie.xml#furetiere">Furetière</bibl> écrit à l'article <emph>Franc</emph>: «Ainsi tous les Auteurs sont
+               <mentioned>Mentionnés dans:<ref target="#francs">I</ref>, <ref target="#2_francs">II</ref>, <ref target="#3_francs">III</ref>, <ref target="#4_francs">IV</ref></mentioned><p>
+                  <bibl source="bibliographie.xml#furetiere">Furetière</bibl> écrit à l'article <emph>Franc</emph>: <quote>Ainsi tous les Auteurs sont
 d'accord que le nom de François ou franc est venu de ce qu'ils ont
 toûjours deffendu leur liberté. On tient que ç'a esté Gregoire le
-Grand qui le premier a appellé la Gaule France».</p>
+Grand qui le premier a appellé la Gaule France</quote>.</p>
                <p>
 Les historiens ont des points de vue différents: <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>
                   <note target="note_analyses.html#fauchet"/>
-déclare: «Il y a apparence, que ce peuple ayant conquis
+déclare: <quote>Il y a apparence, que ce peuple ayant conquis
 partie de <rs type="repertoire" ref="repertoire_gg.xml#gaule">Gaule</rs>, ne se voulut asubjetir de payer semblables
-imposts que les anciens habitans d'icelle» (f°60 verso
+imposts que les anciens habitans d'icelle</quote> (f°60 verso
 et 61 recto). De son côté, Étienne <bibl source="bibliographie.xml#pasquier">Pasquier</bibl>
                   <note target="note_analyses.html#pasquier"/> combine,
 dans la même page, les deux interprétations du nom des
 Francs: Ils sont <emph>francs</emph>
-«pour une liberté et franchise qu'ils projettoient en leur
-esprit» et pour avoir été «affranchis de toutes
-tailles, subsides, et tribus» par l'Empereur
+<quote>pour une liberté et franchise qu'ils projettoient en leur
+esprit</quote> et pour avoir été <quote>affranchis de toutes
+tailles, subsides, et tribus</quote> par l'Empereur
 ValentinienIer (p.17).</p>
                <p>
 Plus loin, <bibl source="bibliographie.xml#pasquier">Pasquier</bibl> donne une explication plus complexe et
 moins connue: Dans les territoires conquis, les vaincus
 deviennent des serfs, les capitaines et seigneurs reçoivent des
 fiefs (<emph>franc fief</emph>). Quand aux soldats
-francs, ils «conservent la liberté en laquelle ils estoient
+francs, ils <quote>conservent la liberté en laquelle ils estoient
 nez, leur demeurant leur nom originaire de francs, comme si on eust
 voulu que tous Francs ou François estoient naturellement de
-condition libre»(p.309). Pasquier, conclut
-C.-G.<bibl source="bibliographie.xml#dubois">Dubois</bibl>, «est le premier à faire dépendre
+condition libre</quote>(p.309). Pasquier, conclut
+C.-G.<bibl source="bibliographie.xml#dubois">Dubois</bibl>, <quote>est le premier à faire dépendre
 un prétendu caractère, lié à la race, de la condition d'existence
 […] ainsi la prétendue légèreté des <rs type="repertoire" ref="repertoire_gg.xml#gaulois">Gaulois</rs> doit
-être attribuée à leur souci de se libérer du joug romain»
+être attribuée à leur souci de se libérer du joug romain</quote>
 (p.116).</p>
-               <p/>
+               
                <p>
-                  <note ana="variante">«Francs» remplace partout
-«Françons» après 1607.</note>
+                  <note ana="variante"><quote>Francs</quote> remplace partout
+<quote>Françons</quote> après 1607.</note>
                </p>
                <p>
 • Honoré d'Urfé connaissait sans doute les diverses explications
-données au XVIesiècle, mais il
+données au XVIe siècle, mais il
 choisit d'écrire seulement que le peuple de <rs type="repertoire" ref="repertoire_pp.xml#paris_ville">Paris</rs> prend
-le nom de «Francs» pour plaire à <persName ref="personnage_mm.xml#merovee">Mérovée</persName>, roi
+le nom de <quote>Francs</quote> pour plaire à <persName ref="personnage_mm.xml#merovee">Mérovée</persName>, roi
 des Francs (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#64_recto">I, 3, 64
 recto</ref>).</p>
             </note>
             <note xml:id="francs_2" n="2" ana="histoire">
                <label>Francs</label>
-               <p>Mentionnés dans:<ref target="#francs">I</ref>, <ref target="#2_francs">II</ref>, <ref target="#3_francs">III</ref>, <ref target="#4_francs">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#francs">I</ref>, <ref target="#2_francs">II</ref>, <ref target="#3_francs">III</ref>, <ref target="#4_francs">IV</ref></mentioned><p>
 Peuple originaire de <rs type="repertoire" ref="repertoire_gg.xml#2_germanie">Germanie</rs> orientale qui fait des incursions en
 <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs>
-depuis le IIIesiècle (<bibl source="bibliographie.xml#ferdiere">Ferdière</bibl>,
+depuis le IIIe siècle (<bibl source="bibliographie.xml#ferdiere">Ferdière</bibl>,
 p.342).</p>
                <p>
-                  <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl> écrit: «Les François se
+                  <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl> écrit: <quote>Les François se
 sont aisément meslez et unis avec les <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs>,
 estans de mesme origine, et mœurs approchans les uns des
-autres» (f°3 recto). Il lui semble même «que ces
+autres</quote> (f°3 recto). Il lui semble même <quote>que ces
 Francs fussent retournez comme d'une longue captivité, ou absence,
-en <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> leur pays naturel et origine»
-(f°56 recto). La <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> est l'«Originaire Patrie» des
+en <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> leur pays naturel et origine</quote>
+(f°56 recto). La <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> est l'<quote>Originaire Patrie</quote> des
 Francs, affirme <bibl source="bibliographie.xml#la_mure">La Mure</bibl> aussi (I, p.56).</p>
-               <p/>
+               
                <p>
 • Honoré d'Urfé partage ces opinions. La toute première information
 donnée dans la deuxième partie sur les Francs est
@@ -1793,14 +1794,14 @@ Les Francs se considèrent originaires de la <rs type="repertoire" ref="repertoi
 750</ref>), ce que prouve le fait que des druides les accompagnent
 (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#515">II, 8,
 515</ref>), dit <persName ref="personnage_aa.xml#2_adamas">Adamas</persName>.</p>
-               <p/>
+               
                <p>
 • Redoutables à combattre (<ref target="../_roman/reference/21_2/21_2_livre_4.xml#198">II, 4, 198</ref>),
-les Francs «sont entre tous les peuples Septentrionaux, les
+les Francs <quote>sont entre tous les peuples Septentrionaux, les
 plus belliqueux<note target="note_2.html#2_belliqueux"/> et les plus
-aguerris» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#750">II, 11,
+aguerris</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#750">II, 11,
 750</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#2_adamas">Adamas</persName> expose dans sa demeure les
 armoiries<note target="note_2.html#2_armoiries"/> de <persName ref="personnage_pp.xml#2_pharamond">Pharamond</persName>,
@@ -1813,12 +1814,12 @@ Quelques Francs restés sur l'autre rive du <rs type="repertoire" ref="repertoir
 contraints de se joindre à <persName ref="personnage_aa.xml#2_attila">Attila</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#805">II, 12, 805</ref>
 et <ref target="../_roman/reference/21_2/21_2_livre_12.xml#824">II,
 12, 824</ref>).</p>
-               <p/>
+               
                <p>
-• À une époque indéterminée, les Francs ont abattu «l'Aigle
-romaine» (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#830">II, 12,
+• À une époque indéterminée, les Francs ont abattu <quote>l'Aigle
+romaine</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#830">II, 12,
 830</ref>).</p>
-               <p/>
+               
                <p>
 • Du temps d'<persName ref="personnage_hh.xml#2_honorius">Honorius</persName>, les Francs se battent en <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> contre
 les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#738">II, 11, 738</ref>)
@@ -1826,12 +1827,12 @@ et sont d'abord vaincus (<ref target="../_roman/reference/21_2/21_2_livre_11.xml
 Conduits par <persName ref="personnage_cc.xml#2_clodion">Clodion</persName>, ils gagnent ensuite des territoires
 autour du <rs type="repertoire" ref="repertoire_qr.xml#rhin">Rhin</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#759">II, 11,
 759</ref>).</p>
-               <p/>
+               
                <p>
 • Sous <persName ref="personnage_mm.xml#2_merovee">Mérovée</persName>, les Francs s'installent où ils sont
 maintenant, dit <persName ref="personnage_aa.xml#2_adamas">Adamas</persName> sans donner plus de précisions (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#762">II, 11,
 762</ref>).</p>
-               <p/>
+               
                <p>
 • Les Francs de <persName ref="personnage_mm.xml#2_merovee">Mérovée</persName> s'entendent avec les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs>
 d'<persName ref="personnage_aa.xml#2_aetius">Ætius</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#823">II, 12, 823</ref>
@@ -1841,19 +1842,19 @@ et <ref target="../_roman/reference/21_2/21_2_livre_12.xml#839">II,
 (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#823">II, 12,
 823</ref>). Le roi des <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs> a d'abord attaqué les Francs (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#824">II, 12,
 824</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#2_aetius">Ætius</persName> craint une coalition des Francs, des
 <rs type="repertoire" ref="repertoire_bb.xml#2_bourguignons">Bourguignons</rs> et des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs>
 (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#827">II, 12,
 827</ref>).</p>
-               <p/>
+               
                <p>
 • L'armée d'<persName ref="personnage_aa.xml#2_aetius">Ætius</persName> comme celle d'<persName ref="personnage_aa.xml#2_attila">Attila</persName> est
-composée de «diverses nations», dont les Francs
+composée de <quote>diverses nations</quote>, dont les Francs
 (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#825">II, 12,
 825</ref>).</p>
-               <p/>
+               
                <p>
 • D'Urfé rappelle que <persName ref="personnage_cc.xml#2_clidaman">Clidaman</persName> se bat avec les Francs victorieux
 (<ref target="../_roman/reference/21_2/21_2_livre_7.xml#432">II, 7,
@@ -1863,30 +1864,30 @@ de <persName ref="personnage_cc.xml#2_childeric">Childéric</persName>, roi des 
 (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#657">II, 10,
 657</ref> et <ref target="../_roman/reference/21_2/21_2_livre_10.xml#665">II, 10,
 665</ref>).</p>
-               <p/>
+               
                <p>
 • Voir la <ref target="cartotheque.xml#carte_invasions">Carte des
 invasions</ref>.</p>
             </note>
             <note xml:id="francs_3" n="3" ana="histoire">
                <label>Francs</label>
-               <p>Mentionnés dans:<ref target="#francs">I</ref>, <ref target="#2_francs">II</ref>, <ref target="#3_francs">III</ref>, <ref target="#4_francs">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#francs">I</ref>, <ref target="#2_francs">II</ref>, <ref target="#3_francs">III</ref>, <ref target="#4_francs">IV</ref></mentioned><p>
 Grâce au site <emph>Persée</emph>, on peut lire le compte-rendu d'une
 séance orageuse de la Société d'Anthropologie de Paris, en 1874, au
-sujet des «Celtes, Gaulois et Francs», tels que les
+sujet des <quote>Celtes, Gaulois et Francs</quote>, tels que les
 présente Alexandre Bertrand (Voir ce <ref target="http://www.persee.fr/web/revues/home/prescript/article/bmsap_0301-8644_1874_num_9_1_3026">site</ref>, 13 juillet 2013).</p>
-               <p/>
+               
                <p>
 • Les Francs, toujours évoqués avec leurs rois, <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName> puis
 <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>, figurent dans quatre
 contextes:</p>
-               <p/>
+               
                <p>
 • Le romancier d'abord les nomme en décrivant une fresque peinte
 dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName>: c'est le peuple que conduit le père
 de <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>, <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#59_verso">III, 3, 59
 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">L'ecphrasis (description d'une peinture)
 est trois fois plus longue après l'édition de 1619.</note>
@@ -1897,89 +1898,89 @@ est trois fois plus longue après l'édition de 1619.</note>
 460 verso</ref>). <persName ref="personnage_pp.xml#3_polemas">Polémas</persName> va profiter du fait que le Prince est près
 des Francs (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#500_verso">III, 12,
 500 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Parce que les Francs s'estiment descendants des <rs type="repertoire" ref="repertoire_gg.xml#3_gaulois">Gaulois</rs>, ils
 interprètent en leur faveur l'oracle qui annonce que la ville de
-<rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs> appartiendra au «<rs type="repertoire" ref="repertoire_gg.xml#3_gaulois">Gaulois</rs>
-estranger» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#510_verso">III, 12,
+<rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs> appartiendra au <quote><rs type="repertoire" ref="repertoire_gg.xml#3_gaulois">Gaulois</rs>
+estranger</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#510_verso">III, 12,
 510 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">Épisode ajouté après l'édition de
 1619.</note>
                </p>
                <p>
 • Dans sa cour, <persName ref="personnage_mm.xml#3_methine">Méthine</persName> réunit <rs type="repertoire" ref="repertoire_gg.xml#3_gaulois">Gaulois</rs> et
-Francs pour «adoucir le farouche naturel de ces vieux
-<rs type="repertoire" ref="repertoire_ss.xml#3_sicambriens">Sicambriens</rs>» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#509_recto">III, 12,
+Francs pour <quote>adoucir le farouche naturel de ces vieux
+<rs type="repertoire" ref="repertoire_ss.xml#3_sicambriens">Sicambriens</rs></quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#509_recto">III, 12,
 509 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Les Francs se soulèvent contre <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#460_verso">III, 11,
 460 verso</ref>). L'<ref target="../_roman/reference/21_3/21_3_livre_12.xml#h_childeric">Histoire
 de Childeric, de Silviane, et d'Andrimarte</ref> raconte cet
 événement avec plus de détails:</p>
-               <p/>
+               
                <p>
 • Parce que les Francs admirent beaucoup <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName>, ils
 élisent <persName ref="personnage_cc.xml#3_childeric">Childéric</persName> pour lui succéder (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#507_recto">III, 12,
 507 recto</ref>). Lors du couronnement, à <rs type="repertoire" ref="repertoire_ss.xml#3_soissons">Soissons</rs>,
 les enseignes des Francs portent la fleur de lys (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#507_verso">III, 12,
 507 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Le jeune Roi oublie les recommandations de son père au sujet
-«de la guerriere vertu de la nation des Francs»
+<quote>de la guerriere vertu de la nation des Francs</quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#527_recto">III, 12,
 527 recto</ref>). Les Francs s'affaiblissent en suivant les mauvais
-exemples donnés par <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>: «Ils sembloient les femmes
-des hommes qu'ils souloient estre» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#508_recto">III, 12,
+exemples donnés par <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>: <quote>Ils sembloient les femmes
+des hommes qu'ils souloient estre</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#508_recto">III, 12,
 508 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Mécontente, la veuve de <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName>, <persName ref="personnage_mm.xml#3_methine">Méthine</persName>, se
 retire à <rs type="repertoire" ref="repertoire_uz.xml#3_ville_des_remois">Reims</rs>, près de <persName ref="personnage_qr.xml#3_remy">Remi</persName> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#536_verso">III, 12,
 536 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Le nouveau Roi recherche <persName ref="personnage_ss.xml#3_silviane">Silviane</persName>. La jeune femme a repoussé les
 avances de <persName ref="personnage_cc.xml#3_childeric">Childéric</persName> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#516_verso">III, 12,
 516 verso</ref>), parce qu'elle préférait <persName ref="personnage_aa.xml#3_andrimarte">Andrimarte</persName>, un chevalier Franc qui a grandi à la
 Cour avec elle (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#509_recto">III, 12,
 509 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Lorsque <persName ref="personnage_cc.xml#3_childeric">Childéric</persName> entre de force dans la maison où s'est
-réfugiée <persName ref="personnage_ss.xml#3_silviane">Silviane</persName>, il est déclaré «indigne et
-<term ref="glossaire_ik.xml#incapable">incapable</term> de la Couronne des Francs»
+réfugiée <persName ref="personnage_ss.xml#3_silviane">Silviane</persName>, il est déclaré <quote>indigne et
+<term ref="glossaire_ik.xml#incapable">incapable</term> de la Couronne des Francs</quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#535_verso">III,
 12, 535 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Les Francs élisent <persName ref="personnage_gg.xml#3_gillon">Gillon</persName> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#547_verso">III, 12,
 547 verso</ref>).</p>
             </note>
             <note xml:id="francs_4" n="4" ana="geographie">
                <label>Francs</label>
-               <p>Mentionnés dans:<ref target="#francs">I</ref>, <ref target="#2_francs">II</ref>, <ref target="#3_francs">III</ref>, <ref target="#4_francs">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#francs">I</ref>, <ref target="#2_francs">II</ref>, <ref target="#3_francs">III</ref>, <ref target="#4_francs">IV</ref></mentioned><p>
 • À deux reprises, <persName ref="personnage_aa.xml#4_ardilan">Ardilan</persName> parle à <persName ref="personnage_ss.xml#4_sigismond">Sigismond</persName>
 du Roi des Francs<note target="note_4.html#4_roy_des_francs"/> sans donner de
 nom (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#834">IV,
 4, 834</ref>).</p>
-               <p/>
+               
                <p>
 • Les Francs, rappelle <persName ref="personnage_aa.xml#4_ardilan">Ardilan</persName>, sont les ennemis des <rs type="repertoire" ref="repertoire_bb.xml#4_bourguignons">Bourguignons</rs> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#834">IV, 4, 834</ref>) à
 cause de leur ambition (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#835">IV, 4,
 835</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>, fuyant <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName>,
 ne peut pas chercher refuge auprès des Francs qui viennent de
 chasser leur roi (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#865">IV, 4,
 865</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Le bannissement de <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>
 est raconté dans la troisième partie
@@ -1989,45 +1990,45 @@ est raconté dans la troisième partie
             </note>
             <note xml:id="francus_3" n="3" ana="geographie">
                <label>Francus</label>
-               <p>Mentionné dans:<ref target="#3_francus">III</ref>
+               <mentioned>Mentionné dans:<ref target="#3_francus">III</ref></mentioned><p>
 La légende des origines troyennes de la France, longuement
 exploitée par Jean Lemaire de Belges, et développée par
 Ronsard<note target="note_analyses.html#ronsard"/> dans <emph>la
-Franciade</emph>, a conduit un poète du XVIesiècle à faire d'<rs type="repertoire" ref="repertoire_hh.xml#henri">HenriIV</rs> un
+Franciade</emph>, a conduit un poète du XVIe siècle à faire d'<rs type="repertoire" ref="repertoire_hh.xml#henri">HenriIV</rs> un
 descendant de Francus (<bibl source="bibliographie.xml#meniel">Méniel</bibl>, p.387).</p>
-               <p/>
+               
                <p>
 Honoré d'Urfé se distingue: il s'éloigne des poètes et leur
 préfère les historiens. Il ne fait qu'une seule et unique allusion
 à Francus dans toute son œuvre. Le romancier préfère donner à
-<emph>Franc</emph> le sens d'homme libre, «mythe radicalement
-différent et riche en dynamisme interne» (<bibl source="bibliographie.xml#poujol">Poujol</bibl>,
+<emph>Franc</emph> le sens d'homme libre, <quote>mythe radicalement
+différent et riche en dynamisme interne</quote> (<bibl source="bibliographie.xml#poujol">Poujol</bibl>,
 p.903).</p>
                <p>
 Les historiens que d'Urfé a probablement lus considèrent l'origine
-troyenne comme «une commune erreur», «une
-bourde» (<bibl source="bibliographie.xml#du_haillan">Du Haillan</bibl>, p.18). Pour <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>,
-«Francus ne serait pas fils d'Hector de Troye, mais
-Sicambrien» (61 recto). Dans la dernière phrase du premier
+troyenne comme <quote>une commune erreur</quote>, <quote>une
+bourde</quote> (<bibl source="bibliographie.xml#du_haillan">Du Haillan</bibl>, p.18). Pour <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>,
+<quote>Francus ne serait pas fils d'Hector de Troye, mais
+Sicambrien</quote> (61 recto). Dans la dernière phrase du premier
 livre de ses <emph>Recherches</emph>, <bibl source="bibliographie.xml#pasquier">Pasquier</bibl>
-reconnaît que la question troyenne est «plus curieuse que
-profitable» (p.39).</p>
-               <p/>
+reconnaît que la question troyenne est <quote>plus curieuse que
+profitable</quote> (p.39).</p>
+               
                <p>
 • Dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName>, la frise montre Francus, Prince dont la
-seule caractéristique est d'être «absent et empesché à
-d'autres conquestes» (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
+seule caractéristique est d'être <quote>absent et empesché à
+d'autres conquestes</quote> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
 verso</ref>)!</p>
             </note>
             <note xml:id="furan" n="1" ana="geographie">
                <label>Furan</label>
-               <p>Mentionné dans:<ref target="#furan">I</ref>, <ref target="#2_furan">II</ref>, <ref target="#3_furan">III</ref>
+               <mentioned>Mentionné dans:<ref target="#furan">I</ref>, <ref target="#2_furan">II</ref>, <ref target="#3_furan">III</ref></mentioned><p>
 Aux confins du <rs type="repertoire" ref="#forez">Forez</rs>,
 rivière qui arrose Saint-Étienne et se jette dans la <rs type="repertoire" ref="repertoire_ll.xml#loire">Loire</rs>. Elle est
 nommée parmi les cours d'eau qui irriguent la région (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#32_verso">I, 2, 32
 verso</ref>). Voir la carte de Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl>
 (p.181).</p>
-               <p/>
+               
                <p>
 • Trois des Bergères qui viennent des rives du Furan agissent d'une
 manière fort audacieuse. Il s'agit d'<persName ref="personnage_no.xml#olimpe">Olimpe</persName>,
@@ -2037,7 +2038,7 @@ conseillère de <persName ref="personnage_ff.xml#filandre">Filandre</persName> (
 recto</ref>), et de <persName ref="personnage_cc.xml#calliree">Callirée</persName>, épouse de <persName ref="personnage_gg.xml#gerestan">Gerestan</persName>
 (<ref target="../_roman/reference/21_1/21_1_livre_6.xml#161_recto">I,
 6, 161 recto</ref>), sœur et complice de <persName ref="personnage_ff.xml#filandre">Filandre</persName>.</p>
-               <p/>
+               
                <p>
 • Par ailleurs, dans le temple d'<rs type="repertoire" ref="repertoire_hh.xml#hercule">Hercule</rs> qui se
 trouve près du Furan, <persName ref="personnage_cc.xml#cloris">Cloris</persName> et <persName ref="personnage_qr.xml#rosidor">Rosidor</persName> se voient pour la première fois
@@ -2049,14 +2050,14 @@ substitut de la Tour en Jarez (p.196).</p>
             </note>
             <note xml:id="furan_2" n="2" ana="geographie">
                <label>Furan</label>
-               <p>Mentionné dans:<ref target="#furan">I</ref>, <ref target="#2_furan">II</ref>, <ref target="#3_furan">III</ref>
+               <mentioned>Mentionné dans:<ref target="#furan">I</ref>, <ref target="#2_furan">II</ref>, <ref target="#3_furan">III</ref></mentioned><p>
 Le premier historien du <rs type="repertoire" ref="#2_forez">Forez</rs>, <bibl source="bibliographie.xml#la_mure">La Mure</bibl>, affirme que le Furan jouit de
-«proprietez singulieres» pour la fabrication des armes
+<quote>proprietez singulieres</quote> pour la fabrication des armes
 (I, p.34). Le pays est renommé pour ses forgerons (I,
 p.257); Rousseau n'a donc pas tort. Les eaux du Furan
 servent à la trempe de l'acier qui se fait à Saint-Étienne
 (<bibl source="bibliographie.xml#longeon_province">Longeon</bibl>, p.43).</p>
-               <p/>
+               
                <p>
 • Dans la deuxième partie, <persName ref="personnage_aa.xml#2_adamas">Adamas</persName> explique que les Bergers de Furan,
 comme ceux de la <rs type="repertoire" ref="repertoire_ll.xml#2_loire">Loire</rs> et du <rs type="repertoire" ref="repertoire_ll.xml#2_lignon">Lignon</rs>, sont d'extraction noble (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#490">II, 8,
@@ -2064,24 +2065,24 @@ comme ceux de la <rs type="repertoire" ref="repertoire_ll.xml#2_loire">Loire</rs
             </note>
             <note xml:id="furan_3" n="3" ana="geographie">
                <label>Furan</label>
-               <p>Mentionné dans:<ref target="#furan">I</ref>, <ref target="#2_furan">II</ref>, <ref target="#3_furan">III</ref>
+               <mentioned>Mentionné dans:<ref target="#furan">I</ref>, <ref target="#2_furan">II</ref>, <ref target="#3_furan">III</ref></mentioned><p>
 Écrit <emph>Furant</emph>.</p>
-               <p/>
+               
                <p>
-• <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> entend parler de «la douce vie des
+• <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> entend parler de <quote>la douce vie des
 bergers et bergeres de <rs type="repertoire" ref="repertoire_ll.xml#3_loire">Loire</rs>, de Furant, d'<rs type="repertoire" ref="repertoire_aa.xml#3_argent">Argent</rs> et de
-<rs type="repertoire" ref="repertoire_ss.xml#3_serant">Serant</rs>: mais sur tous de <rs type="repertoire" ref="repertoire_ll.xml#3_lignon">Lygnon</rs>»
+<rs type="repertoire" ref="repertoire_ss.xml#3_serant">Serant</rs>: mais sur tous de <rs type="repertoire" ref="repertoire_ll.xml#3_lignon">Lygnon</rs></quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#159_recto">III, 4, 159
 recto</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Il y a donc des bergers hors du
 <rs type="repertoire" ref="#3_forez">Forez</rs>. Leur point commun
 c'est d'être associés à des cours d'eau.</note>
                </p>
                <p>
-• Voir la «Petite histoire du Furan» dans ce <ref target="https://www.forez-info.com/encyclopedie/histoire/67-petite-histoire-du-furan-et-des-rivieres-stephanoises.xml">site</ref> (25 septembre 2019). Le
-«furieux» est devenu fantôme.</p>
+• Voir la <quote>Petite histoire du Furan</quote> dans ce <ref target="https://www.forez-info.com/encyclopedie/histoire/67-petite-histoire-du-furan-et-des-rivieres-stephanoises.xml">site</ref> (25 septembre 2019). Le
+<quote>furieux</quote> est devenu fantôme.</p>
             </note>
          </div>
       </body>

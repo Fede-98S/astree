@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -18,7 +19,7 @@
          <div>
             <note xml:id="cala" n="1" ana="geographie">
                <label>Cala, (La)</label>
-               <p>Mentionnée dans:<ref target="#cala">I</ref>
+               <mentioned>Mentionnée dans:<ref target="#cala">I</ref></mentioned><p>
 Village situé sur les bords du <rs type="repertoire" ref="repertoire_ll.xml#lignon">Lignon</rs>. C'est l'un des rares lieux foréziens
 que Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl> n'ait pas réussi à retrouver
 (p.194, note 95).</p>
@@ -29,11 +30,11 @@ recto</ref>).</p>
             </note>
             <note xml:id="calais" n="1" ana="geographie">
                <label>Calais</label>
-               <p>Mentionné dans:<ref target="#calais">I</ref>, <ref target="#2_calais">II</ref>
+               <mentioned>Mentionné dans:<ref target="#calais">I</ref>, <ref target="#2_calais">II</ref></mentioned><p>
 Écrit aussi <emph>Callais</emph>. Ville du
 Pas-de-Calais, dont l'histoire est mouvementée au Moyen Âge comme
-au XVIesiècle. Les «Bourgeois
-de Calais» immortalisés par Rodin se sont sacrifiés pour la
+au XVIe siècle. Les <quote>Bourgeois
+de Calais</quote> immortalisés par Rodin se sont sacrifiés pour la
 ville en 1346, pendant la guerre de Cent ans (Voir ce <ref target="https://commons.wikimedia.org/wiki/File:Auguste_Rodin-Les_Bourgeois_de_Calais-Ny_Carlsberg_Glyptotek.jpg">site</ref>, 2 novembre 2020).</p>
                <p/>
                <p>
@@ -51,8 +52,8 @@ recto</ref>) grâce à la ruse proposée par <persName ref="personnage_ll.xml#ly
 n'a pas pu laisser indifférents les contemporains d'Honoré
 d'Urfé
 (<bibl source="bibliographie.xml#bayrou">Bayrou</bibl>, p.344).
-«Le peuple rend le roi responsable de cette
-défaite»
+<quote>Le peuple rend le roi responsable de cette
+défaite</quote>
 (L'Estoile cité par Adam,<bibl source="bibliographie.xml#tallemant">Tallemant</bibl>, I, p.667).
 La ruse proposée par <persName ref="personnage_ll.xml#lydias">Lydias</persName> pour entrer dans la ville n'est pas une
 invention romanesque
@@ -69,7 +70,7 @@ dans ce <ref target="https://en.wikipedia.org/wiki/Siege_of_Calais_(1596)#/media
             </note>
             <note xml:id="calais_2" n="2" ana="geographie">
                <label>Calais</label>
-               <p>Mentionné dans:<ref target="#calais">I</ref>, <ref target="#2_calais">II</ref>
+               <mentioned>Mentionné dans:<ref target="#calais">I</ref>, <ref target="#2_calais">II</ref></mentioned><p>
 • La deuxième partie rappelle que <persName ref="personnage_ll.xml#2_lydias">Lydias</persName> est
 prisonnier dans cette ville gouvernée par <persName ref="personnage_ll.xml#2_lypandas">Lypandas</persName>
 (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#666">II, 10,
@@ -77,20 +78,20 @@ prisonnier dans cette ville gouvernée par <persName ref="personnage_ll.xml#2_ly
             </note>
             <note xml:id="calcedoine_2" n="2" ana="geographie">
                <label>Calcédoine</label>
-               <p>Mentionnée dans:<ref target="#2_calcedoine">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_calcedoine">II</ref></mentioned><p>
 Ville située sur le <rs type="repertoire" ref="repertoire_bb.xml#2_bosphore">Bosphore</rs>, en <rs type="repertoire" ref="repertoire_aa.xml#2_asie">Asie</rs>. Aujourd'hui Chalcédoine ou Kadiköy en
 Turquie. <bibl source="bibliographie.xml#pline">Pline</bibl> écrit que sept stades (un peu plus d'un
 kilomètre) séparent Chalcédoine de <rs type="repertoire" ref="#2_constantinople">Constantinople</rs> (V, 2).</p>
                <p/>
                <p>
-• Les jardins de l'Empereur d'<rs type="repertoire" ref="repertoire_no.xml#2_orient">Orient</rs> s'y trouvent. «Calcedoine,
+• Les jardins de l'Empereur d'<rs type="repertoire" ref="repertoire_no.xml#2_orient">Orient</rs> s'y trouvent. <quote>Calcedoine,
 [...] est si prés de <rs type="repertoire" ref="#2_constantinople">Constantinople</rs>, qu'on peut ouyr la voix d'un homme
-d'un lieu à l'autre» (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#785">II, 12,
+d'un lieu à l'autre</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#785">II, 12,
 785</ref>).</p>
             </note>
             <note xml:id="calliope_2" n="2" ana="mythologie">
                <label>Calliope</label>
-               <p>Mentionnée dans:<ref target="#2_calliope">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_calliope">II</ref></mentioned><p>
 Mythologie. Muse de la musique dont le nom signifierait
 <emph>belle voix</emph>. Ses huit sœurs et elle
 sont filles de <rs type="repertoire" ref="repertoire_ik.xml#2_jupiter">Jupiter</rs> et de Mnémosyne, la mémoire. Calliope
@@ -107,9 +108,9 @@ que mère des <rs type="repertoire" ref="repertoire_ss.xml#2_sirenes">Sirènes</
             </note>
             <note xml:id="camargue" n="1" ana="geographie">
                <label>Camargue</label>
-               <p>Mentionnée dans:<ref target="#camargue">I</ref>,
+               <mentioned>Mentionnée dans:<ref target="#camargue">I</ref>,
 <ref target="#2_camargue">II</ref>, <ref target="#3_camargue">III</ref>,
-<ref target="#4_camargue">IV</ref>
+<ref target="#4_camargue">IV</ref></mentioned><p>
 Située dans le delta du <rs type="repertoire" ref="repertoire_qr.xml#rhone">Rhône</rs>, la Camargue, comme le <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs>, est née
 grâce à un capitaine romain qui s'est fait le maître du système
 aquatique.</p>
@@ -129,16 +130,16 @@ recto</ref>). Ménage donne la même étymologie (Maxime <bibl source="bibliogra
 p.138).</p>
                <p/>
                <p>
-• Voir une carte de la Camargue du XVIIesiècle dessinée par Guillaume Delisle dans le
+• Voir une carte de la Camargue du XVIIe siècle dessinée par Guillaume Delisle dans le
 site de <ref target="https://commons.wikimedia.org/wiki/File%3ACamargue_carte_de_Guillaume_Delisle.jpg">Wikimedia</ref> (10 mai 2016). Différentes cartes
 anciennes de la Camargue sont dans ce <ref target="https://www.camargue.fr/site/cartes/">site</ref> (30
 octobre 2020).</p>
             </note>
             <note xml:id="camargue_2" n="2" ana="geographie">
                <label>Camargue</label>
-               <p>Mentionnée dans:<ref target="#camargue">I</ref>, <ref target="#2_camargue">II</ref>, <ref target="#3_camargue">III</ref>, <ref target="#4_camargue">IV</ref>
-• La deuxième partie rappelle que la Camargue, «en la
-<rs type="repertoire" ref="repertoire_pp.xml#province_des_romains">province des Romains</rs>», est la patrie
+               <mentioned>Mentionnée dans:<ref target="#camargue">I</ref>, <ref target="#2_camargue">II</ref>, <ref target="#3_camargue">III</ref>, <ref target="#4_camargue">IV</ref></mentioned><p>
+• La deuxième partie rappelle que la Camargue, <quote>en la
+<rs type="repertoire" ref="repertoire_pp.xml#province_des_romains">province des Romains</rs></quote>, est la patrie
 d'<persName ref="personnage_hh.xml#2_hylas">Hylas</persName>
 (<ref target="../_roman/reference/21_2/21_2_livre_3.xml#167">II, 3,
 167</ref>; <ref target="../_roman/reference/21_2/21_2_livre_3.xml#168">II, 3,
@@ -147,23 +148,23 @@ d'<persName ref="personnage_hh.xml#2_hylas">Hylas</persName>
             </note>
             <note xml:id="camargue_3" n="3" ana="geographie">
                <label>Camargue</label>
-               <p>Mentionnée dans:<ref target="#camargue">I</ref>, <ref target="#2_camargue">II</ref>, <ref target="#3_camargue">III</ref>, <ref target="#4_camargue">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#camargue">I</ref>, <ref target="#2_camargue">II</ref>, <ref target="#3_camargue">III</ref>, <ref target="#4_camargue">IV</ref></mentioned><p>
 Écrit aussi <emph>Camargues</emph>.</p>
                <p>
 Dans un message du 11 juin 2013, Bruno Marty voit un lien
 particulier entre <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> et les terres de la Camargue,
-«sujettes au cours capricieux du Rhône qui modifiait sans
+<quote>sujettes au cours capricieux du Rhône qui modifiait sans
 cesse son lit et rendait l'accès compliqué [...] L'inconstant
 réside sans doute dans le côté
 géologico-géographiqueinsaisissable et
 mouvant(ettrès endogamique) de la terre
-camarguaise».</p>
+camarguaise</quote>.</p>
                <p/>
                <p>
-• <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> a connu <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> «en
-l'isle de Camargues et en <rs type="repertoire" ref="repertoire_aa.xml#3_arles">Arles</rs>» (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#40_verso">III, 2, 40
+• <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> a connu <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> <quote>en
+l'isle de Camargues et en <rs type="repertoire" ref="repertoire_aa.xml#3_arles">Arles</rs></quote> (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#40_verso">III, 2, 40
 verso</ref>). Elle trouve l'inconstant tellement changé qu'elle lui
-suggère de «tenir école» lorsqu'il rentrera dans son
+suggère de <quote>tenir école</quote> lorsqu'il rentrera dans son
 pays (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#57_recto">III, 2, 57
 recto</ref>).</p>
                <p/>
@@ -182,8 +183,8 @@ Camarguais, a la vantardise des Gascons (<ref target="../_roman/reference/21_3/2
 recto</ref>).</p>
                <p/>
                <p>
-                  <note ana="remarque">«Le reproche qu'on fait aux
-Gascons, est de leurs continuelles vanteries»
+                  <note ana="remarque"><quote>Le reproche qu'on fait aux
+Gascons, est de leurs continuelles vanteries</quote>
 (<bibl source="bibliographie.xml#furetiere">Furetière</bibl>, Article <emph>Vanterie</emph>).</note>
                </p>
                <p>
@@ -194,7 +195,7 @@ Gascons, est de leurs continuelles vanteries»
             </note>
             <note xml:id="camargue_4" n="4" ana="geographie">
                <label>Camargue</label>
-               <p>Mentionnée dans:<ref target="#camargue">I</ref>, <ref target="#2_camargue">II</ref>, <ref target="#3_camargue">III</ref>, <ref target="#4_camargue">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#camargue">I</ref>, <ref target="#2_camargue">II</ref>, <ref target="#3_camargue">III</ref>, <ref target="#4_camargue">IV</ref></mentioned><p>
 • <persName ref="personnage_hh.xml#4_hylas">Hylas</persName>
 rappelle qu'il vient de ce lieu et prétend que les lois du pays
 autorisent l'inconstance (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#103">IV, 1,
@@ -213,7 +214,7 @@ celui qui vient de Camargue (<ref target="../_roman/reference/24_4/24_4_livre_3.
             </note>
             <note xml:id="cambray_3" n="3" ana="geographie">
                <label>Cambray</label>
-               <p>Mentionné dans:<ref target="#3_cambray">III</ref>
+               <mentioned>Mentionné dans:<ref target="#3_cambray">III</ref></mentioned><p>
 Cambrai est une ville située au Nord-est de Paris (Nord-
 Pas-de-Calais). Son nom ancien est <emph>Camaracum</emph>.</p>
                <p>
@@ -231,13 +232,13 @@ La prise de Cambrai par <persName ref="personnage_cc.xml#3_clodion">Clodion</per
 de Clovis de 509.</p>
                <p/>
                <p>
-• Le fils de <persName ref="personnage_cc.xml#3_clodion">Clodion</persName>, <persName ref="personnage_aa.xml#3_alberic">Albéric</persName>, est «Seigneur de
-Cambray» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#523_verso">III, 12,
+• Le fils de <persName ref="personnage_cc.xml#3_clodion">Clodion</persName>, <persName ref="personnage_aa.xml#3_alberic">Albéric</persName>, est <quote>Seigneur de
+Cambray</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#523_verso">III, 12,
 523 verso</ref>).</p>
             </note>
             <note xml:id="cantabres_3" n="3" ana="histoire">
                <label>Cantabres</label>
-               <p>Mentionnés dans:<ref target="#3_cantabres">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#3_cantabres">III</ref></mentioned><p>
 Peuple de la Cantabrie, région montagneuse qui se trouve au Nord de
 l'Espagne. Le pays fournit des soldats au livre III de la
 <emph>Guerre des Gaules</emph> (<bibl source="bibliographie.xml#cesar">César</bibl>, III, 26).</p>
@@ -245,13 +246,13 @@ l'Espagne. Le pays fournit des soldats au livre III de la
                <p>
 • <persName ref="personnage_dd.xml#3_damon_a">Damon
 d'Aquitaine</persName>, à la recherche des forêts annoncées par un oracle,
-traverse «toutes celles d'<rs type="repertoire" ref="repertoire_ee.xml#3_espagne">Espagne</rs>, des
-Cantabres, de la <rs type="repertoire" ref="repertoire_gg.xml#3_gaule_narbonnoise">Gaule Narbonnaise</rs>, et d'<rs type="repertoire" ref="repertoire_aa.xml#3_aquitaine">Aquitaine</rs>» (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#257_verso">III, 6, 257
+traverse <quote>toutes celles d'<rs type="repertoire" ref="repertoire_ee.xml#3_espagne">Espagne</rs>, des
+Cantabres, de la <rs type="repertoire" ref="repertoire_gg.xml#3_gaule_narbonnoise">Gaule Narbonnaise</rs>, et d'<rs type="repertoire" ref="repertoire_aa.xml#3_aquitaine">Aquitaine</rs></quote> (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#257_verso">III, 6, 257
 verso</ref>).</p>
             </note>
             <note xml:id="caorly_2" n="2" ana="geographie">
                <label>Caorly</label>
-               <p>Mentionné dans:<ref target="#2_caorly">II</ref>
+               <mentioned>Mentionné dans:<ref target="#2_caorly">II</ref></mentioned><p>
 Aujourd'hui <emph>Caorle</emph>, ville sur
 l'<rs type="repertoire" ref="repertoire_aa.xml#2_adriatique">Adriatique</rs>.</p>
                <p/>
@@ -262,14 +263,14 @@ l'<rs type="repertoire" ref="repertoire_aa.xml#2_adriatique">Adriatique</rs>.</p
             </note>
             <note xml:id="carnutes_2" n="2" ana="histoire">
                <label>Carnutes</label>
-               <p>Mentionnés dans:<ref target="#2_carnutes">II</ref>, <ref target="#3_carnutes">III</ref>, <ref target="#4_carnutes">IV</ref>
-Peuple celte dont le «territoire est représenté par les
-départements d'Eure-et-Loir, Loir-et-Cher et Loiret».
+               <mentioned>Mentionnés dans:<ref target="#2_carnutes">II</ref>, <ref target="#3_carnutes">III</ref>, <ref target="#4_carnutes">IV</ref></mentioned><p>
+Peuple celte dont le <quote>territoire est représenté par les
+départements d'Eure-et-Loir, Loir-et-Cher et Loiret</quote>.
 L'assemblée générale des druides se déroule dans un lieu
-«situé entre Sully et Saint-Benoît-sur-Loire»,
-«peut-être à Chassis», lieu jadis «considéré
+<quote>situé entre Sully et Saint-Benoît-sur-Loire</quote>,
+<quote>peut-être à Chassis</quote>, lieu jadis <quote>considéré
 comme le centre de toute la <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs>, ce qui implique que si l'<rs type="repertoire" ref="repertoire_aa.xml#2_aquitaine">Aquitaine</rs>
-au Sud de la <rs type="repertoire" ref="repertoire_gg.xml#2_garonne">Garonne</rs> n'y était pas représentée, le <emph>Belgium</emph> l'était» (<bibl source="bibliographie.xml#lot">Lot</bibl>,
+au Sud de la <rs type="repertoire" ref="repertoire_gg.xml#2_garonne">Garonne</rs> n'y était pas représentée, le <emph>Belgium</emph> l'était</quote> (<bibl source="bibliographie.xml#lot">Lot</bibl>,
 pp.40, 70, 71). Plusieurs communes du Cher et de l'Allier se
 vantent aujourd'hui d'être le centre de la France métropolitaine
 (<ref target="http://fr.wikipedia.org/wiki/Centre_de_la_France">Wikipédia</ref>, 14 juin 2013).</p>
@@ -279,8 +280,8 @@ p.102). C'est à Chartres qu'<rs type="repertoire" ref="repertoire_hh.xml#henri"
 fait couronner en 1594.</p>
                <p/>
                <p>
-• Les druides envoient leurs aînés «aux Antres des
-Carnutes», des écoles (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#504">II, 8, 504</ref>).
+• Les druides envoient leurs aînés <quote>aux Antres des
+Carnutes</quote>, des écoles (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#504">II, 8, 504</ref>).
 <persName ref="personnage_aa.xml#2_alexis">Alexis</persName>, la fille d'<persName ref="personnage_aa.xml#2_adamas">Adamas</persName>, doit
 passer trente ans dans les antres des Carnutes; elle y est
 depuis plus de huit ans (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#623">II, 10,
@@ -291,16 +292,16 @@ depuis plus de huit ans (<ref target="../_roman/reference/21_2/21_2_livre_10.xml
                <p>
 • Une statue représentant la Vierge qui enfantera se trouve dans
 l'antre des Carnutes (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#761">II, 11, 761</ref>)
-depuis «plus de vingt <term ref="glossaire_ss.xml#siecle">siecles</term>», selon <persName ref="personnage_aa.xml#2_adamas">Adamas</persName>
+depuis <quote>plus de vingt <term ref="glossaire_ss.xml#siecle">siecles</term></quote>, selon <persName ref="personnage_aa.xml#2_adamas">Adamas</persName>
 (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#517">II, 8,
 517</ref>), six cents ans.</p>
                <p/>
                <p>
                   <note ana="remarque">La cathédrale romane de Chartres date
-du XIesiècle. Des légendes
+du XIe siècle. Des légendes
 voulaient pourtant qu'elle soit antérieure à l'avènement du Christ.
-«Au XVIesiècle, on parle pour
-la première fois d'une grotte druidique»
+<quote>Au XVIe siècle, on parle pour
+la première fois d'une grotte druidique</quote>
 (Voir le <ref target="http://www.cathedrale-chartres.fr/histo.php">site</ref> de la Cathédrale,
 18 août 2020).</note>
                </p>
@@ -319,8 +320,8 @@ ville des Carnutes (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#825"
             </note>
             <note xml:id="carnutes_3" n="3" ana="histoire">
                <label>Carnutes</label>
-               <p>Mentionnés dans:<ref target="#2_carnutes">II</ref>, <ref target="#3_carnutes">III</ref>,
-<ref target="#4_carnutes">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_carnutes">II</ref>, <ref target="#3_carnutes">III</ref>,
+<ref target="#4_carnutes">IV</ref></mentioned><p>
 Ce peuple, nommé dans le livre VI de la <emph>Guerre des Gaules</emph>,
 se soulève deux fois contre Rome (<bibl source="bibliographie.xml#kruta">Kruta</bibl>,
 pp.517-518).</p>
@@ -332,14 +333,14 @@ n'associe pas ce lieu sacré à <persName ref="personnage_aa.xml#3_alexis">Alexi
                <p>
 • Les <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs>, raconte <persName ref="personnage_aa.xml#3_adamas">Adamas</persName>, ont
 trouvé en <rs type="repertoire" ref="repertoire_ff.xml#3_forez">Forez</rs> un autel similaire à celui des
-Carnutes; il est dédié «à la Vierge, qui
-enfanteroit<note target="note_3.html#3_enfanter"/>» (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#27_verso">III, 2, 27
+Carnutes; il est dédié <quote>à la Vierge, qui
+enfanteroit<note target="note_3.html#3_enfanter"/></quote> (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#27_verso">III, 2, 27
 verso</ref>).</p>
                <p/>
                <p>
-• Le temple des Carnutes abrite «des filles druides»
+• Le temple des Carnutes abrite <quote>des filles druides</quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#192_recto">III, 5, 192
-recto</ref>) dites «Clergesses» (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#54_verso">III, 2, 54
+recto</ref>) dites <quote>Clergesses</quote> (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#54_verso">III, 2, 54
 verso</ref>), femmes savantes.</p>
                <p/>
                <p>
@@ -354,14 +355,15 @@ verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_11.xml#484_recto">
             </note>
             <note xml:id="carnutes_4" n="4" ana="histoire">
                <label>Carnutes</label>
-               <p>Mentionnés dans:<ref target="#2_carnutes">II</ref>, <ref target="#3_carnutes">III</ref>,
-<ref target="#4_carnutes">IV</ref>• Lieu où réside des Vierges. <persName ref="personnage_aa.xml#4_astree">Astrée</persName> désire
+               <mentioned>Mentionnés dans:<ref target="#2_carnutes">II</ref>, <ref target="#3_carnutes">III</ref>,
+<ref target="#4_carnutes">IV</ref></mentioned>
+               <p>• Lieu où réside des Vierges. <persName ref="personnage_aa.xml#4_astree">Astrée</persName> désire
 y accompagner <persName ref="personnage_aa.xml#4_alexis">Alexis</persName> (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#17">IV, 1,
 17</ref>).
 • Les Carnutes croient qu'une Vierge<note target="note_4.html#4_vierge"/> doit enfanter (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#25">IV, 1,
 25</ref>).
 • Aux Carnutes, les filles druides se donnent des noms affectueux
-dit «alliances» (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#32">IV, 1,
+dit <quote>alliances</quote> (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#32">IV, 1,
 32</ref>).
 • Aux Carnutes, <rs type="repertoire" ref="repertoire_tt.xml#4_tautates">Tautatès</rs>
                   <rs type="repertoire" ref="repertoire_aa.xml#4_amour">Amour</rs> est la principale divinité (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#35">IV, 1,
@@ -382,9 +384,9 @@ voit la séparation comme un retour forcé aux Carnutes (<ref target="../_roman/
             </note>
             <note xml:id="carroceles_2" n="2" ana="histoire">
                <label>Carroceles</label>
-               <p>Mentionnés dans:<ref target="#2_carroceles">II</ref>
-«La vallée des Carrocèles est la Haute Maurienne qui fut
-occupée par les Graiocèles», écrit <bibl source="bibliographie.xml#gaumei">Gaume</bibl>
+               <mentioned>Mentionnés dans:<ref target="#2_carroceles">II</ref></mentioned><p>
+<quote>La vallée des Carrocèles est la Haute Maurienne qui fut
+occupée par les Graiocèles</quote>, écrit <bibl source="bibliographie.xml#gaumei">Gaume</bibl>
 (p.222). Il s'agit en fait des <emph>
                      <emph>Garocelles</emph>
                   </emph>, peuple celte établi dans la
@@ -405,19 +407,19 @@ et <ref target="../_roman/reference/21_2/21_2_livre_10.xml#635">II,
             </note>
             <note xml:id="carthage_2" n="2" ana="geographie">
                <label>Carthage</label>
-               <p>Mentionnée dans:<ref target="#2_carthage">II</ref>, <ref target="#4_carthage">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_carthage">II</ref>, <ref target="#4_carthage">IV</ref></mentioned><p>
 Écrit aussi <emph>Cartage</emph>. La Carthage
 mythique a abrité les amours d'<rs type="repertoire" ref="repertoire_ee.xml#enee">Énée</rs> et de <rs type="repertoire" ref="repertoire_dd.xml#didon">Didon</rs> dans
 <emph>L'Énéide</emph> de Virgile. La Carthage
-historique, au IIesiècle avant
+historique, au IIe siècle avant
 J.-C., lors des guerres puniques, a été détruite par les armées
 romaines conduites par <persName ref="personnage_ss.xml#2_scipion">Scipion</persName> Émilien, appelé depuis <persName ref="personnage_ss.xml#2_scipion">Scipion</persName> le
 deuxième Africain. Carthage devient alors province romaine. Au
-Vesiècle, <persName ref="personnage_bb.xml#2_boniface">Boniface</persName>
+Ve siècle, <persName ref="personnage_bb.xml#2_boniface">Boniface</persName>
 gouverne la région au nom de l'Empereur d'occident. Surviennent
 alors en 439 <persName ref="personnage_gg.xml#2_genseric">Genséric</persName> et ses <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs>, ce
-que saint <persName ref="personnage_aa.xml#2_augustin">Augustin</persName> appelle «les maux qu'il a plu à
-Dieu de nous envoyer» (cité par <bibl source="bibliographie.xml#gauthier_genseric">Gauthier</bibl>, p.154).</p>
+que saint <persName ref="personnage_aa.xml#2_augustin">Augustin</persName> appelle <quote>les maux qu'il a plu à
+Dieu de nous envoyer</quote> (cité par <bibl source="bibliographie.xml#gauthier_genseric">Gauthier</bibl>, p.154).</p>
                <p/>
                <p>
 • Dans <emph>L'Astrée</emph>, <persName ref="personnage_bb.xml#2_boniface">Boniface</persName>,
@@ -432,9 +434,9 @@ L'Empereur envoie l'armée à <rs type="repertoire" ref="#2_carthage">Carthage</
 mais le roi des <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs> se retourne contre lui et s'entend avec
 l'Empereur. Aussitôt que les troupes romaines se retirent, <persName ref="personnage_gg.xml#2_genseric">Genséric</persName>
 prend <rs type="repertoire" ref="#2_carthage">Carthage</rs>,
-«de sorte que ceste grande ville fut soustraicte de l'Empire,
+<quote>de sorte que ceste grande ville fut soustraicte de l'Empire,
 dix et neuf <term ref="glossaire_ss.xml#siecle">siecles</term> et demi apres que le grand <persName ref="personnage_ss.xml#2_scipion">Scipion</persName> l'eut
-surmontee, et acquise à sa Republique» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#761">II, 11,
+surmontee, et acquise à sa Republique</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#761">II, 11,
 761</ref>).</p>
                <p/>
                <p>
@@ -444,9 +446,9 @@ rend à la demande d'<persName ref="personnage_ee.xml#2_eudoxe">Eudoxe</persName
             </note>
             <note xml:id="carthage_4" n="4" ana="geographie">
                <label>Carthage</label>
-               <p>Mentionnée dans:<ref target="#2_carthage">II</ref>, <ref target="#4_carthage">IV</ref>
-Dans l<emph>'Héroïde IX</emph>, <bibl source="bibliographie.xml#ovideh">Ovide</bibl> rappelle «la naissante
-Carthage, et ses murs qui s'élèvent».</p>
+               <mentioned>Mentionnée dans:<ref target="#2_carthage">II</ref>, <ref target="#4_carthage">IV</ref></mentioned><p>
+Dans l<emph>'Héroïde IX</emph>, <bibl source="bibliographie.xml#ovideh">Ovide</bibl> rappelle <quote>la naissante
+Carthage, et ses murs qui s'élèvent</quote>.</p>
                <p/>
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> nomme la Carthage mythique où <rs type="repertoire" ref="repertoire_ee.xml#4_enee">Énée</rs> a abandonné
@@ -456,7 +458,7 @@ Carthage, et ses murs qui s'élèvent».</p>
             </note>
             <note xml:id="catalauniques_3" n="3" ana="histoire">
                <label>Catalauniques</label>
-               <p>Mentionnés dans:<ref target="#3_catalauniques">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#3_catalauniques">III</ref></mentioned><p>
 Habitants des <rs type="repertoire" ref="#3_champs_catalauniques">Champs Catalauniques</rs>, appelés aussi
 <emph>catalauniens</emph> aujourd'hui.</p>
                <p/>
@@ -466,7 +468,7 @@ recto</ref>).</p>
             </note>
             <note xml:id="caturges_3" n="3" ana="histoire">
                <label>Caturges</label>
-               <p>Mentionnés dans:<ref target="#3_caturges">III</ref>.
+               <mentioned>Mentionnés dans:<ref target="#3_caturges">III</ref></mentioned><p>.
 
 Il faut sans doute lire <rs type="repertoire" ref="#2_caturiges">
                      <emph>Caturiges</emph>
@@ -480,11 +482,11 @@ et dans l'histoire de la maison de Savoie de S.<bibl source="bibliographie.xml#g
 donc une coquille.</p>
                <p>
 La ville principale des Caturiges est Embrun, territoire protestant
-du temps d'Honoré d'Urfé. «Lors des guerres de religion, la
+du temps d'Honoré d'Urfé. <quote>Lors des guerres de religion, la
 ville est prise par le chef protestant Lesdiguières qui y installe
 provisoirement sa "capitale". Une partie des archives est brûlée à
 cette occasion et la fresque miraculeuse de Notre-Dame d'Embrun est
-détruite» (<ref target="http://fr.wikipedia.org/wiki/Embrun_%28Hautes-Alpes%29#Antiquit.C3.A9">Site</ref> de Wikipédia, 12 mai 2015).</p>
+détruite</quote> (<ref target="http://fr.wikipedia.org/wiki/Embrun_%28Hautes-Alpes%29#Antiquit.C3.A9">Site</ref> de Wikipédia, 12 mai 2015).</p>
                <p/>
                <p>
 • Ces <emph>Caturges</emph> apparaissent uniquement dans l'histoire de
@@ -498,24 +500,24 @@ battus.</p>
             </note>
             <note xml:id="caturiges_2" n="2" ana="histoire">
                <label>Caturiges</label>
-               <p>Mentionnés dans:<ref target="#2_caturiges">II</ref>
-Le nom de ce peuple celte signifie «les rois du combat»
+               <mentioned>Mentionnés dans:<ref target="#2_caturiges">II</ref></mentioned><p>
+Le nom de ce peuple celte signifie <quote>les rois du combat</quote>
 (<bibl source="bibliographie.xml#kruta">Kruta</bibl>, p.528). Ce <ref target="http://fr.wikipedia.org/wiki/Chorges#Histoire">site</ref> (30 septembre 2010) propose d'autres étymologies.
-«Le nom de leur chef-lieu persiste dans celui du village
-actuel de Chorges», dans le département des Hautes-Alpes
+<quote>Le nom de leur chef-lieu persiste dans celui du village
+actuel de Chorges</quote>, dans le département des Hautes-Alpes
 (<bibl source="bibliographie.xml#lot">Lot</bibl>,
 p.56). Mais <bibl source="bibliographie.xml#kruta">Kruta</bibl> écrit: Leur territoire se situait
 dans la vallée de la Durance et leur capitale était Eburodunum,
 situé à l'emplacement de l'actuelle la ville d'Embrun
-(p.526). «La montagne des Caturiges est la
+(p.526). <quote>La montagne des Caturiges est la
 Haute-Durance, au Sud de Briançon, entre les Alpes-Maritimes et les
-Alpes Cottiennes» (<bibl source="bibliographie.xml#gaumei">Gaume</bibl>, p.220). <bibl source="bibliographie.xml#strabon">Strabon</bibl> les
+Alpes Cottiennes</quote> (<bibl source="bibliographie.xml#gaumei">Gaume</bibl>, p.220). <bibl source="bibliographie.xml#strabon">Strabon</bibl> les
 appelle <emph>Catoriges</emph> (livre 4, ch. 6).</p>
                <p/>
                <p>
 •En se rendant en <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs>, <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> passe
 par le pays des Caturiges (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#633">II, 10, 633</ref>).
-Il y rencontre une «fascheuse montagne» (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#634">II, 10, 634</ref>)
+Il y rencontre une <quote>fascheuse montagne</quote> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#634">II, 10, 634</ref>)
 et de grands bois (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#635">II, 10,
 635</ref>).</p>
                <p/>
@@ -524,13 +526,13 @@ et de grands bois (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#635">
             </note>
             <note xml:id="celtes" n="1" ana="mythologie">
                <label>Celtes</label>
-               <p>Mentionné dans:<ref target="#celtes">I</ref>, <ref target="#2_celtes">II</ref>
+               <mentioned>Mentionné dans:<ref target="#celtes">I</ref>, <ref target="#2_celtes">II</ref></mentioned><p>
 Mythologie.</p>
                <p>
 Les mythologues font de Celtes un fils d'<rs type="repertoire" ref="repertoire_hh.xml#hercule">Hercule</rs>
 (P.<bibl source="bibliographie.xml#grimal">Grimal</bibl>, Article <emph>Celtos</emph>). C'est le père de <rs type="repertoire" ref="repertoire_gg.xml#galathee_m">Galathée</rs> et
 le beau-père d'<rs type="repertoire" ref="repertoire_hh.xml#hercule">Hercule</rs> dans <emph>L'Astrée</emph>. Un individu et son
-peuple portent donc le nom de «Celtes» dans
+peuple portent donc le nom de <quote>Celtes</quote> dans
 <emph>L'Astrée</emph>.</p>
                <p/>
                <p>
@@ -545,23 +547,23 @@ fille du roi et l'épouse d'<rs type="repertoire" ref="repertoire_hh.xml#hercule
             </note>
             <note xml:id="celtes_2" n="2" ana="histoire">
                <label>Celtes</label>
-               <p>Mentionnés dans:<ref target="#celtes">I</ref>, <ref target="#2_celtes">II</ref>
+               <mentioned>Mentionnés dans:<ref target="#celtes">I</ref>, <ref target="#2_celtes">II</ref></mentioned><p>
 Groupe de peuples indo-européens d'origine allemande. Jules
 <bibl source="bibliographie.xml#cesar">César</bibl>
-explique que «Celtes», est le nom que se donnent les
+explique que <quote>Celtes</quote>, est le nom que se donnent les
 peuples gaulois (I, 1). L'information est reprise par <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl> à
 l'entrée de son <emph>Recueil</emph> (f°1
 verso).</p>
                <p/>
                <p>
 • D'Urfé répète qu'<rs type="repertoire" ref="repertoire_hh.xml#2_hercule">Hercule</rs> a épousé <rs type="repertoire" ref="repertoire_gg.xml#2_galathee_m">Galathée</rs>
-fille du roi nommé dans la première partie «Celtes»
+fille du roi nommé dans la première partie <quote>Celtes</quote>
 (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#515">II, 8,
 515</ref>).</p>
                <p/>
                <p>
 • <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> se présente à des chevaliers en
-disant: «Je suis <rs type="repertoire" ref="#2_celtes">Celte</rs> que vous appellez <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs>» (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#646">II, 10,
+disant: <quote>Je suis <rs type="repertoire" ref="#2_celtes">Celte</rs> que vous appellez <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs></quote> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#646">II, 10,
 646-647</ref>).</p>
                <p/>
                <p>
@@ -569,7 +571,7 @@ disant: «Je suis <rs type="repertoire" ref="#2_celtes">Celte</rs> que vous appe
             </note>
             <note xml:id="celtoscites" n="1" ana="histoire">
                <label>Celtoscites</label>
-               <p>Mentionnés dans:<ref target="#celtoscites">I</ref>
+               <mentioned>Mentionnés dans:<ref target="#celtoscites">I</ref></mentioned><p>
 Les Celto-Scythes sont un peuple scythe parti de l'océan Scythique
 (ou Septentrional).</p>
                <p/>
@@ -580,13 +582,13 @@ recto</ref>).</p>
             </note>
             <note xml:id="cemene" n="1" ana="geographie">
                <label>Cemene</label>
-               <p>Mentionné dans:<ref target="#cemene">I</ref>, <ref target="#3_cemene">III</ref>
+               <mentioned>Mentionné dans:<ref target="#cemene">I</ref>, <ref target="#3_cemene">III</ref></mentioned><p>
                   <bibl source="bibliographie.xml#strabon">Strabon</bibl> écrit dans sa <emph>
                      <ref target="http://remacle.org/bloodwolf/erudits/strabon/livre25.htm">Géographie</ref>
                   </emph>de la <rs type="repertoire" ref="repertoire_gg.xml#gaule">Gaule</rs>:
-«Au milieu s'élève une arête montagneuse, perpendiculaire aux
+<quote>Au milieu s'élève une arête montagneuse, perpendiculaire aux
 Pyrénées, c'est la montagne appelée Cemméne qui vient mourir dans
-les plaines centrales des Celtes» (LivreII, Ch.V,
+les plaines centrales des Celtes</quote> (LivreII, Ch.V,
 28), elle sépare l'<rs type="repertoire" ref="repertoire_aa.xml#aquitaine">Aquitaine</rs> de la <rs type="repertoire" ref="repertoire_gg.xml#gaule">Gaule</rs> Celtique (livre IV, Ch. I, 1).</p>
                <p>
                   <bibl source="bibliographie.xml#la_mure">La
@@ -606,15 +608,15 @@ que je ne le trouve dans La Mure.</p>
             </note>
             <note xml:id="cemene_3" n="3" ana="geographie">
                <label>Cemene</label>
-               <p>Mentionné dans:<ref target="#cemene">I</ref>, <ref target="#3_cemene">III</ref>
+               <mentioned>Mentionné dans:<ref target="#cemene">I</ref>, <ref target="#3_cemene">III</ref></mentioned><p>
 Auguste <bibl source="bibliographie.xml#bernard_h">Bernard</bibl> cite Ptolémée qui dit que les monts
 Cemènes séparent l'Arverne de la Ségusie. Il ajoute que les
-Cévennes «font partie des monts Cemènes» (I,
+Cévennes <quote>font partie des monts Cemènes</quote> (I,
 p.4).</p>
                <p>
-Un <ref target="http://www.archives-lyon.fr/static/archives/contenu/old/public/plan-s/14.htm">site</ref> consacré à «Lyon mythique»
-donne ce curieux renseignement: «Le mont Cémène [...]
-selon les anciens partage en deux parties égales la Gaule»
+Un <ref target="http://www.archives-lyon.fr/static/archives/contenu/old/public/plan-s/14.htm">site</ref> consacré à <quote>Lyon mythique</quote>
+donne ce curieux renseignement: <quote>Le mont Cémène [...]
+selon les anciens partage en deux parties égales la Gaule</quote>
 (20 avril 2015).</p>
                <p/>
                <p>
@@ -624,7 +626,7 @@ verso</ref>).</p>
             </note>
             <note xml:id="centrons_2" n="2" ana="histoire">
                <label>Centrons</label>
-               <p>Mentionnés dans:<ref target="#2_centrons">II</ref>, <ref target="#3_centrons">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_centrons">II</ref>, <ref target="#3_centrons">III</ref></mentioned><p>
 Ce nom de tribu connaît des graphies différentes dans le
 roman: <emph>Centrons</emph>, <emph>Centrones</emph> et
 <emph>Ceutrons</emph>.</p>
@@ -635,7 +637,7 @@ vallée de La Maurienne; la vallée d'Aoste, précise <bibl source="bibliographi
 (p.105) pour décrire cette tribu.</p>
                <p>
 Par ailleurs, <bibl source="bibliographie.xml#cesar">César</bibl> juxtapose dans ses <emph>Commentaires</emph>
-trois tribus des <rs type="repertoire" ref="repertoire_aa.xml#2_alpes">Alpes</rs> «<emph>Ceutrons</emph>, Graïocèles et <rs type="repertoire" ref="#2_caturiges">Caturiges</rs>», (I, 10). Les
+trois tribus des <rs type="repertoire" ref="repertoire_aa.xml#2_alpes">Alpes</rs> <quote><emph>Ceutrons</emph>, Graïocèles et <rs type="repertoire" ref="#2_caturiges">Caturiges</rs></quote>, (I, 10). Les
 <emph>Graïocèles</emph> sont les <rs type="repertoire" ref="#2_carroceles">
                      <emph>Carroceles</emph>
                   </rs> de <emph>L'Astrée</emph>. <bibl source="bibliographie.xml#guichenon_savoie">Guichenon</bibl>, historien savoyard, analyse des
@@ -647,9 +649,9 @@ Polybe et de Ptolémée préfèrent la forme <emph>Ceutrons</emph>.</p>
                   <emph>Centrons</emph> et <emph>Ceutrons</emph> désignent les mêmes
 individus.</p>
                <p>
-Les trois peuples alpins nommés par César («<emph>Ceutrons</emph>, <emph>Graïocèles</emph> et <rs type="repertoire" ref="#2_caturiges">
+Les trois peuples alpins nommés par César (<quote><emph>Ceutrons</emph>, <emph>Graïocèles</emph> et <rs type="repertoire" ref="#2_caturiges">
                      <emph>Caturiges</emph>
-                  </rs>») se
+                  </rs></quote>) se
 retrouvent donc dans <emph>L'Astrée</emph>, mais déformés.</p>
                <p>
 L'<rs type="repertoire" ref="repertoire_ik.xml#2_isere">Isère</rs>
@@ -659,7 +661,7 @@ coule dans le territoire des Centrons.</p>
                   <note ana="remarque">Passer par le pays des Centrons, c'est
 suivre un chemin malaisé qu'Honoré d'Urfé connaît bien.
 La voie romaine, dans cette région, consistait en un chemin étroit
-au fond d'un précipice. Ce n'est qu'au XVIIIesiècle que la route deviendra plus
+au fond d'un précipice. Ce n'est qu'au XVIIIe siècle que la route deviendra plus
 accessible
 (Voir ce <ref target="http://province.tarentaise.free.fr/ceutrons/ceutrons.htm">site</ref>, 30 septembre 2010).</note>
                </p>
@@ -671,17 +673,17 @@ qui vient des <rs type="repertoire" ref="#2_centrons">Centrons</rs>
             </note>
             <note xml:id="centrons_3" n="3" ana="histoire">
                <label>Centrons</label>
-               <p>Mentionnés dans:<ref target="#2_centrons">II</ref>, <ref target="#3_centrons">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_centrons">II</ref>, <ref target="#3_centrons">III</ref></mentioned><p>
 Les Centrons apparaissent dans des vers de La
 <emph>Savoisiade</emph>
                   <note target="note_analyses.html#savoisiade"/> que cite
 <bibl source="bibliographie.xml#guichenon">Guichenon</bibl> (p.234):</p>
                <p>
-«Mareschal suit apres, Mareschal qui
+<quote>Mareschal suit apres, Mareschal qui
 fut Pere</p>
                <p>
 Dans les Monts des Centrons de ceux de Val
-d'Isere».</p>
+d'Isere</quote>.</p>
                <p/>
                <p>
 • <persName ref="personnage_ll.xml#3_leandre">Léandre</persName>, le père de <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>, au
@@ -701,23 +703,23 @@ recto</ref>).</p>
             </note>
             <note xml:id="centurons_3" n="3" ana="histoire">
                <label>Centurons</label>
-               <p>Mentionnés dans:<ref target="#3_centurons">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#3_centurons">III</ref></mentioned><p>
 Il s'agit certainement des <rs type="repertoire" ref="#3_centrons">Centrons</rs>, car <bibl source="bibliographie.xml#strabon">Strabon</bibl> donne aux <emph>Centurons</emph> les
-voisins qu'il a donnés aux <rs type="repertoire" ref="#3_centrons">Centrons</rs>. Il écrit: «Au-dessus des
+voisins qu'il a donnés aux <rs type="repertoire" ref="#3_centrons">Centrons</rs>. Il écrit: <quote>Au-dessus des
 <rs type="repertoire" ref="repertoire_ss.xml#3_salasses">Salasses</rs>, sur la crête même des <rs type="repertoire" ref="repertoire_aa.xml#3_alpes">Alpes</rs>, on
 rencontre successivement les <rs type="repertoire" ref="#3_centrons">Centrons</rs>, les Catoriges [<emph>dit <rs type="repertoire" ref="#3_caturges">Caturges</rs>
                   </emph> ailleurs], les
 Varagres, les Nantuates, le lac Lemenna que traverse le <rs type="repertoire" ref="repertoire_qr.xml#3_rhone">Rhône</rs> et
-finalement la source de ce fleuve» (Livre 4, 6).</p>
+finalement la source de ce fleuve</quote> (Livre 4, 6).</p>
                <p/>
                <p>
-• Les <rs type="repertoire" ref="repertoire_ss.xml#3_salasses">Salasses</rs> sont voisins des «<rs type="repertoire" ref="repertoire_tt.xml#3_taurinois">Taurinois</rs>,
-Centurons, et <rs type="repertoire" ref="#3_caturges">Caturges</rs>» (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#283_verso">III, 7, 283
+• Les <rs type="repertoire" ref="repertoire_ss.xml#3_salasses">Salasses</rs> sont voisins des <quote><rs type="repertoire" ref="repertoire_tt.xml#3_taurinois">Taurinois</rs>,
+Centurons, et <rs type="repertoire" ref="#3_caturges">Caturges</rs></quote> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#283_verso">III, 7, 283
 verso</ref>).</p>
             </note>
             <note xml:id="ceres_2" n="2" ana="mythologie">
                <label>Ceres</label>
-               <p>Mentionnée dans:<ref target="#2_ceres">II</ref>, <ref target="#3_ceres">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_ceres">II</ref>, <ref target="#3_ceres">III</ref></mentioned><p>
 Mythologie. Le nom grec de Cérès, déesse de la Terre et de la
 Reproduction, est <emph>Déméter</emph>. Cette
 divinité figure aussi dans <emph>
@@ -727,12 +729,12 @@ Triomphante entrée</bibl>
 Sylvanire</bibl> (p.48). Dans <emph>
                      <bibl source="bibliographie.xml#epistres">Les Epistres
 morales</bibl>
-                  </emph>, on lit: «Ceux qui ont estimé [...] le
-labourage et les biens de la terre» comme le souverain bien
+                  </emph>, on lit: <quote>Ceux qui ont estimé [...] le
+labourage et les biens de la terre</quote> comme le souverain bien
 ont adoré Cérès (III, 3, p.380).</p>
                <p/>
                <p>
-• Lors de la cérémonie du vain tombeau, une truie<note target="note_2.html#2_truye"/> est offerte par <persName ref="personnage_ll.xml#2_lycidas">Lycidas</persName> «à <rs type="repertoire" ref="#2_ceres">Ceres</rs> et à la Terre» (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#550">II, 8,
+• Lors de la cérémonie du vain tombeau, une truie<note target="note_2.html#2_truye"/> est offerte par <persName ref="personnage_ll.xml#2_lycidas">Lycidas</persName> <quote>à <rs type="repertoire" ref="#2_ceres">Ceres</rs> et à la Terre</quote> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#550">II, 8,
 550</ref>).</p>
                <p>
 •</p>
@@ -741,19 +743,19 @@ ont adoré Cérès (III, 3, p.380).</p>
             </note>
             <note xml:id="ceres_3" n="3" ana="mythologie">
                <label>Ceres</label>
-               <p>Mentionnée dans:<ref target="#2_ceres">II</ref>, <ref target="#3_ceres">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_ceres">II</ref>, <ref target="#3_ceres">III</ref></mentioned><p>
 Dans les jardins de la Bastie d'Urfé, une statue de Cérès
-«surmontait la toiture et la grande vasque en marbre des
-Pyrénées» (<bibl source="bibliographie.xml#claude">
+<quote>surmontait la toiture et la grande vasque en marbre des
+Pyrénées</quote> (<bibl source="bibliographie.xml#claude">
                      <emph>Claude d'Urfé</emph>
                   </bibl>, p.66). Noël
 <bibl source="bibliographie.xml#conti">Conti</bibl>
-explique que la déesse de la prospérité «recompensoit tous
+explique que la déesse de la prospérité <quote>recompensoit tous
 ceux qui luy faisoient cette amitié et courtoisie de la loger quand
 elle rodoit cerchant sa fille, de l'invention de quelque fruit
-nouveau» (p.412). Même information dans <bibl source="bibliographie.xml#cartari">Cartari</bibl>: «À ceux qui la logerent
+nouveau</quote> (p.412). Même information dans <bibl source="bibliographie.xml#cartari">Cartari</bibl>: <quote>À ceux qui la logerent
 gratieusement, elle donna toute sorte de legumes, horsmis des
-febves, qui est un legume impur» (p.303).</p>
+febves, qui est un legume impur</quote> (p.303).</p>
                <p/>
                <p>
 • Une statue de Cérès trône dans un bassin chez <persName ref="personnage_pp.xml#3_phocion">Phocion</persName>,
@@ -762,21 +764,21 @@ oncle d'<persName ref="personnage_aa.xml#3_astree">Astrée</persName> (<ref targ
                <p/>
                <p>
 • <persName ref="personnage_aa.xml#3_alexis">Alexis</persName> soupire un sonnet où elle dit à la déesse
-que «son cœur a plus d'ennuis que les champs de
-moissons» (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#433_verso">III, 10,
+que <quote>son cœur a plus d'ennuis que les champs de
+moissons</quote> (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#433_verso">III, 10,
 433 verso</ref>).</p>
                <p/>
                <p>
-• «<persName ref="personnage_ll.xml#3_leonide">Leonide</persName> trouva [la fontaine de Cérès] tres belle
-et tres-artificieusement faite» (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#436_recto">III, 10,
+• <quote><persName ref="personnage_ll.xml#3_leonide">Leonide</persName> trouva [la fontaine de Cérès] tres belle
+et tres-artificieusement faite</quote> (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#436_recto">III, 10,
 436 recto</ref>).</p>
             </note>
             <note xml:id="cervieres" n="1" ana="geographie">
                <label>Cervieres</label>
-               <p>Mentionnés dans:<ref target="#cervieres">I</ref>
-Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl> explique qu'au XVIesiècle, l'Anzon, rivière qui descend des
-montagnes de Cervières, s'appelait aussi «<rs type="repertoire" ref="repertoire_ll.xml#lignon">Lignon</rs>»,
-d'où la «double source» que d'Urfé (comme Papire
+               <mentioned>Mentionnés dans:<ref target="#cervieres">I</ref></mentioned><p>
+Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl> explique qu'au XVIe siècle, l'Anzon, rivière qui descend des
+montagnes de Cervières, s'appelait aussi <quote><rs type="repertoire" ref="repertoire_ll.xml#lignon">Lignon</rs></quote>,
+d'où la <quote>double source</quote> que d'Urfé (comme Papire
 Masson) attribue à cette rivière (p.182). Guichard d'Urfé est
 capitaine-châtelain de Cervières en 1415 (Voir ce <ref target="http://fr.geneawiki.com/index.php/42034_-_Cervi%C3%A8res">site</ref>, 20 avril 2015).</p>
                <p/>
@@ -796,7 +798,7 @@ verso</ref>).</p>
             </note>
             <note xml:id="chalmasel" n="1" ana="geographie">
                <label>Chalmasel</label>
-               <p>Mentionné dans:<ref target="#chalmasel">I</ref>
+               <mentioned>Mentionné dans:<ref target="#chalmasel">I</ref></mentioned><p>
 Écrit <emph>Chelmasel</emph> en 1607. On écrit
 aujourd'hui <emph>Chalmazel</emph>. Voir le <ref target="https://www.skiinfo.fr/massif-central/chalmazel/station-de-ski.xml">site</ref> de la station de ski qui s'y trouve (21
 septembre 2018).</p>
@@ -814,12 +816,12 @@ recto</ref>).</p>
             <note xml:id="champs_authunois_4" n="4" ana="geographie">
                <label>Champs
 Authunois</label>
-               <p>Mentionnée dans:<ref target="#4_champs_authunois">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#4_champs_authunois">IV</ref></mentioned><p>
 Il s'agit des terres qui entourent la ville d'Autun, domaine des
 <rs type="repertoire" ref="repertoire_aa.xml#authunois">Authunois</rs>, des alliés de <persName ref="personnage_cc.xml#cesar">César</persName> lors des
 guerres des <rs type="repertoire" ref="repertoire_gg.xml#gaule">Gaules</rs>. Les <rs type="repertoire" ref="repertoire_bb.xml#4_bourguignons">Bourguignons</rs> se sont emparés du pays des Authunois
-(<bibl source="bibliographie.xml#fauchet">Fauchet</bibl>, p.100)Le «territoire
-d'Augstun» appartient à <persName ref="personnage_gg.xml#4_godegesile">Godegesile</persName>
+(<bibl source="bibliographie.xml#fauchet">Fauchet</bibl>, p.100)Le <quote>territoire
+d'Augstun</quote> appartient à <persName ref="personnage_gg.xml#4_godegesile">Godegesile</persName>
 (<emph>
                      <bibl source="bibliographie.xml#fauchet">Ibid.</bibl>
                   </emph>, p.126). D'Urfé n'utilise pas
@@ -834,17 +836,17 @@ et <persName ref="personnage_gg.xml#4_godomar">Godomar</persName> (<ref target="
             <note xml:id="champs_catalauniques" n="1" ana="geographie">
                <label>Champs
 Cathalauniques</label>
-               <p>Mentionnés dans:<ref target="#champs_catalauniques">I</ref>, <ref target="#2_champs_catalauniques">II</ref>, <ref target="#3_champs_catalauniques">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#champs_catalauniques">I</ref>, <ref target="#2_champs_catalauniques">II</ref>, <ref target="#3_champs_catalauniques">III</ref></mentioned><p>
 Dans cette plaine située près de Troyes ou près de Châlons-sur
 Marne (Châlons-en-Champagne aujourd'hui) s'est déroulée la plus
-célèbre des batailles du Vesiècle.
+célèbre des batailles du Ve siècle.
 Les <rs type="repertoire" ref="repertoire_ff.xml#francs">Francs</rs> se sont ligués avec les <rs type="repertoire" ref="repertoire_qr.xml#romains">Romains</rs> et des
 tribus gauloises pour arrêter <persName ref="personnage_aa.xml#attila">Attila</persName> et ses cinq cent mille <rs type="repertoire" ref="repertoire_hh.xml#huns">Huns</rs> en 451.
-«Un chroniqueur rapporte qu'à la nuit tombée, les morts se
-relevaient sur le champ de bataille pour se battre à nouveau»
-(<bibl source="bibliographie.xml#favrod_2">Favrod</bibl>, p.54). «Telle fut cette
+<quote>Un chroniqueur rapporte qu'à la nuit tombée, les morts se
+relevaient sur le champ de bataille pour se battre à nouveau</quote>
+(<bibl source="bibliographie.xml#favrod_2">Favrod</bibl>, p.54). <quote>Telle fut cette
 fameuse journée qui sauva la civilisation d'une destruction totale
-en Occident» (<bibl source="bibliographie.xml#thierry">Thierry</bibl>, III, p.955).</p>
+en Occident</quote> (<bibl source="bibliographie.xml#thierry">Thierry</bibl>, III, p.955).</p>
                <p/>
                <p>
 • Les forces de <persName ref="personnage_mm.xml#merovee">Mérovée</persName>, selon <persName ref="personnage_gg.xml#guyemant">Guyemant</persName>, ont
@@ -854,7 +856,7 @@ recto</ref>).</p>
             <note xml:id="champs_catalauniques_2" n="2" ana="geographie">
                <label>Champs
 Cathalauniques</label>
-               <p>Mentionnés dans:<ref target="#champs_catalauniques">I</ref>, <ref target="#2_champs_catalauniques">II</ref>, <ref target="#3_champs_catalauniques">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#champs_catalauniques">I</ref>, <ref target="#2_champs_catalauniques">II</ref>, <ref target="#3_champs_catalauniques">III</ref></mentioned><p>
 • <persName ref="personnage_mm.xml#2_madonthe">Madonthe</persName> rappelle cette bataille dans la seconde
 partie: son père y est mort aux côtés de <persName ref="personnage_tt.xml#2_thierry">Thierry</persName>, roi
 des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs> (<ref target="../_roman/reference/21_2/21_2_livre_6.xml#328">II, 6,
@@ -868,7 +870,7 @@ pas et il refuse de la décrire (<ref target="../_roman/reference/21_2/21_2_livr
             <note xml:id="champs_catalauniques_3" n="3" ana="geographie">
                <label>Champs
 Cathalauniques</label>
-               <p>Mentionnés dans:<ref target="#champs_catalauniques">I</ref>, <ref target="#2_champs_catalauniques">II</ref>, <ref target="#3_champs_catalauniques">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#champs_catalauniques">I</ref>, <ref target="#2_champs_catalauniques">II</ref>, <ref target="#3_champs_catalauniques">III</ref></mentioned><p>
 • <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> rappelle à <persName ref="personnage_aa.xml#3_adamas">Adamas</persName> le lieu
 où est mort <persName ref="personnage_tt.xml#2_thierry">Thierry</persName>, roi des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs>
 (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#61_recto">III,
@@ -889,12 +891,12 @@ recto</ref>).</p>
             </note>
             <note xml:id="champs_elysees" n="1" ana="mythologie">
                <label>Champs Elysiens</label>
-               <p>Mentionnés dans:<ref target="#champs_elysees">I</ref>,
-<ref target="#2_champs_elysees">II</ref>, <ref target="#4_champs_elysees">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#champs_elysees">I</ref>,
+<ref target="#2_champs_elysees">II</ref>, <ref target="#4_champs_elysees">IV</ref></mentioned><p>
 Mythologie. Écrit <emph>champs Elysiens</emph> ou
-<emph>Elisiens</emph>. «Lieu des Enfers où
+<emph>Elisiens</emph>. <quote>Lieu des Enfers où
 [les Payens] croyoient que les ames des gens de bien alloient aprés
-leur mort pour y gouster un éternel repos» (<bibl source="bibliographie.xml#furetiere">Furetière</bibl>,
+leur mort pour y gouster un éternel repos</quote> (<bibl source="bibliographie.xml#furetiere">Furetière</bibl>,
 Article <emph>Champs Elysées</emph>).</p>
                <p/>
                <p>
@@ -905,8 +907,8 @@ recto</ref>), les personnages évoquent ce lieu.</p>
             </note>
             <note xml:id="champs_elysees_2" n="2" ana="mythologie">
                <label>Champs Elysiens</label>
-               <p>Mentionnés dans:<ref target="#champs_elysees">I</ref>, <ref target="#2_champs_elysees">II</ref>,
-<ref target="#4_champs_elysees">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#champs_elysees">I</ref>, <ref target="#2_champs_elysees">II</ref>,
+<ref target="#4_champs_elysees">IV</ref></mentioned><p>
 Mythologie. Trois Bergers mentionnent les lieux infernaux dans un
 esprit différent:</p>
                <p/>
@@ -915,8 +917,8 @@ esprit différent:</p>
 (<ref target="../_roman/reference/21_2/21_2_livre_3.xml#146">II, 3,
 146</ref>), <persName ref="personnage_tt.xml#2_tircis">Tircis</persName> expose un point de vue théologique
 (<ref target="../_roman/reference/21_2/21_2_livre_5.xml#302">II, 5,
-302</ref>) et <persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName> plaisante en lui répondant qu'«il
-n'y a contentement des champs Elisiens» qui vaille le bien de
+302</ref>) et <persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName> plaisante en lui répondant qu'<quote>il
+n'y a contentement des champs Elisiens</quote> qui vaille le bien de
 voir la femme qu'il aime (<ref target="../_roman/reference/21_2/21_2_livre_5.xml#302">II, 5,
 302</ref>).</p>
                <p/>
@@ -927,15 +929,15 @@ voir la femme qu'il aime (<ref target="../_roman/reference/21_2/21_2_livre_5.xml
             </note>
             <note xml:id="champs_elysees_4" n="4" ana="geographie">
                <label>Champs Elysiens</label>
-               <p>Mentionnés dans:<ref target="#champs_elysees">I</ref>, <ref target="#2_champs_elysees">II</ref>, <ref target="#4_champs_elysees">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#champs_elysees">I</ref>, <ref target="#2_champs_elysees">II</ref>, <ref target="#4_champs_elysees">IV</ref></mentioned><p>
 • <persName ref="personnage_bb.xml#4_bellimarte">Bellimarte</persName>, qui est mort en défendant <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>, a
-mérité d'être plus «content» aux Enfers que sur terre
+mérité d'être plus <quote>content</quote> aux Enfers que sur terre
 (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#382">IV, 3,
 382</ref>).</p>
             </note>
             <note xml:id="chappelain" n="1" ana="actualité">
                <label>Chappelain, C.</label>
-               <p>Mentionné dans:<ref target="#chappelain">I</ref>
+               <mentioned>Mentionné dans:<ref target="#chappelain">I</ref></mentioned><p>
 Écrit <emph>Chappellain</emph>. Charles Chappelain,
 en 1607, imprime l'édition anonyme de <emph>L'Astrée</emph> pour <rs type="repertoire" ref="repertoire_tt.xml#toussaint">Toussaint Du
 Bray</rs>. Il imprime aussi la toute première édition de la deuxième
@@ -949,7 +951,7 @@ Marguerite</emph>, Marguerite de Valois<note target="note_analyses.html#margueri
             </note>
             <note xml:id="charon" n="1" ana="mythologie">
                <label>Charon</label>
-               <p>Mentionné dans:<ref target="#charon">I</ref>
+               <mentioned>Mentionné dans:<ref target="#charon">I</ref></mentioned><p>
 Mythologie. Génie des enfers, il reçoit une obole (petite pièce de
 monnaie) de chaque ombre qu'il fait passer sur l'autre rive de
 l'<rs type="repertoire" ref="repertoire_aa.xml#acheron">Achéron</rs>.</p>
@@ -965,11 +967,11 @@ verso</ref>).</p>
             </note>
             <note xml:id="chien_a_trois_tetes" n="1" ana="mythologie">
                <label>Chien à trois testes</label>
-               <p>Mentionné dans:<ref target="#chien_a_trois_tetes">I</ref>
+               <mentioned>Mentionné dans:<ref target="#chien_a_trois_tetes">I</ref></mentioned><p>
 Mythologie. Il s'agit de Cerbère, le chien qui garde l'entrée (et
 surtout la sortie) des Enfers. <bibl source="bibliographie.xml#furetiere">Furetière</bibl>
-signale qu'un cerbère est «un Suisse ou un Portier trop
-rebarbatif» (Article <emph>Cerbère</emph>).</p>
+signale qu'un cerbère est <quote>un Suisse ou un Portier trop
+rebarbatif</quote> (Article <emph>Cerbère</emph>).</p>
                <p/>
                <p>
 •<persName ref="personnage_cc.xml#climanthe">Climanthe</persName>, le faux druide qui invoque <rs type="repertoire" ref="repertoire_hh.xml#hecate">Hécate</rs>, utilise
@@ -984,7 +986,7 @@ la périphrase du chien à trois têtes en parlant à <persName ref="personnage_
             </note>
             <note xml:id="chimere_3" n="3" ana="mythologie">
                <label>Chimere</label>
-               <p>Mentionnée dans:<ref target="#3_chimere">III</ref>, <ref target="#4_chimere">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#3_chimere">III</ref>, <ref target="#4_chimere">IV</ref></mentioned><p>
 Mythologie. Monstre fabuleux qui souffle des flammes avec une telle
 force que, pour le vaincre, Bellérophon doit monter un cheval ailé,
 Pégase (<bibl source="bibliographie.xml#cartari">Cartari</bibl>, p.492).</p>
@@ -998,18 +1000,18 @@ Dans <bibl source="bibliographie.xml#epistres">Les Epistres morales</bibl>, Chim
 caractéristiques: elle figure ce qui réside seulement dans
 l'imagination (III, 2, p.358) et elle indique la difficulté
 de résister aux vaines apparences. Bellérophon seul se montre
-capable de vaincre «ce monstre <term ref="glossaire_ik.xml#imagine">imaginé</term> de la
-Chimere» (I, 4, p.27).</p>
+capable de vaincre <quote>ce monstre <term ref="glossaire_ik.xml#imagine">imaginé</term> de la
+Chimere</quote> (I, 4, p.27).</p>
                <p>
 Dans L'Astrée, Chimère est d'abord un simple nom commun
 (<ref target="../_roman/reference/21_1/21_1_livre_8.xml#262_verso">I,
 8, 262 verso</ref>).</p>
                <p/>
                <p>
-• «Comme la terre esteint le feu de la Chimere</p>
+• <quote>Comme la terre esteint le feu de la Chimere</p>
                <p>
 Le mien s'est estouffé des cendres d'un
-cercueil»,</p>
+cercueil</quote>,</p>
                <p>
 dit <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> dans les plaintes sur la mort d'<persName ref="personnage_ee.xml#3_euric">Euric</persName> (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#166_verso">III, 4, 166
 verso</ref>).</p>
@@ -1018,16 +1020,16 @@ verso</ref>).</p>
                   <note ana="remarque">Cette image figure également dans des
 <ref target="poemes.xml#christophe">vers</ref> que le romancier a écrits
 après la mort de Christophe<note target="note_analyses.html#christophe"/> d'Urfé:
-«Comme la terre estraint le feu
+<quote>Comme la terre estraint le feu
 de la Chimere,
 Le mien s'est estouffé des cendres
-d'un cercueil».
+d'un cercueil</quote>.
 Le roman corrige le premier verbe: <emph>estraint</emph> devient <emph>esteint</emph>.</note>
                </p>
             </note>
             <note xml:id="chimere_4" n="4" ana="geographie">
                <label>Chimere</label>
-               <p>Mentionnée dans:<ref target="#3_chimere">III</ref>, <ref target="#4_chimere">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#3_chimere">III</ref>, <ref target="#4_chimere">IV</ref></mentioned><p>
 Depuis <bibl source="bibliographie.xml#homere">Homère</bibl> (<emph>Iliade</emph>, VI), la Chimère vomit
 des flammes sans arrêt.</p>
                <p/>
@@ -1040,13 +1042,13 @@ succèdent à des chimères qui s'engendrent les unes les autres
                <p>
                   <note ana="remarque">Les infidélités masculines
 seraient-elles des chimères?
-«Vaines imaginations qu'on se met dans l'esprit [...]
-esperances malfondées que l'on conçoit» (<bibl source="bibliographie.xml#furetiere">Furetière</bibl>).</note>
+<quote>Vaines imaginations qu'on se met dans l'esprit [...]
+esperances malfondées que l'on conçoit</quote> (<bibl source="bibliographie.xml#furetiere">Furetière</bibl>).</note>
                </p>
             </note>
             <note xml:id="cimbres" n="1" ana="histoire">
                <label>Cimbres</label>
-               <p>Mentionnés dans:<ref target="#cimbres">I</ref>
+               <mentioned>Mentionnés dans:<ref target="#cimbres">I</ref></mentioned><p>
 Peuple germanique<note target="note_analyses.html#germains"/> descendu de la
 région qui est aujourd'hui la presqu'île du Jutland (Danemark) pour
 attaquer <rs type="repertoire" ref="repertoire_qr.xml#rome">Rome</rs>. Il est vaincu par <persName ref="personnage_cc.xml#caius_marius">Caïus
@@ -1058,7 +1060,7 @@ dit-il, signifierait voleur (<ref target="http://remacle.org/bloodwolf/historien
                   </ref>).</p>
                <p>
 Les Cimbres seraient des <rs type="repertoire" ref="repertoire_gg.xml#gaulois">Gaulois</rs> émigrés d'après certains écrivains
-du XVIesiècle (<bibl source="bibliographie.xml#dubois">Dubois</bibl>,
+du XVIe siècle (<bibl source="bibliographie.xml#dubois">Dubois</bibl>,
 p.66).</p>
                <p/>
                <p>
@@ -1068,7 +1070,7 @@ recto</ref>).</p>
             </note>
             <note xml:id="cimmeriens" n="1" ana="histoire">
                <label>Cimmeriens</label>
-               <p>Mentionnés dans:<ref target="#cimmeriens">I</ref>
+               <mentioned>Mentionnés dans:<ref target="#cimmeriens">I</ref></mentioned><p>
 Avec les <rs type="repertoire" ref="#celtoscites">Celto-Scythes</rs> et les <rs type="repertoire" ref="#cimbres">Cimbres</rs>, ce peuple indo-européen installé au Nord
 de la mer Noire a voulu attaquer <rs type="repertoire" ref="repertoire_qr.xml#rome">Rome</rs>. Il a été vaincu par <persName ref="personnage_cc.xml#caius_marius">Caïus
 Marius</persName>, le fondateur de la <rs type="repertoire" ref="#camargue">Camargue</rs>. Selon <bibl source="bibliographie.xml#du_haillan_histoire">Du
@@ -1080,9 +1082,9 @@ En 1618, dans l'<ref target="epitres.xml#savoie_1618">Épître au duc de
 Savoie</ref>, d'Urfé nomme ce peuple qui ne verrait jamais le soleil
 en attribuant l'information à Orphée</p>
                <p>
-Ovide appelle «antres cimmériens» la demeure du Sommeil
+Ovide appelle <quote>antres cimmériens</quote> la demeure du Sommeil
 (<emph>
-                     <bibl source="bibliographie.xml#larousse">Larousse</bibl> du XIXesiècle</emph>).</p>
+                     <bibl source="bibliographie.xml#larousse">Larousse</bibl> du XIXe siècle</emph>).</p>
                <p/>
                <p>
 •<persName ref="personnage_hh.xml#hylas">Hylas</persName> raconte la fondation de la <rs type="repertoire" ref="#camargue">Camargue</rs> (<ref target="../_roman/reference/21_1/21_1_livre_8.xml#243_recto">I, 8, 243
@@ -1095,7 +1097,7 @@ recto</ref>).</p>
             <note xml:id="cite_des_rhemois_4" n="4" ana="geographie">
                <label>Cité de
 Rhemois</label>
-               <p>Mentionnée dans:<ref target="#4_cite_des_rhemois">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#4_cite_des_rhemois">IV</ref></mentioned><p>
 Il s'agit de Reims, appelée dans la troisième partie, la <rs type="repertoire" ref="repertoire_uz.xml#3_ville_des_remois">Ville
 des Remois</rs>.</p>
                <p/>
@@ -1107,7 +1109,7 @@ Rémois (<ref target="../_roman/reference/24_4/24_4_livre_5.xml#929">IV, 5,
             </note>
             <note xml:id="claye_3" n="3" ana="geographie">
                <label>Claye</label>
-               <p>Mentionnée dans:<ref target="#3_claye">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#3_claye">III</ref></mentioned><p>
 Il s'agit de Claye-Souilly, à l'Est de Paris (Seine-et-Marne). Le
 bourg, un lieu de passage, a souffert des guerres de religion (Voir
 le <ref target="http://www.claye-souilly.fr/histoire.php?id=1">site</ref> de Claye, 15 décembre 2012). Voir <bibl source="bibliographie.xml#gaumei">Gaume</bibl>
@@ -1124,7 +1126,7 @@ pp.224-225, et Itinéraire<note target="note_3.html#3_chemin_itineraire"/>.</p>
             </note>
             <note xml:id="cloton" n="1" ana="mythologie">
                <label>Cloton</label>
-               <p>Mentionnée dans:<ref target="#cloton">I</ref>
+               <mentioned>Mentionnée dans:<ref target="#cloton">I</ref></mentioned><p>
 Mythologie. Il s'agit de Clotho, la deuxième des trois <rs type="repertoire" ref="repertoire_pp.xml#parque">Parques</rs>, celle
 qui déroule le fil de la destinée et qui préside au mariage. Elle
 est vêtue de rouge dans une tapisserie flamande, Le Triomphe de la
@@ -1136,7 +1138,7 @@ verso</ref>) quand il songe à retourner dans les hameaux.</p>
             </note>
             <note xml:id="cocyte_2" n="2" ana="mythologie">
                <label>Cocyte</label>
-               <p>Mentionné dans:<ref target="#2_cocyte">II</ref>
+               <mentioned>Mentionné dans:<ref target="#2_cocyte">II</ref></mentioned><p>
 Mythologie. Fleuve des Enfers au chant VI de <emph>L'Énéide</emph> de <bibl source="bibliographie.xml#virgile">Virgile</bibl>. Son nom signifie <emph>lamentations</emph>.</p>
                <p/>
                <p>
@@ -1157,7 +1159,7 @@ comme une âme en peine.</note>
             </note>
             <note xml:id="coincy_3" n="3" ana="geographie">
                <label>Coincy</label>
-               <p>Mentionné dans:<ref target="#3_coincy">III</ref>
+               <mentioned>Mentionné dans:<ref target="#3_coincy">III</ref></mentioned><p>
 Coincy l'Abbaye, commune de l'Aisne. (<ref target="https://fr.wikipedia.org/wiki/Coincy_(Aisne">site</ref> de Wikipédia, 6 mai 2020).</p>
                <p>
 Voir <bibl source="bibliographie.xml#gaumei">Gaume</bibl> pp.224-225, et
@@ -1171,16 +1173,16 @@ Paris (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#542_verso">III, 1
             <note xml:id="colonnes_d_hercule" n="1" ana="geographie">
                <label>Colomnes
 d'Hercule</label>
-               <p>Mentionnées dans:<ref target="#colonnes_d_hercule">I</ref>
+               <mentioned>Mentionnées dans:<ref target="#colonnes_d_hercule">I</ref></mentioned><p>
 Écrit aussi <emph>Coulonnes</emph>. Nom donné aux deux colonnes du
 détroit de Gibraltar. C'est là qu'<rs type="repertoire" ref="repertoire_hh.xml#hercule">Hercule</rs>
-«borna ses voyages» écrit <bibl source="bibliographie.xml#furetiere">Furetière</bibl>
+<quote>borna ses voyages</quote> écrit <bibl source="bibliographie.xml#furetiere">Furetière</bibl>
 (Article <emph>Colomne</emph>).</p>
                <p/>
                <p>
 • Le <persName ref="personnage_cc.xml#chevalier_barbare">Chevalier</persName> qui attaque la Bergère <persName ref="personnage_dd.xml#diane">Diane</persName> et tue
 <persName ref="personnage_ff.xml#filidas">Filidas</persName>
-et <persName ref="personnage_ff.xml#filandre">Filandre</persName> vient de «pays barbares»
+et <persName ref="personnage_ff.xml#filandre">Filandre</persName> vient de <quote>pays barbares</quote>
 au-delà du détroit de Gibraltar (<ref target="../_roman/reference/21_1/21_1_livre_7.xml#193_recto">I, 7, 193
 recto</ref>), c'est-à-dire d'<rs type="repertoire" ref="repertoire_aa.xml#2_afrique">Afrique</rs>.</p>
                <p/>
@@ -1190,7 +1192,7 @@ ce <ref target="http://expositions.bnf.fr/lamer/grand/012.htm">site</ref> (8 mar
             </note>
             <note xml:id="concorde_2" n="2" ana="geographie">
                <label>Concorde</label>
-               <p>Mentionnée dans:<ref target="#2_concorde">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_concorde">II</ref></mentioned><p>
 Il s'agit de Concordia Sagittaria, ville située près d'<rs type="repertoire" ref="repertoire_aa.xml#2_aquilee">Aquilée</rs>, en
 <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs>.</p>
                <p/>
@@ -1201,7 +1203,7 @@ Il s'agit de Concordia Sagittaria, ville située près d'<rs type="repertoire" r
             </note>
             <note xml:id="constantinople_2" n="2" ana="geographie">
                <label>Constantinople</label>
-               <p>Mentionnée dans:<ref target="#2_constantinople">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_constantinople">II</ref></mentioned><p>
 Depuis la mort de <persName ref="personnage_tt.xml#2_theodose">ThéodoseIer</persName> en 395
 et la division de l'Empire, les empereurs d'<rs type="repertoire" ref="repertoire_no.xml#2_orient">Orient</rs> vivent
 à Constantinople, un territoire grec conquis à la suite des guerres
@@ -1209,14 +1211,14 @@ puniques. Constantinople, qui doit son nom à
 ConstantinIer, empereur romain, et
 qui était considérée comme la porte de l'<rs type="repertoire" ref="repertoire_no.xml#2_orient">Orient</rs>,
 s'appelait à l'origine <rs type="repertoire" ref="repertoire_bb.xml#bisance">Byzance</rs> (Voir <ref target="../_roman/reference/21_1/21_1_livre_2.xml#43_recto">l'Histoire
-d'Alcippe</ref>). <bibl source="bibliographie.xml#jordanes">Jordanès</bibl> décrit «la splendeur de cette
-grande cité» du temps de <persName ref="personnage_tt.xml#2_theodose2">ThéodoseII</persName> (ch.XXVIII).
+d'Alcippe</ref>). <bibl source="bibliographie.xml#jordanes">Jordanès</bibl> décrit <quote>la splendeur de cette
+grande cité</quote> du temps de <persName ref="personnage_tt.xml#2_theodose2">ThéodoseII</persName> (ch.XXVIII).
 Constantinople, nommée aujourd'hui Istanboul, appartient à la
 Turquie.</p>
                <p/>
                <p>
 La ville est attaquée par les <rs type="repertoire" ref="repertoire_uz.xml#2_venitiens">Vénitiens</rs>
-au XIIIesiècle lors de la quatrième
+au XIIIe siècle lors de la quatrième
 croisade. Geoffroi de Villehardouin est le principal chantre de
 cette croisade. Il décrit la ville en termes très élogieux (Voir
 une gravure dans ce <ref target="http://www.herodote.net/Images/Constantinoplecroisesminiature.jpg">site</ref>, 30 septembre 2014). À la suite du sac de
@@ -1227,8 +1229,8 @@ descendants pendant quelques années. (Voir Lascaris<note target="note_analyses.
                <p>
                   <note ana="remarque">Dans un manuscrit de <emph>La Savoisiade<note target="note_analyses.html#savoisiade"/>
                      </emph>, Honoré
-d'Urfé rappelle que sa mère, Renée de Savoie<note target="note_analyses.html#renee"/>, descendait d'Anne de Lascaris<note target="note_analyses.html#lascaris"/>. Elle venait donc «des empereurs chassés du
-trône de Constantinople» (<bibl source="bibliographie.xml#gaumei">Gaume</bibl>, p.245).</note>
+d'Urfé rappelle que sa mère, Renée de Savoie<note target="note_analyses.html#renee"/>, descendait d'Anne de Lascaris<note target="note_analyses.html#lascaris"/>. Elle venait donc <quote>des empereurs chassés du
+trône de Constantinople</quote> (<bibl source="bibliographie.xml#gaumei">Gaume</bibl>, p.245).</note>
                </p>
                <p>
 • Constantinople est la capitale de l'<rs type="repertoire" ref="repertoire_ee.xml#2_empire_romain">Empire
@@ -1281,7 +1283,7 @@ dans ce <ref target="https://es.wikipedia.org/wiki/Sitio_de_Constantinopla_(626)
             </note>
             <note xml:id="coribantes" n="1" ana="mythologie">
                <label>Coribantes</label>
-               <p>Mentionnés dans:<ref target="#coribantes">I</ref>
+               <mentioned>Mentionnés dans:<ref target="#coribantes">I</ref></mentioned><p>
 Mythologie. Selon certains mythographes, les Corybantes sont les
 filles d'<rs type="repertoire" ref="repertoire_aa.xml#apollon">Apollon</rs> et de Thalie, la muse de la Comédie, selon
 d'autres, ce sont des prêtres de Cybèle, déesse de la Terre. Les
@@ -1292,11 +1294,11 @@ Curètes, des démons de l'entourage de <rs type="repertoire" ref="repertoire_ik
                   <bibl source="bibliographie.xml#epistres">
                      <emph>Les
 Epistres morales</emph>
-                  </bibl> présentent: «Ce <rs type="repertoire" ref="repertoire_ss.xml#saturne">Saturne</rs>
+                  </bibl> présentent: <quote>Ce <rs type="repertoire" ref="repertoire_ss.xml#saturne">Saturne</rs>
 malicieux, qui mange, et devore ses propres enfans aussi tost
-qu'ils sont nais» à côté de «ces femmes, qui par leurs
+qu'ils sont nais</quote> à côté de <quote>ces femmes, qui par leurs
 chansons, et haultbois cachoient la voix du petit <rs type="repertoire" ref="repertoire_ik.xml#jupiter">Jupiter</rs> à sa
-naissance» (I, 2, p.8).</p>
+naissance</quote> (I, 2, p.8).</p>
                <p>
 Les peintres font souvent des Corybantes de belles femmes. Voir par
 exemple un tableau de Romano Giulio (1499?- 1546) dans
@@ -1304,7 +1306,7 @@ ce <ref target="http://www.nationalgallery.org.uk/paintings/workshop-of-giulio-r
 qui se trouve à Versailles dans ce <ref target="http://mythologica.fr/grec/pic/jupiter-corybantes.jpg">site</ref> (2 janvier 2015).</p>
                <p/>
                <p>
-• Dans les «peintures esclatantes», des Corybantes
+• Dans les <quote>peintures esclatantes</quote>, des Corybantes
 (dont le genre n'est pas précisé) se trouvent près de <rs type="repertoire" ref="repertoire_ik.xml#jupiter">Jupiter</rs> enfant
 et jouent de la musique pour le protéger en couvrant ses
 vagissements (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#27_recto">I, 2, 27
@@ -1312,12 +1314,12 @@ recto</ref>).</p>
             </note>
             <note xml:id="corsaire" n="1" ana="mythologie">
                <label>Corsaire</label>
-               <p>Mentionné dans:<ref target="repertoire_ee.xml#enee">I</ref>
+               <mentioned>Mentionné dans:<ref target="repertoire_ee.xml#enee">I</ref></mentioned><p>
 Écrit aussi <emph>Coursaire</emph>. Voir <rs type="repertoire" ref="repertoire_ee.xml#enee">Énée</rs>.</p>
             </note>
             <note xml:id="cosenze_2" n="2" ana="geographie">
                <label>Cosenze</label>
-               <p>Mentionnée dans:<ref target="#2_cosenze">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_cosenze">II</ref></mentioned><p>
 Aujourd'hui <emph>Cosenza</emph>. Ville italienne
 en Calabre. Le roi des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs>, <persName ref="personnage_aa.xml#2_alaric">Alaric</persName>, serait
 enterré avec ses trésors dans le Bussento, la rivière qui passe par
@@ -1330,16 +1332,16 @@ qu'<persName ref="personnage_aa.xml#2_alaric">Alaric</persName> mourut dans cett
             </note>
             <note xml:id="cousant_3" n="3" ana="geographie">
                <label>Cousant</label>
-               <p>Mentionné dans:<ref target="#3_cousant">III</ref>
+               <mentioned>Mentionné dans:<ref target="#3_cousant">III</ref></mentioned><p>
 On écrit aujourd'hui <emph>Couzan</emph>. Voir le schéma tracé par
 Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl> (p.191). L'histoire du château de
-Couzan a inspiré un curieux poème en 1934, «Couzan est
-fier» (Voir ce <ref target="http://forezhistoire.free.fr/couzan.xml">site</ref>, 5 décembre 2012).</p>
+Couzan a inspiré un curieux poème en 1934, <quote>Couzan est
+fier</quote> (Voir ce <ref target="http://forezhistoire.free.fr/couzan.xml">site</ref>, 5 décembre 2012).</p>
                <p/>
                <p>
 • <persName ref="personnage_dd.xml#3_damon_a">Damon
 d'Aquitaine</persName> debout dans la plaine du <rs type="repertoire" ref="repertoire_ff.xml#3_forez">Forez</rs> admire
-«les fertiles montagnes de Cousant» (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#218_recto">III, 6, 218
+<quote>les fertiles montagnes de Cousant</quote> (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#218_recto">III, 6, 218
 recto</ref>).</p>
             </note>
             <note ana="geographie">
@@ -1348,7 +1350,7 @@ recto</ref>).</p>
             </note>
             <note xml:id="cupidon" n="1" ana="mythologie">
                <label>Cupidon</label>
-               <p>Mentionné dans:<ref target="#cupidon">I</ref>, <ref target="#3_cupidon">III</ref>
+               <mentioned>Mentionné dans:<ref target="#cupidon">I</ref>, <ref target="#3_cupidon">III</ref></mentioned><p>
 Mythologie. Ce nom romain du dieu grec, Éros, vient du latin
 <emph>cupidus</emph>, de <emph>cupere</emph>, désirer.</p>
                <p/>
@@ -1357,7 +1359,7 @@ Ce dieu figure dans les deux séries de tableaux de la première
 partie de <emph>L'Astrée</emph>:</p>
                <p/>
                <p>
-• Dans les «peintures esclatantes», près de <rs type="repertoire" ref="repertoire_uz.xml#venus">Vénus</rs>, sa mère,
+• Dans les <quote>peintures esclatantes</quote>, près de <rs type="repertoire" ref="repertoire_uz.xml#venus">Vénus</rs>, sa mère,
 Cupidon porte une cicatrice qui rappelle sa mésaventure avec
 <rs type="repertoire" ref="repertoire_pp.xml#psyche">Psyché</rs>
 (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#27_verso">I,
@@ -1388,42 +1390,42 @@ verso</ref>).</p>
             </note>
             <note xml:id="cupidon_3" n="3" ana="mythologie">
                <label>Cupidon</label>
-               <p>Mentionné dans:<ref target="#cupidon">I</ref>, <ref target="#3_cupidon">III</ref>
+               <mentioned>Mentionné dans:<ref target="#cupidon">I</ref>, <ref target="#3_cupidon">III</ref></mentioned><p>
 • Dans des vers composés par <persName ref="personnage_aa.xml#3_alexis">Alexis</persName> regardant <persName ref="personnage_aa.xml#3_astree">Astrée</persName>
-endormie, «le petit Cupidon» dort «dans le giron
-de <rs type="repertoire" ref="repertoire_pp.xml#3_psyche">Psyché</rs>» (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#464_recto">III, 11,
+endormie, <quote>le petit Cupidon</quote> dort <quote>dans le giron
+de <rs type="repertoire" ref="repertoire_pp.xml#3_psyche">Psyché</rs></quote> (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#464_recto">III, 11,
 464 recto</ref>). <persName ref="personnage_aa.xml#3_alexis">Alexis</persName> se compare à <rs type="repertoire" ref="repertoire_pp.xml#3_psyche">Psyché</rs>.</p>
                <p/>
                <p>
                   <note ana="remarque">Le berger se travestit encore une fois
 puisqu'il prend la place de la femme dans une évocation
-mythologique qui rappelle les «peintures esclatantes»
+mythologique qui rappelle les <quote>peintures esclatantes</quote>
 de la première partie (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#27_verso">I, 2, 27
 verso</ref>).</note>
                </p>
             </note>
             <note xml:id="circe_2" n="2" ana="mythologie">
                <label>Cyrce</label>
-               <p>Mentionnée dans:<ref target="#2_circe">II</ref>, <ref target="#3_circe">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_circe">II</ref>, <ref target="#3_circe">III</ref></mentioned><p>
 Mythologie. Écrit aussi <emph>Circe</emph>. Au chant X de <emph>L'Odyssée</emph> d'<bibl source="bibliographie.xml#homereo">Homère</bibl>, Circé est la magicienne qui
 transforme les compagnons d'<rs type="repertoire" ref="repertoire_uz.xml#2_ulysse">Ulysse</rs> en pourceaux. Ensuite, elle met en
 garde le héros contre le chant des <rs type="repertoire" ref="repertoire_ss.xml#2_sirenes">sirènes</rs>.</p>
                <p/>
                <p>
-«On ne doit pas dire <emph>Circe</emph> pour <emph>Circé</emph> [...]
+<quote>On ne doit pas dire <emph>Circe</emph> pour <emph>Circé</emph> [...]
 cela ne se peut souffrir [...] il ne faut point changer l'E fermé
-aux Noms étrangers, si l'usage n'y est clair» (<bibl source="bibliographie.xml#patru">Patru</bibl>, II,
+aux Noms étrangers, si l'usage n'y est clair</quote> (<bibl source="bibliographie.xml#patru">Patru</bibl>, II,
 p.628-629).</p>
                <p/>
                <p>
 Circé n'est pas un symbole positif chez Honoré d'Urfé. Elle
 représente la perfidie dans <bibl source="bibliographie.xml#epistres">Les Epistres morales</bibl>, celle dont
-la «science n'est pas de transformer autruy, mais ses
+la <quote>science n'est pas de transformer autruy, mais ses
 discours, son visage, et ses actions propres en diverses
-metamorphoses» (I, 7, p.57).</p>
+metamorphoses</quote> (I, 7, p.57).</p>
                <p>
-«Le breuvage de Cyrcé [...] transforme la raison en
-volupté» (<bibl source="bibliographie.xml#epistres">Epistres</bibl>, I, 15, p.132), ce qui
+<quote>Le breuvage de Cyrcé [...] transforme la raison en
+volupté</quote> (<bibl source="bibliographie.xml#epistres">Epistres</bibl>, I, 15, p.132), ce qui
 explique pourquoi le moraliste associe Circé aux <rs type="repertoire" ref="repertoire_ss.xml#2_sirenes">sirènes</rs> quand
 il désire illustrer les dangers que présente <rs type="repertoire" ref="repertoire_ff.xml#2_fortune_dieu">Fortune</rs>.</p>
                <p/>
@@ -1434,29 +1436,29 @@ de charmes qu'à Circé (<ref target="../_roman/reference/21_2/21_2_livre_4.xml#
                <p/>
                <p>
                   <note ana="remarque">Ce chevalier a-t-il osé (et su!)
-montrer sur ses armes «les compagnons d'<rs type="repertoire" ref="repertoire_uz.xml#2_ulysse">Ulysse</rs> en
-diverses sortes d'animaux»? (<ref target="../_roman/reference/21_2/21_2_livre_4.xml#202">II, 4,
+montrer sur ses armes <quote>les compagnons d'<rs type="repertoire" ref="repertoire_uz.xml#2_ulysse">Ulysse</rs> en
+diverses sortes d'animaux</quote>? (<ref target="../_roman/reference/21_2/21_2_livre_4.xml#202">II, 4,
 202</ref>)</note>
                </p>
                <p>
 • On peut voir un vase représentant Circé et <rs type="repertoire" ref="repertoire_uz.xml#2_ulysse">Ulysse</rs> dans ce
 <ref target="https://mediterranees.net/mythes/ulysse/epreuves/circe/circe_iconographie.xml">site</ref> (30 octobre 2020). Le 15 octobre 1581,
 Catherine de Médicis, au Louvre, assiste au Ballet de Circé et des
-nymphes, «le plus beau, le mieux ordonné et exécuté qu'aucun
-d'auparavant» (<bibl source="bibliographie.xml#l_estoile">L'Estoile</bibl>, I, p.200). Il s'agit du
-«Ballet comique» qui montre la défaite de Circé (Voir
+nymphes, <quote>le plus beau, le mieux ordonné et exécuté qu'aucun
+d'auparavant</quote> (<bibl source="bibliographie.xml#l_estoile">L'Estoile</bibl>, I, p.200). Il s'agit du
+<quote>Ballet comique</quote> qui montre la défaite de Circé (Voir
 ce <ref target="http://operabaroque.fr/BEAULIEU_REINE.htm">site</ref>, 10 février 2013).</p>
             </note>
             <note xml:id="circe_3" n="3" ana="mythologie">
                <label>Cyrce</label>
-               <p>Mentionnée dans:<ref target="#2_circe">II</ref>, <ref target="#3_circe">III</ref>
-Circé, «fée des métamorphoses» qui «donne un
-corps et un visage à tout un monde qui se cherche» (<bibl source="bibliographie.xml#rousset">Roussset</bibl>,
-p.31), possède une face noire. Elle représente «un
-appetit et convoitise de choses illegitimes» (<bibl source="bibliographie.xml#conti">Conti</bibl>,
+               <mentioned>Mentionnée dans:<ref target="#2_circe">II</ref>, <ref target="#3_circe">III</ref></mentioned><p>
+Circé, <quote>fée des métamorphoses</quote> qui <quote>donne un
+corps et un visage à tout un monde qui se cherche</quote> (<bibl source="bibliographie.xml#rousset">Roussset</bibl>,
+p.31), possède une face noire. Elle représente <quote>un
+appetit et convoitise de choses illegitimes</quote> (<bibl source="bibliographie.xml#conti">Conti</bibl>,
 p.462).</p>
                <p>
-«Si les charmes forçoient la
+<quote>Si les charmes forçoient la
 fleche desbandée</p>
                <p>
 De l'arc que porte <rs type="repertoire" ref="repertoire_aa.xml#3_amour">Amour</rs>, la
@@ -1467,14 +1469,14 @@ Eust arresté Jason, et Circe eust
 arresté</p>
                <p>
                   <rs type="repertoire" ref="repertoire_uz.xml#2_ulysse">Ulysse</rs> dans son lict si doucement
-traité»</p>
+traité</quote></p>
                <p>
 (<bibl source="bibliographie.xml#ronsard">Ronsard</bibl>, éd. Blanchemain, IV, Élégie XXIX,
 p.345).</p>
                <p/>
                <p>
 Des cinquante et quelques maîtresses d'<rs type="repertoire" ref="repertoire_hh.xml#3_henri">HenriIV</rs>,
-la seule qui ait été traitée de «<rs type="repertoire" ref="#3_circe">Circé</rs>» semble être Charlotte de
+la seule qui ait été traitée de <quote><rs type="repertoire" ref="#3_circe">Circé</rs></quote> semble être Charlotte de
 Beaune-Semblançay, mariée à 17 ans au vieux baron de Sauve.
 <bibl source="bibliographie.xml#marguerite">Marguerite de Valois</bibl>, dans ses
 <emph>Mémoires</emph>, considère que Mme de Sauve agit en <rs type="repertoire" ref="#3_circe">Circé</rs> (en 1574, p.53, et en

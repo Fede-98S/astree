@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -18,21 +19,21 @@
          <div>
             <note xml:id="galathee_m" n="1" ana="mythologie">
                <label>Galathee</label>
-               <p>Mentionnée dans:<ref target="#galathee_m">I</ref>, <ref target="#2_galathee_m">II</ref>, <ref target="#3_galathee_m">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#galathee_m">I</ref>, <ref target="#2_galathee_m">II</ref>, <ref target="#3_galathee_m">III</ref></mentioned><p>
 Mythologie. Cette princesse est la fille du roi <rs type="repertoire" ref="repertoire_cc.xml#celtes">Celtes</rs>, l'épouse
 d'<rs type="repertoire" ref="repertoire_hh.xml#hercule">Hercule</rs> et la reine de toutes les <rs type="repertoire" ref="#gaule">Gaules</rs>. Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl>
 explique que l'aventure de cette Galathée -qu'il appelle
-curieusement «la légende d'<rs type="repertoire" ref="repertoire_hh.xml#hercule">Hercule</rs>»
--figure chez les humanistes du XVIesiècle dans le récit des origines de la
+curieusement <quote>la légende d'<rs type="repertoire" ref="repertoire_hh.xml#hercule">Hercule</rs></quote>
+-figure chez les humanistes du XVIe siècle dans le récit des origines de la
 <rs type="repertoire" ref="#gaule">Gaule</rs> (p.105-107).
-C'est le cas par exemple chez Anne d'Urfé<note target="note_analyses.html#anne"/>, le frère du romancier («<emph>Sonnets des misères de la France</emph>»,
+C'est le cas par exemple chez Anne d'Urfé<note target="note_analyses.html#anne"/>, le frère du romancier (<quote><emph>Sonnets des misères de la France</emph></quote>,
 1575-1576. Cité par C.<bibl source="bibliographie.xml#longeon">Longeon</bibl>, p.269).</p>
                <p>
 En rappelant les textes qui ont pu inspirer Honoré d'Urfé, Maxime
 <bibl source="bibliographie.xml#gaumei">Gaume</bibl>
 ne s'étonne pas que l'union d'<rs type="repertoire" ref="repertoire_hh.xml#hercule">Hercule</rs> et de Galathée reste stérile dans
 <emph>L'Astrée</emph> (pp.105-107).</p>
-               <p/>
+               
                <p>
 Les mythographes ont rendu Galathée célèbre à cause d'une autre
 aventure au parfum astréen: cette Néréide a préféré le Berger
@@ -44,7 +45,7 @@ chevalier <persName ref="personnage_pp.xml#polemas">Polémas</persName>. C'est p
 la <rs type="repertoire" ref="#galathee_m">Galathée</rs> mythique
 doit donner trois fils, dont Celtos, l'ancêtre des <rs type="repertoire" ref="repertoire_cc.xml#celtes">Celtes</rs>
 (P.<bibl source="bibliographie.xml#grimal">Grimal</bibl>, Article <emph>Galatée</emph>). Voir <ref target="feux.xml#galathee_mythe">Pleins feux</ref>.</p>
-               <p/>
+               
                <p>
                   <note ana="variante">La Galathée mythique n'apparaît pas dans
 l'édition anonyme de <emph>L'Astrée</emph> en
@@ -55,7 +56,7 @@ l'édition anonyme de <emph>L'Astrée</emph> en
 <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs>,
 tel que le rapporte la Nymphe <persName ref="personnage_gg.xml#galathee">Galathée</persName>, citant des druides (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#30_verso">I, 2, 30
 verso à 31 verso</ref>).</p>
-               <p/>
+               
                <p>
 • <rs type="repertoire" ref="#galathee_m">Galathée</rs>, Acis et
 Polyphème au jardin du Luxembourg (Fontaine de Médicis). Sculpture
@@ -80,9 +81,9 @@ Reverseau.</p>
             </note>
             <note xml:id="galathee_m_2" n="2" ana="mythologie">
                <label>Galathee</label>
-               <p>Mentionnée dans:<ref target="#galathee_m">I</ref>, <ref target="#2_galathee_m">II</ref>, <ref target="#3_galathee_m">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#galathee_m">I</ref>, <ref target="#2_galathee_m">II</ref>, <ref target="#3_galathee_m">III</ref></mentioned><p>
 La toute première référence à la Galathée mythique se trouve sous
-la plume de <bibl source="bibliographie.xml#diodore">Diodore de Sicile</bibl>: «Jadis régnait,
+la plume de <bibl source="bibliographie.xml#diodore">Diodore de Sicile</bibl>: <quote>Jadis régnait,
 dit-on, un homme célèbre dans la Celtique, qui avait une fille
 d'une taille et d'une beauté sans pareille. Fière de ces avantages,
 elle refusa la main de tous les prétendants, n'en croyant aucun
@@ -96,30 +97,30 @@ force et son courage. Arrivé à l'âge viril, il hérita du trône de
 ses pères. Il conquit beaucoup de pays limitrophes, et accomplit de
 grands exploits guerriers. Enfin, il donna à ses sujets le nom de
 Galates (<rs type="repertoire" ref="#2_gaulois">Gaulois</rs>),
-desquels tout le pays reçut le nom de Galatie (<rs type="repertoire" ref="#2_gaule">Gaule</rs>)» (XXIV, 70-71).</p>
-               <p/>
+desquels tout le pays reçut le nom de Galatie (<rs type="repertoire" ref="#2_gaule">Gaule</rs>)</quote> (XXIV, 70-71).</p>
+               
                <p>
 Selon <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>, Galathée serait la mère d'un roi nommé
 <rs type="repertoire" ref="repertoire_cc.xml#2_celtes">Celtes</rs>
 (f°3 recto), comme chez d'Urfé. Quant à <rs type="repertoire" ref="repertoire_hh.xml#2_hercule">Hercule</rs>, il
-aurait «eu plusieurs enfans des gentis-femmes du païs:
+aurait <quote>eu plusieurs enfans des gentis-femmes du païs:
 qui donnerent leurs noms aux Provinces, esquelles ils
-commandoient» (f°3 verso).</p>
-               <p/>
+commandoient</quote> (f°3 verso).</p>
+               
                <p>
                   <note ana="remarque">La divinité astréenne n'engendre pas de
 fils.</note>
                </p>
                <p>
-• D'Urfé écrit dans la première partie: «Nostre grande
+• D'Urfé écrit dans la première partie: <quote>Nostre grande
 Princesse Galathee, fille du roy <rs type="repertoire" ref="repertoire_cc.xml#celtes">Celtes</rs>, femme du
 grand <rs type="repertoire" ref="repertoire_hh.xml#hercule">Hercule</rs>, et <emph>mere de
-Galathee</emph>, qui donna son nom aux <rs type="repertoire" ref="#gaulois">Gaulois</rs>» (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#30_verso">I, 2, 30
+Galathee</emph>, qui donna son nom aux <rs type="repertoire" ref="#gaulois">Gaulois</rs></quote> (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#30_verso">I, 2, 30
 verso</ref>. Je souligne).</p>
                <p>
 Dans la deuxième partie, Galathée reste une divinité toujours liée
 à son époux.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_cc.xml#2_celidee">Célidée</persName> l'invoque et <persName ref="personnage_aa.xml#2_adamas">Adamas</persName>
 l'évoque.</p>
@@ -134,13 +135,13 @@ ses vertus et pour son union avec Galathée (<ref target="../_roman/reference/21
             </note>
             <note xml:id="galathee_m_3" n="3" ana="mythologie">
                <label>Galathee</label>
-               <p>Mentionnée dans:<ref target="#galathee_m">I</ref>, <ref target="#2_galathee_m">II</ref>,
-<ref target="#3_galathee_m">III</ref>
-• Dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> se trouve «le pourtrait du Grand
+               <mentioned>Mentionnée dans:<ref target="#galathee_m">I</ref>, <ref target="#2_galathee_m">II</ref>,
+<ref target="#3_galathee_m">III</ref></mentioned><p>
+• Dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> se trouve <quote>le pourtrait du Grand
 <rs type="repertoire" ref="repertoire_hh.xml#3_hercule">Hercule</rs> Gaulois quand il espousa la Princesse
-Galathee» (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
+Galathee</quote> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">Cette description de peinture est trois
 fois plus longue après l'édition de 1619.</note>
@@ -152,11 +153,11 @@ Libye (Galerie nationale de la Tapisserie, Beauvais) (30 mars
             </note>
             <note xml:id="galathes_3" n="3" ana="histoire">
                <label>Galathes</label>
-               <p>Mentionnés dans:<ref target="#3_galathes">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#3_galathes">III</ref></mentioned><p>
                   <emph>Galate</emph> est pour Strabon un synonyme de <emph>Gaulois</emph>.
-«La première utilisation sûre peut être attribuée au poète
+<quote>La première utilisation sûre peut être attribuée au poète
 Callimaque qui évoque "les Galates, race en délire" dans son
-<emph>Hymne à Délos</emph>, composé vers l'an 275 av J.-C.» (cité
+<emph>Hymne à Délos</emph>, composé vers l'an 275 av J.-C.</quote> (cité
 par <bibl source="bibliographie.xml#kruta">Kruta</bibl>, p.632). Diodore de Sicile précise
 que le peuple appelé Galate, est descendu de Galatès, fils
 d'<rs type="repertoire" ref="repertoire_hh.xml#3_hercule">Hercule</rs> et de <rs type="repertoire" ref="#3_galathee_m">Galathée</rs> (cité par <bibl source="bibliographie.xml#fauchet">Fauchet</bibl>,
@@ -164,18 +165,18 @@ p.5). Conduits par <persName ref="personnage_bb.xml#3_brennus">Brennus</persName
 puis se sont installés en Asie mineure (<bibl source="bibliographie.xml#kruta">Kruta</bibl>,
 pp.16-22).</p>
                <p>
-«Le choc direct des Galates contre le monde grec conduisit à
+<quote>Le choc direct des Galates contre le monde grec conduisit à
 l'introduction du thème du Gaulois comme figure emblématique de la
 Barbarie et des forces sauvages et indomptables qui menaçaient
 l'ordre civilisé, au même titre que les Titans, les Amazones et les
-Perses» (<bibl source="bibliographie.xml#kruta">Kruta</bibl>, p.635).</p>
-               <p/>
+Perses</quote> (<bibl source="bibliographie.xml#kruta">Kruta</bibl>, p.635).</p>
+               
                <p>
 • Peuple gaulois installé en <rs type="repertoire" ref="#3_grece">Grèce</rs> par <persName ref="personnage_bb.xml#3_brennus">Brennus</persName>. Ils sont évoqués parce que le
 portrait de ce Roi figure dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III,
 3, 58 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">Cette description de peinture est trois
 fois plus longue après l'édition de 1619.</note>
@@ -183,33 +184,33 @@ fois plus longue après l'édition de 1619.</note>
             </note>
             <note xml:id="galle_helvetiens_3" n="3" ana="histoire">
                <label>Galle-Helvetiens</label>
-               <p>Mentionnés dans:<ref target="#3_galle_helvetiens">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#3_galle_helvetiens">III</ref></mentioned><p>
 On écrit aujourd'hui <emph>Gallo-Helvétiens</emph>. Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl> signale
 qu'il s'agit d'une peuplade de l'Est du Jura (p.225). Honoré
 d'Urfé les nomme pour indiquer la route de <rs type="repertoire" ref="repertoire_uz.xml#3_ville_des_remois">Reims</rs> à <rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs>. Selon l'itinéraire décrit, il s'agit
 des habitants de <rs type="repertoire" ref="repertoire_cc.xml#3_claye">Claye</rs>-Souilly (Seine-et-Marne), commune qu'il faut
-laisser à droite (p.225). Au XVIesiècle, Claye était protestante. Au
+laisser à droite (p.225). Au XVIe siècle, Claye était protestante. Au
 XIXe, Souilly lui sera rattaché (Voir ce
 <ref target="http://www.histoireclaye77.org/">site</ref>,
 15 décembre 2012).</p>
-               <p/>
+               
                <p>
 • Pour rencontrer <persName ref="personnage_aa.xml#3_andrimarte">Andrimarte</persName> qui revient de <rs type="repertoire" ref="repertoire_uz.xml#3_ville_des_remois">Reims</rs>, l'écuyer de <persName ref="personnage_ss.xml#3_silviane">Silviane</persName>
-quitte <rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs> et «laiss[e] à main droicte les
-Galle-Helvetiens» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#542_verso">III, 12,
+quitte <rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs> et <quote>laiss[e] à main droicte les
+Galle-Helvetiens</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#542_verso">III, 12,
 542 verso</ref>).</p>
             </note>
             <note xml:id="galloligures_3" n="3" ana="histoire">
                <label>Galloligures</label>
-               <p>Mentionnés dans:<ref target="#3_galloligures">III</ref>, <ref target="#4_galloligures">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#3_galloligures">III</ref>, <ref target="#4_galloligures">IV</ref></mentioned><p>
 On écrit aujourd'hui <emph>Gallo-Ligures</emph>. Les Ligures portent
-«le nom caractéristique de <emph>Kelto-Ligye</emph>s qu'on
+<quote>le nom caractéristique de <emph>Kelto-Ligye</emph>s qu'on
 rencontre dans Aristote appliqué précisément aux habitants de cette
-côte [...] entre le Rhône et le Var» (<emph>
+côte [...] entre le Rhône et le Var</quote> (<emph>
                      <bibl source="bibliographie.xml#larousse">Larousse</bibl> du
-XIXesiècle</emph>, Article
+XIXe siècle</emph>, Article
 <emph>Ligurie</emph>). Voir <rs type="repertoire" ref="repertoire_ll.xml#3_ligurie">Ligurie</rs>.</p>
-               <p/>
+               
                <p>
                   <note ana="variante">La <rs type="repertoire" ref="repertoire_pp.xml#3_province_des_romains">Province des Romains</rs> s'appelle la Province de
 Gallo-Ligures après l'édition de 1619 (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#40_verso">III, 2, 40
@@ -219,47 +220,47 @@ verso</ref>)</note>
 • Les Gallo-Ligures font partie des peuples soumis à <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#352_recto">III, 8, 352
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Dans une phrase particulièrement complexe, <persName ref="personnage_aa.xml#3_adamas">Adamas</persName> expose
 les défauts de la religion pratiquée dans la contrée des
 Gallo-Ligures que l'on appelle communément <rs type="repertoire" ref="repertoire_pp.xml#3_province_des_romains">Province des Romains</rs> (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_recto">III, 9, 373
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName>, dame d'<rs type="repertoire" ref="repertoire_aa.xml#3_aquitaine">Aquitaine</rs>,
-est «l'une des plus belles de toutes les Galloligures»
+est <quote>l'une des plus belles de toutes les Galloligures</quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#453_recto">III, 11,
 453 recto</ref>).</p>
             </note>
             <note xml:id="galloligures_4" n="4" ana="histoire">
                <label>Galloligures</label>
-               <p>Mentionnés dans:<ref target="#3_galloligures">III</ref>, <ref target="#4_galloligures">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#3_galloligures">III</ref>, <ref target="#4_galloligures">IV</ref></mentioned><p>
 Écrit <emph>Gallo-Ligures</emph>.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> dit indifféremment <emph>
                      <rs type="repertoire" ref="repertoire_pp.xml#4_province_des_romains">Province des Romains</rs>
                   </emph> ou <emph>Province des
 Galloligures</emph> (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#238">IV, 2, 238</ref>),
 région qui comprend la <rs type="repertoire" ref="repertoire_cc.xml#4_camargue">Camargue</rs> d'<persName ref="personnage_hh.xml#4_hylas">Hylas</persName>.</p>
-               <p/>
+               
                <p>
 • D'après <persName ref="personnage_cc.xml#4_circene">Circène</persName>, les Gallo-Ligures ont remplacé la
 religion par les fables des <rs type="repertoire" ref="#4_grecs">Grecs</rs> (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#480">IV, 3,
 480</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> a fait des conquêtes dans les
 territoires des Gallo-Ligures (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#642">IV, 4,
 642</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> veut exiler <persName ref="personnage_ss.xml#4_sigismond">Sigismond</persName>
-«dans les Galloligures» (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#795">IV, 4, 795</ref>).
+<quote>dans les Galloligures</quote> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#795">IV, 4, 795</ref>).
 <persName ref="personnage_ss.xml#4_sigismond">Sigismond</persName> l'apprend (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#800">IV, 4,
 800</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Le territoire prend le nom du
 peuple.</note>
@@ -267,12 +268,12 @@ peuple.</note>
             </note>
             <note xml:id="gandelu_3" n="3" ana="geographie">
                <label>Gandelu</label>
-               <p>Mentionné dans:<ref target="#3_gandelu">III</ref>
+               <mentioned>Mentionné dans:<ref target="#3_gandelu">III</ref></mentioned><p>
 Gandelu (Aisne) est un village en Picardie, sur la route de Paris à
-Reims. On y trouve l'église Saint-Rémi qui date du XIIesiècle (Voir ce <ref target="http://www.gandelu.com/">site</ref>, 15 décembre
+Reims. On y trouve l'église Saint-Rémi qui date du XIIe siècle (Voir ce <ref target="http://www.gandelu.com/">site</ref>, 15 décembre
 2012). Voir <bibl source="bibliographie.xml#gaumei">Gaume</bibl> pp.224-225, et
 Itinéraire<note target="note_3.html#3_chemin_itineraire"/>.</p>
-               <p/>
+               
                <p>
 • Pour revenir de la <rs type="repertoire" ref="repertoire_uz.xml#3_ville_des_remois">ville
 des Rémois</rs>, Reims, <persName ref="personnage_aa.xml#3_andrimarte">Andrimarte</persName> doit passer par Gandelu (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#542_verso">III, 12,
@@ -280,26 +281,26 @@ des Rémois</rs>, Reims, <persName ref="personnage_aa.xml#3_andrimarte">Andrimar
             </note>
             <note xml:id="gange_3" n="3" ana="geographie">
                <label>Gange</label>
-               <p>Mentionné dans:<ref target="#3_gange">III</ref>
+               <mentioned>Mentionné dans:<ref target="#3_gange">III</ref></mentioned><p>
 Le plus long des fleuves de l'Inde est nommé dans la Bible:
-«Il y avoit quatre fleuves qui sortoient du Paradis
-terrestre, l'Euphrate, le Tigre, le Gange et le Nil»
+<quote>Il y avoit quatre fleuves qui sortoient du Paradis
+terrestre, l'Euphrate, le Tigre, le Gange et le Nil</quote>
 (<bibl source="bibliographie.xml#furetiere">Furetière</bibl>, Article <emph>Fleuve</emph>). Les
 traductions modernes de la <ref target="http://www.topchretien.com/topbible/genese.2.10/S21/">
                      <emph>Genèse</emph>
                   </ref> donnent: Pishôn, Gihon, Tigre et
 Euphrate (2-10 à 14). Voir ce <ref target="http://bible.archeologie.free.fr/jardinperdu.xml">site</ref> (15 décembre 2012).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#3_adamas">Adamas</persName>, faisant un compliment dithyrambique à
 <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName>, affirme que la réputation du roi
 <persName ref="personnage_ee.xml#3_euric">Euric</persName> a
-atteint «le Gange et le <rs type="repertoire" ref="repertoire_tt.xml#3_tyle">Tyle</rs>» (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#159_verso">III, 4, 159
+atteint <quote>le Gange et le <rs type="repertoire" ref="repertoire_tt.xml#3_tyle">Tyle</rs></quote> (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#159_verso">III, 4, 159
 verso</ref>).</p>
             </note>
             <note xml:id="ganymede" n="1" ana="mythologie">
                <label>Ganimede</label>
-               <p>Mentionné dans:<ref target="#ganymede">I</ref>
+               <mentioned>Mentionné dans:<ref target="#ganymede">I</ref></mentioned><p>
 Mythologie. Écrit aussi <emph>Ganimedes</emph>. Ce Berger est le plus
 beau des enfants des hommes (<emph>
                      <bibl source="bibliographie.xml#homere">L'Iliade</bibl>
@@ -307,10 +308,10 @@ beau des enfants des hommes (<emph>
 D'Urfé, né en février, sous le signe du Verseau (<emph>Aquarius</emph>), porte un intérêt particulier à
 Ganymède, le verse-eau des dieux (<bibl source="bibliographie.xml#heneinp">Henein</bibl>,
 p.134-135).</p>
-               <p/>
+               
                <p>
-• L'enfant est représenté dans «les peintures
-esclatantes», à <rs type="repertoire" ref="repertoire_ik.xml#isoure">Isoure</rs>, sur le dos de l'aigle qui l'a emmené aux
+• L'enfant est représenté dans <quote>les peintures
+esclatantes</quote>, à <rs type="repertoire" ref="repertoire_ik.xml#isoure">Isoure</rs>, sur le dos de l'aigle qui l'a emmené aux
 cieux. Il ressemble à <rs type="repertoire" ref="repertoire_cc.xml#cupidon">Cupidon</rs> et agit en échanson de <rs type="repertoire" ref="repertoire_ik.xml#jupiter">Jupiter</rs>
 (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#27_recto">I,
 2, 27 recto</ref>). Comme le Ganymède des <bibl source="bibliographie.xml#epistres">
@@ -320,9 +321,9 @@ désire verser des bienfaits aux hommes. Maxime <bibl source="bibliographie.xml#
 rapproche Ganymède et <persName ref="personnage_cc.xml#celadon">Céladon</persName> (p.384).</p>
                <p>
                   <bibl source="bibliographie.xml#richelet">Richelet</bibl> donne le verbe
-<emph>Enganimeder</emph>: «Abuser honteusement d'une [sic]
-jeune garçon».</p>
-               <p/>
+<emph>Enganimeder</emph>: <quote>Abuser honteusement d'une [sic]
+jeune garçon</quote>.</p>
+               
                <p>
 • Peintres et sculpteurs montrent généralement Ganymède nu. On
 trouvera L'Enlèvement de Ganymède de Rubens dans ce <ref target="http://www.artliste.com/enlevement-ganymede-peter-paul-rubens-3-165-iphone.jpg">site</ref> (15 avril 2014), et celui du Primatice,
@@ -330,11 +331,11 @@ peinture murale de Fontainebleau dans ce <ref target="http://www.culture.gouv.fr
             </note>
             <note xml:id="garde" n="1" ana="geographie">
                <label>Garde, (La)</label>
-               <p>Mentionnée dans:<ref target="#garde">I</ref>
+               <mentioned>Mentionnée dans:<ref target="#garde">I</ref></mentioned><p>
 La Garde se situe dans un vallon des montagnes de <rs type="repertoire" ref="repertoire_cc.xml#3_cousant">Couzan</rs>
 (<bibl source="bibliographie.xml#gaumei">Gaume</bibl>, p.190). On trouve des photos dans
 ce <ref target="https://rando.parc-livradois-forez.org/pedestre/le-pic-de-la-garde/">site</ref> (25 septembre 2019).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_ll.xml#lucine">Lucine</persName>, la sage-femme, passe du côté du pic de La
 Garde (Livradois) après avoir quitté la ville de <rs type="repertoire" ref="repertoire_mm.xml#moin">Moingt</rs> (<ref target="../_roman/reference/21_1/21_1_livre_4.xml#110_verso">I, 4, 110
@@ -347,11 +348,11 @@ Garocelles</label>
             </note>
             <note xml:id="garonne_2" n="2" ana="geographie">
                <label>Garonne</label>
-               <p>Mentionnée dans:<ref target="#2_garonne">II</ref>, <ref target="#3_garonne">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_garonne">II</ref>, <ref target="#3_garonne">III</ref></mentioned><p>
 Écrit aussi <emph>Garronne</emph>. Ce fleuve sépare
 l'<rs type="repertoire" ref="repertoire_aa.xml#2_aquitaine">Aquitaine</rs> de la <rs type="repertoire" ref="#2_gaule">Gaule</rs> du temps de <persName ref="personnage_cc.xml#cesar">Jules César</persName>. Il
 est ensuite compris dans le royaume des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs>.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#2_damon_a">Damon</persName> d'Aquitaine parvient aux rives de la
 <rs type="repertoire" ref="#2_garonne">Garonne</rs> (<ref target="../_roman/reference/21_2/21_2_livre_6.xml#378">II, 6,
@@ -359,51 +360,51 @@ est ensuite compris dans le royaume des <rs type="repertoire" ref="repertoire_uz
             </note>
             <note xml:id="garonne_3" n="3" ana="geographie">
                <label>Garonne</label>
-               <p>Mentionnée dans:<ref target="#2_garonne">II</ref>, <ref target="#3_garonne">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_garonne">II</ref>, <ref target="#3_garonne">III</ref></mentioned><p>
 Ce fleuve a un <ref target="http://www.lagaronne.com/">site</ref> particulièrement riche (10 octobre 2014).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#3_damon_a">Damon</persName> se jette dans la Garonne (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#235_recto">III, 6, 235
-recto</ref>). «Parce que ce fleuve est grandement
-impetueux» (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#236_recto">III, 6, 236
+recto</ref>). <quote>Parce que ce fleuve est grandement
+impetueux</quote> (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#236_recto">III, 6, 236
 recto</ref>), le chevalier est presque arrivé à la mer quand des
 pêcheurs le sortent de l'eau.</p>
             </note>
             <note xml:id="gaule" n="1" ana="geographie">
                <label>Gaule</label>
-               <p>Mentionnée dans:<ref target="#gaule">I</ref>, <ref target="#2_gaule">II</ref>, <ref target="#3_gaule">III</ref>, <ref target="#4_gaule">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#gaule">I</ref>, <ref target="#2_gaule">II</ref>, <ref target="#3_gaule">III</ref>, <ref target="#4_gaule">IV</ref></mentioned><p>
 Écrit aussi <emph>Gaules</emph>. <bibl source="bibliographie.xml#cesar">Jules César</bibl>,
 dans ses <emph>Commentaires,</emph> distingue la
 <emph>Provincia</emph> (qui deviendra la
-Narbonnaise) de la Gaule libre ou «chevelue» elle-même
+Narbonnaise) de la Gaule libre ou <quote>chevelue</quote> elle-même
 divisée en trois provinces, l'<rs type="repertoire" ref="repertoire_aa.xml#aquitaine">Aquitaine</rs>, la
 Celtique (ou Lyonnaise) et la Belgique. Le <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs> fait partie
 de l'<rs type="repertoire" ref="repertoire_aa.xml#aquitaine">Aquitaine</rs> puis de la Gaule Lyonnaise, la <rs type="repertoire" ref="repertoire_cc.xml#camargue">Camargue</rs>
 d'<persName ref="personnage_hh.xml#hylas">Hylas</persName>
 fait partie de la Gaule Narbonnaise.</p>
-               <p/>
+               
                <p>
 • Dès sa préface (<ref target="../_roman/reference/21_1/21_1_liminaires.xml#autheur_a_bergere">
                      <emph>L'Autheur
 à la Bergere Astrée</emph>
                   </ref>), d'Urfé utilise le pluriel,
-«toutes les Gaules».</p>
-               <p/>
+<quote>toutes les Gaules</quote>.</p>
+               
                <p>
 • Le roman se déroule durant une époque où les Gaules sont
-«oppressées» (<ref target="../_roman/reference/21_1/21_1_livre_7.xml#211_recto">I, 7, 211
+<quote>oppressées</quote> (<ref target="../_roman/reference/21_1/21_1_livre_7.xml#211_recto">I, 7, 211
 recto</ref>) et inondées de Barbares (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#70_recto">I, 3, 70
-recto</ref>). C'est au Vesiècle,
+recto</ref>). C'est au Ve siècle,
 après la chute de l'<rs type="repertoire" ref="repertoire_ee.xml#2_empire_romain">Empire romain</rs>, que les <rs type="repertoire" ref="repertoire_ff.xml#francs">Francs</rs>
 réussiront à unifier les Gaules, puis les appelleront <rs type="repertoire" ref="repertoire_ff.xml#2_france">France</rs>
 (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#64_recto">I,
 3, 64 recto</ref>).</p>
-               <p/>
+               
                <p>
-• En <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs> survient «un estranger <rs type="repertoire" ref="repertoire_qr.xml#romains">Romain</rs> [qui] en
-dix ans conquit toutes les Gaules» (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#29_verso">I, 2, 29
+• En <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs> survient <quote>un estranger <rs type="repertoire" ref="repertoire_qr.xml#romains">Romain</rs> [qui] en
+dix ans conquit toutes les Gaules</quote> (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#29_verso">I, 2, 29
 verso</ref>). Il s'agit de <persName ref="personnage_cc.xml#cesar">Jules César</persName>.</p>
-               <p/>
+               
                <p>
 • Voir la <ref target="http://www.bib.ens.fr/fileadmin/user_upload/lettres/RedecouvertePatrimoine/1589_CesarVigenere/IMG_1484_Carte.jpg">carte</ref> de la Gaule tirée des
 <emph>Commentaires</emph> de <bibl source="bibliographie.xml#cesar_baudoin">Vigenère</bibl> (20 avril 2015), et dans ce
@@ -411,20 +412,20 @@ verso</ref>). Il s'agit de <persName ref="personnage_cc.xml#cesar">Jules César<
             </note>
             <note xml:id="gaule_2" n="2" ana="geographie">
                <label>Gaule</label>
-               <p>Mentionnée dans:<ref target="#gaule">I</ref>, <ref target="#2_gaule">II</ref>, <ref target="#3_gaule">III</ref>, <ref target="#4_gaule">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#gaule">I</ref>, <ref target="#2_gaule">II</ref>, <ref target="#3_gaule">III</ref>, <ref target="#4_gaule">IV</ref></mentioned><p>
 La Gaule, habitée et disputée par une soixantaine de peuples
 (<bibl source="bibliographie.xml#lot">Lot</bibl>,
-p.52), «est l'asile, le centre du monde celtique»
+p.52), <quote>est l'asile, le centre du monde celtique</quote>
 (<bibl source="bibliographie.xml#lot">Lot</bibl>,
 p.34). <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl> écrit que cette région, voisine de
-l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> et donc «sujette à recevoir les
+l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> et donc <quote>sujette à recevoir les
 premieres descharges et passages, [...] servit de champ et de lice,
-pour le combat et les courses» (f°79 recto). «Les
+pour le combat et les courses</quote> (f°79 recto). <quote>Les
 <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> ont combatu contre les <rs type="repertoire" ref="#2_gaulois">Gaulois</rs> de deça les monts,
-l'espace de quatrevingt ans continuels» (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>,
-f°39 recto). L'historien souligne «le pitoiable estat
-des Gaules» du temps de <persName ref="personnage_uz.xml#2_valentinien">Valentinien</persName> (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>, f°87 recto).</p>
-               <p/>
+l'espace de quatrevingt ans continuels</quote> (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>,
+f°39 recto). L'historien souligne <quote>le pitoiable estat
+des Gaules</quote> du temps de <persName ref="personnage_uz.xml#2_valentinien">Valentinien</persName> (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>, f°87 recto).</p>
+               
                <p>
 • Peu après le déluge, la Gaule a eu des rois dont <rs type="repertoire" ref="repertoire_dd.xml#2_dis">Dis</rs>
                   <rs type="repertoire" ref="repertoire_ss.xml#2_samothes">Samothes</rs> et
@@ -435,10 +436,10 @@ grecque (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#509">II, 8, 509<
 Les druides exercent encore leur ministère dans toute la Gaule
 (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#505">II, 8,
 505</ref>).</p>
-               <p/>
+               
                <p>
 • Honoré d'Urfé s'attache surtout à décrire le tourbillon des
-migrations et invasions du Vesiècle. Il nomme cinquante-cinq peuples dont
+migrations et invasions du Ve siècle. Il nomme cinquante-cinq peuples dont
 la plupart se heurtent en Gaule, une plaque tournante et une terre
 convoitée.</p>
                <p>
@@ -451,7 +452,7 @@ Les <rs type="repertoire" ref="#2_gaulois">Gaulois</rs> sortent de
 Gaule pour aller en <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#841">II, 12, 841</ref>),
 <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> aussi (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#630">II, 10,
 630</ref>).</p>
-               <p/>
+               
                <p>
 • Les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> occupent la Gaule (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#507">II, 8, 507</ref>) et
 lui imposent leurs dieux et leurs lois (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#514">II, 8,
@@ -474,7 +475,7 @@ contre les <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs
 contre les <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#760">II, 11, 760</ref>),
 et contre les <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#822">II, 12,
 822</ref>).</p>
-               <p/>
+               
                <p>
 • <rs type="repertoire" ref="#2_goths">Goths</rs>, <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs> et
 <rs type="repertoire" ref="repertoire_bb.xml#2_bourguignons">Bourguignons</rs> envahissent la Gaule (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#738">II, 11, 738</ref>).
@@ -482,7 +483,7 @@ Ils s'unissent ensuite contre les <rs type="repertoire" ref="repertoire_hh.xml#2
 l'attaquent (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#748">II, 11,
 748</ref>; <ref target="../_roman/reference/21_2/21_2_livre_12.xml#805">II, 12,
 805</ref>).</p>
-               <p/>
+               
                <p>
 • À la suite de traités, les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> donnent des terres en Gaule aux
 <rs type="repertoire" ref="repertoire_bb.xml#2_bourguignons">Bourguignons</rs>, aux <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs>
@@ -490,27 +491,27 @@ l'attaquent (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#748">II, 11
 824</ref>), aux <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs> et aux <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs>
 (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#839">II, 12,
 839</ref>).</p>
-               <p/>
+               
                <p>
 • D'Urfé ne distingue pas l'<rs type="repertoire" ref="repertoire_aa.xml#2_aquitaine">Aquitaine</rs>
 de la Gaule celtique: <persName ref="personnage_mm.xml#2_madonthe">Madonthe</persName> vit dans le royaume des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs> et
 se considère en Gaule (<ref target="../_roman/reference/21_2/21_2_livre_6.xml#347">II, 6, 347</ref>),
 car les <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs> résident en Gaule (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#823">II, 12,
 823</ref>).</p>
-               <p/>
+               
                <p>
-• La demeure d'<persName ref="personnage_aa.xml#2_adamas">Adamas</persName> est ornée «des cartes des diverses
-provinces de la Gaule» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#736">II, 11,
+• La demeure d'<persName ref="personnage_aa.xml#2_adamas">Adamas</persName> est ornée <quote>des cartes des diverses
+provinces de la Gaule</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#736">II, 11,
 736</ref>).</p>
-               <p/>
+               
                <p>
-• Le druide annonce que la Gaule «peu à peu» change de
+• Le druide annonce que la Gaule <quote>peu à peu</quote> change de
 nom pour devenir la <rs type="repertoire" ref="repertoire_ff.xml#2_france">France</rs> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#508">II, 8, 508</ref>).
 Voir Transition<note target="note_2.html#2_transition"/>.</p>
             </note>
             <note xml:id="gaule_3" n="3" ana="geographie">
                <label>Gaule</label>
-               <p>Mentionnée dans:<ref target="#gaule">I</ref>, <ref target="#2_gaule">II</ref>, <ref target="#3_gaule">III</ref>, <ref target="#4_gaule">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#gaule">I</ref>, <ref target="#2_gaule">II</ref>, <ref target="#3_gaule">III</ref>, <ref target="#4_gaule">IV</ref></mentioned><p>
 La Gaule cisalpine est dite <emph>Gallia Togata</emph> (de
 <emph>toge</emph>), la Gaule Narbonnaise est dite <emph>Gallia
 Bracata</emph> (de <emph>braies</emph>), et le reste de la Gaule est
@@ -520,21 +521,21 @@ p.490).</p>
 Les Gaules Lyonnaise, Narbonnaise et Aquitaine se rencontraient
 dans le Massif du Pilat à l'époque gallo-romaine (Voir ce <ref target="http://fr.wikipedia.org/wiki/Pilat#Points_hauts_et_cols">site</ref>, 16 mai 2012). Une centaine de kilomètres
 séparent ce Massif du Forez.</p>
-               <p/>
+               
                <p>
                   <bibl source="bibliographie.xml#fauchet">Fauchet</bibl> note dans ses <emph>Antiquitez</emph> qu'au
-début du Vesiècle: «Le
+début du Ve siècle: <quote>Le
 gouvernement de la plus grande part de la Gaule sentoit lors sa
 Republique, et la multitude des tyrans qui se declarerent
 Seigneurs, affoiblissoit plus l'Empire Romain que les
-Barbares» (p.80).</p>
-               <p/>
+Barbares</quote> (p.80).</p>
+               
                <p>
 • Dans l'Épître dédicatoire, Honoré d'Urfé rappelle à <rs type="repertoire" ref="repertoire_ll.xml#3_louis">LouisXIII</rs>
 que son roman a d'abord été offert à <rs type="repertoire" ref="repertoire_hh.xml#3_henri">HenriIV</rs>,
 celui qui a encouragé la déesse <rs type="repertoire" ref="repertoire_aa.xml#3_astree_m">Astrée</rs> à
 revenir dans les Gaules.</p>
-               <p/>
+               
                <p>
 • Les Gaules sont un champ de bataille pour les <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs>
 (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#27_verso">III,
@@ -543,17 +544,17 @@ recto</ref>), mais un Roi qui vient des Gaules (<persName ref="personnage_gg.xml
 attaque la <rs type="repertoire" ref="#3_gaule_cisalpine">Gaule
 Cisalpine</rs> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#318_verso">III, 7, 318
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName>, des cartes des diverses provinces de la
 Gaule se trouvent entre les fenêtres (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#59_recto">III, 3, 59
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • On y trouve aussi les portraits des rois qui ont régné en Gaule
 (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#59_verso">III,
 3, 59 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">Cette description de peintures est trois
 fois plus longue après l'édition de 1619.</note>
@@ -561,19 +562,19 @@ fois plus longue après l'édition de 1619.</note>
                <p>
 • Les Gaules sont divisées en contrées (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#390_recto">III, 9, 390
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Les Gaules sont associées à <persName ref="personnage_ee.xml#3_euric">Euric</persName>, roi des <rs type="repertoire" ref="repertoire_uz.xml#3_visigoths">Wisigoths</rs>
 et reflet d'<rs type="repertoire" ref="repertoire_hh.xml#3_henri">HenriIV</rs>. Le Génie de la Gaule préserve
 <persName ref="personnage_ee.xml#3_euric">Euric</persName>,
-celui qui doit «luy rendre et sa splendeur, et son
-repos» (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#68_verso">III, 3, 68
+celui qui doit <quote>luy rendre et sa splendeur, et son
+repos</quote> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#68_verso">III, 3, 68
 verso</ref>). Il est le plus grand des Princes de Gaule (<ref target="../_roman/reference/21_3/21_3_livre_4.xml#155_verso">III, 4, 155
 verso</ref>). Cependant, les ennemis du Roi le considèrent comme
-«la ruyne des Gaules et de toute l'<rs type="repertoire" ref="repertoire_ee.xml#3_europe">Europe</rs>»
+<quote>la ruyne des Gaules et de toute l'<rs type="repertoire" ref="repertoire_ee.xml#3_europe">Europe</rs></quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#87_recto">III,
 3, 87 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Les mœurs de la Gaule et celles des <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs>,
 habitants de la <rs type="repertoire" ref="#3_gaule_cisalpine">Gaule Cisalpine</rs>, diffèrent (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#280_verso">III, 7, 280
@@ -583,28 +584,28 @@ verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_recto">I
 recto</ref>). Mais certaines coutumes des <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs> sont
 adoptées (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#516_verso">III, 12,
 516 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Les toiles qui viennent de Gaule sont estimées (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#318_verso">III, 7, 318
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Le <rs type="repertoire" ref="repertoire_ff.xml#3_forez">Forez</rs> est l'une des plus petites contrées de la
 Gaule (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_recto">III, 9, 373
 recto</ref>), mais c'est la seule qui ait conservé les cultes
 originaux (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_verso">III, 9, 373
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • C'est de Gaule que vient la druide qui annonce le destin de
 <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#283_verso">III, 7, 283
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • L'oracle d'<rs type="repertoire" ref="repertoire_ik.xml#3_isis">Isis</rs> annonce que la ville de <rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs>
-doit devenir «le chef de la Gaule» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#510_verso">III, 12,
+doit devenir <quote>le chef de la Gaule</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#510_verso">III, 12,
 510 verso</ref>).</p>
-               <p/>
+               
                <p>
 • La mort de <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName> plonge toute la Gaule dans le deuil
 (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#534_verso">III, 12,
@@ -612,94 +613,94 @@ doit devenir «le chef de la Gaule» (<ref target="../_roman/reference/21_3/21_3
             </note>
             <note xml:id="gaule_4" n="4" ana="geographie">
                <label>Gaule</label>
-               <p>Mentionnée dans:<ref target="#gaule">I</ref>, <ref target="#2_gaule">II</ref>, <ref target="#3_gaule">III</ref>, <ref target="#4_gaule">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#gaule">I</ref>, <ref target="#2_gaule">II</ref>, <ref target="#3_gaule">III</ref>, <ref target="#4_gaule">IV</ref></mentioned><p>
 • Les habitants de la Gaule préfèrent les femmes aux yeux noirs
 selon <persName ref="personnage_hh.xml#4_hylas">Hylas</persName> (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#102">IV, 1,
 102</ref>).</p>
-               <p/>
+               
                <p>
 • Selon <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName>, en Gaule, les femmes sont plus blanches
 qu'en <rs type="repertoire" ref="#4_grece">Grèce</rs>. Par
 conséquent, cheveux blonds et yeux verts leur vont bien (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#141">IV, 1,
 141</ref>).</p>
-               <p/>
+               
                <p>
 • Pour rendre le compliment hyperbolique (et donc peut-être
 ironique), <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName> compare un raisonnement de <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> à
 celui que ferait le plus savant druide des Gaules (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#215">IV, 2,
 215</ref>).</p>
-               <p/>
+               
                <p>
 • Hyperbole encore lorsque <persName ref="personnage_bb.xml#4_bellimarte">Bellimarte</persName>
-flatte <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> en l'appelant le «plus grand roi
-des Gaules» (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#245">IV, 2,
+flatte <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> en l'appelant le <quote>plus grand roi
+des Gaules</quote> (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#245">IV, 2,
 245</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Dans <emph>L'Astrée</emph>,
-seul <persName ref="personnage_mm.xml#merovee">Mérovée</persName>, «la delice» des hommes ou du
+seul <persName ref="personnage_mm.xml#merovee">Mérovée</persName>, <quote>la delice</quote> des hommes ou du
 peuple
 (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#63_verso">I,
 3, 63 verso</ref>, <ref target="../_roman/reference/21_3/21_3_livre_12.xml#507_recto">III, 12,
 507 recto</ref>) mériterait ce superlatif.</note>
                </p>
                <p>
-• Selon <persName ref="personnage_pp.xml#4_phillis">Phillis</persName>, «peut estre» que
-«toutes les Gaules» ont intérêt à ce que <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName>
+• Selon <persName ref="personnage_pp.xml#4_phillis">Phillis</persName>, <quote>peut estre</quote> que
+<quote>toutes les Gaules</quote> ont intérêt à ce que <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName>
 survive (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#533">IV, 3,
 533</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Hyperbole encore, mais rendue un peu
 plus vraisemblable grâce à l'adverbe.</note>
                </p>
                <p>
 • <persName ref="personnage_aa.xml#4_alexis">Alexis</persName> également fait l'éloge de <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName>.
-«Mal-aysément» trouverait-on son égal dans toutes les
+<quote>Mal-aysément</quote> trouverait-on son égal dans toutes les
 Gaules (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#597">IV, 3,
 597</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> dit préférer posséder <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> que
 toutes les Gaules (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#661">IV, 4, 661</ref>).
-C'est «un si grand Empire», réplique la jeune fille. Le
+C'est <quote>un si grand Empire</quote>, réplique la jeune fille. Le
 Roi renchérit. Il serait prêt à conquérir les Gaules, si cette
 victoire devait lui donner <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#661">IV, 4,
 661</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> pense que toute la Gaule connaît la
 coutume des <term ref="glossaire_mm.xml#momon">momons</term> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#678">IV, 4,
 678</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> rappelle une réflexion d'<persName ref="personnage_aa.xml#4_avit">Avite</persName>: la
 mésentente de <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> et de ses frères a nui à toutes les
 Gaules (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#693">IV, 4,
 693</ref>).</p>
-               <p/>
+               
                <p>
 • Voir <rs type="repertoire" ref="#4_gaulois">Gaulois</rs>.</p>
             </note>
             <note xml:id="gaule_armorique_3" n="3" ana="geographie">
                <label>Gaule
 Armorique</label>
-               <p>Mentionnée dans:<ref target="#3_gaule_armorique">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#3_gaule_armorique">III</ref></mentioned><p>
 Voir <rs type="repertoire" ref="repertoire_aa.xml#3_armorique">Armorique</rs>. La Gaule Armoricaine, au Nord-ouest des
-Gaules, n'existait pas en tant que telle au Vesiècle (<bibl source="bibliographie.xml#pape">Pape</bibl>, p.25). C'était alors la
+Gaules, n'existait pas en tant que telle au Ve siècle (<bibl source="bibliographie.xml#pape">Pape</bibl>, p.25). C'était alors la
 seconde Belgique (<bibl source="bibliographie.xml#fauchet">Fauchet</bibl>, p.100). Quand cette vaste région
 devient l'Armorique, elle englobe la Sénonaise ainsi qu'une large
 section de la Lyonnaise. Elle comprend deux centres importants,
-Saint-Malo (né au XIIesiècle
+Saint-Malo (né au XIIe siècle
 seulement) et Rennes (pays des Redones, la Condate d'Astérix, à 300
-km de Paris). Au Vesiècle, des
+km de Paris). Au Ve siècle, des
 soldats Francs sont établis à Rennes (<bibl source="bibliographie.xml#joanne">Joanne</bibl>,
 p.15).</p>
                <p>
 Dans la troisième partie de <emph>L'Astrée</emph>, la Gaule Armorique
 soumise au duc <persName ref="personnage_ss.xml#3_semnon">Semnon</persName> pourrait représenter le Duché de
 Bretagne.</p>
-               <p/>
+               
                <p>
 • La Gaule Armorique est gouvernée par le duc <persName ref="personnage_ss.xml#3_semnon">Semnon</persName>,
 grand-père de <persName ref="personnage_ss.xml#3_silviane">Silviane</persName> et ami de <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName>
@@ -708,21 +709,21 @@ grand-père de <persName ref="personnage_ss.xml#3_silviane">Silviane</persName> 
 arrivée en <rs type="repertoire" ref="#3_gaule">Gaule</rs>
 (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#525_verso">III,
 12, 525 verso</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName> lui envoie un ambassadeur pour lui
 proposer de marier <persName ref="personnage_ss.xml#3_silviane">Silviane</persName> à <persName ref="personnage_aa.xml#3_andrimarte">Andrimarte</persName>, un chevalier <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Franc</rs>
 (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#530_recto">III,
 12, 530 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_ss.xml#3_semnon">Semnon</persName> accueille avec joie <persName ref="personnage_aa.xml#3_andrimarte">Andrimarte</persName>
 et le nomme son successeur (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#532_verso">III, 12,
 532 verso</ref>). <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>, amoureux de <persName ref="personnage_ss.xml#3_silviane">Silviane</persName>,
-blâme le Duc qui donne son pays «à un <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Franc</rs>, qui
-estoit d'une nation estrangere» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#533_recto">III, 12,
+blâme le Duc qui donne son pays <quote>à un <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Franc</rs>, qui
+estoit d'une nation estrangere</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#533_recto">III, 12,
 533 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#3_andrimarte">Andrimarte</persName> et <persName ref="personnage_ss.xml#3_silviane">Silviane</persName>
 comptent se retirer en Gaule Armorique pour s'éloigner de <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>
@@ -732,19 +733,19 @@ comptent se retirer en Gaule Armorique pour s'éloigner de <persName ref="person
             <note xml:id="gaule_cisalpine_3" n="3" ana="geographie">
                <label>Gaule
 Cisalpine</label>
-               <p>Mentionnée dans:<ref target="#3_gaule_cisalpine">III</ref>
-Écrit aussi <emph>Gaule Cysalpine</emph>. «CISALPIN, INE. adj.
+               <mentioned>Mentionnée dans:<ref target="#3_gaule_cisalpine">III</ref></mentioned><p>
+Écrit aussi <emph>Gaule Cysalpine</emph>. <quote>CISALPIN, INE. adj.
 Qui est en deçà les Alpes. Les Romains divisoient la Gaule &amp; le
 pays où est à present la Lombardie, en Cisalpine, &amp;
 Transalpine. Ce qui estoit Cisalpin à l'égard de Rome, est
-Transalpin à nostre égard» (<bibl source="bibliographie.xml#furetiere">Furetière</bibl>). Honoré d'Urfé appelle le Nord de
+Transalpin à nostre égard</quote> (<bibl source="bibliographie.xml#furetiere">Furetière</bibl>). Honoré d'Urfé appelle le Nord de
 l'Italie la Gaule cisalpine.</p>
-               <p/>
+               
                <p>
 • Dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> se trouve le portrait du fondateur de la
 Gaule Cisalpine, <persName ref="personnage_bb.xml#3_belovese">Bellovèse</persName> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">Cette description de peintures est trois
 fois plus longue après l'édition de 1619.</note>
@@ -752,13 +753,13 @@ fois plus longue après l'édition de 1619.</note>
                <p>
 Toutes les autres mentions de cette région sont reliées à <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> et
 <persName ref="personnage_aa.xml#3_arimant">Arimant</persName>:</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>, qui se trouve à <rs type="repertoire" ref="repertoire_ll.xml#3_lyon">Lyon</rs>, précise
-qu'elle est née dans «la Gaule qu'en ce pays-là on nomme
-Cysalpine» (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#284_verso">III, 7, 284
+qu'elle est née dans <quote>la Gaule qu'en ce pays-là on nomme
+Cysalpine</quote> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#284_verso">III, 7, 284
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Les mœurs des habitants de la Gaule Cisalpine ne sont pas comme
 celles du reste de la <rs type="repertoire" ref="#3_gaule">Gaule</rs> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#280_verso">III, 7, 280
@@ -766,23 +767,23 @@ verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_7.xml#282_verso">I
 verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_7.xml#284_verso">III, 7, 284
 verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_recto">III, 9, 373
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_qr.xml#3_rithimer">Ricimer</persName>, oncle par alliance de <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>,
 est gouverneur de la Gaule Cisalpine (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#285_recto">III, 7, 285
 recto</ref>). Il veut marier la jeune fille avec <persName ref="personnage_cc.xml#3_clorange">Clorange</persName>,
 l'homme le plus laid du pays (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#301_recto">III, 7, 301
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName> ravage la Gaule Cisalpine (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#318_verso">III, 7, 318
 verso</ref>). Il emmène les femmes prisonnières (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#338_recto">III, 8, 338
 recto</ref>) et tombe amoureux de l'une d'entre elles, <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#351_verso">III, 8, 351
-verso</ref>). Il fait ensuite la paix avec «tous ces pauvres
-peuples de la Gaule Cisalpine» (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#365_verso">III, 8, 365
+verso</ref>). Il fait ensuite la paix avec <quote>tous ces pauvres
+peuples de la Gaule Cisalpine</quote> (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#365_verso">III, 8, 365
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Le père d'<persName ref="personnage_aa.xml#3_arimant">Arimant</persName> est le seul homme de la Gaule Cisalpine
 que <persName ref="personnage_qr.xml#3_rithimer">Ricimer</persName> craigne (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#363_recto">III, 8, 363
@@ -791,15 +792,15 @@ recto</ref>).</p>
             <note xml:id="gaule_narbonnoise_3" n="3" ana="geographie">
                <label>Gaule
 Narbonnoise</label>
-               <p>Mentionnée dans:<ref target="#3_gaule_narbonnoise">III</ref>
-«<persName ref="personnage_aa.xml#2_auguste">Auguste</persName> vint qui divisa la Gaule en quatre
+               <mentioned>Mentionnée dans:<ref target="#3_gaule_narbonnoise">III</ref></mentioned><p>
+<quote><persName ref="personnage_aa.xml#2_auguste">Auguste</persName> vint qui divisa la Gaule en quatre
 parties: il fit de l'ancienne Celtique la province
 Narbonitide ou Narbonnaise, maintint l'Aquitaine telle qu'elle
 était du temps de César, [...] puis, ayant distribué le reste de la
 Gaule en deux provinces, il rattacha l'une à Lugdunum, en lui
 donnant pour limite le cours supérieur du Rhin, et assigna l'autre
-aux Belges» (<bibl source="bibliographie.xml#strabon">Strabon</bibl>, IV, 1).</p>
-               <p/>
+aux Belges</quote> (<bibl source="bibliographie.xml#strabon">Strabon</bibl>, IV, 1).</p>
+               
                <p>
 • <persName ref="personnage_dd.xml#3_damon_a">Damon
 d'Aquitaine</persName> est passé par plusieurs forêts, dont celles de la
@@ -808,10 +809,10 @@ verso</ref>).</p>
             </note>
             <note xml:id="gaulois" n="1" ana="histoire">
                <label>Gaulois</label>
-               <p>Mentionnés dans:<ref target="#gaulois">I</ref>,
-<ref target="#2_gaulois">II</ref>, <ref target="#3_gaulois">III</ref>, <ref target="#4_gaulois">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#gaulois">I</ref>,
+<ref target="#2_gaulois">II</ref>, <ref target="#3_gaulois">III</ref>, <ref target="#4_gaulois">IV</ref></mentioned><p>
 Habitants des <rs type="repertoire" ref="#gaule">Gaules</rs>.</p>
-               <p/>
+               
                <p>
                   <note ana="variante">L'étymologie du nom, les descendants de
 <rs type="repertoire" ref="#galathee_m">Galathée</rs>, se trouve
@@ -823,41 +824,41 @@ verso</ref>).</note>
 • On peut se demander qui sont exactement ces Gaulois astréens.
 <persName ref="personnage_gg.xml#guyemant">Guyemant</persName>, allié de <persName ref="personnage_mm.xml#merovee">Mérovée</persName>, semble
 distinguer les Gaulois des <rs type="repertoire" ref="repertoire_bb.xml#bourguignons">Bourguignons</rs>, des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs> et
-des <rs type="repertoire" ref="repertoire_ff.xml#francs">Francs</rs> puisqu'il déclare qu'il se bat «entre
+des <rs type="repertoire" ref="repertoire_ff.xml#francs">Francs</rs> puisqu'il déclare qu'il se bat <quote>entre
 les armes des <rs type="repertoire" ref="repertoire_ff.xml#francs">Francs</rs>, des Gaulois, des <rs type="repertoire" ref="repertoire_qr.xml#romains">Romains</rs>, des
 <rs type="repertoire" ref="repertoire_bb.xml#bourguignons">Bourguignons</rs>, des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Visigots</rs>, et
-des <rs type="repertoire" ref="repertoire_hh.xml#huns">Huns</rs>» (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#64_recto">I, 3, 64
+des <rs type="repertoire" ref="repertoire_hh.xml#huns">Huns</rs></quote> (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#64_recto">I, 3, 64
 recto</ref>).</p>
             </note>
             <note xml:id="gaulois_2" n="2" ana="histoire">
                <label>Gaulois</label>
-               <p>Mentionnés dans:<ref target="#gaulois">I</ref>, <ref target="#2_gaulois">II</ref>, <ref target="#3_gaulois">III</ref>, <ref target="#4_gaulois">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#gaulois">I</ref>, <ref target="#2_gaulois">II</ref>, <ref target="#3_gaulois">III</ref>, <ref target="#4_gaulois">IV</ref></mentioned><p>
 Les Gaulois sont grands de taille, affirment <bibl source="bibliographie.xml#cesar">César</bibl> (II, 30)
 et <bibl source="bibliographie.xml#diodore">Diodore de Sicile</bibl> (Livre V, XXVIII). Ils sont
-braves jusqu'à la témérité (<bibl source="bibliographie.xml#diodore">Diodore</bibl>, Livre V, XXIX). «Ils ont
-l'aspect de satyres et de <rs type="repertoire" ref="repertoire_pp.xml#2_pans">Pans</rs>» (<bibl source="bibliographie.xml#diodore">
+braves jusqu'à la témérité (<bibl source="bibliographie.xml#diodore">Diodore</bibl>, Livre V, XXIX). <quote>Ils ont
+l'aspect de satyres et de <rs type="repertoire" ref="repertoire_pp.xml#2_pans">Pans</rs></quote> (<bibl source="bibliographie.xml#diodore">
                      <emph>Ibid.</emph>
                   </bibl>, Livre V, XXVII). <bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>
-renchérit en citant la remarque qu'un Gaulois fit à <persName ref="personnage_aa.xml#2_alexandre">Alexandre</persName>: les Gaulois «craignoient
-seulement la cheutte du Ciel» (f°18 verso). Les auteurs
+renchérit en citant la remarque qu'un Gaulois fit à <persName ref="personnage_aa.xml#2_alexandre">Alexandre</persName>: les Gaulois <quote>craignoient
+seulement la cheutte du Ciel</quote> (f°18 verso). Les auteurs
 de l'antiquité reconnaissent aussi que les Gaulois avaient le sens
 de l'hospitalité: <bibl source="bibliographie.xml#diodore">Diodore de Sicile</bibl> note qu'ils invitent
-«les étrangers à leurs festins; et, après le repas, ils
-leur demandent ce qu'ils sont et ce qu'ils viennent faire»
+<quote>les étrangers à leurs festins; et, après le repas, ils
+leur demandent ce qu'ils sont et ce qu'ils viennent faire</quote>
 (Livre V, XXVIII).</p>
-               <p/>
+               
                <p>
 • C'est cette dernière caractéristique qu'Honoré d'Urfé retient en
 l'attribuant aux Bergers du <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs> (<ref target="../_roman/reference/21_1/21_1_livre_7.xml#201_verso">I, 7, 201
 verso</ref>; <ref target="../_roman/reference/21_2/21_2_livre_4.xml#184">II, 4,
 184</ref>).</p>
-               <p/>
+               
                <p>
 • Dans la <ref target="../_roman/reference/21_2/21_2_liminaires.xml#autheur_au_berger">préface</ref>
 de la deuxième partie, <emph>gaulois</emph>
 qualifie d'abord une manière d'aimer démodée (Voir
 Gauloise<note target="note_2.html#2_gauloise"/>).</p>
-               <p/>
+               
                <p>
 • Dans le corps du roman, quatre individus seulement sont dits
 <emph>gaulois</emph>:</p>
@@ -876,9 +877,9 @@ un de leurs dieux (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#516">I
 841</ref>);</p>
                <p>
                   <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> enfin qui se présente en se disant
-«Gaulois» (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#647">II, 10,
+<quote>Gaulois</quote> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#647">II, 10,
 647</ref>).</p>
-               <p/>
+               
                <p>
 • La religion décrite par <persName ref="personnage_aa.xml#2_adamas">Adamas</persName> est expressément celle des Gaulois
 (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#492">II, 8,
@@ -887,7 +888,7 @@ un de leurs dieux (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#516">I
 511</ref>); liturgie et calendrier du <rs type="repertoire" ref="repertoire_ff.xml#2_forez">Forez</rs> sont
 gaulois (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#676">II, 11,
 676</ref>).</p>
-               <p/>
+               
                <p>
 • Au niveau de la politique, les Gaulois, très divisés (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#825">II, 12, 825</ref>),
 se battent entre eux (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#841">II, 12, 841</ref>),
@@ -895,7 +896,7 @@ mais se jugent proches des <rs type="repertoire" ref="repertoire_ff.xml#2_francs
 <ref target="../_roman/reference/21_2/21_2_livre_8.xml#515">II, 8,
 515</ref>; <ref target="../_roman/reference/21_2/21_2_livre_11.xml#750">II, 11,
 750</ref>).</p>
-               <p/>
+               
                <p>
 • Leurs relations avec les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> sont ambiguës (Voir <ref target="feux.xml#romains">Pleins feux</ref>). D'une part, <persName ref="personnage_aa.xml#2_adamas">Adamas</persName>
 explique que les <rs type="repertoire" ref="#2_gaulois">Gaulois</rs> ont accepté la religion de l'envahisseur
@@ -903,21 +904,21 @@ explique que les <rs type="repertoire" ref="#2_gaulois">Gaulois</rs> ont accept�
 492</ref>) et que lui-même admire <persName ref="personnage_aa.xml#2_aetius">Ætius</persName>
 (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#758">II, 11,
 758</ref>). D'autre part, le druide traite les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs>
-d'«usurpateurs» (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#509">II, 8,
+d'<quote>usurpateurs</quote> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#509">II, 8,
 509</ref>; <ref target="../_roman/reference/21_2/21_2_livre_8.xml#514">II, 8, 514</ref>).
 Voir <ref target="feux.xml#romains">Feux</ref>.</p>
-               <p/>
+               
                <p>
 • Honoré d'Urfé avait, semble-t-il, une conception assez large de
 ce qui est proprement <emph>gaulois</emph>:
 <persName ref="personnage_tt.xml#2_tircis">Tircis</persName>, Berger parisien, parlant avec <persName ref="personnage_cc.xml#2_celadon">Céladon</persName>,
-Berger forézien, mentionne l'or du temple<note target="note_2.html#2_or_du_temple"/> «qui cousta si cher à <emph>nos</emph> Gaulois» (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#891">II, 12, 891</ref>).
+Berger forézien, mentionne l'or du temple<note target="note_2.html#2_or_du_temple"/> <quote>qui cousta si cher à <emph>nos</emph> Gaulois</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#891">II, 12, 891</ref>).
 Ce curieux adjectif possessif que je souligne indique un sentiment
 d'appartenance au même groupe ainsi qu'une condescendance
-indulgente. «Nos Gauloises», dit aussi <persName ref="personnage_cc.xml#2_celidee">Célidée</persName>, en
+indulgente. <quote>Nos Gauloises</quote>, dit aussi <persName ref="personnage_cc.xml#2_celidee">Célidée</persName>, en
 parlant de la <rs type="repertoire" ref="#2_galathee_m">Galathée</rs> mythique (<ref target="../_roman/reference/21_2/21_2_livre_2.xml#83">II, 2,
 83</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">En règle générale, la nationalité des
 individus qui se retrouvent dans les hameaux foréziens et qui
@@ -931,26 +932,26 @@ Elle ajoute que son père n'était pas <rs type="repertoire" ref="repertoire_uz.
             </note>
             <note xml:id="gaulois_3" n="3" ana="histoire">
                <label>Gaulois</label>
-               <p>Mentionnés dans:<ref target="#gaulois">I</ref>, <ref target="#2_gaulois">II</ref>, <ref target="#3_gaulois">III</ref>, <ref target="#4_gaulois">IV</ref>
-«Le mot <emph>Gaulois</emph> signifie étrangers, voyageurs»
+               <mentioned>Mentionnés dans:<ref target="#gaulois">I</ref>, <ref target="#2_gaulois">II</ref>, <ref target="#3_gaulois">III</ref>, <ref target="#4_gaulois">IV</ref></mentioned><p>
+<quote>Le mot <emph>Gaulois</emph> signifie étrangers, voyageurs</quote>
 (<bibl source="bibliographie.xml#orsieres">Orsières</bibl>, Note, p.95). Même renseignement
-dans <bibl source="bibliographie.xml#furetiere">Furetière</bibl>: «Cluvier [Philipp
+dans <bibl source="bibliographie.xml#furetiere">Furetière</bibl>: <quote>Cluvier [Philipp
 Cluwer, 1580- 1623] dit que ce mot vient de l'ancien verbe
-Celtique gallen, qui signifie voyager».</p>
-               <p/>
+Celtique gallen, qui signifie voyager</quote>.</p>
+               
                <p>
 Claude-Gilbert <bibl source="bibliographie.xml#dubois">Dubois</bibl> explique ainsi l'évolution du mythe
-gaulois au début du XVIesiècle: les Gaulois sont «un
+gaulois au début du XVIe siècle: les Gaulois sont <quote>un
 peuple de vaincus. Deux fois vaincus: par <persName ref="personnage_cc.xml#cesar">César</persName> et par les
 Barbares. C'étaient donc des parents peu recommandables, dont il
-valait mieux taire l'existence» (p.24). Ensuite, comme
-«le présent fonde le passé, le mythe du Gaulois permet une
+valait mieux taire l'existence</quote> (p.24). Ensuite, comme
+<quote>le présent fonde le passé, le mythe du Gaulois permet une
 cristallisation, autour d'un archétype riche en symboles,
 d'aspirations diverses [...] en rapport analogique avec
-l'actualité» (p.45). C'est alors que naît un nouveau
-mythe, «celui du <emph>bon Gaulois</emph> comme on dit <emph>le bon
+l'actualité</quote> (p.45). C'est alors que naît un nouveau
+mythe, <quote>celui du <emph>bon Gaulois</emph> comme on dit <emph>le bon
 sauvage</emph>, qui projette dans un passé doré les rêves, muables
-avec la structure sociale, de la cité idéale» (p.110).
+avec la structure sociale, de la cité idéale</quote> (p.110).
 Honoré d'Urfé recrée le mythe gaulois. <emph>L'Astrée</emph>, c'est
 l'illustration de la vertueuse résignation des vaincus (Voir
 <ref target="feux.xml#romains">Pleins feux</ref>).
@@ -960,26 +961,26 @@ gauloise grâce à l'histoire de <persName ref="personnage_cc.xml#3_criseide">Cr
 (par exemple <ref target="../_roman/reference/21_3/21_3_livre_7.xml#276_verso">III, 7, 276
 verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_8.xml#353_verso">III, 8, 353
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Le romancier propose une nouvelle étymologie de
 <emph>gaulois:</emph> ceux qui ont longtemps flotté sur les eaux
 (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_recto">III, 9, 373
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Parce que les armes de <persName ref="personnage_dd.xml#3_damon_a">Damon</persName> ressemblent à des armes qu'il a vues
 en <rs type="repertoire" ref="repertoire_ff.xml#3_forez">Forez</rs>, <persName ref="personnage_pp.xml#3_paris">Paris</persName> juge que ce chevalier inconnu est gaulois
 (<ref target="../_roman/reference/21_3/21_3_livre_1.xml#15_recto">III,
 1, 15 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Il y a une religion gauloise pratiquée en <rs type="repertoire" ref="repertoire_ff.xml#3_forez">Forez</rs> (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#27_verso">III, 2, 27
 verso</ref>) centrée sur un dieu porteur de quatre noms. <persName ref="personnage_aa.xml#3_adamas">Adamas</persName>
 explique à <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> que les Gaulois de la <rs type="repertoire" ref="repertoire_pp.xml#3_province_des_romains">Province des Romains</rs> ont laissé corrompre leur foi
 au contact des <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs> (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_recto">III, 9, 373
 recto</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Cependant, les liturgies décrites par
 une autre dame d'<rs type="repertoire" ref="repertoire_aa.xml#2_aquitaine">Aquitaine</rs>, <persName ref="personnage_mm.xml#2_madonthe">Madonthe</persName>, étaient plus chrétiennes que
@@ -996,15 +997,15 @@ recto</ref>). On prie <rs type="repertoire" ref="repertoire_bb.xml#3_bonne_deess
 conservation des <rs type="repertoire" ref="repertoire_pp.xml#3_province_des_romains">Romains</rs> et des Gaulois, ainsi que pour la
 prospérité d'<persName ref="personnage_aa.xml#3_amasis">Amasis</persName> (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#31_recto">III, 2, 31
 recto</ref>).</p>
-               <p/>
+               
                <p>
-• Dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> se trouvent peintes les «plus
-anciennes Histoires des Gaulois» (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
+• Dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> se trouvent peintes les <quote>plus
+anciennes Histoires des Gaulois</quote> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
 verso</ref>). Il y a évidemment l'<rs type="repertoire" ref="repertoire_hh.xml#3_hercule">Hercule</rs>
 gaulois et un rappel de son effet civilisateur sur les Gaulois. Il
 y a aussi <persName ref="personnage_bb.xml#3_brennus">Brennus</persName> qui emmène les Gaulois à <rs type="repertoire" ref="repertoire_qr.xml#3_rome">Rome</rs> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">Cette description de peinture est trois
 fois plus longue après l'édition de 1619.</note>
@@ -1013,14 +1014,14 @@ fois plus longue après l'édition de 1619.</note>
 • L'adjectif <emph>gaulois</emph> qui qualifie <emph>siècle</emph> signifie
 que ce <term ref="glossaire_ss.xml#siecle">siècle</term>-ci dure trente ans (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#102_recto">III, 3, 102
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Un druide affirme que les principaux chevaliers d'<rs type="repertoire" ref="repertoire_aa.xml#3_aquitaine">Aquitaine</rs>
 sont Gaulois et non <rs type="repertoire" ref="repertoire_uz.xml#3_visigoths">Wisigoths</rs>. C'est le cas de <persName ref="personnage_dd.xml#3_damon_a">Damon</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#243_verso">III, 6, 243
 verso</ref>) et du père de <persName ref="personnage_mm.xml#2_madonthe">Madonthe</persName> (<ref target="../_roman/reference/21_2/21_2_livre_6.xml#328">II, 6,
 328</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> est la seule des prisonnières de <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName>
 qui comprenne le langage gaulois (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#276_verso">III, 7, 276
@@ -1029,16 +1030,16 @@ la présenter comme un Gaulois transalpin parce qu'elle connaît le
 gaulois (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#325_recto">III, 7, 325
 recto</ref>). Elle se déguise ensuite en Gauloise (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#346_verso">III, 8, 346
 verso</ref>). <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName> l'interroge et reconnaît à
-«quelques accents estrangers» qu'elle n'est pas
+<quote>quelques accents estrangers</quote> qu'elle n'est pas
 gauloise (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#353_verso">III, 8, 353
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_hh.xml#3_hylas">Hylas</persName>
 espère que <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> ne sera pas aussi ingrate que les dames
 gauloises (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#280_recto">III, 7, 280
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Les Gaulois sont aussi flatteurs que les <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs>,
 pense <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#281_recto">III, 7, 281
@@ -1046,52 +1047,52 @@ recto</ref>). Les Gauloises sont moins hardies que les dames de la
 <rs type="repertoire" ref="#3_gaule_cisalpine">Gaule
 cisalpine</rs>, pense <persName ref="personnage_hh.xml#3_hylas">Hylas</persName> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#281_verso">III, 7, 281
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Parce qu'il connaît le gaulois, <persName ref="personnage_aa.xml#3_arimant">Arimant</persName> peut
 se déguiser en marchand gaulois (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#318_verso">III, 7, 318
 verso</ref>). Plus tard, fait prisonnier, bien qu'il parle gaulois,
 on reconnaît à ses habits qu'il n'est pas <rs type="repertoire" ref="repertoire_bb.xml#3_bourguignons">bourguignon</rs> (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#341_recto">III, 8, 341
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Les Gaulois sont divisés en ordres pour délibérer (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#483_recto">III, 11,
 483 recto</ref>).</p>
-               <p/>
+               
                <p>
-• Les Gaulois étant «les plus civilisez entre tous les
-peuples de l'<rs type="repertoire" ref="repertoire_ee.xml#3_europe">Europe</rs>» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#509_recto">III, 12,
+• Les Gaulois étant <quote>les plus civilisez entre tous les
+peuples de l'<rs type="repertoire" ref="repertoire_ee.xml#3_europe">Europe</rs></quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#509_recto">III, 12,
 509 recto</ref>), <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName> veut que ses <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs> se
 joignent à eux, et il encourage les mariages qui les réuniraient,
 comme celui de <persName ref="personnage_ss.xml#3_silviane">Silviane</persName>, Gauloise, et d'<persName ref="personnage_aa.xml#3_andrimarte">Andrimarte</persName>, <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Franc</rs>.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName> désire être roi des Gaulois par les armes
 et par l'amour (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#509_verso">III, 12,
 509 verso</ref>), roi des cœurs et non seulement des corps (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#526_recto">III, 12,
-526 recto</ref>). Mort, le roi est «regretté de son peuple et
-des Gaulois» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#534_verso">III, 12,
+526 recto</ref>). Mort, le roi est <quote>regretté de son peuple et
+des Gaulois</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#534_verso">III, 12,
 534 verso</ref>).</p>
-               <p/>
+               
                <p>
-• L'oracle qui mentionne un «Gaulois estranger» parle
+• L'oracle qui mentionne un <quote>Gaulois estranger</quote> parle
 des <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#510_verso">III, 12,
 510 verso</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName> estime le duc <persName ref="personnage_ss.xml#3_semnon">Semnon</persName>
-«par dessus tous les Gaulois» (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#528_recto">III, 12,
+<quote>par dessus tous les Gaulois</quote> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#528_recto">III, 12,
 528 recto</ref>).</p>
-               <p/>
+               
                <p>
 • L'écuyer d'<persName ref="personnage_aa.xml#3_andrimarte">Andrimarte</persName> sait trouver des arguments différents
 pour soulever <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs> et Gaulois contre <persName ref="personnage_cc.xml#3_childeric">Childéric</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#543_verso">III, 12,
 543 verso</ref>). Les deux peuples s'unissent (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#547_recto">III, 12,
-547 recto</ref>). «<rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs> et Gaulois assemblez et unis»
+547 recto</ref>). <quote><rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs> et Gaulois assemblez et unis</quote>
 (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#547_verso">III, 12,
 547 verso</ref>) forcent le Roi à abdiquer.</p>
-               <p/>
+               
                <p>
 • Voir dans ce <ref target="http://www.histoire-fr.com/images/chute_rome_gaulois_390.gif">site</ref> une enluminure de <emph>la Cité de Dieu</emph>
 de Saint Augustin représentant la prise de Rome par les Gaulois en
@@ -1099,56 +1100,56 @@ de Saint Augustin représentant la prise de Rome par les Gaulois en
             </note>
             <note xml:id="gaulois_4" n="4" ana="geographie">
                <label>Gaulois</label>
-               <p>Mentionnés dans:<ref target="#gaulois">I</ref>, <ref target="#2_gaulois">II</ref>, <ref target="#3_gaulois">III</ref>, <ref target="#4_gaulois">IV</ref>Dans <emph>La Vie de Marcellus</emph>, <bibl source="bibliographie.xml#plutarque_vies">Plutarque</bibl> rapporte une information qui illustre
-la réputation des Gaulois. Ils sont «si redoutés des <rs type="repertoire" ref="repertoire_qr.xml#romains">Romains</rs> depuis
+               <mentioned>Mentionnés dans:<ref target="#gaulois">I</ref>, <ref target="#2_gaulois">II</ref>, <ref target="#3_gaulois">III</ref>, <ref target="#4_gaulois">IV</ref></mentioned><p>Dans <emph>La Vie de Marcellus</emph>, <bibl source="bibliographie.xml#plutarque_vies">Plutarque</bibl> rapporte une information qui illustre
+la réputation des Gaulois. Ils sont <quote>si redoutés des <rs type="repertoire" ref="repertoire_qr.xml#romains">Romains</rs> depuis
 la prise de <rs type="repertoire" ref="repertoire_qr.xml#rome">Rome</rs>, que la loi même qui dispensait les prêtres
 du service militaire exceptait les cas d'invasion des Gaulois en
-Italie» (154).Les Gaulois sont blonds et roux pour <bibl source="bibliographie.xml#diodore">Diodore de
+Italie</quote> (154).Les Gaulois sont blonds et roux pour <bibl source="bibliographie.xml#diodore">Diodore de
 Sicile</bibl> (V, 28) et <bibl source="bibliographie.xml#ammien">Ammien Marcellin</bibl> (XV, 12, 1). <bibl source="bibliographie.xml#fauchet">Fauchet</bibl>
 réunit dans ses <emph>Antiquitez</emph> des renseignements qu'il
-emprunte surtout à Ammien Marcellin pour «representer au
-vif» les Gaulois. Ils «sont presques tous de couleur
+emprunte surtout à Ammien Marcellin pour <quote>representer au
+vif</quote> les Gaulois. Ils <quote>sont presques tous de couleur
 blanche, de poil blond comme or, de grande stature, espouvantables
 pour leur regard affreux [...] La femme [...] a les yeux bleus [et
 elle est] encore plus forte que son homme quand la cholere luy a
 eschauffé la teste. Alors si elle esbranle ses bras, et ses larges
 espaules aussi blanches que neige, vous diriez que ses coups [...]
-sont traicts laschez de puissantes arbalestes» (f°10
+sont traicts laschez de puissantes arbalestes</quote> (f°10
 recto sq.).<bibl source="bibliographie.xml#fauchet">Fauchet</bibl> a ajouté semble-t-il un détail à ses
 sources: les yeux bleus.
 Les peintres de la Renaissance appréciaient les blondes. Un article
-consacré à ce sujet en 1913 invoque «un attrait sexuel dû aux
-qualités génésiques des races du Nord» (<bibl source="bibliographie.xml#gaillard">Gaillard</bibl>,
+consacré à ce sujet en 1913 invoque <quote>un attrait sexuel dû aux
+qualités génésiques des races du Nord</quote> (<bibl source="bibliographie.xml#gaillard">Gaillard</bibl>,
 p.594).</p>
                <p>
 Dans une de ses <emph>Odes</emph> pourtant, <bibl source="bibliographie.xml#ronsard">Ronsard</bibl>
 déclare:</p>
                <p>
-«Noir je veux l'œil et brun le
+<quote>Noir je veux l'œil et brun le
 teint,</p>
                <p>
 Bien que l'œil verd toute
-la France adore»</p>
+la France adore</quote></p>
                <p>
 (éd. Blanchemain, II, p.402).</p>
                <p>
                   <bibl source="bibliographie.xml#montaigne">Montaigne</bibl> s'est moqué des efforts que font les
-femmes pour «acquerir les pasles couleurs» (I,
+femmes pour <quote>acquerir les pasles couleurs</quote> (I,
 ch.XIV, p.101).</p>
-               <p/>
+               
                <p>
 • Les Gaulois aiment le blanc (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#101">IV, 1, 101</ref>) et
 les blondes.</p>
-               <p/>
+               
                <p>
-• Les Gaulois préfèrent aussi les femmes «plustost maigres
-qu'avec trop d'embon-point<note target="note_4.html#4_embonpoint"/>» (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#102">IV, 1,
+• Les Gaulois préfèrent aussi les femmes <quote>plustost maigres
+qu'avec trop d'embon-point<note target="note_4.html#4_embonpoint"/></quote> (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#102">IV, 1,
 102</ref>).</p>
-               <p/>
+               
                <p>
 • Les Gaulois aimaient les yeux verts (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#102">IV, 1,
 102</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">C'est aussi la couleur préférée de
 <rs type="repertoire" ref="repertoire_uz.xml#4_venus">Vénus</rs>
@@ -1159,17 +1160,17 @@ d'après <bibl source="bibliographie.xml#equicola">Equicola</bibl>
 • <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName> rappelle les préférences des
 Gaulois: teint blanc, cheveux blonds et yeux verts (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#141">IV, 1,
 141</ref>).</p>
-               <p/>
+               
                <p>
 • Les <rs type="repertoire" ref="#4_galloligures">Gallo-Ligures</rs> ont remplacé la religion des anciens
 Gaulois par les fables des <rs type="repertoire" ref="#4_grecs">Grecs</rs> (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#480">IV, 3,
 480</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> attribue aux Gaulois l'habitude de danser
 aux chansons (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#655">IV, 4,
 655</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Dans la troisième partie, <persName ref="personnage_aa.xml#3_alcippe">Alcippe</persName>, au
 retour de ses longs voyages, a enseigné la danse aux bergers
@@ -1179,10 +1180,10 @@ retour de ses longs voyages, a enseigné la danse aux bergers
             </note>
             <note xml:id="gaulois_transalpin_3" n="3" ana="histoire">
                <label>Gaulois Transalpin</label>
-               <p>Mentionné dans:<ref target="#3_gaulois_transalpin">III</ref>
+               <mentioned>Mentionné dans:<ref target="#3_gaulois_transalpin">III</ref></mentioned><p>
 Voir <rs type="repertoire" ref="#3_gaule_cisalpine">Gaule
 Cisalpine</rs>.</p>
-               <p/>
+               
                <p>
 • L'adjectif s'applique à <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> travestie en <persName ref="personnage_cc.xml#3_cleomire">Cléomire</persName>
 lorsqu'elle est présentée au père d'<persName ref="personnage_aa.xml#3_arimant">Arimant</persName>, à
@@ -1191,20 +1192,20 @@ recto</ref>).</p>
             </note>
             <note xml:id="gaultier" n="1" ana="actualité">
                <label>Gaultier, L.</label>
-               <p>Mentionné dans:<ref target="#gaultier">I</ref>
+               <mentioned>Mentionné dans:<ref target="#gaultier">I</ref></mentioned><p>
 Léonard Gaultier (1561- 1635?). Fils d'un
 marchand-orfèvre, actif depuis 1576, il a signé plus de 900
 gravures. Il collaborait avec <rs type="repertoire" ref="repertoire_tt.xml#toussaint">Toussaint Du
 Bray</rs> et d'autres libraires, mais aussi il vendait lui-même ses
 œuvres à la Fleur de Lys d'Or, rue Saint-Jacques (M.<bibl source="bibliographie.xml#grivel">Grivel</bibl>,
-«Léonard Gaultier», septembre 2006). D'après l'<bibl source="bibliographie.xml#inventaire_17">
+<quote>Léonard Gaultier</quote>, septembre 2006). D'après l'<bibl source="bibliographie.xml#inventaire_17">
                      <emph>Inventaire</emph>
                   </bibl> des
-graveurs du XVIesiècle, Gaultier a
+graveurs du XVIe siècle, Gaultier a
 été le graveur attitré de la Cour sous HenriIII, <rs type="repertoire" ref="repertoire_hh.xml#henri">HenriIV</rs> et
-<rs type="repertoire" ref="repertoire_ll.xml#3_louis">LouisXIII</rs>. «Dans le premier tiers du
-XVIIesiècle il est peu d'ouvrages
-qui ne contiennent quelque vignette de sa main» (<bibl source="bibliographie.xml#duportal">Duportal</bibl>,
+<rs type="repertoire" ref="repertoire_ll.xml#3_louis">LouisXIII</rs>. <quote>Dans le premier tiers du
+XVIIe siècle il est peu d'ouvrages
+qui ne contiennent quelque vignette de sa main</quote> (<bibl source="bibliographie.xml#duportal">Duportal</bibl>,
 p.158).</p>
                <p>
 Plusieurs œuvres de Gaultier sont sur le Web. Deux des plus
@@ -1214,27 +1215,27 @@ dans <ref target="http://www.photo.rmn.fr/C.aspx?VP3=SearchResult&amp;VBID=2CO5P
 gravures les plus originales sont celles qui accompagnent
 <emph>L'Odyssée</emph> d'Homère traduite par Claude Boitel (ou Boitet)
 en 1619 dans ce <ref target="http://homere.iliadeodyssee.free.fr/traducteur/boitet/boitel.htm">site</ref> (2 avril 2014).</p>
-               <p/>
+               
                <p>
 • On doit à Gaultier les frontispices de <emph>L'Astrée</emph> en 1619 (repris dans l'édition de 1621).
 (Voir <ref target="illustrations.xml#frontispices">Illustrations</ref>).</p>
             </note>
             <note xml:id="geant_4" n="4" ana="geographie">
                <label>Géant</label>
-               <p>
+               <mentioned>
                   <emph>Mentionné dans:</emph>
-                  <ref target="#4_geant">IV</ref>
+                  <ref target="#4_geant">IV</ref></mentioned><p>
 Voir <rs type="repertoire" ref="repertoire_pp.xml#4_promethee">Prométhée</rs>.</p>
             </note>
             <note xml:id="gebenne" n="1" ana="geographie">
                <label>Gebenne</label>
-               <p>Mentionné dans:<ref target="#gebenne">I</ref>, <ref target="#3_gebennes">III</ref>
+               <mentioned>Mentionné dans:<ref target="#gebenne">I</ref>, <ref target="#3_gebennes">III</ref></mentioned><p>
 Voir <rs type="repertoire" ref="#3_gebennes">Gebennes</rs>.
-«Les monts Cemene et Gebenne» sont «les montagnes
-d'Auvergne vers Midy» (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>, f°2 recto).
-«<emph>Gebennæ</emph> sont les montagnes des Cevennes»
+<quote>Les monts Cemene et Gebenne</quote> sont <quote>les montagnes
+d'Auvergne vers Midy</quote> (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>, f°2 recto).
+<quote><emph>Gebennæ</emph> sont les montagnes des Cevennes</quote>
 (<bibl source="bibliographie.xml#guichenon_savoie">Guichenon</bibl>, I, p.6).Voir <rs type="repertoire" ref="repertoire_cc.xml#cemene">Cemène</rs>.</p>
-               <p/>
+               
                <p>
 • C'est la montagne où résident les géants vaincus par <rs type="repertoire" ref="repertoire_hh.xml#hercule">Hercule</rs>
 (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#30_verso">I,
@@ -1242,21 +1243,21 @@ d'Auvergne vers Midy» (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>
             </note>
             <note xml:id="gebennes_3" n="3" ana="geographie">
                <label>Gebennes</label>
-               <p>Mentionnés dans:
-<ref target="#gebenne">I</ref>, <ref target="#3_gebennes">III</ref>
+               <mentioned>Mentionnés dans:
+<ref target="#gebenne">I</ref>, <ref target="#3_gebennes">III</ref></mentioned><p>
 Voir <rs type="repertoire" ref="#gebenne">Gebenne</rs>. C'est un
 lieu de passage dans la troisième partie.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_dd.xml#3_damon_a">Damon</persName> parcourt les forêts des Gébennes (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#257_verso">III, 6, 257
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_tt.xml#3_torrismond">Torrismond</persName>, le Roy des <rs type="repertoire" ref="repertoire_uz.xml#3_visigoths">Wisigoths</rs>,
 par amitié pour <persName ref="personnage_aa.xml#3_amasis">Amasis</persName>, en revenant de la bataille des <rs type="repertoire" ref="repertoire_cc.xml#3_champs_catalauniques">Champs Catalauniques</rs>, est passé par les monts
 Gébennes pour épargner le <rs type="repertoire" ref="repertoire_ff.xml#3_forez">Forez</rs> en le contournant (<ref target="../_roman/reference/21_3/21_3_livre_6.xml#261_recto">III, 6, 261
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#3_arimant">Arimant</persName> prisonnier traverse les monts Gébennes
 pour parvenir à <rs type="repertoire" ref="#3_gergovie">Gergovie</rs> (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#342_verso">III, 8, 342
@@ -1264,18 +1265,18 @@ verso</ref>).</p>
             </note>
             <note xml:id="gepides_2" n="2" ana="histoire">
                <label>Gepides</label>
-               <p>Mentionnés dans:<ref target="#2_gepides">II</ref>, <ref target="#3_gepides">III</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_gepides">II</ref>, <ref target="#3_gepides">III</ref></mentioned><p>
 Peuple germanique<note target="note_analyses.html#germains"/>. <bibl source="bibliographie.xml#jordanes">Jordanès</bibl>
 explique que les <rs type="repertoire" ref="#2_gepides">Gépides</rs> sont des <rs type="repertoire" ref="#goths">Goths</rs>, et que leur nom, qui vient de <emph>gepanta</emph>, paresseux, leur convient fort bien
 (ch.XVII). Ils se battent aux côtés des <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs>
 (ch.XLI) qu'ils secondent lors de la bataille des <rs type="repertoire" ref="repertoire_cc.xml#2_champs_catalauniques">Champs Catalauniques</rs>. Ils sont liés aux <rs type="repertoire" ref="repertoire_no.xml#ostrogoths">Ostrogoths</rs>.</p>
-               <p/>
+               
                <p>
 • Presque toujours associés aux <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs>, les Gépides s'installent en <rs type="repertoire" ref="repertoire_pp.xml#2_pannonie">Pannonie</rs>
 avec eux (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#738">II, 11, 738</ref>).
 L'<rs type="repertoire" ref="repertoire_ee.xml#2_empire_romain">Empire romain</rs> les ignore longtemps (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#752">II, 11,
 752</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#2_aetius">Ætius</persName> banni se réfugie près d'eux (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#752">II, 11,
 752</ref>); on l'accuse donc d'avoir conseillé à ses hôtes
@@ -1283,24 +1284,24 @@ d'entrer en <rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> (
 Rentré en grâce auprès de l'Empereur, <persName ref="personnage_aa.xml#2_aetius">Ætius</persName> les
 repousse (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#758">II, 11,
 758</ref>).</p>
-               <p/>
+               
                <p>
 • Gépides, <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs> et <rs type="repertoire" ref="repertoire_aa.xml#2_alains">Alains</rs> s'attaquent à <rs type="repertoire" ref="repertoire_cc.xml#2_constantinople">Constantinople</rs> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#804">II, 12,
 804</ref>).</p>
-               <p/>
+               
                <p>
 • Menés par <persName ref="personnage_aa.xml#2_ardaric">Ardaric</persName>, roi des <rs type="repertoire" ref="repertoire_no.xml#2_ostrogoths">Ostrogoths</rs>
 et des Gépides, les Gépides se battent aux côtés d'<persName ref="personnage_aa.xml#2_attila">Attila</persName>
 (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#805">II, 12,
 805</ref>). Celui-ci se considère même roi des Gépides (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#826">II, 12,
 826</ref>).</p>
-               <p/>
+               
                <p>
 • Comme les <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs>, les Gépides sont un moment victorieux de
 <rs type="repertoire" ref="repertoire_qr.xml#rome">Rome</rs>
 (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#830">II, 12,
 830</ref>).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_aa.xml#2_adamas">Adamas</persName> expose dans sa galerie les <ref target="note_images.xml#armoiries">armoiries</ref> d'<persName ref="personnage_aa.xml#2_ardaric">Ardaric</persName>, roi
 des Gépides (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#886">II, 12,
@@ -1308,13 +1309,13 @@ des Gépides (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#886">II, 1
             </note>
             <note xml:id="gepides_3" n="3" ana="histoire">
                <label>Gepides</label>
-               <p>Mentionnés dans:<ref target="#2_gepides">II</ref>, <ref target="#3_gepides">III</ref>
-                  <bibl source="bibliographie.xml#fauchet">Fauchet</bibl> écrit que la bataille des <rs type="repertoire" ref="repertoire_cc.xml#3_champs_catalauniques">Champs Catalauniques</rs> emporta «quatre-vingts
+               <mentioned>Mentionnés dans:<ref target="#2_gepides">II</ref>, <ref target="#3_gepides">III</ref></mentioned><p>
+                  <bibl source="bibliographie.xml#fauchet">Fauchet</bibl> écrit que la bataille des <rs type="repertoire" ref="repertoire_cc.xml#3_champs_catalauniques">Champs Catalauniques</rs> emporta <quote>quatre-vingts
 dix mille Gepides et <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs>, lesquels avant le grand choc se
 rencontrerent de nuict, et s'entetuerent: les <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs>
-combatans pour les <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs>, et les Gepides pour les <rs type="repertoire" ref="repertoire_hh.xml#3_huns">Huns</rs>»
+combatans pour les <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs>, et les Gepides pour les <rs type="repertoire" ref="repertoire_hh.xml#3_huns">Huns</rs></quote>
 (f°48 verso).</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_mm.xml#3_merovee">Mérovée</persName> a vaincu les Gépides (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#507_recto">III, 12,
 507 recto</ref>) et pris leurs enseignes (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#507_verso">III, 12,
@@ -1322,18 +1323,18 @@ combatans pour les <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romai
             </note>
             <note xml:id="gergovie_2" n="2" ana="geographie">
                <label>Gergovie</label>
-               <p>Mentionnée dans:<ref target="#2_gergovie">II</ref>, <ref target="#3_gergovie">III</ref>, <ref target="#4_gergovie">IV</ref>
-Le plateau de Gergovie est en Auvergne. «Oppidum central des
+               <mentioned>Mentionnée dans:<ref target="#2_gergovie">II</ref>, <ref target="#3_gergovie">III</ref>, <ref target="#4_gergovie">IV</ref></mentioned><p>
+Le plateau de Gergovie est en Auvergne. <quote>Oppidum central des
 Arvernes, où résidait la famille de Vercingétorix, et théâtre de sa
 victoire sur l'armée de César, en 52 avant J.-C. Probablement à 6
-km au Sud de Clermont-Ferrand» (<bibl source="bibliographie.xml#kruta">Kruta</bibl>,
-p.637). «L'ancienne Gergovia» est maintenant
+km au Sud de Clermont-Ferrand</quote> (<bibl source="bibliographie.xml#kruta">Kruta</bibl>,
+p.637). <quote>L'ancienne Gergovia</quote> est maintenant
 Clermont, affirme <bibl source="bibliographie.xml#la_mure">La Mure</bibl>, qui nomme alors Jules César, mais non
-Vercingétorix (I, p.138). Depuis le XIXesiècle, la plupart des historiens situent
+Vercingétorix (I, p.138). Depuis le XIXe siècle, la plupart des historiens situent
 Gergovie sur le plateau de Merdogne, mais <ref target="http://www.gergovie.fr/htmfr/affaire.xml">ce
 site</ref> (16 mai 2012) démontre que la controverse dure
 encore!</p>
-               <p/>
+               
                <p>
 • Ce lieu est un point de rencontre dans la deuxième partie de
 <emph>L'Astrée</emph>. <persName ref="personnage_dd.xml#2_damon_a">Damon</persName> y donne
@@ -1344,38 +1345,38 @@ Elle se joint à <persName ref="personnage_ll.xml#2_laonice">Laonice</persName>,
             </note>
             <note xml:id="gergovie_3" n="3" ana="geographie">
                <label>Gergovie</label>
-               <p>Mentionnée dans:<ref target="#2_gergovie">II</ref>, <ref target="#3_gergovie">III</ref>,
-<ref target="#4_gergovie">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_gergovie">II</ref>, <ref target="#3_gergovie">III</ref>,
+<ref target="#4_gergovie">IV</ref></mentioned><p>
 • Au livre 8, Gergovie est le lieu où se trouve un château
 appartenant à <persName ref="personnage_bb.xml#3_bellimart">Bellimart</persName>, un chevalier de <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName>.
 <persName ref="personnage_aa.xml#3_arimant">Arimant</persName> y est prisonnier (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#342_verso">III, 8, 342
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Quand <persName ref="personnage_bb.xml#3_bellaris">Bellaris</persName> libère <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>, il
 l'amène à Gergovie, ville qui appartient à <persName ref="personnage_ee.xml#3_euric">Euric</persName>, roi des
 <rs type="repertoire" ref="repertoire_uz.xml#3_visigoths">Wisigoths</rs> (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#345_verso">III, 8, 345
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Le fidèle serviteur annonce la nouvelle à <persName ref="personnage_aa.xml#3_arimant">Arimant</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#346_verso">III, 8, 346
 verso</ref>). Les jeunes gens se retrouvent (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#349_recto">III, 8, 349
 recto</ref>) et quittent ensemble la ville (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#350_verso">III, 8, 350
 verso</ref>). <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName> les fait arrêter.</p>
-               <p/>
+               
                <p>
 • Ils racontent au Roi leur rencontre à Gergovie (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#361_verso">III, 8, 361
 verso</ref>).</p>
             </note>
             <note xml:id="gergovie_4" n="4" ana="geographie">
                <label>Gergovie</label>
-               <p>Mentionnée dans:<ref target="#2_gergovie">II</ref>, <ref target="#3_gergovie">III</ref>,
-<ref target="#4_gergovie">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_gergovie">II</ref>, <ref target="#3_gergovie">III</ref>,
+<ref target="#4_gergovie">IV</ref></mentioned><p>
 • <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> raconte que <persName ref="personnage_bb.xml#4_bellimarte">Bellimarte</persName>
 s'est marié à Gergovie (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#341">IV, 2,
 341</ref>).</p>
-               <p/>
+               
                <p>
 • Les <term ref="glossaire_cc.xml#comte">comtes</term> de Gergovie témoignent contre <persName ref="personnage_bb.xml#4_bellimarte">Bellimarte</persName>
 (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#357">IV, 2,
@@ -1383,15 +1384,15 @@ s'est marié à Gergovie (<ref target="../_roman/reference/24_4/24_4_livre_2.xml
             </note>
             <note xml:id="germains_4" n="4" ana="geographie">
                <label>Germains</label>
-               <p>Mentionnée dans:<ref target="#4_germains">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#4_germains">IV</ref></mentioned><p>
 • Les frères de <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> se constituent des armées en réunissant
 un très grand nombre de Germains<note target="note_analyses.html#germains"/> (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#639">IV, 4,
 639</ref>).</p>
             </note>
             <note xml:id="germanie" n="1" ana="geographie">
                <label>Germanie</label>
-               <p>Mentionnée dans:<ref target="#germanie">I</ref>,
-<ref target="#2_germanie">II</ref>Ancien nom de l'Allemagne.
+               <mentioned>Mentionnée dans:<ref target="#germanie">I</ref>,
+<ref target="#2_germanie">II</ref></mentioned><p>Ancien nom de l'Allemagne.
 •<persName ref="personnage_aa.xml#attila">Attila</persName> traverse ce pays (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#64_recto">I, 3, 64
 recto</ref>).
 • À <rs type="repertoire" ref="repertoire_mm.xml#marcilly">Marcilly</rs>, on pratique une danse que les <rs type="repertoire" ref="repertoire_ff.xml#francs">Francs</rs> ont
@@ -1402,47 +1403,47 @@ importée de <rs type="repertoire" ref="#germanie">Germanie</rs>
             </note>
             <note xml:id="germanie_2" n="2" ana="geographie">
                <label>Germanie</label>
-               <p>Mentionnée dans:<ref target="#germanie">I</ref>, <ref target="#2_germanie">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#germanie">I</ref>, <ref target="#2_germanie">II</ref></mentioned><p>
 La Germanie est le royaume d'Arioviste<note target="note_analyses.html#arioviste"/>, roi qui a défié <persName ref="personnage_cc.xml#cesar">César</persName> (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>, f°33 recto). À cette
-époque, cette «nation invincible et aguerrie [..] depuis
-quatorze ans, n'avait pas reposé sous un toit» (<bibl source="bibliographie.xml#cesar">César</bibl>, I,
+époque, cette <quote>nation invincible et aguerrie [..] depuis
+quatorze ans, n'avait pas reposé sous un toit</quote> (<bibl source="bibliographie.xml#cesar">César</bibl>, I,
 36).</p>
-               <p/>
+               
                <p>
 • Une seule mention dans le roman: à cause des nombreuses
-invasions qu'elle a subies, la Germanie est «presque
-deserte», constate <persName ref="personnage_aa.xml#2_attila">Attila</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#822">II, 12,
+invasions qu'elle a subies, la Germanie est <quote>presque
+deserte</quote>, constate <persName ref="personnage_aa.xml#2_attila">Attila</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#822">II, 12,
 822</ref>).</p>
             </note>
             <note xml:id="gorgonne" n="1" ana="mythologie">
                <label>Gorgonne</label>
-               <p>Mentionnée dans:<ref target="#gorgonne">I</ref>
+               <mentioned>Mentionnée dans:<ref target="#gorgonne">I</ref></mentioned><p>
 Mythologie. Nom donné à <rs type="repertoire" ref="repertoire_mm.xml#2_meduse">Méduse</rs>, la plus célèbre des trois Gorgones,
 celle que Persée a tuée. La déesse Athéna met la tête de <rs type="repertoire" ref="repertoire_mm.xml#2_meduse">Méduse</rs> sur son
 bouclier pour pétrifier (littéralement) ses ennemis.</p>
-               <p/>
+               
                <p>
 • Chez d'Urfé, c'est ce que semble faire <rs type="repertoire" ref="repertoire_bb.xml#bellone">Bellone</rs> de
-«sa Gorgonne» (<ref target="../_roman/reference/21_1/21_1_livre_11.xml#356_recto">I, 11, 356
+<quote>sa Gorgonne</quote> (<ref target="../_roman/reference/21_1/21_1_livre_11.xml#356_recto">I, 11, 356
 recto</ref>), c'est-à-dire de la Gorgone représentée sur son
 bouclier.</p>
-               <p/>
+               
                <p>
 • Voir dans ce <ref target="http://upload.wikimedia.org/wikipedia/commons/d/d3/Medusa_by_Carvaggio.jpg">site</ref> la Gorgone Méduse du Caravage (1571-
 1610. 30 mars 2014).</p>
             </note>
             <note xml:id="goths" n="1" ana="histoire">
                <label>Goths</label>
-               <p>Mentionnés dans:<ref target="#goths">I</ref>, <ref target="#2_goths">II</ref>, <ref target="#3_goths">III</ref>, <ref target="#4_goths">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#goths">I</ref>, <ref target="#2_goths">II</ref>, <ref target="#3_goths">III</ref>, <ref target="#4_goths">IV</ref></mentioned><p>
 Écrit aussi <emph>Gots</emph>. Peuple
 germanique<note target="note_analyses.html#germains"/> originaire de la
 Scandinavie, installé sur les bords de la mer Noire.</p>
-               <p/>
+               
                <p>
 • Les Goths envahissent le <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs> (<ref target="../_roman/reference/21_1/21_1_livre_6.xml#159_recto">I, 6, 159
 recto</ref>) et les rives de la <rs type="repertoire" ref="repertoire_ss.xml#seine">Seine</rs> (<ref target="../_roman/reference/21_1/21_1_livre_7.xml#207_recto">I, 7, 207
 recto</ref>).</p>
-               <p/>
+               
                <p>
 • Ils se battent contre les <rs type="repertoire" ref="repertoire_qr.xml#romains">Romains</rs> (<ref target="../_roman/reference/21_1/21_1_livre_8.xml#226_recto">I, 8, 226
 recto</ref>). Un chef <rs type="repertoire" ref="#goths">Goth</rs>
@@ -1451,24 +1452,24 @@ recto</ref>).</p>
             </note>
             <note xml:id="goths_2" n="2" ana="histoire">
                <label>Goths</label>
-               <p>Mentionnés dans:<ref target="#goths">I</ref>, <ref target="#2_goths">II</ref>, <ref target="#3_goths">III</ref>, <ref target="#4_goths">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#goths">I</ref>, <ref target="#2_goths">II</ref>, <ref target="#3_goths">III</ref>, <ref target="#4_goths">IV</ref></mentioned><p>
 Écrit aussi <emph>Gots</emph>. Voir <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs>.
 Peuple germanique<note target="note_analyses.html#germains"/> qui se divise en
 deux groupes, les <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs> -royaume de <rs type="repertoire" ref="repertoire_tt.xml#2_toulouse">Toulouse</rs> au
-Vesiècle -, et les <rs type="repertoire" ref="repertoire_no.xml#2_ostrogoths">Ostrogoths</rs>
--royaume d'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> au VIesiècle (<bibl source="bibliographie.xml#labouysse">Labouysse</bibl>, p.27).</p>
+Ve siècle -, et les <rs type="repertoire" ref="repertoire_no.xml#2_ostrogoths">Ostrogoths</rs>
+-royaume d'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> au VIe siècle (<bibl source="bibliographie.xml#labouysse">Labouysse</bibl>, p.27).</p>
                <p>
 Dans ses <bibl source="bibliographie.xml#epistres">Epistres</bibl>, Honoré d'Urfé rappelle que
-«la fertilité de l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> fut autrefois cause que les Gots y
-descendirent, et la mirent presque toute à feu» (I, 12,
+<quote>la fertilité de l'<rs type="repertoire" ref="repertoire_ik.xml#2_italie">Italie</rs> fut autrefois cause que les Gots y
+descendirent, et la mirent presque toute à feu</quote> (I, 12,
 p.112).</p>
-               <p/>
+               
                <p>
 • Nommés quatorze fois dans la deuxième partie, les Goths de
 <emph>L'Astrée</emph> vivent en <rs type="repertoire" ref="repertoire_aa.xml#2_aquitaine">Aquitaine</rs>
 (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#750">II, 11,
 750</ref>). Il s'agit donc des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs>.</p>
-               <p/>
+               
                <p>
 • Leurs rois sont d'ailleurs <persName ref="personnage_aa.xml#2_alaric">Alaric</persName> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#738">II, 11, 738</ref>),
 <persName ref="personnage_aa.xml#2_ataulfe">Ataulphe</persName> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#740">II, 11,
@@ -1476,32 +1477,32 @@ p.112).</p>
 <persName ref="personnage_ss.xml#2_sigeric">Sigeric</persName> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#745">II, 11, 745</ref>)
 et <persName ref="personnage_uz.xml#2_walia">Walia</persName> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#745">II, 11,
 745</ref>).</p>
-               <p/>
+               
                <p>
 • Cependant, dans une énumération des ennemis de <rs type="repertoire" ref="repertoire_qr.xml#rome">Rome</rs>, on
-lit: «<rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs>, <rs type="repertoire" ref="repertoire_bb.xml#2_bourguignons">Bourguinons</rs>, Goths, <rs type="repertoire" ref="repertoire_uz.xml#2_visigoths">Visigoths</rs>
-ou <rs type="repertoire" ref="repertoire_uz.xml#2_vandales">Vandales</rs>» (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#752">II, 11,
+lit: <quote><rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs>, <rs type="repertoire" ref="repertoire_bb.xml#2_bourguignons">Bourguinons</rs>, Goths, <rs type="repertoire" ref="repertoire_uz.xml#2_visigoths">Visigoths</rs>
+ou <rs type="repertoire" ref="repertoire_uz.xml#2_vandales">Vandales</rs></quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#752">II, 11,
 752</ref>).</p>
-               <p/>
+               
                <p>
 • Les Goths, comme les <rs type="repertoire" ref="repertoire_ff.xml#2_francs">Francs</rs> et les <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs>, sont
 en <rs type="repertoire" ref="#2_gaule">Gaule</rs> quand ils
 s'attaquent à l'Empire (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#738">II, 11,
 738</ref>).</p>
-               <p/>
+               
                <p>
 • Les Goths d'<persName ref="personnage_aa.xml#2_alaric">Alaric</persName> arrivent à <rs type="repertoire" ref="repertoire_qr.xml#rome">Rome</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#744">II, 11, 744</ref>)
 et s'en vont en emmenant la sœur de l'Empereur, <persName ref="personnage_pp.xml#2_placidie">Placidie</persName>.</p>
-               <p/>
+               
                <p>
 • Les Goths sont victorieux des <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#752">II, 11,
 752</ref>).</p>
-               <p/>
+               
                <p>
 • Ils s'étendent vers l'<rs type="repertoire" ref="repertoire_ee.xml#espagne">Espagne</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#750">II, 11, 750</ref>),
 chassent les <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#760">II, 11, 760</ref>)
 et les remplacent.</p>
-               <p/>
+               
                <p>
 • Une carte indiquant les déplacements des Goths et des <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs> se trouve
 dans ce <ref target="http://www.learn.columbia.edu/medmil/images/non_met_images/maps/westermannsmaps/1750/westermannsiipg48.jpg">site</ref> (30 septembre 2010). Voir aussi la
@@ -1510,19 +1511,19 @@ invasions</ref>.</p>
             </note>
             <note xml:id="goths_3" n="3" ana="histoire">
                <label>Goths</label>
-               <p>Mentionnés dans:<ref target="#goths">I</ref>, <ref target="#2_goths">II</ref>, <ref target="#3_goths">III</ref>, <ref target="#4_goths">IV</ref>
-• «Goth de nation», <persName ref="personnage_qr.xml#3_rithimer">Ricimer</persName>, est
+               <mentioned>Mentionnés dans:<ref target="#goths">I</ref>, <ref target="#2_goths">II</ref>, <ref target="#3_goths">III</ref>, <ref target="#4_goths">IV</ref></mentioned><p>
+• <quote>Goth de nation</quote>, <persName ref="personnage_qr.xml#3_rithimer">Ricimer</persName>, est
 devenu citoyen <rs type="repertoire" ref="repertoire_qr.xml#3_romains">romain</rs> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#285_recto">III, 7, 285
 recto</ref>).</p>
-               <p/>
+               
                <p>
-• Le «naturel gothique» est dangereux et imprévisible
+• Le <quote>naturel gothique</quote> est dangereux et imprévisible
 (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#285_recto">III, 7, 285
 recto</ref>).</p>
             </note>
             <note xml:id="goths_4" n="4" ana="histoire">
                <label>Goths</label>
-               <p>Mentionnés dans:<ref target="#goths">I</ref>, <ref target="#2_goths">II</ref>, <ref target="#3_goths">III</ref>, <ref target="#4_goths">IV</ref>• <persName ref="personnage_bb.xml#4_bellimarte">Bellimarte</persName>, un Goth, sert dans les armées de
+               <mentioned>Mentionnés dans:<ref target="#goths">I</ref>, <ref target="#2_goths">II</ref>, <ref target="#3_goths">III</ref>, <ref target="#4_goths">IV</ref></mentioned><p>• <persName ref="personnage_bb.xml#4_bellimarte">Bellimarte</persName>, un Goth, sert dans les armées de
 <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName> (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#243">IV, 2,
 243</ref>).<note ana="remarque">Considéré auparavant comme un <rs type="repertoire" ref="repertoire_uz.xml#3_visigoths">Wisigoth</rs>,
 il se nommait <emph>
@@ -1534,21 +1535,21 @@ verso</ref>).</note>
             </note>
             <note xml:id="graces" n="1" ana="mythologie">
                <label>Graces</label>
-               <p>Mentionnées dans:<ref target="#graces">I</ref>,
-<ref target="#3_graces">III</ref>
+               <mentioned>Mentionnées dans:<ref target="#graces">I</ref>,
+<ref target="#3_graces">III</ref></mentioned><p>
 Mythologie. Groupe de trois déesses représentant le charme, la
 jeunesse et la beauté. <bibl source="bibliographie.xml#furetiere">Furetière</bibl> précise que les Grâces,
-«du temps des Payens, estoient trois Divinitez fabuleuses
-qu'on peignoit toutes nuës» (Article <emph>Grace</emph>).</p>
+<quote>du temps des Payens, estoient trois Divinitez fabuleuses
+qu'on peignoit toutes nuës</quote> (Article <emph>Grace</emph>).</p>
                <p>
 Mais Botticelli (1445- 1510) a peint <rs type="repertoire" ref="repertoire_uz.xml#venus">Vénus</rs> et les
 trois Grâces habillées (Voir ce <ref target="http://www.abcgallery.com/B/botticelli/botticelli59.xml">site</ref> par exemple, 30 septembre 2010).</p>
-               <p/>
+               
                <p>
 •<persName ref="personnage_cc.xml#celadon">Céladon</persName>, à moitié endormi, prend les trois dames
 foréziennes qu'il voit à <rs type="repertoire" ref="repertoire_ik.xml#isoure">Isoure</rs> pour les trois Grâces (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#28_recto">I, 2, 28
 recto</ref>).</p>
-               <p/>
+               
                <p>
 •<persName ref="personnage_ff.xml#filandre">Filandre</persName> implore le secours des Grâces pour
 obtenir une grâce (<ref target="../_roman/reference/21_1/21_1_livre_6.xml#179_verso">I, 6, 179
@@ -1556,33 +1557,33 @@ verso</ref>).</p>
             </note>
             <note xml:id="graces_3" n="3" ana="geographie">
                <label>Graces</label>
-               <p>Mentionnées dans:<ref target="#graces">I</ref>, <ref target="#3_graces">III</ref>
+               <mentioned>Mentionnées dans:<ref target="#graces">I</ref>, <ref target="#3_graces">III</ref></mentioned><p>
 Dans trois instances, des amoureux comparent une femme aux Grâces.
 Deux fois l'antonomase dit la supériorité de la femme sur la
 déesse.</p>
-               <p/>
+               
                <p>
 • La demeure de <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> et de sa sœur <persName ref="personnage_dd.xml#3_delie">Délie</persName> peut
 s'appeler la maison des Grâces, d'après <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#107_verso">III, 3, 107
 verso</ref>).</p>
-               <p/>
+               
                <p>
-• <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>, selon <persName ref="personnage_hh.xml#3_hylas">Hylas</persName>, «a
-plus de grace que les Graces mesmes» (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#274_verso">III, 7, 274
+• <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>, selon <persName ref="personnage_hh.xml#3_hylas">Hylas</persName>, <quote>a
+plus de grace que les Graces mesmes</quote> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#274_verso">III, 7, 274
 verso</ref>).</p>
-               <p/>
+               
                <p>
-• «Les Graces jamais n'ont fait voir tant de grace»
+• <quote>Les Graces jamais n'ont fait voir tant de grace</quote>
 qu'<persName ref="personnage_aa.xml#3_astree">Astrée</persName>, dit <persName ref="personnage_aa.xml#3_alexis">Alexis</persName> (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#464_verso">III, 11,
 464 verso</ref>).</p>
             </note>
             <note xml:id="grade_2" n="2" ana="geographie">
                <label>Grade</label>
-               <p>Mentionnée dans:<ref target="#2_grade">II</ref>
+               <mentioned>Mentionnée dans:<ref target="#2_grade">II</ref></mentioned><p>
 Il s'agit de la ville de Grado, la <emph>Nova
 Aquilieia</emph>, fondée en 452.</p>
-               <p/>
+               
                <p>
 • Ville fondée par les habitants d'<rs type="repertoire" ref="repertoire_aa.xml#2_aquilee">Aquilée</rs>
 chassés par <persName ref="personnage_aa.xml#2_attila">Attila</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#841">II, 12,
@@ -1590,10 +1591,10 @@ chassés par <persName ref="personnage_aa.xml#2_attila">Attila</persName> (<ref 
             </note>
             <note xml:id="grande_bretagne" n="1" ana="geographie">
                <label>Grand'-Bretagne</label>
-               <p>Mentionnée dans:<ref target="#grande_bretagne">I</ref>,
-<ref target="#3_grande_bretagne">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#grande_bretagne">I</ref>,
+<ref target="#3_grande_bretagne">III</ref></mentioned><p>
 Voir <rs type="repertoire" ref="repertoire_bb.xml#2_bretagne">Bretagne</rs> dans la deuxième partie.</p>
-               <p/>
+               
                <p>
 • Dans l'<ref target="../_roman/reference/21_1/21_1_livre_2.xml#histoire_d_alcippe">Histoire
 d'Alcippe</ref>, <persName ref="personnage_cc.xml#celadon">Céladon</persName> explique que son père a servi le roi
@@ -1604,7 +1605,7 @@ vient défier les chevaliers foréziens appartient à un groupe qui
 imite l'ordre de chevalerie établie par le roi <persName ref="personnage_aa.xml#artus">Artus</persName> en
 Grande-Bretagne (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#43_verso">I, 2, 43
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Patrie de <persName ref="personnage_mm.xml#melandre">Mélandre</persName> (<ref target="../_roman/reference/21_1/21_1_livre_12.xml#383_recto">I, 12, 383
 recto</ref>), s'allie avec la <rs type="repertoire" ref="repertoire_no.xml#neustrie">Neustrie</rs> contre les <rs type="repertoire" ref="repertoire_ff.xml#francs">Francs</rs> (<ref target="../_roman/reference/21_1/21_1_livre_12.xml#384_verso">I, 12, 384
@@ -1613,10 +1614,10 @@ verso</ref>).</p>
             </note>
             <note xml:id="grande_bretagne_3" n="3" ana="geographie">
                <label>Grande-Bretagne</label>
-               <p>Mentionnée dans:<ref target="#grande_bretagne">I</ref>, <ref target="#3_grande_bretagne">III</ref>
+               <mentioned>Mentionnée dans:<ref target="#grande_bretagne">I</ref>, <ref target="#3_grande_bretagne">III</ref></mentioned><p>
                   <note ana="variante">Dans l'édition de 1619 seulement, les
-portraits des «Roys de la grande Bretagne, d'<rs type="repertoire" ref="repertoire_aa.xml#3_allemagne">Alemagne</rs> et
-d'<rs type="repertoire" ref="repertoire_ee.xml#3_espagne">Espagne</rs>» (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_recto">III, 3, 58
+portraits des <quote>Roys de la grande Bretagne, d'<rs type="repertoire" ref="repertoire_aa.xml#3_allemagne">Alemagne</rs> et
+d'<rs type="repertoire" ref="repertoire_ee.xml#3_espagne">Espagne</rs></quote> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_recto">III, 3, 58
 recto</ref>) se trouvent dans la galerie d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName>, après
 le portrait de l'empereur <persName ref="personnage_uz.xml#3_valentinien">Valentinien</persName>.</note>
                </p>
@@ -1627,30 +1628,30 @@ pour que la description ne montre que des rois de <rs type="repertoire" ref="#3_
             </note>
             <note xml:id="grece" n="1" ana="geographie">
                <label>Grece</label>
-               <p>Mentionnée dans:<ref target="#grece">I</ref>, <ref target="#2_grece">II</ref>, <ref target="#3_grece">III</ref>, <ref target="#4_grece">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#grece">I</ref>, <ref target="#2_grece">II</ref>, <ref target="#3_grece">III</ref>, <ref target="#4_grece">IV</ref></mentioned><p>
 Ce pays, comme le <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs>, est évoqué sur plusieurs niveaux.</p>
-               <p/>
+               
                <p>
 • C'est la patrie des écrivains nommés dans la préface (<ref target="../_roman/reference/21_1/21_1_liminaires.xml#autheur_a_bergere">
                      <emph>L'Autheur
 à la Bergere Astrée</emph>
                   </ref>).</p>
-               <p/>
+               
                <p>
 • C'est le pays où <persName ref="personnage_aa.xml#alcippe">Alcippe</persName>, le père de <persName ref="personnage_cc.xml#celadon">Céladon</persName>, passe
 dix-sept ans (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#44_verso">I, 2, 44
 verso</ref>).</p>
-               <p/>
+               
                <p>
 • Les deux portraits qui décorent le roman sont entourés de devises
 grecques (Voir <ref target="illustrations.xml">Illustrations</ref>).</p>
             </note>
             <note xml:id="grece_2" n="2" ana="geographie">
                <label>Grece</label>
-               <p>Mentionnée dans:<ref target="#grece">I</ref>, <ref target="#2_grece">II</ref>, <ref target="#3_grece">III</ref>, <ref target="#4_grece">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#grece">I</ref>, <ref target="#2_grece">II</ref>, <ref target="#3_grece">III</ref>, <ref target="#4_grece">IV</ref></mentioned><p>
 D'Urfé ne nomme ni ville ni fleuve de ce pays. Il ne parle que de
 la région devenue romaine.</p>
-               <p/>
+               
                <p>
 • <persName ref="personnage_ik.xml#2_isidore">Isidore</persName> vient d'une des meilleures maisons de
 <rs type="repertoire" ref="#2_grece">Grèce</rs> pour vivre à la
@@ -1660,7 +1661,7 @@ fille de l'Empereur d'<rs type="repertoire" ref="repertoire_no.xml#2_orient">Ori
                <p>
 La cour est en Grèce quand <persName ref="personnage_ee.xml#2_eudoxe">Eudoxe</persName> épouse <persName ref="personnage_uz.xml#2_valentinien">Valentinien</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#803">II, 12,
 803</ref>).</p>
-               <p/>
+               
                <p>
 • Après l'enlèvement d'<persName ref="personnage_ee.xml#2_eudoxe">Eudoxe</persName>, <persName ref="personnage_uz.xml#2_ursace">Ursace</persName> ne peut pas retourner en Grèce
 (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#882">II, 12,
@@ -1668,12 +1669,12 @@ La cour est en Grèce quand <persName ref="personnage_ee.xml#2_eudoxe">Eudoxe</p
             </note>
             <note xml:id="grece_3" n="3" ana="geographie">
                <label>Grece</label>
-               <p>Mentionnée dans:<ref target="#grece">I</ref>, <ref target="#2_grece">II</ref>, <ref target="#3_grece">III</ref>, <ref target="#4_grece">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#grece">I</ref>, <ref target="#2_grece">II</ref>, <ref target="#3_grece">III</ref>, <ref target="#4_grece">IV</ref></mentioned><p>
 • <persName ref="personnage_bb.xml#3_brennus">Brennus</persName> se rend en Grèce. Son portrait se trouve
 sur la voûte dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName>
 (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III,
 3, 58 verso</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="variante">Cette description de peinture est trois
 fois plus longue après l'édition de 1619.</note>
@@ -1681,27 +1682,27 @@ fois plus longue après l'édition de 1619.</note>
             </note>
             <note xml:id="grece_4" n="4" ana="geographie">
                <label>Grece</label>
-               <p>Mentionnée dans:<ref target="#grece">I</ref>, <ref target="#2_grece">II</ref>, <ref target="#3_grece">III</ref>, <ref target="#4_grece">IV</ref>
+               <mentioned>Mentionnée dans:<ref target="#grece">I</ref>, <ref target="#2_grece">II</ref>, <ref target="#3_grece">III</ref>, <ref target="#4_grece">IV</ref></mentioned><p>
 • Les femmes y sont plus brunes qu'en <rs type="repertoire" ref="#4_gaule">Gaule</rs>, affirme <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName>
 (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#141">IV, 1,
 141</ref>).</p>
             </note>
             <note xml:id="grecs_2" n="2" ana="histoire">
                <label>Grecs</label>
-               <p>Mentionnés dans:<ref target="#2_grecs">II</ref>, <ref target="#3_grecs">III</ref>, <ref target="#4_grecs">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_grecs">II</ref>, <ref target="#3_grecs">III</ref>, <ref target="#4_grecs">IV</ref></mentioned><p>
                   <bibl source="bibliographie.xml#cesar">César</bibl>
 affirme que les druides celtes se servent de l'alphabet grec (V,
 14). <bibl source="bibliographie.xml#la_mure">La
 Mure</bibl> le répète: le langage des Grecs était celui des
 Druides (I, p.83).</p>
-               <p/>
+               
                <p>
 • Les druides gaulois avaient un alphabet avant les Grecs (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#509">II, 8,
 509</ref>).</p>
             </note>
             <note xml:id="grecs_3" n="3" ana="histoire">
                <label>Grecs</label>
-               <p>Mentionnés dans:<ref target="#2_grecs">II</ref>, <ref target="#3_grecs">III</ref>, <ref target="#4_grecs">IV</ref>
+               <mentioned>Mentionnés dans:<ref target="#2_grecs">II</ref>, <ref target="#3_grecs">III</ref>, <ref target="#4_grecs">IV</ref></mentioned><p>
 Dans la <rs type="repertoire" ref="repertoire_pp.xml#3_province_des_romains">Province des Romains</rs>, les <rs type="repertoire" ref="repertoire_pp.xml#2_phocenses">Phocenses</rs>
 sont des Grecs païens; ils ont mêlé leur religion avec celle
 des <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs> et des <rs type="repertoire" ref="#3_gaulois">Gaulois</rs> (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#373_recto">III, 9, 373
@@ -1709,18 +1710,18 @@ recto</ref>).</p>
             </note>
             <note xml:id="grecs_4" n="4" ana="histoire">
                <label>Grecs</label>
-               <p>Mentionnés dans:<ref target="#2_grecs">II</ref>, <ref target="#3_grecs">III</ref>, <ref target="#4_grecs">IV</ref>
-D'après <bibl source="bibliographie.xml#equicola">Equicola</bibl>, «l'on estime les yeux
+               <mentioned>Mentionnés dans:<ref target="#2_grecs">II</ref>, <ref target="#3_grecs">III</ref>, <ref target="#4_grecs">IV</ref></mentioned><p>
+D'après <bibl source="bibliographie.xml#equicola">Equicola</bibl>, <quote>l'on estime les yeux
 noirs: et ains dit-on que la Deesse de beauté les a eu (...)
 Avicenne estime tels yeux, pour demonstrer l'esprit et grande
-foy» (Livre 3, f°134 verso).</p>
-               <p/>
+foy</quote> (Livre 3, f°134 verso).</p>
+               
                <p>
 • <persName ref="personnage_hh.xml#4_hylas">Hylas</persName>
 affirme que les Grecs préfèrent les femmes aux yeux noirs (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#102">IV, 1, 102</ref>).
 <persName ref="personnage_ss.xml#4_silvandre">Silvandre</persName> le répète (<ref target="../_roman/reference/24_4/24_4_livre_1.xml#141">IV, 1,
 141</ref>).</p>
-               <p/>
+               
                <p>
                   <note ana="remarque">Dans la deuxième partie, la grecque
 <persName ref="personnage_ik.xml#2_isidore">Isidore</persName> est d'une grande beauté

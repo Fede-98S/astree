@@ -1,0 +1,464 @@
+<!doctype html>
+<html lang="fr"><!-- #BeginTemplate "/Templates/t_personnage.dwt" --><!-- DW6 -->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=0.64"> 
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src = "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="../print.css" media="print">
+<link rel="stylesheet" href="../jquery-ui.min.css">
+<script src="../scripts/jquery.ui.touch-punch.min.js"></script>
+<script src="../scripts/astree.js"></script>
+<link rel="stylesheet" media="screen and (orientation:landscape)" href="../styles_large.css">
+<link rel="stylesheet" media="screen and (orientation:portrait)" href="../styles_etroit.css">
+<link rel="stylesheet" media="screen and (max-width: 1119px)" href="../styles_etroit.css">
+<link rel="stylesheet" href="../styles.css">
+<!-- #BeginEditable "doctitle" -->
+<link rel="canonical" href="https://astree.univ-rouen.fr/_analyse/personnage_ik.html">
+<title>Personnages I, J, K -&nbsp;Deux visages de L'Astr&eacute;e</title>
+<meta name="description" content="Personnages&nbsp;: I-K. de Ingrande &agrave; Jean.  Il y a 293 noms de personnages dans L'Astr&eacute;e. Honor&eacute; d'Urf&eacute; r&eacute;unit des personnages historiques et fictifs. Chacun poss&egrave;de une fichie signal&eacute;tique en partie analytique et en partie narrative.">
+<!-- #EndEditable -->
+</head>
+<body>
+<nav>
+<!--<div id="menu_haut_container">-->
+<div id="menu_haut"><!-- #BeginLibraryItem "/Library/menu_haut.lbi" -->
+<img src="../images/3-bar.gif" alt="3-bar" class="hover_show" style="position:absolute; left: 9px; top:17px;" onclick="OpenMenuBar('#menu_gauche')"> 
+
+<div style="position:absolute; left:60px; top:6px;">
+  <div class="button_link center_t" style="width:80px; height: 31px;  padding-top:2px;"><a class="hover_show" href="https://www.univ-rouen.fr/" target="_blank" "><img src="../images/logo-univ-rouen.png" height="28" width="77" alt="Rouen Homepage"></a></div>
+</div>
+  
+  <div style="position:absolute; left:177px; top:6px;">
+  <div class="button_link center_t" style="width:80px; height: 33px; font-size:13px; line-height:16px;" onclick="ToggleTopMenu('div_tableaux')"><strong>Tableaux analytiques</strong></div>
+  <div id="div_tableaux" class="div_nav" style="position:relative; top:-1px; border:#4791CD solid 2px; line-height:20px; width:190px; display:none;" onclick="TurnOff('div_tableaux')" >
+    <a href="index_noms_propres.html" class="nav5">Index des noms propres</a><br>
+    <a href="personnage.html" class="nav5">Tableaux des personnages</a><br>
+    <a href="repertoire.html" class="nav5">R&eacute;pertoire <span style="font-size:10px;">(autres noms propres)</span></a><br>
+    <div style="height:10px"></div>
+   	<a href="glossaire.html" class="nav5">Glossaire</a><br>
+    <a href="dictionnaire_orientation.html" class="nav5">Dictionnaire des fr&eacute;quences</a><br>
+    <a href="notes.html" class="nav5">Notes</a><br>
+  </div>
+</div>
+
+<div style="position:absolute; left:290px;  top:6px;">
+   <div class="button_link center_t" style="width:90px; height: 33px; font-size:13px; line-height:16px;" title="Plan du site, Bibliographie, ..." onclick="ToggleTopMenu('div_plan')"><strong>Topographie du site</strong></div>
+  <div id="div_plan" class="div_nav" style="position:relative; top:-1px; border:#4791CD solid 2px; line-height:20px;  width:172px;  display:none;" onclick="TurnOff('div_plan')">
+    <a href="plan_du_site.html" class="nav5">Plan du site</a><br>
+    <a href="plan_du_site.html#alpha" class="nav5">Index de l'apparat critique</a>
+		<a href="bibliographie.html" class="nav5">Bibliographie</a><br>
+		<a href="liens.html" class="nav5">Liens externes</a><br>
+	<a href="liens_gallica.html" class="nav5">Liens vers Gallica</a><br>
+	</div>
+</div>
+
+<div style="position:absolute; left:382px;  top:12px;">
+<div class="button_link center_t" style="position:relative; left:30px; width:55px; height: 22px; font-size:13px; line-height:22px;" onclick="ToggleTopMenu('div_support')"><strong>Support</strong></div>
+  <div id="div_support" class="div_nav" style="position:relative; left:10px; top:-1px; border:#4791CD solid 2px; line-height:20px;  width:142px;  display:none;" onclick="TurnOff('div_support')">
+        <a href="guide.html" class="nav5">Guide de la navigation</a><br>
+        <a href="faq.html" class="nav5">FAQ</a><br>
+        <a href="nouveautes.html" class="nav5">Nouveaut&eacute;s</a><br>
+        <a href="remerciements.html" class="nav5">Remerciements</a><br>
+        <a href="cv.html" class="nav5">Auteur du site</a><br>
+        <div style="height:10px"></div>
+        <span class="nav5" onclick="clearcookies()">Effacer les t&eacute;moins<br>
+    		&nbsp;<span style="position:relative; top:-6px; font-size:9px">(cookies)</span></span><br>
+</div>
+</div>
+<img src="../images/3-bar.gif" alt="3-bar" class="hover_show" style="position:absolute; left:510px; top:17px;" onclick="OpenMenuBar('#menu_droite')"><!-- #EndLibraryItem --></div>
+<!--</div>-->
+
+<div id="menu_gauche_container">
+<div id="menu_gauche"><!-- #BeginLibraryItem "/Library/left_button.lbi" -->
+<button class="button_link" title="Fermer" style="padding-top:0px;padding-bottom:1px; position:relative; top:10px; left:6px;" onclick="CloseMenuBar('#menu_gauche')"><span style=" color:red; font-size:14px; font-weight:bold"> X </span></button>
+<br><br><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/menu_gauche.lbi" -->
+<input type="checkbox" id="chk_intro" onclick="SetDisplay('intro')">
+<span class="leftmenu" onclick="ToggleLeftMenu('intro')"><strong>Introductions</strong></span>
+<div id="div_intro" class="div_nav" style="display:block;">
+
+<a href="accueil.html" class="nav4">Accueil</a><br> 
+<a href="preface.html" class="nav4">Pr&eacute;face</a><br> 
+<a href="choix.html" class="nav4">Choix &eacute;ditoriaux</a><br>
+<a href="quatriemes.html" class="nav4">Les Quatri&egrave;mes parties</a><br>
+<a href="astrees_posthumes.html" class="nav4">Les <em>Astr&eacute;es</em> posthumes</a><br>
+<a href="vaganay.html" class="nav4">L'&Eacute;dition de Vaganay</a><br>
+<a href="texte.html" class="nav4">Pr&eacute;sentation des&nbsp;textes</a><br>
+<a href="feux.html" class="nav4">Pleins feux sur <em>L'Astr&eacute;e</em></a>
+</div><br>
+
+<input type="checkbox" id="chk_astree" onclick="SetDisplay('astree')">
+<span class="leftmenu" onclick="ToggleLeftMenu('astree')"><strong>Lecture de</strong></span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="leftmenu" onclick="ToggleLeftMenu('astree')"><span class="visageslivre">L'Astr&eacute;e</span></span>
+<div id="div_astree" class="div_nav" style="display:block;">
+<a href="../_roman/reference/21_1/21_1_liminaires.html" class="nav4"><span class="small"><strong>&Eacute;d. de r&eacute;f&eacute;rence</strong></span></a><br>
+&nbsp;&nbsp;<a href="../_roman/reference/21_1/21_1_liminaires.html" class="nav4">I<span class="supn">e</span>&nbsp;&nbsp;&nbsp;partie 1621</a><br>
+&nbsp;&nbsp;<a href="../_roman/reference/21_2/21_2_liminaires.html" class="nav4">II<span class="supn">e</span>&nbsp;&nbsp;partie 1621</a><br>
+&nbsp;&nbsp;<a href="../_roman/reference/21_3/21_3_liminaires.html" class="nav4">III<span class="supn">e</span>&nbsp;partie 1621</a><br>
+&nbsp;&nbsp;<a href="../_roman/reference/24_4/24_4_liminaires.html" class="nav4">IV<span class="supn">e</span> partie 1624</a><br>
+<a href="../_roman/preliminaire/07_1/07_1_liminaires.html" class="nav4"><span class="small"><strong>&Eacute;d. pr&eacute;liminaire</strong></span></a><br>&nbsp;&nbsp;<a href="../_roman/preliminaire/07_1/07_1_liminaires.html" class="nav4">I<span class="supn">e</span>&nbsp;&nbsp;&nbsp;partie 1607</a><br>&nbsp;&nbsp;<a href="../_roman/preliminaire/10_2/10_2_liminaires.html" class="nav4">II<span class="supn">e</span>&nbsp;&nbsp;partie 1610</a><br>&nbsp;&nbsp;<a href="../_roman/preliminaire/19_3/19_3_liminaires.html" class="nav4">III<span class="supn">e</span>&nbsp;partie 1619</a><br>
+
+<a href="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html" class="nav4"><span class="small"><strong>&Eacute;d. fonctionnelle</strong></span><br>
+<span class="small">avec gravures</span></a><br>&nbsp;&nbsp;<a href="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_liminaires.html" class="nav4">I<span class="supn">e</span>&nbsp;&nbsp;&nbsp;partie</a><br>&nbsp;&nbsp;<a href="../_roman/fonctionnelle/fonctionnelle_2/fonctionnelle_2_liminaires.html" class="nav4">II<span class="supn">e</span>&nbsp;&nbsp;partie</a><br>&nbsp;&nbsp;<a href="../_roman/fonctionnelle/fonctionnelle_3/fonctionnelle_3_liminaires.html" class="nav4">III<span class="supn">e</span>&nbsp;partie</a><br>&nbsp;&nbsp;<a href="../_roman/fonctionnelle/fonctionnelle_4/fonctionnelle_4_liminaires.html" class="nav4">IV<span class="supn">e</span>&nbsp;partie</a><br>
+<a href="fonctionnelle_word.html" class="nav4"><span class="small"><strong>&Eacute;d. t&eacute;l&eacute;chargeable</strong><br>
+en Word</span></a><br>
+<a href="resume.html" class="nav4"><span class="small"><strong>R&eacute;sum&eacute;</strong> des intrigues</span></a><br>
+<a href="chronologie_historique.html" class="nav4">Chronologie historique</a><br>
+
+</div><br>
+
+<a href="plan_du_site.html#apparat" class="nav4"><span class="white"><strong>APPARAT CRITIQUE</strong></span></a><br>
+&nbsp;&nbsp;<input type="checkbox" id="chk_roman" onclick="SetDisplay('roman')">
+<span class="leftmenu" onclick="ToggleLeftMenu('roman')"><strong>Le roman</strong></span>
+<div id="div_roman" class="div_nav" style="display:block">
+<a href="evolution.html" class="nav4">&Eacute;volution de <em>L'Astr&eacute;e</em></a><br>
+&nbsp;&nbsp;<a href="variantes_confrontees.html" class="nav4">Variantes confront&eacute;es</a><br>
+&nbsp;&nbsp;<a href="variantes_premiere.html" class="nav4">Variantes, I<span class="supn">e</span>&nbsp;partie</a><br>&nbsp;&nbsp;<a href="variantes_deuxieme.html" class="nav4">Variantes, II<span class="supn">e</span>&nbsp;partie</a><br>&nbsp;&nbsp;<a href="variantes_troisieme.html" class="nav4">Variantes, III<span class="supn">e</span>&nbsp;partie</a><br>
+<a href="illustrations.html" class="nav4">Analyse des&nbsp;illustrations</a><br>
+<a href="paralleles.html" class="nav4">Parall&egrave;les sugg&eacute;r&eacute;s</a><br>
+<a href="resume.html" class="nav4">R&eacute;sum&eacute; des intrigues</a><br>
+<a href="chronologie_historique.html" class="nav4">Chronologie historique</a><br>
+<a href="temoignages.html"  class="nav4">T&eacute;moignages</a><br>
+&nbsp;&nbsp;&nbsp;<a href="temoignages.html#ducrozet" class="nav4">Du Crozet</a><br>
+&nbsp;&nbsp;&nbsp;<a href="temoignages.html#sorel" class="nav4">Sorel</a><br>
+&nbsp;&nbsp;&nbsp;<a href="temoignages.html#gueret" class="nav4">Gu&eacute;ret</a><br>
+<a href="lingendes_poemes.html"  class="nav4">Po&egrave;mes de Lingendes</a></div><br>
+
+&nbsp;&nbsp;<input type="checkbox" id="chk_romancier" onclick="SetDisplay('romancier')">
+<span class="leftmenu" onclick="ToggleLeftMenu('romancier')"><strong>Le romancier</strong></span>
+<div id="div_romancier" class="div_nav" style="display:block">
+<a href="urfe.html" class="nav4">Biographie</a><br>
+<a href="biographes.html" class="nav4">Biographes, critiques</a><br>
+<a href="evenements.html" class="nav4">&Eacute;v&eacute;nements</a><br>
+<br>
+<a href="genealogie.html" class="nav4">G&eacute;n&eacute;alogie</a><br>
+<a href="testament.html" class="nav4">Testament</a><br>
+<a href="inventaire.html" class="nav4">Inventaire</a><br>
+<a href="heritages.html" class="nav4">H&eacute;ritages</a><br>
+<br>
+<a href="poemes.html" class="nav4">Po&egrave;mes</a><br>
+<a href="epitres.html" class="nav4">&Eacute;p&icirc;tres</a><br>
+<a href="lettres.html" class="nav4">Lettres</a><br><br>
+<em><a href="jugemant.html" class="nav4">Jugemant sur<br>
+&nbsp;&nbsp;L'Amedeide</a></em><br>
+<a href="malherbe.html" class="nav4">Remarques<br>
+&nbsp;&nbsp;sur&nbsp;Malherbe</a>
+</div><br>
+<input type="checkbox" id="chk_resource" onclick="SetDisplay('resource')">
+<span class="leftmenu" onclick="ToggleLeftMenu('resource')"><strong>Ressources</strong></span>
+<div id="div_resource" class="div_nav" style="display:block">
+		<a href="bibliographie.html" class="nav4">Bibliographie</a><br>
+		<a href="liens.html" class="nav4">Liens externes</a><br>
+	<a href="liens_gallica.html" class="nav4">Liens vers Gallica</a><br><a href="cartotheque.html" class="nav4">Cartoth&egrave;que</a><br>
+<a href="galerie.html" class="nav4">Galerie de portraits</a><br>
+<a href="rohmer.html" class="nav4">Film d'Eric Rohmer</a><br>
+<a href="partitions.html" class="nav4">Partitions&nbsp;d'A. Naigeon</a><br>
+<a href="photos_forez.html" class="nav4">Photos du Forez</a></div><br><br>
+
+
+  <!-- #EndLibraryItem --></div>
+</div>
+
+<div id="menu_droite_container">
+<div id="menu_droite"><!-- #BeginLibraryItem "/Library/menu_buttons.lbi" -->
+<img src="../images/color_palette.gif" alt="couleurs" class="hover_show" title="Code des couleurs" style="position:relative; top: 12px; left:6px;" onclick="ToggleCouleur_info()">
+<img class="button_link" src="../images/signet_retour_bleu.gif" alt="signet_retour" title="Retour au signet" onclick="RetourSignet('Tufts.AstreeSignet')" style="position:relative; top: 12px; left:15px;" >
+<a href="#citation" class="button_link" title="R&eacute;f&eacute;rence" style="padding-top:2px;padding-bottom:1px; position:relative; top: 7px; left:20px;"><span style="font-size:18px">&laquo;</span><span style=" color:red; font-size:11px; position:relative; top:-2px;">&#64;</span><span style="font-size:18px">&raquo;</span></a>
+<button class="button_link" title="Fermer" style="padding-top:1px;padding-bottom:0px; position:relative; top:7px; left:36px;" onclick="CloseMenuBar('#menu_droite')"><span style=" color:red; font-size:14px; font-weight:bold"> X </span></button>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/menu_couleur_a.lbi" -->
+<div id="div_couleur_info" class="center_t" style="display:none;">
+<br><img src="../images/annotation_a.gif" alt="annotations" onclick="ToggleCouleur_info()">
+</div>
+
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/recherche.lbi" -->
+<form accept-charset="utf-8" id="tous" style="display:inline" method="get" action="https://www.google.com/search" target="_blank">
+<input type="hidden" name="sitesearch" value="https://astree.univ-rouen.fr">
+<input type="text" style="font-size:12px; font-weight:100; height:15px; width:135px; position:relative; left:5px; top:15px" name="p" id="p" size="16" placeholder="Recherche"  onchange="add_astree('tous')">
+<input type="hidden" name="q" value="">
+<input type="image" alt="submit" title="Recherche dans tout le site" style="position:relative; top:16px; left:7px;" src="../images/loupe.gif" ></form><br>
+
+<div style="height:15px"></div>
+<input type="checkbox" id="chk_recherche" onclick="Recherche()">
+<span style="color: white; cursor:pointer;" onclick="ToggleLeftMenu('recherche')">avanc&eacute;e</span>
+<div id="div_recherche" class="div_nav" style="padding-right:0; width:169px; display:none;">
+<a href="recherche.html#recherche_ciblee" class="nav4">Recherche cibl&eacute;e</a><br>
+<a href="recherche.html" class="nav4">Fils d'Arianne</a><br>
+<a href="hyperbase_orientation.html" class="nav4">Hyperbase (&Eacute;. Brunet)</a><br>
+<a href="recherche.html#acces" class="nav4">Acc&egrave;s aux pages/folios</a><br>
+<a href="concordance.html" class="nav4">Concordances-Vaganay</a><br>
+</div>
+<hr style="color:#FFFFFF">
+<span title="Annotations rapides dans une fen&ecirc;tre auxiliaire">
+<input type="checkbox" id="chk_annexe_demandee" checked onclick="ToggleAnnexeDemandee()">
+<span class="leftmenu white" onclick="ToggleCheck('annexe_demandee')">Fen&ecirc;tre <strong>Annexe</strong> pour<br>
+&nbsp;&nbsp;&nbsp;&nbsp;les annotations</span> <a href="guide.html#annexe" class="nav1" style="font-size:9px">(Guide)</a></span>
+<br>
+<span id="fontannexe">
+  &nbsp;<input type="checkbox" id="chk_fontannexe" checked onclick="ToggleFontAnnexe()">
+  <span style="color: white; cursor:pointer;" onclick="ToggleCheck('fontannexe')">police condens&eacute;e</span>
+</span>
+<hr style="color:#FFFFFF"><!-- #EndLibraryItem --><input type="checkbox" id="chk_legende_pers" checked onclick="SetDisplay('legende_pers')">
+<span class="leftmenu" onclick="ToggleLeftMenu('legende_pers')"><strong>L&eacute;gende</strong></span>
+<div style="height:4px">&nbsp;</div>
+<div id="div_legende_pers" style="display:block;">
+  <div class="center_t white">&nbsp;Cat&eacute;gories</div>
+  <table class="center_t center_o" style="background-color:#FFFFFF;">
+      <tr><td class="borderblack" style="width:auto; height:20px">Fiction</td></tr>
+      <tr><td class="boite_grise" style="width:auto; height:20px">&nbsp;Histoire&nbsp;</td></tr>
+  </table>
+  <div style="height:6px">&nbsp;</div>
+
+  <div class="center_t white">Informations</div>
+  <table class="center_t center_o" style="background-color:#FFFFFF;">
+      <tr><td class="borderorange" style="width:auto; height:20px">Variante</td></tr>
+      <tr><td class="bordergreen" style="width:auto; height:20px">Po&egrave;te</td></tr>
+      <tr><td class="center_t intercalee" style="width:auto; height:20px">Intercal&eacute;e</td></tr>
+      <tr><td class="interruption" style="width:auto; height:20px">&nbsp;&nbsp;Interruption&nbsp;&nbsp;</td></tr>
+      <tr><td class="boite_remarque" style="width:auto; height:20px">Remarque</td></tr>
+  </table><div style="height:6px">&nbsp;</div>
+
+  <div class="center_t white">Relations<br>
+  <img alt="Relations" style="border: solid; border-width: thin; border-color:black" src="../images/relations/legende1.gif"></div>
+  <div style="height:6px">&nbsp;</div>
+</div>
+<hr style="color:#FFFFFF">
+<div class="center_t">
+<!-- #BeginEditable "Orientation" -->
+<a href="personnage.html" class="nav1"><strong>PERSONNAGES</strong><br>Orientation</a><div style="height:6px">&nbsp;</div>
+<!-- #EndEditable -->
+<a href="personnage_aa.html" class="nav1">A</a>&nbsp;&nbsp;<a href="personnage_bb.html" class="nav1">B</a>&nbsp;&nbsp;<a href="personnage_cc.html" class="nav1">C</a>&nbsp;&nbsp;<a href="personnage_dd.html" class="nav1">D</a>&nbsp;&nbsp;<a href="personnage_ee.html" class="nav1">E</a><br>
+      <a href="personnage_ff.html" class="nav1">F</a>&nbsp;&nbsp;<a href="personnage_gg.html" class="nav1">G</a>&nbsp;&nbsp;<a href="personnage_hh.html" class="nav1">H</a>&nbsp;&nbsp;&nbsp;<a href="personnage_ik.html" class="nav1">I</a>&nbsp;&nbsp;<a href="personnage_ik.html#j" class="nav1">J</a>&nbsp;<br>
+      <a href="personnage_ik.html#k" class="nav1">K</a>&nbsp;&nbsp;<a href="personnage_ll.html" class="nav1">L</a>&nbsp;&nbsp;<a href="personnage_mm.html" class="nav1">M</a>&nbsp;&nbsp;<a href="personnage_no.html" class="nav1">N</a>&nbsp;&nbsp;<a href="personnage_no.html#o" class="nav1">O</a><br>
+      <a href="personnage_pp.html" class="nav1">P</a>&nbsp;&nbsp;<a href="personnage_qr.html" class="nav1">Q</a>&nbsp;&nbsp;<a href="personnage_qr.html#r" class="nav1">R</a>&nbsp;&nbsp;<a href="personnage_ss.html" class="nav1">S</a>&nbsp;&nbsp;<a href="personnage_tt.html" class="nav1">T</a><br>
+      <a href="personnage_uz.html" class="nav1">U</a>&nbsp;&nbsp;<a href="personnage_uz.html#v" class="nav1">V</a> <a href="personnage_uz.html#w" class="nav1">W</a>&nbsp;<a href="personnage_uz.html#x" class="nav1">X</a>&nbsp;<a href="personnage_uz.html#y" class="nav1">Y</a>&nbsp;<a href="personnage_uz.html#z" class="nav1">Z</a><br>
+      <br>
+  </div>
+  <!-- #BeginEditable "menu droite" --><!-- #EndEditable -->
+</div></div><!-- #BeginLibraryItem "/Library/annexe_div.lbi" -->
+<div id="draggable_container"> 
+</div>
+<table class="nocellborder" id="draggable">
+	<tr><td id="item_found" style="cursor:default;"><img src="../images/fleche_gr.gif" alt="fleche" onclick="ExecAnnexe('s', false)">&nbsp;&nbsp;Annexe<span style="float:right; cursor:pointer; border:solid thin white;" onclick="ExecAnnexe('h')">&nbsp;X&nbsp;</span></td></tr>
+	<tr style="display:none"><td id="annexe_file"></td></tr>
+  <tr><td id="content_found" style="font-size:11px;"><i>Je suis flexible</i></td></tr>
+</table>
+</nav><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/banderole.lbi" --> 
+<header><div id="banderole" class="center_t">
+<img style="width:536px; height:89px;" alt="Banderole" src="../images/2visages_parchemin.gif">
+<div class="titre9" style="margin-top:-3px; color:#1D398D;">Premi&egrave;re &eacute;dition critique de <em>L'Astr&eacute;e</em> d'Honor&eacute; d'Urf&eacute;</div></div></header>
+<!-- #EndLibraryItem --><div id="document" style="width:536px;">
+<br>
+<div id="top">
+<!-- #BeginEditable "Top buttons go here" --><!-- #EndEditable -->
+</div>
+<article>
+<div id="Page_content_goes_here">
+<!-- #BeginEditable "Page content goes here" -->
+	   <header><h1 class="center_t personnage"><a id="haut"></a><br>PERSONNAGES - I, J, K</h1></header>
+<table>
+          <tr>
+            <td class="couleur_histoire" style="background-image:url(../images/personnages/ingrande.gif)"><a id="3_ingrande"></a>Ingrande</td>
+            <td class="couleur_troisieme"><i>Pr&eacute;sente dans&nbsp;:</i> <a href="#3_ingrande">III</a>
+              <hr>
+              <p><span class="italics">Premi&egrave;re mention</span>&nbsp;: <a href="../_roman/reference/21_3/21_3_livre_12.html#507_recto">III, 12, 507 recto</a>. </p>
+              <p><span class="italics">Nomm&eacute;e dans</span>&nbsp;:&nbsp;<a href="../_roman/reference/21_3/21_3_livre_12.html#h_childeric">Histoire de Childeric, de Silviane, et d'Andrimarte</a> racont&eacute;e par le chevalier de <a href="personnage_ll.html#3_lindamor" class="personnage">Lindamor</a>.</p>
+              <p><em>Remarques sur le nom</em>&nbsp;: <em>Ingrande</em> est le nom d'une ville en Bretagne selon Charles <a href="bibliographie.html#estienne" class="bibliographie">Estienne</a> (p.&nbsp;132).   D'Urf&eacute; a pu conna&icirc;tre <em>Ingrandes-sur-Loire&nbsp;; o</em>n y trouvait avant la R&eacute;volution un poste de douane qui contr&ocirc;lait la circulation du sel entre la Bretagne et l'Anjou (Voir le <a href="http://ngrandes-sur-loire.a3w.fr/Main.aspx?numStructure=81461&numRubrique=513820" target="_blank">site</a> de la commune, 10 juin 2014). Jean <a href="bibliographie.html#auvray" class="bibliographie">Auvray</a> adresse une &eacute;l&eacute;gie &agrave; une dame originaire d'&laquo;&nbsp;Ingrande&nbsp;&raquo;, sur les bords de la Loire (p.&nbsp;384). Ingrandes est aussi une tr&egrave;s ancienne commune de la Vienne.<br>
+                <a href="http://fr.wikipedia.org/wiki/Ingrandes_%28Vienne%29" target="_blank">Wikip&eacute;dia</a> (5 juillet 2014) explique l'&eacute;tymologie de ce nom qui a connu une bonne quinzaine de formes diff&eacute;rentes&nbsp;: &laquo;&nbsp;<em>Ingrandes</em> est un nom d&eacute;riv&eacute; du toponyme gaulois <em>equoranda</em> qui signifie juste aux limites ou limite &eacute;quitable. Il indique une limite territoriale ou une fronti&egrave;re. &Agrave; l'&eacute;poque gauloise, <em>Ingrandes</em> &eacute;tait situ&eacute;e &agrave; la limite entre les peuples des Turons et des Pictons&nbsp;&raquo;.</p>
+              <hr>
+              <div class="intercalee">
+                <p class="center_t"><a href="../_roman/reference/21_3/21_3_livre_12.html#h_childeric">Histoire de Childeric, de Silviane, et d'Andrimarte</a></p>
+                <p><a href="#3_ingrande" class="personnage">Ingrande</a>, fille de <a href="personnage_pp.html#3_pharamond" class="personnage">Pharamond</a>, est l'&eacute;pouse de <a href="personnage_bb.html#3_bellinus" class="personnage">Bellinus</a>, duc de <a href="repertoire_tt.html#3_thuringe" class="repertoire">Thuringe</a>, et la m&egrave;re de <a href="personnage_mm.html#3_merovee" class="personnage">M&eacute;rov&eacute;e</a>.</p>
+              </div>
+              <br></td>
+            <td class="colonne3">3</td>
+          </tr>
+          <tr>
+            <td class="couleur_histoire" style="background-image:url(../images/personnages/isdigerde.gif)"><a id="2_isdigerde"></a>Isdigerde</td>
+            <td class="couleur_deuxieme"><i>Pr&eacute;sente dans&nbsp;:</i> <a href="#2_isdigerde">II</a>
+              <hr>
+              <span class="italics">Premi&egrave;re mention</span>&nbsp;: <a href="../_roman/reference/21_2/21_2_livre_11.html#752">II, 11, 752</a>.
+              <p><span class="italics"> Personnage historique</span>&nbsp;: Il s'agit  d'Yazdgard, roi des <a href="repertoire_pp.html#2_perses" class="repertoire">Perses</a> et des <a href="repertoire_pp.html#2_parthes" class="repertoire">Parthes</a> de 399 &agrave; 420. Honor&eacute; d'Urf&eacute; adopte le nom que donne Procope&nbsp;: &laquo;&nbsp;D&egrave;s auparavant <a href="#2_isdigerde" class="personnage">Isdigerde</a> avait la r&eacute;putation d'&ecirc;tre un prince g&eacute;n&eacute;reux. Mais alors il donna des marques d'une vertu tout &agrave; fait rare, et digne des plus grands &eacute;loges&nbsp;&raquo; (<a href="bibliographie.html#procope" class="bibliographie">Procope</a>, II, 2). </p>
+              <p> <span class="italics">Caract&eacute;ristique&nbsp;:</span> Il &laquo;&nbsp;se monstra tres-homme de bien&nbsp;&raquo; (<a href="../_roman/reference/21_2/21_2_livre_11.html#752">II, 11, 752</a>), dit <a href="personnage_aa.html#2_adamas" class="personnage">Adamas</a>.</p>
+              <p><span class="italics">Nomm&eacute; dans</span>&nbsp;: <a href="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</a>, racont&eacute;e par <a href="personnage_aa.html#2_adamas" class="personnage">Adamas</a> &agrave; <a href="personnage_ll.html#2_leonide" class="personnage">L&eacute;onide</a>, <a href="personnage_aa.html#2_alexis" class="personnage">Alexis</a>, et un groupe de bergers.</p>
+              Roi des <a href="repertoire_pp.html#2_perses" class="repertoire">Perses</a> et des <a href="repertoire_pp.html#2_parthes" class="repertoire">Parthes</a>.
+              <hr>
+              <p><a href="personnage_aa.html#2_adamas" class="personnage">Adamas</a>, devant les portraits r&eacute;unis dans sa galerie, raconte&nbsp;: </p>
+              <div class="intercalee">
+                <p class="center_t"><a href="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</a></p>
+                <p><a href="personnage_aa.html#2_arcadius" class="personnage">Arcadius</a>, Empereur d'<a href="repertoire_no.html#2_orient" class="repertoire">Orient</a>, d&eacute;signe <a href="#2_isdigerde" class="personnage">Isdigerde</a>, comme tuteur pour son fils. Ce choix d&eacute;pla&icirc;t &agrave; <a href="personnage_pp.html#2_placidie" class="personnage">Placidie</a>, car ce roi des <a href="repertoire_pp.html#2_perses" class="repertoire">Perses</a> et des <a href="repertoire_pp.html#2_parthes" class="repertoire">Parthes</a> a &eacute;t&eacute; l'ennemi de l'Empire avant de devenir son conf&eacute;d&eacute;r&eacute; (<a href="../_roman/reference/21_2/21_2_livre_11.html#752">II, 11, 752</a>).</p>
+                <p><a href="#2_isdigerde" class="personnage">Isdigerde</a> envoie <a href="personnage_aa.html#2_antiochus" class="personnage">Antiochus</a> pour servir de gouverneur au jeune prince (<a href="../_roman/reference/21_2/21_2_livre_11.html#753">II, 11, 753</a>).</p>
+              </div>
+              <p>Dans la galerie d'<a href="personnage_aa.html#2_adamas" class="personnage">Adamas</a>, <a href="#2_isdigerde" class="personnage">Isdigerde</a> est repr&eacute;sent&eacute; tendant la main &agrave; <a href="personnage_aa.html#2_arcadius" class="personnage">Arcadius</a> (<a href="../_roman/reference/21_2/21_2_livre_11.html#753">II, 11, 753</a>). </p></td>
+            <td class="colonne3">2</td>
+          </tr>
+          <tr>
+            <td class="couleur_histoire" style="background-image:url(../images/personnages/isidore.gif)"><a id="2_isidore"></a>Isidore</td>
+            <td class="couleur_deuxieme"><i>Pr&eacute;sente dans&nbsp;: </i><a href="#2_isidore">II</a>
+              <hr>
+              <span class="italics">Premi&egrave;re mention</span>&nbsp;: <a href="../_roman/reference/21_2/21_2_livre_12.html#776">II, 12, 776</a>.
+              <p><span class="italics"> Personnage historique</span>&nbsp;:  &laquo;&nbsp;Ce jeune <a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a> avait une femme d'une beaut&eacute;  et d'une vertu singuli&egrave;re, dont <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> &eacute;tant devenu &eacute;perdument  amoureux, sans en avoir pu rien obtenir, il con&ccedil;ut, et ex&eacute;cuta le plus d&eacute;testable dessein, dont un homme  soit capable. Il manda <a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a> au palais, et joua avec lui une certaine somme d'argent. Quand il l'eut gagn&eacute;e, il lui demanda son anneau pour gage, comme  ils en &eacute;taient convenus&nbsp;; il l'envoya &agrave; sa femme et lui  fit dire, qu'elle vint au palais pour saluer l'imp&eacute;ratrice. Lorsqu'elle vit l'anneau de son mari, elle crut que cet ordre &eacute;tait donn&eacute; de son consentement&nbsp;; de sorte qu'elle monta en chaise, et &eacute;tant arriv&eacute;e,  elle fut conduite par les ministres des divertissements de l'Empereur, dans un appartement &eacute;loign&eacute; de celui d'Eudoxia, o&ugrave; ce prince se rendit &agrave; l'instant, et la viola&nbsp;&raquo; (<a href="bibliographie.html#procope" class="bibliographie">Procope</a>, IV, 3).</p>
+              <p> <span class="italics">Caract&eacute;ristique&nbsp;:</span> &laquo;&nbsp;Soigneuse de son
+                honneur et  reputation&nbsp;&raquo; (<a href="../_roman/reference/21_2/21_2_livre_12.html#776">II, 12, 776</a>), dit <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a>.</p>
+              <p><span class="italics">Remarque sur le nom&nbsp;:</span> Le nom<span class="cache">&nbsp;</span><a href="note_analyses.html#sexe_des_noms" class="note">&eta;</a> d'<a href="#2_isidore" class="personnage">Isidore</a> &eacute;voque celui d'Isidore de S&eacute;ville (570&nbsp;-&nbsp;636). Ce n'est probablement pas un hasard. L'<a href="#2_isidore" class="personnage">Isidore</a> de <em>L'Astr&eacute;e</em> est celle qui demande et obtient qu'on ch&acirc;tie un empereur. Le cinqui&egrave;me livre des <span class="italics">&Eacute;tymologies</span> de saint Isidore, <span class="italics">De legibus et temporibus</span>, Des lois et des temps, porte sur les ch&acirc;timents. La loi du talion  s'appuie sur le droit naturel, y lit-on.
+                Merci &agrave; Jacques Elfassi.</p>
+              <p><span class="italics">Nomm&eacute;e dans</span>&nbsp;: <a href="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</a>, racont&eacute;e par <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a>, puis r&eacute;p&eacute;t&eacute;e par <a href="personnage_ss.html#2_silvandre" class="personnage">Silvandre</a> &agrave; <a href="personnage_ll.html#2_leonide" class="personnage">L&eacute;onide</a>, <a href="personnage_aa.html#2_adamas" class="personnage">Adamas</a>, <a href="personnage_aa.html#2_alexis" class="personnage">Alexis</a>, et un groupe de bergers. </p>
+              <div class="center_o center_t relation"><img src="../images/relations/eudoxe.gif" alt="Eudoxe" style="width:378px; height:96px;"></div>
+              <hr>
+              <p><a href="personnage_ss.html#2_silvandre" class="personnage">Silvandre</a> rapporte puis compl&egrave;te le r&eacute;cit d'<a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a>. </p>
+              <div class="intercalee">
+                <p class="center_t"><a href="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</a></p>
+                <p>Issue d'une des plus grandes maisons de <a href="repertoire_gg.html#2_grece" class="repertoire">Gr&egrave;ce</a>, <a href="#2_isidore" class="personnage">Isidore</a> vit &agrave; la cour, &agrave; <a href="repertoire_cc.html#2_constantinople" class="repertoire">Constantinople</a>, aupr&egrave;s d'<a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a>, la fille de l'Empereur d'<a href="repertoire_no.html#2_orient" class="repertoire">Orient</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#776">II, 12, 776</a>). <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a>, qui doit &eacute;pouser <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a>, tombe amoureux d'<a href="#2_isidore" class="personnage">Isidore</a>. La jeune fille le tient &agrave; distance d'abord avec douceur ensuite avec rigueur. <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> organise des tournois pour lui plaire   (<a href="../_roman/reference/21_2/21_2_livre_12.html#780">II, 12, 780</a>).</p>
+                <p>Une abeille pique <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> qui dort la t&ecirc;te sur les genoux d'<a href="#2_isidore" class="personnage">Isidore</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#781">II, 12, 781</a>). <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a>, voyant qu'<a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> bl&acirc;me sa compagne, d&eacute;clare qu'<a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> a une recette pour gu&eacute;rir ces piq&ucirc;res. <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> apprend qu'il s'agit d'embrasser l'endroit affect&eacute;. Elle demande donc &agrave; <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> d'apprendre sa recette &agrave; <a href="#2_isidore" class="personnage">Isidore</a>. &laquo;&nbsp;Amour me conseilla de dire d'autres paroles &agrave; <a href="#2_isidore" class="personnage">Isidore</a>&nbsp;&raquo;, confesse <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a>, le narrateur  (<a href="../_roman/reference/21_2/21_2_livre_12.html#782">II, 12, 782</a>). La recette &eacute;choue, <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> bl&acirc;me <a href="#2_isidore" class="personnage">Isidore</a>. <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> autorise
+                  alors le jeune homme &agrave; faire son &laquo;&nbsp;enchantement&nbsp;&raquo;  (<a href="../_roman/reference/21_2/21_2_livre_12.html#782">II, 12, 782</a>). <a href="#2_isidore" class="personnage">Isidore</a> comprend ce qui se passe sous ses yeux. Elle engage <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> &agrave; rendre la pareille &agrave; <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#783">II, 12, 783</a>). C'est pourtant parce qu'<a href="#2_isidore" class="personnage">Isidore</a> est pr&egrave;s d'<a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> qu'<a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> h&eacute;site &agrave; d&eacute;clarer son amour (<a href="../_roman/reference/21_2/21_2_livre_12.html#784">II, 12, 784</a>).</p>
+                <p><a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> se prom&egrave;ne dans un jardin tandis qu'<a href="#2_isidore" class="personnage">Isidore</a> se repose dans un cabinet. <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> rejoint <a href="#2_isidore" class="personnage">Isidore</a> et la retient par la robe pour l'emp&ecirc;cher de sortir (<a href="../_roman/reference/21_2/21_2_livre_12.html#786">II, 12, 786</a>). <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> remarque la sc&egrave;ne.
+                  Elle sourit en regardant <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a>. Le jeune homme s'enhardit alors et d&eacute;clare son amour. Il commence par bl&acirc;mer <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> qui pr&eacute;f&egrave;re <a href="#2_isidore" class="personnage">Isidore</a> &agrave; <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a>. Il reconna&icirc;t que lui-m&ecirc;me devrait servir une &eacute;gale, comme <a href="#2_isidore" class="personnage">Isidore</a>, mais qu'il pr&eacute;f&egrave;re adorer en vain <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#787">II, 12, 787</a>).</p>
+                <p>L'affection de <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> pour <a href="#2_isidore" class="personnage">Isidore</a> augmentant, <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> se laisse aller &agrave; aimer <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#790">II, 12, 790</a>). Elle le re&ccedil;oit dans un cabinet o&ugrave;  se trouve <a href="#2_isidore" class="personnage">Isidore</a> &laquo;&nbsp;en qui elle se fioit
+                  infiniment&nbsp;&raquo;  (<a href="../_roman/reference/21_2/21_2_livre_12.html#793">II, 12, 793</a>). <a href="#2_isidore" class="personnage">Isidore</a> est indulgente non par amiti&eacute; mais par ambition&nbsp;; elle esp&egrave;re que l'union d'<a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> et de <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> sera rompue. Pour laisser les jeunes gens parler d'amour, <a href="#2_isidore" class="personnage">Isidore</a> se retire dans un cabinet o&ugrave; elle s'endort (<a href="../_roman/reference/21_2/21_2_livre_12.html#799">II, 12, 799</a>). </p>
+                <p><a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> embrasse <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a>. Quand la jeune fille lui fait remarquer qu'<a href="#2_isidore" class="personnage">Isidore</a> les voit, <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> lui apprend qu'ils sont seuls. <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> appelle <a href="#2_isidore" class="personnage">Isidore</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#800">II, 12, 800</a>). Parce qu'<a href="#2_isidore" class="personnage">Isidore</a> dit que tout dort autour d'eux, <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> r&eacute;plique que <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> veille en pensant &agrave; <a href="#2_isidore" class="personnage">Isidore</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#801">II, 12, 801</a>). Les jeunes filles plaisantent au sujet du lit que <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> partagerait (<a href="../_roman/reference/21_2/21_2_livre_12.html#802">II, 12, 802</a>). <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> embrasse <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> avant de s'en aller. <a href="#2_isidore" class="personnage">Isidore</a> les fixe et demande si une  abeille a piqu&eacute; <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#802">II, 12, 802</a>).</p>
+                <p><a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> et <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> se marient. Ils quittent la <a href="repertoire_gg.html#2_grece" class="repertoire">Gr&egrave;ce</a> en emmenant <a href="#2_isidore" class="personnage">Isidore</a> mais non <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#803">II, 12, 803</a>).</p>
+                <p>Toujours amoureux d'<a href="#2_isidore" class="personnage">Isidore</a>, <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> d&eacute;cide de la marier pour qu'elle accepte ensuite de lui accorder ses faveurs (<a href="../_roman/reference/21_2/21_2_livre_12.html#807">II, 12, 807</a>). <a href="#2_isidore" class="personnage">Isidore</a> &eacute;pouse <a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a>.
+                  Elle se retire un peu de la Cour (<a href="../_roman/reference/21_2/21_2_livre_12.html#808">II, 12, 808</a>).</p>
+                <p>D&eacute;pit&eacute;, <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> ne va plus se contenter de supplier &laquo;&nbsp;la sage <a href="#2_isidore" class="personnage">Isidore</a>&nbsp;&raquo; (<a href="../_roman/reference/21_2/21_2_livre_12.html#808">II, 12, 808</a>). Il gagne au jeu la bague de <a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a>. Il charge <a href="personnage_hh.html#2_heracle" class="personnage">H&eacute;racle</a> de remettre cette bague &agrave; <a href="#2_isidore" class="personnage">Isidore</a> pour lui dire que son &eacute;poux l'attend &agrave; la Cour. <a href="personnage_hh.html#2_heracle" class="personnage">H&eacute;racle</a> emm&egrave;ne la jeune femme dans un cabinet dans les jardins de l'Empereur. <a href="#2_isidore" class="personnage">Isidore</a> refuse d'entrer. <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> la tire de force  (<a href="../_roman/reference/21_2/21_2_livre_12.html#809">II, 12, 809</a>).</p>
+                <p><a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> essaie d'embrasser <a href="#2_isidore" class="personnage">Isidore</a>. Elle recourt &agrave; la douceur et aux flatteries pour l'arr&ecirc;ter&nbsp;: puisque son &eacute;poux l'a mise entre les mains de l'Empereur (<a href="../_roman/reference/21_2/21_2_livre_12.html#812">II, 12, 812</a>), elle compte sur la g&eacute;n&eacute;rosit&eacute; de l'Empereur, d&eacute;clare-t-elle. Le discours path&eacute;tique d'<a href="#2_isidore" class="personnage">Isidore</a> fl&eacute;chit <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a>. </p>
+                <p>L'Empereur appelle <a href="personnage_hh.html#2_heracle" class="personnage">H&eacute;racle</a> pour qu'il raccompagne <a href="#2_isidore" class="personnage">Isidore</a> chez elle (<a href="../_roman/reference/21_2/21_2_livre_12.html#816">II, 12, 816</a>). L'eunuque alors, dans un discours d'une trentaine de lignes,  excite <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> &agrave; faire ce que bon lui semble (<a href="../_roman/reference/21_2/21_2_livre_12.html#817">II, 12, 817</a>). </p>
+                <p><a href="personnage_hh.html#2_heracle" class="personnage">H&eacute;racle</a> voyant l'h&eacute;sitation de <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a>, met la main sur <a href="#2_isidore" class="personnage">Isidore</a>. Elle lui donne un coup qui le fait saigner du nez. Il la renverse sur le lit,
+                  puis lui attache les bras. <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> en eut &laquo;&nbsp;tout ce qu'il en voulut&nbsp;&raquo; (<a href="../_roman/reference/21_2/21_2_livre_12.html#818">II, 12, 818</a>).</p>
+                <p>Aussit&ocirc;t qu'<a href="personnage_hh.html#2_heracle" class="personnage">H&eacute;racle</a> la d&eacute;tache, <a href="#2_isidore" class="personnage">Isidore</a> se jette sur lui, le frappe et l'&eacute;gratigne. L'eunuque conservera les marques des ongles  &laquo;&nbsp;par
+                  une secrette punition de Dieu&nbsp;&raquo; (<a href="../_roman/reference/21_2/21_2_livre_12.html#839">II, 12, 839</a>).</p>
+                <p><a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> demande pardon  &agrave; <a href="#2_isidore" class="personnage">Isidore</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#819">II, 12, 819</a>). Lorsqu'il lui explique  que <a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a> n'a pas vraiment donn&eacute; sa bague,   et qu'il ne sait rien de ce viol, la jeune femme se calme&nbsp;: elle va pouvoir se venger. Elle demande donc le plus grand secret (<a href="../_roman/reference/21_2/21_2_livre_12.html#820">II, 12, 820</a>). </p>
+                <p><a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a> &laquo;&nbsp;aimoit ceste femme pour sa sagesse, et
+                  pour sa beaut&eacute;&nbsp;&raquo; (<a href="../_roman/reference/21_2/21_2_livre_12.html#821">II, 12, 821</a>). Elle lui raconte le viol, lui montre la bague et le sang d'<a href="personnage_hh.html#2_heracle" class="personnage">H&eacute;racle</a> qui &eacute;tait tomb&eacute; sur elle. <a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a> demande &agrave; <a href="#2_isidore" class="personnage">Isidore</a> de ne pas se tuer pour ne pas d&eacute;plaire &agrave; Dieu. Il  lui promet de la venger. Mari et femme vont feindre en attendant un moment propice. <a href="#2_isidore" class="personnage">Isidore</a> rend la bague &agrave; <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> pour qu'il la remette lui-m&ecirc;me &agrave; <a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#822">II, 12, 822</a>).</p>
+                <p><a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> rend visite &agrave; <a href="#2_isidore" class="personnage">Isidore</a>. Il s'&eacute;tonne de la tristesse de celle qui a perdu &laquo;&nbsp;sa gaillardise&nbsp;&raquo; et sa &laquo;&nbsp;hardiesse&nbsp;&raquo; (<a href="../_roman/reference/21_2/21_2_livre_12.html#833">II, 12, 833</a>). Il s'entend avec <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> pour interroger <a href="#2_isidore" class="personnage">Isidore</a> en faisant semblant que <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> les a mis au courant. <a href="#2_isidore" class="personnage">Isidore</a> s'effondre et raconte le crime de l'Empereur (<a href="../_roman/reference/21_2/21_2_livre_12.html#835">II, 12, 835</a>).</p>
+                <p><a href="#2_isidore" class="personnage">Isidore</a> sugg&egrave;re &agrave; <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> de rendre la pareille &agrave; <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> en se donnant &agrave; <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#836">II, 12, 836</a>). Elle punirait ainsi l'outrage re&ccedil;u par une de ses dames. <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> refuse. </p>
+                <p>M&eacute;contente, <a href="#2_isidore" class="personnage">Isidore</a> poursuit son mari de ses plaintes (<a href="../_roman/reference/21_2/21_2_livre_12.html#838">II, 12, 838</a>). </p>
+                <p><a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a>, parti &agrave; la guerre, tombe malade. <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> se console pr&egrave;s d'<a href="#2_isidore" class="personnage">Isidore</a>. C'est &agrave; <a href="#2_isidore" class="personnage">Isidore</a> qu'<a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> envoie  une lettre pour donner de ses nouvelles (<a href="../_roman/reference/21_2/21_2_livre_12.html#844">II, 12, 844</a>). </p>
+                <p><a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a>, apr&egrave;s la mort d'<a href="personnage_aa.html#2_attila" class="personnage">Attila</a>, d&eacute;cide de venger <a href="#2_isidore" class="personnage">Isidore</a> en passant aux actes (<a href="../_roman/reference/21_2/21_2_livre_12.html#845">II, 12, 845</a>). Comme des ann&eacute;es ont pass&eacute; depuis le viol de la jeune femme, <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> ne se m&eacute;fie plus  (<a href="../_roman/reference/21_2/21_2_livre_12.html#846">II, 12, 846</a>). <a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a> fait assassiner l'Empereur et <a href="personnage_hh.html#2_heracle" class="personnage">H&eacute;racle</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#847">II, 12, 847</a>). Ce n'est pas au sujet de ch&acirc;tier son ma&icirc;tre, note <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a>, le narrateur (<a href="../_roman/reference/21_2/21_2_livre_12.html#847">II, 12, 847</a>).</p>
+                <p> <a href="#2_isidore" class="personnage">Isidore</a> apprend la mort de <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a>.
+                  Elle tient &agrave; voir de ses yeux le cadavre. Elle s'approche du corps d&eacute;capit&eacute;,  se lave les mains dans le sang et tombe morte de joie (<a href="../_roman/reference/21_2/21_2_livre_12.html#848">II, 12, 848</a>).</p>
+                <p><a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> craint que <a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a> ne continue &agrave; venger <a href="#2_isidore" class="personnage">Isidore</a> en s'en prenant &agrave; elle (<a href="../_roman/reference/21_2/21_2_livre_12.html#849">II, 12, 849</a>).</p>
+                <p> <a href="personnage_mm.html#2_maxime" class="personnage">Maxime</a>, qui a &eacute;pous&eacute; <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a>, l'autorise  &agrave; rendre visite &agrave; <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> bless&eacute;&nbsp;: <a href="#2_isidore" class="personnage">Isidore</a> a &eacute;t&eacute; si discr&egrave;te qu'elle n'a pas r&eacute;v&eacute;l&eacute; &agrave; son &eacute;poux les rapports des jeunes gens (<a href="../_roman/reference/21_2/21_2_livre_12.html#854">II, 12, 854</a>).</p>
+                <p><a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> jure &agrave; <a href="personnage_ee.html#2_eudoxe" class="personnage">Eudoxe</a> qu'il l'aime en invoquant &laquo;&nbsp;l'ame de la sage <a href="#2_isidore" class="personnage">Isidore</a> aux Cieux&nbsp;&raquo; (<a href="../_roman/reference/21_2/21_2_livre_12.html#856">II, 12, 856</a>).</p>
+              </div>
+              <br></td>
+            <td class="colonne3">2</td>
+          </tr>
+          <tr>
+            <td class="couleur_histoire" style="background-image:url(../images/personnages/jean.gif)"><a id="j"></a><a id="2_jean"></a>Jean</td>
+            <td class="couleur_deuxieme"><i>Pr&eacute;sent dans&nbsp;:</i> <a href="#2_jean">II</a>
+              <hr>
+              <span class="italics">Premi&egrave;re mention</span>&nbsp;: <a href="../_roman/reference/21_2/21_2_livre_11.html#755">II, 11, 755</a>.
+              <p><span class="italics"> Personnage historique</span>&nbsp;: Premier secr&eacute;taire d'<a href="personnage_hh.html#2_honorius" class="personnage">Honorius</a>, il s'empare de l'Empire avec l'aide de <a href="personnage_cc.html#2_castinus" class="personnage">Castinus</a>. Il est chass&eacute; deux ans apr&egrave;s par les arm&eacute;es de <a href="personnage_tt.html#2_theodose2" class="personnage">Th&eacute;odose&nbsp;II</a> (<a href="bibliographie.html#fauchetr" class="bibliographie">Fauchet</a>, f&deg;&nbsp;86 recto). &laquo;&nbsp;<a href="personnage_tt.html#2_theodose2" class="personnage">Th&eacute;odose</a>, fils d'<a href="personnage_aa.html#2_arcadius" class="personnage">Arcadius</a>, leva une arm&eacute;e contre l'empereur <a href="#2_jean" class="personnage">Jean</a>&nbsp;; il en donna le commandement &agrave; <a href="personnage_aa.html#2_aspar" class="personnage">Aspar</a> et &agrave; Ardaburius, fils d'<a href="personnage_aa.html#2_aspar" class="personnage">Aspar</a>&nbsp;: ceux-ci le vainquirent, le d&eacute;pouill&egrave;rent de la souveraine puissance, et la rendirent au jeune <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a>. Ce dernier [...] lui fit couper une main, l'exposa, mont&eacute; sur un &acirc;ne, dans le cirque d'<a href="repertoire_aa.html#2_aquilee" class="repertoire">Aquil&eacute;e</a>&nbsp;; et, apr&egrave;s l'avoir livr&eacute; de cette mani&egrave;re aux outrages des histrions et de la populace, il lui fit &ocirc;ter la vie&nbsp;&raquo; (<a href="bibliographie.html#procope" class="bibliographie">Procope</a>, III, 2). </p>
+              <p><span class="italics">Nomm&eacute; dans</span>&nbsp;: <a href="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</a>, racont&eacute;e par <a href="personnage_aa.html#2_adamas" class="personnage">Adamas</a> &agrave; <a href="personnage_ll.html#2_leonide" class="personnage">L&eacute;onide</a>, <a href="personnage_aa.html#2_alexis" class="personnage">Alexis</a>,  et un groupe de bergers&nbsp;; <a href="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe, Valentinian et Ursace</a>, racont&eacute;e par <a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a>, puis r&eacute;p&eacute;t&eacute;e par <a href="personnage_ss.html#2_silvandre" class="personnage">Silvandre</a> &agrave; <a href="personnage_ll.html#2_leonide" class="personnage">L&eacute;onide</a>, <a href="personnage_aa.html#2_adamas" class="personnage">Adamas</a>, <a href="personnage_aa.html#2_alexis" class="personnage">Alexis</a>,  et un groupe de bergers.</p>
+              <p><a href="repertoire_qr.html#2_romains" class="repertoire">Romain</a>. Premier secr&eacute;taire d'<a href="personnage_hh.html#2_honorius" class="personnage">Honorius</a>. &Eacute;lu empereur.</p>
+              <hr>
+              <p><a href="personnage_aa.html#2_adamas" class="personnage">Adamas</a>, devant les portraits r&eacute;unis dans sa galerie, raconte&nbsp;: </p>
+              <div class="intercalee">
+                <p class="center_t"><a href="../_roman/reference/21_2/21_2_livre_11.html#histoire_placidie">Histoire de Placidie</a></p>
+                <p>&Agrave; la mort d'<a href="personnage_hh.html#2_honorius" class="personnage">Honorius</a>, <a href="personnage_aa.html#2_aetius" class="personnage">&AElig;tius</a> fait &eacute;lire <a href="#2_jean" class="personnage">Jean</a> pour sonder les r&eacute;actions  avant de prendre sa place (<a href="../_roman/reference/21_2/21_2_livre_11.html#755">II, 11, 755</a>).</p>
+                <p>L'Empereur d'<a href="repertoire_no.html#2_orient" class="repertoire">Orient</a> envoie &agrave; <a href="repertoire_qr.html#2_ravenne" class="repertoire">Ravenne</a> une arm&eacute;e conduite par <a href="personnage_aa.html#2_artabure" class="personnage">Artabure</a>. Quand <a href="personnage_aa.html#2_artabure" class="personnage">Artabure</a> fait naufrage, <a href="#2_jean" class="personnage">Jean</a> le fait emprisonner (<a href="../_roman/reference/21_2/21_2_livre_11.html#756">II, 11, 756</a>). Le fils d'<a href="personnage_aa.html#2_artabure" class="personnage">Artabure</a>, <a href="personnage_aa.html#2_aspar" class="personnage">Aspar</a>, entre dans la ville, lib&egrave;re son p&egrave;re, et fait d&eacute;capiter <a href="#2_jean" class="personnage">Jean</a> (<a href="../_roman/reference/21_2/21_2_livre_11.html#756">II, 11, 756</a>).</p>
+              </div>
+              <br>
+              <div class="intercalee">
+                <p class="center_t"><a href="../_roman/reference/21_2/21_2_livre_12.html#histoire_d_eudoxe">Histoire d'Eudoxe</a></p>
+                <p><a href="personnage_uz.html#2_ursace" class="personnage">Ursace</a> rapporte les m&ecirc;mes faits, mais ajoute une information. <br>
+                  <br>
+                  Lorsque <a href="#2_jean" class="personnage">Jean</a> se fait &eacute;lire, l'Empereur d'<a href="repertoire_no.html#2_orient" class="repertoire">Orient</a> envoie <a href="personnage_pp.html#2_placidie" class="personnage">Placidie</a> et ses enfants en <a href="repertoire_ik.html#2_italie" class="repertoire">Italie</a> pour que <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> devienne empereur (<a href="../_roman/reference/21_2/21_2_livre_12.html#790">II, 12, 790</a>). L'arm&eacute;e d'<a href="personnage_aa.html#2_artabure" class="personnage">Artabure</a> les suit. <a href="personnage_aa.html#2_aspar" class="personnage">Aspar</a> tue <a href="#2_jean" class="personnage">Jean</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#791">II, 12, 791</a>). </p>
+                <p>Quand <a href="personnage_uz.html#2_valentinien" class="personnage">Valentinien</a> tente de violer <a href="#2_isidore" class="personnage">Isidore</a>, la jeune femme &eacute;num&egrave;re les faveurs qu'il a re&ccedil;ues de Dieu&nbsp;: <a href="#2_jean" class="personnage">Jean</a> a &eacute;t&eacute; vaincu par le jeune <a href="personnage_aa.html#2_aspar" class="personnage">Aspar</a> (<a href="../_roman/reference/21_2/21_2_livre_12.html#814">II, 12, 814</a>).</p>
+              </div>
+              <br></td>
+            <td class="colonne3">2</td>
+          </tr>
+          <tr>
+            <td class="colonne1"><a id="k"></a>K</td>
+            <td>Aucune entr&eacute;e ne  commence par <strong>K</strong>.</td>
+            <td class="colonne3">&nbsp;</td>
+          </tr>
+        </table>
+    <!-- #EndEditable -->
+</div>
+</article>
+<script>
+document.getElementById("chk_roman").checked = true;
+</script><!-- #BeginLibraryItem "/Library/control_display_fixed.lbi" -->
+<script>
+	$(DocReady);
+	
+	window.onhashchange = get_r1;
+	
+	$("a").click(function(event)
+	{ //console.log("a clicked ");
+		var href = $(this).attr('href').trim();
+		if (href.substr(0, 4) == 'http') return;
+		var cl = $(this).attr('class').trim();
+		if ((cl == 'plan') || (cl == 'nav1')) return;
+		if ($("#chk_annexe_demandee").is(':checked')) 
+		{ event.preventDefault();
+	  	if (!Get_annotation(href))
+		  	window.location = href;
+		} 
+	})
+	
+	$(window).on("load", AdaptScreen());
+</script><!-- #EndLibraryItem --><footer>
+  <div id="footer">
+<!-- #BeginEditable "Lower buttons go here" -->  <!-- #EndEditable --><!-- #BeginLibraryItem "/Library/doc_fin.lbi" -->    
+<p class="center_t titre9"><a id="citation"></a>
+    <strong>R&eacute;f&eacute;rence &eacute;lectronique&nbsp;:</strong><br>
+      <script>document.write('"'+document.title.substr(0, document.title.indexOf("-")-1)+'". '+"Derni&egrave;re mise &agrave; jour&nbsp;: "+ExtractDate(document.lastModified)+".")</script> 
+<br>
+<em>Deux visages de</em> L'Astr&eacute;e. 
+ &copy;2005-2020 E. Henein.<br>
+URL&nbsp;: <script>
+var today = new Date();
+document.write(document.URL + 
+"<br>Consult&eacute; le : " + today.toLocaleDateString("fr-FR") + ".");
+</script></p>
+<div style="height:800px">&nbsp;</div>
+<p class="center_t titre9">    
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19288475-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><em>Deux visages de</em> L'Astr&eacute;e. 
+ &copy;2005-2019 Eglal Henein. Creative Commons 4 <img src="../images/by-nc-nd.jpg" style="width:60px; height:21px;" alt="byncnd"><br>
+&Eacute;dition critique de la premi&egrave;re partie de <em>L'Astr&eacute;e</em> (1607, 1621)<br>
+mise en ligne le 9 avril 2007<br>
+&Eacute;dition critique de la deuxi&egrave;me partie de <em>L'Astr&eacute;e</em> (1610, 1621)<br>
+mise en ligne le 10 octobre 2010 <br>
+&Eacute;dition critique de la troisi&egrave;me partie de <em>L'Astr&eacute;e</em> (1619, 1621)<br>
+mise en ligne le 1er novembre 2014<br>
+
+&Eacute;dition critique de la quatri&egrave;me partie de <em>L'Astr&eacute;e</em> (1624)<br>
+mise en ligne le 15 janvier 2019<br>
+</p>
+<p class="center_t italics">	  
+	<script>document.write("Derni&egrave;re mise &agrave; jour&nbsp;: "+ExtractDate(document.lastModified))
+	</script>
+</p>
+
+<!-- Default Statcounter code for Deux Visages
+https://astree.univ-rouen.fr -->
+<script type="text/javascript">
+var sc_project=3653842; 
+var sc_invisible=1; 
+var sc_security="ff07cacf"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/3653842/0/ff07cacf/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
+<!-- #EndLibraryItem --></div>
+</footer>
+</div> <!-- of document -->
+</body>
+<!-- #EndTemplate --></html>
