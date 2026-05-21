@@ -98,23 +98,23 @@
     
     <xsl:template match="tei:ref">
         <span><a href="#">            
-            <xsl:attribute name="data-url">
-                <xsl:value-of select="@target"/>
-            </xsl:attribute>
-            <xsl:apply-templates/>
+                <xsl:attribute name="data-url">
+                    <xsl:value-of select="@target"/>
+                </xsl:attribute>
+                <xsl:apply-templates/>
         </a></span>
     </xsl:template>
     
     <xsl:template match="tei:note[@ana='remarque']">
         <div class="remarque">
-            <strong>Remarque :</strong>
+            <strong>Remarque: </strong>
             <xsl:apply-templates/>
         </div>
     </xsl:template>
     
     <xsl:template match="tei:note[@ana='variante']">
         <div class="variante">
-            <strong>Variante :</strong>
+            <strong>Variante: </strong>
             <xsl:apply-templates/>
         </div>
     </xsl:template>

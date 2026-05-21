@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Répertoire D</title>
+            <title>Répertoire I, J, K</title>
          </titleStmt>
          <publicationStmt>
             <authority>Lune Wagner</authority>
@@ -17,692 +17,745 @@
    <text>
       <body>
          <div>
-            <note xml:id="danae_4" n="4" ana="histoire">
-               <label>Danae</label>
-               <mentioned>Mentionnée dans:<ref target="#4_danae">IV</ref></mentioned><p>
-                  <rs type="repertoire" ref="repertoire_ik.xml#4_jupiter">Jupiter</rs>, amoureux d'une jeune fille enfermée par
-son père dans une tour se transforme en pluie d'or pour la séduire.
-Les mythographes rapportent cette métamorphose pour expliquer la
-naissance merveilleuse de Persée, demi-dieu. De très nombreux
-peintres ont représenté la pluie qui se déverse sur Danaé (Voir par
-exemple le site de <ref target="https://fr.wikipedia.org/wiki/Dana%C3%A9">Wikipédia</ref>, 8 décembre 2016).
-L'aventure est une façon imagée de dire la vénalité. <quote>Jupiter
-se changea en pluie d'or pour jouïr de Danaé, c'est à dire, à force
-d'argent</quote>, affirme <bibl source="bibliographie.xml#furetiere">Furetière</bibl> dans son <emph>Dictionnaire</emph>
-(Article <emph>Pluie</emph>). <bibl source="bibliographie.xml#ronsard">Ronsard</bibl>, plus nuancé, écrit que l'or qui
-dompte tout trompe la vertu de Danaé (<emph>Sonnets pour Hélène</emph>,
-sonnet 48. Éd. Blanchemain, I, p. 307).
-• <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> recourt à ce mythe pour expliquer comment
-<persName ref="personnage_bb.xml#4_bellimarte">Bellimarte</persName> a réussi à se faire agréer par toute la
-maisonnée - y compris par le père de la jeune fille (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#312">IV, 2,
-312</ref>).</p>
-            </note>
-            <note xml:id="danois_2" n="2" ana="histoire">
-               <label>Danois</label>
-               <mentioned>Mentionnés dans:<ref target="#2_danois">II</ref></mentioned><p>
-Peuple d'origine germanique<note target="note_analyses.html#germains"/>. Au IVesiècle,
-l'Empire hunnique allait jusqu'à la mer Baltique.</p>
-               
-               <p>
-• Peuple associé aux <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs> et conduit par <persName ref="personnage_aa.xml#2_attila">Attila</persName>
-(<ref target="../_roman/reference/21_2/21_2_livre_12.xml#824">II, 12,
-824</ref>).</p>
-            </note>
-            <note xml:id="danube" n="1" ana="geographie">
-               <label>Danube</label>
-               <mentioned>Mentionné dans:<ref target="#danube">I</ref></mentioned><p>
-Ce fleuve qui marque la limite de l'<rs type="repertoire" ref="repertoire_ee.xml#2_empire_romain">Empire
-romain</rs> est le plus long des fleuves nommés dans <emph>L'Astrée</emph>.</p>
-               
-               <p>
-• Le fait que <persName ref="personnage_cc.xml#cleomir">Cleomir</persName> se rende jusqu'au Danube, au service
-d'<persName ref="personnage_aa.xml#amasis">Amasis</persName>, indique son dévouement (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#63_verso">I, 3, 63
-verso</ref>).</p>
-            </note>
-            <note xml:id="daphne_m" n="1" ana="mythologie">
-               <label>Daphne</label>
-               <mentioned>Mentionnée dans:<ref target="#daphne_m">I</ref>,
-<ref target="#3_daphne_m">III</ref></mentioned><p>
-Mythologie. Nymphe dont le nom signifie <quote>laurier</quote>.
-Aimée par <rs type="repertoire" ref="repertoire_aa.xml#apollon">Apollon</rs>, elle lui résiste et obtient d'être
-transformée en laurier (<bibl source="bibliographie.xml#ovide">Ovide</bibl>, I, 452-567).</p>
+            <note xml:id="icare" n="1" ana="mythologie">
+               <label>Icare</label>
+               <mentioned>Mentionné dans:<ref target="#icare">I</ref>, <ref target="#2_icare">II</ref>, <ref target="#3_icare">III</ref></mentioned><p>
+Mythologie. Fils de <rs type="repertoire" ref="repertoire_dd.xml#dedale">Dédale</rs> et prisonnier avec lui du labyrinthe. Le
+jeune homme s'approche trop du soleil avec les ailes que son père a
+collées sur ses épaules. Il tombe dans la mer Égée -dont un
+bras s'appelle depuis mer Icarienne.</p>
                <list>
                   <item>
                <p>
-Dans un madrigal de <persName ref="personnage_ff.xml#filandre">Filandre</persName>, <rs type="repertoire" ref="repertoire_aa.xml#amour">Amour</rs> rend <rs type="repertoire" ref="repertoire_aa.xml#apollon">Apollon</rs>
-amoureux de Daphné pour prouver sa puissance (<ref target="../_roman/reference/21_1/21_1_livre_6.xml#165_recto">I, 6, 165
+<persName ref="personnage_ss.xml#silvandre">Silvandre</persName>, un enfant trouvé amoureux de la Bergère
+<persName ref="personnage_dd.xml#diane">Diane</persName>, se
+juge trop ambitieux et évoque ce mythe dans un poème où il traite
+ses espoirs d'Icares (<ref target="../_roman/reference/21_1/21_1_livre_8.xml#222_verso">I, 8, 222
+verso</ref>) et d'<rs type="repertoire" ref="#ixion">Ixions</rs>.</p>
+                  </item>
+                  <item>
+               <p>
+Le châtiment d'Icare peint par Carlo Saraceni (1579- 1620)
+se trouve dans ce <ref target="http://dedaleeticare2.canalblog.com/archives/2009/01/20/12161604.xml">site</ref> (8 mars 2019).</p>
+                  </item>
+               </list>
+            </note>
+            <note xml:id="icare_2" n="2" ana="mythologie">
+               <label>Icare</label>
+               <mentioned>Mentionné dans:<ref target="#icare">I</ref>, <ref target="#2_icare">II</ref>, <ref target="#3_icare">III</ref></mentioned><p>
+Mythologie. Dans la deuxième partie, ce mythe reste attaché à
+<persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName>, mais de manière indirecte.</p>
+               <list>
+                  <item>
+               <p>
+Le Berger répète un récit fait par <persName ref="personnage_uz.xml#2_ursace">Ursace</persName>
+lorsqu'il évoque Icare. <persName ref="personnage_uz.xml#2_ursace">Ursace</persName> est alors, comme <persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName>,
+un <quote>ver de terre amoureux d'une étoile</quote> (Hugo,
+<emph>Ruy Blas</emph>, II, 2). Les deux hommes donc
+s'associent avec Icare.</p>
+                  </item>
+                  <item>
+               <p>
+<persName ref="personnage_uz.xml#2_ursace">Ursace</persName> se nomme au moment où il explique à
+<persName ref="personnage_ee.xml#2_eudoxe">Eudoxe</persName>
+le tableau représentant Icare (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#777">II, 12, 777</ref>).
+Ce chevalier qui ose aimer la fille de l'Empereur admire <quote>le
+courage bien genereux</quote> d'Icare (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#778">II, 12,
+778</ref>).</p>
+                  </item>
+               </list>
+            </note>
+            <note xml:id="icare_3" n="3" ana="mythologie">
+               <label>Icare</label>
+               <mentioned>Mentionné dans:<ref target="#icare">I</ref>, <ref target="#2_icare">II</ref>, <ref target="#3_icare">III</ref></mentioned><p>
+Icare est désigné par une périphrase: <quote>Ce garçon [...]
+qui ne creut à son pere</quote> (<ref target="../_roman/reference/21_3/21_3_livre_1.xml#7_recto">III, 1, 7
 recto</ref>).</p>
                <p>
-                  <note ana="remarque">Comme <persName ref="personnage_ff.xml#filandre">Filandre</persName> est
-un Berger travesti, il se peut que d'Urfé songe à un épisode moins
-connu du mythe de Daphné, une aventure qui précède la
-métamorphose:
-Un prince s'habille en femme pour vivre près de Daphné. Lorsque la
-Nymphe découvre cette ruse, elle essaie de tuer ce prince que les
-dieux protègent
-(Pierre<bibl source="bibliographie.xml#grimal">Grimal</bibl>, Article <emph>Daphné</emph>).</note>
-               </p>
-                  </item>
-                  <item>
-               <p>
-On peut voir la sculpture de Bernini (1598 - 1680) représentant
-la métamorphose de Daphné dans ce <ref target="http://digilander.libero.it/debibliotheca/Arte/bernini/bernini_apollo_and_daphne.jpg">site</ref> (30 septembre 2010).</p>
-                  </item>
-               </list>
+C'est encore <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName> qui évoque ce mythe parce qu'<quote>il
+ayme en lieu trop haut</quote>.</p>
             </note>
-            <note xml:id="daphne_m_3" n="3" ana="mythologie">
-               <label>Daphne</label>
-               <mentioned>Mentionnée dans:<ref target="#daphne_m">I</ref>, <ref target="#3_daphne_m">III</ref></mentioned><p>
-                  <note ana="variante">Dans le discours volontairement ambigu de
-<persName ref="personnage_dd.xml#3_delie">Délie</persName>,
-l'édition de 1621 remplace le <emph>Daphnide</emph> de l'édition de
-1619 par <emph>Daphné</emph> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#82_recto">III, 3, 82
-recto</ref>).</note>
-               </p>
-               <p>
-• Daphné est une <quote>nymphe</quote> qui serait inférieure à la
-déesse <rs type="repertoire" ref="#3_diane_m">Diane</rs>. Mais
-<persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName> aussi pourrait être supérieure à sa sœur,
-<persName ref="personnage_dd.xml#3_delie">Délie</persName>,
-qui porte l'un des surnoms de la déesse <rs type="repertoire" ref="#3_diane_m">Diane</rs>.</p>
+            <note xml:id="ida" n="1" ana="mythologie">
+               <label>Ida</label>
+               <mentioned>Mentionné dans:<ref target="#ida">I</ref></mentioned><p>
+Mythologie. <rs type="repertoire" ref="#jupiter">Jupiter</rs> a
+grandi en Crète, sur le Mont Ida.</p>
                
                <p>
-                  <note ana="remarque">Les noms de <emph>Daphné</emph> et de
-<emph>Daphnide</emph> conviennent fort bien à la situation des
-personnages.
-Cependant, comme cette<emph>Daphné</emph>/<emph>Daphnide</emph> va se laisser séduire par le Roi,
-la variante attire l'attention du lecteur sur ce qui distingue
-<emph>Daphnide</emph> de la mythique <emph>Daphné</emph>: <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName>
-n'est pas <rs type="repertoire" ref="#3_daphne_m">Daphné</rs>, elle
-a seulement la forme d'une <emph>Daphné</emph>.
-Le <quote>suffixe <emph>ide</emph> signifie en forme de, et [...] vient
-du mot grec signifiant forme</quote> (<bibl source="bibliographie.xml#littre">Littré</bibl>).</note>
+• Dans les <quote>peintures esclatantes</quote>, <rs type="repertoire" ref="repertoire_gg.xml#ganymede">Ganymède</rs> est
+vêtu comme les habitants de l'Ida, c'est-à-dire comme les
+Bergers.</p>
+            </note>
+            <note xml:id="iponne_2" n="2" ana="geographie">
+               <label>Iponne</label>
+               <mentioned>Mentionnée dans:<ref target="#2_iponne">II</ref></mentioned><p>
+Il s'agit de la ville d'Hippone en <rs type="repertoire" ref="repertoire_aa.xml#2_afrique">Afrique</rs> du
+Nord, aujourd'hui Annaba en Algérie. Les <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs>
+assiègent la ville. <quote>Après avoir perdu beaucoup de temps
+devant Hippone, sans pouvoir ni l'emporter d'assaut ni la forcer à
+capituler, la famine les obligea de lever le siège</quote> (<bibl source="bibliographie.xml#procope">Procope</bibl>,
+III, 5).</p>
+               
+               <p>
+• <persName ref="personnage_aa.xml#2_augustin">Augustin</persName> est l'évêque de cette ville quand
+<persName ref="personnage_gg.xml#2_genseric">Genséric</persName> envahit la région (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#761">II, 11,
+761</ref>).</p>
+            </note>
+            <note xml:id="isere" n="1" ana="geographie">
+               <label>Isere</label>
+               <mentioned>Mentionnée dans:<ref target="#isere">I</ref>, <ref target="#2_isere">II</ref></mentioned><p>
+Affluent de la rive gauche du <rs type="repertoire" ref="repertoire_qr.xml#rhone">Rhône</rs> au cours très irrégulier.</p>
+               
+               <p>
+•<persName ref="personnage_hh.xml#hylas">Hylas</persName> nomme l'Isère quand il énumère les rivières
+qui grossissent le <rs type="repertoire" ref="repertoire_qr.xml#rhone">Rhône</rs> (<ref target="../_roman/reference/21_1/21_1_livre_8.xml#243_recto">I, 8, 243
+recto</ref>).</p>
+            </note>
+            <note xml:id="isere_2" n="2" ana="geographie">
+               <label>Isere</label>
+               <mentioned>Mentionnée dans:<ref target="#isere">I</ref>, <ref target="#2_isere">II</ref></mentioned><p>
+Écrit <emph>Iseré</emph>.</p>
+               
+               <p>
+• Dans la deuxième partie, <persName ref="personnage_cc.xml#2_celadon">Céladon</persName>, en allant en <rs type="repertoire" ref="#2_italie">Italie</rs>, traverse cette rivière (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#636">II, 10,
+636</ref>).</p>
+            </note>
+            <note xml:id="iseron_4" n="4" ana="geographie">
+               <label>Iseron</label>
+               <mentioned>Mentionnée dans:<ref target="#4_iseron">IV</ref></mentioned><p>
+On écrit aujourd'hui <emph>Izeron</emph>. C'est une commune sur
+l'Isère, à 28km de Grenoble et à 38km de Lyon (Voir
+l'article de <ref target="https://fr.wikipedia.org/wiki/Aqueduc_de_l%27Yzeron">Wikipédia</ref> sur l'aqueduc antique de l'Yzeron, 11
+janvier 2017).</p>
+               
+               <p>
+• <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> et <persName ref="personnage_ss.xml#4_sigismond">Sigismond</persName>,
+par prudence, se donnent un second point de rencontre, le pont qui
+est sur le chemin du village d'Izeron (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#881">IV, 4,
+881</ref>).</p>
+            </note>
+            <note xml:id="isis_3" n="3" ana="mythologie">
+               <label>Isis</label>
+               <mentioned>Mentionnée dans:<ref target="#3_isis">III</ref></mentioned><p>
+Quand il parle du Temple d'Isis, <bibl source="bibliographie.xml#plutarque_isis">Plutarque</bibl> affirme: <quote>Le nom même du
+temple annonce clairement qu'on y trouve la connaissance et
+l'intelligence de l'Être suprême</quote> (2). Les néo-platoniciens,
+comme Apulée, révèrent Isis. Cette déesse égyptienne est bien
+connue en Europe. Elle a été vénérée à Lausanne et à Baden
+(<bibl source="bibliographie.xml#flutsch">Flutsch</bibl>, p.119). Une église du
+<quote>Chablais estoit autrefois le Temple de la deesse Isis</quote>
+(<bibl source="bibliographie.xml#guichenon_savoie">Guichenon</bibl>, I, p.24). Isis serait le nom
+que l'Égypte donnait à <rs type="repertoire" ref="repertoire_cc.xml#3_ceres">Cérès</rs> (<bibl source="bibliographie.xml#equicola">Equicola</bibl>, Livre 3, f°171
+recto).</p>
+               <p>
+Confondue avec la Vierge noire, Isis aurait même eu des autels en
+<rs type="repertoire" ref="repertoire_ff.xml#3_forez">Forez</rs>,
+près de <rs type="repertoire" ref="repertoire_mm.xml#3_montbrison">Montbrison</rs>. Des chercheurs d'étymologies ont cru
+trouver <emph>Isis</emph> dans <emph>Issy</emph>.</p>
+               <p>
+Honoré d'Urfé s'est inspiré principalement du moine <bibl source="bibliographie.xml#abbon">Abbon</bibl>
+(850?- 922), parce que c'est lui qui relie Isis et la
+ville de <rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs>. <bibl source="bibliographie.xml#abbon">Abbon</bibl> explique dès sa première phrase que le
+nom de <rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs> vient de <quote>la célèbre ville
+d'Isia</quote>, c'est-à-dire d'Athènes. Lutèce est <emph>par
+Isiae,</emph> <quote>pareille à Isia</quote>, <rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs>
+(<bibl source="bibliographie.xml#heneinf">Henein</bibl>, p.77).</p>
+               
+               <p>
+• Dans le temple d'Isis, un oracle promet que <rs type="repertoire" ref="repertoire_pp.xml#3_paris_ville">Paris</rs>
+deviendra la capitale quand les <rs type="repertoire" ref="repertoire_ff.xml#3_francs">Francs</rs>
+régneront en <rs type="repertoire" ref="repertoire_gg.xml#3_gaule">Gaule</rs> (<ref target="../_roman/reference/21_3/21_3_livre_12.xml#510_recto">III, 12,
+510 recto</ref>).</p>
+               
+               <p>
+                  <note ana="variante">Épisode ajouté après l'édition de
+1619.</note>
                </p>
             </note>
-            <note xml:id="dedale" n="1" ana="mythologie">
-               <label>Dedale</label>
-               <mentioned>Mentionné dans:<ref target="#dedale">I</ref></mentioned><p>
-Mythologie. Cet architecte athénien, à la demande du roi Minos,
-construit un labyrinthe en tant que prison pour abriter le
-Minotaure. Dédale suggère à <rs type="repertoire" ref="repertoire_aa.xml#adriane">Ariane</rs> la ruse du fil qui permettra à Thésée
-de sortir du labyrinthe après avoir tué le Minotaure. Le roi alors
-enferme Dédale et son fils, <rs type="repertoire" ref="repertoire_ik.xml#icare">Icare</rs>, dans cette prison (<bibl source="bibliographie.xml#ovide">Ovide</bibl>, VIII,
-159-234).</p>
-               <p>
-Dédale est un nom commun dans <bibl source="bibliographie.xml#huguet">La Curne de Sainte-Palaye</bibl> (Article
-<emph>Dedalu</emph>) ou dans <bibl source="bibliographie.xml#furetiere">Furetière</bibl>
-(<quote>On le dit aussi figurément d'un grand embarras</quote>,
-Article <emph>Dédale</emph>), mais non dans
-<bibl source="bibliographie.xml#huguet">Huguet</bibl>. <bibl source="bibliographie.xml#guizot">Guizot</bibl> fait une distinction intéressante
-dans son <emph>Dictionnaire des
-synonymes</emph>: <quote>Selon sa valeur primitive,
-labyrinthe désigne le dessin de l'ouvrage; dédale marque
-l'habileté de l'ouvrier</quote> (Article <emph>Dédale</emph>). Il ajoute: <quote>Dédale est un mot
-noble; labyrinthe est un mot commun à tous les
-styles</quote>.</p>
+            <note xml:id="isoure" n="1" ana="geographie">
+               <label>Isoure</label>
+               <mentioned>Mentionné dans:<ref target="#isoure">I</ref>, <ref target="#2_isoure">II</ref>, <ref target="#4_isoure">IV</ref></mentioned><p>
+Le palais de <persName ref="personnage_gg.xml#galathee">Galathée</persName> se trouve dans ce lieu qu'il faut
+<quote>identifier avec le château de Chalain d'Uzore</quote>,
+affirme Maxime <bibl source="bibliographie.xml#gaumei">Gaume</bibl> (p.200). Une des cartes modernes du
+<rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs>
+situe ce château assez loin du <rs type="repertoire" ref="repertoire_ll.xml#lignon">Lignon</rs> (Voir <ref target="cartotheque.xml#carte_forez">Cartothèque</ref>).</p>
                <list>
                   <item>
                <p>
-<quote>Dédale</quote> et <quote>Labyrinthe</quote> sont des noms
-communs dans <emph>L'Astrée</emph>. Le premier a un
-sens concret, le second un sens figuré.</p>
+Dans sa préface (<ref target="../_roman/reference/21_1/21_1_liminaires.xml#autheur_a_bergere">
+                     <emph>L'Autheur
+à la Bergere Astrée</emph>
+                  </ref>), d'Urfé suggère un parallèle entre le
+Mont d'Isoure et le <rs type="repertoire" ref="repertoire_pp.xml#parnasse">Parnasse</rs>, lieu de rencontre des muses.</p>
+                  </item>
+                  <item>
                <p>
-Les jardins d'<rs type="repertoire" ref="repertoire_ik.xml#isoure">Isoure</rs>, dans le palais de <persName ref="personnage_gg.xml#galathee">Galathée</persName>,
-forment un <quote>gratieux Dedale</quote> (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#22_verso">I, 2, 22
+Le romancier décrit les somptueuses décorations intérieures, les
+<quote>peintures esclatantes</quote> (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#26_verso">I, 2, 26
+verso</ref>), ainsi que les étranges décorations du jardin (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#22_verso">I, 2, 22
+verso</ref>) et de la fontaine de la Vérité d'amour (<ref target="../_roman/reference/21_1/21_1_livre_11.xml#367_verso">I, 11, 367
 verso</ref>).</p>
-               <p>
-Le <quote>dangereux Labyrinthe</quote> est celui des pensées
-d'<persName ref="personnage_aa.xml#astree">Astrée</persName>
-(<ref target="../_roman/reference/21_1/21_1_livre_3.xml#49_recto">I,
-3, 49 recto</ref>).</p>
                   </item>
                   <item>
                <p>
-Voir la chute d'<rs type="repertoire" ref="repertoire_ik.xml#icare">Icare</rs> de Carlo Saraceni (1579 -1620) dans ce
-<ref target="http://p6.storage.canalblog.com/67/73/562116/34946856.jpg">site</ref> (10 avril 2015).</p>
+Il donne au château un pont-levis (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#22_verso">I, 2, 22
+verso</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+Une <ref target="../_roman/fonctionnelle/fonctionnelle_1/fonctionnelle_1_livre_3.xml#gravure">
+gravure</ref> de <emph>L'Astrée</emph> montre la façade et les jardins du
+château. Une photo ancienne de Chalain d'Uzore est dans ce <ref target="http://p1.storage.canalblog.com/14/02/335947/15731087.jpg">site</ref> (21 avril 2015).</p>
                   </item>
                </list>
             </note>
-            <note xml:id="demond_3" n="3" ana="mythologie">
-               <label>Demon de Sorgues</label>
-               <mentioned>Mentionné dans:<ref target="#3_demond">III</ref></mentioned><p>
-Mythologie. L'épopée représente les fleuves sous forme de Démons.
-Honoré d'Urfé s'inspire du Scamandre d'<bibl source="bibliographie.xml#homere">Homère</bibl>
-(<emph>L'Iliade</emph>, ch. XXI). L'ensemble du récit s'inspire des
-<emph>Lettres de Vaucluse</emph> de <bibl source="bibliographie.xml#petrarque_vaucluse">Pétrarque</bibl>, et d'une vision rapportée par
-<bibl source="bibliographie.xml#petrarque_afrique">Pétrarque</bibl> lui-même dans son épopée,
-<emph>L'Afrique</emph> (<bibl source="bibliographie.xml#heneinf">Henein</bibl>, pp.103-104).</p>
-               
-               <p>
-Le Démon de <emph>L'Astrée</emph> est nommé par <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> quand
-il raconte à Adamas l'<ref target="../_roman/reference/21_3/21_3_livre_3.xml#h_euric">Histoire
-d'Euric, Daphnide, et Alcidon</ref>.</p>
+            <note xml:id="isoure_2" n="2" ana="geographie">
+               <label>Isoure</label>
+               <mentioned>Mentionné dans:<ref target="#isoure">I</ref>, <ref target="#2_isoure">II</ref>, <ref target="#4_isoure">IV</ref></mentioned><p>
+D'après <bibl source="bibliographie.xml#la_mure">La Mure</bibl>, ce lieu, <quote>un beau Theatre au
+milieu d'un grand Cirque</quote>, se nommerait <quote>tantost Uzore,
+et tantost Izore</quote>, en hommage à <rs type="repertoire" ref="#3_isis">Isis</rs> et Osiris (I, p.149).</p>
                <list>
                   <item>
                <p>
-En revenant de sa première visite chez <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName>, un
-soir d'orage, dans une vallée<note target="note_3.html#3_vallee"/>, le chevalier voit apparaître un vieillard<note target="note_3.html#3_vieillard"/> entouré de <rs type="repertoire" ref="repertoire_no.xml#3_nayades">Naïades</rs>
-                  <note target="note_3.html#3_nayades"/> qui l'honorent.</p>
+Honoré d'Urfé rappelle que le palais de <persName ref="personnage_gg.xml#2_galathee">Galathée</persName> s'y
+trouve (<ref target="../_roman/reference/21_2/21_2_livre_7.xml#451">II, 7, 451</ref>,
+<ref target="../_roman/reference/21_2/21_2_livre_8.xml#490">II, 8,
+490</ref>), que <persName ref="personnage_ll.xml#2_leonide">Léonide</persName> en est sortie (<ref target="../_roman/reference/21_2/21_2_livre_7.xml#469">II, 7, 469</ref>) et
+surtout que <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> y était (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#503">II, 8,
+503</ref>; <ref target="../_roman/reference/21_2/21_2_livre_10.xml#649">II, 10,
+649</ref>; <ref target="../_roman/reference/21_2/21_2_livre_10.xml#651">II, 10,
+651</ref>; <ref target="../_roman/reference/21_2/21_2_livre_10.xml#659">II, 10,
+659</ref>; <ref target="../_roman/reference/21_2/21_2_livre_10.xml#669">II, 10,
+669</ref>).</p>
+                  </item>
+                  <item>
                <p>
-                  <note ana="variante">Elles lui baisent le genou en 1619, mais
-la main dans les éditions suivantes (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#101_verso">III, 3, 101
+<rs type="repertoire" ref="repertoire_mm.xml#2_montverdun">Montverdun</rs> se trouve entre le <rs type="repertoire" ref="repertoire_ll.xml#2_lignon">Lignon</rs> et la
+montagne d'Isoure. Le pic d'Isoure, celui de <rs type="repertoire" ref="repertoire_mm.xml#2_montverdun">Montverdun</rs>
+et celui de <rs type="repertoire" ref="repertoire_mm.xml#2_marcilly">Marcilly</rs> forment un <quote>triangle parfait</quote>
+(<ref target="../_roman/reference/21_2/21_2_livre_8.xml#492">II, 8,
+492</ref>), équilatéral.</p>
+                  </item>
+                  <item>
+               <p>
+Dans un poème, <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> parle des bois d'Isoure (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#620">II, 10, 620</ref>)
+que l'on voit de la maison d'<persName ref="personnage_aa.xml#2_adamas">Adamas</persName> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#649">II, 10,
+649</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+Voir la <ref target="cartotheque.xml#carte_forez">carte du
+Forez</ref>.</p>
+                  </item>
+               </list>
+            </note>
+            <note xml:id="isoure_4" n="4" ana="geographie">
+               <label>Isoure</label>
+               <mentioned>Mentionné dans:<ref target="#isoure">I</ref>, <ref target="#2_isoure">II</ref>, <ref target="#4_isoure">IV</ref></mentioned><p>
+Écrit <emph>Issoure</emph>. Jacques<note target="note_analyses.html#jacques"/> d'Urfé fait construire une chappelle dédiée à sainte
+Geneviève sur le mont d'Isoure (La Mure / A.<bibl source="bibliographie.xml#bernard">Bernard</bibl>,
+p.71), lorsqu'il se retirera en <rs type="repertoire" ref="repertoire_ff.xml#4_forez">Forez</rs>, après
+1627.</p>
+               
+               <p>
+• Des bergers armés s'assemblent dans cette forêt (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#383">IV, 3,
+383</ref>).</p>
+            </note>
+            <note xml:id="italie" n="1" ana="geographie">
+               <label>Italie</label>
+               <mentioned>Mentionnée dans:<ref target="#italie">I</ref>, <ref target="#2_italie">II</ref>, <ref target="#3_italie">III</ref></mentioned><p>
+                  <persName ref="personnage_cc.xml#celadon">Céladon</persName>
+a visité l'<rs type="repertoire" ref="#2_italie">Italie</rs>
+(<ref target="../_roman/reference/21_1/21_1_livre_1.xml#9_verso">I, 1,
+9 verso</ref>), mais le récit de ce voyage se fera plus tard. C'est
+<rs type="repertoire" ref="repertoire_qr.xml#rome">Rome</rs> ou
+les <rs type="repertoire" ref="repertoire_qr.xml#romains">Romains</rs> que d'Urfé mentionne dans la première
+partie pour parler de l'Italie médiévale.</p>
+            </note>
+            <note xml:id="italie_2" n="2" ana="geographie">
+               <label>Italie</label>
+               <mentioned>Mentionnée dans:<ref target="#italie">I</ref>, <ref target="#2_italie">II</ref>, <ref target="#3_italie">III</ref></mentioned><p>
+L'histoire de l'Italie est sinistre: Les <rs type="repertoire" ref="repertoire_hh.xml#2_huns">Huns</rs>, écrit
+<bibl source="bibliographie.xml#jordanes">Jordanès</bibl>, font <quote>de l'Italie presque
+entière un monceau de ruines</quote> (ch.XLII). <quote>Le sol
+barbare avait vomi, comme la lave de l'Etna, ses enfants sur notre
+territoire</quote>, déclare <bibl source="bibliographie.xml#ammien">Ammien Marcellin</bibl> (XXXI,
+ch.4).</p>
+               <list>
+                  <item>
+               <p>
+Nous ne saurons rien du séjour de <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> en
+Italie et de son retour, mise à part la rencontre d'<persName ref="personnage_uz.xml#2_ursace">Ursace</persName> et
+d'<persName ref="personnage_no.xml#2_olimbre">Olimbre</persName>.</p>
+               <p>
+                  <note ana="remarque">Le périple du Berger rappelle pourtant
+le bruit et la fureur des voyages de son père, <persName ref="personnage_aa.xml#alcippe">Alcippe</persName>
+(<ref target="../_roman/reference/21_1/21_1_livre_2.xml">I,
+2)</ref>;
+le père agissait alors que le fils se contente de réagir.
+Celui qui espérait voir un volcan éteint (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#637">II, 10, 637</ref>)
+se retrouve dans un univers en train d'exploser.</note>
+               </p>
+                  </item>
+                  <item>
+               <p>
+<quote>L'<rs type="repertoire" ref="#2_italie">Italie</rs> est la
+province la plus belle du monde</quote> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#636">II, 10, 636</ref>),
+déclare <persName ref="personnage_cc.xml#2_celadon">Céladon</persName> quand il commence à raconter le voyage qui
+lui a été imposé (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#647">II, 10, 647</ref>).
+Il arrive dans ce pays à un bien mauvais moment! Un barbare
+(<persName ref="personnage_gg.xml#2_genseric">Genséric</persName>) vient de ravager la région (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#637">II, 10, 637</ref>).
+L'Italie est misérable (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#639">II, 10, 639</ref>),
+tout juste encore entière (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#738">II, 11, 738</ref>).
+<persName ref="personnage_aa.xml#2_alaric">Alaric</persName>
+a saccagé <rs type="repertoire" ref="repertoire_qr.xml#rome">Rome</rs> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#739">II, 11, 739</ref>)
+et son successeur la menace (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#742">II, 11,
+742</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+<persName ref="personnage_pp.xml#2_placidie">Placidie</persName> défend chaleureusement la cause de sa
+patrie auprès de son époux, <persName ref="personnage_aa.xml#2_ataulfe">Ataulphe</persName>, roi des <rs type="repertoire" ref="repertoire_uz.xml#visigoths">Wisigoths</rs>
+(<ref target="../_roman/reference/21_2/21_2_livre_11.xml#741">II, 11,
+741</ref> à <ref target="../_roman/reference/21_2/21_2_livre_11.xml#744">II, 11, 744</ref>).
+Quand il est assassiné, elle retourne en Italie (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#746">II, 11, 746</ref>).
+Elle quitte sa patrie de nouveau parce qu'elle est mécontente de la
+conduite d'<persName ref="personnage_hh.xml#2_honorius">Honorius</persName>, son frère (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#753">II, 11,
+753</ref>; <ref target="../_roman/reference/21_2/21_2_livre_12.xml#775">II, 12, 775</ref>).
+Elle y revient avec son fils, <persName ref="personnage_uz.xml#2_valentinien">Valentinien</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#793">II, 12, 793</ref>)
+et y meurt (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#763">II, 11,
+763</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+<persName ref="personnage_uz.xml#2_valentinien">Valentinien</persName>, devenu Empereur d'<rs type="repertoire" ref="repertoire_no.xml#2_occident">Occident</rs>,
+amène <persName ref="personnage_ee.xml#2_eudoxe">Eudoxe</persName>, son épouse, en Italie (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#803">II, 12, 803</ref>).
+<persName ref="personnage_uz.xml#2_ursace">Ursace</persName>
+les accompagne (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#804">II, 12, 804</ref>)
+puis se bat dans l'armée d'<persName ref="personnage_aa.xml#2_aetius">Ætius</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#831">II, 12, 831</ref>).
+Au retour, <rs type="repertoire" ref="repertoire_qr.xml#rome">Rome</rs> et l'Italie les honorent (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#833">II, 12,
+833</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+L'Italie est un champ de bataille (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#791">II, 12, 791</ref>).
+À cause de sa <quote>fertilité</quote> et de ses
+<quote>richesses</quote> (<ref target="../_roman/reference/21_2/21_2_livre_11.xml#755">II, 11, 755</ref>),
+<persName ref="personnage_aa.xml#2_attila">Attila</persName>
+la convoite puis l'attaque (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#805">II, 12,
+805</ref>; <ref target="../_roman/reference/21_2/21_2_livre_12.xml#840">II, 12,
+840</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+Les astrologues annoncent que la région de <rs type="repertoire" ref="repertoire_uz.xml#2_venise">Venise</rs>,
+saccagée par <persName ref="personnage_aa.xml#2_attila">Attila</persName>, connaîtra <quote>heur</quote> et
+<quote>félicités</quote> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#842">II, 12,
+842</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+<persName ref="personnage_aa.xml#2_attila">Attila</persName> prétend séjourner en Italie seulement pour
+épouser la sœur de <persName ref="personnage_uz.xml#2_valentinien">Valentinien</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#844">II, 12, 844</ref>).
+À la mort d'<persName ref="personnage_aa.xml#2_attila">Attila</persName>, la paix revient (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#845">II, 12,
+845</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+Après l'assassinat de <persName ref="personnage_uz.xml#2_valentinien">Valentinien</persName>, <persName ref="personnage_ee.xml#2_eudoxe">Eudoxe</persName> pense
+quitter l'Italie (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#849">II, 12, 849</ref>).
+Pour se venger de <persName ref="personnage_mm.xml#2_maxime">Maxime</persName>, l'usurpateur du trône, elle décide de se
+tourner vers <persName ref="personnage_gg.xml#2_genseric">Genséric</persName>, le roi des <rs type="repertoire" ref="repertoire_uz.xml#vandales">Vandales</rs>, et
+de lui donner l'Italie (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#860">II, 12, 860</ref>).
+<persName ref="personnage_uz.xml#2_ursace">Ursace</persName>
+jure de ne pas quitter le pays avant de venger la mort de <persName ref="personnage_uz.xml#2_valentinien">Valentinien</persName> (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#860">II, 12, 860</ref>).
+<persName ref="personnage_gg.xml#2_genseric">Genséric</persName> survient, pille l'Italie (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#861">II, 12, 861</ref>)
+et se retire en emmenant <persName ref="personnage_ee.xml#2_eudoxe">Eudoxe</persName> et ses filles (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#862">II, 12,
+862</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+<persName ref="personnage_uz.xml#2_ursace">Ursace</persName>, né en Italie (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#843">II, 12, 843</ref>),
+rappelle que <persName ref="personnage_bb.xml#2_belovese">Bellovèse</persName> et ses <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs> ont
+ravagé son pays (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#841">II, 12, 841</ref>).
+Un <persName ref="personnage_aa.xml#2_astrologue">Astrologue</persName> lui conseille de ne pas rester en
+Italie (<ref target="../_roman/reference/21_2/21_2_livre_12.xml#882">II, 12,
+882</ref>).</p>
+               <p>
+                  <note ana="remarque">Honoré d'Urfé ignore deux adversaires
+chrétiens d'<persName ref="personnage_aa.xml#2_attila">Attila</persName>, qui ont réussi à arrêter <quote>le fléau
+de Dieu</quote>:
+le Pape Léon en Italie et sainte Geneviève à Paris.
+Cela prouve qu'aux yeux du romancier la vérité historique cède le
+pas au désir de décrire une religion syncrétique et
+imaginaire.</note>
+               </p>
+                  </item>
+               </list>
+            </note>
+            <note xml:id="italie_3" n="3" ana="geographie">
+               <label>Italie</label>
+               <mentioned>Mentionnée dans:<ref target="#italie">I</ref>, <ref target="#2_italie">II</ref>, <ref target="#3_italie">III</ref></mentioned><p>
+L'Italie est nommée seulement par <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>.</p>
+               <list>
+                  <item>
+               <p>
+C'est le siège des successeurs de <persName ref="personnage_uz.xml#3_valentinien">Valentinien</persName> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#284_verso">III, 7, 284
+verso</ref>), que protègent de grands capitaines, comme <persName ref="personnage_ll.xml#3_leandre">Léandre</persName>, père
+de <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#301_recto">III, 7, 301
+recto</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+<persName ref="personnage_aa.xml#3_arimant">Arimant</persName> et son père habitent <rs type="repertoire" ref="repertoire_ee.xml#3_eporedes">Éporèdes</rs>
+pour pouvoir sortir facilement d'Italie (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#285_recto">III, 7, 285
+recto</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+<persName ref="personnage_aa.xml#3_arimant">Arimant</persName> pourrait quitter <rs type="repertoire" ref="repertoire_ll.xml#3_lyon">Lyon</rs> et rentrer
+en Italie, pense le fidèle <persName ref="personnage_bb.xml#3_bellaris">Bellaris</persName> (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#355_verso">III, 8, 355
+verso</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+<persName ref="personnage_cc.xml#3_criseide">Criséide</persName> rappelle à <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName>
+qu'il a <quote>faict trembler l'Italie au bruit de [ses]
+armes</quote>, alors que l'Italie avait <quote>sousmis tout
+l'Univers sous les siennes</quote> (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#360_recto">III, 8, 360
+recto</ref>).</p>
+                  </item>
+               </list>
+            </note>
+            <note xml:id="italiens_3" n="3" ana="histoire">
+               <label>Italiens</label>
+               <mentioned>Mentionnés dans:<ref target="#3_italiens">III</ref></mentioned><p>
+Les Italiens figurent dans la <ref target="../_roman/reference/21_3/21_3_livre_8.xml#h_cryseide2">Suitte de
+l'histoire de Cryseide et d'Arimant</ref>.</p>
+               <list>
+                  <item>
+               <p>
+À <rs type="repertoire" ref="repertoire_ll.xml#3_lyon">Lyon</rs>, <persName ref="personnage_bb.xml#3_bellaris">Bellaris</persName> déguisé parle à <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> en
+italien (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#333_verso">III, 8, 333
+verso</ref>; <ref target="../_roman/reference/21_3/21_3_livre_8.xml#338_recto">III, 8, 338
+recto</ref>; <ref target="../_roman/reference/21_3/21_3_livre_8.xml#338_verso">III, 8, 338
+verso</ref>). Cela intrigue toutes les prisonnières (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#339_recto">III, 8, 339
+recto</ref>).</p>
+                  </item>
+                  <item>
+               <p>
+<persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName> est mécontent qu'une prisonnière
+italienne (<persName ref="personnage_cc.xml#3_criseide">Criséide</persName>) se soit enfuie (<ref target="../_roman/reference/21_3/21_3_livre_8.xml#351_verso">III, 8, 351
+verso</ref>).</p>
+                  </item>
+               </list>
+            </note>
+            <note xml:id="ixion" n="1" ana="mythologie">
+               <label>Ixion</label>
+               <mentioned>Mentionné dans:<ref target="#ixion">I</ref>, <ref target="#3_ixion">III</ref></mentioned><p>
+Mythologie. Ixion est un roi criminel que <rs type="repertoire" ref="#jupiter">Jupiter</rs> a d'abord secouru. Ingrat, Ixion ose aimer
+<rs type="repertoire" ref="#junon">Junon</rs>, l'épouse de <rs type="repertoire" ref="#jupiter">Jupiter</rs>: il embrasse un
+nuage qui a la forme de la déesse. En guise de châtiment, il sera
+attaché à une roue qui tournera éternellement dans les cieux.</p>
+               
+               <p>
+•<persName ref="personnage_ss.xml#silvandre">Silvandre</persName>, un enfant trouvé amoureux de la Bergère
+<persName ref="personnage_dd.xml#diane">Diane</persName>, se
+juge ambitieux et évoque ce mythe dans un poème où il traite ses
+espoirs d'Ixions (<ref target="../_roman/reference/21_1/21_1_livre_8.xml#222_verso">I, 8, 222
+verso</ref>) et d'<rs type="repertoire" ref="#icare">Icares</rs>.</p>
+               
+               <p>
+• Le châtiment d'Ixion représenté sur un vase se trouve dans ce
+<ref target="http://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/MS4GY/09-513534.jpg">site</ref> (30 septembre 2014).</p>
+            </note>
+            <note xml:id="ixion_3" n="3" ana="mythologie">
+               <label>Ixion</label>
+               <mentioned>Mentionné dans:<ref target="#ixion">I</ref>, <ref target="#3_ixion">III</ref></mentioned><p>
+                  <persName ref="personnage_pp.xml#3_phillis">Phillis</persName> -par jeu -condamne <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName>,
+<quote>arrogant et temeraire Ixion</quote>, qui ose aimer <persName ref="personnage_dd.xml#3_diane">Diane</persName> (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#393_recto">III, 9, 393
+recto</ref>).</p>
+               
+               <p>
+                  <note ana="remarque">
+                     <persName ref="personnage_pp.xml#3_phillis">Phillis</persName> et <persName ref="personnage_dd.xml#3_delie">Délie</persName>, deux
+jeunes filles, plaisantent en manipulant les mythes comme elles le
+désirent (Voir <rs type="repertoire" ref="repertoire_pp.xml#3_pan">Pan</rs>).</note>
+               </p>
+            </note>
+            <note xml:id="j" n="2" ana="geographie">
+               <label>Julieu</label>
+               <mentioned>Mentionné dans:<ref target="#2_julieu">II</ref></mentioned><p>
+Écrit <emph>
+                     <rs type="repertoire" ref="#julius">Julius</rs>
+                  </emph> dans la première partie. Il s'agit
+de <emph>Jullieux</emph>.</p>
+               
+               <p>
+• De la demeure d'<persName ref="personnage_aa.xml#2_adamas">Adamas</persName>, on aperçoit <rs type="repertoire" ref="#2_julieu">Jullieux</rs> (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#630">II, 10,
+630</ref>).</p>
+            </note>
+            <note xml:id="julius" n="1" ana="geographie">
+               <label>Julius</label>
+               <mentioned>Mentionné dans:<ref target="#julius">I</ref></mentioned><p>
+                  <bibl source="bibliographie.xml#la_mure">La
+Mure</bibl> écrit que la tradition attribue la fondation de la
+<quote>ville de Julius</quote> à un Jules Maximin, <quote>si ce
+n'est que nous voulussions rapporter ce nom de Julieu à Jules
+<persName ref="personnage_cc.xml#cesar">Cesar</persName></quote> (I, p.138).</p>
+               <p>
+Il s'agit de la ville de <emph>Jullieux</emph>, nommée <emph>
+                     <rs type="repertoire" ref="#2_julieu">Julieu</rs>
+                  </emph> dans la deuxième
+partie de <emph>L'Astrée</emph>.</p>
+               
+               <p>
+• Premier bâtiment construit par <persName ref="personnage_cc.xml#cesar">César</persName> (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#29_verso">I, 2, 29
+verso</ref>).</p>
+            </note>
+            <note ana="geographie">
+               <label>Jullieux</label>
+               <p>Voir <rs type="repertoire" ref="#2_julieu">Julieu</rs> et
+<rs type="repertoire" ref="#julius">Julius</rs>.</p>
+            </note>
+            <note xml:id="junon" n="1" ana="mythologie">
+               <label>Junon</label>
+               <mentioned>Mentionnée dans:<ref target="#junon">I</ref>, <ref target="#3_junon">III</ref></mentioned><p>
+Mythologie. Écrit <emph>Juno</emph>. Épouse de <rs type="repertoire" ref="#jupiter">Jupiter</rs>, célèbre pour sa jalousie (ce que le
+romancier ne souligne pas).</p>
+               
+               <p>
+• En <rs type="repertoire" ref="repertoire_no.xml#neustrie">Neustrie</rs>, sur l'autel d'<rs type="repertoire" ref="repertoire_hh.xml#hymen">Hymen</rs>, se trouve
+la statue de Junon à côté de son époux, <rs type="repertoire" ref="#jupiter">Jupiter</rs> (<ref target="../_roman/reference/21_1/21_1_livre_11.xml#362_recto">I, 11, 362
+recto</ref>).</p>
+               
+               <p>
+• Le nom de Junon est cachée derrière celui de <persName ref="personnage_ll.xml#lucine">Lucine</persName>, la
+sage-femme (<ref target="../_roman/reference/21_1/21_1_livre_4.xml#109_verso">I, 4, 109
+verso</ref>), en effet <emph>Lucina</emph> est une
+épithète de Junon, déesse protectrice des naissances.</p>
+               
+               <p>
+•Junon apparaît en filigrane grâce à <rs type="repertoire" ref="#ixion">Ixion</rs>, cet homme qui a osé aimer la déesse
+(<ref target="../_roman/reference/21_1/21_1_livre_8.xml#222_verso">I,
+8, 222 verso</ref>).</p>
+               
+               <p>
+• On entrevoit deux personnages mythiques féminins qui ont été les
+victimes de Junon, <rs type="repertoire" ref="repertoire_ss.xml#semele">Sémélé</rs> et Callisto, la nymphe que <rs type="repertoire" ref="repertoire_dd.xml#diane_m">Diane</rs> exile
+(<ref target="../_roman/reference/21_1/21_1_livre_2.xml#30_verso">I,
+2, 30 verso</ref>).</p>
+               
+               <p>
+•Marie de Médicis<note target="note_analyses.html#marie"/> a été représentée en
+Junon par Barthélémy Prieur (1536-1611). Voir ce
+<ref target="https://art.rmngp.fr/fr/library/artworks/barthelemy-prieur_marie-de-medicis-1573-1642-en-junon_bronze_sculpture-technique">site</ref> (8 mars 2019).</p>
+            </note>
+            <note xml:id="junon_3" n="3" ana="mythologie">
+               <label>Junon</label>
+               <mentioned>Mentionnée dans:<ref target="#junon">I</ref>, <ref target="#3_junon">III</ref></mentioned><p>
+Mythologie. Écrit <emph>Juno</emph>.</p>
+               
+               <p>
+• La déesse est derrière <rs type="repertoire" ref="#3_ixion">Ixion</rs>, cet homme qui a osé l'aimer (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#393_recto">III, 9, 393
+recto</ref>).</p>
+               
+               <p>
+• <persName ref="personnage_aa.xml#3_arimant">Arimant</persName> jure par <quote><rs type="repertoire" ref="repertoire_hh.xml#3_hymen">Hymen</rs> et la
+Nopciere Juno</quote> qu'il épousera <persName ref="personnage_cc.xml#3_criseide">Criséide</persName>
+(<ref target="../_roman/reference/21_3/21_3_livre_7.xml#298_recto">III, 7, 298
+recto</ref>).</p>
+               
+               <p>
+• <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> le répète à <persName ref="personnage_gg.xml#3_gondebaud">Gondebaud</persName>
+(<ref target="../_roman/reference/21_3/21_3_livre_8.xml#359_verso">III, 8, 359
+verso</ref>).</p>
+               
+               <p>
+• Rubens a peint <rs type="repertoire" ref="#3_ixion">Ixion</rs>
+trompé par Junon (voir ce <ref target="http://4.bp.blogspot.com/-wEvzPeV0JCM/UdQW92M2OAI/AAAAAAAAZ40/KxpEJDTjw4E/s800/IMG_0502-rubens-ixion2+copie.jpg">site</ref>, 10 avril 2014). D'Urfé a aussi pu voir à
+Fontainebleau la fresque qui raconte un mythe tiré des
+<emph>Géorgiques</emph> de Virgile <note target="note_analyses.html#virgile"/>: l'histoire tragique de Cydippe, une
+prêtresse de Junon (voir ce <ref target="http://3.bp.blogspot.com/-_zMfgwFE_eM/T0jV0yFyRfI/AAAAAAAABwk/FxWYVWEtScI/s640/Galerie_F1er_011.jpg">site</ref>, 10 avril 2014). Une Junon romaine
+colossale se trouve dans le <ref target="http://www.mfa.org/collections/conservation/conservationinaction_juno">site</ref> du M.F.A. de Boston (6 mars
+2013).</p>
+            </note>
+            <note xml:id="jupiter" n="1" ana="mythologie">
+               <label>Jupiter</label>
+               <mentioned>Mentionné dans:<ref target="#jupiter">I</ref>, <ref target="#2_jupiter">II</ref>, <ref target="#3_jupiter">III</ref>, <ref target="#4_jupiter">IV</ref></mentioned><p>
+Mythologie. Le roi des dieux représente la domination dans <bibl source="bibliographie.xml#epistres">
+                     <emph>Les Epistres morales</emph>
+                  </bibl> (III, 3, p.379),
+puissance qui <quote>nous envoye le bien &amp; le mal</quote> et
+<quote>nous verse le bien &amp; le mal</quote> (I, 19,
+p.170).</p>
+               
+               <p>
+Jupiter apparaît dans <emph>L'Astrée</emph> dans
+des descriptions de lieux aussi bien que dans des figures de
+rhétorique.</p>
+               
+               <p>
+• Jupiter figure plusieurs fois sur les fresques du palais
+d'<rs type="repertoire" ref="#isoure">Isoure</rs>. Les
+<quote>peintures esclatantes</quote> montrent sa petite enfance et
+la protection des <rs type="repertoire" ref="repertoire_cc.xml#coribantes">Corybantes</rs>. Elles évoquent deux de ses aventures
+amoureuses -avec <rs type="repertoire" ref="repertoire_ss.xml#semele">Sémélé</rs> et avec <rs type="repertoire" ref="repertoire_gg.xml#ganymede">Ganymède</rs>
+-ainsi que la naissance merveilleuse de <rs type="repertoire" ref="repertoire_bb.xml#bacchus">Bacchus</rs>
+(<ref target="../_roman/reference/21_1/21_1_livre_2.xml#27_recto">I,
+2, 27 recto</ref>). C'est l'image de Jupiter justicier armé du foudre
+qui tient le plus de place (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#27_verso">I, 2, 27
+verso</ref>).</p>
+               
+               <p>
+                  <note ana="remarque">Cette image peut rappeler le célèbre
+Jupiter de Phidias, une des sept merveilles du monde, que l'on
+trouve dans ce <ref target="https://upload.wikimedia.org/wikipedia/commons/c/c6/Statue_of_Zeus.jpg">site</ref>
+(15 juillet 2015).</note>
+               </p>
+               <p>
+• En <rs type="repertoire" ref="repertoire_no.xml#neustrie">Neustrie</rs>, sur l'autel d'<rs type="repertoire" ref="repertoire_hh.xml#hymen">Hymen</rs>, Jupiter
+est représenté à côté de son épouse, <rs type="repertoire" ref="#junon">Junon</rs> (<ref target="../_roman/reference/21_1/21_1_livre_11.xml#362_recto">I, 11, 362
+recto</ref>).</p>
+               
+               <p>
+• Jupiter est-il le dieu anonyme qui punit les parjures (<ref target="../_roman/reference/21_1/21_1_livre_11.xml#362_verso">I, 11, 362
+verso</ref>)?</p>
+               
+               <p>
+• <persName ref="personnage_aa.xml#aristandre">Aristandre</persName>, amoureux de <persName ref="personnage_ss.xml#silvie">Silvie</persName>, nomme
+Jupiter en se comparant lui-même à <rs type="repertoire" ref="repertoire_ss.xml#semele">Sémélé</rs> (<ref target="../_roman/reference/21_1/21_1_livre_3.xml#65_verso">I, 3, 65
+verso</ref>).</p>
+               
+               <p>
+• Voir Jupiter et <rs type="repertoire" ref="repertoire_gg.xml#ganymede">Ganymède</rs> de Rubens dans ce <ref target="http://www.musba-bordeaux.fr/fr/RubensGanymede">site</ref> (8 mars 2019).</p>
+            </note>
+            <note xml:id="jupiter_2" n="2" ana="mythologie">
+               <label>Jupiter</label>
+               <mentioned>Mentionné dans:<ref target="#jupiter">I</ref>, <ref target="#2_jupiter">II</ref>, <ref target="#3_jupiter">III</ref>, <ref target="#4_jupiter">IV</ref></mentioned><p>
+Écrit aussi <emph>Juppiter</emph>. Ce sont les
+hommes qui parlent de Jupiter dans la deuxième partie, et sans
+jamais évoquer les aventures amoureuses du dieu.</p>
+               
+               <p>
+• <persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName> rappelle que Jupiter est le père des
+prières (<ref target="../_roman/reference/21_2/21_2_livre_3.xml#136">II, 3,
+136</ref>).</p>
+               
+               <p>
+• <persName ref="personnage_hh.xml#2_hylas">Hylas</persName>
+participe à <rs type="repertoire" ref="repertoire_ll.xml#2_lyon">Lyon</rs> au sacrifice offert au dieu qui a permis la
+restauration de la ville (<ref target="../_roman/reference/21_2/21_2_livre_4.xml#220">II, 4,
+220</ref>).</p>
+               
+               <p>
+• <persName ref="personnage_aa.xml#2_adamas">Adamas</persName>, dans la leçon de théologie qu'il donne à
+<persName ref="personnage_cc.xml#2_celadon">Céladon</persName>, explique que Jupiter, le dieu qui châtie
+et manie le foudre, pardonne les fautes (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#511">II, 8,
+511</ref>).</p>
+               <p>
+Quand les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> ont imposé leur dieux, c'est-à-dire les
+noms et images de leurs divinités, les <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs> ont
+pris Jupiter pour <rs type="repertoire" ref="repertoire_tt.xml#2_taramis">Taramis</rs> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#511">II, 8, 511</ref>).
+Ils devraient plutôt considérer les dieux païens comme des
+personnifications de vertus. Jupiter serait alors <quote>la
+grandeur et Majesté de Dieu</quote> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#515">II, 8,
+515</ref>).</p>
+            </note>
+            <note xml:id="jupiter_3" n="3" ana="mythologie">
+               <label>Jupiter</label>
+               <mentioned>Mentionné dans:<ref target="#jupiter">I</ref>, <ref target="#2_jupiter">II</ref>, <ref target="#3_jupiter">III</ref>, <ref target="#4_jupiter">IV</ref></mentioned><p>
+L'image de Jupiter s'adoucit dans la troisième partie. Honoré
+d'Urfé reprend et modifie le thème de l'influence des planètes.
+<quote>Ceux qui ont estimé la domination estre le souverain bien,
+ont adoré Jupiter; qui a aymé les voluptez, a choisi <rs type="repertoire" ref="repertoire_uz.xml#3_venus">Vénus</rs>;
+qui la marchandise, <rs type="repertoire" ref="repertoire_mm.xml#3_mercure">Mercure</rs>; qui la contemplation, <rs type="repertoire" ref="repertoire_ss.xml#3_saturne">Saturne</rs>; qui le labourage et les biens de la
+terre, <rs type="repertoire" ref="repertoire_cc.xml#3_ceres">Céres</rs></quote> (<bibl source="bibliographie.xml#epistres">
+                     <emph>Les Epistres morales</emph>
+                  </bibl>, III, 3,
+pp.379-380).</p>
+               
+               <p>
+• Dans une prière lue dans le temple de la <rs type="repertoire" ref="repertoire_bb.xml#3_bonne_deesse">Bonne
+Déesse</rs>, il est dit que <rs type="repertoire" ref="repertoire_uz.xml#3_vesta">Vesta</rs> a nourri Jupiter enfant (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#30_verso">III, 2, 30
+verso</ref>) et qu'elle a obtenu de rester vierge -faveur que
+réclament vestales et druides (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#31_recto">III, 2, 31
+recto</ref>).</p>
+               
+               <p>
+• <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> rappelle que Jupiter a quelquefois préféré
+l'amour des femmes à l'amour des déesses (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#82_recto">III, 3, 82
+recto</ref>).</p>
+               
+               <p>
+• Dans un ballet, on chante que Jupiter s'arme du foudre;
+<rs type="repertoire" ref="repertoire_aa.xml#3_amour">Amour</rs>
+aussi (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#87_verso">III, 3, 87
+verso</ref>).</p>
+               
+               <p>
+• L'humeur qui tient de Jupiter est joyeuse, explique <persName ref="personnage_aa.xml#3_adamas">Adamas</persName>
+(<ref target="../_roman/reference/21_3/21_3_livre_5.xml#205_verso">III, 5, 205
+verso</ref>).</p>
+            </note>
+            <note xml:id="jupiter_4" n="4" ana="geographie">
+               <label>Jupiter</label>
+               <mentioned>Mentionné dans:<ref target="#jupiter">I</ref>, <ref target="#2_jupiter">II</ref>, <ref target="#3_jupiter">III</ref>, <ref target="#4_jupiter">IV</ref></mentioned><p>
+                  <bibl source="bibliographie.xml#ovide">Ovide</bibl>
+énumère les métamorphoses de Jupiter lorsque l'audacieuse Arachné
+montre dans une tapisserie les crimes des dieux:
+<quote>Comment [Jupiter] abusa, mué en or, de <rs type="repertoire" ref="repertoire_dd.xml#4_danae">Danaé</rs></quote>
+(IV, 10).</p>
+               <p>
+Saint <bibl source="bibliographie.xml#augustin_cite">Augustin</bibl>, dans <emph>La Cité de Dieu</emph>,
+démontre l'immoralité des mythes païens. Il juge que la
+métamorphose de Jupiter en pluie figure <quote>la séduction d'une
+femme intéressée</quote> (Livre XVIII, ch.13). De très
+nombreux peintres ont représenté ce mythe (Voir le site de <ref target="https://fr.wikipedia.org/wiki/Dana%C3%A9">Wikipédia</ref>, 8 décembre 2016).</p>
+               <p>
+Jupiter est associé à <rs type="repertoire" ref="repertoire_mm.xml#4_minerve">Minerve</rs>, sa fille. La triade capitoline (du
+Capitole) comprend <rs type="repertoire" ref="#junon">Junon</rs>
+(Voir ce <ref target="https://fr.wikipedia.org/wiki/Minerve_(mythologie)#/media/File:PalestrinaMuseoTriadeCapitolina.jpg">site</ref>, 20 décembre 2016). Les trois divinités
+sont honorées à Rome où on plantait des clous<note target="note_4.html#4_clou"/> dans le mur mitoyen des temples.</p>
+               
+               <p>
+Les mentions de Jupiter appartiennent toutes à <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>.</p>
+               
+               <p>
+• <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName>, la première fois, rappelle les amours de
+Jupiter avec <rs type="repertoire" ref="repertoire_dd.xml#4_danae">Danaé</rs> pour expliquer comment <persName ref="personnage_bb.xml#4_bellimarte">Bellimarte</persName>
+a réussi à se faire agréer par toute la maisonnée - y compris par
+le père de la jeune fille (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#312">IV, 2,
+312</ref>).</p>
+               
+               <p>
+                  <note ana="remarque">Comme <rs type="repertoire" ref="#4_jupiter">Jupiter</rs>, <persName ref="personnage_bb.xml#4_bellimarte">Bellimarte</persName> est doté d'une épouse qui va
+défendre ses droits légitimes.</note>
+               </p>
+               <p>
+• La deuxième fois, <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> mentionne le dieu bienfaisant, sensible
+aux prières des hommes (<ref target="../_roman/reference/24_4/24_4_livre_2.xml#313">IV, 2,
+313</ref>).</p>
+               
+               <p>
+                  <note ana="remarque">C'est le dieu dépeint dans les
+<quote>peintures esclatantes</quote>.
+Il peut retenir sa foudre et exaucer les prières (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#27_verso">I, 2, 27
 verso</ref>).</note>
                </p>
                <p>
-                  <note ana="remarque">Les nobles baisaient la main des
-Empereurs, mais <quote>le menu peuple leur baisoit le
-genouil</quote>
-(<bibl source="bibliographie.xml#la_curne">La
-Curne</bibl>, Article <emph>Baiser</emph>).</note>
-               </p>
-                  </item>
-                  <item>
-               <p>
-Le Démon recommande aux nymphes des eaux de ne pas se plaindre de
-vivre dans la modeste fontaine de <rs type="repertoire" ref="repertoire_ss.xml#3_sorgues">Sorgues</rs>. Le
-destin lui a promis que cette fontaine recevrait le <quote><persName ref="personnage_pp.xml#3_petrarque">Cigne</persName>
-Florentin<note target="note_3.html#3_cigne"/></quote> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#102_recto">III, 3, 102
-recto</ref>).</p>
-                  </item>
-               </list>
+• La troisième fois, <persName ref="personnage_dd.xml#4_dorinde">Dorinde</persName> explique les vertus du clou<note target="note_4.html#4_clou"/> planté dans le mur de temples mitoyens consacrés à
+Jupiter et à <rs type="repertoire" ref="repertoire_mm.xml#4_minerve">Minerve</rs> (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#472">IV, 3, 472</ref>).
+On apprend alors que les <rs type="repertoire" ref="repertoire_qr.xml#4_romains">Romains</rs> ont laissé en <rs type="repertoire" ref="repertoire_ff.xml#4_forez">Forez</rs> des
+temples que les bergers ne fréquentent pas, mais où <persName ref="personnage_aa.xml#4_adraste">Adraste</persName>
+pourrait trouver la guérison (<ref target="../_roman/reference/24_4/24_4_livre_3.xml#474">IV, 3,
+474</ref>).</p>
             </note>
-            <note xml:id="diane_m" n="1" ana="mythologie">
-               <label>Diane</label>
-               <mentioned>Mentionnée dans:<ref target="#diane_m">I</ref>,
-<ref target="#2_diane_m">II</ref>, <ref target="#3_diane_m">III</ref></mentioned><p>
-Mythologie. Le nom de la déesse Diane, fille de <rs type="repertoire" ref="repertoire_ik.xml#jupiter">Jupiter</rs> et de
-Léto, sœur jumelle d'<rs type="repertoire" ref="repertoire_aa.xml#apollon">Apollon</rs> survient dans plusieurs contextes chez
-d'Urfé. Dans <bibl source="bibliographie.xml#sireine">
-                     <emph>Le Sireine</emph>
-                  </bibl>, la rivière lui est
-consacrée (p.46); dans <bibl source="bibliographie.xml#sylvanire">
-                     <emph>La
-Sylvanire</emph>
-                  </bibl>, la déesse de la chasse et de la chasteté est
-suivie de nymphes au costume suggestif (p.38).</p>
-               <list>
-                  <item>
-               <p>
-Une Diane <quote>gauloise</quote> et chaste, patronne du <rs type="repertoire" ref="repertoire_ff.xml#forez">Forez</rs>, apparaît
-(<ref target="../_roman/reference/21_1/21_1_livre_2.xml#30_recto">I,
-2, 30 recto</ref>, <ref target="../_roman/reference/21_1/21_1_livre_2.xml#31_recto">31 recto</ref>
-et <ref target="../_roman/reference/21_1/21_1_livre_9.xml#282_verso">I, 9, 286
-verso</ref>) dans le récit des origines du pays et dans la
-description de la gynécocratie (pouvoir politique détenu par les
-femmes).</p>
-               
-               <p>
-                  <note ana="variante">Après la première édition de <emph>L'Astrée</emph>, d'Urfé adjoint à Diane une <rs type="repertoire" ref="repertoire_gg.xml#galathee_m">Galathée</rs>
-mythique qui n'aura jamais la même importance que Diane dans le
-roman.</note>
-               </p>
-                  </item>
-                  <item>
-               <p>
-La déesse Diane, supérieure à ses Nymphes (<ref target="../_roman/reference/21_1/21_1_livre_6.xml#165_verso">I, 6, 165
-verso</ref>), est la patronne de la Bergère <persName ref="personnage_dd.xml#diane">Diane</persName> (<ref target="../_roman/reference/21_1/21_1_livre_6.xml#160_verso">I, 6, 160
-verso</ref>).</p>
-                  </item>
-                  <item>
-               <p>
-Diane est aussi la patronne du bois de <rs type="repertoire" ref="repertoire_ss.xml#savignieu">Savigneux</rs> où
-s'installe <persName ref="personnage_cc.xml#climanthe">Climanthe</persName>, le faux druide (<ref target="../_roman/reference/21_1/21_1_livre_5.xml#136_recto">I, 5, 136
-recto</ref>).</p>
-                  </item>
-                  <item>
-               <p>
-La déesse Diane aime <rs type="repertoire" ref="repertoire_ee.xml#endymion">Endymion</rs>, rappellent <persName ref="personnage_pp.xml#polemas">Polémas</persName>
-(<ref target="../_roman/reference/21_1/21_1_livre_9.xml#272_verso">I,
-9, 272 verso</ref>)et <persName ref="personnage_aa.xml#adamas">Adamas</persName> (<ref target="../_roman/reference/21_1/21_1_livre_10.xml#314_verso">I, 10, 314
-verso</ref>).</p>
-                  </item>
-                  <item>
-               <p>
-On trouve dans ce <ref target="http://www.educnet.education.fr/louvre/diane/dianeacteon.jpg">site</ref> (30 septembre 2010) Diane et <rs type="repertoire" ref="repertoire_aa.xml#2_acteon">Actéon</rs> peints
-par le Cavalier d'Arpin (1568- 1640). Ce mythe éclaire
-l'aventure de <persName ref="personnage_dd.xml#diane">Diane</persName> et <persName ref="personnage_ff.xml#filandre">Filandre</persName>.</p>
-                  </item>
-                  <item>
-               <p>
-Le plus célèbre des temples de <rs type="repertoire" ref="#diane_m">Diane</rs> se trouvait à Éphèse. Il a été brûlé par
-Erostrate à l'époque d'<persName ref="personnage_aa.xml#2_alexandre">Alexandre</persName>. <bibl source="bibliographie.xml#pline">Pline</bibl> décrit
-avec admiration l'édifice qui a remplacé le premier temple:
-<quote>On mit cent vingt ans à l'achever, avec la contribution de
-l'Asie entière</quote> (XVI, 213). Honoré d'Urfé évoque ce temple de
-Diane dans ses <bibl source="bibliographie.xml#epistres">
-                     <emph>Epistres morales</emph>
-                  </bibl> (<emph>Au lecteur</emph>,
-non-paginé)<note target="note_analyses.html#chretien"/>.</p>
-</item>
-<item>
-               <p>
-Le temple d'après un peintre du XVIesiècle dans ce <ref target="http://fr.wikipedia.org/wiki/Temple_d%27Art%C3%A9mis_%C3%A0_%C3%89ph%C3%A8se#mediaviewer/Fichier:Temple_of_Artemis.jpg">site</ref> (10 juillet 2014).</p>
-</item>
-               </list>
-            </note>
-            <note xml:id="diane_m_2" n="2" ana="mythologie">
-               <label>Diane</label>
-               <mentioned>Mentionnée dans:<ref target="#diane_m">I</ref>, <ref target="#2_diane_m">II</ref>, <ref target="#3_diane_m">III</ref></mentioned><p>
-Mythologie. Il y avait un temple de Diane en <rs type="repertoire" ref="repertoire_ff.xml#2_forez">Forez</rs> puisque,
-selon <bibl source="bibliographie.xml#la_mure">La
-Mure</bibl>, à Randan, ville proche de <rs type="repertoire" ref="repertoire_ff.xml#2_feurs">Feurs</rs>, la
-tradition veut que ce soit <quote>en haine et horreur de cette
-Diane des Gentils qui avoit son temple à <rs type="repertoire" ref="repertoire_ff.xml#2_feurs">Feurs</rs>, que la
-Sacrée Vierge a esté prise pour la protectrice et Patrone de cette
-ville</quote> (I, p.109).</p>
-               <list>
-                  <item>
-               <p>
-<persName ref="personnage_aa.xml#2_adamas">Adamas</persName> explique que les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> ont
-respecté cette déesse que la principale Nymphe du <rs type="repertoire" ref="repertoire_ff.xml#2_forez">Forez</rs>
-représente (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#515">II, 8, 515</ref>).
-Cette information a déjà été donnée par <persName ref="personnage_gg.xml#galathee">Galathée</persName>
-(<ref target="../_roman/reference/21_1/21_1_livre_2.xml#30_recto">I,
-2, 30 recto</ref>).</p>
-                  </item>
-                  <item>
-               <p>
-<persName ref="personnage_ss.xml#2_silvandre">Silvandre</persName> s'adresse à la Lune dans un poème sans
-lui donner le nom de Diane (<ref target="../_roman/reference/21_2/21_2_livre_2.xml#112">II, 2, 112</ref>).
-Il rappelle alors <rs type="repertoire" ref="repertoire_aa.xml#2_acteon">Actéon</rs> et <rs type="repertoire" ref="repertoire_ee.xml#endymion">Endymion</rs>, les amants de la déesse.</p>
-                  </item>
-                  <item>
-               <p>
-                  <note ana="remarque">Le traitement des mythes d'<rs type="repertoire" ref="repertoire_ee.xml#echo">Écho</rs>, de <rs type="repertoire" ref="repertoire_pp.xml#pan">Pan</rs> et de Diane
-dans la deuxième partie de <emph>L'Astrée</emph>
-prouve que le romancier, en 1610, ne fait plus appel de la même
-manière aux ressources de la mythologie classique.</note>
-               </p>
-                  </item>
-               </list>
-            </note>
-            <note xml:id="diane_m_3" n="3" ana="mythologie">
-               <label>Diane</label>
-               <mentioned>Mentionnée dans:<ref target="#diane_m">I</ref>, <ref target="#2_diane_m">II</ref>, <ref target="#3_diane_m">III</ref></mentioned><p>
-Dans la troisième partie, Honoré d'Urfé parle de Diane sur un ton
-plus jovial. Il s'inspire de sources différentes:</p>
-               <p>
-<quote>Accorde, ô mon père! accorde à ta fille de rester
-toujours vierge, et de porter assez de noms divers pour que Phébus
-ne puisse le lui disputer</quote> (<bibl source="bibliographie.xml#callimaque">Callimaque</bibl>, <emph>Hymnes</emph>). Cette prière de
-Diane à <rs type="repertoire" ref="repertoire_ik.xml#3_jupiter">Jupiter</rs> explique pourquoi Diane est la
-<quote>déesse aux mille noms</quote>. Quand elle s'appelle
-<emph>Délie</emph>, nom favorisé par Maurice Scève, elle évoque l'île
-de Délos où elle est née. Sous le nom de <emph>Séléné</emph>,
-personnification de la lune, Diane a aimé le dieu <rs type="repertoire" ref="repertoire_pp.xml#3_pan">Pan</rs> parce qu'il
-lui a offert des taureaux blancs comme neige. <bibl source="bibliographie.xml#virgileb">Virgile</bibl> le
-rapporte dans les <emph>Géorgiques</emph> (III, 392). D'autres pensent
-que le dieu lui a présenté la toison d'une chèvre blanche (<bibl source="bibliographie.xml#cartari">Cartari</bibl>,
-p.146), scène qui a inspiré des artistes (voir ce <ref target="http://www.culture.gouv.fr/Wave/image/joconde/0535/m505203_04-001455_p.jpg">site</ref>, 20 juin 2013). Par ailleurs, notons que
-la lune, quand elle n'est pas pleine, est une figure cornue.
-D'après <bibl source="bibliographie.xml#pierius">Pierius</bibl>, la lune serait ainsi l'hiéroglyphe du
-mois (II, p.297); elle est aussi pourtant une figure de
-la nature humaine parce qu'elle change (II, p.12), de
-l'éternité, parce qu'elle se renouvelle (II, p. 295) ou encore de
-la sottise: <quote>le fol change comme la lune</quote>, selon
-Salomon (II, p.298).</p>
-               
-               <p>
-                  <note ana="remarque"><quote>Chantons Diane!
-(malheur aux poètes qui l'oublient!)</quote>,
-conseille <bibl source="bibliographie.xml#callimaque">Callimaque</bibl> tout au début de son <quote>Hymne à
-Diane</quote>.</note>
-               </p>
-               <p>
-• La déesse, si elle se baignait dans le <rs type="repertoire" ref="repertoire_ll.xml#3_lignon">Lignon</rs>, ne
-serait pas choquée par le récit des amours de l'auteur
-(<emph>
-                     <ref target="../_roman/reference/21_3/21_3_liminaires.xml#3_autheur_lignon">III,
-l'Autheur à la riviere de Lignon</ref>
-                  </emph>).</p>
-               
-               <p>
-• <persName ref="personnage_aa.xml#3_adamas">Adamas</persName> rappelle que les <rs type="repertoire" ref="repertoire_qr.xml#3_romains">Romains</rs>
-n'imposent pas leur religion en <rs type="repertoire" ref="repertoire_ff.xml#3_forez">Forez</rs> parce
-qu'ils considèrent que la contrée appartient à Diane (<ref target="../_roman/reference/21_3/21_3_livre_2.xml#27_verso">III, 2, 27
-verso</ref>).</p>
-               
-               <p>
-• <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName> explique à <persName ref="personnage_pp.xml#3_phillis">Phillis</persName> ses
-sentiments en confondant la bergère et la déesse:
-<quote>Cette <persName ref="personnage_dd.xml#3_diane">Diane</persName>, que je n'idolatre pas comme vous, mais que
-j'adore pour la vraye Diane en terre, qui esclaire dans le Ciel, et
-qui commande dans les Enfers</quote> (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#397_verso">III, 9, 397
-verso</ref>). La déesse n'obéit pas à l'amour (<ref target="../_roman/reference/21_3/21_3_livre_9.xml#406_verso">III, 9, 406
-verso</ref>).</p>
-               
-               <p>
-Les vingt-et-une autres mentions de la déesse se trouvent dans le
-livre 3, cette mise en abyme écrite sur un mode parodique pour
-rapporter l'<ref target="../_roman/reference/21_3/21_3_livre_3.xml#h_euric">histoire
-d'Euric</ref>. D'Urfé pratique le burlesque avec
-maestria!</p>
-               
-               <p>
-• Quand il arrive chez <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName>, <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> voit
-d'abord une jeune femme portant le costume de la Diane chasseresse
-(<ref target="../_roman/reference/21_3/21_3_livre_3.xml#78_verso">III,
-3, 78 verso</ref>). Il s'agit de <persName ref="personnage_dd.xml#3_delie">Délie</persName>, la sœur de <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName>.
-Elle explique qu'elle s'est déguisée de cette manière parce qu'elle
-porte un des noms de Diane (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#78_verso">III, 3, 78
-verso</ref>). Elle demande au chevalier de lui obéir comme il obérait
-à la déesse (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#79_recto">III, 3, 79
-recto</ref>) afin d'éprouver la <quote>perilleuse avanture</quote>
-(<ref target="../_roman/reference/21_3/21_3_livre_3.xml#78_verso">III,
-3, 78 verso</ref>). Obéissant, le chevalier s'adresse à <persName ref="personnage_dd.xml#3_delie">Délie</persName> en
-l'appelant toujours <emph>Diane</emph> (par exemple <ref target="../_roman/reference/21_3/21_3_livre_3.xml#79_verso">III, 3, 79
-verso</ref>). <quote>La Lune est le plus beau flambeau qui reluise
-maintenant au Ciel</quote>, affirme <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName>
-(<ref target="../_roman/reference/21_3/21_3_livre_3.xml#81_recto">III,
-3, 81 recto</ref>), mais sa maîtresse, <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName>,
-est plus belle. Les dieux d'ailleurs n'ont-ils pas préféré des
-nymphes aux déesses?</p>
-               <p>
-                  <persName ref="personnage_dd.xml#3_delie">Délie</persName>
-affirme qu'<persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> est sa proie, le butin de sa chasse
-(<ref target="../_roman/reference/21_3/21_3_livre_3.xml#82_recto">III,
-3, 82 recto</ref>). Elle refuse de le laisser seul avec <persName ref="personnage_dd.xml#3_daphnide">Daphnide</persName>,
-parce que Diane est l'ennemie d'<rs type="repertoire" ref="repertoire_aa.xml#3_amour">Amour</rs> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#89_recto">III, 3, 89
-recto</ref>). La déesse a pourtant aimé <rs type="repertoire" ref="repertoire_ee.xml#3_endymion">Endymion</rs> et
-même le dieu <rs type="repertoire" ref="repertoire_pp.xml#3_pan">Pan</rs>, rétorque <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName>
-(<ref target="../_roman/reference/21_3/21_3_livre_3.xml#90_verso">III,
-3, 90 verso</ref>). <persName ref="personnage_dd.xml#3_delie">Délie</persName> alors se distingue de sa patronne:
-elle ne pourrait aimer ni celui qui s'endort quand elle l'embrasse,
-ni celui qui porte des cornes; elle même préfère donner des
-cornes qu'en porter (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#90_verso">III, 3, 90
-verso</ref>). De plus, le don d'une toison ne suffirait pas pour la
-gagner. Le chevalier, conclut-elle, doit absolument apprendre à
-dire du bien de la déesse Diane (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#91_verso">III, 3, 91
-verso</ref>).</p>
-               
-               <p>
-                  <note ana="remarque">Les amusantes remarques de <persName ref="personnage_dd.xml#3_delie">Délie</persName> sur la
-déesse rappellent étrangement <emph>le Tiers livre</emph> de Rabelais
-(1552).
-Dans l'interprétation du songe de Panurge, on lit:
-<quote>Vous (pardonnez moy si je mesprens) me semblez evidemment
-errer interpretant cornes pour cocuage. Diane les porte en teste à
-forme de beau croissant. Est elle coqüe pourtant? Comment
-diable seroyt elle coqüe, qui ne feut oncques mariée? Parlez
-de grace correct, craignant qu’elle vous en face au patron que
-feist à <rs type="repertoire" ref="repertoire_aa.xml#2_acteon">Acteon</rs></quote>
-(ch.14. <ref target="https://fr.wikisource.org/wiki/Le_Tiers_Livre/14">Wikisource</ref>).</note>
-               </p>
-               <p>
-                  <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> n'oubliera jamais que l'aimable <persName ref="personnage_dd.xml#3_delie">Délie</persName> l'a reçu
-<quote>sous l'habit et sous la faveur</quote> de la déesse (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#95_verso">III, 3, 95
-verso</ref>).</p>
-               
-               <p>
-• La leçon que <persName ref="personnage_ll.xml#3_leonide">Léonide</persName> donne à la bergère <persName ref="personnage_dd.xml#3_diane">Diane</persName> renferme
-une allusion au mythe de Diane et d'<rs type="repertoire" ref="repertoire_aa.xml#2_acteon">Actéon</rs> tel que
-le rapporte <bibl source="bibliographie.xml#ovide">Ovide</bibl> dans ses <emph>Métamorphoses</emph> (III, 171-211): Si la jeune
-fille repousse sévèrement <persName ref="personnage_ss.xml#3_silvandre">Silvandre</persName>, elle va <quote>servir
-d'entretien, à toutes les assemblees qui se feront</quote> (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#436_recto">III, 10,
-436 recto</ref>).</p>
-               
-               <p>
-• On peut voir une Diane chasseresse du XVIesiècle (attribuée à Penni Luca) dans le site
-<ref target="http://www.culture.gouv.fr/Wave/image/joconde/0002/m503604_87ee1580_p.jpg">Joconde</ref> (7 décembre 2012).</p>
-               
-               <p>
-• <rs type="repertoire" ref="repertoire_pp.xml#3_pan">Pan</rs> et
-Diane sont réunis dans un médaillon peint par Annibal Carrache
-(1560- 1609). Fresque des Amours des Dieux, galerie Farnèse
-(<ref target="http://www.ambafrance-it.org/IMG/jpg/pan_et_diane-2.jpg">Site</ref> de l'ambassade de France, 7 décembre
-2013).</p>
-            </note>
-            <note xml:id="didon" n="1" ana="mythologie">
-               <label>Didon</label>
-               <mentioned>Mentionnée dans:<ref target="#didon">I</ref></mentioned><p>
-Mythologie. <bibl source="bibliographie.xml#virgile">Virgile</bibl> raconte dans <emph>l'Énéide</emph> les malheurs de cette reine de <rs type="repertoire" ref="repertoire_cc.xml#2_carthage">Carthage</rs>
-aimée puis abandonnée par <rs type="repertoire" ref="repertoire_ee.xml#enee">Énée</rs> (Livre IV).</p>
-               
-               <p>
-•<persName ref="personnage_pp.xml#polemas">Polémas</persName> se compare à ce <quote>corsaire</quote>
-aimé par une princesse (<ref target="../_roman/reference/21_1/21_1_livre_9.xml#272_verso">I, 9, 272
-verso</ref>) dans un poème dédié à la Nymphe <persName ref="personnage_gg.xml#galathee">Galathée</persName>.</p>
-            </note>
-            <note xml:id="dis_2" n="2" ana="geographie">
-               <label>Dis</label>
-               <mentioned>Mentionné dans:<ref target="#2_dis">II</ref>, <ref target="#3_dis">III</ref></mentioned><p>
-<quote>Les <rs type="repertoire" ref="repertoire_gg.xml#2_gaulois">Gaulois</rs> se vantent d'être issus de <rs type="repertoire" ref="#2_dis">Dis</rs> Pater, tradition qu'ils disent
-tenir des druides</quote> (Jules <bibl source="bibliographie.xml#cesar">César</bibl>, Commentaires, VI, 6,
-§18). C'est une divinité assimilée à <rs type="repertoire" ref="repertoire_pp.xml#2_pluton">Pluton</rs>
-(<bibl source="bibliographie.xml#kruta">Kruta</bibl>, p.575).</p>
-               <p>
-<quote>Ce Dis <rs type="repertoire" ref="repertoire_ss.xml#2_samothes">Samothes</rs> constitué Roy de <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> par son
-aïeul Noé, ainsi que dit est, vint d'Arménie<note target="note_analyses.html#armenie"/> audit païs, l'an après le déluge quarantiesme et en
-print possession</quote> (Lemaire de Belges, cité par <bibl source="bibliographie.xml#gaumei">Gaume</bibl>,
-p.110). Lemaire de Belges donne la même généalogie que
-<bibl source="bibliographie.xml#le_fevre">Le
-Fèvre de la Boderie</bibl> (Voir <rs type="repertoire" ref="#2_druys">Druys</rs>):</p>
-               <p>
-                  <rs type="repertoire" ref="repertoire_ss.xml#2_samothes">Samothes</rs> —&gt; Magnus —&gt; Saron —&gt;
-Dryus</p>
-               <p>
-(<bibl source="bibliographie.xml#dubois">Dubois</bibl>, p.29). Les informations sur le
-druidisme qui circulaient au XVIesiècle viennent en grande partie des
-<emph>Antiquités</emph> d'Annius de
-Viterbe<note target="note_analyses.html#viterbe"/>, une compilation
-peu fiable.</p>
-               
-               <p>
-• Les druides enseignent que les Enfers sont le royaume de Dis
-(<ref target="../_roman/reference/21_2/21_2_livre_5.xml#298">II, 5,
-298</ref>); les <rs type="repertoire" ref="repertoire_qr.xml#2_romains">Romains</rs> l'ont donc assimilé à <rs type="repertoire" ref="repertoire_pp.xml#2_pluton">Pluton</rs>
-(<ref target="../_roman/reference/21_2/21_2_livre_8.xml#515">II, 8,
-515</ref>). Mais Dis serait un homme non un dieu (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#515">II, 8, 515</ref>).
-Il est venu en <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> par l'Océan <rs type="repertoire" ref="repertoire_aa.xml#2_armorique">Armorique</rs>
-(<ref target="../_roman/reference/21_2/21_2_livre_8.xml#508">II, 8,
-508</ref>) et il a donné leurs statuts aux druides (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#504">II, 8,
-504</ref>).</p>
-            </note>
-            <note xml:id="dis_3" n="3" ana="geographie">
-               <label>Dis</label>
-               <mentioned>Mentionné dans:<ref target="#2_dis">II</ref>, <ref target="#3_dis">III</ref></mentioned><p>
-• Dans la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName>, l'histoire des <rs type="repertoire" ref="repertoire_gg.xml#3_gaule">Gaules</rs> est
-peinte sur la voûte. On y voit en premier Dis Samothes (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
-verso</ref>). Voir <rs type="repertoire" ref="repertoire_ss.xml#3_samothes">Samothes</rs>.</p>
-            </note>
-            <note xml:id="doire_3" n="3" ana="geographie">
-               <label>Doire</label>
-               <mentioned>Mentionnée dans:<ref target="#3_doire">III</ref></mentioned><p>
-                  <bibl source="bibliographie.xml#guichenon_savoie">Guichenon</bibl> considérait que la Doire prenait le
-nom de Doire la Balte <quote>pour la differencier d'une autre
-petite rivière de mesme nom</quote> (I, p.21). Il signale une
-autre Doire qui passe par Suze (I, p.22). <quote>Une rivière
-dite la Doire longe, mais obliquement, toute la Vallée d'Aoste de
-l'Ouest au Sud-est. Cette rivière prend le nom de <rs type="repertoire" ref="#3_doire_baltee">Doire Baltée</rs> dès qu'elle
-associe ses eaux à celles du Buthier [...] à une petite distance de
-la Cité d'Aoste</quote>. Elle mouille les murs de la ville d'Ivrée
-avant de se jeter dans le Pô (<bibl source="bibliographie.xml#orsieres">Orsières</bibl>, pp.104 et 105). <bibl source="bibliographie.xml#strabon">Strabon</bibl>
-raconte que les chercheurs d'or de la Doire se disputent (VI,
-7).</p>
-               
-               <p>
-• Les <rs type="repertoire" ref="repertoire_ss.xml#3_salasses">Salasses</rs> trouvent de l'or dans cette rivière
-(<ref target="../_roman/reference/21_3/21_3_livre_7.xml#283_verso">III, 7, 283
-verso</ref>).</p>
-            </note>
-            <note xml:id="doire_baltee_3" n="3" ana="geographie">
-               <label>Doire Baltee</label>
-               <mentioned>Mentionnée dans:<ref target="#3_doire_baltee">III</ref></mentioned><p>
-• Le pays de <persName ref="personnage_cc.xml#3_criseide">Criséide</persName> est arrosé par la Doire Baltée (<ref target="../_roman/reference/21_3/21_3_livre_7.xml#283_verso">III, 7, 283
-verso</ref>), rivière qui traverse la ville d'<rs type="repertoire" ref="repertoire_ee.xml#3_eporedes">Éporèdes</rs>
-(<ref target="../_roman/reference/21_3/21_3_livre_7.xml#284_recto">III, 7, 284
-recto</ref>).</p>
-            </note>
-            <note xml:id="dragon" n="1" ana="geographie">
-               <label>Dragon</label>
-               <mentioned>Mentionné dans:<ref target="#dragon">I</ref></mentioned><p>
-Mythologie. Constellation. Chez certains mythographes, deux Nymphes
-auraient élevé le petit <rs type="repertoire" ref="repertoire_ik.xml#jupiter">Jupiter</rs>. Pour les protéger de l'ire de son père,
-le dieu les transforme en constellations, la <rs type="repertoire" ref="repertoire_no.xml#ourse_grande">Grande</rs> et
-la <rs type="repertoire" ref="repertoire_no.xml#ourse_petite">Petite Ourse</rs>, et se transforme lui-même en
-constellation du Dragon.</p>
-               
-               <p>
-• Ces groupes d'étoiles sont représentés dans l'<ref target="../_roman/reference/21_1/21_1_livre_11.xml#histoire_de_damon_et_de_fortune">Histoire
-de Damon et de Fortune</ref> racontée par le druide <persName ref="personnage_aa.xml#adamas">Adamas</persName> (<ref target="../_roman/reference/21_1/21_1_livre_11.xml#373_verso">I, 11, 373
-verso</ref>).</p>
-               
-               <p>
-• Voir la configuration du Dragon dans ce <ref target="http://www.constellationsofwords.com/images/dracp.jpg">site</ref> (23 février 2013), et dans ce <ref target="http://lamap93.free.fr/cours/lml/images/dragon.gif">site</ref> un dessin de toutes les constellations nommées
-dans <emph>L'Astrée</emph> (5 mai 2015).</p>
-            </note>
-            <note xml:id="dreux" n="1" ana="geographie">
-               <label>Dreux</label>
-               <mentioned>Mentionné dans:<ref target="#dreux">I</ref>, <ref target="#2_dreux">II</ref>, <ref target="#3_dreux">III</ref></mentioned><p>
-                  <note ana="variante">Ce nom de ville n'apparaît que dans
-l'édition anonyme de la première partie, en 1607.</note>
-               </p>
-               <p>
-• Dreux est à l'origine du nom des druides, dit <persName ref="personnage_gg.xml#galathee">Galathée</persName>
-(<ref target="../_roman/reference/21_1/21_1_livre_2.xml#30_recto">I,
-2, 30 recto</ref>).</p>
-            </note>
-            <note xml:id="dreux_2" n="2" ana="geographie">
-               <label>Dreux</label>
-               <mentioned>Mentionné dans:<ref target="#dreux">I</ref>, <ref target="#2_dreux">II</ref>, <ref target="#3_dreux">III</ref></mentioned><p>
-Les druides <quote>se trouv[aient] à certains jours de l'an, au
-pays Chartrain en un lieu consacré (on pense que ce soit à Dreux,
-d'autant que le nom approche de celuy des Druides)</quote> (<bibl source="bibliographie.xml#fauchetr">Fauchet</bibl>,
-f°6 verso). Les druides tiennent leurs Grands-jours dans
-<quote>la Cité que Drius nomma de son nom Dreux</quote> (<bibl source="bibliographie.xml#le_fevre">Le Fèvre de la
-Boderie</bibl>, Cercle III, vers 258).</p>
-               
-               <p>
-• Les druides, dit <persName ref="personnage_aa.xml#2_adamas">Adamas</persName>, se rassemblent à Dreux (<ref target="../_roman/reference/21_2/21_2_livre_10.xml#624">II, 10, 624</ref>
-et <ref target="../_roman/reference/21_2/21_2_livre_10.xml#668">II,
-10, 668</ref>).</p>
-            </note>
-            <note xml:id="dreux_3" n="3" ana="geographie">
-               <label>Dreux</label>
-               <mentioned>Mentionné dans:<ref target="#dreux">I</ref>, <ref target="#2_dreux">II</ref>, <ref target="#3_dreux">III</ref></mentioned><p>
-• <persName ref="personnage_aa.xml#3_alexis">Alexis</persName> est venue de Dreux (<ref target="../_roman/reference/21_3/21_3_livre_10.xml#442_verso">III, 10,
-442 verso</ref>), elle <quote>retournera à <rs type="repertoire" ref="#3_dreux">Dreux</rs>, ou vers les <rs type="repertoire" ref="repertoire_cc.xml#3_carnutes">Carnutes</rs></quote> (<ref target="../_roman/reference/21_3/21_3_livre_5.xml#184_verso">III, 5, 184
-verso</ref>), et <persName ref="personnage_aa.xml#3_astree">Astrée</persName> désire la suivre (<ref target="../_roman/reference/21_3/21_3_livre_11.xml#484_recto">III, 11,
-484 recto</ref>).</p>
-            </note>
-            <note xml:id="druys_2" n="2" ana="geographie">
-               <label>Druys</label>
-               <mentioned>Mentionné dans:<ref target="#2_druys">II</ref>, <ref target="#3_druys">III</ref></mentioned><p>
-               </p>
-               <p>
-Écrit aussi<emph>Dryus</emph>. <emph>Drius</emph> vient de <emph>chêne,</emph>
-rappelle <bibl source="bibliographie.xml#le_fevre">Le Fèvre de la Boderie</bibl> (Cercle III, v. 388) qui
-donne cette généalogie:</p>
-               <p>
-                  <rs type="repertoire" ref="repertoire_ss.xml#2_samothes">Samothes</rs> —&gt; Magnus —&gt; Saron —&gt;
-<rs type="repertoire" ref="#2_druys">Druys</rs>.</p>
-               <p>
-De Saron, qui <quote>fonda le premier les Universitez</quote>
-viennent les <term ref="glossaire_ss.xml#saronide">saronides</term> (<bibl source="bibliographie.xml#le_fevre">Le Fèvre de la Boderie</bibl>, Cercle III, v.
-9-11).</p>
-               <p>
-Druys <quote>commença son règne en 410 après le déluge</quote>
-(<bibl source="bibliographie.xml#dubois">Dubois</bibl>, p.50). Voir <rs type="repertoire" ref="#3_druys">Dryus</rs>.</p>
-               
-               <p>
-• Dans sa leçon de théologie, <persName ref="personnage_aa.xml#2_adamas">Adamas</persName> explique que Druys est le quatrième
-roi de <rs type="repertoire" ref="repertoire_gg.xml#2_gaule">Gaule</rs> après <rs type="repertoire" ref="#2_dis">Dis</rs>
-                  <rs type="repertoire" ref="repertoire_ss.xml#2_samothes">Samothes</rs> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#509">II, 8, 509</ref>).
-Il a institué les druides (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#504">II, 8, 504</ref>) et
-leur a donné son nom. Certains pensent que ce nom signifie
-<emph>chêne</emph>; il signifie <emph>contemplateur</emph> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#509">II, 8, 509</ref>).
-Druys a enseigné aux hommes comment adorer Dieu (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#510">II, 8, 510</ref>)
-sans l'enfermer dans une image ou dans un temple (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#513">II, 8, 513</ref>).
-Druys vint jadis à <rs type="repertoire" ref="repertoire_mm.xml#2_montverdun">Montverdun</rs> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#493">II, 8,
-493</ref>).</p>
-               
-               <p>
-                  <note ana="remarque">La phrase <quote>il pensa estre à
-propos d'en laisser quelque marque à la posterité</quote> (<ref target="../_roman/reference/21_2/21_2_livre_8.xml#493">II, 8, 493</ref>)
-pourrait signifier que Druys a fondé à <rs type="repertoire" ref="repertoire_mm.xml#2_montverdun">Montverdun</rs>
-le temple à trois portes où une druide rend des oracles.</note>
-               </p>
-            </note>
-            <note xml:id="druys_3" n="3" ana="geographie">
-               <label>Druys</label>
-               <mentioned>Mentionné dans:<ref target="#2_druys">II</ref>, <ref target="#3_druys">III</ref></mentioned><p>
-               </p>
-               <p>
-• Celui qui a institué l'ordre des druides est représenté sur la
-voûte de la demeure d'<persName ref="personnage_aa.xml#3_adamas">Adamas</persName> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#58_verso">III, 3, 58
-verso</ref>). Il s'agit de <rs type="repertoire" ref="#2_druys">Druys</rs>.</p>
-            </note>
-            <note xml:id="dryades" n="1" ana="mythologie">
-               <label>Dryades</label>
-               <mentioned>Mentionnées dans:<ref target="#dryades">I</ref>,
-<ref target="#3_dryades">III</ref>, <ref target="#4_dryades">IV</ref></mentioned><p>
-Mythologie. Divinités secondaires qui font partie de la classe des
-Nymphes souvent suivantes de grandes déesses. Les mythologues
-divisent les Nymphes selon leur lieu de résidence. Les Dryades
-vivent dans les forêts et sont associées aux chênes.</p>
-               
-               <p>
-• Chez d'Urfé, les Dryades sont des compagnes de la déesse <rs type="repertoire" ref="#diane_m">Diane</rs> qui vivent dans des bois et
-des montagnes où se trouvent de grandes étendues d'eau (<ref target="../_roman/reference/21_1/21_1_livre_2.xml#30_recto">I, 2, 30
-recto</ref>) avec les <rs type="repertoire" ref="repertoire_aa.xml#amadryades">Hamadryades</rs> et les <rs type="repertoire" ref="repertoire_no.xml#nayades">Naïades</rs>.</p>
-            </note>
-            <note xml:id="dryades_3" n="3" ana="mythologie">
-               <label>Dryades</label>
-               <mentioned>Mentionnées dans:<ref target="#dryades">I</ref>, <ref target="#3_dryades">III</ref>, <ref target="#4_dryades">IV</ref></mentioned><p>
-Honoré d'Urfé ne distingue toujours pas les catégories de nymphes.
-À la fin de <bibl source="bibliographie.xml#sylvanire">
-                     <emph>La Sylvanire</emph>
-                  </bibl> aussi, il se contente
-d'énumérerles divinités champêtres:</p>
-               <p>
-<quote>Les <rs type="repertoire" ref="repertoire_pp.xml#3_pan">Pans</rs>, les
-<rs type="repertoire" ref="repertoire_ee.xml#3_egipans">Égipans</rs>,<lb/>              
-Les Nymphes, les Dryades</quote> (v.
-9291-9292).</p>
-               
-               <p>
-• <rs type="repertoire" ref="repertoire_no.xml#3_nayades">Naïades</rs>, Dryades, et <rs type="repertoire" ref="repertoire_no.xml#3_napees">Napées</rs>
-fréquentent les rives du <rs type="repertoire" ref="repertoire_ll.xml#3_lignon">Lignon</rs> dans la préface, <ref target="../_roman/reference/21_3/21_3_liminaires.xml#3_autheur_lignon">
-                     <emph>
-l'Autheur à la rivière de Lignon</emph>
-                  </ref>.</p>
-            </note>
-            <note xml:id="dryades_4" n="4" ana="geographie">
-               <label>Dryades</label>
-               <mentioned>Mentionnées dans:<ref target="#dryades">I</ref>, <ref target="#3_dryades">III</ref>, <ref target="#4_dryades">IV</ref></mentioned><p>
-               </p>
-               <p>
-• Pendant les <rs type="repertoire" ref="repertoire_bb.xml#4_bacchanales">Bacchanales</rs>, <persName ref="personnage_cc.xml#4_clotilde">Clotilde</persName> et ses suivantes vont
-s'habiller en <quote><rs type="repertoire" ref="repertoire_dd.xml#4_dryades">Dryades</rs>, <rs type="repertoire" ref="repertoire_no.xml#4_napees">Nappees</rs> et
-<rs type="repertoire" ref="repertoire_no.xml#4_nayades">Nayades</rs></quote>. <persName ref="personnage_gg.xml#4_gondebaud">Gondebaud</persName>
-les surprend pendant qu'elles se déguisent (<ref target="../_roman/reference/24_4/24_4_livre_4.xml#654">IV, 4,
-654</ref>).</p>
-            </note>
-            <note xml:id="durance" n="1" ana="geographie">
-               <label>Durance</label>
-               <mentioned>Mentionnée dans:<ref target="#durance">I</ref>,
-<ref target="#3_durance">III</ref></mentioned><p>
-Fleuve des <rs type="repertoire" ref="repertoire_aa.xml#alpes">Alpes</rs> qui se jette dans le <rs type="repertoire" ref="repertoire_qr.xml#rhone">Rhône</rs>.</p>
-               
-               <p>
-•<persName ref="personnage_hh.xml#hylas">Hylas</persName> le nomme en parlant de la <rs type="repertoire" ref="repertoire_cc.xml#camargue">Camargue</rs>
-(<ref target="../_roman/reference/21_1/21_1_livre_8.xml#243_verso">I,
-8, 243 verso</ref>).</p>
-            </note>
-            <note xml:id="durance_3" n="3" ana="geographie">
-               <label>Durance</label>
-               <mentioned>Mentionnée dans:<ref target="#durance">I</ref>, <ref target="#3_durance">III</ref></mentioned><p>
-Le <rs type="repertoire" ref="repertoire_qr.xml#3_rhone">Rhône</rs> mesure plus de 800 kilomètres, et la Durance
-plus de 300. La <rs type="repertoire" ref="repertoire_ss.xml#3_sorgues">Sorgues</rs> qui sort de la fontaine de <rs type="repertoire" ref="repertoire_uz.xml#3_vaucluse">Vaucluse</rs>
-mesure moins de 40 kilomètres. <bibl source="bibliographie.xml#petrarque_sans_titre">Pétrarque</bibl>, dans ses <emph>Lettres sans
-titre</emph>, considère que la Durance, <quote>fleuve rapide et
-dangereux</quote>, doit son nom à <quote>la dureté</quote> des eaux
-et des riverains (p.31).</p>
-               <p>
-• Dans sa vision, <persName ref="personnage_aa.xml#3_alcidon">Alcidon</persName> entend les nymphes de la fontaine de la
-<rs type="repertoire" ref="repertoire_ss.xml#3_sorgues">Sorgues</rs> se plaindre de ne pas nager dans <quote>le
-large sein du <rs type="repertoire" ref="repertoire_qr.xml#3_rhone">Rosne</rs> et de la Durance</quote> (<ref target="../_roman/reference/21_3/21_3_livre_3.xml#101_verso">III, 3, 101
-verso</ref>).</p>
+            <note xml:id="k" ana="geographie">
+               <label>K</label>
+               <p>Aucune entrée ne commence par K.</p>
             </note>
          </div>
       </body>
